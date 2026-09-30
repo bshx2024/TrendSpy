@@ -230,6 +230,7 @@ app.post("/api/scan", (req, res) => {
   try {
     activeProcess = spawn(cmd, args, {
       cwd: __dirname,
+      shell: true,
       env: { ...process.env, FORCE_COLOR: "0" }
     });
 
