@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TrendSpy · 全球新词雷达与流量套利 SaaS 控制台</title>
+  <meta name="description" content="基于 Google Trends 标尺量化、GitHub 与 Reddit 多源情报的全球新词与出海流量套利 SaaS 决策平台">
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <!-- Markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-left">
+      <div class="brand-logo">
+        <div class="logo-icon">⚡</div>
+        <div class="brand-text">
+          <span class="brand-title">TrendSpy <span class="badge-version">SaaS 3.0</span></span>
+          <span class="brand-subtitle">全球新词雷达 · 流量套利决策中心</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="header-center">
+      <div class="pipeline-status-pill" id="statusPill">
+        <span class="status-dot" id="statusDot"></span>
+        <span class="status-text" id="statusText">系统待命 (Idle)</span>
+      </div>
+    </div>
+
+    <div class="header-right">
+      <button class="btn btn-secondary" id="btnRefresh" title="重新从数据库拉取最新数据">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.3"/></svg>
+        刷新数据
+      </button>
+
+      <button class="btn btn-primary" id="btnOpenScanModal">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+        立即执行扫描
+      </button>
+
+      <button class="btn btn-icon" id="btnOpenLogs" title="打开实时终端日志">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-layout">
+    <!-- Top KPI Cards -->
+    <section class="kpi-grid" id="kpiGrid">
+      <div class="kpi-card card-glow-cyan">
+        <div class="kpi-header">
+          <span class="kpi-title">爆发新词 (Breakouts)</span>
+          <span class="kpi-badge badge-cyan">🔥 飙升 &gt;5000%</span>
+        </div>
+        <div class="kpi-value" id="kpiBreakouts">--</div>
+        <div class="kpi-footer">首次爆发，黄金入场窗口期</div>
+      </div>
+
+      <div class="kpi-card card-glow-purple">
+        <div class="kpi-header">
+          <span class="kpi-title">老词二次爆火 (Re-Surging)</span>
+          <span class="kpi-badge badge-purple">📈 二次拉升</span>
+        </div>
+        <div class="kpi-value" id="kpiReSurging">--</div>
+        <div class="kpi-footer">历史沉淀后再次破圈</div>
+      </div>
+
+      <div class="kpi-card card-glow-emerald">
+        <div class="kpi-header">
+          <span class="kpi-title">核验套利机会 (Arbitrage)</span>
+          <span class="kpi-badge badge-emerald">💎 可落地</span>
+        </div>
+        <div class="kpi-value" id="kpiArbitrage">--</div>
+        <div class="kpi-footer">带 EMD 域名与 C 端产品化方案</div>
+      </div>
+
+      <div class="kpi-card card-glow-amber">
+        <div class="kpi-header">
+          <span class="kpi-title">监控实体 &amp; 标尺覆盖</span>
+          <span class="kpi-badge badge-amber">⚖️ GPTs 标尺</span>
+        </div>
+        <div class="kpi-value" id="kpiEntities">--</div>
+        <div class="kpi-footer">覆盖 AI生图、视频、LLM等核心赛道</div>
+      </div>
+
+      <div class="kpi-card card-glow-rose">
+        <div class="kpi-header">
+          <span class="kpi-title">全网实时多源数据</span>
+          <span class="kpi-badge badge-rose">📡 3 大源</span>
+        </div>
+        <div class="kpi-value" id="kpiMultiSource">--</div>
+        <div class="kpi-footer">Google Trending + GitHub + Reddit</div>
+      </div>
+    </section>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs" role="tablist">
+      <button class="nav-tab active" data-tab="tab-breakouts">
+        <span class="tab-icon">🚀</span> 爆发新词与标尺量化
+        <span class="tab-pill" id="pillBreakoutsCount">0</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-arbitrage">
+        <span class="tab-icon">🎯</span> 流量套利与产品机会
+        <span class="tab-pill" id="pillArbitrageCount">0</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-platforms">
+        <span class="tab-icon">📡</span> 多源监控实时情报
+        <span class="tab-pill" id="pillPlatformsCount">3 源</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-reports">
+        <span class="tab-icon">📑</span> 决策研报中心
+        <span class="tab-pill" id="pillReportsCount">0</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-seeds">
+        <span class="tab-icon">⚙️</span> 核心实体种子库
+        <span class="tab-pill" id="pillSeedsCount">0</span>
+      </button>
+    </nav>
+
+    <!-- Tab 1: 爆发新词与标尺量化 -->
+    <section class="tab-pane active" id="tab-breakouts">
+      <!-- Filter Bar -->
+      <div class="filter-bar">
+        <div class="filter-group">
+          <span class="filter-label">生命周期:</span>
+          <button class="filter-chip active" data-stage="all">全部</button>
+          <button class="filter-chip" data-stage="breakout">🔥 首次爆发</button>
+          <button class="filter-chip" data-stage="resurging">📈 二次爆火</button>
+          <button class="filter-chip" data-stage="highgrowth">⚡ 高涨幅上升</button>
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label">赛道分类:</span>
+          <select class="custom-select" id="breakoutCategorySelect">
+            <option value="all">全部赛道 (All Categories)</option>
+            <option value="AI视频与生图">AI视频与生图</option>
+            <option value="大语言模型与代码助手">大语言模型与代码助手</option>
+            <option value="AI音频与音乐">AI音频与音乐</option>
+            <option value="出海B2C与社媒神器">出海B2C与社媒神器</option>
+          </select>
+        </div>
+
+        <div class="search-box">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="breakoutSearchInput" placeholder="输入搜索词、实体或变体..." autocomplete="off">
+        </div>
+      </div>
+
+      <!-- Breakouts Grid -->
+      <div class="breakouts-grid" id="breakoutsContainer">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+
+    <!-- Tab 2: 流量套利与产品机会 -->
+    <section class="tab-pane" id="tab-arbitrage">
+      <div class="filter-bar">
+        <div class="filter-group">
+          <span class="filter-label">决策状态:</span>
+          <button class="filter-chip active" data-arb-status="all">全部</button>
+          <button class="filter-chip" data-arb-status="accepted">✅ 极具套利价值 (Actionable)</button>
+          <button class="filter-chip" data-arb-status="declining">📉 拦截过气词 (Declining)</button>
+        </div>
+
+        <div class="search-box">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="arbitrageSearchInput" placeholder="搜索关键词、域名建议或方案..." autocomplete="off">
+        </div>
+      </div>
+
+      <div class="arbitrage-grid" id="arbitrageContainer">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+
+    <!-- Tab 3: 多源监控实时情报 -->
+    <section class="tab-pane" id="tab-platforms">
+      <div class="subtabs-bar">
+        <button class="subtab-btn active" data-subtab="subtab-google">
+          🌐 Google Trends 每日飙升榜 (US) <span class="badge-sm" id="badgeGoogleCount">0</span>
+        </button>
+        <button class="subtab-btn" data-subtab="subtab-github">
+          🐙 GitHub 敏捷爆款项目库 <span class="badge-sm" id="badgeGithubCount">0</span>
+        </button>
+        <button class="subtab-btn" data-subtab="subtab-reddit">
+          💬 Reddit 独立开发讨论版块 <span class="badge-sm" id="badgeRedditCount">0</span>
+        </button>
+      </div>
+
+      <!-- Google Subtab -->
+      <div class="subtab-pane active" id="subtab-google">
+        <div class="data-table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>搜索关键词</th>
+                <th>估算日搜索量</th>
+                <th>发布时间</th>
+                <th>数据源</th>
+                <th>快速分析</th>
+              </tr>
+            </thead>
+            <tbody id="googleTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- GitHub Subtab -->
+      <div class="subtab-pane" id="subtab-github">
+        <div class="github-repos-grid" id="githubContainer">
+          <!-- Rendered by JS -->
+        </div>
+      </div>
+
+      <!-- Reddit Subtab -->
+      <div class="subtab-pane" id="subtab-reddit">
+        <div class="reddit-posts-grid" id="redditContainer">
+          <!-- Rendered by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 4: 决策研报中心 -->
+    <section class="tab-pane" id="tab-reports">
+      <div class="reports-layout">
+        <!-- Reports Sidebar List -->
+        <div class="reports-sidebar">
+          <div class="sidebar-header">
+            <h3>📑 已生成决策研报</h3>
+            <span class="reports-count-label" id="reportsCountLabel">0 篇</span>
+          </div>
+          <div class="reports-list" id="reportsList">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+
+        <!-- Report Content Viewer -->
+        <div class="report-viewer-card">
+          <div class="viewer-header">
+            <div class="viewer-meta">
+              <h2 id="viewerTitle">选择一篇研报查看</h2>
+              <span class="viewer-time" id="viewerTime">--</span>
+            </div>
+            <div class="viewer-actions">
+              <button class="btn btn-sm btn-secondary" id="btnCopyReport">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                复制全文
+              </button>
+            </div>
+          </div>
+          <div class="markdown-body" id="reportContentArea">
+            <div class="empty-state">请从左侧列表选择一份研报进行深度阅读</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 5: 核心实体种子库 -->
+    <section class="tab-pane" id="tab-seeds">
+      <div class="filter-bar">
+        <div class="filter-group">
+          <span class="filter-label">赛道筛选:</span>
+          <select class="custom-select" id="seedCategorySelect">
+            <option value="all">全部生态赛道</option>
+            <option value="AI视频与生图">AI视频与生图</option>
+            <option value="大语言模型与代码助手">大语言模型与代码助手</option>
+            <option value="AI音频与音乐">AI音频与音乐</option>
+            <option value="出海B2C与社媒神器">出海B2C与社媒神器</option>
+          </select>
+        </div>
+        <div class="search-box">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="seedSearchInput" placeholder="搜索种子实体、品牌名称..." autocomplete="off">
+        </div>
+      </div>
+
+      <div class="seeds-grid" id="seedsContainer">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+  </main>
+
+  <!-- Scan Execution Modal -->
+  <div class="modal-overlay" id="scanModal">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div class="modal-title">
+          <span class="modal-icon">🚀</span>
+          <h3>启动全自动扫描流水线</h3>
+        </div>
+        <button class="modal-close" id="btnCloseScanModal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <p class="modal-desc">请选择要执行的情报探测与量化流水线：</p>
+
+        <div class="pipeline-options">
+          <label class="pipeline-option active">
+            <input type="radio" name="pipelineChoice" value="newtrend" checked>
+            <div class="option-content">
+              <div class="option-header">
+                <span class="option-name">NewTrend 3.0 流水线 (推荐)</span>
+                <span class="badge-cyan">高精度标尺</span>
+              </div>
+              <p class="option-desc">扫描 28+ 核心 AI 实体种子库，Google Chrome 实时下拉探针捕获爆发新词，并通过 Google Trends 对齐 GPTs 黄金标尺计算量化倍率与生命周期。</p>
+            </div>
+          </label>
+
+          <label class="pipeline-option">
+            <input type="radio" name="pipelineChoice" value="radar">
+            <div class="option-content">
+              <div class="option-header">
+                <span class="option-name">Radar 2.0 多源套利流水线</span>
+                <span class="badge-purple">多源全网扫描</span>
+              </div>
+              <p class="option-desc">抓取 GitHub 敏捷爆发代码库 + Google 官方实时飙升榜 (RSS)，逆向 C 端自传播意图，核验 EMD 域名与套利落地性。</p>
+            </div>
+          </label>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-secondary" id="btnCancelScan">取消</button>
+        <button class="btn btn-primary" id="btnConfirmScan">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+          立即开始执行
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Live Terminal Logs Drawer / Modal -->
+  <div class="terminal-drawer" id="terminalDrawer">
+    <div class="terminal-header">
+      <div class="terminal-title">
+        <span class="terminal-dot green"></span>
+        <span class="terminal-dot yellow"></span>
+        <span class="terminal-dot red"></span>
+        <span class="terminal-name">TrendSpy 实时扫描控制台</span>
+        <span class="terminal-badge" id="terminalStatusBadge">IDLE</span>
+      </div>
+      <div class="terminal-actions">
+        <button class="btn btn-xs btn-danger" id="btnStopScan" style="display:none;">终止流水线</button>
+        <button class="btn btn-xs btn-secondary" id="btnClearLogs">清屏</button>
+        <button class="btn btn-xs btn-secondary" id="btnCloseDrawer">收起</button>
+      </div>
+    </div>
+    <div class="terminal-body" id="terminalLogArea">
+      <div class="log-line system">[TrendSpy Console Ready] 等待执行流水线指令...</div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

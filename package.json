@@ -1,0 +1,36 @@
+{
+  "name": "trendspy",
+  "version": "2.0.0",
+  "description": "Traffic Arbitrage Radar - Catch viral keywords and B2C tools from GitHub & Reddit with benchmark validation",
+  "type": "module",
+  "scripts": {
+    "start": "tsx server.ts",
+    "web": "tsx server.ts",
+    "newtrend": "tsx run_newtrend_pipeline.ts",
+    "radar": "tsx run_newtrend_pipeline.ts",
+    "fetch:entity": "tsx fetch_entity_trends.ts",
+    "fetch:github": "tsx fetch_github.ts",
+    "fetch:reddit": "tsx fetch_reddit.ts",
+    "benchmark": "tsx benchmark_engine.ts",
+    "report": "tsx generate_newtrend_report.ts",
+    "report:benchmark": "tsx generate_benchmark_report.ts"
+  },
+  "keywords": [
+    "traffic-arbitrage",
+    "seo",
+    "trends",
+    "radar",
+    "growth-hacking"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "tsx": "^4.23.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
