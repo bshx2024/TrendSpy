@@ -1,0 +1,55 @@
+name: TrendSpy Auto-Cruise & Sync
+
+on:
+  # 定时任务：每天执行 2 次 (北京时间 08:00 和 20:00)
+  schedule:
+    - cron: '0 0,12 * * *'
+  
+  # 支持在 GitHub Actions 页面随时手动一键触发执行
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-cruise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: 检出仓库代码 (Checkout Repo)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 配置 Node.js 20 运行环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: 安装项目依赖 (Install Dependencies)
+        run: |
+          npm ci || npm install
+
+      - name: 执行全自动新词探测与量化流水线 (Run Cron Scan)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm run cron
+
+      - name: 提交更新数据并推送到 GitHub (Commit & Push to Main)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/ reports/
+
+          if git diff --staged --quiet; then
+            echo "✔ 本轮扫描数据无新变动，无需提交。"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "chore(auto-cruise): sync latest trends data & reports ($TIMESTAMP) [skip ci]"
+            git push origin main
+            echo "🚀 成功推送最新数据至 main！Vercel 正在自动重新部署..."
+          fi
