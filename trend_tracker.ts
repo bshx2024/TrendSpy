@@ -102,6 +102,16 @@ export class TrendTracker {
     }
 
     // 已有历史记录：判断是否为老词二次爆火
+    // 如果已有记录的首次日期是今天（之前兜底记的），但现在通过时序探针拿到了更准的早期抬头日，立即矫正！
+    if (params.firstSeenEstimate && params.firstSeenEstimate !== todayStr) {
+      if (!existing.firstSeenDate || existing.firstSeenDate === todayStr || existing.firstSeenDate === "近期") {
+        existing.firstSeenDate = params.firstSeenEstimate;
+        if (params.breakoutEstimate) {
+          existing.breakoutDate = params.breakoutEstimate;
+        }
+      }
+    }
+
     const daysSinceFirstSeen = Math.floor(
       (new Date(todayStr).getTime() - new Date(existing.firstSeenDate).getTime()) / (1000 * 3600 * 24)
     );

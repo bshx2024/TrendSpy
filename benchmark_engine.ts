@@ -193,13 +193,20 @@ export async function runBenchmarkEngine(
         momentum = compareRes.currentMomentum.replace(/[^一-龟a-zA-Z]/g, "") || "上升中";
         firstSeen = compareRes.firstSeenEstimate;
         breakout = compareRes.breakoutEstimate;
-      } else {
-        // Fallback: 使用 Google Suggest 探针计算需求强度
-        const probe = await probeGoogleDemand(item.query);
-        ratio = probe.hasRealDemand ? Math.max(0.3, (probe.demandScore / 100) * 0.8) : 0.05;
       }
-    } catch {
-      ratio = item.isBreakout ? 0.35 : 0.1;
+    } catch {}
+
+    // 关键优化：如果 compareRes 对比报错或未拿到首发时间，启用独立单词时序探针追溯真实抬头日
+    if (!firstSeen) {
+      try {
+        const singleTimeline = await trendsClient.fetchSingleTimeline(item.query, "today 1-m");
+        if (singleTimeline && singleTimeline.firstSeenEstimate) {
+          firstSeen = singleTimeline.firstSeenEstimate;
+          breakout = singleTimeline.breakoutEstimate;
+          if (singleTimeline.peakTarget > 0) peak = singleTimeline.peakTarget;
+          momentum = singleTimeline.currentMomentum.replace(/[^一-龟a-zA-Z]/g, "") || momentum;
+        }
+      } catch {}
     }
 
     const record = trendTracker.trackKeyword({

@@ -291,6 +291,104 @@ export class GoogleTrendsClient {
   }
 
   /**
+   * 独立单词 30 天时序探针 (用于准确追溯该词真实从 0 抬头的首发日)
+   */
+  public async fetchSingleTimeline(
+    targetKeyword: string,
+    period = "today 1-m"
+  ): Promise<{
+    peakTarget: number;
+    firstSeenEstimate: string;
+    breakoutEstimate: string;
+    currentMomentum: "上升中 ↗️" | "高位维持 ➡️" | "回落中 ↘️" | "底部沉睡 💤";
+    timeline: { time: string; formattedTime: string; value: number }[];
+  } | null> {
+    try {
+      const widgets = await this.fetchExploreWidgets([{ keyword: targetKeyword, time: period }]);
+      const timeseriesWidget = widgets.find((w: any) => w.id === "TIMESERIES");
+      if (!timeseriesWidget) return null;
+
+      const cookies = await this.getSessionCookies();
+      const multilineUrl = `https://trends.google.com/trends/api/widgetdata/multiline?hl=en-US&tz=-480&req=${encodeURIComponent(
+        JSON.stringify(timeseriesWidget.request)
+      )}&token=${encodeURIComponent(timeseriesWidget.token)}`;
+
+      const res = await fetch(multilineUrl, {
+        headers: {
+          "User-Agent": this.USER_AGENT,
+          Cookie: cookies,
+          Referer: "https://trends.google.com/trends/explore"
+        }
+      });
+
+      if (!res.ok) return null;
+
+      const text = await res.text();
+      const cleanJson = text.replace(/^\)\]\}',?\s*/, "");
+      const parsed = JSON.parse(cleanJson);
+      const rawTimeline = parsed.default?.timelineData || [];
+
+      let peakTarget = 0;
+      const targetValues: number[] = [];
+      const timeline: { time: string; formattedTime: string; value: number }[] = [];
+
+      let firstSeenDate = "";
+      let breakoutDate = "";
+
+      for (const point of rawTimeline) {
+        const valTarget = point.value?.[0] || 0;
+        if (valTarget > peakTarget) peakTarget = valTarget;
+
+        targetValues.push(valTarget);
+        const fTime = point.formattedAxisTime || point.formattedTime || "";
+        timeline.push({
+          time: point.time,
+          formattedTime: fTime,
+          value: valTarget
+        });
+
+        // 首次抬头估计 (首次 > 0)
+        if (!firstSeenDate && valTarget > 0) {
+          firstSeenDate = fTime;
+        }
+        // 爆发点估计 (首次达到峰值的 40% 或 >= 20)
+        if (!breakoutDate && valTarget >= 20) {
+          breakoutDate = fTime;
+        }
+      }
+
+      // 走势斜率计算 (近 5 天)
+      const last5 = targetValues.slice(-5);
+      let momentum: "上升中 ↗️" | "高位维持 ➡️" | "回落中 ↘️" | "底部沉睡 💤" = "底部沉睡 💤";
+
+      if (last5.length > 0) {
+        const diff = last5[last5.length - 1] - last5[0];
+        const recentAvg = last5.reduce((a, b) => a + b, 0) / last5.length;
+
+        if (recentAvg < 3) {
+          momentum = "底部沉睡 💤";
+        } else if (diff >= 10) {
+          momentum = "上升中 ↗️";
+        } else if (diff <= -10) {
+          momentum = "回落中 ↘️";
+        } else {
+          momentum = "高位维持 ➡️";
+        }
+      }
+
+      return {
+        peakTarget,
+        firstSeenEstimate: firstSeenDate,
+        breakoutEstimate: breakoutDate || firstSeenDate,
+        currentMomentum: momentum,
+        timeline
+      };
+    } catch {
+      return null;
+    }
+  }
+
+  /**
    * 12 个月历史基线探针 (Evergreen vs True Emerging Filter)
    * 检查过去 12 个月中前 75% 时间段（即 3~12 个月前）的历史平均热度
    * 如果前 75% 时间平均热度 >= 15，说明是存在多年的常青老词 (Evergreen)；
