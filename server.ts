@@ -190,6 +190,14 @@ app.get("/api/reports/:filename", (req, res) => {
 
 // 9. 启动全自动扫描流水线 API
 app.post("/api/scan", (req, res) => {
+  if (process.env.VERCEL) {
+    return res.json({
+      success: true,
+      isVercel: true,
+      message: "当前处于 Vercel 云端托管模式：GitHub Actions 已配置每日全自动定时巡航！若需立即云端触发，可在 GitHub 仓库 Actions 页面点击「Run workflow」。"
+    });
+  }
+
   const { pipeline } = req.body; // 'newtrend' | 'radar'
   if (scanState.isScanning) {
     return res.status(409).json({
@@ -327,10 +335,15 @@ app.get("/api/scan/stream", (req, res) => {
   });
 });
 
-app.listen(PORT, () => {
-  console.log(`\n========================================================`);
-  console.log(`🚀 TrendSpy Web SaaS 控制台已启动！`);
-  console.log(`🌐 访问地址: http://localhost:${PORT}`);
-  console.log(`📡 API 文档及数据监控服务已就绪`);
-  console.log(`========================================================\n`);
-});
+if (!process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`\n========================================================`);
+    console.log(`🚀 TrendSpy Web SaaS 控制台已启动！`);
+    console.log(`🌐 访问地址: http://localhost:${PORT}`);
+    console.log(`📡 API 文档及数据监控服务已就绪`);
+    console.log(`========================================================\n`);
+  });
+}
+
+export default app;
+export { app };
