@@ -245,9 +245,13 @@ export async function runBenchmarkEngine(
       } catch {}
     }
 
-    const finalStage = isEvergreen ? "常青大盘老词" : record.lifecycleStage;
-
-    const qTarget = encodeURIComponent(item.query);
+    let finalStage = isEvergreen ? "常青大盘老词" : record.lifecycleStage;
+    // 严苛防接盘：如果势能处于沉睡、或冲顶后近两周归零，强制标为过气阴跌
+    if (momentum.includes("沉睡") || (momentum.includes("回落") && ratio <= 0.1) || record.lifecycleStage === "过气阴跌") {
+      finalStage = "过气阴跌";
+      record.lifecycleStage = "过气阴跌";
+      record.suggestedAction = "【严禁接盘】该词冲顶后热度已断崖式跌平，当前大盘彻底沉寂，无持续套利红利！";
+    }
     const qCompare = `${qTarget},${encodeURIComponent(GOLDEN_BENCHMARK)}`;
     const trendsExploreUrl = `https://trends.google.com/trends/explore?date=today%201-m&q=${qCompare}`;
     const serpUrl = `https://www.google.com/search?q=${qTarget}`;

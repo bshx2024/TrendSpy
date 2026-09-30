@@ -77,11 +77,18 @@ export class TrendTracker {
     const todayStr = new Date().toISOString().split("T")[0];
     const existing = this.db.records[key];
 
-    if (!existing) {
       // 首次出现的新词
       const firstSeen = params.firstSeenEstimate || todayStr;
       const breakout = params.isBreakout ? (params.breakoutEstimate || todayStr) : "";
-      const stage = params.isBreakout || params.ratio >= 0.3 ? "新词首次爆发" : "高涨幅上升词";
+      let stage: StoredKeywordRecord["lifecycleStage"] = params.isBreakout || params.ratio >= 0.3 ? "新词首次爆发" : "高涨幅上升词";
+
+      // 严查“虚假爆发”：如果首次爆发点已过去超过 10 天，且当前比率极低，直接归入过气阴跌
+      if (firstSeen && firstSeen !== todayStr) {
+        const daysAgo = Math.floor((new Date(todayStr).getTime() - new Date(firstSeen).getTime()) / (1000 * 3600 * 24));
+        if (daysAgo >= 10 && params.ratio <= 0.1) {
+          stage = "过气阴跌";
+        }
+      }
 
       const newRecord: StoredKeywordRecord = {
         keyword: params.keyword,
@@ -118,11 +125,16 @@ export class TrendTracker {
 
     let stage: StoredKeywordRecord["lifecycleStage"] = existing.lifecycleStage;
 
-    // 如果该词首次记录已经超过 7 天，且之前热度曾回落，现在重新突破
-    if (daysSinceFirstSeen >= 7 && (params.isBreakout || params.ratio > existing.latestRatio * 1.5)) {
+    // 严防死词/过气词：如果历史峰值曾达到较高水平，但当前比率大幅跳水（跌幅超 60%）或长期归零
+    const ratioCrash = existing.peakRatio >= 0.1 && params.ratio <= existing.peakRatio * 0.4;
+    const isOutdatedSpike = daysSinceFirstSeen >= 7 && params.ratio <= 0.1;
+
+    if (ratioCrash || isOutdatedSpike) {
+      stage = "过气阴跌";
+    } else if (daysSinceFirstSeen >= 7 && (params.isBreakout || params.ratio > existing.latestRatio * 1.5)) {
       stage = "老词二次爆火";
     } else if (existing.lifecycleStage === "新词首次爆发") {
-      stage = "新词首次爆发";
+      stage = daysSinceFirstSeen >= 7 ? "过气阴跌" : "新词首次爆发";
     } else if (params.isBreakout || params.ratio >= 0.3) {
       stage = "高涨幅上升词";
     }

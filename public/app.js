@@ -273,14 +273,18 @@ function renderBreakouts() {
 
   const { newBreakouts = [], reSurging = [], highGrowthList = [] } = state.breakoutsData;
 
-  if (stage === "all" || stage === "breakout") {
-    items.push(...newBreakouts);
-  }
-  if (stage === "all" || stage === "resurging") {
+  if (stage === "all") {
+    items.push(...newBreakouts, ...reSurging, ...highGrowthList);
+  } else if (stage === "breakout") {
+    items.push(...newBreakouts.filter(i => !i.lifecycleStage?.includes("过气")));
+  } else if (stage === "resurging") {
     items.push(...reSurging);
-  }
-  if (stage === "all" || stage === "highgrowth") {
-    items.push(...highGrowthList);
+  } else if (stage === "highgrowth") {
+    items.push(...highGrowthList.filter(i => !i.lifecycleStage?.includes("过气")));
+  } else if (stage === "declining") {
+    // 专门展示过气/已熄灭/防接盘词汇
+    const all = [...newBreakouts, ...reSurging, ...highGrowthList];
+    items.push(...all.filter(i => i.lifecycleStage?.includes("过气") || i.currentMomentum?.includes("过气") || i.currentMomentum?.includes("沉睡")));
   }
 
   // 过滤分类与搜索
@@ -313,10 +317,12 @@ function renderBreakouts() {
     let stageClass = "stage-breakout";
     if (item.lifecycleStage?.includes("二次")) stageClass = "stage-resurging";
     else if (item.lifecycleStage?.includes("上升")) stageClass = "stage-highgrowth";
+    else if (item.lifecycleStage?.includes("过气")) stageClass = "stage-declining";
 
     const isMomentumUp = item.currentMomentum?.includes("上升") || item.currentMomentum?.includes("爆发");
-    const momentumClass = isMomentumUp ? "momentum-up" : "momentum-down";
-    const momentumArrow = isMomentumUp ? "↑" : "↓";
+    const isDeclining = item.currentMomentum?.includes("回落") || item.currentMomentum?.includes("过气") || item.currentMomentum?.includes("沉睡");
+    const momentumClass = isMomentumUp ? "momentum-up" : (isDeclining ? "momentum-down" : "");
+    const momentumArrow = isMomentumUp ? "↑" : (isDeclining ? "↓" : "→");
 
     const percentWidth = Math.min(Math.round(((item.benchmarkRatio || 0) / maxRatio) * 100), 100);
 
