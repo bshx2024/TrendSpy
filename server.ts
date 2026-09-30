@@ -188,14 +188,64 @@ app.get("/api/reports/:filename", (req, res) => {
   }
 });
 
-// 9. 启动全自动扫描流水线 API
-app.post("/api/scan", (req, res) => {
+// 9. 启动全自动扫描流水线 API (支持本地子进程与 Vercel 云端 GitHub Actions 远程调度)
+app.post("/api/scan", async (req, res) => {
   if (process.env.VERCEL) {
-    return res.json({
-      success: true,
-      isVercel: true,
-      message: "当前处于 Vercel 云端托管模式：GitHub Actions 已配置每日全自动定时巡航！若需立即云端触发，可在 GitHub 仓库 Actions 页面点击「Run workflow」。"
-    });
+    const ghPat = process.env.GH_PAT || process.env.GITHUB_TOKEN;
+    const ghRepo = process.env.GH_REPO || "bshx2024/TrendSpy";
+    const workflowFile = "daily_scan.yml";
+    const actionUrl = `https://github.com/${ghRepo}/actions/workflows/${workflowFile}`;
+
+    if (!ghPat) {
+      return res.status(400).json({
+        success: false,
+        isVercel: true,
+        needConfig: true,
+        message: "未在 Vercel 中检测到 GH_PAT。请在 Vercel 环境变量中配置 GH_PAT (需包含 workflow 权限的 GitHub Token)，即可一键云端自动触发！",
+        actionUrl
+      });
+    }
+
+    try {
+      const ghRes = await fetch(
+        `https://api.github.com/repos/${ghRepo}/actions/workflows/${workflowFile}/dispatches`,
+        {
+          method: "POST",
+          headers: {
+            "Accept": "application/vnd.github+json",
+            "Authorization": `Bearer ${ghPat}`,
+            "X-GitHub-Api-Version": "2022-11-28",
+            "User-Agent": "TrendSpy-SaaS-3.0"
+          },
+          body: JSON.stringify({ ref: "main" })
+        }
+      );
+
+      if (ghRes.status === 204 || ghRes.ok) {
+        return res.json({
+          success: true,
+          isVercel: true,
+          dispatched: true,
+          message: "🚀 已成功向 GitHub Actions 发送扫描指令！云端正在执行巡航任务...",
+          actionUrl
+        });
+      } else {
+        const errText = await ghRes.text();
+        return res.status(ghRes.status).json({
+          success: false,
+          isVercel: true,
+          error: `GitHub 触发失败 (${ghRes.status}): ${errText}`,
+          actionUrl
+        });
+      }
+    } catch (e: any) {
+      return res.status(500).json({
+        success: false,
+        isVercel: true,
+        error: `调用 GitHub API 异常: ${e.message}`,
+        actionUrl
+      });
+    }
   }
 
   const { pipeline } = req.body; // 'newtrend' | 'radar'
@@ -308,6 +358,49 @@ app.post("/api/scan/stop", (_req, res) => {
     res.json({ success: true, message: "扫描已终止" });
   } catch (err: any) {
     res.status(500).json({ error: err.message });
+  }
+});
+
+// 10.1 查询云端 GitHub Actions 巡航执行状态 API
+app.get("/api/scan/cloud-status", async (_req, res) => {
+  const ghPat = process.env.GH_PAT || process.env.GITHUB_TOKEN;
+  const ghRepo = process.env.GH_REPO || "bshx2024/TrendSpy";
+  const workflowFile = "daily_scan.yml";
+
+  const headers: Record<string, string> = {
+    "Accept": "application/vnd.github+json",
+    "User-Agent": "TrendSpy-SaaS-3.0",
+    "X-GitHub-Api-Version": "2022-11-28"
+  };
+  if (ghPat) {
+    headers["Authorization"] = `Bearer ${ghPat}`;
+  }
+
+  try {
+    const ghRes = await fetch(
+      `https://api.github.com/repos/${ghRepo}/actions/workflows/${workflowFile}/runs?per_page=1`,
+      { headers }
+    );
+    if (!ghRes.ok) {
+      return res.status(ghRes.status).json({ error: "Failed to fetch GitHub runs", configured: Boolean(ghPat) });
+    }
+    const data: any = await ghRes.json();
+    const latestRun = data.workflow_runs?.[0] || null;
+    return res.json({
+      configured: Boolean(ghPat),
+      repo: ghRepo,
+      latestRun: latestRun ? {
+        id: latestRun.id,
+        name: latestRun.name,
+        status: latestRun.status,
+        conclusion: latestRun.conclusion,
+        html_url: latestRun.html_url,
+        created_at: latestRun.created_at,
+        updated_at: latestRun.updated_at
+      } : null
+    });
+  } catch (err: any) {
+    return res.status(500).json({ error: err.message });
   }
 });
 

@@ -114,19 +114,43 @@ function updateScanningStatus(isScanning, pipeline) {
 
 function appendTerminalLog(line) {
   const logArea = document.getElementById("terminalLogArea");
+  if (!logArea) return;
   const div = document.createElement("div");
   div.className = "log-line";
 
-  if (line.includes("[系统通知]") || line.includes("🚀") || line.includes("✨")) {
+  if (line.includes("[系统通知]") || line.includes("🚀") || line.includes("✨") || line.includes("🔗")) {
     div.classList.add("system");
-  } else if (line.includes("[-] ") || line.includes("错误") || line.includes("Error")) {
+  } else if (line.includes("[-] ") || line.includes("错误") || line.includes("Error") || line.includes("⚠️") || line.includes("失败")) {
     div.classList.add("error");
   }
 
-  div.textContent = line;
+  if (line.includes("<a ") || line.includes("<span ") || line.includes("<b>") || line.includes("<code>")) {
+    div.innerHTML = line;
+  } else {
+    div.textContent = line;
+  }
   logArea.appendChild(div);
   logArea.scrollTop = logArea.scrollHeight;
 }
+
+async function checkCloudStatus() {
+  try {
+    const res = await fetch("/api/scan/cloud-status");
+    if (!res.ok) return;
+    const info = await res.json();
+    if (info.latestRun) {
+      const { status, html_url } = info.latestRun;
+      if (status === "in_progress" || status === "queued") {
+        updateScanningStatus(true, "GitHub Actions 云端巡航");
+        const badge = document.getElementById("terminalStatusBadge");
+        if (badge) badge.innerText = "CLOUD RUNNING";
+      }
+    }
+  } catch (err) {
+    // 忽略后台状态检查错误
+  }
+}
+
 
 // ==========================================
 // 数据请求层
@@ -146,6 +170,9 @@ async function fetchOverview() {
     document.getElementById("kpiMultiSource").innerText = `${(m.githubReposCount || 0) + (m.googleTrendingCount || 0) + (m.redditPostsCount || 0)} 条`;
 
     updateScanningStatus(data.scanStatus?.isScanning, data.scanStatus?.pipeline);
+    if (!data.scanStatus?.isScanning) {
+      checkCloudStatus();
+    }
   } catch (err) {
     console.error("fetchOverview error:", err);
   }
@@ -780,6 +807,8 @@ document.addEventListener("DOMContentLoaded", () => {
     scanModal.classList.remove("active");
     openTerminalDrawer();
 
+    appendTerminalLog(`[系统通知] 🚀 正在请求启动扫描流水线 (${pipeline})...`);
+
     try {
       const res = await fetch("/api/scan", {
         method: "POST",
@@ -787,13 +816,42 @@ document.addEventListener("DOMContentLoaded", () => {
         body: JSON.stringify({ pipeline })
       });
       const data = await res.json();
+
       if (res.ok) {
-        showToast(data.message);
+        showToast(data.message || "扫描指令已发送");
+        if (data.isVercel && data.dispatched) {
+          updateScanningStatus(true, "GitHub Actions 云端巡航");
+          const badge = document.getElementById("terminalStatusBadge");
+          if (badge) badge.innerText = "CLOUD RUNNING";
+
+          appendTerminalLog(`[系统通知] 🚀 已成功远程调用 GitHub API 触发 Actions 巡航流水线！`);
+          if (data.actionUrl) {
+            appendTerminalLog(`[系统通知] 🔗 <a href="${data.actionUrl}" target="_blank" style="color:var(--cyan-primary);text-decoration:underline;">点击进入 GitHub Actions 控制台查看实时构建日志 &gt;</a>`);
+          }
+          appendTerminalLog(`[系统通知] ⏳ 预计耗时约 5~10 分钟。云端执行完毕后将自动提交数据至 main 分支并触发 Vercel 自动重载，届时刷新此页面即可！`);
+        }
       } else {
-        showToast(`启动失败: ${data.error || "未知原因"}`);
+        if (data.needConfig) {
+          showToast("云端一键触发需要配置 GH_PAT");
+          appendTerminalLog(`[系统通知] ⚠️ 云端一键触发需要配置 GitHub 密钥：`);
+          appendTerminalLog(`  1. 打开 GitHub Settings -> Developer Settings -> Personal access tokens (classic) 生成含 workflow 权限的 Token`);
+          appendTerminalLog(`  2. 在 Vercel 控制台 -> Settings -> Environment Variables 添加两个环境变量：`);
+          appendTerminalLog(`     • <b>GH_PAT</b> = (您刚刚生成的 Token)`);
+          appendTerminalLog(`     • <b>GH_REPO</b> = bshx2024/TrendSpy`);
+          if (data.actionUrl) {
+            appendTerminalLog(`  3. 🔗 或者现在直接手动运行: <a href="${data.actionUrl}" target="_blank" style="color:var(--cyan-primary);text-decoration:underline;">进入 GitHub Actions 点击 Run workflow</a>`);
+          }
+        } else {
+          showToast(`启动失败: ${data.error || "未知原因"}`);
+          appendTerminalLog(`[-] 启动失败: ${data.error || "未知原因"}`);
+          if (data.actionUrl) {
+            appendTerminalLog(`[系统通知] 🔗 您仍可手动运行: <a href="${data.actionUrl}" target="_blank" style="color:var(--cyan-primary);text-decoration:underline;">点击前往 GitHub Actions</a>`);
+          }
+        }
       }
     } catch (err) {
       showToast("启动流水线请求失败");
+      appendTerminalLog(`[-] 启动请求网络异常: ${err.message}`);
     }
   });
 
