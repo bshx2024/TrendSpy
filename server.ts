@@ -14,14 +14,12 @@ const PORT = process.env.PORT || 3200;
 
 app.use(cors());
 app.use(express.json());
-app.use((req, _res, next) => {
-  // 兼容 Vercel Serverless 重写可能去除 /api 前缀的情况
-  if (req.url && !req.url.startsWith("/api") && !req.url.startsWith("/public")) {
-    req.url = "/api" + (req.url.startsWith("/") ? req.url : "/" + req.url);
-  }
-  next();
-});
 app.use(express.static(path.join(__dirname, "public")));
+
+// 首页静态入口
+app.get("/", (_req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
 
 const DATA_DIR = path.join(__dirname, "data");
 const REPORTS_DIR = path.join(__dirname, "reports");

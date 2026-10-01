@@ -1,12 +1,12 @@
 {
   "functions": {
     "api/index.ts": {
-      "includeFiles": "{data/**,reports/**}"
+      "includeFiles": "{data/**,reports/**,public/**}"
     }
   },
   "rewrites": [
     {
-      "source": "/api/(.*)",
+      "source": "/(.*)",
       "destination": "/api/index.ts"
     }
   ]
