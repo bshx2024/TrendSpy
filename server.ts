@@ -14,6 +14,13 @@ const PORT = process.env.PORT || 3200;
 
 app.use(cors());
 app.use(express.json());
+app.use((req, _res, next) => {
+  // 兼容 Vercel Serverless 重写可能去除 /api 前缀的情况
+  if (req.url && !req.url.startsWith("/api") && !req.url.startsWith("/public")) {
+    req.url = "/api" + (req.url.startsWith("/") ? req.url : "/" + req.url);
+  }
+  next();
+});
 app.use(express.static(path.join(__dirname, "public")));
 
 const DATA_DIR = path.join(__dirname, "data");
