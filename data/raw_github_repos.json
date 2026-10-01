@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/1 14:26:48",
-  "total_repos": 133,
+  "fetched_at": "2026/10/1 16:09:50",
+  "total_repos": 134,
   "repos": [
     {
       "id": 1377938409,
@@ -200,6 +200,21 @@
       "pushed_at": "2026-09-22T03:27:27Z"
     },
     {
+      "id": 1388097438,
+      "name": "mysticgsi",
+      "full_name": "MysticGSI/mysticgsi",
+      "description": "A tool to build a Generic System Image from (almost) any stock firmware",
+      "html_url": "https://github.com/MysticGSI/mysticgsi",
+      "homepage": null,
+      "stars": 190,
+      "forks": 56,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-09-25T19:23:18Z",
+      "updated_at": "2026-10-01T08:08:05Z",
+      "pushed_at": "2026-09-29T19:30:34Z"
+    },
+    {
       "id": 1375641268,
       "name": "JevRouter",
       "full_name": "BillionsBobby/JevRouter",
@@ -228,21 +243,6 @@
       "created_at": "2026-09-25T12:31:39Z",
       "updated_at": "2026-09-30T17:15:14Z",
       "pushed_at": "2026-09-25T16:10:39Z"
-    },
-    {
-      "id": 1388097438,
-      "name": "mysticgsi",
-      "full_name": "MysticGSI/mysticgsi",
-      "description": "A tool to build a Generic System Image from (almost) any stock firmware",
-      "html_url": "https://github.com/MysticGSI/mysticgsi",
-      "homepage": null,
-      "stars": 189,
-      "forks": 55,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-09-25T19:23:18Z",
-      "updated_at": "2026-10-01T01:43:12Z",
-      "pushed_at": "2026-09-29T19:30:34Z"
     },
     {
       "id": 1387387974,
@@ -306,7 +306,7 @@
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "html_url": "https://github.com/blendi-remade/dioramas",
       "homepage": null,
-      "stars": 162,
+      "stars": 163,
       "forks": 20,
       "language": "JavaScript",
       "topics": [
@@ -320,8 +320,44 @@
         "webgl"
       ],
       "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-01T03:22:09Z",
+      "updated_at": "2026-10-01T07:44:31Z",
       "pushed_at": "2026-09-30T00:10:22Z"
+    },
+    {
+      "id": 1397599794,
+      "name": "livecanvas",
+      "full_name": "pengchujin/livecanvas",
+      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "html_url": "https://github.com/pengchujin/livecanvas",
+      "homepage": null,
+      "stars": 162,
+      "forks": 16,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "codex",
+        "live-photo",
+        "motion-design",
+        "remotion"
+      ],
+      "created_at": "2026-09-30T10:26:35Z",
+      "updated_at": "2026-10-01T08:09:00Z",
+      "pushed_at": "2026-10-01T02:22:14Z"
+    },
+    {
+      "id": 1387067752,
+      "name": "Seep-Tool",
+      "full_name": "angusdevgo/Seep-Tool",
+      "description": "客户端鉴权安全审计与决策旁路集成工作台",
+      "html_url": "https://github.com/angusdevgo/Seep-Tool",
+      "homepage": null,
+      "stars": 158,
+      "forks": 33,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-09-25T08:05:37Z",
+      "updated_at": "2026-10-01T07:58:29Z",
+      "pushed_at": "2026-09-29T06:40:02Z"
     },
     {
       "id": 1382304020,
@@ -343,21 +379,6 @@
       "created_at": "2026-09-22T20:14:59Z",
       "updated_at": "2026-09-24T04:24:54Z",
       "pushed_at": "2026-09-23T22:34:48Z"
-    },
-    {
-      "id": 1387067752,
-      "name": "Seep-Tool",
-      "full_name": "angusdevgo/Seep-Tool",
-      "description": "客户端鉴权安全审计与决策旁路集成工作台",
-      "html_url": "https://github.com/angusdevgo/Seep-Tool",
-      "homepage": null,
-      "stars": 156,
-      "forks": 32,
-      "language": "C#",
-      "topics": [],
-      "created_at": "2026-09-25T08:05:37Z",
-      "updated_at": "2026-10-01T06:19:37Z",
-      "pushed_at": "2026-09-29T06:40:02Z"
     },
     {
       "id": 1375327232,
@@ -449,27 +470,6 @@
       "pushed_at": "2026-09-26T08:16:28Z"
     },
     {
-      "id": 1397599794,
-      "name": "livecanvas",
-      "full_name": "pengchujin/livecanvas",
-      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
-      "html_url": "https://github.com/pengchujin/livecanvas",
-      "homepage": null,
-      "stars": 128,
-      "forks": 14,
-      "language": "Swift",
-      "topics": [
-        "agent-skills",
-        "codex",
-        "live-photo",
-        "motion-design",
-        "remotion"
-      ],
-      "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-01T06:15:23Z",
-      "pushed_at": "2026-10-01T02:22:14Z"
-    },
-    {
       "id": 1388409097,
       "name": "mcp-audit-tool",
       "full_name": "graygnatconsole/mcp-audit-tool",
@@ -503,6 +503,21 @@
       "created_at": "2026-09-26T02:42:57Z",
       "updated_at": "2026-10-01T05:10:56Z",
       "pushed_at": "2026-09-26T08:17:27Z"
+    },
+    {
+      "id": 1391836763,
+      "name": "abstract-algebra-promo",
+      "full_name": "AnctyEnly453/abstract-algebra-promo",
+      "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
+      "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
+      "homepage": null,
+      "stars": 114,
+      "forks": 5,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-09-28T05:00:45Z",
+      "updated_at": "2026-10-01T08:02:33Z",
+      "pushed_at": "2026-09-28T05:04:35Z"
     },
     {
       "id": 1380729698,
@@ -606,21 +621,6 @@
       "pushed_at": "2026-09-26T15:32:59Z"
     },
     {
-      "id": 1391836763,
-      "name": "abstract-algebra-promo",
-      "full_name": "AnctyEnly453/abstract-algebra-promo",
-      "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
-      "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
-      "homepage": null,
-      "stars": 111,
-      "forks": 4,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-09-28T05:00:45Z",
-      "updated_at": "2026-10-01T05:54:17Z",
-      "pushed_at": "2026-09-28T05:04:35Z"
-    },
-    {
       "id": 1379139682,
       "name": "polytech-tree",
       "full_name": "secwind7/polytech-tree",
@@ -662,6 +662,37 @@
       "pushed_at": "2026-09-28T22:56:10Z"
     },
     {
+      "id": 1387885716,
+      "name": "redStackPRO",
+      "full_name": "devZero-Security/redStackPRO",
+      "description": "A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform and Ansible, and deploy it yourself. Your cloud credentials never leave your machine.",
+      "html_url": "https://github.com/devZero-Security/redStackPRO",
+      "homepage": null,
+      "stars": 107,
+      "forks": 10,
+      "language": "Python",
+      "topics": [
+        "adaptixc2",
+        "aws",
+        "azure",
+        "cybersecurity",
+        "esxi",
+        "gcp",
+        "goad",
+        "infrastructure-as-code",
+        "mythic",
+        "offensive-security",
+        "proxmox",
+        "red-team-infrastructure",
+        "red-teaming",
+        "sliver",
+        "teraform"
+      ],
+      "created_at": "2026-09-25T16:39:59Z",
+      "updated_at": "2026-10-01T08:08:55Z",
+      "pushed_at": "2026-09-30T14:28:36Z"
+    },
+    {
       "id": 1377007152,
       "name": "ritridata",
       "full_name": "reco-tools/ritridata",
@@ -688,49 +719,18 @@
       "pushed_at": "2026-09-19T10:07:39Z"
     },
     {
-      "id": 1387885716,
-      "name": "redStackPRO",
-      "full_name": "devZero-Security/redStackPRO",
-      "description": "A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform and Ansible, and deploy it yourself. Your cloud credentials never leave your machine.",
-      "html_url": "https://github.com/devZero-Security/redStackPRO",
-      "homepage": null,
-      "stars": 106,
-      "forks": 9,
-      "language": "Python",
-      "topics": [
-        "adaptixc2",
-        "aws",
-        "azure",
-        "cybersecurity",
-        "esxi",
-        "gcp",
-        "goad",
-        "infrastructure-as-code",
-        "mythic",
-        "offensive-security",
-        "proxmox",
-        "red-team-infrastructure",
-        "red-teaming",
-        "sliver",
-        "teraform"
-      ],
-      "created_at": "2026-09-25T16:39:59Z",
-      "updated_at": "2026-10-01T02:58:58Z",
-      "pushed_at": "2026-09-30T14:28:36Z"
-    },
-    {
       "id": 1391377497,
       "name": "max-payne-2-vr",
       "full_name": "evilSheep/max-payne-2-vr",
       "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
       "html_url": "https://github.com/evilSheep/max-payne-2-vr",
       "homepage": null,
-      "stars": 105,
+      "stars": 106,
       "forks": 1,
       "language": null,
       "topics": [],
       "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-10-01T05:52:36Z",
+      "updated_at": "2026-10-01T06:33:05Z",
       "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
@@ -803,8 +803,8 @@
       "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
       "html_url": "https://github.com/luxine/CalcKernel",
       "homepage": "https://calckernel.org",
-      "stars": 97,
-      "forks": 2,
+      "stars": 101,
+      "forks": 3,
       "language": "Rust",
       "topics": [
         "compiler",
@@ -813,7 +813,7 @@
         "webassembly"
       ],
       "created_at": "2026-09-27T14:59:35Z",
-      "updated_at": "2026-10-01T06:17:47Z",
+      "updated_at": "2026-10-01T08:07:01Z",
       "pushed_at": "2026-10-01T03:41:29Z"
     },
     {
@@ -1002,6 +1002,21 @@
       "pushed_at": "2026-09-19T17:57:32Z"
     },
     {
+      "id": 1396432432,
+      "name": "json-toolkit",
+      "full_name": "ralf1qdev/json-toolkit",
+      "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
+      "html_url": "https://github.com/ralf1qdev/json-toolkit",
+      "homepage": null,
+      "stars": 72,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-29T19:13:13Z",
+      "updated_at": "2026-10-01T08:03:35Z",
+      "pushed_at": "2026-09-29T20:03:08Z"
+    },
+    {
       "id": 1375750028,
       "name": "jgrep",
       "full_name": "keltokhy/jgrep",
@@ -1022,6 +1037,21 @@
       "created_at": "2026-09-18T11:11:25Z",
       "updated_at": "2026-09-24T04:29:27Z",
       "pushed_at": "2026-09-23T13:27:47Z"
+    },
+    {
+      "id": 1390688516,
+      "name": "omarchy-rescue",
+      "full_name": "crmne/omarchy-rescue",
+      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
+      "html_url": "https://github.com/crmne/omarchy-rescue",
+      "homepage": null,
+      "stars": 71,
+      "forks": 5,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-09-27T11:21:06Z",
+      "updated_at": "2026-10-01T07:49:06Z",
+      "pushed_at": "2026-09-30T20:48:48Z"
     },
     {
       "id": 1390584057,
@@ -1052,36 +1082,6 @@
       "created_at": "2026-09-29T18:36:31Z",
       "updated_at": "2026-10-01T04:57:17Z",
       "pushed_at": "2026-09-29T20:28:47Z"
-    },
-    {
-      "id": 1396432432,
-      "name": "json-toolkit",
-      "full_name": "ralf1qdev/json-toolkit",
-      "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
-      "html_url": "https://github.com/ralf1qdev/json-toolkit",
-      "homepage": null,
-      "stars": 69,
-      "forks": 0,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-09-29T19:13:13Z",
-      "updated_at": "2026-10-01T06:25:42Z",
-      "pushed_at": "2026-09-29T20:03:08Z"
-    },
-    {
-      "id": 1390688516,
-      "name": "omarchy-rescue",
-      "full_name": "crmne/omarchy-rescue",
-      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
-      "html_url": "https://github.com/crmne/omarchy-rescue",
-      "homepage": null,
-      "stars": 66,
-      "forks": 4,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-09-27T11:21:06Z",
-      "updated_at": "2026-10-01T06:10:20Z",
-      "pushed_at": "2026-09-30T20:48:48Z"
     },
     {
       "id": 1375694442,
@@ -1127,6 +1127,21 @@
       "created_at": "2026-09-26T06:02:30Z",
       "updated_at": "2026-10-01T02:21:16Z",
       "pushed_at": "2026-10-01T02:21:11Z"
+    },
+    {
+      "id": 1390845863,
+      "name": "Refract",
+      "full_name": "MIXIDtheSilly/Refract",
+      "description": "A Quest emulation tool",
+      "html_url": "https://github.com/MIXIDtheSilly/Refract",
+      "homepage": null,
+      "stars": 63,
+      "forks": 3,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-09-27T13:05:42Z",
+      "updated_at": "2026-10-01T08:06:35Z",
+      "pushed_at": "2026-09-30T19:44:13Z"
     },
     {
       "id": 1386511925,
@@ -1195,21 +1210,6 @@
       "created_at": "2026-09-25T01:49:32Z",
       "updated_at": "2026-09-30T17:15:12Z",
       "pushed_at": "2026-09-25T01:52:32Z"
-    },
-    {
-      "id": 1390845863,
-      "name": "Refract",
-      "full_name": "MIXIDtheSilly/Refract",
-      "description": "A Quest emulation tool",
-      "html_url": "https://github.com/MIXIDtheSilly/Refract",
-      "homepage": null,
-      "stars": 59,
-      "forks": 3,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-09-27T13:05:42Z",
-      "updated_at": "2026-10-01T06:17:24Z",
-      "pushed_at": "2026-09-30T19:44:13Z"
     },
     {
       "id": 1386319785,
@@ -1433,36 +1433,13 @@
       "pushed_at": "2026-09-19T03:46:01Z"
     },
     {
-      "id": 1376092823,
-      "name": "EdgeSSH",
-      "full_name": "aozorae/EdgeSSH",
-      "description": "A lightweight WebSSH workspace on Cloudflare Workers with host management, encrypted storage, SFTP, process monitoring and globe visualization. | 基于 Cloudflare Workers 的轻量 WebSSH 工作台，支持主机管理、加密存储、SFTP、进程监控与地球可视化。",
-      "html_url": "https://github.com/aozorae/EdgeSSH",
-      "homepage": null,
-      "stars": 45,
-      "forks": 28,
-      "language": "TypeScript",
-      "topics": [
-        "cloudflare-d1",
-        "cloudflare-workers",
-        "server-management",
-        "sftp",
-        "ssh-client",
-        "web-terminal",
-        "webssh"
-      ],
-      "created_at": "2026-09-18T15:52:00Z",
-      "updated_at": "2026-09-24T02:06:13Z",
-      "pushed_at": "2026-09-23T22:55:56Z"
-    },
-    {
       "id": 1394206642,
       "name": "ai-chatroom",
       "full_name": "Moris-kr/ai-chatroom",
       "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
       "html_url": "https://github.com/Moris-kr/ai-chatroom",
       "homepage": null,
-      "stars": 44,
+      "stars": 46,
       "forks": 8,
       "language": "JavaScript",
       "topics": [
@@ -1488,8 +1465,31 @@
         "weeb"
       ],
       "created_at": "2026-09-29T03:42:10Z",
-      "updated_at": "2026-09-30T15:34:15Z",
+      "updated_at": "2026-10-01T07:33:20Z",
       "pushed_at": "2026-09-29T05:16:14Z"
+    },
+    {
+      "id": 1376092823,
+      "name": "EdgeSSH",
+      "full_name": "aozorae/EdgeSSH",
+      "description": "A lightweight WebSSH workspace on Cloudflare Workers with host management, encrypted storage, SFTP, process monitoring and globe visualization. | 基于 Cloudflare Workers 的轻量 WebSSH 工作台，支持主机管理、加密存储、SFTP、进程监控与地球可视化。",
+      "html_url": "https://github.com/aozorae/EdgeSSH",
+      "homepage": null,
+      "stars": 45,
+      "forks": 28,
+      "language": "TypeScript",
+      "topics": [
+        "cloudflare-d1",
+        "cloudflare-workers",
+        "server-management",
+        "sftp",
+        "ssh-client",
+        "web-terminal",
+        "webssh"
+      ],
+      "created_at": "2026-09-18T15:52:00Z",
+      "updated_at": "2026-09-24T02:06:13Z",
+      "pushed_at": "2026-09-23T22:55:56Z"
     },
     {
       "id": 1375718495,
@@ -1751,7 +1751,7 @@
       "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
       "html_url": "https://github.com/charlie947/motion-graphics-skills",
       "homepage": "https://charliehills.substack.com",
-      "stars": 34,
+      "stars": 35,
       "forks": 6,
       "language": "Shell",
       "topics": [
@@ -1767,7 +1767,7 @@
         "video"
       ],
       "created_at": "2026-09-26T13:57:34Z",
-      "updated_at": "2026-10-01T03:11:03Z",
+      "updated_at": "2026-10-01T06:54:43Z",
       "pushed_at": "2026-09-30T11:49:23Z"
     },
     {
@@ -1793,6 +1793,21 @@
       "created_at": "2026-09-19T20:08:14Z",
       "updated_at": "2026-09-23T04:24:56Z",
       "pushed_at": "2026-09-20T00:17:16Z"
+    },
+    {
+      "id": 1387695060,
+      "name": "fishwallpaper",
+      "full_name": "moli-xia/fishwallpaper",
+      "description": "碧池观鱼 · 锦鲤池塘动态壁纸（macOS / Windows / Android / Web）",
+      "html_url": "https://github.com/moli-xia/fishwallpaper",
+      "homepage": null,
+      "stars": 33,
+      "forks": 8,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-25T14:45:38Z",
+      "updated_at": "2026-10-01T07:02:19Z",
+      "pushed_at": "2026-09-30T07:18:51Z"
     },
     {
       "id": 1386746644,
@@ -1823,21 +1838,6 @@
       "created_at": "2026-09-25T04:22:10Z",
       "updated_at": "2026-10-01T05:52:18Z",
       "pushed_at": "2026-09-28T18:36:29Z"
-    },
-    {
-      "id": 1387695060,
-      "name": "fishwallpaper",
-      "full_name": "moli-xia/fishwallpaper",
-      "description": "碧池观鱼 · 锦鲤池塘动态壁纸（macOS / Windows / Android / Web）",
-      "html_url": "https://github.com/moli-xia/fishwallpaper",
-      "homepage": null,
-      "stars": 32,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-25T14:45:38Z",
-      "updated_at": "2026-10-01T04:49:06Z",
-      "pushed_at": "2026-09-30T07:18:51Z"
     },
     {
       "id": 1395203963,
@@ -1917,6 +1917,21 @@
       "pushed_at": "2026-09-27T17:07:26Z"
     },
     {
+      "id": 1397777424,
+      "name": "drouter",
+      "full_name": "liuzhuohua/drouter",
+      "description": "Debian 13 软路由管理系统 · Web 管理面板。不重新实现任何协议 —— 渲染原生配置、语法预检、原子写入并 reload。",
+      "html_url": "https://github.com/liuzhuohua/drouter",
+      "homepage": null,
+      "stars": 30,
+      "forks": 6,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-30T11:51:52Z",
+      "updated_at": "2026-10-01T08:02:02Z",
+      "pushed_at": "2026-10-01T08:01:58Z"
+    },
+    {
       "id": 1375795989,
       "name": "ContractGuard",
       "full_name": "mingxian233/ContractGuard",
@@ -1958,6 +1973,28 @@
       "created_at": "2026-09-28T06:08:42Z",
       "updated_at": "2026-09-30T12:43:28Z",
       "pushed_at": "2026-09-29T02:39:21Z"
+    },
+    {
+      "id": 1392926487,
+      "name": "excali-mode",
+      "full_name": "yibie/excali-mode",
+      "description": "Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API",
+      "html_url": "https://github.com/yibie/excali-mode",
+      "homepage": null,
+      "stars": 29,
+      "forks": 0,
+      "language": "Emacs Lisp",
+      "topics": [
+        "cairo",
+        "diagrams",
+        "emacs",
+        "emacs-package",
+        "excalidraw",
+        "whiteboard"
+      ],
+      "created_at": "2026-09-28T14:24:02Z",
+      "updated_at": "2026-10-01T07:36:41Z",
+      "pushed_at": "2026-09-29T07:52:35Z"
     },
     {
       "id": 1376687962,
@@ -2023,21 +2060,6 @@
       "created_at": "2026-09-27T08:54:59Z",
       "updated_at": "2026-09-29T16:51:13Z",
       "pushed_at": "2026-09-27T08:55:38Z"
-    },
-    {
-      "id": 1397777424,
-      "name": "drouter",
-      "full_name": "liuzhuohua/drouter",
-      "description": "Debian 13 软路由管理系统 · Web 管理面板。不重新实现任何协议 —— 渲染原生配置、语法预检、原子写入并 reload。",
-      "html_url": "https://github.com/liuzhuohua/drouter",
-      "homepage": null,
-      "stars": 28,
-      "forks": 6,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-09-30T11:51:52Z",
-      "updated_at": "2026-10-01T05:30:32Z",
-      "pushed_at": "2026-10-01T04:01:23Z"
     },
     {
       "id": 1379555830,
