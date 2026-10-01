@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026/10/1 16:09:50",
+  "fetched_at": "2026/10/1 17:09:47",
   "total_repos": 134,
   "repos": [
     {
@@ -251,7 +251,7 @@
       "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
       "html_url": "https://github.com/YeJe-cpu/SeeCut",
       "homepage": null,
-      "stars": 182,
+      "stars": 183,
       "forks": 30,
       "language": "JavaScript",
       "topics": [
@@ -266,8 +266,29 @@
         "video-editing"
       ],
       "created_at": "2026-09-25T11:48:27Z",
-      "updated_at": "2026-10-01T06:01:28Z",
+      "updated_at": "2026-10-01T08:18:08Z",
       "pushed_at": "2026-09-30T23:21:04Z"
+    },
+    {
+      "id": 1397599794,
+      "name": "livecanvas",
+      "full_name": "pengchujin/livecanvas",
+      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "html_url": "https://github.com/pengchujin/livecanvas",
+      "homepage": null,
+      "stars": 183,
+      "forks": 18,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "codex",
+        "live-photo",
+        "motion-design",
+        "remotion"
+      ],
+      "created_at": "2026-09-30T10:26:35Z",
+      "updated_at": "2026-10-01T09:00:33Z",
+      "pushed_at": "2026-10-01T02:22:14Z"
     },
     {
       "id": 1390752953,
@@ -306,7 +327,7 @@
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "html_url": "https://github.com/blendi-remade/dioramas",
       "homepage": null,
-      "stars": 163,
+      "stars": 164,
       "forks": 20,
       "language": "JavaScript",
       "topics": [
@@ -320,29 +341,8 @@
         "webgl"
       ],
       "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-01T07:44:31Z",
+      "updated_at": "2026-10-01T08:46:57Z",
       "pushed_at": "2026-09-30T00:10:22Z"
-    },
-    {
-      "id": 1397599794,
-      "name": "livecanvas",
-      "full_name": "pengchujin/livecanvas",
-      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
-      "html_url": "https://github.com/pengchujin/livecanvas",
-      "homepage": null,
-      "stars": 162,
-      "forks": 16,
-      "language": "Swift",
-      "topics": [
-        "agent-skills",
-        "codex",
-        "live-photo",
-        "motion-design",
-        "remotion"
-      ],
-      "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-01T08:09:00Z",
-      "pushed_at": "2026-10-01T02:22:14Z"
     },
     {
       "id": 1387067752,
@@ -351,12 +351,12 @@
       "description": "客户端鉴权安全审计与决策旁路集成工作台",
       "html_url": "https://github.com/angusdevgo/Seep-Tool",
       "homepage": null,
-      "stars": 158,
+      "stars": 161,
       "forks": 33,
       "language": "C#",
       "topics": [],
       "created_at": "2026-09-25T08:05:37Z",
-      "updated_at": "2026-10-01T07:58:29Z",
+      "updated_at": "2026-10-01T08:58:03Z",
       "pushed_at": "2026-09-29T06:40:02Z"
     },
     {
@@ -411,6 +411,40 @@
       "pushed_at": "2026-09-23T19:05:22Z"
     },
     {
+      "id": 1386719155,
+      "name": "semrush-ai-tool",
+      "full_name": "springvoiceswell/semrush-ai-tool",
+      "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
+      "html_url": "https://github.com/springvoiceswell/semrush-ai-tool",
+      "homepage": null,
+      "stars": 132,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "ai-seo",
+        "backlink-analysis",
+        "claude-desktop",
+        "cursor-pro",
+        "semrush",
+        "semrush-alternative",
+        "semrush-api",
+        "semrush-features",
+        "semrush-patch",
+        "semrush-safe",
+        "seo",
+        "seo-automation",
+        "seo-optimization",
+        "seo-tools",
+        "seo-tools-rapid-url-indexer",
+        "serp-analysis",
+        "serp-api",
+        "serp-scraper"
+      ],
+      "created_at": "2026-09-25T04:00:09Z",
+      "updated_at": "2026-10-01T08:32:49Z",
+      "pushed_at": "2026-09-26T08:16:28Z"
+    },
+    {
       "id": 1385750356,
       "name": "paperclip-guide",
       "full_name": "theNetworkChuck/paperclip-guide",
@@ -436,47 +470,13 @@
       "pushed_at": "2026-09-24T15:02:21Z"
     },
     {
-      "id": 1386719155,
-      "name": "semrush-ai-tool",
-      "full_name": "springvoiceswell/semrush-ai-tool",
-      "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
-      "html_url": "https://github.com/springvoiceswell/semrush-ai-tool",
-      "homepage": null,
-      "stars": 128,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "ai-seo",
-        "backlink-analysis",
-        "claude-desktop",
-        "cursor-pro",
-        "semrush",
-        "semrush-alternative",
-        "semrush-api",
-        "semrush-features",
-        "semrush-patch",
-        "semrush-safe",
-        "seo",
-        "seo-automation",
-        "seo-optimization",
-        "seo-tools",
-        "seo-tools-rapid-url-indexer",
-        "serp-analysis",
-        "serp-api",
-        "serp-scraper"
-      ],
-      "created_at": "2026-09-25T04:00:09Z",
-      "updated_at": "2026-10-01T02:55:06Z",
-      "pushed_at": "2026-09-26T08:16:28Z"
-    },
-    {
       "id": 1388409097,
       "name": "mcp-audit-tool",
       "full_name": "graygnatconsole/mcp-audit-tool",
       "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
       "html_url": "https://github.com/graygnatconsole/mcp-audit-tool",
       "homepage": null,
-      "stars": 124,
+      "stars": 127,
       "forks": 2,
       "language": "Python",
       "topics": [
@@ -501,7 +501,7 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-09-26T02:42:57Z",
-      "updated_at": "2026-10-01T05:10:56Z",
+      "updated_at": "2026-10-01T08:29:01Z",
       "pushed_at": "2026-09-26T08:17:27Z"
     },
     {
@@ -636,6 +636,37 @@
       "pushed_at": "2026-09-22T14:18:57Z"
     },
     {
+      "id": 1387885716,
+      "name": "redStackPRO",
+      "full_name": "devZero-Security/redStackPRO",
+      "description": "A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform and Ansible, and deploy it yourself. Your cloud credentials never leave your machine.",
+      "html_url": "https://github.com/devZero-Security/redStackPRO",
+      "homepage": null,
+      "stars": 109,
+      "forks": 10,
+      "language": "Python",
+      "topics": [
+        "adaptixc2",
+        "aws",
+        "azure",
+        "cybersecurity",
+        "esxi",
+        "gcp",
+        "goad",
+        "infrastructure-as-code",
+        "mythic",
+        "offensive-security",
+        "proxmox",
+        "red-team-infrastructure",
+        "red-teaming",
+        "sliver",
+        "teraform"
+      ],
+      "created_at": "2026-09-25T16:39:59Z",
+      "updated_at": "2026-10-01T08:49:46Z",
+      "pushed_at": "2026-09-30T14:28:36Z"
+    },
+    {
       "id": 1387850278,
       "name": "simfleet",
       "full_name": "entropyconquers/simfleet",
@@ -662,35 +693,19 @@
       "pushed_at": "2026-09-28T22:56:10Z"
     },
     {
-      "id": 1387885716,
-      "name": "redStackPRO",
-      "full_name": "devZero-Security/redStackPRO",
-      "description": "A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform and Ansible, and deploy it yourself. Your cloud credentials never leave your machine.",
-      "html_url": "https://github.com/devZero-Security/redStackPRO",
+      "id": 1391377497,
+      "name": "max-payne-2-vr",
+      "full_name": "evilSheep/max-payne-2-vr",
+      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
+      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
       "homepage": null,
       "stars": 107,
-      "forks": 10,
-      "language": "Python",
-      "topics": [
-        "adaptixc2",
-        "aws",
-        "azure",
-        "cybersecurity",
-        "esxi",
-        "gcp",
-        "goad",
-        "infrastructure-as-code",
-        "mythic",
-        "offensive-security",
-        "proxmox",
-        "red-team-infrastructure",
-        "red-teaming",
-        "sliver",
-        "teraform"
-      ],
-      "created_at": "2026-09-25T16:39:59Z",
-      "updated_at": "2026-10-01T08:08:55Z",
-      "pushed_at": "2026-09-30T14:28:36Z"
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-27T20:26:56Z",
+      "updated_at": "2026-10-01T08:10:01Z",
+      "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
       "id": 1377007152,
@@ -719,21 +734,6 @@
       "pushed_at": "2026-09-19T10:07:39Z"
     },
     {
-      "id": 1391377497,
-      "name": "max-payne-2-vr",
-      "full_name": "evilSheep/max-payne-2-vr",
-      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
-      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
-      "homepage": null,
-      "stars": 106,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-10-01T06:33:05Z",
-      "pushed_at": "2026-10-01T03:09:41Z"
-    },
-    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -752,6 +752,26 @@
       "created_at": "2026-09-25T13:10:58Z",
       "updated_at": "2026-09-29T09:21:31Z",
       "pushed_at": "2026-09-25T13:13:11Z"
+    },
+    {
+      "id": 1390994799,
+      "name": "CalcKernel",
+      "full_name": "luxine/CalcKernel",
+      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
+      "html_url": "https://github.com/luxine/CalcKernel",
+      "homepage": "https://calckernel.org",
+      "stars": 104,
+      "forks": 3,
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "programming-language",
+        "rust",
+        "webassembly"
+      ],
+      "created_at": "2026-09-27T14:59:35Z",
+      "updated_at": "2026-10-01T09:07:08Z",
+      "pushed_at": "2026-10-01T03:41:29Z"
     },
     {
       "id": 1377581532,
@@ -795,26 +815,6 @@
       "created_at": "2026-09-24T15:16:59Z",
       "updated_at": "2026-09-28T09:40:13Z",
       "pushed_at": "2026-09-24T15:17:46Z"
-    },
-    {
-      "id": 1390994799,
-      "name": "CalcKernel",
-      "full_name": "luxine/CalcKernel",
-      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
-      "html_url": "https://github.com/luxine/CalcKernel",
-      "homepage": "https://calckernel.org",
-      "stars": 101,
-      "forks": 3,
-      "language": "Rust",
-      "topics": [
-        "compiler",
-        "programming-language",
-        "rust",
-        "webassembly"
-      ],
-      "created_at": "2026-09-27T14:59:35Z",
-      "updated_at": "2026-10-01T08:07:01Z",
-      "pushed_at": "2026-10-01T03:41:29Z"
     },
     {
       "id": 1386267511,
@@ -980,6 +980,36 @@
       "pushed_at": "2026-09-21T13:11:21Z"
     },
     {
+      "id": 1390688516,
+      "name": "omarchy-rescue",
+      "full_name": "crmne/omarchy-rescue",
+      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
+      "html_url": "https://github.com/crmne/omarchy-rescue",
+      "homepage": null,
+      "stars": 75,
+      "forks": 5,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-09-27T11:21:06Z",
+      "updated_at": "2026-10-01T09:02:44Z",
+      "pushed_at": "2026-09-30T20:48:48Z"
+    },
+    {
+      "id": 1396432432,
+      "name": "json-toolkit",
+      "full_name": "ralf1qdev/json-toolkit",
+      "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
+      "html_url": "https://github.com/ralf1qdev/json-toolkit",
+      "homepage": null,
+      "stars": 73,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-29T19:13:13Z",
+      "updated_at": "2026-10-01T08:46:48Z",
+      "pushed_at": "2026-09-29T20:03:08Z"
+    },
+    {
       "id": 1375761817,
       "name": "jevcache",
       "full_name": "hyperspaceai/jevcache",
@@ -1002,21 +1032,6 @@
       "pushed_at": "2026-09-19T17:57:32Z"
     },
     {
-      "id": 1396432432,
-      "name": "json-toolkit",
-      "full_name": "ralf1qdev/json-toolkit",
-      "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
-      "html_url": "https://github.com/ralf1qdev/json-toolkit",
-      "homepage": null,
-      "stars": 72,
-      "forks": 0,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-09-29T19:13:13Z",
-      "updated_at": "2026-10-01T08:03:35Z",
-      "pushed_at": "2026-09-29T20:03:08Z"
-    },
-    {
       "id": 1375750028,
       "name": "jgrep",
       "full_name": "keltokhy/jgrep",
@@ -1037,21 +1052,6 @@
       "created_at": "2026-09-18T11:11:25Z",
       "updated_at": "2026-09-24T04:29:27Z",
       "pushed_at": "2026-09-23T13:27:47Z"
-    },
-    {
-      "id": 1390688516,
-      "name": "omarchy-rescue",
-      "full_name": "crmne/omarchy-rescue",
-      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
-      "html_url": "https://github.com/crmne/omarchy-rescue",
-      "homepage": null,
-      "stars": 71,
-      "forks": 5,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-09-27T11:21:06Z",
-      "updated_at": "2026-10-01T07:49:06Z",
-      "pushed_at": "2026-09-30T20:48:48Z"
     },
     {
       "id": 1390584057,
@@ -1082,6 +1082,21 @@
       "created_at": "2026-09-29T18:36:31Z",
       "updated_at": "2026-10-01T04:57:17Z",
       "pushed_at": "2026-09-29T20:28:47Z"
+    },
+    {
+      "id": 1390845863,
+      "name": "Refract",
+      "full_name": "MIXIDtheSilly/Refract",
+      "description": "A Quest emulation tool",
+      "html_url": "https://github.com/MIXIDtheSilly/Refract",
+      "homepage": null,
+      "stars": 66,
+      "forks": 3,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-09-27T13:05:42Z",
+      "updated_at": "2026-10-01T09:03:59Z",
+      "pushed_at": "2026-09-30T19:44:13Z"
     },
     {
       "id": 1375694442,
@@ -1127,21 +1142,6 @@
       "created_at": "2026-09-26T06:02:30Z",
       "updated_at": "2026-10-01T02:21:16Z",
       "pushed_at": "2026-10-01T02:21:11Z"
-    },
-    {
-      "id": 1390845863,
-      "name": "Refract",
-      "full_name": "MIXIDtheSilly/Refract",
-      "description": "A Quest emulation tool",
-      "html_url": "https://github.com/MIXIDtheSilly/Refract",
-      "homepage": null,
-      "stars": 63,
-      "forks": 3,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-09-27T13:05:42Z",
-      "updated_at": "2026-10-01T08:06:35Z",
-      "pushed_at": "2026-09-30T19:44:13Z"
     },
     {
       "id": 1386511925,
@@ -1605,6 +1605,21 @@
       "pushed_at": "2026-09-19T11:36:46Z"
     },
     {
+      "id": 1389869253,
+      "name": "webkvm",
+      "full_name": "Slaker19/webkvm",
+      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+      "html_url": "https://github.com/Slaker19/webkvm",
+      "homepage": null,
+      "stars": 41,
+      "forks": 2,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-26T23:17:14Z",
+      "updated_at": "2026-10-01T08:49:46Z",
+      "pushed_at": "2026-09-30T23:21:38Z"
+    },
+    {
       "id": 1378383465,
       "name": "agent-builder-skills",
       "full_name": "minorun365/agent-builder-skills",
@@ -1648,19 +1663,30 @@
       "pushed_at": "2026-09-19T12:16:43Z"
     },
     {
-      "id": 1389869253,
-      "name": "webkvm",
-      "full_name": "Slaker19/webkvm",
-      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
-      "html_url": "https://github.com/Slaker19/webkvm",
-      "homepage": null,
+      "id": 1389294768,
+      "name": "motion-graphics-skills",
+      "full_name": "charlie947/motion-graphics-skills",
+      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
+      "html_url": "https://github.com/charlie947/motion-graphics-skills",
+      "homepage": "https://charliehills.substack.com",
       "stars": 39,
-      "forks": 2,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-09-26T23:17:14Z",
-      "updated_at": "2026-09-30T23:21:39Z",
-      "pushed_at": "2026-09-30T23:21:38Z"
+      "forks": 6,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-marketing",
+        "animation",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hyperframes",
+        "motion-graphics",
+        "video"
+      ],
+      "created_at": "2026-09-26T13:57:34Z",
+      "updated_at": "2026-10-01T09:06:26Z",
+      "pushed_at": "2026-09-30T11:49:23Z"
     },
     {
       "id": 1382790500,
@@ -1743,32 +1769,6 @@
       "created_at": "2026-09-29T16:59:42Z",
       "updated_at": "2026-10-01T04:49:59Z",
       "pushed_at": "2026-09-30T08:36:12Z"
-    },
-    {
-      "id": 1389294768,
-      "name": "motion-graphics-skills",
-      "full_name": "charlie947/motion-graphics-skills",
-      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
-      "html_url": "https://github.com/charlie947/motion-graphics-skills",
-      "homepage": "https://charliehills.substack.com",
-      "stars": 35,
-      "forks": 6,
-      "language": "Shell",
-      "topics": [
-        "agent-skills",
-        "ai-marketing",
-        "animation",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hyperframes",
-        "motion-graphics",
-        "video"
-      ],
-      "created_at": "2026-09-26T13:57:34Z",
-      "updated_at": "2026-10-01T06:54:43Z",
-      "pushed_at": "2026-09-30T11:49:23Z"
     },
     {
       "id": 1377573287,
@@ -1928,8 +1928,30 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-30T11:51:52Z",
-      "updated_at": "2026-10-01T08:02:02Z",
-      "pushed_at": "2026-10-01T08:01:58Z"
+      "updated_at": "2026-10-01T08:56:45Z",
+      "pushed_at": "2026-10-01T08:56:50Z"
+    },
+    {
+      "id": 1392926487,
+      "name": "excali-mode",
+      "full_name": "yibie/excali-mode",
+      "description": "Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API",
+      "html_url": "https://github.com/yibie/excali-mode",
+      "homepage": null,
+      "stars": 30,
+      "forks": 0,
+      "language": "Emacs Lisp",
+      "topics": [
+        "cairo",
+        "diagrams",
+        "emacs",
+        "emacs-package",
+        "excalidraw",
+        "whiteboard"
+      ],
+      "created_at": "2026-09-28T14:24:02Z",
+      "updated_at": "2026-10-01T08:47:42Z",
+      "pushed_at": "2026-10-01T08:47:38Z"
     },
     {
       "id": 1375795989,
@@ -1973,28 +1995,6 @@
       "created_at": "2026-09-28T06:08:42Z",
       "updated_at": "2026-09-30T12:43:28Z",
       "pushed_at": "2026-09-29T02:39:21Z"
-    },
-    {
-      "id": 1392926487,
-      "name": "excali-mode",
-      "full_name": "yibie/excali-mode",
-      "description": "Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API",
-      "html_url": "https://github.com/yibie/excali-mode",
-      "homepage": null,
-      "stars": 29,
-      "forks": 0,
-      "language": "Emacs Lisp",
-      "topics": [
-        "cairo",
-        "diagrams",
-        "emacs",
-        "emacs-package",
-        "excalidraw",
-        "whiteboard"
-      ],
-      "created_at": "2026-09-28T14:24:02Z",
-      "updated_at": "2026-10-01T07:36:41Z",
-      "pushed_at": "2026-09-29T07:52:35Z"
     },
     {
       "id": 1376687962,
@@ -2362,6 +2362,21 @@
       "pushed_at": "2026-09-27T09:10:11Z"
     },
     {
+      "id": 1388388689,
+      "name": "receipt-protocol",
+      "full_name": "hhh7666/receipt-protocol",
+      "description": "Minimal cross-venue receipt protocol for AI agents",
+      "html_url": "https://github.com/hhh7666/receipt-protocol",
+      "homepage": null,
+      "stars": 17,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-26T02:17:51Z",
+      "updated_at": "2026-10-01T08:26:25Z",
+      "pushed_at": "2026-09-29T09:43:31Z"
+    },
+    {
       "id": 1379717308,
       "name": "heygen-mcp.github.io",
       "full_name": "heygen-mcp/heygen-mcp.github.io",
@@ -2380,21 +2395,6 @@
       "created_at": "2026-09-21T12:42:38Z",
       "updated_at": "2026-09-22T04:49:32Z",
       "pushed_at": "2026-09-22T04:49:29Z"
-    },
-    {
-      "id": 1388388689,
-      "name": "receipt-protocol",
-      "full_name": "hhh7666/receipt-protocol",
-      "description": "Minimal cross-venue receipt protocol for AI agents",
-      "html_url": "https://github.com/hhh7666/receipt-protocol",
-      "homepage": null,
-      "stars": 16,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-26T02:17:51Z",
-      "updated_at": "2026-09-30T21:23:31Z",
-      "pushed_at": "2026-09-29T09:43:31Z"
     },
     {
       "id": 1378545590,
