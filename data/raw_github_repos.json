@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/9/30 23:06:56",
-  "total_repos": 118,
+  "fetched_at": "2026/10/1 08:19:18",
+  "total_repos": 129,
   "repos": [
     {
       "id": 1377938409,
@@ -104,7 +104,7 @@
       "description": "Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.",
       "html_url": "https://github.com/Appllama/liquid-glass-chat-ui",
       "homepage": "https://appllama.io",
-      "stars": 207,
+      "stars": 208,
       "forks": 25,
       "language": "TypeScript",
       "topics": [
@@ -130,7 +130,7 @@
         "ui-components"
       ],
       "created_at": "2026-09-27T13:33:00Z",
-      "updated_at": "2026-09-30T08:54:04Z",
+      "updated_at": "2026-09-30T17:19:05Z",
       "pushed_at": "2026-09-27T18:48:24Z"
     },
     {
@@ -176,12 +176,12 @@
       "description": "Fractal layouts for web apps: nest panels to any depth, zoom to the part you need, and keep every view alive.",
       "html_url": "https://github.com/DanFessler/trellis",
       "homepage": "https://trellisui.com",
-      "stars": 196,
+      "stars": 200,
       "forks": 5,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-09-26T07:52:44Z",
-      "updated_at": "2026-09-30T02:40:56Z",
+      "updated_at": "2026-09-30T18:56:09Z",
       "pushed_at": "2026-09-29T02:10:42Z"
     },
     {
@@ -221,12 +221,12 @@
       "description": "A curated collection of resources, case studies, tools, and roadmaps to help you go from system design beginner to confidently architecting large-scale distributed systems.",
       "html_url": "https://github.com/avinash201199/System-Design-KIT",
       "homepage": "https://www.lets-code.co.in/interview/system-design-interview-questions/",
-      "stars": 187,
+      "stars": 189,
       "forks": 35,
       "language": null,
       "topics": [],
       "created_at": "2026-09-25T12:31:39Z",
-      "updated_at": "2026-09-30T12:29:45Z",
+      "updated_at": "2026-09-30T17:15:14Z",
       "pushed_at": "2026-09-25T16:10:39Z"
     },
     {
@@ -236,12 +236,12 @@
       "description": "A tool to build a Generic System Image from (almost) any stock firmware",
       "html_url": "https://github.com/MysticGSI/mysticgsi",
       "homepage": null,
-      "stars": 186,
+      "stars": 187,
       "forks": 55,
       "language": "Shell",
       "topics": [],
       "created_at": "2026-09-25T19:23:18Z",
-      "updated_at": "2026-09-30T14:22:21Z",
+      "updated_at": "2026-09-30T21:29:05Z",
       "pushed_at": "2026-09-29T19:30:34Z"
     },
     {
@@ -251,13 +251,38 @@
       "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
       "html_url": "https://github.com/seamusc/papermono-shopping-list",
       "homepage": null,
-      "stars": 176,
+      "stars": 178,
       "forks": 5,
       "language": "C++",
       "topics": [],
       "created_at": "2026-09-27T12:05:30Z",
-      "updated_at": "2026-09-30T14:50:12Z",
+      "updated_at": "2026-09-30T17:59:19Z",
       "pushed_at": "2026-09-29T10:57:04Z"
+    },
+    {
+      "id": 1387387974,
+      "name": "SeeCut",
+      "full_name": "YeJe-cpu/SeeCut",
+      "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+      "html_url": "https://github.com/YeJe-cpu/SeeCut",
+      "homepage": null,
+      "stars": 175,
+      "forks": 30,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai-avatar",
+        "ai-video",
+        "claude-code",
+        "gemini",
+        "heygen",
+        "hyperframes",
+        "talking-head",
+        "video-editing"
+      ],
+      "created_at": "2026-09-25T11:48:27Z",
+      "updated_at": "2026-09-30T23:21:09Z",
+      "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
       "id": 1379117882,
@@ -275,29 +300,28 @@
       "pushed_at": "2026-09-24T02:57:21Z"
     },
     {
-      "id": 1387387974,
-      "name": "SeeCut",
-      "full_name": "YeJe-cpu/SeeCut",
-      "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
-      "html_url": "https://github.com/YeJe-cpu/SeeCut",
+      "id": 1396738941,
+      "name": "dioramas",
+      "full_name": "blendi-remade/dioramas",
+      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "html_url": "https://github.com/blendi-remade/dioramas",
       "homepage": null,
-      "stars": 167,
-      "forks": 29,
+      "stars": 159,
+      "forks": 20,
       "language": "JavaScript",
       "topics": [
-        "agent-skill",
-        "ai-avatar",
-        "ai-video",
-        "claude-code",
-        "gemini",
-        "heygen",
-        "hyperframes",
-        "talking-head",
-        "video-editing"
+        "3d",
+        "creative-coding",
+        "fal",
+        "generative-ai",
+        "landing-page",
+        "meshy",
+        "threejs",
+        "webgl"
       ],
-      "created_at": "2026-09-25T11:48:27Z",
-      "updated_at": "2026-09-30T14:59:30Z",
-      "pushed_at": "2026-09-29T06:20:42Z"
+      "created_at": "2026-09-30T00:07:56Z",
+      "updated_at": "2026-09-30T23:22:10Z",
+      "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
       "id": 1382304020,
@@ -342,37 +366,13 @@
       "description": "客户端鉴权安全审计与决策旁路集成工作台",
       "html_url": "https://github.com/angusdevgo/Seep-Tool",
       "homepage": null,
-      "stars": 142,
-      "forks": 29,
+      "stars": 148,
+      "forks": 30,
       "language": "C#",
       "topics": [],
       "created_at": "2026-09-25T08:05:37Z",
-      "updated_at": "2026-09-30T02:14:58Z",
+      "updated_at": "2026-09-30T20:55:16Z",
       "pushed_at": "2026-09-29T06:40:02Z"
-    },
-    {
-      "id": 1396738941,
-      "name": "dioramas",
-      "full_name": "blendi-remade/dioramas",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "html_url": "https://github.com/blendi-remade/dioramas",
-      "homepage": null,
-      "stars": 142,
-      "forks": 18,
-      "language": "JavaScript",
-      "topics": [
-        "3d",
-        "creative-coding",
-        "fal",
-        "generative-ai",
-        "landing-page",
-        "meshy",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-09-30T15:03:28Z",
-      "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
       "id": 1378060456,
@@ -421,7 +421,7 @@
       "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
       "html_url": "https://github.com/springvoiceswell/semrush-ai-tool",
       "homepage": null,
-      "stars": 126,
+      "stars": 127,
       "forks": 0,
       "language": "JavaScript",
       "topics": [
@@ -445,7 +445,7 @@
         "serp-scraper"
       ],
       "created_at": "2026-09-25T04:00:09Z",
-      "updated_at": "2026-09-30T14:11:37Z",
+      "updated_at": "2026-09-30T17:47:15Z",
       "pushed_at": "2026-09-26T08:16:28Z"
     },
     {
@@ -455,8 +455,8 @@
       "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
       "html_url": "https://github.com/graygnatconsole/mcp-audit-tool",
       "homepage": null,
-      "stars": 119,
-      "forks": 1,
+      "stars": 122,
+      "forks": 2,
       "language": "Python",
       "topics": [
         "agent-security",
@@ -480,7 +480,7 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-09-26T02:42:57Z",
-      "updated_at": "2026-09-30T13:59:35Z",
+      "updated_at": "2026-09-30T19:44:54Z",
       "pushed_at": "2026-09-26T08:17:27Z"
     },
     {
@@ -600,6 +600,21 @@
       "pushed_at": "2026-09-22T14:18:57Z"
     },
     {
+      "id": 1391836763,
+      "name": "abstract-algebra-promo",
+      "full_name": "AnctyEnly453/abstract-algebra-promo",
+      "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
+      "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
+      "homepage": null,
+      "stars": 107,
+      "forks": 4,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-09-28T05:00:45Z",
+      "updated_at": "2026-09-30T21:04:38Z",
+      "pushed_at": "2026-09-28T05:04:35Z"
+    },
+    {
       "id": 1377007152,
       "name": "ritridata",
       "full_name": "reco-tools/ritridata",
@@ -646,6 +661,32 @@
       "pushed_at": "2026-09-25T13:13:11Z"
     },
     {
+      "id": 1387850278,
+      "name": "simfleet",
+      "full_name": "entropyconquers/simfleet",
+      "description": "One control plane for parallel React Native work on macOS: slimmed iOS simulators & Android emulators, live dashboard, leased Metro ports, shared native build cache, and Claude Code / Codex device attribution.",
+      "html_url": "https://github.com/entropyconquers/simfleet",
+      "homepage": "https://entropyconquers.github.io/simfleet/",
+      "stars": 104,
+      "forks": 4,
+      "language": "TypeScript",
+      "topics": [
+        "android-emulator",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "expo",
+        "ios-simulator",
+        "macos",
+        "metro",
+        "react-native",
+        "scrcpy"
+      ],
+      "created_at": "2026-09-25T16:16:20Z",
+      "updated_at": "2026-09-30T16:25:14Z",
+      "pushed_at": "2026-09-28T22:56:10Z"
+    },
+    {
       "id": 1377581532,
       "name": "card-design-generator",
       "full_name": "Susie-Meow/card-design-generator",
@@ -661,30 +702,50 @@
       "pushed_at": "2026-09-23T13:07:24Z"
     },
     {
-      "id": 1387850278,
-      "name": "simfleet",
-      "full_name": "entropyconquers/simfleet",
-      "description": "One control plane for parallel React Native work on macOS: slimmed iOS simulators & Android emulators, live dashboard, leased Metro ports, shared native build cache, and Claude Code / Codex device attribution.",
-      "html_url": "https://github.com/entropyconquers/simfleet",
-      "homepage": "https://entropyconquers.github.io/simfleet/",
+      "id": 1391377497,
+      "name": "max-payne-2-vr",
+      "full_name": "evilSheep/max-payne-2-vr",
+      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
+      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
+      "homepage": null,
       "stars": 102,
-      "forks": 3,
-      "language": "TypeScript",
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-27T20:26:56Z",
+      "updated_at": "2026-09-30T22:53:39Z",
+      "pushed_at": "2026-09-29T17:09:51Z"
+    },
+    {
+      "id": 1387885716,
+      "name": "redStackPRO",
+      "full_name": "devZero-Security/redStackPRO",
+      "description": "A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform and Ansible, and deploy it yourself. Your cloud credentials never leave your machine.",
+      "html_url": "https://github.com/devZero-Security/redStackPRO",
+      "homepage": null,
+      "stars": 102,
+      "forks": 9,
+      "language": "Python",
       "topics": [
-        "android-emulator",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "expo",
-        "ios-simulator",
-        "macos",
-        "metro",
-        "react-native",
-        "scrcpy"
+        "adaptixc2",
+        "aws",
+        "azure",
+        "cybersecurity",
+        "esxi",
+        "gcp",
+        "goad",
+        "infrastructure-as-code",
+        "mythic",
+        "offensive-security",
+        "proxmox",
+        "red-team-infrastructure",
+        "red-teaming",
+        "sliver",
+        "teraform"
       ],
-      "created_at": "2026-09-25T16:16:20Z",
-      "updated_at": "2026-09-30T14:43:02Z",
-      "pushed_at": "2026-09-28T22:56:10Z"
+      "created_at": "2026-09-25T16:39:59Z",
+      "updated_at": "2026-09-30T23:51:55Z",
+      "pushed_at": "2026-09-30T14:28:36Z"
     },
     {
       "id": 1385781283,
@@ -713,36 +774,6 @@
       "created_at": "2026-09-24T15:16:59Z",
       "updated_at": "2026-09-28T09:40:13Z",
       "pushed_at": "2026-09-24T15:17:46Z"
-    },
-    {
-      "id": 1391836763,
-      "name": "abstract-algebra-promo",
-      "full_name": "AnctyEnly453/abstract-algebra-promo",
-      "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
-      "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
-      "homepage": null,
-      "stars": 98,
-      "forks": 4,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-09-28T05:00:45Z",
-      "updated_at": "2026-09-30T15:02:26Z",
-      "pushed_at": "2026-09-28T05:04:35Z"
-    },
-    {
-      "id": 1391377497,
-      "name": "max-payne-2-vr",
-      "full_name": "evilSheep/max-payne-2-vr",
-      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
-      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
-      "homepage": null,
-      "stars": 97,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-09-30T14:47:05Z",
-      "pushed_at": "2026-09-29T17:09:51Z"
     },
     {
       "id": 1386267511,
@@ -857,42 +888,32 @@
       "pushed_at": "2026-09-18T11:35:53Z"
     },
     {
-      "id": 1387885716,
-      "name": "redStackPRO",
-      "full_name": "devZero-Security/redStackPRO",
-      "description": "A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform and Ansible, and deploy it yourself. Your cloud credentials never leave your machine.",
-      "html_url": "https://github.com/devZero-Security/redStackPRO",
+      "id": 1397599794,
+      "name": "livecanvas",
+      "full_name": "pengchujin/livecanvas",
+      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "html_url": "https://github.com/pengchujin/livecanvas",
       "homepage": null,
-      "stars": 86,
+      "stars": 82,
       "forks": 8,
-      "language": "Python",
+      "language": "Swift",
       "topics": [
-        "adaptixc2",
-        "aws",
-        "azure",
-        "cybersecurity",
-        "esxi",
-        "gcp",
-        "goad",
-        "infrastructure-as-code",
-        "mythic",
-        "offensive-security",
-        "proxmox",
-        "red-team-infrastructure",
-        "red-teaming",
-        "sliver",
-        "teraform"
+        "agent-skills",
+        "codex",
+        "live-photo",
+        "motion-design",
+        "remotion"
       ],
-      "created_at": "2026-09-25T16:39:59Z",
-      "updated_at": "2026-09-30T14:28:43Z",
-      "pushed_at": "2026-09-30T14:28:36Z"
+      "created_at": "2026-09-30T10:26:35Z",
+      "updated_at": "2026-10-01T00:09:53Z",
+      "pushed_at": "2026-09-30T11:03:52Z"
     },
     {
       "id": 1386777688,
-      "name": "WalletGen",
-      "full_name": "pengakuza/WalletGen",
+      "name": "seed-phrase-generator",
+      "full_name": "pengakuza/seed-phrase-generator",
       "description": "WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
-      "html_url": "https://github.com/pengakuza/WalletGen",
+      "html_url": "https://github.com/pengakuza/seed-phrase-generator",
       "homepage": null,
       "stars": 80,
       "forks": 6,
@@ -920,8 +941,8 @@
         "wallets-management"
       ],
       "created_at": "2026-09-25T04:49:37Z",
-      "updated_at": "2026-09-30T10:59:45Z",
-      "pushed_at": "2026-09-25T04:55:16Z"
+      "updated_at": "2026-09-30T15:47:34Z",
+      "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
       "id": 1377321806,
@@ -937,6 +958,26 @@
       "created_at": "2026-09-19T15:34:11Z",
       "updated_at": "2026-09-22T16:59:42Z",
       "pushed_at": "2026-09-21T13:11:21Z"
+    },
+    {
+      "id": 1390994799,
+      "name": "CalcKernel",
+      "full_name": "luxine/CalcKernel",
+      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
+      "html_url": "https://github.com/luxine/CalcKernel",
+      "homepage": "https://calckernel.org",
+      "stars": 76,
+      "forks": 1,
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "programming-language",
+        "rust",
+        "webassembly"
+      ],
+      "created_at": "2026-09-27T14:59:35Z",
+      "updated_at": "2026-10-01T00:01:09Z",
+      "pushed_at": "2026-09-30T02:03:18Z"
     },
     {
       "id": 1375761817,
@@ -998,6 +1039,21 @@
       "pushed_at": "2026-09-30T14:20:33Z"
     },
     {
+      "id": 1396348192,
+      "name": "compress",
+      "full_name": "spenmcke/compress",
+      "description": "Free CLI from Everest that compresses Codex tool output.",
+      "html_url": "https://github.com/spenmcke/compress",
+      "homepage": null,
+      "stars": 67,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-29T18:36:31Z",
+      "updated_at": "2026-09-30T21:41:55Z",
+      "pushed_at": "2026-09-29T20:28:47Z"
+    },
+    {
       "id": 1375694442,
       "name": "Jev-Case",
       "full_name": "Hiwoniu/Jev-Case",
@@ -1013,19 +1069,19 @@
       "pushed_at": "2026-09-22T08:26:45Z"
     },
     {
-      "id": 1396348192,
-      "name": "compress",
-      "full_name": "spenmcke/compress",
-      "description": "Free CLI from Everest that compresses Codex tool output.",
-      "html_url": "https://github.com/spenmcke/compress",
+      "id": 1396432432,
+      "name": "json-toolkit",
+      "full_name": "ralf1qdev/json-toolkit",
+      "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
+      "html_url": "https://github.com/ralf1qdev/json-toolkit",
       "homepage": null,
-      "stars": 65,
+      "stars": 64,
       "forks": 0,
       "language": "Python",
       "topics": [],
-      "created_at": "2026-09-29T18:36:31Z",
-      "updated_at": "2026-09-30T08:32:41Z",
-      "pushed_at": "2026-09-29T20:28:47Z"
+      "created_at": "2026-09-29T19:13:13Z",
+      "updated_at": "2026-09-30T20:20:02Z",
+      "pushed_at": "2026-09-29T20:03:08Z"
     },
     {
       "id": 1387598614,
@@ -1064,7 +1120,7 @@
       "description": "Comment2Shell is a zero click pre auth RCE exploit for WordPress CVE-2026-93485. An anonymous comment plants stored XSS that fires when an admin views the post and drops a self deleting webshell. Full chain PoC with scanner interactive shell Nuclei template and Docker",
       "html_url": "https://github.com/DeathShotXD/Comment2Shell",
       "homepage": null,
-      "stars": 59,
+      "stars": 60,
       "forks": 14,
       "language": "Python",
       "topics": [
@@ -1088,8 +1144,8 @@
         "zeroday"
       ],
       "created_at": "2026-09-25T00:13:54Z",
-      "updated_at": "2026-09-30T14:29:06Z",
-      "pushed_at": "2026-09-29T23:45:08Z"
+      "updated_at": "2026-09-30T23:09:10Z",
+      "pushed_at": "2026-09-30T23:09:06Z"
     },
     {
       "id": 1392901645,
@@ -1113,7 +1169,7 @@
       "description": "A curated collection of resources, frameworks, tools, and roadmaps to help you go from Java beginner to production-ready backend engineer.",
       "html_url": "https://github.com/avinash201199/Java-KIT",
       "homepage": "https://www.lets-code.co.in/",
-      "stars": 58,
+      "stars": 59,
       "forks": 9,
       "language": null,
       "topics": [
@@ -1122,7 +1178,7 @@
         "java8"
       ],
       "created_at": "2026-09-25T01:49:32Z",
-      "updated_at": "2026-09-29T20:22:35Z",
+      "updated_at": "2026-09-30T17:15:12Z",
       "pushed_at": "2026-09-25T01:52:32Z"
     },
     {
@@ -1234,6 +1290,21 @@
       "pushed_at": "2026-09-24T16:45:12Z"
     },
     {
+      "id": 1388808163,
+      "name": "openai-proxy",
+      "full_name": "kokojacket/openai-proxy",
+      "description": "Local Responses API proxy for the ChatGPT Excel backend, with client-side tool forwarding.",
+      "html_url": "https://github.com/kokojacket/openai-proxy",
+      "homepage": null,
+      "stars": 52,
+      "forks": 16,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-26T07:46:48Z",
+      "updated_at": "2026-09-30T20:24:49Z",
+      "pushed_at": "2026-09-27T17:19:35Z"
+    },
+    {
       "id": 1379547345,
       "name": "monero-web-wallet",
       "full_name": "AMLChecker/monero-web-wallet",
@@ -1268,6 +1339,21 @@
       "created_at": "2026-09-21T10:53:14Z",
       "updated_at": "2026-09-21T17:27:33Z",
       "pushed_at": "2026-09-21T17:29:57Z"
+    },
+    {
+      "id": 1393486459,
+      "name": "electromagnetism",
+      "full_name": "thebuggeddev/electromagnetism",
+      "description": "An interactive Electromagnetic field exploration built using Claude Opus 5.5",
+      "html_url": "https://github.com/thebuggeddev/electromagnetism",
+      "homepage": null,
+      "stars": 50,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-28T17:54:25Z",
+      "updated_at": "2026-09-30T19:39:41Z",
+      "pushed_at": "2026-09-28T17:55:29Z"
     },
     {
       "id": 1379859926,
@@ -1340,28 +1426,13 @@
       "pushed_at": "2026-09-23T22:55:56Z"
     },
     {
-      "id": 1375718495,
-      "name": "jornadas-cloud-2026",
-      "full_name": "betta-tech/jornadas-cloud-2026",
-      "description": "Proyecto de ejemplo de las Jornadas Cloud 2026: de una web estática en S3 + CloudFront a un backend serverless con Lambda, API Gateway, DynamoDB y observabilidad en CloudWatch.",
-      "html_url": "https://github.com/betta-tech/jornadas-cloud-2026",
-      "homepage": null,
-      "stars": 43,
-      "forks": 26,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-09-18T10:39:05Z",
-      "updated_at": "2026-09-23T14:14:14Z",
-      "pushed_at": "2026-09-18T10:39:08Z"
-    },
-    {
       "id": 1394206642,
       "name": "ai-chatroom",
       "full_name": "Moris-kr/ai-chatroom",
       "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
       "html_url": "https://github.com/Moris-kr/ai-chatroom",
       "homepage": null,
-      "stars": 43,
+      "stars": 44,
       "forks": 8,
       "language": "JavaScript",
       "topics": [
@@ -1387,8 +1458,23 @@
         "weeb"
       ],
       "created_at": "2026-09-29T03:42:10Z",
-      "updated_at": "2026-09-30T13:59:31Z",
+      "updated_at": "2026-09-30T15:34:15Z",
       "pushed_at": "2026-09-29T05:16:14Z"
+    },
+    {
+      "id": 1375718495,
+      "name": "jornadas-cloud-2026",
+      "full_name": "betta-tech/jornadas-cloud-2026",
+      "description": "Proyecto de ejemplo de las Jornadas Cloud 2026: de una web estática en S3 + CloudFront a un backend serverless con Lambda, API Gateway, DynamoDB y observabilidad en CloudWatch.",
+      "html_url": "https://github.com/betta-tech/jornadas-cloud-2026",
+      "homepage": null,
+      "stars": 43,
+      "forks": 26,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-18T10:39:05Z",
+      "updated_at": "2026-09-23T14:14:14Z",
+      "pushed_at": "2026-09-18T10:39:08Z"
     },
     {
       "id": 1382441164,
@@ -1532,25 +1618,19 @@
       "pushed_at": "2026-09-19T12:16:43Z"
     },
     {
-      "id": 1397599794,
-      "name": "livecanvas",
-      "full_name": "pengchujin/livecanvas",
-      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
-      "html_url": "https://github.com/pengchujin/livecanvas",
+      "id": 1389869253,
+      "name": "webkvm",
+      "full_name": "Slaker19/webkvm",
+      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+      "html_url": "https://github.com/Slaker19/webkvm",
       "homepage": null,
       "stars": 39,
-      "forks": 3,
-      "language": "Swift",
-      "topics": [
-        "agent-skills",
-        "codex",
-        "live-photo",
-        "motion-design",
-        "remotion"
-      ],
-      "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-09-30T14:54:06Z",
-      "pushed_at": "2026-09-30T11:03:52Z"
+      "forks": 2,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-26T23:17:14Z",
+      "updated_at": "2026-09-30T23:21:39Z",
+      "pushed_at": "2026-09-30T23:21:38Z"
     },
     {
       "id": 1382790500,
@@ -1605,19 +1685,34 @@
       "pushed_at": "2026-09-19T17:40:42Z"
     },
     {
-      "id": 1389869253,
-      "name": "webkvm",
-      "full_name": "Slaker19/webkvm",
-      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
-      "html_url": "https://github.com/Slaker19/webkvm",
+      "id": 1396072736,
+      "name": "homedroid",
+      "full_name": "sudiptacmd/homedroid",
+      "description": "Turn an old Android phone into a home server: SSH, web hosting, Jellyfin with hardware transcoding, Immich, qBittorrent, Home Assistant and a web dashboard. No root.",
+      "html_url": "https://github.com/sudiptacmd/homedroid",
       "homepage": null,
-      "stars": 36,
-      "forks": 2,
-      "language": "Go",
+      "stars": 35,
+      "forks": 0,
+      "language": "Kotlin",
       "topics": [],
-      "created_at": "2026-09-26T23:17:14Z",
-      "updated_at": "2026-09-30T00:46:04Z",
-      "pushed_at": "2026-09-29T16:14:23Z"
+      "created_at": "2026-09-29T16:59:42Z",
+      "updated_at": "2026-09-30T17:33:20Z",
+      "pushed_at": "2026-09-30T08:36:12Z"
+    },
+    {
+      "id": 1396835637,
+      "name": "website-playbook",
+      "full_name": "7-an/website-playbook",
+      "description": "造站手册：用 AI 做网站的可复用方法，从需求与参考源码到验收和维护。",
+      "html_url": "https://github.com/7-an/website-playbook",
+      "homepage": null,
+      "stars": 35,
+      "forks": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-30T02:18:22Z",
+      "updated_at": "2026-09-30T21:50:59Z",
+      "pushed_at": "2026-09-30T02:22:23Z"
     },
     {
       "id": 1377573287,
@@ -1644,19 +1739,30 @@
       "pushed_at": "2026-09-20T00:17:16Z"
     },
     {
-      "id": 1396072736,
-      "name": "homedroid",
-      "full_name": "sudiptacmd/homedroid",
-      "description": "Turn an old Android phone into a home server: SSH, web hosting, Jellyfin with hardware transcoding, Immich, qBittorrent, Home Assistant and a web dashboard. No root.",
-      "html_url": "https://github.com/sudiptacmd/homedroid",
-      "homepage": null,
-      "stars": 33,
-      "forks": 0,
-      "language": "Kotlin",
-      "topics": [],
-      "created_at": "2026-09-29T16:59:42Z",
-      "updated_at": "2026-09-30T13:48:14Z",
-      "pushed_at": "2026-09-30T08:36:12Z"
+      "id": 1389294768,
+      "name": "motion-graphics-skills",
+      "full_name": "charlie947/motion-graphics-skills",
+      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
+      "html_url": "https://github.com/charlie947/motion-graphics-skills",
+      "homepage": "https://charliehills.substack.com",
+      "stars": 32,
+      "forks": 5,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-marketing",
+        "animation",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hyperframes",
+        "motion-graphics",
+        "video"
+      ],
+      "created_at": "2026-09-26T13:57:34Z",
+      "updated_at": "2026-09-30T23:03:33Z",
+      "pushed_at": "2026-09-30T11:49:23Z"
     },
     {
       "id": 1386746644,
@@ -1753,30 +1859,32 @@
       "pushed_at": "2026-09-27T17:07:26Z"
     },
     {
-      "id": 1389294768,
-      "name": "motion-graphics-skills",
-      "full_name": "charlie947/motion-graphics-skills",
-      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
-      "html_url": "https://github.com/charlie947/motion-graphics-skills",
-      "homepage": "https://charliehills.substack.com",
+      "id": 1395203963,
+      "name": "duckapi",
+      "full_name": "hirotomasato/duckapi",
+      "description": "OpenAI- and Anthropic-compatible API for Duck.ai, driven by a real Chrome browser via Playwright. Streaming chat, image generation, session reuse, and a web dashboard.",
+      "html_url": "https://github.com/hirotomasato/duckapi",
+      "homepage": null,
       "stars": 30,
-      "forks": 5,
-      "language": "Shell",
+      "forks": 4,
+      "language": "Python",
       "topics": [
-        "agent-skills",
-        "ai-marketing",
-        "animation",
+        "anthropic-compatible",
+        "api-proxy",
+        "chat-completions",
         "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hyperframes",
-        "motion-graphics",
-        "video"
+        "duckai",
+        "fastapi",
+        "image-generation",
+        "llm",
+        "openai-compatible",
+        "playwright",
+        "reverse-proxy",
+        "self-hosted"
       ],
-      "created_at": "2026-09-26T13:57:34Z",
-      "updated_at": "2026-09-30T14:26:53Z",
-      "pushed_at": "2026-09-30T11:49:23Z"
+      "created_at": "2026-09-29T12:24:12Z",
+      "updated_at": "2026-09-30T15:07:18Z",
+      "pushed_at": "2026-09-29T14:46:37Z"
     },
     {
       "id": 1375795989,
@@ -1872,6 +1980,21 @@
       "pushed_at": "2026-09-30T13:53:19Z"
     },
     {
+      "id": 1390510930,
+      "name": "Breast-cancer-predication-",
+      "full_name": "Anusha7487/Breast-cancer-predication-",
+      "description": "Breast Cancer Prediction is a Flask-based machine learning web application that predicts whether a breast tumor is benign or malignant using medical diagnostic features. The system provides real-time predictions through a simple user interface, helping support early detection, diagnosis, and healthcare decision-making.",
+      "html_url": "https://github.com/Anusha7487/Breast-cancer-predication-",
+      "homepage": null,
+      "stars": 28,
+      "forks": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-27T08:54:59Z",
+      "updated_at": "2026-09-29T16:51:13Z",
+      "pushed_at": "2026-09-27T08:55:38Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -1891,6 +2014,58 @@
       "created_at": "2026-09-21T10:59:28Z",
       "updated_at": "2026-09-23T19:20:05Z",
       "pushed_at": "2026-09-23T15:22:01Z"
+    },
+    {
+      "id": 1386710374,
+      "name": "drawa",
+      "full_name": "HimalayanNomads/drawa",
+      "description": "A browser canvas for coding agents: run Claude Code, OpenCode and Codex sessions side by side, watch what they touch, review every change.",
+      "html_url": "https://github.com/HimalayanNomads/drawa",
+      "homepage": "https://drawa.cc",
+      "stars": 26,
+      "forks": 4,
+      "language": "TypeScript",
+      "topics": [
+        "canvas",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "hacktoberfest",
+        "opencode"
+      ],
+      "created_at": "2026-09-25T03:53:30Z",
+      "updated_at": "2026-09-30T18:03:01Z",
+      "pushed_at": "2026-09-30T15:36:56Z"
+    },
+    {
+      "id": 1387743071,
+      "name": "explainroo",
+      "full_name": "vincentsch/explainroo",
+      "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
+      "html_url": "https://github.com/vincentsch/explainroo",
+      "homepage": "https://www.explainroo.com",
+      "stars": 26,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "animation",
+        "canvas",
+        "claude-code",
+        "codex",
+        "explainer-video",
+        "ffmpeg",
+        "javascript",
+        "kokoro",
+        "product-demo",
+        "text-to-speech",
+        "video-generation",
+        "whisper"
+      ],
+      "created_at": "2026-09-25T15:09:54Z",
+      "updated_at": "2026-09-30T23:34:17Z",
+      "pushed_at": "2026-09-30T12:50:51Z"
     },
     {
       "id": 1377235275,
@@ -1959,6 +2134,21 @@
       "pushed_at": "2026-09-28T21:01:32Z"
     },
     {
+      "id": 1389788067,
+      "name": "mario-kart-64-ps2",
+      "full_name": "anthoo582/mario-kart-64-ps2",
+      "description": "Port de Mario Kart 64 a PlayStation 2: el juego decompilado sobre una capa nueva que reemplaza el hardware de la N64. Audio original con la mezcla exacta, modo 60 FPS, Memory Card y ISO para OPL y PCSX2.",
+      "html_url": "https://github.com/anthoo582/mario-kart-64-ps2",
+      "homepage": null,
+      "stars": 21,
+      "forks": 5,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-09-26T21:01:58Z",
+      "updated_at": "2026-09-30T21:44:32Z",
+      "pushed_at": "2026-09-30T21:39:26Z"
+    },
+    {
       "id": 1379231612,
       "name": "bookcard.koplugin",
       "full_name": "peterboda236/bookcard.koplugin",
@@ -1979,9 +2169,9 @@
       "id": 1390720234,
       "name": "fluvy",
       "full_name": "acosta290/fluvy",
-      "description": "A premium theme and card library for Home Assistant: a generated light and dark theme, thirty-nine cards, an automatic dashboard and a settings panel. Installs through HACS.",
+      "description": "A premium theme and card library for Home Assistant: a generated light and dark theme, forty-one cards, five automatic dashboards, a wall-panel kiosk mode and a settings panel. Installs through HACS.",
       "html_url": "https://github.com/acosta290/fluvy",
-      "homepage": "https://github.com/acosta290/fluvy#readme",
+      "homepage": "https://acosta290.github.io/fluvy/",
       "stars": 20,
       "forks": 1,
       "language": "TypeScript",
@@ -1990,15 +2180,19 @@
         "hacs",
         "hacs-integration",
         "home-assistant",
+        "home-assistant-theme",
+        "kiosk",
         "lit",
         "lovelace",
+        "lovelace-custom-card",
         "smart-home",
         "theme",
-        "typescript"
+        "typescript",
+        "wall-panel"
       ],
       "created_at": "2026-09-27T11:43:34Z",
-      "updated_at": "2026-09-30T09:02:35Z",
-      "pushed_at": "2026-09-30T09:02:31Z"
+      "updated_at": "2026-09-30T15:55:41Z",
+      "pushed_at": "2026-09-30T15:55:37Z"
     },
     {
       "id": 1393284678,
@@ -2028,21 +2222,6 @@
       "created_at": "2026-09-28T16:37:49Z",
       "updated_at": "2026-09-30T12:46:20Z",
       "pushed_at": "2026-09-28T16:39:05Z"
-    },
-    {
-      "id": 1389788067,
-      "name": "mario-kart-64-ps2",
-      "full_name": "anthoo582/mario-kart-64-ps2",
-      "description": "Port de Mario Kart 64 a PlayStation 2: el juego decompilado sobre una capa nueva que reemplaza el hardware de la N64. Audio original con la mezcla exacta, modo 60 FPS, Memory Card y ISO para OPL y PCSX2.",
-      "html_url": "https://github.com/anthoo582/mario-kart-64-ps2",
-      "homepage": null,
-      "stars": 19,
-      "forks": 5,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-09-26T21:01:58Z",
-      "updated_at": "2026-09-30T08:00:06Z",
-      "pushed_at": "2026-09-27T23:06:42Z"
     },
     {
       "id": 1387292246,
@@ -2088,6 +2267,52 @@
       "created_at": "2026-09-21T12:42:38Z",
       "updated_at": "2026-09-22T04:49:32Z",
       "pushed_at": "2026-09-22T04:49:29Z"
+    },
+    {
+      "id": 1386745578,
+      "name": "black-wire-pinouts",
+      "full_name": "valleytechsolutions/black-wire-pinouts",
+      "description": "Board pinouts, GPIO, displays, sensors and maker module references for ESP32, Arduino, Raspberry Pi and RP2040/RP2350. Model, revision, source credits and coverage.",
+      "html_url": "https://github.com/valleytechsolutions/black-wire-pinouts",
+      "homepage": "https://valleytech-black-wire-guide.pages.dev/",
+      "stars": 16,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "arduino",
+        "displays",
+        "electronics",
+        "embedded-systems",
+        "esp32",
+        "gpio",
+        "hardware",
+        "maker",
+        "pinout",
+        "raspberry-pi",
+        "reference",
+        "rp2040",
+        "rp2350",
+        "sensors",
+        "technical-documentation"
+      ],
+      "created_at": "2026-09-25T04:21:19Z",
+      "updated_at": "2026-09-30T21:17:12Z",
+      "pushed_at": "2026-09-28T18:34:21Z"
+    },
+    {
+      "id": 1388388689,
+      "name": "receipt-protocol",
+      "full_name": "hhh7666/receipt-protocol",
+      "description": "Minimal cross-venue receipt protocol for AI agents",
+      "html_url": "https://github.com/hhh7666/receipt-protocol",
+      "homepage": null,
+      "stars": 16,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-26T02:17:51Z",
+      "updated_at": "2026-09-30T21:23:31Z",
+      "pushed_at": "2026-09-29T09:43:31Z"
     },
     {
       "id": 1378545590,
@@ -2147,35 +2372,33 @@
       "pushed_at": "2026-09-20T12:23:53Z"
     },
     {
-      "id": 1386745578,
-      "name": "black-wire-pinouts",
-      "full_name": "valleytechsolutions/black-wire-pinouts",
-      "description": "Board pinouts, GPIO, displays, sensors and maker module references for ESP32, Arduino, Raspberry Pi and RP2040/RP2350. Model, revision, source credits and coverage.",
-      "html_url": "https://github.com/valleytechsolutions/black-wire-pinouts",
-      "homepage": "https://valleytech-black-wire-guide.pages.dev/",
+      "id": 1390095889,
+      "name": "html-anime",
+      "full_name": "blixvip/html-anime",
+      "description": "HTML anime generator: prompt a scene, get a shot sheet, and have Claude, Codex, Cursor, or Grok draw the film in code. No video model.",
+      "html_url": "https://github.com/blixvip/html-anime",
+      "homepage": "https://blixvip.github.io/html-anime/",
       "stars": 15,
-      "forks": 1,
-      "language": "Python",
+      "forks": 0,
+      "language": "HTML",
       "topics": [
-        "arduino",
-        "displays",
-        "electronics",
-        "embedded-systems",
-        "esp32",
-        "gpio",
-        "hardware",
-        "maker",
-        "pinout",
-        "raspberry-pi",
-        "reference",
-        "rp2040",
-        "rp2350",
-        "sensors",
-        "technical-documentation"
+        "agent-skills",
+        "ai-agents",
+        "animation",
+        "anime",
+        "claude-code",
+        "codex",
+        "cursor",
+        "generative-art",
+        "grok",
+        "html-animation",
+        "hyperframes",
+        "local-first",
+        "shot-sheet"
       ],
-      "created_at": "2026-09-25T04:21:19Z",
-      "updated_at": "2026-09-29T06:29:32Z",
-      "pushed_at": "2026-09-28T18:34:21Z"
+      "created_at": "2026-09-27T04:12:58Z",
+      "updated_at": "2026-09-30T21:00:38Z",
+      "pushed_at": "2026-09-29T23:13:09Z"
     },
     {
       "id": 1379723846,
@@ -2236,21 +2459,6 @@
       "created_at": "2026-09-21T12:42:12Z",
       "updated_at": "2026-09-22T04:49:19Z",
       "pushed_at": "2026-09-22T04:49:16Z"
-    },
-    {
-      "id": 1388388689,
-      "name": "receipt-protocol",
-      "full_name": "hhh7666/receipt-protocol",
-      "description": "Minimal cross-venue receipt protocol for AI agents",
-      "html_url": "https://github.com/hhh7666/receipt-protocol",
-      "homepage": null,
-      "stars": 14,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-26T02:17:51Z",
-      "updated_at": "2026-09-29T16:07:13Z",
-      "pushed_at": "2026-09-29T09:43:31Z"
     },
     {
       "id": 1379722239,
@@ -2432,6 +2640,21 @@
       "created_at": "2026-09-25T12:38:06Z",
       "updated_at": "2026-09-28T06:42:26Z",
       "pushed_at": "2026-09-25T12:47:25Z"
+    },
+    {
+      "id": 1393472690,
+      "name": "zhijian-receipt",
+      "full_name": "Pomecro/zhijian-receipt",
+      "description": "纸间 · 小票生成器｜简洁的小票制作工具，支持自动计算、图片导入、本地暂存和高清 PNG 导出。",
+      "html_url": "https://github.com/Pomecro/zhijian-receipt",
+      "homepage": null,
+      "stars": 9,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-09-28T17:49:04Z",
+      "updated_at": "2026-09-30T03:23:17Z",
+      "pushed_at": "2026-09-29T11:10:59Z"
     }
   ]
 }

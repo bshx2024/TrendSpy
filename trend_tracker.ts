@@ -77,6 +77,7 @@ export class TrendTracker {
     const todayStr = new Date().toISOString().split("T")[0];
     const existing = this.db.records[key];
 
+    if (!existing) {
       // 首次出现的新词
       const firstSeen = params.firstSeenEstimate || todayStr;
       const breakout = params.isBreakout ? (params.breakoutEstimate || todayStr) : "";

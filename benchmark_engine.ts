@@ -252,6 +252,7 @@ export async function runBenchmarkEngine(
       record.lifecycleStage = "过气阴跌";
       record.suggestedAction = "【严禁接盘】该词冲顶后热度已断崖式跌平，当前大盘彻底沉寂，无持续套利红利！";
     }
+    const qTarget = encodeURIComponent(item.query);
     const qCompare = `${qTarget},${encodeURIComponent(GOLDEN_BENCHMARK)}`;
     const trendsExploreUrl = `https://trends.google.com/trends/explore?date=today%201-m&q=${qCompare}`;
     const serpUrl = `https://www.google.com/search?q=${qTarget}`;
