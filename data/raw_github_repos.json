@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/1 10:28:15",
-  "total_repos": 130,
+  "fetched_at": "2026/10/1 11:06:27",
+  "total_repos": 131,
   "repos": [
     {
       "id": 1377938409,
@@ -367,7 +367,7 @@
       "html_url": "https://github.com/angusdevgo/Seep-Tool",
       "homepage": null,
       "stars": 150,
-      "forks": 30,
+      "forks": 31,
       "language": "C#",
       "topics": [],
       "created_at": "2026-09-25T08:05:37Z",
@@ -421,7 +421,7 @@
       "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
       "html_url": "https://github.com/springvoiceswell/semrush-ai-tool",
       "homepage": null,
-      "stars": 127,
+      "stars": 128,
       "forks": 0,
       "language": "JavaScript",
       "topics": [
@@ -445,7 +445,7 @@
         "serp-scraper"
       ],
       "created_at": "2026-09-25T04:00:09Z",
-      "updated_at": "2026-09-30T17:47:15Z",
+      "updated_at": "2026-10-01T02:55:06Z",
       "pushed_at": "2026-09-26T08:16:28Z"
     },
     {
@@ -455,7 +455,7 @@
       "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
       "html_url": "https://github.com/graygnatconsole/mcp-audit-tool",
       "homepage": null,
-      "stars": 122,
+      "stars": 123,
       "forks": 2,
       "language": "Python",
       "topics": [
@@ -480,7 +480,7 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-09-26T02:42:57Z",
-      "updated_at": "2026-09-30T19:44:54Z",
+      "updated_at": "2026-10-01T02:41:56Z",
       "pushed_at": "2026-09-26T08:17:27Z"
     },
     {
@@ -647,7 +647,7 @@
       "description": "A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform and Ansible, and deploy it yourself. Your cloud credentials never leave your machine.",
       "html_url": "https://github.com/devZero-Security/redStackPRO",
       "homepage": null,
-      "stars": 105,
+      "stars": 106,
       "forks": 9,
       "language": "Python",
       "topics": [
@@ -668,8 +668,34 @@
         "teraform"
       ],
       "created_at": "2026-09-25T16:39:59Z",
-      "updated_at": "2026-10-01T01:32:55Z",
+      "updated_at": "2026-10-01T02:58:58Z",
       "pushed_at": "2026-09-30T14:28:36Z"
+    },
+    {
+      "id": 1387850278,
+      "name": "simfleet",
+      "full_name": "entropyconquers/simfleet",
+      "description": "One control plane for parallel React Native work on macOS: slimmed iOS simulators & Android emulators, live dashboard, leased Metro ports, shared native build cache, and Claude Code / Codex device attribution.",
+      "html_url": "https://github.com/entropyconquers/simfleet",
+      "homepage": "https://entropyconquers.github.io/simfleet/",
+      "stars": 105,
+      "forks": 4,
+      "language": "TypeScript",
+      "topics": [
+        "android-emulator",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "expo",
+        "ios-simulator",
+        "macos",
+        "metro",
+        "react-native",
+        "scrcpy"
+      ],
+      "created_at": "2026-09-25T16:16:20Z",
+      "updated_at": "2026-10-01T02:46:37Z",
+      "pushed_at": "2026-09-28T22:56:10Z"
     },
     {
       "id": 1387522551,
@@ -692,32 +718,6 @@
       "pushed_at": "2026-09-25T13:13:11Z"
     },
     {
-      "id": 1387850278,
-      "name": "simfleet",
-      "full_name": "entropyconquers/simfleet",
-      "description": "One control plane for parallel React Native work on macOS: slimmed iOS simulators & Android emulators, live dashboard, leased Metro ports, shared native build cache, and Claude Code / Codex device attribution.",
-      "html_url": "https://github.com/entropyconquers/simfleet",
-      "homepage": "https://entropyconquers.github.io/simfleet/",
-      "stars": 104,
-      "forks": 4,
-      "language": "TypeScript",
-      "topics": [
-        "android-emulator",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "expo",
-        "ios-simulator",
-        "macos",
-        "metro",
-        "react-native",
-        "scrcpy"
-      ],
-      "created_at": "2026-09-25T16:16:20Z",
-      "updated_at": "2026-09-30T16:25:14Z",
-      "pushed_at": "2026-09-28T22:56:10Z"
-    },
-    {
       "id": 1391377497,
       "name": "max-payne-2-vr",
       "full_name": "evilSheep/max-payne-2-vr",
@@ -730,7 +730,28 @@
       "topics": [],
       "created_at": "2026-09-27T20:26:56Z",
       "updated_at": "2026-10-01T01:40:42Z",
-      "pushed_at": "2026-09-29T17:09:51Z"
+      "pushed_at": "2026-10-01T03:04:36Z"
+    },
+    {
+      "id": 1397599794,
+      "name": "livecanvas",
+      "full_name": "pengchujin/livecanvas",
+      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "html_url": "https://github.com/pengchujin/livecanvas",
+      "homepage": null,
+      "stars": 103,
+      "forks": 9,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "codex",
+        "live-photo",
+        "motion-design",
+        "remotion"
+      ],
+      "created_at": "2026-09-30T10:26:35Z",
+      "updated_at": "2026-10-01T03:05:15Z",
+      "pushed_at": "2026-10-01T02:22:14Z"
     },
     {
       "id": 1377581532,
@@ -801,27 +822,6 @@
       "created_at": "2026-09-24T19:43:02Z",
       "updated_at": "2026-09-30T14:51:41Z",
       "pushed_at": "2026-09-28T17:33:57Z"
-    },
-    {
-      "id": 1397599794,
-      "name": "livecanvas",
-      "full_name": "pengchujin/livecanvas",
-      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
-      "html_url": "https://github.com/pengchujin/livecanvas",
-      "homepage": null,
-      "stars": 96,
-      "forks": 9,
-      "language": "Swift",
-      "topics": [
-        "agent-skills",
-        "codex",
-        "live-photo",
-        "motion-design",
-        "remotion"
-      ],
-      "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-01T02:25:24Z",
-      "pushed_at": "2026-10-01T02:22:14Z"
     },
     {
       "id": 1376436152,
@@ -915,7 +915,7 @@
       "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
       "html_url": "https://github.com/luxine/CalcKernel",
       "homepage": "https://calckernel.org",
-      "stars": 84,
+      "stars": 86,
       "forks": 1,
       "language": "Rust",
       "topics": [
@@ -925,7 +925,7 @@
         "webassembly"
       ],
       "created_at": "2026-09-27T14:59:35Z",
-      "updated_at": "2026-10-01T02:17:28Z",
+      "updated_at": "2026-10-01T02:48:48Z",
       "pushed_at": "2026-10-01T00:22:48Z"
     },
     {
@@ -1054,6 +1054,21 @@
       "pushed_at": "2026-09-29T20:28:47Z"
     },
     {
+      "id": 1396432432,
+      "name": "json-toolkit",
+      "full_name": "ralf1qdev/json-toolkit",
+      "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
+      "html_url": "https://github.com/ralf1qdev/json-toolkit",
+      "homepage": null,
+      "stars": 66,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-29T19:13:13Z",
+      "updated_at": "2026-10-01T02:48:49Z",
+      "pushed_at": "2026-09-29T20:03:08Z"
+    },
+    {
       "id": 1375694442,
       "name": "Jev-Case",
       "full_name": "Hiwoniu/Jev-Case",
@@ -1067,21 +1082,6 @@
       "created_at": "2026-09-18T10:12:32Z",
       "updated_at": "2026-09-24T01:48:40Z",
       "pushed_at": "2026-09-22T08:26:45Z"
-    },
-    {
-      "id": 1396432432,
-      "name": "json-toolkit",
-      "full_name": "ralf1qdev/json-toolkit",
-      "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
-      "html_url": "https://github.com/ralf1qdev/json-toolkit",
-      "homepage": null,
-      "stars": 65,
-      "forks": 0,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-09-29T19:13:13Z",
-      "updated_at": "2026-10-01T01:39:19Z",
-      "pushed_at": "2026-09-29T20:03:08Z"
     },
     {
       "id": 1387598614,
@@ -1120,7 +1120,7 @@
       "description": "Comment2Shell is a zero click pre auth RCE exploit for WordPress CVE-2026-93485. An anonymous comment plants stored XSS that fires when an admin views the post and drops a self deleting webshell. Full chain PoC with scanner interactive shell Nuclei template and Docker",
       "html_url": "https://github.com/DeathShotXD/Comment2Shell",
       "homepage": null,
-      "stars": 60,
+      "stars": 61,
       "forks": 14,
       "language": "Python",
       "topics": [
@@ -1144,7 +1144,7 @@
         "zeroday"
       ],
       "created_at": "2026-09-25T00:13:54Z",
-      "updated_at": "2026-09-30T23:09:10Z",
+      "updated_at": "2026-10-01T02:29:34Z",
       "pushed_at": "2026-09-30T23:09:06Z"
     },
     {
@@ -1339,6 +1339,21 @@
       "created_at": "2026-09-21T10:53:14Z",
       "updated_at": "2026-09-21T17:27:33Z",
       "pushed_at": "2026-09-21T17:29:57Z"
+    },
+    {
+      "id": 1390688516,
+      "name": "omarchy-rescue",
+      "full_name": "crmne/omarchy-rescue",
+      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
+      "html_url": "https://github.com/crmne/omarchy-rescue",
+      "homepage": null,
+      "stars": 51,
+      "forks": 4,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-09-27T11:21:06Z",
+      "updated_at": "2026-10-01T03:03:47Z",
+      "pushed_at": "2026-09-30T20:48:48Z"
     },
     {
       "id": 1393486459,
@@ -1691,12 +1706,12 @@
       "description": "造站手册：用 AI 做网站的可复用方法，从需求与参考源码到验收和维护。",
       "html_url": "https://github.com/7-an/website-playbook",
       "homepage": null,
-      "stars": 36,
+      "stars": 37,
       "forks": 0,
       "language": null,
       "topics": [],
       "created_at": "2026-09-30T02:18:22Z",
-      "updated_at": "2026-10-01T00:39:56Z",
+      "updated_at": "2026-10-01T02:35:30Z",
       "pushed_at": "2026-09-30T02:22:23Z"
     },
     {
@@ -2149,30 +2164,13 @@
       "pushed_at": "2026-09-30T21:39:26Z"
     },
     {
-      "id": 1379231612,
-      "name": "bookcard.koplugin",
-      "full_name": "peterboda236/bookcard.koplugin",
-      "description": "Book Card is a new sleep screen for KOReader, heavily inspired by the idea and visual design of CrossPoint's sleep screen implementation.",
-      "html_url": "https://github.com/peterboda236/bookcard.koplugin",
-      "homepage": null,
-      "stars": 20,
-      "forks": 2,
-      "language": "Lua",
-      "topics": [
-        "koreader-plugin"
-      ],
-      "created_at": "2026-09-21T06:51:32Z",
-      "updated_at": "2026-09-23T20:08:40Z",
-      "pushed_at": "2026-09-23T20:09:36Z"
-    },
-    {
       "id": 1390720234,
       "name": "fluvy",
       "full_name": "acosta290/fluvy",
       "description": "A premium theme and card library for Home Assistant: a generated light and dark theme, forty-one cards, five automatic dashboards, a wall-panel kiosk mode and a settings panel. Installs through HACS.",
       "html_url": "https://github.com/acosta290/fluvy",
       "homepage": "https://acosta290.github.io/fluvy/",
-      "stars": 20,
+      "stars": 21,
       "forks": 1,
       "language": "TypeScript",
       "topics": [
@@ -2191,8 +2189,25 @@
         "wall-panel"
       ],
       "created_at": "2026-09-27T11:43:34Z",
-      "updated_at": "2026-09-30T15:55:41Z",
-      "pushed_at": "2026-09-30T15:55:37Z"
+      "updated_at": "2026-10-01T02:58:33Z",
+      "pushed_at": "2026-10-01T02:58:29Z"
+    },
+    {
+      "id": 1379231612,
+      "name": "bookcard.koplugin",
+      "full_name": "peterboda236/bookcard.koplugin",
+      "description": "Book Card is a new sleep screen for KOReader, heavily inspired by the idea and visual design of CrossPoint's sleep screen implementation.",
+      "html_url": "https://github.com/peterboda236/bookcard.koplugin",
+      "homepage": null,
+      "stars": 20,
+      "forks": 2,
+      "language": "Lua",
+      "topics": [
+        "koreader-plugin"
+      ],
+      "created_at": "2026-09-21T06:51:32Z",
+      "updated_at": "2026-09-23T20:08:40Z",
+      "pushed_at": "2026-09-23T20:09:36Z"
     },
     {
       "id": 1393284678,
@@ -2401,6 +2416,21 @@
       "pushed_at": "2026-09-29T23:13:09Z"
     },
     {
+      "id": 1390369808,
+      "name": "github-profile-studio",
+      "full_name": "Limzen/github-profile-studio",
+      "description": "🚀 10+ Aesthetic GitHub Profile README Templates + Interactive Live Generator & Complete GitHub Badges Guide. Copy, Paste & Level Up Your Profile!",
+      "html_url": "https://github.com/Limzen/github-profile-studio",
+      "homepage": null,
+      "stars": 15,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-27T07:23:17Z",
+      "updated_at": "2026-10-01T02:28:45Z",
+      "pushed_at": "2026-09-27T09:10:11Z"
+    },
+    {
       "id": 1379723846,
       "name": "taplio-dev.github.io",
       "full_name": "taplio-dev/taplio-dev.github.io",
@@ -2459,21 +2489,6 @@
       "created_at": "2026-09-21T12:42:12Z",
       "updated_at": "2026-09-22T04:49:19Z",
       "pushed_at": "2026-09-22T04:49:16Z"
-    },
-    {
-      "id": 1390369808,
-      "name": "github-profile-studio",
-      "full_name": "Limzen/github-profile-studio",
-      "description": "🚀 10+ Aesthetic GitHub Profile README Templates + Interactive Live Generator & Complete GitHub Badges Guide. Copy, Paste & Level Up Your Profile!",
-      "html_url": "https://github.com/Limzen/github-profile-studio",
-      "homepage": null,
-      "stars": 14,
-      "forks": 1,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-27T07:23:17Z",
-      "updated_at": "2026-10-01T02:13:28Z",
-      "pushed_at": "2026-09-27T09:10:11Z"
     },
     {
       "id": 1379722239,
