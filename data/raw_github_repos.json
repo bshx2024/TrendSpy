@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/1 12:24:48",
-  "total_repos": 131,
+  "fetched_at": "2026/10/1 14:26:48",
+  "total_repos": 133,
   "repos": [
     {
       "id": 1377938409,
@@ -104,7 +104,7 @@
       "description": "Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.",
       "html_url": "https://github.com/Appllama/liquid-glass-chat-ui",
       "homepage": "https://appllama.io",
-      "stars": 208,
+      "stars": 209,
       "forks": 26,
       "language": "TypeScript",
       "topics": [
@@ -130,7 +130,7 @@
         "ui-components"
       ],
       "created_at": "2026-09-27T13:33:00Z",
-      "updated_at": "2026-09-30T17:19:05Z",
+      "updated_at": "2026-10-01T06:00:14Z",
       "pushed_at": "2026-09-27T18:48:24Z"
     },
     {
@@ -251,7 +251,7 @@
       "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
       "html_url": "https://github.com/YeJe-cpu/SeeCut",
       "homepage": null,
-      "stars": 180,
+      "stars": 182,
       "forks": 30,
       "language": "JavaScript",
       "topics": [
@@ -266,7 +266,7 @@
         "video-editing"
       ],
       "created_at": "2026-09-25T11:48:27Z",
-      "updated_at": "2026-10-01T03:51:05Z",
+      "updated_at": "2026-10-01T06:01:28Z",
       "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
@@ -345,6 +345,21 @@
       "pushed_at": "2026-09-23T22:34:48Z"
     },
     {
+      "id": 1387067752,
+      "name": "Seep-Tool",
+      "full_name": "angusdevgo/Seep-Tool",
+      "description": "客户端鉴权安全审计与决策旁路集成工作台",
+      "html_url": "https://github.com/angusdevgo/Seep-Tool",
+      "homepage": null,
+      "stars": 156,
+      "forks": 32,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-09-25T08:05:37Z",
+      "updated_at": "2026-10-01T06:19:37Z",
+      "pushed_at": "2026-09-29T06:40:02Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -358,21 +373,6 @@
       "created_at": "2026-09-18T03:36:12Z",
       "updated_at": "2026-09-23T10:48:14Z",
       "pushed_at": "2026-09-23T10:48:10Z"
-    },
-    {
-      "id": 1387067752,
-      "name": "Seep-Tool",
-      "full_name": "angusdevgo/Seep-Tool",
-      "description": "客户端鉴权安全审计与决策旁路集成工作台",
-      "html_url": "https://github.com/angusdevgo/Seep-Tool",
-      "homepage": null,
-      "stars": 152,
-      "forks": 31,
-      "language": "C#",
-      "topics": [],
-      "created_at": "2026-09-25T08:05:37Z",
-      "updated_at": "2026-10-01T03:36:00Z",
-      "pushed_at": "2026-09-29T06:40:02Z"
     },
     {
       "id": 1378060456,
@@ -449,13 +449,34 @@
       "pushed_at": "2026-09-26T08:16:28Z"
     },
     {
+      "id": 1397599794,
+      "name": "livecanvas",
+      "full_name": "pengchujin/livecanvas",
+      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "html_url": "https://github.com/pengchujin/livecanvas",
+      "homepage": null,
+      "stars": 128,
+      "forks": 14,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "codex",
+        "live-photo",
+        "motion-design",
+        "remotion"
+      ],
+      "created_at": "2026-09-30T10:26:35Z",
+      "updated_at": "2026-10-01T06:15:23Z",
+      "pushed_at": "2026-10-01T02:22:14Z"
+    },
+    {
       "id": 1388409097,
       "name": "mcp-audit-tool",
       "full_name": "graygnatconsole/mcp-audit-tool",
       "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
       "html_url": "https://github.com/graygnatconsole/mcp-audit-tool",
       "homepage": null,
-      "stars": 123,
+      "stars": 124,
       "forks": 2,
       "language": "Python",
       "topics": [
@@ -480,29 +501,8 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-09-26T02:42:57Z",
-      "updated_at": "2026-10-01T02:41:56Z",
+      "updated_at": "2026-10-01T05:10:56Z",
       "pushed_at": "2026-09-26T08:17:27Z"
-    },
-    {
-      "id": 1397599794,
-      "name": "livecanvas",
-      "full_name": "pengchujin/livecanvas",
-      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
-      "html_url": "https://github.com/pengchujin/livecanvas",
-      "homepage": null,
-      "stars": 116,
-      "forks": 11,
-      "language": "Swift",
-      "topics": [
-        "agent-skills",
-        "codex",
-        "live-photo",
-        "motion-design",
-        "remotion"
-      ],
-      "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-01T04:21:42Z",
-      "pushed_at": "2026-10-01T02:22:14Z"
     },
     {
       "id": 1380729698,
@@ -606,6 +606,21 @@
       "pushed_at": "2026-09-26T15:32:59Z"
     },
     {
+      "id": 1391836763,
+      "name": "abstract-algebra-promo",
+      "full_name": "AnctyEnly453/abstract-algebra-promo",
+      "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
+      "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
+      "homepage": null,
+      "stars": 111,
+      "forks": 4,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-09-28T05:00:45Z",
+      "updated_at": "2026-10-01T05:54:17Z",
+      "pushed_at": "2026-09-28T05:04:35Z"
+    },
+    {
       "id": 1379139682,
       "name": "polytech-tree",
       "full_name": "secwind7/polytech-tree",
@@ -621,19 +636,30 @@
       "pushed_at": "2026-09-22T14:18:57Z"
     },
     {
-      "id": 1391836763,
-      "name": "abstract-algebra-promo",
-      "full_name": "AnctyEnly453/abstract-algebra-promo",
-      "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
-      "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
-      "homepage": null,
-      "stars": 108,
+      "id": 1387850278,
+      "name": "simfleet",
+      "full_name": "entropyconquers/simfleet",
+      "description": "One control plane for parallel React Native work on macOS: slimmed iOS simulators & Android emulators, live dashboard, leased Metro ports, shared native build cache, and Claude Code / Codex device attribution.",
+      "html_url": "https://github.com/entropyconquers/simfleet",
+      "homepage": "https://entropyconquers.github.io/simfleet/",
+      "stars": 107,
       "forks": 4,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-09-28T05:00:45Z",
-      "updated_at": "2026-10-01T01:58:32Z",
-      "pushed_at": "2026-09-28T05:04:35Z"
+      "language": "TypeScript",
+      "topics": [
+        "android-emulator",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "expo",
+        "ios-simulator",
+        "macos",
+        "metro",
+        "react-native",
+        "scrcpy"
+      ],
+      "created_at": "2026-09-25T16:16:20Z",
+      "updated_at": "2026-10-01T04:30:14Z",
+      "pushed_at": "2026-09-28T22:56:10Z"
     },
     {
       "id": 1377007152,
@@ -693,30 +719,19 @@
       "pushed_at": "2026-09-30T14:28:36Z"
     },
     {
-      "id": 1387850278,
-      "name": "simfleet",
-      "full_name": "entropyconquers/simfleet",
-      "description": "One control plane for parallel React Native work on macOS: slimmed iOS simulators & Android emulators, live dashboard, leased Metro ports, shared native build cache, and Claude Code / Codex device attribution.",
-      "html_url": "https://github.com/entropyconquers/simfleet",
-      "homepage": "https://entropyconquers.github.io/simfleet/",
-      "stars": 106,
-      "forks": 4,
-      "language": "TypeScript",
-      "topics": [
-        "android-emulator",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "expo",
-        "ios-simulator",
-        "macos",
-        "metro",
-        "react-native",
-        "scrcpy"
-      ],
-      "created_at": "2026-09-25T16:16:20Z",
-      "updated_at": "2026-10-01T04:04:41Z",
-      "pushed_at": "2026-09-28T22:56:10Z"
+      "id": 1391377497,
+      "name": "max-payne-2-vr",
+      "full_name": "evilSheep/max-payne-2-vr",
+      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
+      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
+      "homepage": null,
+      "stars": 105,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-27T20:26:56Z",
+      "updated_at": "2026-10-01T05:52:36Z",
+      "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
       "id": 1387522551,
@@ -737,21 +752,6 @@
       "created_at": "2026-09-25T13:10:58Z",
       "updated_at": "2026-09-29T09:21:31Z",
       "pushed_at": "2026-09-25T13:13:11Z"
-    },
-    {
-      "id": 1391377497,
-      "name": "max-payne-2-vr",
-      "full_name": "evilSheep/max-payne-2-vr",
-      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
-      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
-      "homepage": null,
-      "stars": 104,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-10-01T03:09:45Z",
-      "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
       "id": 1377581532,
@@ -795,6 +795,26 @@
       "created_at": "2026-09-24T15:16:59Z",
       "updated_at": "2026-09-28T09:40:13Z",
       "pushed_at": "2026-09-24T15:17:46Z"
+    },
+    {
+      "id": 1390994799,
+      "name": "CalcKernel",
+      "full_name": "luxine/CalcKernel",
+      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
+      "html_url": "https://github.com/luxine/CalcKernel",
+      "homepage": "https://calckernel.org",
+      "stars": 97,
+      "forks": 2,
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "programming-language",
+        "rust",
+        "webassembly"
+      ],
+      "created_at": "2026-09-27T14:59:35Z",
+      "updated_at": "2026-10-01T06:17:47Z",
+      "pushed_at": "2026-10-01T03:41:29Z"
     },
     {
       "id": 1386267511,
@@ -871,26 +891,6 @@
       "created_at": "2026-09-20T16:39:08Z",
       "updated_at": "2026-09-23T00:41:39Z",
       "pushed_at": "2026-09-23T00:41:36Z"
-    },
-    {
-      "id": 1390994799,
-      "name": "CalcKernel",
-      "full_name": "luxine/CalcKernel",
-      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
-      "html_url": "https://github.com/luxine/CalcKernel",
-      "homepage": "https://calckernel.org",
-      "stars": 90,
-      "forks": 2,
-      "language": "Rust",
-      "topics": [
-        "compiler",
-        "programming-language",
-        "rust",
-        "webassembly"
-      ],
-      "created_at": "2026-09-27T14:59:35Z",
-      "updated_at": "2026-10-01T04:03:07Z",
-      "pushed_at": "2026-10-01T03:41:29Z"
     },
     {
       "id": 1375760472,
@@ -1045,12 +1045,12 @@
       "description": "Free CLI from Everest that compresses Codex tool output.",
       "html_url": "https://github.com/spenmcke/compress",
       "homepage": null,
-      "stars": 67,
+      "stars": 69,
       "forks": 0,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-29T18:36:31Z",
-      "updated_at": "2026-09-30T21:41:55Z",
+      "updated_at": "2026-10-01T04:57:17Z",
       "pushed_at": "2026-09-29T20:28:47Z"
     },
     {
@@ -1060,13 +1060,28 @@
       "description": "Validate, format, minify, and compare JSON with a clean desktop interface or CLI. Built with Python, featuring syntax highlighting and helpful error messages. Fully local—no uploads or third-party dependencies.",
       "html_url": "https://github.com/ralf1qdev/json-toolkit",
       "homepage": null,
-      "stars": 67,
+      "stars": 69,
       "forks": 0,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-29T19:13:13Z",
-      "updated_at": "2026-10-01T04:08:26Z",
+      "updated_at": "2026-10-01T06:25:42Z",
       "pushed_at": "2026-09-29T20:03:08Z"
+    },
+    {
+      "id": 1390688516,
+      "name": "omarchy-rescue",
+      "full_name": "crmne/omarchy-rescue",
+      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
+      "html_url": "https://github.com/crmne/omarchy-rescue",
+      "homepage": null,
+      "stars": 66,
+      "forks": 4,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-09-27T11:21:06Z",
+      "updated_at": "2026-10-01T06:10:20Z",
+      "pushed_at": "2026-09-30T20:48:48Z"
     },
     {
       "id": 1375694442,
@@ -1182,6 +1197,21 @@
       "pushed_at": "2026-09-25T01:52:32Z"
     },
     {
+      "id": 1390845863,
+      "name": "Refract",
+      "full_name": "MIXIDtheSilly/Refract",
+      "description": "A Quest emulation tool",
+      "html_url": "https://github.com/MIXIDtheSilly/Refract",
+      "homepage": null,
+      "stars": 59,
+      "forks": 3,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-09-27T13:05:42Z",
+      "updated_at": "2026-10-01T06:17:24Z",
+      "pushed_at": "2026-09-30T19:44:13Z"
+    },
+    {
       "id": 1386319785,
       "name": "Fb-Report",
       "full_name": "lward4/Fb-Report",
@@ -1208,21 +1238,6 @@
       "created_at": "2026-09-24T20:24:01Z",
       "updated_at": "2026-09-29T02:36:24Z",
       "pushed_at": "2026-09-25T01:43:13Z"
-    },
-    {
-      "id": 1390688516,
-      "name": "omarchy-rescue",
-      "full_name": "crmne/omarchy-rescue",
-      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
-      "html_url": "https://github.com/crmne/omarchy-rescue",
-      "homepage": null,
-      "stars": 56,
-      "forks": 4,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-09-27T11:21:06Z",
-      "updated_at": "2026-10-01T03:56:47Z",
-      "pushed_at": "2026-09-30T20:48:48Z"
     },
     {
       "id": 1388724753,
@@ -1721,12 +1736,12 @@
       "description": "Turn an old Android phone into a home server: SSH, web hosting, Jellyfin with hardware transcoding, Immich, qBittorrent, Home Assistant and a web dashboard. No root.",
       "html_url": "https://github.com/sudiptacmd/homedroid",
       "homepage": null,
-      "stars": 35,
+      "stars": 36,
       "forks": 0,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2026-09-29T16:59:42Z",
-      "updated_at": "2026-09-30T17:33:20Z",
+      "updated_at": "2026-10-01T04:49:59Z",
       "pushed_at": "2026-09-30T08:36:12Z"
     },
     {
@@ -1786,7 +1801,7 @@
       "description": "The Black Wire Maker's Technical Reference Guide: ESP32, Arduino and Raspberry Pi pinouts, displays, sensors and modules. Web app and offline Windows workbench.",
       "html_url": "https://github.com/valleytechsolutions/BWM-Technical-Reference-Guide",
       "homepage": "https://valleytech-black-wire-guide.pages.dev/",
-      "stars": 31,
+      "stars": 32,
       "forks": 3,
       "language": "JavaScript",
       "topics": [
@@ -1806,7 +1821,7 @@
         "technical-documentation"
       ],
       "created_at": "2026-09-25T04:22:10Z",
-      "updated_at": "2026-09-30T01:57:02Z",
+      "updated_at": "2026-10-01T05:52:18Z",
       "pushed_at": "2026-09-28T18:36:29Z"
     },
     {
@@ -1816,12 +1831,12 @@
       "description": "碧池观鱼 · 锦鲤池塘动态壁纸（macOS / Windows / Android / Web）",
       "html_url": "https://github.com/moli-xia/fishwallpaper",
       "homepage": null,
-      "stars": 31,
+      "stars": 32,
       "forks": 8,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-09-25T14:45:38Z",
-      "updated_at": "2026-09-30T09:57:20Z",
+      "updated_at": "2026-10-01T04:49:06Z",
       "pushed_at": "2026-09-30T07:18:51Z"
     },
     {
@@ -2010,6 +2025,21 @@
       "pushed_at": "2026-09-27T08:55:38Z"
     },
     {
+      "id": 1397777424,
+      "name": "drouter",
+      "full_name": "liuzhuohua/drouter",
+      "description": "Debian 13 软路由管理系统 · Web 管理面板。不重新实现任何协议 —— 渲染原生配置、语法预检、原子写入并 reload。",
+      "html_url": "https://github.com/liuzhuohua/drouter",
+      "homepage": null,
+      "stars": 28,
+      "forks": 6,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-30T11:51:52Z",
+      "updated_at": "2026-10-01T05:30:32Z",
+      "pushed_at": "2026-10-01T04:01:23Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -2038,7 +2068,7 @@
       "html_url": "https://github.com/HimalayanNomads/drawa",
       "homepage": "https://drawa.cc",
       "stars": 27,
-      "forks": 4,
+      "forks": 5,
       "language": "TypeScript",
       "topics": [
         "canvas",
@@ -2295,6 +2325,21 @@
       "pushed_at": "2026-09-28T18:34:21Z"
     },
     {
+      "id": 1390369808,
+      "name": "github-profile-studio",
+      "full_name": "Limzen/github-profile-studio",
+      "description": "🚀 10+ Aesthetic GitHub Profile README Templates + Interactive Live Generator & Complete GitHub Badges Guide. Copy, Paste & Level Up Your Profile!",
+      "html_url": "https://github.com/Limzen/github-profile-studio",
+      "homepage": null,
+      "stars": 17,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-27T07:23:17Z",
+      "updated_at": "2026-10-01T05:30:51Z",
+      "pushed_at": "2026-09-27T09:10:11Z"
+    },
+    {
       "id": 1379717308,
       "name": "heygen-mcp.github.io",
       "full_name": "heygen-mcp/heygen-mcp.github.io",
@@ -2414,21 +2459,6 @@
       "created_at": "2026-09-27T04:12:58Z",
       "updated_at": "2026-09-30T21:00:38Z",
       "pushed_at": "2026-09-29T23:13:09Z"
-    },
-    {
-      "id": 1390369808,
-      "name": "github-profile-studio",
-      "full_name": "Limzen/github-profile-studio",
-      "description": "🚀 10+ Aesthetic GitHub Profile README Templates + Interactive Live Generator & Complete GitHub Badges Guide. Copy, Paste & Level Up Your Profile!",
-      "html_url": "https://github.com/Limzen/github-profile-studio",
-      "homepage": null,
-      "stars": 15,
-      "forks": 1,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-27T07:23:17Z",
-      "updated_at": "2026-10-01T02:28:45Z",
-      "pushed_at": "2026-09-27T09:10:11Z"
     },
     {
       "id": 1379723846,
