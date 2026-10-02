@@ -167,7 +167,12 @@ async function fetchOverview() {
     document.getElementById("kpiReSurging").innerText = m.reSurgingCount ?? "--";
     document.getElementById("kpiArbitrage").innerText = m.verifiedOpportunitiesCount ?? "--";
     document.getElementById("kpiEntities").innerText = `${m.seedsCount || 28} 核心实体`;
-    document.getElementById("kpiMultiSource").innerText = `${(m.githubReposCount || 0) + (m.googleTrendingCount || 0) + (m.redditPostsCount || 0)} 条`;
+    const totalMultiSource = (m.githubReposCount || 0) + 
+                             (m.googleTrendingCount || 0) + 
+                             (m.redditPostsCount || 0) + 
+                             (m.tiktokTrendsCount || 0) + 
+                             (m.toolifyToolsCount || 0);
+    document.getElementById("kpiMultiSource").innerText = `${totalMultiSource} 条`;
 
     updateScanningStatus(data.scanStatus?.isScanning, data.scanStatus?.pipeline);
     if (!data.scanStatus?.isScanning) {
