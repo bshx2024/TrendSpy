@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/2 13:59:37",
-  "total_repos": 155,
+  "fetched_at": "2026/10/3 01:02:38",
+  "total_repos": 162,
   "repos": [
     {
       "id": 1377938409,
@@ -62,6 +62,27 @@
       "pushed_at": "2026-09-24T03:51:47Z"
     },
     {
+      "id": 1397599794,
+      "name": "livecanvas",
+      "full_name": "pengchujin/livecanvas",
+      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "html_url": "https://github.com/pengchujin/livecanvas",
+      "homepage": null,
+      "stars": 326,
+      "forks": 23,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "codex",
+        "live-photo",
+        "motion-design",
+        "remotion"
+      ],
+      "created_at": "2026-09-30T10:26:35Z",
+      "updated_at": "2026-10-02T15:35:05Z",
+      "pushed_at": "2026-10-02T03:38:49Z"
+    },
+    {
       "id": 1381875232,
       "name": "corz-client",
       "full_name": "zeldaboyzlix/corz-client",
@@ -83,27 +104,6 @@
       "pushed_at": "2026-09-22T16:32:10Z"
     },
     {
-      "id": 1397599794,
-      "name": "livecanvas",
-      "full_name": "pengchujin/livecanvas",
-      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
-      "html_url": "https://github.com/pengchujin/livecanvas",
-      "homepage": null,
-      "stars": 312,
-      "forks": 24,
-      "language": "Swift",
-      "topics": [
-        "agent-skills",
-        "codex",
-        "live-photo",
-        "motion-design",
-        "remotion"
-      ],
-      "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-02T05:54:51Z",
-      "pushed_at": "2026-10-02T03:38:49Z"
-    },
-    {
       "id": 1375594818,
       "name": "desktop-habitats",
       "full_name": "chaseleantj/desktop-habitats",
@@ -117,6 +117,26 @@
       "created_at": "2026-09-18T08:31:55Z",
       "updated_at": "2026-09-24T02:25:23Z",
       "pushed_at": "2026-09-22T19:57:36Z"
+    },
+    {
+      "id": 1390994799,
+      "name": "CalcKernel",
+      "full_name": "luxine/CalcKernel",
+      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
+      "html_url": "https://github.com/luxine/CalcKernel",
+      "homepage": "https://calckernel.org",
+      "stars": 242,
+      "forks": 7,
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "programming-language",
+        "rust",
+        "webassembly"
+      ],
+      "created_at": "2026-09-27T14:59:35Z",
+      "updated_at": "2026-10-02T16:57:15Z",
+      "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
       "id": 1390886722,
@@ -153,6 +173,30 @@
       "created_at": "2026-09-27T13:33:00Z",
       "updated_at": "2026-10-02T04:58:54Z",
       "pushed_at": "2026-09-27T18:48:24Z"
+    },
+    {
+      "id": 1396738941,
+      "name": "dioramas",
+      "full_name": "blendi-remade/dioramas",
+      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "html_url": "https://github.com/blendi-remade/dioramas",
+      "homepage": null,
+      "stars": 204,
+      "forks": 21,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "creative-coding",
+        "fal",
+        "generative-ai",
+        "landing-page",
+        "meshy",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-09-30T00:07:56Z",
+      "updated_at": "2026-10-02T16:13:07Z",
+      "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
       "id": 1376284519,
@@ -206,26 +250,6 @@
       "pushed_at": "2026-10-02T04:15:42Z"
     },
     {
-      "id": 1390994799,
-      "name": "CalcKernel",
-      "full_name": "luxine/CalcKernel",
-      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
-      "html_url": "https://github.com/luxine/CalcKernel",
-      "homepage": "https://calckernel.org",
-      "stars": 197,
-      "forks": 5,
-      "language": "Rust",
-      "topics": [
-        "compiler",
-        "programming-language",
-        "rust",
-        "webassembly"
-      ],
-      "created_at": "2026-09-27T14:59:35Z",
-      "updated_at": "2026-10-02T05:51:51Z",
-      "pushed_at": "2026-10-02T00:33:09Z"
-    },
-    {
       "id": 1380797051,
       "name": "threejs-architecture-effects",
       "full_name": "lhlGitHub/threejs-architecture-effects",
@@ -254,30 +278,6 @@
       "created_at": "2026-09-25T19:23:18Z",
       "updated_at": "2026-10-01T08:08:05Z",
       "pushed_at": "2026-09-29T19:30:34Z"
-    },
-    {
-      "id": 1396738941,
-      "name": "dioramas",
-      "full_name": "blendi-remade/dioramas",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "html_url": "https://github.com/blendi-remade/dioramas",
-      "homepage": null,
-      "stars": 190,
-      "forks": 20,
-      "language": "JavaScript",
-      "topics": [
-        "3d",
-        "creative-coding",
-        "fal",
-        "generative-ai",
-        "landing-page",
-        "meshy",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-02T05:54:17Z",
-      "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
       "id": 1375641268,
@@ -316,12 +316,12 @@
       "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
       "html_url": "https://github.com/seamusc/papermono-shopping-list",
       "homepage": null,
-      "stars": 185,
+      "stars": 188,
       "forks": 5,
       "language": "C++",
       "topics": [],
       "created_at": "2026-09-27T12:05:30Z",
-      "updated_at": "2026-10-02T01:28:27Z",
+      "updated_at": "2026-10-02T16:21:15Z",
       "pushed_at": "2026-10-01T21:18:27Z"
     },
     {
@@ -531,13 +531,39 @@
       "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
       "html_url": "https://github.com/crmne/omarchy-rescue",
       "homepage": null,
-      "stars": 123,
+      "stars": 127,
       "forks": 6,
       "language": "Shell",
       "topics": [],
       "created_at": "2026-09-27T11:21:06Z",
-      "updated_at": "2026-10-02T04:31:52Z",
-      "pushed_at": "2026-10-01T23:13:49Z"
+      "updated_at": "2026-10-02T15:14:44Z",
+      "pushed_at": "2026-10-02T15:14:40Z"
+    },
+    {
+      "id": 1401629577,
+      "name": "BorisFX",
+      "full_name": "graspdivinerdesign/BorisFX",
+      "description": "Revolutionize your video editing and post-production workflow with Borisfx's cutting-edge tools designed to streamline complex VFX processes and screen...",
+      "html_url": "https://github.com/graspdivinerdesign/BorisFX",
+      "homepage": null,
+      "stars": 125,
+      "forks": 13,
+      "language": null,
+      "topics": [
+        "bcc-plugins-effects",
+        "boris-fx-plugin-sapphire",
+        "boris-fx-sapphire",
+        "borisfx",
+        "borisfx-plugin-free",
+        "free-boris-fx",
+        "plugins-after-effects",
+        "sapphire-download",
+        "sapphire-plugin-setup-after-effects",
+        "vfx-plugins"
+      ],
+      "created_at": "2026-10-02T12:01:26Z",
+      "updated_at": "2026-10-02T15:19:23Z",
+      "pushed_at": "2026-10-02T12:01:32Z"
     },
     {
       "id": 1391377497,
@@ -546,12 +572,12 @@
       "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
       "html_url": "https://github.com/evilSheep/max-payne-2-vr",
       "homepage": null,
-      "stars": 118,
+      "stars": 123,
       "forks": 1,
       "language": null,
       "topics": [],
       "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-10-02T04:54:59Z",
+      "updated_at": "2026-10-02T15:41:38Z",
       "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
@@ -561,13 +587,34 @@
       "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
       "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
       "homepage": null,
-      "stars": 114,
-      "forks": 6,
+      "stars": 122,
+      "forks": 7,
       "language": "HTML",
       "topics": [],
       "created_at": "2026-09-28T05:00:45Z",
-      "updated_at": "2026-10-02T01:45:30Z",
+      "updated_at": "2026-10-02T16:28:40Z",
       "pushed_at": "2026-09-28T05:04:35Z"
+    },
+    {
+      "id": 1400250107,
+      "name": "bootloops",
+      "full_name": "BootLoops-ai/bootloops",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "html_url": "https://github.com/BootLoops-ai/bootloops",
+      "homepage": null,
+      "stars": 121,
+      "forks": 21,
+      "language": "Python",
+      "topics": [
+        "bootloops",
+        "feynman-integrals",
+        "llm-agents",
+        "physics",
+        "scientific-computing"
+      ],
+      "created_at": "2026-10-01T15:29:28Z",
+      "updated_at": "2026-10-02T16:47:13Z",
+      "pushed_at": "2026-10-01T15:29:34Z"
     },
     {
       "id": 1380729698,
@@ -789,6 +836,21 @@
       "pushed_at": "2026-09-25T13:13:11Z"
     },
     {
+      "id": 1395984333,
+      "name": "kantor-ai",
+      "full_name": "kangkungmozzarella/kantor-ai",
+      "description": "Kantor Kita: interactive 3D paper-model office for a 13-person team",
+      "html_url": "https://github.com/kangkungmozzarella/kantor-ai",
+      "homepage": null,
+      "stars": 104,
+      "forks": 34,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-29T16:33:24Z",
+      "updated_at": "2026-10-02T16:12:03Z",
+      "pushed_at": "2026-09-30T23:28:14Z"
+    },
+    {
       "id": 1377581532,
       "name": "card-design-generator",
       "full_name": "Susie-Meow/card-design-generator",
@@ -832,19 +894,19 @@
       "pushed_at": "2026-09-24T15:17:46Z"
     },
     {
-      "id": 1395984333,
-      "name": "kantor-ai",
-      "full_name": "kangkungmozzarella/kantor-ai",
-      "description": "Kantor Kita: interactive 3D paper-model office for a 13-person team",
-      "html_url": "https://github.com/kangkungmozzarella/kantor-ai",
+      "id": 1390845863,
+      "name": "Refract",
+      "full_name": "MIXIDtheSilly/Refract",
+      "description": "A Quest emulation tool",
+      "html_url": "https://github.com/MIXIDtheSilly/Refract",
       "homepage": null,
       "stars": 97,
-      "forks": 32,
-      "language": "JavaScript",
+      "forks": 5,
+      "language": "C++",
       "topics": [],
-      "created_at": "2026-09-29T16:33:24Z",
-      "updated_at": "2026-10-02T04:09:52Z",
-      "pushed_at": "2026-09-30T23:28:14Z"
+      "created_at": "2026-09-27T13:05:42Z",
+      "updated_at": "2026-10-02T16:25:41Z",
+      "pushed_at": "2026-10-02T07:11:51Z"
     },
     {
       "id": 1386267511,
@@ -889,21 +951,6 @@
       "pushed_at": "2026-09-18T21:16:11Z"
     },
     {
-      "id": 1390845863,
-      "name": "Refract",
-      "full_name": "MIXIDtheSilly/Refract",
-      "description": "A Quest emulation tool",
-      "html_url": "https://github.com/MIXIDtheSilly/Refract",
-      "homepage": null,
-      "stars": 93,
-      "forks": 4,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-09-27T13:05:42Z",
-      "updated_at": "2026-10-02T05:01:28Z",
-      "pushed_at": "2026-10-01T22:24:55Z"
-    },
-    {
       "id": 1377530130,
       "name": "job_search_tool",
       "full_name": "fedorchenko-juli/job_search_tool",
@@ -936,6 +983,31 @@
       "created_at": "2026-09-20T16:39:08Z",
       "updated_at": "2026-09-23T00:41:39Z",
       "pushed_at": "2026-09-23T00:41:36Z"
+    },
+    {
+      "id": 1399029726,
+      "name": "awesome-homelab",
+      "full_name": "Minh141120/awesome-homelab",
+      "description": "Your homelab, as a Git repository: free tools, real configs, and guides for self-hosting with GitOps.",
+      "html_url": "https://github.com/Minh141120/awesome-homelab",
+      "homepage": null,
+      "stars": 89,
+      "forks": 7,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "flux",
+        "gitops",
+        "home-ops",
+        "homelab",
+        "kubernetes",
+        "self-hosted",
+        "talos"
+      ],
+      "created_at": "2026-10-01T03:40:25Z",
+      "updated_at": "2026-10-02T14:26:50Z",
+      "pushed_at": "2026-10-01T14:20:12Z"
     },
     {
       "id": 1375760472,
@@ -1010,29 +1082,19 @@
       "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
-      "id": 1399029726,
-      "name": "awesome-homelab",
-      "full_name": "Minh141120/awesome-homelab",
-      "description": "Your homelab, as a Git repository: free tools, real configs, and guides for self-hosting with GitOps.",
-      "html_url": "https://github.com/Minh141120/awesome-homelab",
+      "id": 1400563899,
+      "name": "procedural-pixel-creatures",
+      "full_name": "idlerunner00/procedural-pixel-creatures",
+      "description": "Godot Tool to create procedural pixel creatures",
+      "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
       "homepage": null,
-      "stars": 78,
-      "forks": 7,
-      "language": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "flux",
-        "gitops",
-        "home-ops",
-        "homelab",
-        "kubernetes",
-        "self-hosted",
-        "talos"
-      ],
-      "created_at": "2026-10-01T03:40:25Z",
-      "updated_at": "2026-10-02T05:14:30Z",
-      "pushed_at": "2026-10-01T14:20:12Z"
+      "stars": 79,
+      "forks": 13,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-10-01T18:39:44Z",
+      "updated_at": "2026-10-02T17:00:17Z",
+      "pushed_at": "2026-10-01T20:28:02Z"
     },
     {
       "id": 1377321806,
@@ -1115,12 +1177,12 @@
       "description": "Adversarial Detection Engineering knowledge base — ADE taxonomy, worked technique files, platform bug patterns, mitigations, and purple-team scoping tooling.",
       "html_url": "https://github.com/Adversarial-Detection-Engineering/adeskills",
       "homepage": null,
-      "stars": 69,
+      "stars": 71,
       "forks": 9,
       "language": null,
       "topics": [],
       "created_at": "2026-09-27T09:48:39Z",
-      "updated_at": "2026-09-30T14:21:34Z",
+      "updated_at": "2026-10-02T07:15:32Z",
       "pushed_at": "2026-09-30T14:20:33Z"
     },
     {
@@ -1130,12 +1192,12 @@
       "description": "Free CLI from Everest that compresses Codex tool output.",
       "html_url": "https://github.com/spenmcke/compress",
       "homepage": null,
-      "stars": 69,
+      "stars": 68,
       "forks": 0,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-29T18:36:31Z",
-      "updated_at": "2026-10-01T04:57:17Z",
+      "updated_at": "2026-10-02T13:31:02Z",
       "pushed_at": "2026-09-29T20:28:47Z"
     },
     {
@@ -1152,6 +1214,21 @@
       "created_at": "2026-09-18T10:12:32Z",
       "updated_at": "2026-09-24T01:48:40Z",
       "pushed_at": "2026-09-22T08:26:45Z"
+    },
+    {
+      "id": 1392901645,
+      "name": "Simple-WAM",
+      "full_name": "LeapLabTHU/Simple-WAM",
+      "description": "Official implementation of \"What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling\"",
+      "html_url": "https://github.com/LeapLabTHU/Simple-WAM",
+      "homepage": null,
+      "stars": 65,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-28T14:13:57Z",
+      "updated_at": "2026-10-02T13:44:55Z",
+      "pushed_at": "2026-09-30T12:41:20Z"
     },
     {
       "id": 1388637178,
@@ -1184,19 +1261,19 @@
       "pushed_at": "2026-09-26T13:37:48Z"
     },
     {
-      "id": 1392901645,
-      "name": "Simple-WAM",
-      "full_name": "LeapLabTHU/Simple-WAM",
-      "description": "Official implementation of \"What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling\"",
-      "html_url": "https://github.com/LeapLabTHU/Simple-WAM",
-      "homepage": null,
-      "stars": 62,
-      "forks": 1,
-      "language": "Python",
+      "id": 1389416650,
+      "name": "mygo",
+      "full_name": "egoist/mygo",
+      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "html_url": "https://github.com/egoist/mygo",
+      "homepage": "mygo.egoist.dev",
+      "stars": 63,
+      "forks": 0,
+      "language": "Go",
       "topics": [],
-      "created_at": "2026-09-28T14:13:57Z",
-      "updated_at": "2026-10-01T15:22:46Z",
-      "pushed_at": "2026-09-30T12:41:20Z"
+      "created_at": "2026-09-26T15:21:37Z",
+      "updated_at": "2026-10-02T16:37:31Z",
+      "pushed_at": "2026-10-02T10:21:51Z"
     },
     {
       "id": 1400269105,
@@ -1258,6 +1335,21 @@
       "pushed_at": "2026-09-30T23:09:06Z"
     },
     {
+      "id": 1400877599,
+      "name": "ArkWeb",
+      "full_name": "luki-1/ArkWeb",
+      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
+      "html_url": "https://github.com/luki-1/ArkWeb",
+      "homepage": null,
+      "stars": 61,
+      "forks": 5,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-02T00:59:19Z",
+      "updated_at": "2026-10-02T16:12:40Z",
+      "pushed_at": "2026-10-02T15:32:18Z"
+    },
+    {
       "id": 1396871330,
       "name": "Flash-USDT-Tool",
       "full_name": "shelby2006/Flash-USDT-Tool",
@@ -1290,8 +1382,8 @@
         "wallet-finder-crypto"
       ],
       "created_at": "2026-09-30T02:50:26Z",
-      "updated_at": "2026-10-02T05:44:24Z",
-      "pushed_at": "2026-10-02T05:44:21Z"
+      "updated_at": "2026-10-02T16:53:00Z",
+      "pushed_at": "2026-10-02T16:52:56Z"
     },
     {
       "id": 1386575337,
@@ -1313,6 +1405,28 @@
       "pushed_at": "2026-09-25T01:52:32Z"
     },
     {
+      "id": 1391565885,
+      "name": "BanjoTooieRecompiled",
+      "full_name": "some-scurvy-dog/BanjoTooieRecompiled",
+      "description": "Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and speedrunning practice tools.",
+      "html_url": "https://github.com/some-scurvy-dog/BanjoTooieRecompiled",
+      "homepage": null,
+      "stars": 59,
+      "forks": 4,
+      "language": "C++",
+      "topics": [
+        "banjo-tooie",
+        "n64",
+        "pc-port",
+        "recompilation",
+        "rt64",
+        "windows"
+      ],
+      "created_at": "2026-09-28T01:20:48Z",
+      "updated_at": "2026-10-02T16:40:43Z",
+      "pushed_at": "2026-10-02T14:32:21Z"
+    },
+    {
       "id": 1388724753,
       "name": "websitegenerator",
       "full_name": "albertshiney/websitegenerator",
@@ -1320,7 +1434,7 @@
       "html_url": "https://github.com/albertshiney/websitegenerator",
       "homepage": null,
       "stars": 57,
-      "forks": 11,
+      "forks": 12,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-09-26T06:55:12Z",
@@ -1356,34 +1470,45 @@
       "pushed_at": "2026-09-25T01:43:13Z"
     },
     {
+      "id": 1389294768,
+      "name": "motion-graphics-skills",
+      "full_name": "charlie947/motion-graphics-skills",
+      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
+      "html_url": "https://github.com/charlie947/motion-graphics-skills",
+      "homepage": "https://charliehills.substack.com",
+      "stars": 56,
+      "forks": 7,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-marketing",
+        "animation",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hyperframes",
+        "motion-graphics",
+        "video"
+      ],
+      "created_at": "2026-09-26T13:57:34Z",
+      "updated_at": "2026-10-02T15:38:56Z",
+      "pushed_at": "2026-09-30T11:49:23Z"
+    },
+    {
       "id": 1393486459,
       "name": "electromagnetism",
       "full_name": "thebuggeddev/electromagnetism",
       "description": "An interactive Electromagnetic field exploration built using Claude Opus 5.5",
       "html_url": "https://github.com/thebuggeddev/electromagnetism",
       "homepage": null,
-      "stars": 54,
+      "stars": 55,
       "forks": 10,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-09-28T17:54:25Z",
-      "updated_at": "2026-10-01T19:29:06Z",
+      "updated_at": "2026-10-02T08:24:28Z",
       "pushed_at": "2026-09-28T17:55:29Z"
-    },
-    {
-      "id": 1389416650,
-      "name": "mygo",
-      "full_name": "egoist/mygo",
-      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
-      "html_url": "https://github.com/egoist/mygo",
-      "homepage": "mygo.egoist.dev",
-      "stars": 54,
-      "forks": 1,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-09-26T15:21:37Z",
-      "updated_at": "2026-10-02T05:28:11Z",
-      "pushed_at": "2026-10-01T13:30:08Z"
     },
     {
       "id": 1382450432,
@@ -1466,6 +1591,21 @@
       "pushed_at": "2026-10-01T08:27:40Z"
     },
     {
+      "id": 1389512019,
+      "name": "plain-backtest",
+      "full_name": "Sixian-Li/plain-backtest",
+      "description": "Say It Simply, Test It Properly. Agent-powered strategy research with independent ledger checks and reproducible reports.",
+      "html_url": "https://github.com/Sixian-Li/plain-backtest",
+      "homepage": null,
+      "stars": 53,
+      "forks": 7,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-26T16:29:26Z",
+      "updated_at": "2026-10-02T16:40:14Z",
+      "pushed_at": "2026-09-27T14:49:48Z"
+    },
+    {
       "id": 1379547345,
       "name": "monero-web-wallet",
       "full_name": "AMLChecker/monero-web-wallet",
@@ -1502,52 +1642,40 @@
       "pushed_at": "2026-09-21T17:29:57Z"
     },
     {
-      "id": 1391565885,
-      "name": "BanjoTooieRecompiled",
-      "full_name": "some-scurvy-dog/BanjoTooieRecompiled",
-      "description": "Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and speedrunning practice tools.",
-      "html_url": "https://github.com/some-scurvy-dog/BanjoTooieRecompiled",
+      "id": 1394206642,
+      "name": "ai-chatroom",
+      "full_name": "Moris-kr/ai-chatroom",
+      "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
+      "html_url": "https://github.com/Moris-kr/ai-chatroom",
       "homepage": null,
-      "stars": 50,
-      "forks": 4,
-      "language": "C++",
-      "topics": [
-        "banjo-tooie",
-        "n64",
-        "pc-port",
-        "recompilation",
-        "rt64",
-        "windows"
-      ],
-      "created_at": "2026-09-28T01:20:48Z",
-      "updated_at": "2026-10-02T04:45:32Z",
-      "pushed_at": "2026-09-30T16:07:07Z"
-    },
-    {
-      "id": 1389294768,
-      "name": "motion-graphics-skills",
-      "full_name": "charlie947/motion-graphics-skills",
-      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
-      "html_url": "https://github.com/charlie947/motion-graphics-skills",
-      "homepage": "https://charliehills.substack.com",
       "stars": 48,
-      "forks": 6,
-      "language": "Shell",
+      "forks": 8,
+      "language": "JavaScript",
       "topics": [
-        "agent-skills",
-        "ai-marketing",
-        "animation",
+        "ai-agents",
+        "ai-characters",
+        "ai-chat",
+        "ai-companion",
+        "anime",
+        "chatgpt",
+        "chibi",
         "claude",
         "claude-code",
-        "claude-skills",
-        "codex",
-        "hyperframes",
-        "motion-graphics",
-        "video"
+        "codex-cli",
+        "gemini",
+        "grok",
+        "group-chat",
+        "kawaii",
+        "llm",
+        "multi-agent",
+        "nodejs",
+        "otaku",
+        "waifu",
+        "weeb"
       ],
-      "created_at": "2026-09-26T13:57:34Z",
-      "updated_at": "2026-10-02T05:21:27Z",
-      "pushed_at": "2026-09-30T11:49:23Z"
+      "created_at": "2026-09-29T03:42:10Z",
+      "updated_at": "2026-10-02T09:44:46Z",
+      "pushed_at": "2026-09-29T05:16:14Z"
     },
     {
       "id": 1379859926,
@@ -1580,42 +1708,6 @@
       "created_at": "2026-09-21T14:03:13Z",
       "updated_at": "2026-09-24T02:49:27Z",
       "pushed_at": "2026-09-21T21:52:51Z"
-    },
-    {
-      "id": 1394206642,
-      "name": "ai-chatroom",
-      "full_name": "Moris-kr/ai-chatroom",
-      "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
-      "html_url": "https://github.com/Moris-kr/ai-chatroom",
-      "homepage": null,
-      "stars": 47,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "ai-characters",
-        "ai-chat",
-        "ai-companion",
-        "anime",
-        "chatgpt",
-        "chibi",
-        "claude",
-        "claude-code",
-        "codex-cli",
-        "gemini",
-        "grok",
-        "group-chat",
-        "kawaii",
-        "llm",
-        "multi-agent",
-        "nodejs",
-        "otaku",
-        "waifu",
-        "weeb"
-      ],
-      "created_at": "2026-09-29T03:42:10Z",
-      "updated_at": "2026-10-02T02:10:15Z",
-      "pushed_at": "2026-09-29T05:16:14Z"
     },
     {
       "id": 1391635046,
@@ -1654,6 +1746,21 @@
       "pushed_at": "2026-10-02T02:23:26Z"
     },
     {
+      "id": 1389869253,
+      "name": "webkvm",
+      "full_name": "Slaker19/webkvm",
+      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+      "html_url": "https://github.com/Slaker19/webkvm",
+      "homepage": null,
+      "stars": 47,
+      "forks": 2,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-26T23:17:14Z",
+      "updated_at": "2026-10-02T16:15:44Z",
+      "pushed_at": "2026-10-02T16:15:37Z"
+    },
+    {
       "id": 1376688549,
       "name": "weilanx-cover-skill",
       "full_name": "Azure12355/weilanx-cover-skill",
@@ -1667,21 +1774,6 @@
       "created_at": "2026-09-19T03:42:48Z",
       "updated_at": "2026-09-21T02:50:17Z",
       "pushed_at": "2026-09-19T03:46:01Z"
-    },
-    {
-      "id": 1389869253,
-      "name": "webkvm",
-      "full_name": "Slaker19/webkvm",
-      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
-      "html_url": "https://github.com/Slaker19/webkvm",
-      "homepage": null,
-      "stars": 46,
-      "forks": 2,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-09-26T23:17:14Z",
-      "updated_at": "2026-10-02T04:19:02Z",
-      "pushed_at": "2026-10-02T04:18:58Z"
     },
     {
       "id": 1376092823,
@@ -1705,6 +1797,21 @@
       "created_at": "2026-09-18T15:52:00Z",
       "updated_at": "2026-09-24T02:06:13Z",
       "pushed_at": "2026-09-23T22:55:56Z"
+    },
+    {
+      "id": 1388339095,
+      "name": "deployment-checklist",
+      "full_name": "PinoyFreeCoder/deployment-checklist",
+      "description": "Language-agnostic pre-deployment checklist for web & mobile apps — security-heavy, with human and AI-agent versions.",
+      "html_url": "https://github.com/PinoyFreeCoder/deployment-checklist",
+      "homepage": null,
+      "stars": 45,
+      "forks": 7,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-26T00:58:58Z",
+      "updated_at": "2026-10-02T13:46:58Z",
+      "pushed_at": "2026-09-30T13:38:19Z"
     },
     {
       "id": 1393173059,
@@ -1735,21 +1842,6 @@
       "created_at": "2026-09-18T10:39:05Z",
       "updated_at": "2026-09-23T14:14:14Z",
       "pushed_at": "2026-09-18T10:39:08Z"
-    },
-    {
-      "id": 1388339095,
-      "name": "deployment-checklist",
-      "full_name": "PinoyFreeCoder/deployment-checklist",
-      "description": "Language-agnostic pre-deployment checklist for web & mobile apps — security-heavy, with human and AI-agent versions.",
-      "html_url": "https://github.com/PinoyFreeCoder/deployment-checklist",
-      "homepage": null,
-      "stars": 43,
-      "forks": 7,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-26T00:58:58Z",
-      "updated_at": "2026-10-01T14:09:28Z",
-      "pushed_at": "2026-09-30T13:38:19Z"
     },
     {
       "id": 1391479034,
@@ -1786,6 +1878,30 @@
       "created_at": "2026-09-27T23:00:56Z",
       "updated_at": "2026-10-02T02:34:25Z",
       "pushed_at": "2026-10-01T15:31:57Z"
+    },
+    {
+      "id": 1393636648,
+      "name": "Nostalgex",
+      "full_name": "chadMueller/Nostalgex",
+      "description": "Retro cable TV guide for your Plex, Jellyfin or Emby library. Native Apple TV app + web tuner.",
+      "html_url": "https://github.com/chadMueller/Nostalgex",
+      "homepage": "https://www.nostalgex.app",
+      "stars": 43,
+      "forks": 0,
+      "language": "Swift",
+      "topics": [
+        "apple-tv",
+        "emby",
+        "epg",
+        "jellyfin",
+        "plex",
+        "retro",
+        "swiftui",
+        "tvos"
+      ],
+      "created_at": "2026-09-28T18:48:03Z",
+      "updated_at": "2026-10-02T16:44:04Z",
+      "pushed_at": "2026-09-28T21:37:24Z"
     },
     {
       "id": 1382441164,
@@ -1914,6 +2030,28 @@
       "pushed_at": "2026-09-19T12:16:43Z"
     },
     {
+      "id": 1392926487,
+      "name": "excali-mode",
+      "full_name": "yibie/excali-mode",
+      "description": "Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API",
+      "html_url": "https://github.com/yibie/excali-mode",
+      "homepage": null,
+      "stars": 39,
+      "forks": 0,
+      "language": "Emacs Lisp",
+      "topics": [
+        "cairo",
+        "diagrams",
+        "emacs",
+        "emacs-package",
+        "excalidraw",
+        "whiteboard"
+      ],
+      "created_at": "2026-09-28T14:24:02Z",
+      "updated_at": "2026-10-02T12:03:35Z",
+      "pushed_at": "2026-10-01T08:47:38Z"
+    },
+    {
       "id": 1382790500,
       "name": "laya-server",
       "full_name": "1Panel-dev/laya-server",
@@ -1966,28 +2104,6 @@
       "pushed_at": "2026-09-30T02:22:23Z"
     },
     {
-      "id": 1392926487,
-      "name": "excali-mode",
-      "full_name": "yibie/excali-mode",
-      "description": "Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API",
-      "html_url": "https://github.com/yibie/excali-mode",
-      "homepage": null,
-      "stars": 38,
-      "forks": 0,
-      "language": "Emacs Lisp",
-      "topics": [
-        "cairo",
-        "diagrams",
-        "emacs",
-        "emacs-package",
-        "excalidraw",
-        "whiteboard"
-      ],
-      "created_at": "2026-09-28T14:24:02Z",
-      "updated_at": "2026-10-01T23:47:57Z",
-      "pushed_at": "2026-10-01T08:47:38Z"
-    },
-    {
       "id": 1377304402,
       "name": "tmon",
       "full_name": "khangzxrr/tmon",
@@ -2009,7 +2125,7 @@
       "description": "Turn an old Android phone into a home server: SSH, web hosting, Jellyfin with hardware transcoding, Immich, qBittorrent, Home Assistant and a web dashboard. No root.",
       "html_url": "https://github.com/sudiptacmd/homedroid",
       "homepage": "https://sudiptacmd.github.io/homedroid/",
-      "stars": 36,
+      "stars": 37,
       "forks": 0,
       "language": "Kotlin",
       "topics": [
@@ -2027,7 +2143,7 @@
         "tailscale"
       ],
       "created_at": "2026-09-29T16:59:42Z",
-      "updated_at": "2026-10-02T01:13:37Z",
+      "updated_at": "2026-10-02T13:53:57Z",
       "pushed_at": "2026-10-02T01:13:37Z"
     },
     {
@@ -2037,13 +2153,41 @@
       "description": "Debian 13 软路由管理系统 · Web 管理面板。不重新实现任何协议 —— 渲染原生配置、语法预检、原子写入并 reload。",
       "html_url": "https://github.com/liuzhuohua/drouter",
       "homepage": null,
-      "stars": 35,
+      "stars": 36,
       "forks": 6,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-30T11:51:52Z",
-      "updated_at": "2026-10-02T03:14:58Z",
-      "pushed_at": "2026-10-02T02:26:09Z"
+      "updated_at": "2026-10-02T14:00:03Z",
+      "pushed_at": "2026-10-02T14:00:03Z"
+    },
+    {
+      "id": 1395203963,
+      "name": "duckapi",
+      "full_name": "hirotomasato/duckapi",
+      "description": "OpenAI- and Anthropic-compatible API for Duck.ai, driven by a real Chrome browser via Playwright. Streaming chat, image generation, session reuse, and a web dashboard.",
+      "html_url": "https://github.com/hirotomasato/duckapi",
+      "homepage": null,
+      "stars": 34,
+      "forks": 6,
+      "language": "Python",
+      "topics": [
+        "anthropic-compatible",
+        "api-proxy",
+        "chat-completions",
+        "claude",
+        "duckai",
+        "fastapi",
+        "image-generation",
+        "llm",
+        "openai-compatible",
+        "playwright",
+        "reverse-proxy",
+        "self-hosted"
+      ],
+      "created_at": "2026-09-29T12:24:12Z",
+      "updated_at": "2026-10-02T16:11:46Z",
+      "pushed_at": "2026-09-29T14:46:37Z"
     },
     {
       "id": 1377573287,
@@ -2115,34 +2259,6 @@
       "pushed_at": "2026-09-28T18:36:29Z"
     },
     {
-      "id": 1395203963,
-      "name": "duckapi",
-      "full_name": "hirotomasato/duckapi",
-      "description": "OpenAI- and Anthropic-compatible API for Duck.ai, driven by a real Chrome browser via Playwright. Streaming chat, image generation, session reuse, and a web dashboard.",
-      "html_url": "https://github.com/hirotomasato/duckapi",
-      "homepage": null,
-      "stars": 32,
-      "forks": 5,
-      "language": "Python",
-      "topics": [
-        "anthropic-compatible",
-        "api-proxy",
-        "chat-completions",
-        "claude",
-        "duckai",
-        "fastapi",
-        "image-generation",
-        "llm",
-        "openai-compatible",
-        "playwright",
-        "reverse-proxy",
-        "self-hosted"
-      ],
-      "created_at": "2026-09-29T12:24:12Z",
-      "updated_at": "2026-10-01T09:49:07Z",
-      "pushed_at": "2026-09-29T14:46:37Z"
-    },
-    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -2190,6 +2306,42 @@
       "created_at": "2026-09-24T09:14:14Z",
       "updated_at": "2026-09-30T14:54:01Z",
       "pushed_at": "2026-09-27T17:07:26Z"
+    },
+    {
+      "id": 1393673886,
+      "name": "OpenBUA",
+      "full_name": "AliSharjeell/OpenBUA",
+      "description": "Open-source autonomous AI browser agent Chrome extension running locally in your authenticated browser. Researches web data, fills forms, automates workflows, and streams live results using active logins.",
+      "html_url": "https://github.com/AliSharjeell/OpenBUA",
+      "homepage": "www.openbua.com",
+      "stars": 30,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-automation",
+        "ai-browser-agent",
+        "autonomous-agent",
+        "browser-agent",
+        "browser-automation",
+        "browser-use",
+        "browser-use-agent",
+        "byok",
+        "chrome-extension",
+        "claude",
+        "client-side",
+        "form-automation",
+        "gemini",
+        "lead-generation",
+        "manifest-v3",
+        "pi-agent-core",
+        "pi-ai",
+        "web-agent",
+        "web-automation"
+      ],
+      "created_at": "2026-09-28T19:05:49Z",
+      "updated_at": "2026-10-02T15:57:23Z",
+      "pushed_at": "2026-10-02T14:07:17Z"
     },
     {
       "id": 1375795989,
@@ -2300,6 +2452,52 @@
       "pushed_at": "2026-09-30T13:53:19Z"
     },
     {
+      "id": 1395215215,
+      "name": "awesome-tauri-apps",
+      "full_name": "chrysler-stone/awesome-tauri-apps",
+      "description": "Curated list of desktop and mobile apps built with Tauri.",
+      "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
+      "homepage": null,
+      "stars": 28,
+      "forks": 12,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "desktop",
+        "javascript",
+        "linux",
+        "macos",
+        "multiplatform",
+        "rust",
+        "svelte",
+        "tauri",
+        "typescript",
+        "vue",
+        "web",
+        "web-development",
+        "windows"
+      ],
+      "created_at": "2026-09-29T12:28:07Z",
+      "updated_at": "2026-10-02T16:15:58Z",
+      "pushed_at": "2026-10-01T09:45:28Z"
+    },
+    {
+      "id": 1394401316,
+      "name": "personal-resume-web-show",
+      "full_name": "everynight31/personal-resume-web-show",
+      "description": "",
+      "html_url": "https://github.com/everynight31/personal-resume-web-show",
+      "homepage": null,
+      "stars": 28,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-29T05:23:50Z",
+      "updated_at": "2026-10-02T10:41:15Z",
+      "pushed_at": "2026-09-29T08:21:53Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -2388,59 +2586,13 @@
       "pushed_at": "2026-09-30T12:50:51Z"
     },
     {
-      "id": 1395215215,
-      "name": "awesome-tauri-apps",
-      "full_name": "chrysler-stone/awesome-tauri-apps",
-      "description": "Curated list of desktop and mobile apps built with Tauri.",
-      "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "homepage": null,
-      "stars": 26,
-      "forks": 12,
-      "language": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "desktop",
-        "javascript",
-        "linux",
-        "macos",
-        "multiplatform",
-        "rust",
-        "svelte",
-        "tauri",
-        "typescript",
-        "vue",
-        "web",
-        "web-development",
-        "windows"
-      ],
-      "created_at": "2026-09-29T12:28:07Z",
-      "updated_at": "2026-10-02T00:58:09Z",
-      "pushed_at": "2026-10-01T09:45:28Z"
-    },
-    {
-      "id": 1394401316,
-      "name": "personal-resume-web-show",
-      "full_name": "everynight31/personal-resume-web-show",
-      "description": "",
-      "html_url": "https://github.com/everynight31/personal-resume-web-show",
-      "homepage": null,
-      "stars": 26,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-29T05:23:50Z",
-      "updated_at": "2026-10-02T04:17:18Z",
-      "pushed_at": "2026-09-29T08:21:53Z"
-    },
-    {
       "id": 1390720234,
       "name": "fluvy",
       "full_name": "acosta290/fluvy",
       "description": "A premium theme and card library for Home Assistant: a generated light and dark theme, forty-one cards, five automatic dashboards, a wall-panel kiosk mode and a settings panel. Installs through HACS.",
       "html_url": "https://github.com/acosta290/fluvy",
       "homepage": "https://acosta290.github.io/fluvy/",
-      "stars": 25,
+      "stars": 26,
       "forks": 1,
       "language": "TypeScript",
       "topics": [
@@ -2459,8 +2611,23 @@
         "wall-panel"
       ],
       "created_at": "2026-09-27T11:43:34Z",
-      "updated_at": "2026-10-01T23:46:04Z",
+      "updated_at": "2026-10-02T12:50:34Z",
       "pushed_at": "2026-10-01T02:58:29Z"
+    },
+    {
+      "id": 1389788067,
+      "name": "mario-kart-64-ps2",
+      "full_name": "anthoo582/mario-kart-64-ps2",
+      "description": "Port de Mario Kart 64 a PlayStation 2: el juego decompilado sobre una capa nueva que reemplaza el hardware de la N64. Audio original con la mezcla exacta, modo 60 FPS, Memory Card y ISO para OPL y PCSX2.",
+      "html_url": "https://github.com/anthoo582/mario-kart-64-ps2",
+      "homepage": null,
+      "stars": 25,
+      "forks": 5,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-09-26T21:01:58Z",
+      "updated_at": "2026-10-02T16:59:44Z",
+      "pushed_at": "2026-10-02T15:59:21Z"
     },
     {
       "id": 1377235275,
@@ -2499,21 +2666,6 @@
       "pushed_at": "2026-09-27T16:51:40Z"
     },
     {
-      "id": 1389788067,
-      "name": "mario-kart-64-ps2",
-      "full_name": "anthoo582/mario-kart-64-ps2",
-      "description": "Port de Mario Kart 64 a PlayStation 2: el juego decompilado sobre una capa nueva que reemplaza el hardware de la N64. Audio original con la mezcla exacta, modo 60 FPS, Memory Card y ISO para OPL y PCSX2.",
-      "html_url": "https://github.com/anthoo582/mario-kart-64-ps2",
-      "homepage": null,
-      "stars": 24,
-      "forks": 5,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-09-26T21:01:58Z",
-      "updated_at": "2026-10-01T19:57:01Z",
-      "pushed_at": "2026-09-30T21:39:26Z"
-    },
-    {
       "id": 1378959833,
       "name": "jev-design-test",
       "full_name": "bhaiG-de/jev-design-test",
@@ -2544,6 +2696,21 @@
       "pushed_at": "2026-09-29T12:16:54Z"
     },
     {
+      "id": 1388388689,
+      "name": "receipt-protocol",
+      "full_name": "hhh7666/receipt-protocol",
+      "description": "Minimal cross-venue receipt protocol for AI agents",
+      "html_url": "https://github.com/hhh7666/receipt-protocol",
+      "homepage": null,
+      "stars": 23,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-26T02:17:51Z",
+      "updated_at": "2026-10-02T17:01:52Z",
+      "pushed_at": "2026-09-29T09:43:31Z"
+    },
+    {
       "id": 1384491277,
       "name": "serv-s-quick-video-clip-editor-sqvce-",
       "full_name": "s3rville/serv-s-quick-video-clip-editor-sqvce-",
@@ -2559,19 +2726,19 @@
       "pushed_at": "2026-09-28T21:01:32Z"
     },
     {
-      "id": 1388388689,
-      "name": "receipt-protocol",
-      "full_name": "hhh7666/receipt-protocol",
-      "description": "Minimal cross-venue receipt protocol for AI agents",
-      "html_url": "https://github.com/hhh7666/receipt-protocol",
+      "id": 1389225185,
+      "name": "scenemeixer",
+      "full_name": "scenemixer-official/scenemeixer",
+      "description": "AI drama generator for 15 languages",
+      "html_url": "https://github.com/scenemixer-official/scenemeixer",
       "homepage": null,
-      "stars": 21,
-      "forks": 0,
-      "language": "JavaScript",
+      "stars": 22,
+      "forks": 3,
+      "language": null,
       "topics": [],
-      "created_at": "2026-09-26T02:17:51Z",
-      "updated_at": "2026-10-02T00:11:15Z",
-      "pushed_at": "2026-09-29T09:43:31Z"
+      "created_at": "2026-09-26T13:03:43Z",
+      "updated_at": "2026-10-02T14:34:48Z",
+      "pushed_at": "2026-09-26T13:30:37Z"
     },
     {
       "id": 1394505594,
@@ -2673,21 +2840,6 @@
       "created_at": "2026-09-25T10:44:35Z",
       "updated_at": "2026-09-30T12:06:02Z",
       "pushed_at": "2026-09-25T11:18:38Z"
-    },
-    {
-      "id": 1389225185,
-      "name": "scenemeixer",
-      "full_name": "scenemixer-official/scenemeixer",
-      "description": "AI drama generator for 15 languages",
-      "html_url": "https://github.com/scenemixer-official/scenemeixer",
-      "homepage": null,
-      "stars": 18,
-      "forks": 2,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-26T13:03:43Z",
-      "updated_at": "2026-10-02T04:21:59Z",
-      "pushed_at": "2026-09-26T13:30:37Z"
     },
     {
       "id": 1386745578,
@@ -2840,6 +2992,21 @@
       "created_at": "2026-09-19T15:31:30Z",
       "updated_at": "2026-09-24T03:22:01Z",
       "pushed_at": "2026-09-20T12:23:53Z"
+    },
+    {
+      "id": 1389339354,
+      "name": "awesome-ai-video-generators",
+      "full_name": "bestaidrama/awesome-ai-video-generators",
+      "description": "A curated list of AI video and AI drama generators and the open-weight video models behind them, one line each with the official link.",
+      "html_url": "https://github.com/bestaidrama/awesome-ai-video-generators",
+      "homepage": null,
+      "stars": 15,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-26T14:34:57Z",
+      "updated_at": "2026-10-02T15:52:26Z",
+      "pushed_at": "2026-09-26T14:35:37Z"
     },
     {
       "id": 1379723846,
@@ -3023,6 +3190,29 @@
       "pushed_at": "2026-09-22T04:55:51Z"
     },
     {
+      "id": 1399235098,
+      "name": "st-tavern-architect",
+      "full_name": "pathetic777/st-tavern-architect",
+      "description": "3D Scene & Architecture Generator for SillyTavern via Dual-Agent & Three.js (Real-time Spatial Rendering)",
+      "html_url": "https://github.com/pathetic777/st-tavern-architect",
+      "homepage": null,
+      "stars": 12,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "3d-generation",
+        "roleplay",
+        "sillytavern",
+        "sillytavern-extension",
+        "sillytavern-extensions",
+        "spatial-computing",
+        "threejs"
+      ],
+      "created_at": "2026-10-01T05:49:39Z",
+      "updated_at": "2026-10-02T16:43:47Z",
+      "pushed_at": "2026-10-02T10:35:17Z"
+    },
+    {
       "id": 1389013962,
       "name": "readme-studio",
       "full_name": "gemachistesfaye/readme-studio",
@@ -3053,19 +3243,40 @@
       "pushed_at": "2026-09-29T11:10:59Z"
     },
     {
-      "id": 1389339354,
-      "name": "awesome-ai-video-generators",
-      "full_name": "bestaidrama/awesome-ai-video-generators",
-      "description": "A curated list of AI video and AI drama generators and the open-weight video models behind them, one line each with the official link.",
-      "html_url": "https://github.com/bestaidrama/awesome-ai-video-generators",
-      "homepage": null,
+      "id": 1391479276,
+      "name": "tinydesk-shell",
+      "full_name": "schikani/tinydesk-shell",
+      "description": "A Unix-like shell for microcontrollers and PCs: users, files, .tdsh scripts, Wi-Fi and Ethernet, SSH/SFTP, FTP, SMB mounts, SD card. Tested on ESP32 boards; native Windows and Linux programs too.",
+      "html_url": "https://github.com/schikani/tinydesk-shell",
+      "homepage": "https://schikani.github.io/tinydesk-docs/",
       "stars": 11,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-26T14:34:57Z",
-      "updated_at": "2026-10-02T05:44:26Z",
-      "pushed_at": "2026-09-26T14:35:37Z"
+      "forks": 4,
+      "language": "C",
+      "topics": [
+        "c",
+        "cli",
+        "command-line",
+        "embedded",
+        "embedded-systems",
+        "esp32",
+        "freertos",
+        "ftp-server",
+        "iot",
+        "littlefs",
+        "mcu",
+        "microcontroller",
+        "portable",
+        "scripting",
+        "sd-card",
+        "sftp",
+        "shell",
+        "smb",
+        "ssh-server",
+        "unix-shell"
+      ],
+      "created_at": "2026-09-27T23:01:24Z",
+      "updated_at": "2026-10-02T14:50:35Z",
+      "pushed_at": "2026-10-01T15:31:46Z"
     },
     {
       "id": 1387641647,
@@ -3098,63 +3309,19 @@
       "pushed_at": "2026-09-25T12:47:25Z"
     },
     {
-      "id": 1391479276,
-      "name": "tinydesk-shell",
-      "full_name": "schikani/tinydesk-shell",
-      "description": "A Unix-like shell for microcontrollers and PCs: users, files, .tdsh scripts, Wi-Fi and Ethernet, SSH/SFTP, FTP, SMB mounts, SD card. Tested on ESP32 boards; native Windows and Linux programs too.",
-      "html_url": "https://github.com/schikani/tinydesk-shell",
-      "homepage": "https://schikani.github.io/tinydesk-docs/",
+      "id": 1389869226,
+      "name": "yeufonic",
+      "full_name": "yeufonic/yeufonic",
+      "description": "A web interface (and more) for YuE2: cover a recording or write a song from a prompt, edit the score, extract the stems, create your own LoRA, import them, export them, share them with fellow yeufonic users. Installs via Docker containers on Linux or Windows. or directly via a Windows installer.",
+      "html_url": "https://github.com/yeufonic/yeufonic",
+      "homepage": "https://yeufonic.com",
       "stars": 10,
-      "forks": 3,
-      "language": "C",
-      "topics": [
-        "c",
-        "cli",
-        "command-line",
-        "embedded",
-        "embedded-systems",
-        "esp32",
-        "freertos",
-        "ftp-server",
-        "iot",
-        "littlefs",
-        "mcu",
-        "microcontroller",
-        "portable",
-        "scripting",
-        "sd-card",
-        "sftp",
-        "shell",
-        "smb",
-        "ssh-server",
-        "unix-shell"
-      ],
-      "created_at": "2026-09-27T23:01:24Z",
-      "updated_at": "2026-10-01T18:32:33Z",
-      "pushed_at": "2026-10-01T15:31:46Z"
-    },
-    {
-      "id": 1399235098,
-      "name": "st-tavern-architect",
-      "full_name": "pathetic777/st-tavern-architect",
-      "description": "3D Scene & Architecture Generator for SillyTavern via Dual-Agent & Three.js (Real-time Spatial Rendering)",
-      "html_url": "https://github.com/pathetic777/st-tavern-architect",
-      "homepage": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "3d-generation",
-        "roleplay",
-        "sillytavern",
-        "sillytavern-extension",
-        "sillytavern-extensions",
-        "spatial-computing",
-        "threejs"
-      ],
-      "created_at": "2026-10-01T05:49:39Z",
-      "updated_at": "2026-10-02T04:58:54Z",
-      "pushed_at": "2026-10-02T00:17:37Z"
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-26T23:17:11Z",
+      "updated_at": "2026-10-02T11:00:55Z",
+      "pushed_at": "2026-09-30T12:08:46Z"
     },
     {
       "id": 1394432370,
@@ -3180,34 +3347,19 @@
       "pushed_at": "2026-10-01T03:06:07Z"
     },
     {
-      "id": 1389869226,
-      "name": "yeufonic",
-      "full_name": "yeufonic/yeufonic",
-      "description": "A web interface (and more) for YuE2: cover a recording or write a song from a prompt, edit the score, extract the stems, create your own LoRA, import them, export them, share them with fellow yeufonic users. Installs via Docker containers on Linux or Windows. or directly via a Windows installer.",
-      "html_url": "https://github.com/yeufonic/yeufonic",
-      "homepage": "https://yeufonic.com",
-      "stars": 9,
-      "forks": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-09-26T23:17:11Z",
-      "updated_at": "2026-10-01T03:31:00Z",
-      "pushed_at": "2026-09-30T12:08:46Z"
-    },
-    {
       "id": 1393811511,
-      "name": "terra-drive",
-      "full_name": "Alezx311/terra-drive",
+      "name": "earth2road",
+      "full_name": "Alezx311/earth2road",
       "description": "A simple 3d map generator with driving, traffic, road rules and possibility to export as BeamNG map",
-      "html_url": "https://github.com/Alezx311/terra-drive",
+      "html_url": "https://github.com/Alezx311/earth2road",
       "homepage": null,
       "stars": 9,
       "forks": 1,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-28T20:39:58Z",
-      "updated_at": "2026-10-01T17:02:22Z",
-      "pushed_at": "2026-10-01T20:01:31Z"
+      "updated_at": "2026-10-02T17:00:02Z",
+      "pushed_at": "2026-10-02T16:59:58Z"
     }
   ]
 }
