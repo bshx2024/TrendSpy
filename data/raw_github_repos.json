@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/2 12:15:20",
-  "total_repos": 154,
+  "fetched_at": "2026/10/2 13:59:37",
+  "total_repos": 155,
   "repos": [
     {
       "id": 1377938409,
@@ -89,7 +89,7 @@
       "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
       "html_url": "https://github.com/pengchujin/livecanvas",
       "homepage": null,
-      "stars": 308,
+      "stars": 312,
       "forks": 24,
       "language": "Swift",
       "topics": [
@@ -100,7 +100,7 @@
         "remotion"
       ],
       "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-02T04:13:01Z",
+      "updated_at": "2026-10-02T05:54:51Z",
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
@@ -125,7 +125,7 @@
       "description": "Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.",
       "html_url": "https://github.com/Appllama/liquid-glass-chat-ui",
       "homepage": "https://appllama.io",
-      "stars": 210,
+      "stars": 211,
       "forks": 26,
       "language": "TypeScript",
       "topics": [
@@ -151,7 +151,7 @@
         "ui-components"
       ],
       "created_at": "2026-09-27T13:33:00Z",
-      "updated_at": "2026-10-01T17:45:34Z",
+      "updated_at": "2026-10-02T04:58:54Z",
       "pushed_at": "2026-09-27T18:48:24Z"
     },
     {
@@ -203,7 +203,27 @@
       "topics": [],
       "created_at": "2026-09-26T07:52:44Z",
       "updated_at": "2026-10-01T13:32:05Z",
-      "pushed_at": "2026-10-02T03:43:09Z"
+      "pushed_at": "2026-10-02T04:15:42Z"
+    },
+    {
+      "id": 1390994799,
+      "name": "CalcKernel",
+      "full_name": "luxine/CalcKernel",
+      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
+      "html_url": "https://github.com/luxine/CalcKernel",
+      "homepage": "https://calckernel.org",
+      "stars": 197,
+      "forks": 5,
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "programming-language",
+        "rust",
+        "webassembly"
+      ],
+      "created_at": "2026-09-27T14:59:35Z",
+      "updated_at": "2026-10-02T05:51:51Z",
+      "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
       "id": 1380797051,
@@ -221,26 +241,6 @@
       "pushed_at": "2026-09-22T03:27:27Z"
     },
     {
-      "id": 1390994799,
-      "name": "CalcKernel",
-      "full_name": "luxine/CalcKernel",
-      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
-      "html_url": "https://github.com/luxine/CalcKernel",
-      "homepage": "https://calckernel.org",
-      "stars": 193,
-      "forks": 4,
-      "language": "Rust",
-      "topics": [
-        "compiler",
-        "programming-language",
-        "rust",
-        "webassembly"
-      ],
-      "created_at": "2026-09-27T14:59:35Z",
-      "updated_at": "2026-10-02T03:59:16Z",
-      "pushed_at": "2026-10-02T00:33:09Z"
-    },
-    {
       "id": 1388097438,
       "name": "mysticgsi",
       "full_name": "MysticGSI/mysticgsi",
@@ -254,6 +254,30 @@
       "created_at": "2026-09-25T19:23:18Z",
       "updated_at": "2026-10-01T08:08:05Z",
       "pushed_at": "2026-09-29T19:30:34Z"
+    },
+    {
+      "id": 1396738941,
+      "name": "dioramas",
+      "full_name": "blendi-remade/dioramas",
+      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "html_url": "https://github.com/blendi-remade/dioramas",
+      "homepage": null,
+      "stars": 190,
+      "forks": 20,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "creative-coding",
+        "fal",
+        "generative-ai",
+        "landing-page",
+        "meshy",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-09-30T00:07:56Z",
+      "updated_at": "2026-10-02T05:54:17Z",
+      "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
       "id": 1375641268,
@@ -284,30 +308,6 @@
       "created_at": "2026-09-25T12:31:39Z",
       "updated_at": "2026-09-30T17:15:14Z",
       "pushed_at": "2026-09-25T16:10:39Z"
-    },
-    {
-      "id": 1396738941,
-      "name": "dioramas",
-      "full_name": "blendi-remade/dioramas",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "html_url": "https://github.com/blendi-remade/dioramas",
-      "homepage": null,
-      "stars": 187,
-      "forks": 19,
-      "language": "JavaScript",
-      "topics": [
-        "3d",
-        "creative-coding",
-        "fal",
-        "generative-ai",
-        "landing-page",
-        "meshy",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-02T04:13:36Z",
-      "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
       "id": 1390752953,
@@ -531,12 +531,12 @@
       "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
       "html_url": "https://github.com/crmne/omarchy-rescue",
       "homepage": null,
-      "stars": 122,
+      "stars": 123,
       "forks": 6,
       "language": "Shell",
       "topics": [],
       "created_at": "2026-09-27T11:21:06Z",
-      "updated_at": "2026-10-02T02:47:26Z",
+      "updated_at": "2026-10-02T04:31:52Z",
       "pushed_at": "2026-10-01T23:13:49Z"
     },
     {
@@ -546,12 +546,12 @@
       "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
       "html_url": "https://github.com/evilSheep/max-payne-2-vr",
       "homepage": null,
-      "stars": 117,
+      "stars": 118,
       "forks": 1,
       "language": null,
       "topics": [],
       "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-10-01T22:03:35Z",
+      "updated_at": "2026-10-02T04:54:59Z",
       "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
@@ -839,7 +839,7 @@
       "html_url": "https://github.com/kangkungmozzarella/kantor-ai",
       "homepage": null,
       "stars": 97,
-      "forks": 31,
+      "forks": 32,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-09-29T16:33:24Z",
@@ -889,6 +889,21 @@
       "pushed_at": "2026-09-18T21:16:11Z"
     },
     {
+      "id": 1390845863,
+      "name": "Refract",
+      "full_name": "MIXIDtheSilly/Refract",
+      "description": "A Quest emulation tool",
+      "html_url": "https://github.com/MIXIDtheSilly/Refract",
+      "homepage": null,
+      "stars": 93,
+      "forks": 4,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-09-27T13:05:42Z",
+      "updated_at": "2026-10-02T05:01:28Z",
+      "pushed_at": "2026-10-01T22:24:55Z"
+    },
+    {
       "id": 1377530130,
       "name": "job_search_tool",
       "full_name": "fedorchenko-juli/job_search_tool",
@@ -906,21 +921,6 @@
       "created_at": "2026-09-19T19:13:56Z",
       "updated_at": "2026-09-23T15:54:41Z",
       "pushed_at": "2026-09-19T20:29:22Z"
-    },
-    {
-      "id": 1390845863,
-      "name": "Refract",
-      "full_name": "MIXIDtheSilly/Refract",
-      "description": "A Quest emulation tool",
-      "html_url": "https://github.com/MIXIDtheSilly/Refract",
-      "homepage": null,
-      "stars": 92,
-      "forks": 4,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-09-27T13:05:42Z",
-      "updated_at": "2026-10-02T03:33:24Z",
-      "pushed_at": "2026-10-01T22:24:55Z"
     },
     {
       "id": 1378557186,
@@ -1010,28 +1010,13 @@
       "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
-      "id": 1377321806,
-      "name": "boris-fx-bcc-plugin-premium-2026",
-      "full_name": "SandstoneAir/boris-fx-bcc-plugin-premium-2026",
-      "description": "Boris FX Continuum (BCC) is a comprehensive visual effects and plugin suite for video editors and motion designers. Featuring hundreds of creative filters, transition effects, title design tools, and AI-powered restoration utilities, it seamlessly integrates into major NLEs to streamline post-production workflows",
-      "html_url": "https://github.com/SandstoneAir/boris-fx-bcc-plugin-premium-2026",
-      "homepage": null,
-      "stars": 76,
-      "forks": 0,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-09-19T15:34:11Z",
-      "updated_at": "2026-09-22T16:59:42Z",
-      "pushed_at": "2026-09-21T13:11:21Z"
-    },
-    {
       "id": 1399029726,
       "name": "awesome-homelab",
       "full_name": "Minh141120/awesome-homelab",
       "description": "Your homelab, as a Git repository: free tools, real configs, and guides for self-hosting with GitOps.",
       "html_url": "https://github.com/Minh141120/awesome-homelab",
       "homepage": null,
-      "stars": 76,
+      "stars": 78,
       "forks": 7,
       "language": null,
       "topics": [
@@ -1046,8 +1031,23 @@
         "talos"
       ],
       "created_at": "2026-10-01T03:40:25Z",
-      "updated_at": "2026-10-02T04:07:17Z",
+      "updated_at": "2026-10-02T05:14:30Z",
       "pushed_at": "2026-10-01T14:20:12Z"
+    },
+    {
+      "id": 1377321806,
+      "name": "boris-fx-bcc-plugin-premium-2026",
+      "full_name": "SandstoneAir/boris-fx-bcc-plugin-premium-2026",
+      "description": "Boris FX Continuum (BCC) is a comprehensive visual effects and plugin suite for video editors and motion designers. Featuring hundreds of creative filters, transition effects, title design tools, and AI-powered restoration utilities, it seamlessly integrates into major NLEs to streamline post-production workflows",
+      "html_url": "https://github.com/SandstoneAir/boris-fx-bcc-plugin-premium-2026",
+      "homepage": null,
+      "stars": 76,
+      "forks": 0,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-19T15:34:11Z",
+      "updated_at": "2026-09-22T16:59:42Z",
+      "pushed_at": "2026-09-21T13:11:21Z"
     },
     {
       "id": 1396432432,
@@ -1258,6 +1258,42 @@
       "pushed_at": "2026-09-30T23:09:06Z"
     },
     {
+      "id": 1396871330,
+      "name": "Flash-USDT-Tool",
+      "full_name": "shelby2006/Flash-USDT-Tool",
+      "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
+      "html_url": "https://github.com/shelby2006/Flash-USDT-Tool",
+      "homepage": null,
+      "stars": 60,
+      "forks": 10,
+      "language": "Python",
+      "topics": [
+        "bitcoin-transaction-tool",
+        "check-crypto-balance",
+        "crypto-flasher-electrum",
+        "cryptohack",
+        "defi-tools",
+        "electrum-crypto-flasher",
+        "electrum-wallet",
+        "eth-balance",
+        "ethereum",
+        "fake-crypto",
+        "fakewallet",
+        "flash",
+        "flash-method",
+        "flashusftsendarbot",
+        "ledger-wallet",
+        "phantom-clone",
+        "trc20",
+        "trx",
+        "trx-flash",
+        "wallet-finder-crypto"
+      ],
+      "created_at": "2026-09-30T02:50:26Z",
+      "updated_at": "2026-10-02T05:44:24Z",
+      "pushed_at": "2026-10-02T05:44:21Z"
+    },
+    {
       "id": 1386575337,
       "name": "Java-KIT",
       "full_name": "avinash201199/Java-KIT",
@@ -1333,6 +1369,21 @@
       "created_at": "2026-09-28T17:54:25Z",
       "updated_at": "2026-10-01T19:29:06Z",
       "pushed_at": "2026-09-28T17:55:29Z"
+    },
+    {
+      "id": 1389416650,
+      "name": "mygo",
+      "full_name": "egoist/mygo",
+      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "html_url": "https://github.com/egoist/mygo",
+      "homepage": "mygo.egoist.dev",
+      "stars": 54,
+      "forks": 1,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-26T15:21:37Z",
+      "updated_at": "2026-10-02T05:28:11Z",
+      "pushed_at": "2026-10-01T13:30:08Z"
     },
     {
       "id": 1382450432,
@@ -1451,28 +1502,13 @@
       "pushed_at": "2026-09-21T17:29:57Z"
     },
     {
-      "id": 1389416650,
-      "name": "mygo",
-      "full_name": "egoist/mygo",
-      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
-      "html_url": "https://github.com/egoist/mygo",
-      "homepage": "mygo.egoist.dev",
-      "stars": 50,
-      "forks": 1,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-09-26T15:21:37Z",
-      "updated_at": "2026-10-02T03:11:02Z",
-      "pushed_at": "2026-10-01T13:30:08Z"
-    },
-    {
       "id": 1391565885,
       "name": "BanjoTooieRecompiled",
       "full_name": "some-scurvy-dog/BanjoTooieRecompiled",
       "description": "Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and speedrunning practice tools.",
       "html_url": "https://github.com/some-scurvy-dog/BanjoTooieRecompiled",
       "homepage": null,
-      "stars": 48,
+      "stars": 50,
       "forks": 4,
       "language": "C++",
       "topics": [
@@ -1484,8 +1520,34 @@
         "windows"
       ],
       "created_at": "2026-09-28T01:20:48Z",
-      "updated_at": "2026-10-02T03:55:34Z",
+      "updated_at": "2026-10-02T04:45:32Z",
       "pushed_at": "2026-09-30T16:07:07Z"
+    },
+    {
+      "id": 1389294768,
+      "name": "motion-graphics-skills",
+      "full_name": "charlie947/motion-graphics-skills",
+      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
+      "html_url": "https://github.com/charlie947/motion-graphics-skills",
+      "homepage": "https://charliehills.substack.com",
+      "stars": 48,
+      "forks": 6,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-marketing",
+        "animation",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hyperframes",
+        "motion-graphics",
+        "video"
+      ],
+      "created_at": "2026-09-26T13:57:34Z",
+      "updated_at": "2026-10-02T05:21:27Z",
+      "pushed_at": "2026-09-30T11:49:23Z"
     },
     {
       "id": 1379859926,
@@ -1556,30 +1618,40 @@
       "pushed_at": "2026-09-29T05:16:14Z"
     },
     {
-      "id": 1389294768,
-      "name": "motion-graphics-skills",
-      "full_name": "charlie947/motion-graphics-skills",
-      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
-      "html_url": "https://github.com/charlie947/motion-graphics-skills",
-      "homepage": "https://charliehills.substack.com",
+      "id": 1391635046,
+      "name": "awesome-cloud-emulators",
+      "full_name": "upgundecha/awesome-cloud-emulators",
+      "description": "A curated list of cloud emulators and local cloud development tools for AWS, Azure, and Google Cloud. Explore Moto, Azurite, LocalStack, Firebase, and more for integration testing and CI/CD.",
+      "html_url": "https://github.com/upgundecha/awesome-cloud-emulators",
+      "homepage": "https://github.com/upgundecha/awesome-cloud-emulators",
       "stars": 47,
-      "forks": 6,
-      "language": "Shell",
+      "forks": 5,
+      "language": "JavaScript",
       "topics": [
-        "agent-skills",
-        "ai-marketing",
-        "animation",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hyperframes",
-        "motion-graphics",
-        "video"
+        "awesome",
+        "awesome-list",
+        "aws",
+        "azure",
+        "azurite",
+        "ci-cd",
+        "cloud-emulation",
+        "cloud-emulator",
+        "cloud-engineering",
+        "developer-tools",
+        "devops",
+        "gcp",
+        "google-cloud",
+        "iac",
+        "infrastructure-as-code",
+        "integration-testing",
+        "local-development",
+        "moto-server",
+        "test-environments",
+        "testcontainers"
       ],
-      "created_at": "2026-09-26T13:57:34Z",
-      "updated_at": "2026-10-01T23:07:24Z",
-      "pushed_at": "2026-09-30T11:49:23Z"
+      "created_at": "2026-09-28T02:43:15Z",
+      "updated_at": "2026-10-02T05:29:25Z",
+      "pushed_at": "2026-10-02T02:23:26Z"
     },
     {
       "id": 1376688549,
@@ -1608,44 +1680,8 @@
       "language": "Go",
       "topics": [],
       "created_at": "2026-09-26T23:17:14Z",
-      "updated_at": "2026-10-01T19:08:21Z",
-      "pushed_at": "2026-09-30T23:21:38Z"
-    },
-    {
-      "id": 1391635046,
-      "name": "awesome-cloud-emulators",
-      "full_name": "upgundecha/awesome-cloud-emulators",
-      "description": "A curated list of cloud emulators and local cloud development tools for AWS, Azure, and Google Cloud. Explore Moto, Azurite, LocalStack, Firebase, and more for integration testing and CI/CD.",
-      "html_url": "https://github.com/upgundecha/awesome-cloud-emulators",
-      "homepage": "https://github.com/upgundecha/awesome-cloud-emulators",
-      "stars": 46,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "aws",
-        "azure",
-        "azurite",
-        "ci-cd",
-        "cloud-emulation",
-        "cloud-emulator",
-        "cloud-engineering",
-        "developer-tools",
-        "devops",
-        "gcp",
-        "google-cloud",
-        "iac",
-        "infrastructure-as-code",
-        "integration-testing",
-        "local-development",
-        "moto-server",
-        "test-environments",
-        "testcontainers"
-      ],
-      "created_at": "2026-09-28T02:43:15Z",
-      "updated_at": "2026-10-02T02:21:10Z",
-      "pushed_at": "2026-10-02T02:23:26Z"
+      "updated_at": "2026-10-02T04:19:02Z",
+      "pushed_at": "2026-10-02T04:18:58Z"
     },
     {
       "id": 1376092823,
@@ -1669,42 +1705,6 @@
       "created_at": "2026-09-18T15:52:00Z",
       "updated_at": "2026-09-24T02:06:13Z",
       "pushed_at": "2026-09-23T22:55:56Z"
-    },
-    {
-      "id": 1396871330,
-      "name": "Flash-USDT-Tool",
-      "full_name": "shelby2006/Flash-USDT-Tool",
-      "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
-      "html_url": "https://github.com/shelby2006/Flash-USDT-Tool",
-      "homepage": null,
-      "stars": 44,
-      "forks": 10,
-      "language": "Python",
-      "topics": [
-        "bitcoin-transaction-tool",
-        "check-crypto-balance",
-        "crypto-flasher-electrum",
-        "cryptohack",
-        "defi-tools",
-        "electrum-crypto-flasher",
-        "electrum-wallet",
-        "eth-balance",
-        "ethereum",
-        "fake-crypto",
-        "fakewallet",
-        "flash",
-        "flash-method",
-        "flashusftsendarbot",
-        "ledger-wallet",
-        "phantom-clone",
-        "trc20",
-        "trx",
-        "trx-flash",
-        "wallet-finder-crypto"
-      ],
-      "created_at": "2026-09-30T02:50:26Z",
-      "updated_at": "2026-10-02T04:14:42Z",
-      "pushed_at": "2026-10-02T04:00:38Z"
     },
     {
       "id": 1393173059,
@@ -2419,6 +2419,21 @@
       "pushed_at": "2026-10-01T09:45:28Z"
     },
     {
+      "id": 1394401316,
+      "name": "personal-resume-web-show",
+      "full_name": "everynight31/personal-resume-web-show",
+      "description": "",
+      "html_url": "https://github.com/everynight31/personal-resume-web-show",
+      "homepage": null,
+      "stars": 26,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-29T05:23:50Z",
+      "updated_at": "2026-10-02T04:17:18Z",
+      "pushed_at": "2026-09-29T08:21:53Z"
+    },
+    {
       "id": 1390720234,
       "name": "fluvy",
       "full_name": "acosta290/fluvy",
@@ -2446,21 +2461,6 @@
       "created_at": "2026-09-27T11:43:34Z",
       "updated_at": "2026-10-01T23:46:04Z",
       "pushed_at": "2026-10-01T02:58:29Z"
-    },
-    {
-      "id": 1394401316,
-      "name": "personal-resume-web-show",
-      "full_name": "everynight31/personal-resume-web-show",
-      "description": "",
-      "html_url": "https://github.com/everynight31/personal-resume-web-show",
-      "homepage": null,
-      "stars": 25,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-29T05:23:50Z",
-      "updated_at": "2026-10-01T23:08:59Z",
-      "pushed_at": "2026-09-29T08:21:53Z"
     },
     {
       "id": 1377235275,
@@ -2589,6 +2589,21 @@
       "pushed_at": "2026-09-30T10:58:41Z"
     },
     {
+      "id": 1395489992,
+      "name": "web-halo",
+      "full_name": "ecumene/web-halo",
+      "description": "(fork) An online version of Halo Combat Evolved you can play with your friends.",
+      "html_url": "https://github.com/ecumene/web-halo",
+      "homepage": null,
+      "stars": 21,
+      "forks": 7,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-09-29T13:57:08Z",
+      "updated_at": "2026-10-02T05:30:59Z",
+      "pushed_at": "2026-10-01T22:39:01Z"
+    },
+    {
       "id": 1379231612,
       "name": "bookcard.koplugin",
       "full_name": "peterboda236/bookcard.koplugin",
@@ -2660,6 +2675,21 @@
       "pushed_at": "2026-09-25T11:18:38Z"
     },
     {
+      "id": 1389225185,
+      "name": "scenemeixer",
+      "full_name": "scenemixer-official/scenemeixer",
+      "description": "AI drama generator for 15 languages",
+      "html_url": "https://github.com/scenemixer-official/scenemeixer",
+      "homepage": null,
+      "stars": 18,
+      "forks": 2,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-26T13:03:43Z",
+      "updated_at": "2026-10-02T04:21:59Z",
+      "pushed_at": "2026-09-26T13:30:37Z"
+    },
+    {
       "id": 1386745578,
       "name": "black-wire-pinouts",
       "full_name": "valleytechsolutions/black-wire-pinouts",
@@ -2704,21 +2734,6 @@
       "created_at": "2026-09-27T07:23:17Z",
       "updated_at": "2026-10-01T05:30:51Z",
       "pushed_at": "2026-09-27T09:10:11Z"
-    },
-    {
-      "id": 1389225185,
-      "name": "scenemeixer",
-      "full_name": "scenemixer-official/scenemeixer",
-      "description": "AI drama generator for 15 languages",
-      "html_url": "https://github.com/scenemixer-official/scenemeixer",
-      "homepage": null,
-      "stars": 17,
-      "forks": 2,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-26T13:03:43Z",
-      "updated_at": "2026-10-02T03:09:37Z",
-      "pushed_at": "2026-09-26T13:30:37Z"
     },
     {
       "id": 1379717308,
@@ -3038,6 +3053,21 @@
       "pushed_at": "2026-09-29T11:10:59Z"
     },
     {
+      "id": 1389339354,
+      "name": "awesome-ai-video-generators",
+      "full_name": "bestaidrama/awesome-ai-video-generators",
+      "description": "A curated list of AI video and AI drama generators and the open-weight video models behind them, one line each with the official link.",
+      "html_url": "https://github.com/bestaidrama/awesome-ai-video-generators",
+      "homepage": null,
+      "stars": 11,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-26T14:34:57Z",
+      "updated_at": "2026-10-02T05:44:26Z",
+      "pushed_at": "2026-09-26T14:35:37Z"
+    },
+    {
       "id": 1387641647,
       "name": "memecoin-claude",
       "full_name": "seelffff/memecoin-claude",
@@ -3104,19 +3134,27 @@
       "pushed_at": "2026-10-01T15:31:46Z"
     },
     {
-      "id": 1389339354,
-      "name": "awesome-ai-video-generators",
-      "full_name": "bestaidrama/awesome-ai-video-generators",
-      "description": "A curated list of AI video and AI drama generators and the open-weight video models behind them, one line each with the official link.",
-      "html_url": "https://github.com/bestaidrama/awesome-ai-video-generators",
+      "id": 1399235098,
+      "name": "st-tavern-architect",
+      "full_name": "pathetic777/st-tavern-architect",
+      "description": "3D Scene & Architecture Generator for SillyTavern via Dual-Agent & Three.js (Real-time Spatial Rendering)",
+      "html_url": "https://github.com/pathetic777/st-tavern-architect",
       "homepage": null,
       "stars": 10,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-26T14:34:57Z",
-      "updated_at": "2026-10-01T21:49:30Z",
-      "pushed_at": "2026-09-26T14:35:37Z"
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "3d-generation",
+        "roleplay",
+        "sillytavern",
+        "sillytavern-extension",
+        "sillytavern-extensions",
+        "spatial-computing",
+        "threejs"
+      ],
+      "created_at": "2026-10-01T05:49:39Z",
+      "updated_at": "2026-10-02T04:58:54Z",
+      "pushed_at": "2026-10-02T00:17:37Z"
     },
     {
       "id": 1394432370,
@@ -3155,29 +3193,6 @@
       "created_at": "2026-09-26T23:17:11Z",
       "updated_at": "2026-10-01T03:31:00Z",
       "pushed_at": "2026-09-30T12:08:46Z"
-    },
-    {
-      "id": 1399235098,
-      "name": "st-tavern-architect",
-      "full_name": "pathetic777/st-tavern-architect",
-      "description": "3D Scene & Architecture Generator for SillyTavern via Dual-Agent & Three.js (Real-time Spatial Rendering)",
-      "html_url": "https://github.com/pathetic777/st-tavern-architect",
-      "homepage": null,
-      "stars": 9,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "3d-generation",
-        "roleplay",
-        "sillytavern",
-        "sillytavern-extension",
-        "sillytavern-extensions",
-        "spatial-computing",
-        "threejs"
-      ],
-      "created_at": "2026-10-01T05:49:39Z",
-      "updated_at": "2026-10-02T00:18:48Z",
-      "pushed_at": "2026-10-02T00:17:37Z"
     },
     {
       "id": 1393811511,
