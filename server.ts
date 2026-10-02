@@ -72,6 +72,8 @@ app.get("/api/overview", (_req, res) => {
   const githubData = safeReadJson(path.join(DATA_DIR, "raw_github_repos.json"), {});
   const googleData = safeReadJson(path.join(DATA_DIR, "raw_google_trending.json"), {});
   const redditData = safeReadJson(path.join(DATA_DIR, "raw_reddit_posts.json"), {});
+  const tiktokData = safeReadJson(path.join(DATA_DIR, "raw_tiktok_trends.json"), {});
+  const toolifyData = safeReadJson(path.join(DATA_DIR, "raw_toolify_new.json"), {});
   const timelineDb = safeReadJson(path.join(DATA_DIR, "timeline_database.json"), {});
 
   const newBreakoutsCount = benchmarkData.newBreakouts?.length || 0;
@@ -95,7 +97,9 @@ app.get("/api/overview", (_req, res) => {
       seedsCount: ENTITY_SEEDS.length,
       githubReposCount: githubData.total_repos || githubData.repos?.length || 0,
       googleTrendingCount: googleData.total || googleData.items?.length || 0,
-      redditPostsCount: redditData.total || redditData.posts?.length || 0
+      redditPostsCount: redditData.total || redditData.posts?.length || 0,
+      tiktokTrendsCount: tiktokData.total || tiktokData.items?.length || 0,
+      toolifyToolsCount: toolifyData.total || toolifyData.items?.length || 0
     },
     lastGenerated: {
       benchmark: benchmarkData.generatedAt || null,
@@ -129,15 +133,19 @@ app.get("/api/arbitrage", (_req, res) => {
   });
 });
 
-// 4. 多平台实时源数据 API (Google, GitHub, Reddit)
+// 4. 多平台实时源数据 API (Google, GitHub, Reddit, TikTok, Toolify)
 app.get("/api/platforms", (_req, res) => {
   const googleData = safeReadJson(path.join(DATA_DIR, "raw_google_trending.json"), { items: [] });
   const githubData = safeReadJson(path.join(DATA_DIR, "raw_github_repos.json"), { repos: [] });
   const redditData = safeReadJson(path.join(DATA_DIR, "raw_reddit_posts.json"), { posts: [] });
+  const tiktokData = safeReadJson(path.join(DATA_DIR, "raw_tiktok_trends.json"), { items: [] });
+  const toolifyData = safeReadJson(path.join(DATA_DIR, "raw_toolify_new.json"), { items: [] });
   res.json({
     google: googleData.items || [],
     github: githubData.repos || [],
-    reddit: redditData.posts || []
+    reddit: redditData.posts || [],
+    tiktok: tiktokData.items || [],
+    toolify: toolifyData.items || []
   });
 });
 
@@ -253,7 +261,7 @@ app.post("/api/scan", async (req, res) => {
     }
   }
 
-  const { pipeline } = req.body; // 'newtrend' | 'radar'
+  const { pipeline } = req.body; // 'newtrend' | 'radar' | 'tiktok'
   if (scanState.isScanning) {
     return res.status(409).json({
       error: "流水线任务正在执行中，请勿重复触发",
@@ -262,7 +270,14 @@ app.post("/api/scan", async (req, res) => {
     });
   }
 
-  const scriptName = pipeline === "radar" ? "run_radar.ts" : "run_newtrend_pipeline.ts";
+  let scriptName = "run_newtrend_pipeline.ts";
+  if (pipeline === "radar") {
+    scriptName = "run_radar.ts";
+  } else if (pipeline === "tiktok") {
+    scriptName = "fetch_tiktok_trends.ts";
+  } else if (pipeline === "toolify") {
+    scriptName = "fetch_toolify.ts";
+  }
   const scriptPath = path.join(__dirname, scriptName);
 
   if (!fs.existsSync(scriptPath)) {

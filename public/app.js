@@ -217,6 +217,10 @@ async function fetchPlatforms() {
     document.getElementById("badgeGoogleCount").innerText = data.google?.length || 0;
     document.getElementById("badgeGithubCount").innerText = data.github?.length || 0;
     document.getElementById("badgeRedditCount").innerText = data.reddit?.length || 0;
+    const badgeTiktok = document.getElementById("badgeTiktokCount");
+    if (badgeTiktok) badgeTiktok.innerText = data.tiktok?.length || 0;
+    const badgeToolify = document.getElementById("badgeToolifyCount");
+    if (badgeToolify) badgeToolify.innerText = data.toolify?.length || 0;
 
     renderPlatforms();
   } catch (err) {
@@ -597,6 +601,99 @@ function renderPlatforms() {
         ${p.selftext ? `<p style="font-size:12px; color:var(--text-muted); line-height:1.4;">${escapeHtml(p.selftext.slice(0, 150))}...</p>` : ""}
       </div>
     `).join("");
+  }
+
+  // TikTok Table
+  const tiktokTbody = document.getElementById("tiktokTableBody");
+  const tiktokItems = state.platformsData.tiktok || [];
+
+  if (tiktokTbody) {
+    if (tiktokItems.length === 0) {
+      tiktokTbody.innerHTML = `<tr><td colspan="7" style="text-align:center; padding:30px; color:var(--text-dim);">暂无 TikTok 视频/特效雷达数据 (点击上方一键扫描触发)</td></tr>`;
+    } else {
+      tiktokTbody.innerHTML = tiktokItems.slice(0, 60).map((item) => `
+        <tr>
+          <td style="font-weight: 700; color: #fff;">
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background:#00f2fe; box-shadow:0 0 8px #00f2fe;"></span>
+              <span>${escapeHtml(item.keyword)}</span>
+            </div>
+          </td>
+          <td><span class="badge-blue" style="padding: 2px 8px; border-radius: var(--radius-full); font-size: 11px;">${escapeHtml(item.category)}</span></td>
+          <td><strong style="color: var(--cyan-primary); font-family: monospace;">${item.demandScore} / 100</strong></td>
+          <td><span class="badge-emerald" style="padding: 2px 8px; border-radius: var(--radius-full); font-size: 11px;">⚡ ${escapeHtml(item.growthTag)}</span></td>
+          <td style="color: #cbd5e1; font-size: 12px; max-width: 260px;">${escapeHtml(item.suggestedAction)}</td>
+          <td style="font-family: monospace; font-size: 11px; color: #a5b4fc;">${(item.emdDomainIdeas || []).slice(0, 2).map(d => `<span style="background:rgba(255,255,255,0.06); padding:2px 6px; border-radius:4px; margin-right:4px;">${escapeHtml(d)}</span>`).join("")}</td>
+          <td>
+            <a href="${item.trendsUrl}" target="_blank" style="color: var(--cyan-primary); text-decoration: none; font-size: 12px; margin-right: 8px;">Trends ↗</a>
+            <a href="${item.serpUrl}" target="_blank" style="color: var(--text-dim); text-decoration: none; font-size: 12px;">SERP ↗</a>
+          </td>
+        </tr>
+      `).join("");
+    }
+  }
+
+  // Toolify Table
+  const toolifyTbody = document.getElementById("toolifyTableBody");
+  const toolifyItems = state.platformsData.toolify || [];
+
+  if (toolifyTbody) {
+    if (toolifyItems.length === 0) {
+      toolifyTbody.innerHTML = `<tr><td colspan="7" style="text-align:center; padding:30px; color:var(--text-dim);">暂无 Toolify 黑马情报 (可运行 npm run fetch:toolify 触发)</td></tr>`;
+    } else {
+      toolifyTbody.innerHTML = toolifyItems.map((item) => `
+        <tr>
+          <td style="font-weight: 700; color: #fff;">
+            <div style="margin-bottom: 4px;">
+              <a href="${item.toolifyUrl}" target="_blank" style="color:#60a5fa; text-decoration:none; font-weight:700;">
+                ${escapeHtml(item.toolName)} ↗
+              </a>
+            </div>
+            <div>
+              <span class="${item.isBlackHorse ? 'badge-rose' : 'badge-emerald'}" style="padding: 2px 8px; border-radius: var(--radius-full); font-size: 11px;">
+                ${escapeHtml(item.growthStage || (item.isBlackHorse ? '🔥 突变黑马' : '⚡ 初发新星'))}
+              </span>
+            </div>
+          </td>
+          <td>
+            <div style="font-weight: 600; color: #f1f5f9; font-size: 12px; margin-bottom: 3px;">
+              <span class="badge-blue" style="padding: 1px 6px; border-radius: 4px; font-size: 10px;">${escapeHtml(item.category || "垂直工具")}</span>
+            </div>
+            <div style="font-size: 12px; color: var(--text-muted); line-height: 1.3;">
+              ${escapeHtml(item.coreFeature || "特定场景轻量化解决痛点")}
+            </div>
+          </td>
+          <td>
+            <div style="font-size: 11px; color: #fbbf24; margin-bottom: 3px;">
+              💰 ${escapeHtml(item.monetizationPoint || "免广告会员 / 订阅")}
+            </div>
+            <div>
+              <strong style="color: var(--cyan-primary); font-family: monospace; font-size: 12px;">Google 需求: ${item.demandScore || 0}/100</strong>
+            </div>
+          </td>
+          <td style="font-size: 12px; color: #e2e8f0; line-height: 1.4;">
+            <div style="background: rgba(59, 130, 246, 0.08); border-left: 2px solid #3b82f6; padding: 4px 8px; border-radius: 4px;">
+              ${escapeHtml(item.verticalOpportunity || "拆解为极简一键单功能页面")}
+            </div>
+          </td>
+          <td style="font-size: 12px; color: #e2e8f0; line-height: 1.4;">
+            <div style="font-size: 11px; color: #a5b4fc; margin-bottom: 3px;">
+              ${(item.topGeos || []).slice(0, 3).map(g => `<span style="background:rgba(255,255,255,0.06); padding:1px 5px; border-radius:3px; margin-right:3px;">${escapeHtml(g)}</span>`).join("")}
+            </div>
+            <div style="font-size: 11px; color: #94a3b8; line-height: 1.3;">
+              ${escapeHtml(item.localOpportunity || "搭建小语种单页避开欧美红海")}
+            </div>
+          </td>
+          <td style="font-family: monospace; font-size: 11px; color: #a5b4fc;">
+            ${(item.emdDomainIdeas || []).slice(0, 2).map(d => `<div style="background:rgba(255,255,255,0.06); padding:2px 6px; border-radius:4px; margin-bottom:3px;">${escapeHtml(d)}</div>`).join("")}
+          </td>
+          <td>
+            <a href="${item.trendsUrl}" target="_blank" style="color: var(--cyan-primary); text-decoration: none; font-size: 12px; display:block; margin-bottom:4px;">Trends ↗</a>
+            <a href="${item.serpUrl}" target="_blank" style="color: var(--text-dim); text-decoration: none; font-size: 12px; display:block;">SERP ↗</a>
+          </td>
+        </tr>
+      `).join("");
+    }
   }
 }
 

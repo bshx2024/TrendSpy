@@ -12,6 +12,8 @@
     "fetch:entity": "tsx fetch_entity_trends.ts",
     "fetch:github": "tsx fetch_github.ts",
     "fetch:reddit": "tsx fetch_reddit.ts",
+    "fetch:tiktok": "tsx fetch_tiktok_trends.ts",
+    "fetch:toolify": "tsx fetch_toolify.ts",
     "benchmark": "tsx benchmark_engine.ts",
     "report": "tsx generate_newtrend_report.ts",
     "report:benchmark": "tsx generate_benchmark_report.ts"

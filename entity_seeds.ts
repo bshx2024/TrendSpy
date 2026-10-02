@@ -216,6 +216,13 @@ export const ENTITY_SEEDS: EntitySeed[] = [
     category: "大语言模型与代码助手",
     description: "字节豆包大模型与语音助手生态",
     suggestedActionType: "豆包 API 中转接入与衍生应用导航"
+  },
+  {
+    entity: "kimi",
+    displayName: "月之暗面 (Kimi / Moonshot)",
+    category: "大语言模型与代码助手",
+    description: "Kimi 长文本大模型、多模态与出海助手生态",
+    suggestedActionType: "Kimi 提效提示词库 / 长文本助手衍生单页"
   }
 ];
 

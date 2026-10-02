@@ -110,9 +110,9 @@
         <span class="tab-icon">🎯</span> 流量套利与产品机会
         <span class="tab-pill" id="pillArbitrageCount">0</span>
       </button>
-      <button class="nav-tab" data-tab="tab-platforms">
+        <button class="nav-tab" data-tab="tab-platforms">
         <span class="tab-icon">📡</span> 多源监控实时情报
-        <span class="tab-pill" id="pillPlatformsCount">3 源</span>
+        <span class="tab-pill" id="pillPlatformsCount">5 源</span>
       </button>
       <button class="nav-tab" data-tab="tab-reports">
         <span class="tab-icon">📑</span> 决策研报中心
@@ -193,6 +193,12 @@
         <button class="subtab-btn" data-subtab="subtab-reddit">
           💬 Reddit 独立开发讨论版块 <span class="badge-sm" id="badgeRedditCount">0</span>
         </button>
+        <button class="subtab-btn" data-subtab="subtab-tiktok">
+          🎵 TikTok 视频特效与模版雷达 <span class="badge-sm" id="badgeTiktokCount">0</span>
+        </button>
+        <button class="subtab-btn" data-subtab="subtab-toolify">
+          🛠️ Toolify 新上线 AI 工具 <span class="badge-sm" id="badgeToolifyCount">0</span>
+        </button>
       </div>
 
       <!-- Google Subtab -->
@@ -226,6 +232,50 @@
       <div class="subtab-pane" id="subtab-reddit">
         <div class="reddit-posts-grid" id="redditContainer">
           <!-- Rendered by JS -->
+        </div>
+      </div>
+
+      <!-- TikTok Subtab -->
+      <div class="subtab-pane" id="subtab-tiktok">
+        <div class="data-table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>TikTok 视频热词 / 特效与模板</th>
+                <th>细分品类</th>
+                <th>需求指数</th>
+                <th>涨幅 / 意图状态</th>
+                <th>💡 极速落地建站建议</th>
+                <th>EMD 域名推荐</th>
+                <th>验证链接</th>
+              </tr>
+            </thead>
+            <tbody id="tiktokTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Toolify Subtab (JsonChao 黑马与四维归因) -->
+      <div class="subtab-pane" id="subtab-toolify">
+        <div class="data-table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th style="min-width: 180px;">黑马产品与异动状态</th>
+                <th style="min-width: 160px;">细分赛道 / 核心功能</th>
+                <th style="min-width: 160px;">主要付费点 / 需求分</th>
+                <th style="min-width: 220px;">🎯 垂直化机会 (Vertical)</th>
+                <th style="min-width: 220px;">🌍 国家分布与本地化 (Geo)</th>
+                <th style="min-width: 140px;">EMD 域名推荐</th>
+                <th>验证链接</th>
+              </tr>
+            </thead>
+            <tbody id="toolifyTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
         </div>
       </div>
     </section>

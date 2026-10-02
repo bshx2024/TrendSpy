@@ -1,5 +1,7 @@
 import { runGitHubIngestion } from "./fetch_github.js";
 import { runGoogleTrendingIngestion } from "./fetch_google_trending.js";
+import { fetchTikTokTrends } from "./fetch_tiktok_trends.js";
+import { fetchToolifyNewTools } from "./fetch_toolify.js";
 import { runViralAnalysis } from "./analyze_viral.js";
 import { runTrendsVerification } from "./verify_trends.js";
 import { runReportGeneration } from "./generate_radar_report.js";
@@ -12,10 +14,12 @@ async function main() {
   const startTime = Date.now();
 
   try {
-    // 阶段 1：多源数据采集 (Ingestion) - GitHub 敏捷代码库 + Google 官方实时飙升榜
-    console.log("【阶段 1/4】📡 多源实时采集 (GitHub + Google Trending)");
+    // 阶段 1：多源数据采集 (Ingestion) - GitHub + Google Trending + TikTok + Toolify AI
+    console.log("【阶段 1/4】📡 多源实时采集 (GitHub + Google Trending + TikTok + Toolify)");
     await runGitHubIngestion();
     await runGoogleTrendingIngestion();
+    await fetchTikTokTrends();
+    await fetchToolifyNewTools();
 
     // 阶段 2：初筛与意图逆向 (Classification & Trigger Keyword Extraction)
     console.log("\n【阶段 2/4】🧠 C 端自传播性评估 & 搜索触发词逆向");
