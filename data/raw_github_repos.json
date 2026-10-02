@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/3 01:02:38",
-  "total_repos": 162,
+  "fetched_at": "2026/10/3 06:11:32",
+  "total_repos": 165,
   "repos": [
     {
       "id": 1377938409,
@@ -68,7 +68,7 @@
       "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
       "html_url": "https://github.com/pengchujin/livecanvas",
       "homepage": null,
-      "stars": 326,
+      "stars": 327,
       "forks": 23,
       "language": "Swift",
       "topics": [
@@ -79,7 +79,7 @@
         "remotion"
       ],
       "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-02T15:35:05Z",
+      "updated_at": "2026-10-02T19:15:13Z",
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
@@ -125,8 +125,8 @@
       "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
       "html_url": "https://github.com/luxine/CalcKernel",
       "homepage": "https://calckernel.org",
-      "stars": 242,
-      "forks": 7,
+      "stars": 258,
+      "forks": 10,
       "language": "Rust",
       "topics": [
         "compiler",
@@ -135,7 +135,7 @@
         "webassembly"
       ],
       "created_at": "2026-09-27T14:59:35Z",
-      "updated_at": "2026-10-02T16:57:15Z",
+      "updated_at": "2026-10-02T22:07:13Z",
       "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
@@ -145,7 +145,7 @@
       "description": "Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.",
       "html_url": "https://github.com/Appllama/liquid-glass-chat-ui",
       "homepage": "https://appllama.io",
-      "stars": 211,
+      "stars": 212,
       "forks": 26,
       "language": "TypeScript",
       "topics": [
@@ -171,7 +171,7 @@
         "ui-components"
       ],
       "created_at": "2026-09-27T13:33:00Z",
-      "updated_at": "2026-10-02T04:58:54Z",
+      "updated_at": "2026-10-02T18:43:17Z",
       "pushed_at": "2026-09-27T18:48:24Z"
     },
     {
@@ -181,7 +181,7 @@
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "html_url": "https://github.com/blendi-remade/dioramas",
       "homepage": null,
-      "stars": 204,
+      "stars": 206,
       "forks": 21,
       "language": "JavaScript",
       "topics": [
@@ -195,7 +195,7 @@
         "webgl"
       ],
       "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-02T16:13:07Z",
+      "updated_at": "2026-10-02T21:16:33Z",
       "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
@@ -241,12 +241,12 @@
       "description": "Fractal layouts for web apps: nest panels to any depth, zoom to the part you need, and keep every view alive.",
       "html_url": "https://github.com/DanFessler/trellis",
       "homepage": "https://trellisui.com",
-      "stars": 201,
+      "stars": 202,
       "forks": 5,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-09-26T07:52:44Z",
-      "updated_at": "2026-10-01T13:32:05Z",
+      "updated_at": "2026-10-02T17:31:47Z",
       "pushed_at": "2026-10-02T04:15:42Z"
     },
     {
@@ -350,6 +350,30 @@
       "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
+      "id": 1390509008,
+      "name": "awesome-ai-motion",
+      "full_name": "guanmo-ai/awesome-ai-motion",
+      "description": "发现惊艳动效、创意视频与交互艺术，探索背后的源码、提示词与制作过程。Curated motion design, creative video & interactive art — with source code, prompts & making-of resources.",
+      "html_url": "https://github.com/guanmo-ai/awesome-ai-motion",
+      "homepage": "https://guanmo-ai.github.io/awesome-ai-motion/",
+      "stars": 173,
+      "forks": 27,
+      "language": "JavaScript",
+      "topics": [
+        "ai-video",
+        "animation",
+        "awesome",
+        "awesome-list",
+        "claude",
+        "motion-design",
+        "opus",
+        "prompts"
+      ],
+      "created_at": "2026-09-27T08:53:43Z",
+      "updated_at": "2026-10-02T21:54:47Z",
+      "pushed_at": "2026-10-02T19:26:50Z"
+    },
+    {
       "id": 1379117882,
       "name": "ai-manager",
       "full_name": "OnlistTeam/ai-manager",
@@ -431,6 +455,27 @@
       "pushed_at": "2026-09-23T19:05:22Z"
     },
     {
+      "id": 1400250107,
+      "name": "bootloops",
+      "full_name": "BootLoops-ai/bootloops",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "html_url": "https://github.com/BootLoops-ai/bootloops",
+      "homepage": null,
+      "stars": 138,
+      "forks": 27,
+      "language": "Python",
+      "topics": [
+        "bootloops",
+        "feynman-integrals",
+        "llm-agents",
+        "physics",
+        "scientific-computing"
+      ],
+      "created_at": "2026-10-01T15:29:28Z",
+      "updated_at": "2026-10-02T21:28:09Z",
+      "pushed_at": "2026-10-01T15:29:34Z"
+    },
+    {
       "id": 1386719155,
       "name": "semrush-ai-tool",
       "full_name": "springvoiceswell/semrush-ai-tool",
@@ -465,6 +510,21 @@
       "pushed_at": "2026-09-26T08:16:28Z"
     },
     {
+      "id": 1390688516,
+      "name": "omarchy-rescue",
+      "full_name": "crmne/omarchy-rescue",
+      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
+      "html_url": "https://github.com/crmne/omarchy-rescue",
+      "homepage": null,
+      "stars": 130,
+      "forks": 7,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-09-27T11:21:06Z",
+      "updated_at": "2026-10-02T21:12:35Z",
+      "pushed_at": "2026-10-02T15:14:40Z"
+    },
+    {
       "id": 1385750356,
       "name": "paperclip-guide",
       "full_name": "theNetworkChuck/paperclip-guide",
@@ -488,56 +548,6 @@
       "created_at": "2026-09-24T15:00:59Z",
       "updated_at": "2026-09-30T10:15:14Z",
       "pushed_at": "2026-09-24T15:02:21Z"
-    },
-    {
-      "id": 1388409097,
-      "name": "mcp-audit-tool",
-      "full_name": "graygnatconsole/mcp-audit-tool",
-      "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
-      "html_url": "https://github.com/graygnatconsole/mcp-audit-tool",
-      "homepage": null,
-      "stars": 127,
-      "forks": 2,
-      "language": "Python",
-      "topics": [
-        "agent-security",
-        "agentic-ai",
-        "ai-security",
-        "cursor",
-        "llm-guardrails",
-        "llm-security",
-        "mcp",
-        "mcp-audit",
-        "mcp-scanner",
-        "mcp-security",
-        "mcp-server",
-        "mcp-server-python",
-        "model-context-protocol",
-        "prompt-injection",
-        "security-scanner",
-        "supply-chain",
-        "supply-chain-security",
-        "tool-poisoning",
-        "vulnerability-scanner"
-      ],
-      "created_at": "2026-09-26T02:42:57Z",
-      "updated_at": "2026-10-01T08:29:01Z",
-      "pushed_at": "2026-09-26T08:17:27Z"
-    },
-    {
-      "id": 1390688516,
-      "name": "omarchy-rescue",
-      "full_name": "crmne/omarchy-rescue",
-      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
-      "html_url": "https://github.com/crmne/omarchy-rescue",
-      "homepage": null,
-      "stars": 127,
-      "forks": 6,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-09-27T11:21:06Z",
-      "updated_at": "2026-10-02T15:14:44Z",
-      "pushed_at": "2026-10-02T15:14:40Z"
     },
     {
       "id": 1401629577,
@@ -566,55 +576,34 @@
       "pushed_at": "2026-10-02T12:01:32Z"
     },
     {
-      "id": 1391377497,
-      "name": "max-payne-2-vr",
-      "full_name": "evilSheep/max-payne-2-vr",
-      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
-      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
-      "homepage": null,
-      "stars": 123,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-10-02T15:41:38Z",
-      "pushed_at": "2026-10-01T03:09:41Z"
-    },
-    {
       "id": 1391836763,
       "name": "abstract-algebra-promo",
       "full_name": "AnctyEnly453/abstract-algebra-promo",
       "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
       "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
       "homepage": null,
-      "stars": 122,
+      "stars": 125,
       "forks": 7,
       "language": "HTML",
       "topics": [],
       "created_at": "2026-09-28T05:00:45Z",
-      "updated_at": "2026-10-02T16:28:40Z",
+      "updated_at": "2026-10-02T21:10:47Z",
       "pushed_at": "2026-09-28T05:04:35Z"
     },
     {
-      "id": 1400250107,
-      "name": "bootloops",
-      "full_name": "BootLoops-ai/bootloops",
-      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
-      "html_url": "https://github.com/BootLoops-ai/bootloops",
+      "id": 1391377497,
+      "name": "max-payne-2-vr",
+      "full_name": "evilSheep/max-payne-2-vr",
+      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
+      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
       "homepage": null,
-      "stars": 121,
-      "forks": 21,
-      "language": "Python",
-      "topics": [
-        "bootloops",
-        "feynman-integrals",
-        "llm-agents",
-        "physics",
-        "scientific-computing"
-      ],
-      "created_at": "2026-10-01T15:29:28Z",
-      "updated_at": "2026-10-02T16:47:13Z",
-      "pushed_at": "2026-10-01T15:29:34Z"
+      "stars": 124,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-27T20:26:56Z",
+      "updated_at": "2026-10-02T19:43:26Z",
+      "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
       "id": 1380729698,
@@ -672,6 +661,21 @@
       "created_at": "2026-09-19T06:55:24Z",
       "updated_at": "2026-09-24T04:25:15Z",
       "pushed_at": "2026-09-22T02:07:03Z"
+    },
+    {
+      "id": 1400563899,
+      "name": "procedural-pixel-creatures",
+      "full_name": "idlerunner00/procedural-pixel-creatures",
+      "description": "Godot Tool to create procedural pixel creatures",
+      "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
+      "homepage": null,
+      "stars": 113,
+      "forks": 15,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-10-01T18:39:44Z",
+      "updated_at": "2026-10-02T21:31:39Z",
+      "pushed_at": "2026-10-01T20:28:02Z"
     },
     {
       "id": 1377674687,
@@ -900,13 +904,13 @@
       "description": "A Quest emulation tool",
       "html_url": "https://github.com/MIXIDtheSilly/Refract",
       "homepage": null,
-      "stars": 97,
+      "stars": 98,
       "forks": 5,
       "language": "C++",
       "topics": [],
       "created_at": "2026-09-27T13:05:42Z",
-      "updated_at": "2026-10-02T16:25:41Z",
-      "pushed_at": "2026-10-02T07:11:51Z"
+      "updated_at": "2026-10-02T22:01:00Z",
+      "pushed_at": "2026-10-02T22:00:55Z"
     },
     {
       "id": 1386267511,
@@ -1046,6 +1050,21 @@
       "pushed_at": "2026-09-18T11:35:53Z"
     },
     {
+      "id": 1400877599,
+      "name": "ArkWeb",
+      "full_name": "luki-1/ArkWeb",
+      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
+      "html_url": "https://github.com/luki-1/ArkWeb",
+      "homepage": null,
+      "stars": 84,
+      "forks": 6,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-02T00:59:19Z",
+      "updated_at": "2026-10-02T22:05:58Z",
+      "pushed_at": "2026-10-02T15:32:18Z"
+    },
+    {
       "id": 1386777688,
       "name": "seed-phrase-generator",
       "full_name": "pengakuza/seed-phrase-generator",
@@ -1080,21 +1099,6 @@
       "created_at": "2026-09-25T04:49:37Z",
       "updated_at": "2026-09-30T15:47:34Z",
       "pushed_at": "2026-09-30T15:47:30Z"
-    },
-    {
-      "id": 1400563899,
-      "name": "procedural-pixel-creatures",
-      "full_name": "idlerunner00/procedural-pixel-creatures",
-      "description": "Godot Tool to create procedural pixel creatures",
-      "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
-      "homepage": null,
-      "stars": 79,
-      "forks": 13,
-      "language": "C#",
-      "topics": [],
-      "created_at": "2026-10-01T18:39:44Z",
-      "updated_at": "2026-10-02T17:00:17Z",
-      "pushed_at": "2026-10-01T20:28:02Z"
     },
     {
       "id": 1377321806,
@@ -1201,6 +1205,21 @@
       "pushed_at": "2026-09-29T20:28:47Z"
     },
     {
+      "id": 1392901645,
+      "name": "Simple-WAM",
+      "full_name": "LeapLabTHU/Simple-WAM",
+      "description": "Official implementation of \"What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling\"",
+      "html_url": "https://github.com/LeapLabTHU/Simple-WAM",
+      "homepage": null,
+      "stars": 66,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-28T14:13:57Z",
+      "updated_at": "2026-10-02T17:29:37Z",
+      "pushed_at": "2026-09-30T12:41:20Z"
+    },
+    {
       "id": 1375694442,
       "name": "Jev-Case",
       "full_name": "Hiwoniu/Jev-Case",
@@ -1216,19 +1235,19 @@
       "pushed_at": "2026-09-22T08:26:45Z"
     },
     {
-      "id": 1392901645,
-      "name": "Simple-WAM",
-      "full_name": "LeapLabTHU/Simple-WAM",
-      "description": "Official implementation of \"What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling\"",
-      "html_url": "https://github.com/LeapLabTHU/Simple-WAM",
-      "homepage": null,
+      "id": 1389416650,
+      "name": "mygo",
+      "full_name": "egoist/mygo",
+      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "html_url": "https://github.com/egoist/mygo",
+      "homepage": "mygo.egoist.dev",
       "stars": 65,
-      "forks": 1,
-      "language": "Python",
+      "forks": 0,
+      "language": "Go",
       "topics": [],
-      "created_at": "2026-09-28T14:13:57Z",
-      "updated_at": "2026-10-02T13:44:55Z",
-      "pushed_at": "2026-09-30T12:41:20Z"
+      "created_at": "2026-09-26T15:21:37Z",
+      "updated_at": "2026-10-02T22:01:32Z",
+      "pushed_at": "2026-10-02T21:20:30Z"
     },
     {
       "id": 1388637178,
@@ -1259,21 +1278,6 @@
       "created_at": "2026-09-25T13:53:14Z",
       "updated_at": "2026-09-28T23:09:22Z",
       "pushed_at": "2026-09-26T13:37:48Z"
-    },
-    {
-      "id": 1389416650,
-      "name": "mygo",
-      "full_name": "egoist/mygo",
-      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
-      "html_url": "https://github.com/egoist/mygo",
-      "homepage": "mygo.egoist.dev",
-      "stars": 63,
-      "forks": 0,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-09-26T15:21:37Z",
-      "updated_at": "2026-10-02T16:37:31Z",
-      "pushed_at": "2026-10-02T10:21:51Z"
     },
     {
       "id": 1400269105,
@@ -1335,19 +1339,26 @@
       "pushed_at": "2026-09-30T23:09:06Z"
     },
     {
-      "id": 1400877599,
-      "name": "ArkWeb",
-      "full_name": "luki-1/ArkWeb",
-      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
-      "html_url": "https://github.com/luki-1/ArkWeb",
+      "id": 1391565885,
+      "name": "banjo-tooie-scurvy-dog-port",
+      "full_name": "some-scurvy-dog/banjo-tooie-scurvy-dog-port",
+      "description": "Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and speedrunning practice tools.",
+      "html_url": "https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port",
       "homepage": null,
       "stars": 61,
-      "forks": 5,
+      "forks": 4,
       "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-02T00:59:19Z",
-      "updated_at": "2026-10-02T16:12:40Z",
-      "pushed_at": "2026-10-02T15:32:18Z"
+      "topics": [
+        "banjo-tooie",
+        "n64",
+        "pc-port",
+        "recompilation",
+        "rt64",
+        "windows"
+      ],
+      "created_at": "2026-09-28T01:20:48Z",
+      "updated_at": "2026-10-02T20:47:59Z",
+      "pushed_at": "2026-10-02T14:32:21Z"
     },
     {
       "id": 1396871330,
@@ -1382,8 +1393,8 @@
         "wallet-finder-crypto"
       ],
       "created_at": "2026-09-30T02:50:26Z",
-      "updated_at": "2026-10-02T16:53:00Z",
-      "pushed_at": "2026-10-02T16:52:56Z"
+      "updated_at": "2026-10-02T22:03:36Z",
+      "pushed_at": "2026-10-02T22:03:33Z"
     },
     {
       "id": 1386575337,
@@ -1405,26 +1416,45 @@
       "pushed_at": "2026-09-25T01:52:32Z"
     },
     {
-      "id": 1391565885,
-      "name": "BanjoTooieRecompiled",
-      "full_name": "some-scurvy-dog/BanjoTooieRecompiled",
-      "description": "Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and speedrunning practice tools.",
-      "html_url": "https://github.com/some-scurvy-dog/BanjoTooieRecompiled",
-      "homepage": null,
+      "id": 1389294768,
+      "name": "motion-graphics-skills",
+      "full_name": "charlie947/motion-graphics-skills",
+      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
+      "html_url": "https://github.com/charlie947/motion-graphics-skills",
+      "homepage": "https://charliehills.substack.com",
       "stars": 59,
-      "forks": 4,
-      "language": "C++",
+      "forks": 7,
+      "language": "Shell",
       "topics": [
-        "banjo-tooie",
-        "n64",
-        "pc-port",
-        "recompilation",
-        "rt64",
-        "windows"
+        "agent-skills",
+        "ai-marketing",
+        "animation",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hyperframes",
+        "motion-graphics",
+        "video"
       ],
-      "created_at": "2026-09-28T01:20:48Z",
-      "updated_at": "2026-10-02T16:40:43Z",
-      "pushed_at": "2026-10-02T14:32:21Z"
+      "created_at": "2026-09-26T13:57:34Z",
+      "updated_at": "2026-10-02T18:23:54Z",
+      "pushed_at": "2026-09-30T11:49:23Z"
+    },
+    {
+      "id": 1389512019,
+      "name": "plain-backtest",
+      "full_name": "Sixian-Li/plain-backtest",
+      "description": "Say It Simply, Test It Properly. Agent-powered strategy research with independent ledger checks and reproducible reports.",
+      "html_url": "https://github.com/Sixian-Li/plain-backtest",
+      "homepage": null,
+      "stars": 58,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-26T16:29:26Z",
+      "updated_at": "2026-10-02T21:35:55Z",
+      "pushed_at": "2026-09-27T14:49:48Z"
     },
     {
       "id": 1388724753,
@@ -1470,32 +1500,6 @@
       "pushed_at": "2026-09-25T01:43:13Z"
     },
     {
-      "id": 1389294768,
-      "name": "motion-graphics-skills",
-      "full_name": "charlie947/motion-graphics-skills",
-      "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
-      "html_url": "https://github.com/charlie947/motion-graphics-skills",
-      "homepage": "https://charliehills.substack.com",
-      "stars": 56,
-      "forks": 7,
-      "language": "Shell",
-      "topics": [
-        "agent-skills",
-        "ai-marketing",
-        "animation",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hyperframes",
-        "motion-graphics",
-        "video"
-      ],
-      "created_at": "2026-09-26T13:57:34Z",
-      "updated_at": "2026-10-02T15:38:56Z",
-      "pushed_at": "2026-09-30T11:49:23Z"
-    },
-    {
       "id": 1393486459,
       "name": "electromagnetism",
       "full_name": "thebuggeddev/electromagnetism",
@@ -1509,6 +1513,101 @@
       "created_at": "2026-09-28T17:54:25Z",
       "updated_at": "2026-10-02T08:24:28Z",
       "pushed_at": "2026-09-28T17:55:29Z"
+    },
+    {
+      "id": 1391479034,
+      "name": "tinydesk",
+      "full_name": "schikani/tinydesk",
+      "description": "A mouse-operated, windowed desktop for microcontrollers, drawn in your terminal: Files, Editor, Shell, MQTT, Modbus. Tested on ESP32 boards; also runs on Windows and Linux.",
+      "html_url": "https://github.com/schikani/tinydesk",
+      "homepage": "https://schikani.github.io/tinydesk-docs/",
+      "stars": 54,
+      "forks": 6,
+      "language": "C",
+      "topics": [
+        "ansi",
+        "c",
+        "c11",
+        "desktop-environment",
+        "embedded",
+        "embedded-systems",
+        "esp32",
+        "freertos",
+        "gui",
+        "iot",
+        "mcu",
+        "microcontroller",
+        "modbus",
+        "mqtt",
+        "portable",
+        "terminal",
+        "text-user-interface",
+        "tui",
+        "vt100",
+        "window-manager"
+      ],
+      "created_at": "2026-09-27T23:00:56Z",
+      "updated_at": "2026-10-02T21:24:05Z",
+      "pushed_at": "2026-10-01T15:31:57Z"
+    },
+    {
+      "id": 1393636648,
+      "name": "Nostalgex",
+      "full_name": "chadMueller/Nostalgex",
+      "description": "Retro cable TV guide for your Plex, Jellyfin or Emby library. Native Apple TV app + web tuner.",
+      "html_url": "https://github.com/chadMueller/Nostalgex",
+      "homepage": "https://www.nostalgex.app",
+      "stars": 54,
+      "forks": 1,
+      "language": "Swift",
+      "topics": [
+        "apple-tv",
+        "emby",
+        "epg",
+        "jellyfin",
+        "plex",
+        "retro",
+        "swiftui",
+        "tvos"
+      ],
+      "created_at": "2026-09-28T18:48:03Z",
+      "updated_at": "2026-10-02T21:34:16Z",
+      "pushed_at": "2026-09-28T21:37:24Z"
+    },
+    {
+      "id": 1388409097,
+      "name": "mcp-audit-tool",
+      "full_name": "graygnatconsole/mcp-audit-tool",
+      "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+      "html_url": "https://github.com/graygnatconsole/mcp-audit-tool",
+      "homepage": null,
+      "stars": 53,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "agent-security",
+        "agentic-ai",
+        "ai-security",
+        "cursor",
+        "llm-guardrails",
+        "llm-security",
+        "mcp",
+        "mcp-audit",
+        "mcp-scanner",
+        "mcp-security",
+        "mcp-server",
+        "mcp-server-python",
+        "model-context-protocol",
+        "prompt-injection",
+        "security-scanner",
+        "supply-chain",
+        "supply-chain-security",
+        "tool-poisoning",
+        "vulnerability-scanner"
+      ],
+      "created_at": "2026-09-26T02:42:57Z",
+      "updated_at": "2026-10-02T20:04:01Z",
+      "pushed_at": "2026-09-26T08:17:27Z"
     },
     {
       "id": 1382450432,
@@ -1591,21 +1690,6 @@
       "pushed_at": "2026-10-01T08:27:40Z"
     },
     {
-      "id": 1389512019,
-      "name": "plain-backtest",
-      "full_name": "Sixian-Li/plain-backtest",
-      "description": "Say It Simply, Test It Properly. Agent-powered strategy research with independent ledger checks and reproducible reports.",
-      "html_url": "https://github.com/Sixian-Li/plain-backtest",
-      "homepage": null,
-      "stars": 53,
-      "forks": 7,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-09-26T16:29:26Z",
-      "updated_at": "2026-10-02T16:40:14Z",
-      "pushed_at": "2026-09-27T14:49:48Z"
-    },
-    {
       "id": 1379547345,
       "name": "monero-web-wallet",
       "full_name": "AMLChecker/monero-web-wallet",
@@ -1678,6 +1762,21 @@
       "pushed_at": "2026-09-29T05:16:14Z"
     },
     {
+      "id": 1389869253,
+      "name": "webkvm",
+      "full_name": "Slaker19/webkvm",
+      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+      "html_url": "https://github.com/Slaker19/webkvm",
+      "homepage": null,
+      "stars": 48,
+      "forks": 2,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-26T23:17:14Z",
+      "updated_at": "2026-10-02T20:33:02Z",
+      "pushed_at": "2026-10-02T16:15:37Z"
+    },
+    {
       "id": 1379859926,
       "name": "jeview",
       "full_name": "andududu/jeview",
@@ -1744,21 +1843,6 @@
       "created_at": "2026-09-28T02:43:15Z",
       "updated_at": "2026-10-02T05:29:25Z",
       "pushed_at": "2026-10-02T02:23:26Z"
-    },
-    {
-      "id": 1389869253,
-      "name": "webkvm",
-      "full_name": "Slaker19/webkvm",
-      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
-      "html_url": "https://github.com/Slaker19/webkvm",
-      "homepage": null,
-      "stars": 47,
-      "forks": 2,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-09-26T23:17:14Z",
-      "updated_at": "2026-10-02T16:15:44Z",
-      "pushed_at": "2026-10-02T16:15:37Z"
     },
     {
       "id": 1376688549,
@@ -1844,64 +1928,26 @@
       "pushed_at": "2026-09-18T10:39:08Z"
     },
     {
-      "id": 1391479034,
-      "name": "tinydesk",
-      "full_name": "schikani/tinydesk",
-      "description": "A mouse-operated, windowed desktop for microcontrollers, drawn in your terminal: Files, Editor, Shell, MQTT, Modbus. Tested on ESP32 boards; also runs on Windows and Linux.",
-      "html_url": "https://github.com/schikani/tinydesk",
-      "homepage": "https://schikani.github.io/tinydesk-docs/",
-      "stars": 43,
-      "forks": 5,
-      "language": "C",
-      "topics": [
-        "ansi",
-        "c",
-        "c11",
-        "desktop-environment",
-        "embedded",
-        "embedded-systems",
-        "esp32",
-        "freertos",
-        "gui",
-        "iot",
-        "mcu",
-        "microcontroller",
-        "modbus",
-        "mqtt",
-        "portable",
-        "terminal",
-        "text-user-interface",
-        "tui",
-        "vt100",
-        "window-manager"
-      ],
-      "created_at": "2026-09-27T23:00:56Z",
-      "updated_at": "2026-10-02T02:34:25Z",
-      "pushed_at": "2026-10-01T15:31:57Z"
-    },
-    {
-      "id": 1393636648,
-      "name": "Nostalgex",
-      "full_name": "chadMueller/Nostalgex",
-      "description": "Retro cable TV guide for your Plex, Jellyfin or Emby library. Native Apple TV app + web tuner.",
-      "html_url": "https://github.com/chadMueller/Nostalgex",
-      "homepage": "https://www.nostalgex.app",
+      "id": 1392926487,
+      "name": "excali-mode",
+      "full_name": "yibie/excali-mode",
+      "description": "Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API",
+      "html_url": "https://github.com/yibie/excali-mode",
+      "homepage": null,
       "stars": 43,
       "forks": 0,
-      "language": "Swift",
+      "language": "Emacs Lisp",
       "topics": [
-        "apple-tv",
-        "emby",
-        "epg",
-        "jellyfin",
-        "plex",
-        "retro",
-        "swiftui",
-        "tvos"
+        "cairo",
+        "diagrams",
+        "emacs",
+        "emacs-package",
+        "excalidraw",
+        "whiteboard"
       ],
-      "created_at": "2026-09-28T18:48:03Z",
-      "updated_at": "2026-10-02T16:44:04Z",
-      "pushed_at": "2026-09-28T21:37:24Z"
+      "created_at": "2026-09-28T14:24:02Z",
+      "updated_at": "2026-10-02T21:35:03Z",
+      "pushed_at": "2026-10-01T08:47:38Z"
     },
     {
       "id": 1382441164,
@@ -2030,28 +2076,6 @@
       "pushed_at": "2026-09-19T12:16:43Z"
     },
     {
-      "id": 1392926487,
-      "name": "excali-mode",
-      "full_name": "yibie/excali-mode",
-      "description": "Excalidraw inside Emacs 32: edit .excalidraw files, drawn through the new canvas API",
-      "html_url": "https://github.com/yibie/excali-mode",
-      "homepage": null,
-      "stars": 39,
-      "forks": 0,
-      "language": "Emacs Lisp",
-      "topics": [
-        "cairo",
-        "diagrams",
-        "emacs",
-        "emacs-package",
-        "excalidraw",
-        "whiteboard"
-      ],
-      "created_at": "2026-09-28T14:24:02Z",
-      "updated_at": "2026-10-02T12:03:35Z",
-      "pushed_at": "2026-10-01T08:47:38Z"
-    },
-    {
       "id": 1382790500,
       "name": "laya-server",
       "full_name": "1Panel-dev/laya-server",
@@ -2102,6 +2126,39 @@
       "created_at": "2026-09-30T02:18:22Z",
       "updated_at": "2026-10-01T03:50:26Z",
       "pushed_at": "2026-09-30T02:22:23Z"
+    },
+    {
+      "id": 1391423600,
+      "name": "neonplan3d",
+      "full_name": "Mastershort/neonplan3d",
+      "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+      "html_url": "https://github.com/Mastershort/neonplan3d",
+      "homepage": null,
+      "stars": 38,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [
+        "3d",
+        "3d-visualization",
+        "custom-card",
+        "dashboard",
+        "digital-twin",
+        "editor",
+        "floor-plan",
+        "floorplan",
+        "floorplan-card",
+        "hacs",
+        "home-assistant",
+        "home-automation",
+        "homeassistant-integration",
+        "lovelace",
+        "lovelace-card",
+        "smart-home",
+        "threejs"
+      ],
+      "created_at": "2026-09-27T21:31:26Z",
+      "updated_at": "2026-10-02T22:00:00Z",
+      "pushed_at": "2026-10-02T21:32:47Z"
     },
     {
       "id": 1377304402,
@@ -2158,8 +2215,8 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-30T11:51:52Z",
-      "updated_at": "2026-10-02T14:00:03Z",
-      "pushed_at": "2026-10-02T14:00:03Z"
+      "updated_at": "2026-10-02T18:58:18Z",
+      "pushed_at": "2026-10-02T18:58:25Z"
     },
     {
       "id": 1395203963,
@@ -2259,6 +2316,42 @@
       "pushed_at": "2026-09-28T18:36:29Z"
     },
     {
+      "id": 1393673886,
+      "name": "OpenBUA",
+      "full_name": "AliSharjeell/OpenBUA",
+      "description": "Open-source autonomous AI browser agent Chrome extension running locally in your authenticated browser. Researches web data, fills forms, automates workflows, and streams live results using active logins.",
+      "html_url": "https://github.com/AliSharjeell/OpenBUA",
+      "homepage": "www.openbua.com",
+      "stars": 31,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-automation",
+        "ai-browser-agent",
+        "autonomous-agent",
+        "browser-agent",
+        "browser-automation",
+        "browser-use",
+        "browser-use-agent",
+        "byok",
+        "chrome-extension",
+        "claude",
+        "client-side",
+        "form-automation",
+        "gemini",
+        "lead-generation",
+        "manifest-v3",
+        "pi-agent-core",
+        "pi-ai",
+        "web-agent",
+        "web-automation"
+      ],
+      "created_at": "2026-09-28T19:05:49Z",
+      "updated_at": "2026-10-02T18:09:49Z",
+      "pushed_at": "2026-10-02T14:07:17Z"
+    },
+    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -2306,42 +2399,6 @@
       "created_at": "2026-09-24T09:14:14Z",
       "updated_at": "2026-09-30T14:54:01Z",
       "pushed_at": "2026-09-27T17:07:26Z"
-    },
-    {
-      "id": 1393673886,
-      "name": "OpenBUA",
-      "full_name": "AliSharjeell/OpenBUA",
-      "description": "Open-source autonomous AI browser agent Chrome extension running locally in your authenticated browser. Researches web data, fills forms, automates workflows, and streams live results using active logins.",
-      "html_url": "https://github.com/AliSharjeell/OpenBUA",
-      "homepage": "www.openbua.com",
-      "stars": 30,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agent",
-        "ai-automation",
-        "ai-browser-agent",
-        "autonomous-agent",
-        "browser-agent",
-        "browser-automation",
-        "browser-use",
-        "browser-use-agent",
-        "byok",
-        "chrome-extension",
-        "claude",
-        "client-side",
-        "form-automation",
-        "gemini",
-        "lead-generation",
-        "manifest-v3",
-        "pi-agent-core",
-        "pi-ai",
-        "web-agent",
-        "web-automation"
-      ],
-      "created_at": "2026-09-28T19:05:49Z",
-      "updated_at": "2026-10-02T15:57:23Z",
-      "pushed_at": "2026-10-02T14:07:17Z"
     },
     {
       "id": 1375795989,
@@ -2402,6 +2459,37 @@
       "pushed_at": "2026-09-27T08:55:38Z"
     },
     {
+      "id": 1395215215,
+      "name": "awesome-tauri-apps",
+      "full_name": "chrysler-stone/awesome-tauri-apps",
+      "description": "Curated list of desktop and mobile apps built with Tauri.",
+      "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
+      "homepage": null,
+      "stars": 29,
+      "forks": 13,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "desktop",
+        "javascript",
+        "linux",
+        "macos",
+        "multiplatform",
+        "rust",
+        "svelte",
+        "tauri",
+        "typescript",
+        "vue",
+        "web",
+        "web-development",
+        "windows"
+      ],
+      "created_at": "2026-09-29T12:28:07Z",
+      "updated_at": "2026-10-02T17:56:13Z",
+      "pushed_at": "2026-10-01T09:45:28Z"
+    },
+    {
       "id": 1376687962,
       "name": "kisakcod-port",
       "full_name": "slqntdevss/kisakcod-port",
@@ -2450,37 +2538,6 @@
       "created_at": "2026-09-24T12:26:10Z",
       "updated_at": "2026-09-30T13:00:46Z",
       "pushed_at": "2026-09-30T13:53:19Z"
-    },
-    {
-      "id": 1395215215,
-      "name": "awesome-tauri-apps",
-      "full_name": "chrysler-stone/awesome-tauri-apps",
-      "description": "Curated list of desktop and mobile apps built with Tauri.",
-      "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "homepage": null,
-      "stars": 28,
-      "forks": 12,
-      "language": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "desktop",
-        "javascript",
-        "linux",
-        "macos",
-        "multiplatform",
-        "rust",
-        "svelte",
-        "tauri",
-        "typescript",
-        "vue",
-        "web",
-        "web-development",
-        "windows"
-      ],
-      "created_at": "2026-09-29T12:28:07Z",
-      "updated_at": "2026-10-02T16:15:58Z",
-      "pushed_at": "2026-10-01T09:45:28Z"
     },
     {
       "id": 1394401316,
@@ -2622,12 +2679,27 @@
       "html_url": "https://github.com/anthoo582/mario-kart-64-ps2",
       "homepage": null,
       "stars": 25,
-      "forks": 5,
+      "forks": 6,
       "language": "C",
       "topics": [],
       "created_at": "2026-09-26T21:01:58Z",
-      "updated_at": "2026-10-02T16:59:44Z",
+      "updated_at": "2026-10-02T18:56:11Z",
       "pushed_at": "2026-10-02T15:59:21Z"
+    },
+    {
+      "id": 1388388689,
+      "name": "receipt-protocol",
+      "full_name": "hhh7666/receipt-protocol",
+      "description": "Minimal cross-venue receipt protocol for AI agents",
+      "html_url": "https://github.com/hhh7666/receipt-protocol",
+      "homepage": null,
+      "stars": 25,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-26T02:17:51Z",
+      "updated_at": "2026-10-02T18:17:47Z",
+      "pushed_at": "2026-09-29T09:43:31Z"
     },
     {
       "id": 1377235275,
@@ -2696,19 +2768,19 @@
       "pushed_at": "2026-09-29T12:16:54Z"
     },
     {
-      "id": 1388388689,
-      "name": "receipt-protocol",
-      "full_name": "hhh7666/receipt-protocol",
-      "description": "Minimal cross-venue receipt protocol for AI agents",
-      "html_url": "https://github.com/hhh7666/receipt-protocol",
+      "id": 1389225185,
+      "name": "scenemeixer",
+      "full_name": "scenemixer-official/scenemeixer",
+      "description": "AI drama generator for 15 languages",
+      "html_url": "https://github.com/scenemixer-official/scenemeixer",
       "homepage": null,
       "stars": 23,
-      "forks": 0,
-      "language": "JavaScript",
+      "forks": 3,
+      "language": null,
       "topics": [],
-      "created_at": "2026-09-26T02:17:51Z",
-      "updated_at": "2026-10-02T17:01:52Z",
-      "pushed_at": "2026-09-29T09:43:31Z"
+      "created_at": "2026-09-26T13:03:43Z",
+      "updated_at": "2026-10-02T20:31:31Z",
+      "pushed_at": "2026-09-26T13:30:37Z"
     },
     {
       "id": 1384491277,
@@ -2724,21 +2796,6 @@
       "created_at": "2026-09-24T02:41:22Z",
       "updated_at": "2026-09-28T19:59:26Z",
       "pushed_at": "2026-09-28T21:01:32Z"
-    },
-    {
-      "id": 1389225185,
-      "name": "scenemeixer",
-      "full_name": "scenemixer-official/scenemeixer",
-      "description": "AI drama generator for 15 languages",
-      "html_url": "https://github.com/scenemixer-official/scenemeixer",
-      "homepage": null,
-      "stars": 22,
-      "forks": 3,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-26T13:03:43Z",
-      "updated_at": "2026-10-02T14:34:48Z",
-      "pushed_at": "2026-09-26T13:30:37Z"
     },
     {
       "id": 1394505594,
@@ -2769,6 +2826,26 @@
       "created_at": "2026-09-29T13:57:08Z",
       "updated_at": "2026-10-02T05:30:59Z",
       "pushed_at": "2026-10-01T22:39:01Z"
+    },
+    {
+      "id": 1401626619,
+      "name": "IDM-Full-Version-2026",
+      "full_name": "SeamanDivide/IDM-Full-Version-2026",
+      "description": "IDM 6.42 is the full build. The integration module hooks the browser, a patch and a preactivated setup cover one PC, and the activation script keeps the registration in place so a batch of files can finish overnight on that machine tonight",
+      "html_url": "https://github.com/SeamanDivide/IDM-Full-Version-2026",
+      "homepage": null,
+      "stars": 21,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "free-internet-downloader",
+        "idm-manager",
+        "idm-scripts",
+        "idm-utilities"
+      ],
+      "created_at": "2026-10-02T11:59:44Z",
+      "updated_at": "2026-10-02T18:51:47Z",
+      "pushed_at": "2026-10-02T18:51:42Z"
     },
     {
       "id": 1379231612,
@@ -3320,8 +3397,8 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-26T23:17:11Z",
-      "updated_at": "2026-10-02T11:00:55Z",
-      "pushed_at": "2026-09-30T12:08:46Z"
+      "updated_at": "2026-10-02T19:41:53Z",
+      "pushed_at": "2026-10-02T19:41:47Z"
     },
     {
       "id": 1394432370,
