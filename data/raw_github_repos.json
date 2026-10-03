@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/3 23:24:59",
-  "total_repos": 184,
+  "fetched_at": "2026/10/4 06:32:25",
+  "total_repos": 188,
   "repos": [
     {
       "id": 1377938409,
@@ -68,8 +68,8 @@
       "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
       "html_url": "https://github.com/pengchujin/livecanvas",
       "homepage": null,
-      "stars": 344,
-      "forks": 23,
+      "stars": 347,
+      "forks": 24,
       "language": "Swift",
       "topics": [
         "agent-skills",
@@ -79,7 +79,7 @@
         "remotion"
       ],
       "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-03T12:22:39Z",
+      "updated_at": "2026-10-03T19:55:42Z",
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
@@ -139,14 +139,64 @@
       "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
+      "id": 1401821001,
+      "name": "whirl",
+      "full_name": "whirlchat/whirl",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "html_url": "https://github.com/whirlchat/whirl",
+      "homepage": "https://whirl.chat",
+      "stars": 244,
+      "forks": 15,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-chat",
+        "chat",
+        "convex",
+        "llm",
+        "nextjs",
+        "openrouter",
+        "react",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-10-02T13:50:42Z",
+      "updated_at": "2026-10-03T22:29:46Z",
+      "pushed_at": "2026-10-03T07:34:57Z"
+    },
+    {
+      "id": 1390509008,
+      "name": "awesome-ai-motion",
+      "full_name": "guanmo-ai/awesome-ai-motion",
+      "description": "发现惊艳动效、创意视频与交互艺术，探索背后的源码、提示词与制作过程。Curated motion design, creative video & interactive art — with source code, prompts & making-of resources.",
+      "html_url": "https://github.com/guanmo-ai/awesome-ai-motion",
+      "homepage": "https://guanmo-ai.github.io/awesome-ai-motion/",
+      "stars": 215,
+      "forks": 30,
+      "language": "JavaScript",
+      "topics": [
+        "ai-video",
+        "animation",
+        "awesome",
+        "awesome-list",
+        "claude",
+        "motion-design",
+        "opus",
+        "prompts"
+      ],
+      "created_at": "2026-09-27T08:53:43Z",
+      "updated_at": "2026-10-03T21:08:24Z",
+      "pushed_at": "2026-10-02T19:26:50Z"
+    },
+    {
       "id": 1390886722,
       "name": "liquid-glass-chat-ui",
       "full_name": "Appllama/liquid-glass-chat-ui",
       "description": "Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.",
       "html_url": "https://github.com/Appllama/liquid-glass-chat-ui",
       "homepage": "https://appllama.io",
-      "stars": 213,
-      "forks": 27,
+      "stars": 214,
+      "forks": 28,
       "language": "TypeScript",
       "topics": [
         "animation",
@@ -171,32 +221,8 @@
         "ui-components"
       ],
       "created_at": "2026-09-27T13:33:00Z",
-      "updated_at": "2026-10-03T12:23:48Z",
+      "updated_at": "2026-10-03T22:11:51Z",
       "pushed_at": "2026-09-27T18:48:24Z"
-    },
-    {
-      "id": 1390509008,
-      "name": "awesome-ai-motion",
-      "full_name": "guanmo-ai/awesome-ai-motion",
-      "description": "发现惊艳动效、创意视频与交互艺术，探索背后的源码、提示词与制作过程。Curated motion design, creative video & interactive art — with source code, prompts & making-of resources.",
-      "html_url": "https://github.com/guanmo-ai/awesome-ai-motion",
-      "homepage": "https://guanmo-ai.github.io/awesome-ai-motion/",
-      "stars": 210,
-      "forks": 30,
-      "language": "JavaScript",
-      "topics": [
-        "ai-video",
-        "animation",
-        "awesome",
-        "awesome-list",
-        "claude",
-        "motion-design",
-        "opus",
-        "prompts"
-      ],
-      "created_at": "2026-09-27T08:53:43Z",
-      "updated_at": "2026-10-03T15:09:04Z",
-      "pushed_at": "2026-10-02T19:26:50Z"
     },
     {
       "id": 1396738941,
@@ -205,8 +231,8 @@
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "html_url": "https://github.com/blendi-remade/dioramas",
       "homepage": null,
-      "stars": 209,
-      "forks": 21,
+      "stars": 210,
+      "forks": 22,
       "language": "JavaScript",
       "topics": [
         "3d",
@@ -219,8 +245,29 @@
         "webgl"
       ],
       "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-03T15:10:07Z",
+      "updated_at": "2026-10-03T22:26:54Z",
       "pushed_at": "2026-09-30T00:10:22Z"
+    },
+    {
+      "id": 1400250107,
+      "name": "bootloops",
+      "full_name": "BootLoops-ai/bootloops",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "html_url": "https://github.com/BootLoops-ai/bootloops",
+      "homepage": null,
+      "stars": 204,
+      "forks": 42,
+      "language": "Python",
+      "topics": [
+        "bootloops",
+        "feynman-integrals",
+        "llm-agents",
+        "physics",
+        "scientific-computing"
+      ],
+      "created_at": "2026-10-01T15:29:28Z",
+      "updated_at": "2026-10-03T22:02:10Z",
+      "pushed_at": "2026-10-01T15:29:34Z"
     },
     {
       "id": 1376284519,
@@ -274,27 +321,6 @@
       "pushed_at": "2026-10-02T04:15:42Z"
     },
     {
-      "id": 1400250107,
-      "name": "bootloops",
-      "full_name": "BootLoops-ai/bootloops",
-      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
-      "html_url": "https://github.com/BootLoops-ai/bootloops",
-      "homepage": null,
-      "stars": 196,
-      "forks": 41,
-      "language": "Python",
-      "topics": [
-        "bootloops",
-        "feynman-integrals",
-        "llm-agents",
-        "physics",
-        "scientific-computing"
-      ],
-      "created_at": "2026-10-01T15:29:28Z",
-      "updated_at": "2026-10-03T15:15:38Z",
-      "pushed_at": "2026-10-01T15:29:34Z"
-    },
-    {
       "id": 1380797051,
       "name": "threejs-architecture-effects",
       "full_name": "lhlGitHub/threejs-architecture-effects",
@@ -316,12 +342,12 @@
       "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
       "html_url": "https://github.com/seamusc/papermono-shopping-list",
       "homepage": null,
-      "stars": 191,
+      "stars": 195,
       "forks": 5,
       "language": "C++",
       "topics": [],
       "created_at": "2026-09-27T12:05:30Z",
-      "updated_at": "2026-10-03T15:10:09Z",
+      "updated_at": "2026-10-03T22:22:09Z",
       "pushed_at": "2026-10-03T06:15:44Z"
     },
     {
@@ -410,6 +436,39 @@
       "pushed_at": "2026-09-24T02:57:21Z"
     },
     {
+      "id": 1391423600,
+      "name": "neonplan3d",
+      "full_name": "Mastershort/neonplan3d",
+      "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+      "html_url": "https://github.com/Mastershort/neonplan3d",
+      "homepage": null,
+      "stars": 162,
+      "forks": 21,
+      "language": "TypeScript",
+      "topics": [
+        "3d",
+        "3d-visualization",
+        "custom-card",
+        "dashboard",
+        "digital-twin",
+        "editor",
+        "floor-plan",
+        "floorplan",
+        "floorplan-card",
+        "hacs",
+        "home-assistant",
+        "home-automation",
+        "homeassistant-integration",
+        "lovelace",
+        "lovelace-card",
+        "smart-home",
+        "threejs"
+      ],
+      "created_at": "2026-09-27T21:31:26Z",
+      "updated_at": "2026-10-03T21:59:13Z",
+      "pushed_at": "2026-10-03T17:08:44Z"
+    },
+    {
       "id": 1387067752,
       "name": "Seep-Tool",
       "full_name": "angusdevgo/Seep-Tool",
@@ -461,37 +520,19 @@
       "pushed_at": "2026-09-23T10:48:10Z"
     },
     {
-      "id": 1391423600,
-      "name": "neonplan3d",
-      "full_name": "Mastershort/neonplan3d",
-      "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
-      "html_url": "https://github.com/Mastershort/neonplan3d",
+      "id": 1402016280,
+      "name": "nuvex-web",
+      "full_name": "NuvexNetwork/nuvex-web",
+      "description": "The Nuvex website. It does not read chain state and it does not submit transactions.  The protocol, the documentation site, and the off-chain services are separate repositories.",
+      "html_url": "https://github.com/NuvexNetwork/nuvex-web",
       "homepage": null,
-      "stars": 142,
-      "forks": 17,
+      "stars": 140,
+      "forks": 41,
       "language": "TypeScript",
-      "topics": [
-        "3d",
-        "3d-visualization",
-        "custom-card",
-        "dashboard",
-        "digital-twin",
-        "editor",
-        "floor-plan",
-        "floorplan",
-        "floorplan-card",
-        "hacs",
-        "home-assistant",
-        "home-automation",
-        "homeassistant-integration",
-        "lovelace",
-        "lovelace-card",
-        "smart-home",
-        "threejs"
-      ],
-      "created_at": "2026-09-27T21:31:26Z",
-      "updated_at": "2026-10-03T15:24:36Z",
-      "pushed_at": "2026-10-03T12:41:07Z"
+      "topics": [],
+      "created_at": "2026-10-02T15:42:15Z",
+      "updated_at": "2026-10-03T22:20:29Z",
+      "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
       "id": 1378060456,
@@ -515,13 +556,43 @@
       "description": "Godot Tool to create procedural pixel creatures",
       "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
       "homepage": null,
-      "stars": 133,
-      "forks": 17,
+      "stars": 137,
+      "forks": 18,
       "language": "C#",
       "topics": [],
       "created_at": "2026-10-01T18:39:44Z",
-      "updated_at": "2026-10-03T14:45:27Z",
+      "updated_at": "2026-10-03T21:13:18Z",
       "pushed_at": "2026-10-01T20:28:02Z"
+    },
+    {
+      "id": 1390688516,
+      "name": "omarchy-rescue",
+      "full_name": "crmne/omarchy-rescue",
+      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
+      "html_url": "https://github.com/crmne/omarchy-rescue",
+      "homepage": null,
+      "stars": 133,
+      "forks": 7,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-09-27T11:21:06Z",
+      "updated_at": "2026-10-03T16:50:09Z",
+      "pushed_at": "2026-10-03T13:02:50Z"
+    },
+    {
+      "id": 1391377497,
+      "name": "max-payne-2-vr",
+      "full_name": "evilSheep/max-payne-2-vr",
+      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
+      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
+      "homepage": null,
+      "stars": 133,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-27T20:26:56Z",
+      "updated_at": "2026-10-03T22:10:12Z",
+      "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
       "id": 1386719155,
@@ -558,64 +629,19 @@
       "pushed_at": "2026-09-26T08:16:28Z"
     },
     {
-      "id": 1390688516,
-      "name": "omarchy-rescue",
-      "full_name": "crmne/omarchy-rescue",
-      "description": "The Omarchy ISO with a rescue mode: rescue tools plus Claude Code, Codex, and OpenCode in a live console",
-      "html_url": "https://github.com/crmne/omarchy-rescue",
-      "homepage": null,
-      "stars": 132,
-      "forks": 7,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-09-27T11:21:06Z",
-      "updated_at": "2026-10-03T13:02:52Z",
-      "pushed_at": "2026-10-03T13:02:50Z"
-    },
-    {
-      "id": 1402016280,
-      "name": "nuvex-web",
-      "full_name": "NuvexNetwork/nuvex-web",
-      "description": "The Nuvex website. It does not read chain state and it does not submit transactions.  The protocol, the documentation site, and the off-chain services are separate repositories.",
-      "html_url": "https://github.com/NuvexNetwork/nuvex-web",
-      "homepage": null,
-      "stars": 130,
-      "forks": 41,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-02T15:42:15Z",
-      "updated_at": "2026-10-03T15:01:01Z",
-      "pushed_at": "2026-10-02T22:28:26Z"
-    },
-    {
       "id": 1391836763,
       "name": "abstract-algebra-promo",
       "full_name": "AnctyEnly453/abstract-algebra-promo",
       "description": "抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack",
       "html_url": "https://github.com/AnctyEnly453/abstract-algebra-promo",
       "homepage": null,
-      "stars": 129,
+      "stars": 132,
       "forks": 7,
       "language": "HTML",
       "topics": [],
       "created_at": "2026-09-28T05:00:45Z",
-      "updated_at": "2026-10-03T14:59:11Z",
+      "updated_at": "2026-10-03T20:09:15Z",
       "pushed_at": "2026-09-28T05:04:35Z"
-    },
-    {
-      "id": 1391377497,
-      "name": "max-payne-2-vr",
-      "full_name": "evilSheep/max-payne-2-vr",
-      "description": "Free PCVR mod for Max Payne 2 - Tested on Quest 3 and PSVR2",
-      "html_url": "https://github.com/evilSheep/max-payne-2-vr",
-      "homepage": null,
-      "stars": 129,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-09-27T20:26:56Z",
-      "updated_at": "2026-10-03T12:39:15Z",
-      "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
       "id": 1385750356,
@@ -643,6 +669,21 @@
       "pushed_at": "2026-09-24T15:02:21Z"
     },
     {
+      "id": 1400877599,
+      "name": "ArkWeb",
+      "full_name": "luki-1/ArkWeb",
+      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
+      "html_url": "https://github.com/luki-1/ArkWeb",
+      "homepage": null,
+      "stars": 128,
+      "forks": 11,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-02T00:59:19Z",
+      "updated_at": "2026-10-03T21:55:44Z",
+      "pushed_at": "2026-10-03T03:53:52Z"
+    },
+    {
       "id": 1401629577,
       "name": "BorisFX",
       "full_name": "graspdivinerdesign/BorisFX",
@@ -667,21 +708,6 @@
       "created_at": "2026-10-02T12:01:26Z",
       "updated_at": "2026-10-02T15:19:23Z",
       "pushed_at": "2026-10-02T12:01:32Z"
-    },
-    {
-      "id": 1400877599,
-      "name": "ArkWeb",
-      "full_name": "luki-1/ArkWeb",
-      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
-      "html_url": "https://github.com/luki-1/ArkWeb",
-      "homepage": null,
-      "stars": 122,
-      "forks": 10,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-02T00:59:19Z",
-      "updated_at": "2026-10-03T14:56:48Z",
-      "pushed_at": "2026-10-03T03:53:52Z"
     },
     {
       "id": 1380729698,
@@ -948,32 +974,6 @@
       "pushed_at": "2026-09-23T13:07:24Z"
     },
     {
-      "id": 1401821001,
-      "name": "whirl",
-      "full_name": "whirlchat/whirl",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "html_url": "https://github.com/whirlchat/whirl",
-      "homepage": "https://whirl.chat",
-      "stars": 102,
-      "forks": 6,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-chat",
-        "chat",
-        "convex",
-        "llm",
-        "nextjs",
-        "openrouter",
-        "react",
-        "self-hosted",
-        "typescript"
-      ],
-      "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-03T15:22:35Z",
-      "pushed_at": "2026-10-03T07:34:57Z"
-    },
-    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -1076,6 +1076,31 @@
       "created_at": "2026-09-20T16:39:08Z",
       "updated_at": "2026-09-23T00:41:39Z",
       "pushed_at": "2026-09-23T00:41:36Z"
+    },
+    {
+      "id": 1403115747,
+      "name": "replica-skill",
+      "full_name": "Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "html_url": "https://github.com/Jakeschincariol/replica-skill",
+      "homepage": "https://opusjake.ai",
+      "stars": 90,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ],
+      "created_at": "2026-10-03T12:07:49Z",
+      "updated_at": "2026-10-03T22:12:16Z",
+      "pushed_at": "2026-10-03T12:07:53Z"
     },
     {
       "id": 1399029726,
@@ -1264,6 +1289,30 @@
       "pushed_at": "2026-09-23T13:27:47Z"
     },
     {
+      "id": 1393636648,
+      "name": "Nostalgex",
+      "full_name": "chadMueller/Nostalgex",
+      "description": "Retro cable TV guide for your Plex, Jellyfin or Emby library. Native Apple TV app + web tuner.",
+      "html_url": "https://github.com/chadMueller/Nostalgex",
+      "homepage": "https://www.nostalgex.app",
+      "stars": 69,
+      "forks": 1,
+      "language": "Swift",
+      "topics": [
+        "apple-tv",
+        "emby",
+        "epg",
+        "jellyfin",
+        "plex",
+        "retro",
+        "swiftui",
+        "tvos"
+      ],
+      "created_at": "2026-09-28T18:48:03Z",
+      "updated_at": "2026-10-03T21:58:35Z",
+      "pushed_at": "2026-10-03T15:46:40Z"
+    },
+    {
       "id": 1396348192,
       "name": "compress",
       "full_name": "spenmcke/compress",
@@ -1294,37 +1343,13 @@
       "pushed_at": "2026-10-03T09:35:23Z"
     },
     {
-      "id": 1393636648,
-      "name": "Nostalgex",
-      "full_name": "chadMueller/Nostalgex",
-      "description": "Retro cable TV guide for your Plex, Jellyfin or Emby library. Native Apple TV app + web tuner.",
-      "html_url": "https://github.com/chadMueller/Nostalgex",
-      "homepage": "https://www.nostalgex.app",
-      "stars": 67,
-      "forks": 1,
-      "language": "Swift",
-      "topics": [
-        "apple-tv",
-        "emby",
-        "epg",
-        "jellyfin",
-        "plex",
-        "retro",
-        "swiftui",
-        "tvos"
-      ],
-      "created_at": "2026-09-28T18:48:03Z",
-      "updated_at": "2026-10-03T14:32:15Z",
-      "pushed_at": "2026-09-28T21:37:24Z"
-    },
-    {
       "id": 1391565885,
       "name": "banjo-tooie-scurvy-dog-port",
       "full_name": "some-scurvy-dog/banjo-tooie-scurvy-dog-port",
       "description": "Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and speedrunning practice tools.",
       "html_url": "https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port",
       "homepage": null,
-      "stars": 66,
+      "stars": 68,
       "forks": 4,
       "language": "C++",
       "topics": [
@@ -1336,7 +1361,7 @@
         "windows"
       ],
       "created_at": "2026-09-28T01:20:48Z",
-      "updated_at": "2026-10-03T15:21:24Z",
+      "updated_at": "2026-10-03T17:05:24Z",
       "pushed_at": "2026-10-02T14:32:21Z"
     },
     {
@@ -1400,38 +1425,13 @@
       "pushed_at": "2026-09-26T13:37:48Z"
     },
     {
-      "id": 1400269105,
-      "name": "WARDOGS-2026-AIMBOT-WALLHACK-",
-      "full_name": "Masszumplain17/WARDOGS-2026-AIMBOT-WALLHACK-",
-      "description": "These tools give you control over combat, resources, progression, and experimentation in your game",
-      "html_url": "https://github.com/Masszumplain17/WARDOGS-2026-AIMBOT-WALLHACK-",
-      "homepage": null,
-      "stars": 62,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "wardogs",
-        "wardogs-cheat",
-        "wardogs-external-menu",
-        "wardogs-game",
-        "wardogs-hack",
-        "wardogs-map-tools",
-        "wardogs-mod-menu",
-        "wardogs-overlay",
-        "wardogs-player-info"
-      ],
-      "created_at": "2026-10-01T15:40:04Z",
-      "updated_at": "2026-10-01T17:24:01Z",
-      "pushed_at": "2026-10-01T17:23:57Z"
-    },
-    {
       "id": 1396871330,
       "name": "Flash-USDT-Tool",
       "full_name": "shelby2006/Flash-USDT-Tool",
       "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
       "html_url": "https://github.com/shelby2006/Flash-USDT-Tool",
       "homepage": null,
-      "stars": 62,
+      "stars": 63,
       "forks": 10,
       "language": "Python",
       "topics": [
@@ -1457,8 +1457,33 @@
         "wallet-finder-crypto"
       ],
       "created_at": "2026-09-30T02:50:26Z",
-      "updated_at": "2026-10-03T15:20:14Z",
-      "pushed_at": "2026-10-03T15:20:11Z"
+      "updated_at": "2026-10-03T22:17:14Z",
+      "pushed_at": "2026-10-03T22:17:11Z"
+    },
+    {
+      "id": 1400269105,
+      "name": "WARDOGS-2026-AIMBOT-WALLHACK-",
+      "full_name": "Masszumplain17/WARDOGS-2026-AIMBOT-WALLHACK-",
+      "description": "These tools give you control over combat, resources, progression, and experimentation in your game",
+      "html_url": "https://github.com/Masszumplain17/WARDOGS-2026-AIMBOT-WALLHACK-",
+      "homepage": null,
+      "stars": 62,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "wardogs",
+        "wardogs-cheat",
+        "wardogs-external-menu",
+        "wardogs-game",
+        "wardogs-hack",
+        "wardogs-map-tools",
+        "wardogs-mod-menu",
+        "wardogs-overlay",
+        "wardogs-player-info"
+      ],
+      "created_at": "2026-10-01T15:40:04Z",
+      "updated_at": "2026-10-01T17:24:01Z",
+      "pushed_at": "2026-10-01T17:23:57Z"
     },
     {
       "id": 1386511925,
@@ -1493,6 +1518,42 @@
       "created_at": "2026-09-25T00:13:54Z",
       "updated_at": "2026-10-01T02:29:34Z",
       "pushed_at": "2026-09-30T23:09:06Z"
+    },
+    {
+      "id": 1391479034,
+      "name": "tinydesk",
+      "full_name": "schikani/tinydesk",
+      "description": "A mouse-operated, windowed desktop for microcontrollers, drawn in your terminal: Files, Editor, Shell, MQTT, Modbus. Tested on ESP32 boards; also runs on Windows and Linux.",
+      "html_url": "https://github.com/schikani/tinydesk",
+      "homepage": "https://schikani.github.io/tinydesk-docs/",
+      "stars": 61,
+      "forks": 8,
+      "language": "C",
+      "topics": [
+        "ansi",
+        "c",
+        "c11",
+        "desktop-environment",
+        "embedded",
+        "embedded-systems",
+        "esp32",
+        "freertos",
+        "gui",
+        "iot",
+        "mcu",
+        "microcontroller",
+        "modbus",
+        "mqtt",
+        "portable",
+        "terminal",
+        "text-user-interface",
+        "tui",
+        "vt100",
+        "window-manager"
+      ],
+      "created_at": "2026-09-27T23:00:56Z",
+      "updated_at": "2026-10-03T17:31:31Z",
+      "pushed_at": "2026-10-03T12:11:40Z"
     },
     {
       "id": 1386575337,
@@ -1540,42 +1601,6 @@
       "pushed_at": "2026-09-30T11:49:23Z"
     },
     {
-      "id": 1391479034,
-      "name": "tinydesk",
-      "full_name": "schikani/tinydesk",
-      "description": "A mouse-operated, windowed desktop for microcontrollers, drawn in your terminal: Files, Editor, Shell, MQTT, Modbus. Tested on ESP32 boards; also runs on Windows and Linux.",
-      "html_url": "https://github.com/schikani/tinydesk",
-      "homepage": "https://schikani.github.io/tinydesk-docs/",
-      "stars": 59,
-      "forks": 7,
-      "language": "C",
-      "topics": [
-        "ansi",
-        "c",
-        "c11",
-        "desktop-environment",
-        "embedded",
-        "embedded-systems",
-        "esp32",
-        "freertos",
-        "gui",
-        "iot",
-        "mcu",
-        "microcontroller",
-        "modbus",
-        "mqtt",
-        "portable",
-        "terminal",
-        "text-user-interface",
-        "tui",
-        "vt100",
-        "window-manager"
-      ],
-      "created_at": "2026-09-27T23:00:56Z",
-      "updated_at": "2026-10-03T13:57:05Z",
-      "pushed_at": "2026-10-03T12:11:40Z"
-    },
-    {
       "id": 1389512019,
       "name": "plain-backtest",
       "full_name": "Sixian-Li/plain-backtest",
@@ -1589,6 +1614,21 @@
       "created_at": "2026-09-26T16:29:26Z",
       "updated_at": "2026-10-02T21:35:55Z",
       "pushed_at": "2026-09-27T14:49:48Z"
+    },
+    {
+      "id": 1401594712,
+      "name": "awesome-fde-tools",
+      "full_name": "tonysurfly/awesome-fde-tools",
+      "description": "",
+      "html_url": "https://github.com/tonysurfly/awesome-fde-tools",
+      "homepage": null,
+      "stars": 58,
+      "forks": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-02T11:40:20Z",
+      "updated_at": "2026-10-03T20:40:29Z",
+      "pushed_at": "2026-10-02T13:38:08Z"
     },
     {
       "id": 1388724753,
@@ -1649,21 +1689,6 @@
       "pushed_at": "2026-09-28T17:55:29Z"
     },
     {
-      "id": 1401594712,
-      "name": "awesome-fde-tools",
-      "full_name": "tonysurfly/awesome-fde-tools",
-      "description": "",
-      "html_url": "https://github.com/tonysurfly/awesome-fde-tools",
-      "homepage": null,
-      "stars": 56,
-      "forks": 0,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-02T11:40:20Z",
-      "updated_at": "2026-10-03T15:22:05Z",
-      "pushed_at": "2026-10-02T13:38:08Z"
-    },
-    {
       "id": 1402790814,
       "name": "Image-Size-Reducer",
       "full_name": "Itz-Anya/Image-Size-Reducer",
@@ -1688,6 +1713,21 @@
       "created_at": "2026-10-03T07:01:17Z",
       "updated_at": "2026-10-03T14:50:33Z",
       "pushed_at": "2026-10-03T14:30:05Z"
+    },
+    {
+      "id": 1402525166,
+      "name": "Papermorph",
+      "full_name": "DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "html_url": "https://github.com/DozenTwelve/Papermorph",
+      "homepage": null,
+      "stars": 56,
+      "forks": 3,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-03T01:38:22Z",
+      "updated_at": "2026-10-03T21:35:57Z",
+      "pushed_at": "2026-10-03T07:46:28Z"
     },
     {
       "id": 1391635046,
@@ -1898,7 +1938,7 @@
       "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
       "html_url": "https://github.com/Moris-kr/ai-chatroom",
       "homepage": null,
-      "stars": 48,
+      "stars": 49,
       "forks": 8,
       "language": "JavaScript",
       "topics": [
@@ -1924,7 +1964,7 @@
         "weeb"
       ],
       "created_at": "2026-09-29T03:42:10Z",
-      "updated_at": "2026-10-02T09:44:46Z",
+      "updated_at": "2026-10-03T19:53:22Z",
       "pushed_at": "2026-09-29T05:16:14Z"
     },
     {
@@ -1961,8 +2001,8 @@
         "whiteboard"
       ],
       "created_at": "2026-09-28T14:24:02Z",
-      "updated_at": "2026-10-03T15:21:44Z",
-      "pushed_at": "2026-10-01T08:47:38Z"
+      "updated_at": "2026-10-03T22:09:12Z",
+      "pushed_at": "2026-10-03T22:09:09Z"
     },
     {
       "id": 1379859926,
@@ -2140,19 +2180,32 @@
       "pushed_at": "2026-09-29T17:28:26Z"
     },
     {
-      "id": 1402525166,
-      "name": "Papermorph",
-      "full_name": "DozenTwelve/Papermorph",
-      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "html_url": "https://github.com/DozenTwelve/Papermorph",
-      "homepage": null,
+      "id": 1396072736,
+      "name": "homedroid",
+      "full_name": "sudiptacmd/homedroid",
+      "description": "Turn an old Android phone into a home server: SSH, web hosting, Jellyfin with hardware transcoding, Immich, qBittorrent, Home Assistant and a web dashboard. No root.",
+      "html_url": "https://github.com/sudiptacmd/homedroid",
+      "homepage": "https://sudiptacmd.github.io/homedroid/",
       "stars": 42,
-      "forks": 2,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-03T01:38:22Z",
-      "updated_at": "2026-10-03T15:17:00Z",
-      "pushed_at": "2026-10-03T07:46:28Z"
+      "forks": 1,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-server",
+        "cloudflare-tunnel",
+        "home-server",
+        "homelab",
+        "immich",
+        "jellyfin",
+        "llama-cpp",
+        "nas",
+        "no-root",
+        "self-hosted",
+        "tailscale"
+      ],
+      "created_at": "2026-09-29T16:59:42Z",
+      "updated_at": "2026-10-03T16:51:42Z",
+      "pushed_at": "2026-10-02T01:13:37Z"
     },
     {
       "id": 1377057562,
@@ -2176,34 +2229,6 @@
       "created_at": "2026-09-19T11:12:10Z",
       "updated_at": "2026-09-23T08:37:07Z",
       "pushed_at": "2026-09-19T11:36:46Z"
-    },
-    {
-      "id": 1396072736,
-      "name": "homedroid",
-      "full_name": "sudiptacmd/homedroid",
-      "description": "Turn an old Android phone into a home server: SSH, web hosting, Jellyfin with hardware transcoding, Immich, qBittorrent, Home Assistant and a web dashboard. No root.",
-      "html_url": "https://github.com/sudiptacmd/homedroid",
-      "homepage": "https://sudiptacmd.github.io/homedroid/",
-      "stars": 41,
-      "forks": 1,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-server",
-        "cloudflare-tunnel",
-        "home-server",
-        "homelab",
-        "immich",
-        "jellyfin",
-        "llama-cpp",
-        "nas",
-        "no-root",
-        "self-hosted",
-        "tailscale"
-      ],
-      "created_at": "2026-09-29T16:59:42Z",
-      "updated_at": "2026-10-03T13:50:48Z",
-      "pushed_at": "2026-10-02T01:13:37Z"
     },
     {
       "id": 1378383465,
@@ -2260,8 +2285,60 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-30T11:51:52Z",
-      "updated_at": "2026-10-03T14:58:17Z",
-      "pushed_at": "2026-10-02T18:58:25Z"
+      "updated_at": "2026-10-03T17:46:06Z",
+      "pushed_at": "2026-10-03T17:46:15Z"
+    },
+    {
+      "id": 1399378829,
+      "name": "proxy-farm",
+      "full_name": "huuhoa143/proxy-farm",
+      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
+      "html_url": "https://github.com/huuhoa143/proxy-farm",
+      "homepage": null,
+      "stars": 39,
+      "forks": 27,
+      "language": "HTML",
+      "topics": [
+        "docker",
+        "hma",
+        "ipsec",
+        "proxy",
+        "socks5",
+        "vpn",
+        "wireguard"
+      ],
+      "created_at": "2026-10-01T07:10:36Z",
+      "updated_at": "2026-10-03T21:38:10Z",
+      "pushed_at": "2026-10-01T07:10:41Z"
+    },
+    {
+      "id": 1393284678,
+      "name": "reverse-proxy-api-fr",
+      "full_name": "apimartahfdrlm/reverse-proxy-api-fr",
+      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+      "html_url": "https://github.com/apimartahfdrlm/reverse-proxy-api-fr",
+      "homepage": "https://go.apimart.ai/k-c8fb36",
+      "stars": 39,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "ai-api-gateway",
+        "api-aggregator",
+        "api-pricing",
+        "apimart-fr",
+        "ext-api",
+        "llm-api-gateway",
+        "openai-compatible",
+        "pay-as-you-go",
+        "reverse-api",
+        "reverse-engineered-api",
+        "reverse-engineering",
+        "reverse-proxy-api",
+        "unofficial-api"
+      ],
+      "created_at": "2026-09-28T16:37:49Z",
+      "updated_at": "2026-10-03T22:20:39Z",
+      "pushed_at": "2026-09-28T16:39:05Z"
     },
     {
       "id": 1382790500,
@@ -2337,36 +2414,13 @@
       "description": "",
       "html_url": "https://github.com/everynight31/personal-resume-web-show",
       "homepage": null,
-      "stars": 35,
+      "stars": 37,
       "forks": 0,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-09-29T05:23:50Z",
-      "updated_at": "2026-10-03T12:16:13Z",
+      "updated_at": "2026-10-03T19:28:46Z",
       "pushed_at": "2026-09-29T08:21:53Z"
-    },
-    {
-      "id": 1399378829,
-      "name": "proxy-farm",
-      "full_name": "huuhoa143/proxy-farm",
-      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
-      "html_url": "https://github.com/huuhoa143/proxy-farm",
-      "homepage": null,
-      "stars": 35,
-      "forks": 27,
-      "language": "HTML",
-      "topics": [
-        "docker",
-        "hma",
-        "ipsec",
-        "proxy",
-        "socks5",
-        "vpn",
-        "wireguard"
-      ],
-      "created_at": "2026-10-01T07:10:36Z",
-      "updated_at": "2026-10-03T15:09:28Z",
-      "pushed_at": "2026-10-01T07:10:41Z"
     },
     {
       "id": 1395203963,
@@ -2395,6 +2449,42 @@
       "created_at": "2026-09-29T12:24:12Z",
       "updated_at": "2026-10-02T16:11:46Z",
       "pushed_at": "2026-09-29T14:46:37Z"
+    },
+    {
+      "id": 1393673886,
+      "name": "OpenBUA",
+      "full_name": "AliSharjeell/OpenBUA",
+      "description": "Open-source autonomous AI browser agent Chrome extension running locally in your authenticated browser. Researches web data, fills forms, automates workflows, and streams live results using active logins.",
+      "html_url": "https://github.com/AliSharjeell/OpenBUA",
+      "homepage": "www.openbua.com",
+      "stars": 34,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-automation",
+        "ai-browser-agent",
+        "autonomous-agent",
+        "browser-agent",
+        "browser-automation",
+        "browser-use",
+        "browser-use-agent",
+        "byok",
+        "chrome-extension",
+        "claude",
+        "client-side",
+        "form-automation",
+        "gemini",
+        "lead-generation",
+        "manifest-v3",
+        "pi-agent-core",
+        "pi-ai",
+        "web-agent",
+        "web-automation"
+      ],
+      "created_at": "2026-09-28T19:05:49Z",
+      "updated_at": "2026-10-03T20:33:40Z",
+      "pushed_at": "2026-10-03T20:33:50Z"
     },
     {
       "id": 1377573287,
@@ -2466,40 +2556,28 @@
       "pushed_at": "2026-09-28T18:36:29Z"
     },
     {
-      "id": 1393673886,
-      "name": "OpenBUA",
-      "full_name": "AliSharjeell/OpenBUA",
-      "description": "Open-source autonomous AI browser agent Chrome extension running locally in your authenticated browser. Researches web data, fills forms, automates workflows, and streams live results using active logins.",
-      "html_url": "https://github.com/AliSharjeell/OpenBUA",
-      "homepage": "www.openbua.com",
-      "stars": 31,
-      "forks": 0,
-      "language": "TypeScript",
+      "id": 1390864505,
+      "name": "feedme",
+      "full_name": "ardi4s/feedme",
+      "description": "feedme — RSS feed creator. Turn any web page into a feed and serve it as RSS 2.0, Atom 1.0 or JSON Feed 1.1 from one static binary.",
+      "html_url": "https://github.com/ardi4s/feedme",
+      "homepage": "createfeed.idroutebase.com",
+      "stars": 32,
+      "forks": 1,
+      "language": "Go",
       "topics": [
-        "ai-agent",
-        "ai-automation",
-        "ai-browser-agent",
-        "autonomous-agent",
-        "browser-agent",
-        "browser-automation",
-        "browser-use",
-        "browser-use-agent",
-        "byok",
-        "chrome-extension",
-        "claude",
-        "client-side",
-        "form-automation",
-        "gemini",
-        "lead-generation",
-        "manifest-v3",
-        "pi-agent-core",
-        "pi-ai",
-        "web-agent",
-        "web-automation"
+        "atom",
+        "feed-creator",
+        "full-text-rss",
+        "golang",
+        "jsonfeed",
+        "rss",
+        "rss-feed-generator",
+        "self-hosted"
       ],
-      "created_at": "2026-09-28T19:05:49Z",
-      "updated_at": "2026-10-03T01:49:08Z",
-      "pushed_at": "2026-10-03T01:49:05Z"
+      "created_at": "2026-09-27T13:18:25Z",
+      "updated_at": "2026-10-03T22:08:38Z",
+      "pushed_at": "2026-09-30T12:48:50Z"
     },
     {
       "id": 1395215215,
@@ -2509,7 +2587,7 @@
       "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
       "homepage": null,
       "stars": 31,
-      "forks": 14,
+      "forks": 15,
       "language": null,
       "topics": [
         "awesome",
@@ -2531,6 +2609,21 @@
       "created_at": "2026-09-29T12:28:07Z",
       "updated_at": "2026-10-03T15:11:01Z",
       "pushed_at": "2026-10-03T15:10:56Z"
+    },
+    {
+      "id": 1392926470,
+      "name": "pilulier",
+      "full_name": "ceshihaox-dotcom/pilulier",
+      "description": "药丸 · 给 AI 伴侣用的一次性 prompt 片段：手动挑一颗，只作用下一次回复，用完即焚。零依赖 Web Component + 13 份药方。",
+      "html_url": "https://github.com/ceshihaox-dotcom/pilulier",
+      "homepage": null,
+      "stars": 31,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-28T14:24:02Z",
+      "updated_at": "2026-10-03T15:56:40Z",
+      "pushed_at": "2026-09-28T14:24:16Z"
     },
     {
       "id": 1387868633,
@@ -2582,43 +2675,65 @@
       "pushed_at": "2026-09-27T17:07:26Z"
     },
     {
-      "id": 1392926470,
-      "name": "pilulier",
-      "full_name": "ceshihaox-dotcom/pilulier",
-      "description": "药丸 · 给 AI 伴侣用的一次性 prompt 片段：手动挑一颗，只作用下一次回复，用完即焚。零依赖 Web Component + 13 份药方。",
-      "html_url": "https://github.com/ceshihaox-dotcom/pilulier",
-      "homepage": null,
+      "id": 1396526702,
+      "name": "Filee",
+      "full_name": "KnifeLemon/Filee",
+      "description": "Free, open-source file converter for Windows. Convert 180+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "html_url": "https://github.com/KnifeLemon/Filee",
+      "homepage": "https://filee.sh",
       "stars": 30,
-      "forks": 11,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-28T14:24:02Z",
-      "updated_at": "2026-10-03T12:40:35Z",
-      "pushed_at": "2026-09-28T14:24:16Z"
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "audio-converter",
+        "avalonia",
+        "batch-conversion",
+        "converter",
+        "csharp",
+        "document-converter",
+        "docx-to-pdf",
+        "dotnet",
+        "drag-and-drop",
+        "file-conversion",
+        "file-converter",
+        "heic-converter",
+        "hwp",
+        "hwpx",
+        "image-converter",
+        "offline",
+        "pdf-converter",
+        "video-converter",
+        "windows",
+        "windows-app"
+      ],
+      "created_at": "2026-09-29T20:05:15Z",
+      "updated_at": "2026-10-03T22:18:07Z",
+      "pushed_at": "2026-10-03T18:42:02Z"
     },
     {
-      "id": 1390864505,
-      "name": "feedme",
-      "full_name": "ardi4s/feedme",
-      "description": "feedme — RSS feed creator. Turn any web page into a feed and serve it as RSS 2.0, Atom 1.0 or JSON Feed 1.1 from one static binary.",
-      "html_url": "https://github.com/ardi4s/feedme",
-      "homepage": "createfeed.idroutebase.com",
+      "id": 1401480940,
+      "name": "qiaomu-clipper",
+      "full_name": "joeseesun/qiaomu-clipper",
+      "description": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
+      "html_url": "https://github.com/joeseesun/qiaomu-clipper",
+      "homepage": "https://rss.qiaomu.ai",
       "stars": 30,
-      "forks": 1,
-      "language": "Go",
+      "forks": 3,
+      "language": "TypeScript",
       "topics": [
-        "atom",
-        "feed-creator",
-        "full-text-rss",
-        "golang",
-        "jsonfeed",
+        "ai-chat",
+        "chrome-extension",
+        "markdown",
+        "obsidian",
+        "obsidian-clipper",
+        "read-later",
         "rss",
-        "rss-feed-generator",
-        "self-hosted"
+        "typescript",
+        "web-clipper"
       ],
-      "created_at": "2026-09-27T13:18:25Z",
-      "updated_at": "2026-10-03T11:25:23Z",
-      "pushed_at": "2026-09-30T12:48:50Z"
+      "created_at": "2026-10-02T10:02:23Z",
+      "updated_at": "2026-10-03T16:34:48Z",
+      "pushed_at": "2026-10-03T16:34:42Z"
     },
     {
       "id": 1375795989,
@@ -2729,6 +2844,35 @@
       "pushed_at": "2026-09-30T13:53:19Z"
     },
     {
+      "id": 1393267374,
+      "name": "reverse-api-gateway-fr",
+      "full_name": "apimartd/reverse-api-gateway-fr",
+      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+      "html_url": "https://github.com/apimartd/reverse-api-gateway-fr",
+      "homepage": "https://go.apimart.ai/k-994a95",
+      "stars": 28,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "ai-api-gateway",
+        "api-aggregator",
+        "api-pricing",
+        "apimart-fr",
+        "ext-api",
+        "llm-api-gateway",
+        "openai-compatible",
+        "pay-as-you-go",
+        "reverse-api",
+        "reverse-api-gateway",
+        "reverse-engineered-api",
+        "reverse-engineering",
+        "unofficial-api"
+      ],
+      "created_at": "2026-09-28T16:31:49Z",
+      "updated_at": "2026-10-03T22:05:06Z",
+      "pushed_at": "2026-09-28T16:33:04Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -2771,35 +2915,6 @@
       "created_at": "2026-09-25T03:53:30Z",
       "updated_at": "2026-10-01T03:37:19Z",
       "pushed_at": "2026-10-01T03:14:08Z"
-    },
-    {
-      "id": 1393284678,
-      "name": "reverse-proxy-api-fr",
-      "full_name": "apimartahfdrlm/reverse-proxy-api-fr",
-      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
-      "html_url": "https://github.com/apimartahfdrlm/reverse-proxy-api-fr",
-      "homepage": "https://go.apimart.ai/k-c8fb36",
-      "stars": 27,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "ai-api-gateway",
-        "api-aggregator",
-        "api-pricing",
-        "apimart-fr",
-        "ext-api",
-        "llm-api-gateway",
-        "openai-compatible",
-        "pay-as-you-go",
-        "reverse-api",
-        "reverse-engineered-api",
-        "reverse-engineering",
-        "reverse-proxy-api",
-        "unofficial-api"
-      ],
-      "created_at": "2026-09-28T16:37:49Z",
-      "updated_at": "2026-10-03T15:21:38Z",
-      "pushed_at": "2026-09-28T16:39:05Z"
     },
     {
       "id": 1387743071,
@@ -2877,8 +2992,8 @@
         "indesign-key"
       ],
       "created_at": "2026-10-02T01:30:37Z",
-      "updated_at": "2026-10-03T11:21:42Z",
-      "pushed_at": "2026-10-03T11:21:38Z"
+      "updated_at": "2026-10-03T19:10:44Z",
+      "pushed_at": "2026-10-03T19:10:40Z"
     },
     {
       "id": 1389788067,
@@ -2926,6 +3041,35 @@
       "pushed_at": "2026-10-03T02:50:21Z"
     },
     {
+      "id": 1393286718,
+      "name": "unofficial-api-gateway-fr",
+      "full_name": "apimartctxebv7x/unofficial-api-gateway-fr",
+      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+      "html_url": "https://github.com/apimartctxebv7x/unofficial-api-gateway-fr",
+      "homepage": "https://go.apimart.ai/k-f542c0",
+      "stars": 25,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "ai-api-gateway",
+        "api-aggregator",
+        "api-pricing",
+        "apimart-fr",
+        "ext-api",
+        "llm-api-gateway",
+        "openai-compatible",
+        "pay-as-you-go",
+        "reverse-api",
+        "reverse-engineered-api",
+        "reverse-engineering",
+        "unofficial-api",
+        "unofficial-api-gateway"
+      ],
+      "created_at": "2026-09-28T16:38:30Z",
+      "updated_at": "2026-10-03T22:22:20Z",
+      "pushed_at": "2026-09-28T16:39:38Z"
+    },
+    {
       "id": 1377235275,
       "name": "sigillo",
       "full_name": "29-Cu/sigillo",
@@ -2960,6 +3104,35 @@
       "created_at": "2026-09-27T16:34:13Z",
       "updated_at": "2026-09-29T09:13:10Z",
       "pushed_at": "2026-09-27T16:51:40Z"
+    },
+    {
+      "id": 1393447970,
+      "name": "reverse-engineered-gateway-fr",
+      "full_name": "apimartdgodaeh8/reverse-engineered-gateway-fr",
+      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+      "html_url": "https://github.com/apimartdgodaeh8/reverse-engineered-gateway-fr",
+      "homepage": "https://go.apimart.ai/k-eb6d63",
+      "stars": 24,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "ai-api-gateway",
+        "api-aggregator",
+        "api-pricing",
+        "apimart-fr",
+        "ext-api",
+        "llm-api-gateway",
+        "openai-compatible",
+        "pay-as-you-go",
+        "reverse-api",
+        "reverse-engineered-api",
+        "reverse-engineered-gateway",
+        "reverse-engineering",
+        "unofficial-api"
+      ],
+      "created_at": "2026-09-28T17:39:36Z",
+      "updated_at": "2026-10-03T22:24:19Z",
+      "pushed_at": "2026-09-28T17:40:50Z"
     },
     {
       "id": 1378959833,
@@ -3053,8 +3226,8 @@
         "idm-utilities"
       ],
       "created_at": "2026-10-02T11:59:44Z",
-      "updated_at": "2026-10-03T14:29:30Z",
-      "pushed_at": "2026-10-03T14:29:26Z"
+      "updated_at": "2026-10-03T18:56:39Z",
+      "pushed_at": "2026-10-03T18:56:35Z"
     },
     {
       "id": 1400912725,
@@ -3070,8 +3243,8 @@
         "easeus-data-recovery-wizard-technician-13"
       ],
       "created_at": "2026-10-02T01:53:27Z",
-      "updated_at": "2026-10-03T13:01:52Z",
-      "pushed_at": "2026-10-03T13:01:49Z"
+      "updated_at": "2026-10-03T20:36:20Z",
+      "pushed_at": "2026-10-03T20:36:17Z"
     },
     {
       "id": 1400862255,
@@ -3093,8 +3266,8 @@
         "revit-windows"
       ],
       "created_at": "2026-10-02T00:35:59Z",
-      "updated_at": "2026-10-03T13:05:42Z",
-      "pushed_at": "2026-10-03T13:05:38Z"
+      "updated_at": "2026-10-03T20:39:52Z",
+      "pushed_at": "2026-10-03T20:39:49Z"
     },
     {
       "id": 1400910219,
@@ -3112,8 +3285,8 @@
         "windows-injector"
       ],
       "created_at": "2026-10-02T01:49:52Z",
-      "updated_at": "2026-10-03T13:08:27Z",
-      "pushed_at": "2026-10-03T13:08:24Z"
+      "updated_at": "2026-10-03T20:44:32Z",
+      "pushed_at": "2026-10-03T20:44:28Z"
     },
     {
       "id": 1379231612,
@@ -3131,6 +3304,35 @@
       "created_at": "2026-09-21T06:51:32Z",
       "updated_at": "2026-09-23T20:08:40Z",
       "pushed_at": "2026-09-23T20:09:36Z"
+    },
+    {
+      "id": 1393261824,
+      "name": "nano-banana-reverse-api-fr",
+      "full_name": "apimartds0g/nano-banana-reverse-api-fr",
+      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+      "html_url": "https://github.com/apimartds0g/nano-banana-reverse-api-fr",
+      "homepage": "https://go.apimart.ai/k-57034d",
+      "stars": 19,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "ai-api-gateway",
+        "api-aggregator",
+        "api-pricing",
+        "apimart-fr",
+        "ext-api",
+        "llm-api-gateway",
+        "nano-banana-reverse-api",
+        "openai-compatible",
+        "pay-as-you-go",
+        "reverse-api",
+        "reverse-engineered-api",
+        "reverse-engineering",
+        "unofficial-api"
+      ],
+      "created_at": "2026-09-28T16:29:53Z",
+      "updated_at": "2026-10-03T22:12:27Z",
+      "pushed_at": "2026-09-28T16:31:08Z"
     },
     {
       "id": 1387292246,
@@ -3253,33 +3455,19 @@
       "pushed_at": "2026-10-02T22:49:21Z"
     },
     {
-      "id": 1393267374,
-      "name": "reverse-api-gateway-fr",
-      "full_name": "apimartd/reverse-api-gateway-fr",
-      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
-      "html_url": "https://github.com/apimartd/reverse-api-gateway-fr",
-      "homepage": "https://go.apimart.ai/k-994a95",
+      "id": 1401877870,
+      "name": "maison",
+      "full_name": "bnlqn/maison",
+      "description": "A Home Assistant dashboard built as one custom element. A reference, not a plug-and-play card.",
+      "html_url": "https://github.com/bnlqn/maison",
+      "homepage": null,
       "stars": 16,
       "forks": 0,
-      "language": null,
-      "topics": [
-        "ai-api-gateway",
-        "api-aggregator",
-        "api-pricing",
-        "apimart-fr",
-        "ext-api",
-        "llm-api-gateway",
-        "openai-compatible",
-        "pay-as-you-go",
-        "reverse-api",
-        "reverse-api-gateway",
-        "reverse-engineered-api",
-        "reverse-engineering",
-        "unofficial-api"
-      ],
-      "created_at": "2026-09-28T16:31:49Z",
-      "updated_at": "2026-10-03T15:22:54Z",
-      "pushed_at": "2026-09-28T16:33:04Z"
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-02T14:22:00Z",
+      "updated_at": "2026-10-03T21:37:14Z",
+      "pushed_at": "2026-10-02T14:22:08Z"
     },
     {
       "id": 1378545590,
@@ -3352,35 +3540,6 @@
       "created_at": "2026-09-26T14:34:57Z",
       "updated_at": "2026-10-02T15:52:26Z",
       "pushed_at": "2026-09-26T14:35:37Z"
-    },
-    {
-      "id": 1393286718,
-      "name": "unofficial-api-gateway-fr",
-      "full_name": "apimartctxebv7x/unofficial-api-gateway-fr",
-      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
-      "html_url": "https://github.com/apimartctxebv7x/unofficial-api-gateway-fr",
-      "homepage": "https://go.apimart.ai/k-f542c0",
-      "stars": 15,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "ai-api-gateway",
-        "api-aggregator",
-        "api-pricing",
-        "apimart-fr",
-        "ext-api",
-        "llm-api-gateway",
-        "openai-compatible",
-        "pay-as-you-go",
-        "reverse-api",
-        "reverse-engineered-api",
-        "reverse-engineering",
-        "unofficial-api",
-        "unofficial-api-gateway"
-      ],
-      "created_at": "2026-09-28T16:38:30Z",
-      "updated_at": "2026-10-03T15:04:16Z",
-      "pushed_at": "2026-09-28T16:39:38Z"
     },
     {
       "id": 1379723846,
@@ -3473,8 +3632,8 @@
         "how-to-install-acunetix"
       ],
       "created_at": "2026-10-02T02:58:40Z",
-      "updated_at": "2026-10-03T13:00:24Z",
-      "pushed_at": "2026-10-03T13:00:20Z"
+      "updated_at": "2026-10-03T20:33:17Z",
+      "pushed_at": "2026-10-03T20:33:13Z"
     },
     {
       "id": 1379722239,
@@ -3569,50 +3728,6 @@
       "created_at": "2026-10-01T05:49:39Z",
       "updated_at": "2026-10-03T02:40:14Z",
       "pushed_at": "2026-10-02T10:35:17Z"
-    },
-    {
-      "id": 1393447970,
-      "name": "reverse-engineered-gateway-fr",
-      "full_name": "apimartdgodaeh8/reverse-engineered-gateway-fr",
-      "description": "Routes reverse-engineered et officielles dans un même index : les ID `-ext` sont le libellé reverse, le reste passe en route officielle à prix réduit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
-      "html_url": "https://github.com/apimartdgodaeh8/reverse-engineered-gateway-fr",
-      "homepage": "https://go.apimart.ai/k-eb6d63",
-      "stars": 13,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "ai-api-gateway",
-        "api-aggregator",
-        "api-pricing",
-        "apimart-fr",
-        "ext-api",
-        "llm-api-gateway",
-        "openai-compatible",
-        "pay-as-you-go",
-        "reverse-api",
-        "reverse-engineered-api",
-        "reverse-engineered-gateway",
-        "reverse-engineering",
-        "unofficial-api"
-      ],
-      "created_at": "2026-09-28T17:39:36Z",
-      "updated_at": "2026-10-03T13:34:03Z",
-      "pushed_at": "2026-09-28T17:40:50Z"
-    },
-    {
-      "id": 1401877870,
-      "name": "maison",
-      "full_name": "bnlqn/maison",
-      "description": "A Home Assistant dashboard built as one custom element. A reference, not a plug-and-play card.",
-      "html_url": "https://github.com/bnlqn/maison",
-      "homepage": null,
-      "stars": 13,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-02T14:22:00Z",
-      "updated_at": "2026-10-03T14:46:43Z",
-      "pushed_at": "2026-10-02T14:22:08Z"
     },
     {
       "id": 1380788494,
