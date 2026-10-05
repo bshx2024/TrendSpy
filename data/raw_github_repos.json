@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/5 00:09:41",
-  "total_repos": 214,
+  "fetched_at": "2026/10/5 11:02:06",
+  "total_repos": 221,
   "repos": [
     {
       "id": 1377938409,
@@ -18,14 +18,29 @@
       "pushed_at": "2026-09-20T05:05:16Z"
     },
     {
+      "id": 1403431984,
+      "name": "live-panel-skill",
+      "full_name": "ythx-101/live-panel-skill",
+      "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+      "html_url": "https://github.com/ythx-101/live-panel-skill",
+      "homepage": null,
+      "stars": 470,
+      "forks": 61,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-03T16:53:36Z",
+      "updated_at": "2026-10-05T02:59:44Z",
+      "pushed_at": "2026-10-03T16:53:42Z"
+    },
+    {
       "id": 1401821001,
       "name": "whirl",
       "full_name": "whirlchat/whirl",
       "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "html_url": "https://github.com/whirlchat/whirl",
       "homepage": "https://whirl.chat",
-      "stars": 417,
-      "forks": 36,
+      "stars": 457,
+      "forks": 40,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -40,7 +55,7 @@
         "typescript"
       ],
       "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-04T16:03:14Z",
+      "updated_at": "2026-10-05T02:12:44Z",
       "pushed_at": "2026-10-03T07:34:57Z"
     },
     {
@@ -121,6 +136,31 @@
       "pushed_at": "2026-10-02T19:56:10Z"
     },
     {
+      "id": 1403115747,
+      "name": "replica-skill",
+      "full_name": "Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "html_url": "https://github.com/Jakeschincariol/replica-skill",
+      "homepage": "https://opusjake.ai",
+      "stars": 391,
+      "forks": 35,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ],
+      "created_at": "2026-10-03T12:07:49Z",
+      "updated_at": "2026-10-05T02:34:08Z",
+      "pushed_at": "2026-10-03T12:07:53Z"
+    },
+    {
       "id": 1375530874,
       "name": "herdr-projects",
       "full_name": "eliasstravik/herdr-projects",
@@ -145,7 +185,7 @@
       "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
       "html_url": "https://github.com/pengchujin/livecanvas",
       "homepage": null,
-      "stars": 356,
+      "stars": 357,
       "forks": 24,
       "language": "Swift",
       "topics": [
@@ -156,48 +196,8 @@
         "remotion"
       ],
       "created_at": "2026-09-30T10:26:35Z",
-      "updated_at": "2026-10-04T13:07:06Z",
+      "updated_at": "2026-10-04T21:42:28Z",
       "pushed_at": "2026-10-02T03:38:49Z"
-    },
-    {
-      "id": 1403431984,
-      "name": "live-panel-skill",
-      "full_name": "ythx-101/live-panel-skill",
-      "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
-      "html_url": "https://github.com/ythx-101/live-panel-skill",
-      "homepage": null,
-      "stars": 354,
-      "forks": 47,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-03T16:53:36Z",
-      "updated_at": "2026-10-04T16:07:42Z",
-      "pushed_at": "2026-10-03T16:53:42Z"
-    },
-    {
-      "id": 1403115747,
-      "name": "replica-skill",
-      "full_name": "Jakeschincariol/replica-skill",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "html_url": "https://github.com/Jakeschincariol/replica-skill",
-      "homepage": "https://opusjake.ai",
-      "stars": 325,
-      "forks": 26,
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "app-clone",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "indie-hacker",
-        "reverse-engineering",
-        "saas"
-      ],
-      "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-04T15:57:17Z",
-      "pushed_at": "2026-10-03T12:07:53Z"
     },
     {
       "id": 1381875232,
@@ -288,8 +288,8 @@
       "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
       "html_url": "https://github.com/BootLoops-ai/bootloops",
       "homepage": null,
-      "stars": 230,
-      "forks": 46,
+      "stars": 239,
+      "forks": 48,
       "language": "Python",
       "topics": [
         "bootloops",
@@ -299,7 +299,7 @@
         "scientific-computing"
       ],
       "created_at": "2026-10-01T15:29:28Z",
-      "updated_at": "2026-10-04T15:50:55Z",
+      "updated_at": "2026-10-05T02:23:18Z",
       "pushed_at": "2026-10-01T15:29:34Z"
     },
     {
@@ -309,8 +309,8 @@
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "html_url": "https://github.com/blendi-remade/dioramas",
       "homepage": null,
-      "stars": 217,
-      "forks": 24,
+      "stars": 222,
+      "forks": 25,
       "language": "JavaScript",
       "topics": [
         "3d",
@@ -323,7 +323,7 @@
         "webgl"
       ],
       "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-04T15:21:39Z",
+      "updated_at": "2026-10-05T02:04:13Z",
       "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
@@ -417,7 +417,7 @@
       "description": "Microsoft 365: A comprehensive tool that provides a seamless and efficient platform to streamline your professional tasks with its advanced features.",
       "html_url": "https://github.com/ByteInvestigator/Microsoft-365",
       "homepage": null,
-      "stars": 207,
+      "stars": 208,
       "forks": 0,
       "language": null,
       "topics": [
@@ -434,7 +434,7 @@
         "word-excel"
       ],
       "created_at": "2026-10-02T20:04:11Z",
-      "updated_at": "2026-10-04T13:38:52Z",
+      "updated_at": "2026-10-04T22:11:40Z",
       "pushed_at": "2026-10-02T20:04:16Z"
     },
     {
@@ -609,6 +609,21 @@
       "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
+      "id": 1402016280,
+      "name": "nuvex-web",
+      "full_name": "NuvexNetwork/nuvex-web",
+      "description": "The Nuvex website. It does not read chain state and it does not submit transactions.  The protocol, the documentation site, and the off-chain services are separate repositories.",
+      "html_url": "https://github.com/NuvexNetwork/nuvex-web",
+      "homepage": null,
+      "stars": 170,
+      "forks": 41,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-02T15:42:15Z",
+      "updated_at": "2026-10-05T02:49:08Z",
+      "pushed_at": "2026-10-02T22:28:26Z"
+    },
+    {
       "id": 1379117882,
       "name": "ai-manager",
       "full_name": "OnlistTeam/ai-manager",
@@ -622,21 +637,6 @@
       "created_at": "2026-09-21T05:07:53Z",
       "updated_at": "2026-09-24T04:24:32Z",
       "pushed_at": "2026-09-24T02:57:21Z"
-    },
-    {
-      "id": 1402016280,
-      "name": "nuvex-web",
-      "full_name": "NuvexNetwork/nuvex-web",
-      "description": "The Nuvex website. It does not read chain state and it does not submit transactions.  The protocol, the documentation site, and the off-chain services are separate repositories.",
-      "html_url": "https://github.com/NuvexNetwork/nuvex-web",
-      "homepage": null,
-      "stars": 165,
-      "forks": 41,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-02T15:42:15Z",
-      "updated_at": "2026-10-04T15:49:24Z",
-      "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
       "id": 1391423600,
@@ -708,6 +708,21 @@
       "pushed_at": "2026-09-23T22:34:48Z"
     },
     {
+      "id": 1400563899,
+      "name": "procedural-pixel-creatures",
+      "full_name": "idlerunner00/procedural-pixel-creatures",
+      "description": "Godot Tool to create procedural pixel creatures",
+      "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
+      "homepage": null,
+      "stars": 156,
+      "forks": 19,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-10-01T18:39:44Z",
+      "updated_at": "2026-10-05T00:19:38Z",
+      "pushed_at": "2026-10-01T20:28:02Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -723,19 +738,42 @@
       "pushed_at": "2026-09-23T10:48:10Z"
     },
     {
-      "id": 1400563899,
-      "name": "procedural-pixel-creatures",
-      "full_name": "idlerunner00/procedural-pixel-creatures",
-      "description": "Godot Tool to create procedural pixel creatures",
-      "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
+      "id": 1403847264,
+      "name": "mesh-avatar-studio",
+      "full_name": "shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
       "homepage": null,
-      "stars": 149,
-      "forks": 18,
-      "language": "C#",
+      "stars": 151,
+      "forks": 14,
+      "language": "TypeScript",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ],
+      "created_at": "2026-10-04T03:33:57Z",
+      "updated_at": "2026-10-05T02:59:39Z",
+      "pushed_at": "2026-10-04T22:30:05Z"
+    },
+    {
+      "id": 1400877599,
+      "name": "ArkWeb",
+      "full_name": "luki-1/ArkWeb",
+      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
+      "html_url": "https://github.com/luki-1/ArkWeb",
+      "homepage": null,
+      "stars": 141,
+      "forks": 11,
+      "language": "C++",
       "topics": [],
-      "created_at": "2026-10-01T18:39:44Z",
-      "updated_at": "2026-10-04T15:17:37Z",
-      "pushed_at": "2026-10-01T20:28:02Z"
+      "created_at": "2026-10-02T00:59:19Z",
+      "updated_at": "2026-10-05T02:49:15Z",
+      "pushed_at": "2026-10-03T03:53:52Z"
     },
     {
       "id": 1378060456,
@@ -768,19 +806,27 @@
       "pushed_at": "2026-09-28T05:04:35Z"
     },
     {
-      "id": 1400877599,
-      "name": "ArkWeb",
-      "full_name": "luki-1/ArkWeb",
-      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
-      "html_url": "https://github.com/luki-1/ArkWeb",
+      "id": 1403448265,
+      "name": "short-video-generator",
+      "full_name": "dakukibana/short-video-generator",
+      "description": "AI-powered open-source tool that turns long videos into viral-ready shorts with automatic highlights, subtitles, hooks, cropping, translation and voiceover",
+      "html_url": "https://github.com/dakukibana/short-video-generator",
       "homepage": null,
-      "stars": 138,
+      "stars": 137,
       "forks": 11,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-02T00:59:19Z",
-      "updated_at": "2026-10-04T13:53:28Z",
-      "pushed_at": "2026-10-03T03:53:52Z"
+      "language": "Python",
+      "topics": [
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker",
+        "shorts-generator",
+        "tiktok-automation-script",
+        "video-cutter"
+      ],
+      "created_at": "2026-10-03T17:10:43Z",
+      "updated_at": "2026-10-05T02:37:53Z",
+      "pushed_at": "2026-10-03T17:16:17Z"
     },
     {
       "id": 1390688516,
@@ -898,6 +944,21 @@
       "pushed_at": "2026-10-02T12:01:32Z"
     },
     {
+      "id": 1402525166,
+      "name": "Papermorph",
+      "full_name": "DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "html_url": "https://github.com/DozenTwelve/Papermorph",
+      "homepage": null,
+      "stars": 124,
+      "forks": 9,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-03T01:38:22Z",
+      "updated_at": "2026-10-05T01:35:47Z",
+      "pushed_at": "2026-10-04T13:07:42Z"
+    },
+    {
       "id": 1380729698,
       "name": "cogsend",
       "full_name": "deepakness/cogsend",
@@ -955,6 +1016,31 @@
       "pushed_at": "2026-09-22T02:07:03Z"
     },
     {
+      "id": 1403435134,
+      "name": "text-humanizer",
+      "full_name": "gotoanto/text-humanizer",
+      "description": "A multi-language text rewriting tool designed to bypass such ai detection services as GPTZero, Turnitin and more",
+      "html_url": "https://github.com/gotoanto/text-humanizer",
+      "homepage": null,
+      "stars": 113,
+      "forks": 41,
+      "language": "Python",
+      "topics": [
+        "ai-detection",
+        "ai-detection-bypasser",
+        "ai-detector-bypass",
+        "ai-humanizer",
+        "gptzero",
+        "gptzero-bypass",
+        "text-humanization",
+        "turnitin",
+        "turnitin-bypass"
+      ],
+      "created_at": "2026-10-03T16:56:54Z",
+      "updated_at": "2026-10-05T02:31:10Z",
+      "pushed_at": "2026-10-03T17:03:37Z"
+    },
+    {
       "id": 1377674687,
       "name": "jev-webmcp-extension",
       "full_name": "sdras/jev-webmcp-extension",
@@ -997,6 +1083,31 @@
       "created_at": "2026-09-24T10:15:43Z",
       "updated_at": "2026-09-30T13:59:03Z",
       "pushed_at": "2026-09-26T15:32:59Z"
+    },
+    {
+      "id": 1401480940,
+      "name": "qiaomu-clipper",
+      "full_name": "joeseesun/qiaomu-clipper",
+      "description": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
+      "html_url": "https://github.com/joeseesun/qiaomu-clipper",
+      "homepage": "https://rss.qiaomu.ai",
+      "stars": 111,
+      "forks": 20,
+      "language": "TypeScript",
+      "topics": [
+        "ai-chat",
+        "chrome-extension",
+        "markdown",
+        "obsidian",
+        "obsidian-clipper",
+        "read-later",
+        "rss",
+        "typescript",
+        "web-clipper"
+      ],
+      "created_at": "2026-10-02T10:02:23Z",
+      "updated_at": "2026-10-05T02:53:33Z",
+      "pushed_at": "2026-10-04T14:25:31Z"
     },
     {
       "id": 1379139682,
@@ -1248,21 +1359,6 @@
       "pushed_at": "2026-09-25T13:13:11Z"
     },
     {
-      "id": 1402525166,
-      "name": "Papermorph",
-      "full_name": "DozenTwelve/Papermorph",
-      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "html_url": "https://github.com/DozenTwelve/Papermorph",
-      "homepage": null,
-      "stars": 104,
-      "forks": 7,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-03T01:38:22Z",
-      "updated_at": "2026-10-04T16:06:58Z",
-      "pushed_at": "2026-10-04T13:07:42Z"
-    },
-    {
       "id": 1402296638,
       "name": "Claude-Jailbreak-Prompt",
       "full_name": "BoltLoopMattock/Claude-Jailbreak-Prompt",
@@ -1297,29 +1393,6 @@
       "created_at": "2026-09-27T13:05:42Z",
       "updated_at": "2026-10-03T14:52:18Z",
       "pushed_at": "2026-10-03T14:39:31Z"
-    },
-    {
-      "id": 1403847264,
-      "name": "mesh-avatar-studio",
-      "full_name": "shinshin86/mesh-avatar-studio",
-      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
-      "homepage": null,
-      "stars": 103,
-      "forks": 8,
-      "language": "TypeScript",
-      "topics": [
-        "2d-animation",
-        "avatar",
-        "claude-code",
-        "codex",
-        "mesh-deformation",
-        "vtuber",
-        "webgl"
-      ],
-      "created_at": "2026-10-04T03:33:57Z",
-      "updated_at": "2026-10-04T16:02:31Z",
-      "pushed_at": "2026-10-04T03:34:22Z"
     },
     {
       "id": 1377581532,
@@ -1363,31 +1436,6 @@
       "created_at": "2026-09-24T15:16:59Z",
       "updated_at": "2026-09-28T09:40:13Z",
       "pushed_at": "2026-09-24T15:17:46Z"
-    },
-    {
-      "id": 1401480940,
-      "name": "qiaomu-clipper",
-      "full_name": "joeseesun/qiaomu-clipper",
-      "description": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
-      "html_url": "https://github.com/joeseesun/qiaomu-clipper",
-      "homepage": "https://rss.qiaomu.ai",
-      "stars": 99,
-      "forks": 17,
-      "language": "TypeScript",
-      "topics": [
-        "ai-chat",
-        "chrome-extension",
-        "markdown",
-        "obsidian",
-        "obsidian-clipper",
-        "read-later",
-        "rss",
-        "typescript",
-        "web-clipper"
-      ],
-      "created_at": "2026-10-02T10:02:23Z",
-      "updated_at": "2026-10-04T15:45:48Z",
-      "pushed_at": "2026-10-04T14:25:31Z"
     },
     {
       "id": 1386267511,
@@ -1728,6 +1776,30 @@
       "pushed_at": "2026-09-29T20:28:47Z"
     },
     {
+      "id": 1396702546,
+      "name": "HushGram",
+      "full_name": "SysAdminDoc/HushGram",
+      "description": "HushGram v0.0.5: Morphe patches for Instagram on Android that hide ads and suggested posts, clean the links you share and stop analytics uploads. 48 patches for Instagram 449.0.0.52.84.",
+      "html_url": "https://github.com/SysAdminDoc/HushGram",
+      "homepage": null,
+      "stars": 68,
+      "forks": 1,
+      "language": "Java",
+      "topics": [
+        "ad-blocker",
+        "android",
+        "customization",
+        "instagram",
+        "morphe",
+        "morphe-patches",
+        "patches",
+        "privacy"
+      ],
+      "created_at": "2026-09-29T23:20:20Z",
+      "updated_at": "2026-10-05T02:24:13Z",
+      "pushed_at": "2026-10-04T10:41:52Z"
+    },
+    {
       "id": 1375694442,
       "name": "Jev-Case",
       "full_name": "Hiwoniu/Jev-Case",
@@ -1758,30 +1830,6 @@
       "pushed_at": "2026-10-02T21:20:30Z"
     },
     {
-      "id": 1396702546,
-      "name": "HushGram",
-      "full_name": "SysAdminDoc/HushGram",
-      "description": "HushGram v0.0.5: Morphe patches for Instagram on Android that hide ads and suggested posts, clean the links you share and stop analytics uploads. 48 patches for Instagram 449.0.0.52.84.",
-      "html_url": "https://github.com/SysAdminDoc/HushGram",
-      "homepage": null,
-      "stars": 65,
-      "forks": 1,
-      "language": "Java",
-      "topics": [
-        "ad-blocker",
-        "android",
-        "customization",
-        "instagram",
-        "morphe",
-        "morphe-patches",
-        "patches",
-        "privacy"
-      ],
-      "created_at": "2026-09-29T23:20:20Z",
-      "updated_at": "2026-10-04T15:58:24Z",
-      "pushed_at": "2026-10-04T10:41:52Z"
-    },
-    {
       "id": 1388637178,
       "name": "steam-frame-6ghz-tool",
       "full_name": "toorux/steam-frame-6ghz-tool",
@@ -1797,28 +1845,13 @@
       "pushed_at": "2026-10-01T02:21:11Z"
     },
     {
-      "id": 1387598614,
-      "name": "fluidplan",
-      "full_name": "morganhub/fluidplan",
-      "description": "Plan visualization for Claude",
-      "html_url": "https://github.com/morganhub/fluidplan",
-      "homepage": null,
-      "stars": 63,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-25T13:53:14Z",
-      "updated_at": "2026-09-28T23:09:22Z",
-      "pushed_at": "2026-09-26T13:37:48Z"
-    },
-    {
       "id": 1396871330,
       "name": "Flash-USDT-Tool",
       "full_name": "shelby2006/Flash-USDT-Tool",
       "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
       "html_url": "https://github.com/shelby2006/Flash-USDT-Tool",
       "homepage": null,
-      "stars": 63,
+      "stars": 64,
       "forks": 10,
       "language": "Python",
       "topics": [
@@ -1844,8 +1877,38 @@
         "wallet-finder-crypto"
       ],
       "created_at": "2026-09-30T02:50:26Z",
-      "updated_at": "2026-10-04T16:01:52Z",
-      "pushed_at": "2026-10-04T16:01:49Z"
+      "updated_at": "2026-10-05T02:56:40Z",
+      "pushed_at": "2026-10-05T02:56:36Z"
+    },
+    {
+      "id": 1387598614,
+      "name": "fluidplan",
+      "full_name": "morganhub/fluidplan",
+      "description": "Plan visualization for Claude",
+      "html_url": "https://github.com/morganhub/fluidplan",
+      "homepage": null,
+      "stars": 63,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-25T13:53:14Z",
+      "updated_at": "2026-09-28T23:09:22Z",
+      "pushed_at": "2026-09-26T13:37:48Z"
+    },
+    {
+      "id": 1399863517,
+      "name": "sts2-web",
+      "full_name": "moonrailgun/sts2-web",
+      "description": "",
+      "html_url": "https://github.com/moonrailgun/sts2-web",
+      "homepage": "https://sts2.moonrailgun.com",
+      "stars": 63,
+      "forks": 19,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-01T11:46:25Z",
+      "updated_at": "2026-10-05T02:22:28Z",
+      "pushed_at": "2026-10-04T17:41:41Z"
     },
     {
       "id": 1400269105,
@@ -2131,6 +2194,32 @@
       "pushed_at": "2026-09-28T16:39:05Z"
     },
     {
+      "id": 1403848767,
+      "name": "Porpoise-Dolphin-Emulator-for-PS5",
+      "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
+      "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "homepage": "https://www.elripalda.com",
+      "stars": 56,
+      "forks": 7,
+      "language": "C++",
+      "topics": [
+        "dolphin",
+        "dolphin-emulator",
+        "emulator",
+        "gamecube",
+        "homebrew",
+        "libretro",
+        "ps5",
+        "ps5-homebrew",
+        "vulkan",
+        "wii"
+      ],
+      "created_at": "2026-10-04T03:36:16Z",
+      "updated_at": "2026-10-05T02:19:00Z",
+      "pushed_at": "2026-10-05T01:29:38Z"
+    },
+    {
       "id": 1391635046,
       "name": "awesome-cloud-emulators",
       "full_name": "upgundecha/awesome-cloud-emulators",
@@ -2196,19 +2285,19 @@
       "pushed_at": "2026-09-28T16:33:04Z"
     },
     {
-      "id": 1399863517,
-      "name": "sts2-web",
-      "full_name": "moonrailgun/sts2-web",
-      "description": "",
-      "html_url": "https://github.com/moonrailgun/sts2-web",
-      "homepage": "https://sts2.moonrailgun.com",
+      "id": 1398599398,
+      "name": "ThiepCuoi",
+      "full_name": "phamduybk/ThiepCuoi",
+      "description": "Thiệp cưới online tự host cho mọi người",
+      "html_url": "https://github.com/phamduybk/ThiepCuoi",
+      "homepage": null,
       "stars": 55,
-      "forks": 17,
-      "language": "TypeScript",
+      "forks": 39,
+      "language": "PHP",
       "topics": [],
-      "created_at": "2026-10-01T11:46:25Z",
-      "updated_at": "2026-10-04T16:05:37Z",
-      "pushed_at": "2026-10-04T14:58:05Z"
+      "created_at": "2026-09-30T18:35:30Z",
+      "updated_at": "2026-10-05T03:00:59Z",
+      "pushed_at": "2026-10-04T03:11:32Z"
     },
     {
       "id": 1399838098,
@@ -2341,6 +2430,42 @@
       "pushed_at": "2026-10-01T08:27:40Z"
     },
     {
+      "id": 1400284027,
+      "name": "Snitch",
+      "full_name": "aixisstudio/Snitch",
+      "description": "Real-time network traffic visualizer — see every connection your computer makes. Privacy-first, 100% local. / Visualiseur de trafic réseau en temps réel, 100% local.",
+      "html_url": "https://github.com/aixisstudio/Snitch",
+      "homepage": "https://aixisstudio.github.io/Snitch/",
+      "stars": 53,
+      "forks": 4,
+      "language": "Python",
+      "topics": [
+        "bandwidth-monitor",
+        "cybersecurity",
+        "d3js",
+        "electron",
+        "fastapi",
+        "linux",
+        "little-snitch-alternative",
+        "macos",
+        "network-monitor",
+        "network-security",
+        "network-visualization",
+        "packet-capture",
+        "pcap",
+        "pinokio",
+        "privacy",
+        "react",
+        "self-hosted",
+        "traffic-analysis",
+        "traffic-monitor",
+        "windows"
+      ],
+      "created_at": "2026-10-01T15:47:55Z",
+      "updated_at": "2026-10-05T00:11:26Z",
+      "pushed_at": "2026-10-03T11:50:37Z"
+    },
+    {
       "id": 1379547345,
       "name": "monero-web-wallet",
       "full_name": "AMLChecker/monero-web-wallet",
@@ -2383,7 +2508,7 @@
       "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
       "html_url": "https://github.com/Moris-kr/ai-chatroom",
       "homepage": null,
-      "stars": 50,
+      "stars": 51,
       "forks": 9,
       "language": "JavaScript",
       "topics": [
@@ -2409,7 +2534,7 @@
         "weeb"
       ],
       "created_at": "2026-09-29T03:42:10Z",
-      "updated_at": "2026-10-04T00:59:30Z",
+      "updated_at": "2026-10-04T19:29:27Z",
       "pushed_at": "2026-09-29T05:16:14Z"
     },
     {
@@ -2440,6 +2565,21 @@
       "created_at": "2026-09-28T16:38:30Z",
       "updated_at": "2026-10-04T15:51:18Z",
       "pushed_at": "2026-09-28T16:39:38Z"
+    },
+    {
+      "id": 1394401316,
+      "name": "personal-resume-web-show",
+      "full_name": "everynight31/personal-resume-web-show",
+      "description": "",
+      "html_url": "https://github.com/everynight31/personal-resume-web-show",
+      "homepage": null,
+      "stars": 50,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-29T05:23:50Z",
+      "updated_at": "2026-10-05T00:59:14Z",
+      "pushed_at": "2026-09-29T08:21:53Z"
     },
     {
       "id": 1392926487,
@@ -2598,21 +2738,6 @@
       "pushed_at": "2026-10-02T01:13:37Z"
     },
     {
-      "id": 1394401316,
-      "name": "personal-resume-web-show",
-      "full_name": "everynight31/personal-resume-web-show",
-      "description": "",
-      "html_url": "https://github.com/everynight31/personal-resume-web-show",
-      "homepage": null,
-      "stars": 46,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-29T05:23:50Z",
-      "updated_at": "2026-10-04T12:31:02Z",
-      "pushed_at": "2026-09-29T08:21:53Z"
-    },
-    {
       "id": 1393261824,
       "name": "nano-banana-reverse-api-fr",
       "full_name": "apimartds0g/nano-banana-reverse-api-fr",
@@ -2642,40 +2767,27 @@
       "pushed_at": "2026-09-28T16:31:08Z"
     },
     {
-      "id": 1400284027,
-      "name": "Snitch",
-      "full_name": "aixisstudio/Snitch",
-      "description": "Real-time network traffic visualizer — see every connection your computer makes. Privacy-first, 100% local. / Visualiseur de trafic réseau en temps réel, 100% local.",
-      "html_url": "https://github.com/aixisstudio/Snitch",
-      "homepage": "https://aixisstudio.github.io/Snitch/",
+      "id": 1399378829,
+      "name": "proxy-farm",
+      "full_name": "huuhoa143/proxy-farm",
+      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
+      "html_url": "https://github.com/huuhoa143/proxy-farm",
+      "homepage": null,
       "stars": 46,
-      "forks": 3,
-      "language": "Python",
+      "forks": 33,
+      "language": "HTML",
       "topics": [
-        "bandwidth-monitor",
-        "cybersecurity",
-        "d3js",
-        "electron",
-        "fastapi",
-        "linux",
-        "little-snitch-alternative",
-        "macos",
-        "network-monitor",
-        "network-security",
-        "network-visualization",
-        "packet-capture",
-        "pcap",
-        "pinokio",
-        "privacy",
-        "react",
-        "self-hosted",
-        "traffic-analysis",
-        "traffic-monitor",
-        "windows"
+        "docker",
+        "hma",
+        "ipsec",
+        "proxy",
+        "socks5",
+        "vpn",
+        "wireguard"
       ],
-      "created_at": "2026-10-01T15:47:55Z",
-      "updated_at": "2026-10-04T15:50:01Z",
-      "pushed_at": "2026-10-03T11:50:37Z"
+      "created_at": "2026-10-01T07:10:36Z",
+      "updated_at": "2026-10-05T01:36:29Z",
+      "pushed_at": "2026-10-04T13:03:08Z"
     },
     {
       "id": 1376092823,
@@ -2714,29 +2826,6 @@
       "created_at": "2026-09-26T00:58:58Z",
       "updated_at": "2026-10-02T13:46:58Z",
       "pushed_at": "2026-09-30T13:38:19Z"
-    },
-    {
-      "id": 1399378829,
-      "name": "proxy-farm",
-      "full_name": "huuhoa143/proxy-farm",
-      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
-      "html_url": "https://github.com/huuhoa143/proxy-farm",
-      "homepage": null,
-      "stars": 45,
-      "forks": 30,
-      "language": "HTML",
-      "topics": [
-        "docker",
-        "hma",
-        "ipsec",
-        "proxy",
-        "socks5",
-        "vpn",
-        "wireguard"
-      ],
-      "created_at": "2026-10-01T07:10:36Z",
-      "updated_at": "2026-10-04T14:25:07Z",
-      "pushed_at": "2026-10-04T13:03:08Z"
     },
     {
       "id": 1397433953,
@@ -2873,6 +2962,31 @@
       "pushed_at": "2026-09-30T15:35:37Z"
     },
     {
+      "id": 1403805593,
+      "name": "pi-pocket",
+      "full_name": "TannerMidd/pi-pocket",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "html_url": "https://github.com/TannerMidd/pi-pocket",
+      "homepage": "https://tannermidd.github.io/pi-pocket/",
+      "stars": 41,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "coding-agent",
+        "mobile",
+        "multiplayer",
+        "omarchy",
+        "pi",
+        "pi-durable",
+        "pwa",
+        "self-hosted"
+      ],
+      "created_at": "2026-10-04T02:29:57Z",
+      "updated_at": "2026-10-05T02:59:10Z",
+      "pushed_at": "2026-10-05T01:44:14Z"
+    },
+    {
       "id": 1378383465,
       "name": "agent-builder-skills",
       "full_name": "minorun365/agent-builder-skills",
@@ -2931,19 +3045,19 @@
       "pushed_at": "2026-10-04T06:07:15Z"
     },
     {
-      "id": 1398599398,
-      "name": "ThiepCuoi",
-      "full_name": "phamduybk/ThiepCuoi",
-      "description": "Thiệp cưới online tự host cho mọi người",
-      "html_url": "https://github.com/phamduybk/ThiepCuoi",
+      "id": 1398602037,
+      "name": "sdr-dtv-poc",
+      "full_name": "hayatky/sdr-dtv-poc",
+      "description": "Experimental SDR digital TV receiver PoC with a web UI for channel scanning, viewing, and short TS recordings.",
+      "html_url": "https://github.com/hayatky/sdr-dtv-poc",
       "homepage": null,
       "stars": 40,
-      "forks": 31,
-      "language": "PHP",
+      "forks": 3,
+      "language": "Python",
       "topics": [],
-      "created_at": "2026-09-30T18:35:30Z",
-      "updated_at": "2026-10-04T15:53:19Z",
-      "pushed_at": "2026-10-04T03:11:32Z"
+      "created_at": "2026-09-30T18:37:59Z",
+      "updated_at": "2026-10-05T02:41:50Z",
+      "pushed_at": "2026-10-04T16:51:12Z"
     },
     {
       "id": 1382790500,
@@ -2998,32 +3112,6 @@
       "pushed_at": "2026-09-30T02:22:23Z"
     },
     {
-      "id": 1403848767,
-      "name": "Porpoise",
-      "full_name": "elripalda/Porpoise",
-      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
-      "html_url": "https://github.com/elripalda/Porpoise",
-      "homepage": "https://www.elripalda.com",
-      "stars": 38,
-      "forks": 5,
-      "language": "C++",
-      "topics": [
-        "dolphin",
-        "dolphin-emulator",
-        "emulator",
-        "gamecube",
-        "homebrew",
-        "libretro",
-        "ps5",
-        "ps5-homebrew",
-        "vulkan",
-        "wii"
-      ],
-      "created_at": "2026-10-04T03:36:16Z",
-      "updated_at": "2026-10-04T15:25:44Z",
-      "pushed_at": "2026-10-04T09:32:28Z"
-    },
-    {
       "id": 1377304402,
       "name": "tmon",
       "full_name": "khangzxrr/tmon",
@@ -3037,6 +3125,37 @@
       "created_at": "2026-09-19T15:16:41Z",
       "updated_at": "2026-09-23T00:30:12Z",
       "pushed_at": "2026-09-19T17:40:42Z"
+    },
+    {
+      "id": 1395215215,
+      "name": "awesome-tauri-apps",
+      "full_name": "chrysler-stone/awesome-tauri-apps",
+      "description": "Curated list of desktop and mobile apps built with Tauri.",
+      "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
+      "homepage": null,
+      "stars": 36,
+      "forks": 15,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "desktop",
+        "javascript",
+        "linux",
+        "macos",
+        "multiplatform",
+        "rust",
+        "svelte",
+        "tauri",
+        "typescript",
+        "vue",
+        "web",
+        "web-development",
+        "windows"
+      ],
+      "created_at": "2026-09-29T12:28:07Z",
+      "updated_at": "2026-10-04T21:10:41Z",
+      "pushed_at": "2026-10-04T07:26:12Z"
     },
     {
       "id": 1395203963,
@@ -3194,37 +3313,6 @@
       "created_at": "2026-09-27T13:18:25Z",
       "updated_at": "2026-10-03T22:08:38Z",
       "pushed_at": "2026-09-30T12:48:50Z"
-    },
-    {
-      "id": 1395215215,
-      "name": "awesome-tauri-apps",
-      "full_name": "chrysler-stone/awesome-tauri-apps",
-      "description": "Curated list of desktop and mobile apps built with Tauri.",
-      "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "homepage": null,
-      "stars": 32,
-      "forks": 15,
-      "language": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "desktop",
-        "javascript",
-        "linux",
-        "macos",
-        "multiplatform",
-        "rust",
-        "svelte",
-        "tauri",
-        "typescript",
-        "vue",
-        "web",
-        "web-development",
-        "windows"
-      ],
-      "created_at": "2026-09-29T12:28:07Z",
-      "updated_at": "2026-10-03T23:28:28Z",
-      "pushed_at": "2026-10-03T15:10:56Z"
     },
     {
       "id": 1392926470,
@@ -3554,8 +3642,8 @@
         "indesign-key"
       ],
       "created_at": "2026-10-02T01:30:37Z",
-      "updated_at": "2026-10-04T12:03:27Z",
-      "pushed_at": "2026-10-04T12:03:23Z"
+      "updated_at": "2026-10-04T22:54:36Z",
+      "pushed_at": "2026-10-04T22:54:32Z"
     },
     {
       "id": 1389788067,
@@ -3684,6 +3772,21 @@
       "pushed_at": "2026-09-26T13:30:37Z"
     },
     {
+      "id": 1401877870,
+      "name": "maison",
+      "full_name": "bnlqn/maison",
+      "description": "A Home Assistant dashboard built as one custom element. A reference, not a plug-and-play card.",
+      "html_url": "https://github.com/bnlqn/maison",
+      "homepage": null,
+      "stars": 23,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-02T14:22:00Z",
+      "updated_at": "2026-10-04T21:00:12Z",
+      "pushed_at": "2026-10-02T14:22:08Z"
+    },
+    {
       "id": 1384491277,
       "name": "serv-s-quick-video-clip-editor-sqvce-",
       "full_name": "s3rville/serv-s-quick-video-clip-editor-sqvce-",
@@ -3770,8 +3873,8 @@
         "revit-windows"
       ],
       "created_at": "2026-10-02T00:35:59Z",
-      "updated_at": "2026-10-04T13:44:23Z",
-      "pushed_at": "2026-10-04T13:44:19Z"
+      "updated_at": "2026-10-05T00:28:35Z",
+      "pushed_at": "2026-10-05T00:28:32Z"
     },
     {
       "id": 1400910219,
@@ -3789,23 +3892,8 @@
         "windows-injector"
       ],
       "created_at": "2026-10-02T01:49:52Z",
-      "updated_at": "2026-10-04T13:47:54Z",
-      "pushed_at": "2026-10-04T13:47:50Z"
-    },
-    {
-      "id": 1401877870,
-      "name": "maison",
-      "full_name": "bnlqn/maison",
-      "description": "A Home Assistant dashboard built as one custom element. A reference, not a plug-and-play card.",
-      "html_url": "https://github.com/bnlqn/maison",
-      "homepage": null,
-      "stars": 21,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-02T14:22:00Z",
-      "updated_at": "2026-10-04T13:04:11Z",
-      "pushed_at": "2026-10-02T14:22:08Z"
+      "updated_at": "2026-10-04T22:52:25Z",
+      "pushed_at": "2026-10-04T22:52:22Z"
     },
     {
       "id": 1379231612,
@@ -3823,6 +3911,21 @@
       "created_at": "2026-09-21T06:51:32Z",
       "updated_at": "2026-09-23T20:08:40Z",
       "pushed_at": "2026-09-23T20:09:36Z"
+    },
+    {
+      "id": 1403906789,
+      "name": "alpha-meme-radar",
+      "full_name": "ziqing888/alpha-meme-radar",
+      "description": "Multi-chain MEME radar with deterministic evidence, ARC Mainnet monitoring, and isolated execution boundaries",
+      "html_url": "https://github.com/ziqing888/alpha-meme-radar",
+      "homepage": null,
+      "stars": 19,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-04T04:48:55Z",
+      "updated_at": "2026-10-05T00:10:32Z",
+      "pushed_at": "2026-10-04T06:32:32Z"
     },
     {
       "id": 1387292246,
@@ -3965,8 +4068,8 @@
         "windows"
       ],
       "created_at": "2026-09-29T16:13:33Z",
-      "updated_at": "2026-10-04T15:20:55Z",
-      "pushed_at": "2026-10-04T15:20:39Z"
+      "updated_at": "2026-10-04T21:46:30Z",
+      "pushed_at": "2026-10-04T21:47:00Z"
     },
     {
       "id": 1378545590,
@@ -4131,8 +4234,8 @@
         "how-to-install-acunetix"
       ],
       "created_at": "2026-10-02T02:58:40Z",
-      "updated_at": "2026-10-04T13:38:37Z",
-      "pushed_at": "2026-10-04T13:38:33Z"
+      "updated_at": "2026-10-05T00:24:38Z",
+      "pushed_at": "2026-10-05T00:24:35Z"
     },
     {
       "id": 1402374485,
@@ -4142,7 +4245,7 @@
       "html_url": "https://github.com/mendebur-lemur/lemur-light-effect-card",
       "homepage": null,
       "stars": 14,
-      "forks": 0,
+      "forks": 1,
       "language": "JavaScript",
       "topics": [
         "hacs",
@@ -4153,8 +4256,32 @@
         "lovelace-custom-card"
       ],
       "created_at": "2026-10-02T21:29:05Z",
-      "updated_at": "2026-10-04T15:51:04Z",
-      "pushed_at": "2026-10-04T15:51:01Z"
+      "updated_at": "2026-10-05T02:16:34Z",
+      "pushed_at": "2026-10-05T02:16:31Z"
+    },
+    {
+      "id": 1401600991,
+      "name": "tinycoral",
+      "full_name": "FrederikRogalski/tinycoral",
+      "description": "tinygrad on Google's Coral Edge TPU: reverse-engineered ISA, our own code generator and USB driver. A whole transformer runs on the stick. Written by AI agents.",
+      "html_url": "https://github.com/FrederikRogalski/tinycoral",
+      "homepage": null,
+      "stars": 14,
+      "forks": 3,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "compiler",
+        "coral",
+        "edge-tpu",
+        "llm",
+        "reverse-engineering",
+        "tinygrad",
+        "tpu"
+      ],
+      "created_at": "2026-10-02T11:44:13Z",
+      "updated_at": "2026-10-04T21:25:54Z",
+      "pushed_at": "2026-10-04T15:47:29Z"
     },
     {
       "id": 1379722239,
@@ -4251,19 +4378,44 @@
       "pushed_at": "2026-10-02T10:35:17Z"
     },
     {
-      "id": 1403906789,
-      "name": "alpha-meme-radar",
-      "full_name": "ziqing888/alpha-meme-radar",
-      "description": "Multi-chain MEME radar with deterministic evidence, ARC Mainnet monitoring, and isolated execution boundaries",
-      "html_url": "https://github.com/ziqing888/alpha-meme-radar",
+      "id": 1395774256,
+      "name": "phonsint",
+      "full_name": "kaifcodec/phonsint",
+      "description": "🕵️‍♂️ Advanced phone number OSINT suite engineered for silent reconnaissance. Extracts masked emails, profile avatars and  uncovers cross-platform account registrations, and enriches identity footprints with zero SMS alerts.",
+      "html_url": "https://github.com/kaifcodec/phonsint",
       "homepage": null,
       "stars": 13,
-      "forks": 3,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "cybersecurity",
+        "cybersecurity-tools",
+        "osint",
+        "osint-tool",
+        "osint-tools",
+        "phone-osint",
+        "reconnaissance",
+        "threat-detection",
+        "threat-intelligence"
+      ],
+      "created_at": "2026-09-29T15:32:42Z",
+      "updated_at": "2026-10-04T12:14:50Z",
+      "pushed_at": "2026-09-30T11:37:04Z"
+    },
+    {
+      "id": 1399093590,
+      "name": "mlsubgen",
+      "full_name": "dodgypast/mlsubgen",
+      "description": "Multi-Language subtitle generator",
+      "html_url": "https://github.com/dodgypast/mlsubgen",
+      "homepage": null,
+      "stars": 13,
+      "forks": 2,
       "language": "Python",
       "topics": [],
-      "created_at": "2026-10-04T04:48:55Z",
-      "updated_at": "2026-10-04T16:08:53Z",
-      "pushed_at": "2026-10-04T06:32:32Z"
+      "created_at": "2026-10-01T04:28:10Z",
+      "updated_at": "2026-10-04T17:20:58Z",
+      "pushed_at": "2026-10-04T08:27:00Z"
     },
     {
       "id": 1380788494,
@@ -4387,8 +4539,8 @@
         "psd-generator"
       ],
       "created_at": "2026-10-02T01:01:11Z",
-      "updated_at": "2026-10-04T00:16:26Z",
-      "pushed_at": "2026-10-04T00:16:22Z"
+      "updated_at": "2026-10-05T00:19:55Z",
+      "pushed_at": "2026-10-05T00:19:51Z"
     },
     {
       "id": 1400970622,
@@ -4408,8 +4560,8 @@
         "genp"
       ],
       "created_at": "2026-10-02T02:59:28Z",
-      "updated_at": "2026-10-04T00:21:41Z",
-      "pushed_at": "2026-10-04T00:21:37Z"
+      "updated_at": "2026-10-05T00:27:00Z",
+      "pushed_at": "2026-10-05T00:26:56Z"
     },
     {
       "id": 1400921655,
@@ -4428,6 +4580,42 @@
       "created_at": "2026-10-02T02:06:12Z",
       "updated_at": "2026-10-04T00:24:48Z",
       "pushed_at": "2026-10-04T00:24:45Z"
+    },
+    {
+      "id": 1402658180,
+      "name": "dompetku",
+      "full_name": "ilramdhan/dompetku",
+      "description": "Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net worth, Telegram bot, receipt OCR, 2FA and backups.",
+      "html_url": "https://github.com/ilramdhan/dompetku",
+      "homepage": "https://dompetku.ilramdhan.dev",
+      "stars": 11,
+      "forks": 8,
+      "language": "TypeScript",
+      "topics": [
+        "budget-tracker",
+        "expense-tracker",
+        "finance-tracker",
+        "income-tracker",
+        "money-management",
+        "money-tracker",
+        "n8n",
+        "open-source",
+        "personal-finance",
+        "pwa",
+        "react",
+        "receipt-ocr",
+        "self-hosted",
+        "shadcn-ui",
+        "supabase",
+        "tailwindcss",
+        "tanstack-start",
+        "telegram-bot",
+        "typescript",
+        "vercel"
+      ],
+      "created_at": "2026-10-03T04:31:00Z",
+      "updated_at": "2026-10-05T02:31:40Z",
+      "pushed_at": "2026-10-04T15:47:13Z"
     },
     {
       "id": 1387641647,
@@ -4511,31 +4699,6 @@
       "created_at": "2026-09-29T05:40:12Z",
       "updated_at": "2026-10-01T03:06:12Z",
       "pushed_at": "2026-10-01T03:06:07Z"
-    },
-    {
-      "id": 1395774256,
-      "name": "phonsint",
-      "full_name": "kaifcodec/phonsint",
-      "description": "🕵️‍♂️ Advanced phone number OSINT suite engineered for silent reconnaissance. Extracts masked emails, profile avatars and  uncovers cross-platform account registrations, and enriches identity footprints with zero SMS alerts.",
-      "html_url": "https://github.com/kaifcodec/phonsint",
-      "homepage": null,
-      "stars": 9,
-      "forks": 1,
-      "language": "Python",
-      "topics": [
-        "cybersecurity",
-        "cybersecurity-tools",
-        "osint",
-        "osint-tool",
-        "osint-tools",
-        "phone-osint",
-        "reconnaissance",
-        "threat-detection",
-        "threat-intelligence"
-      ],
-      "created_at": "2026-09-29T15:32:42Z",
-      "updated_at": "2026-10-02T21:10:05Z",
-      "pushed_at": "2026-09-30T11:37:04Z"
     },
     {
       "id": 1394692773,
