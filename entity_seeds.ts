@@ -6,7 +6,8 @@
 export interface EntitySeed {
   entity: string;
   displayName: string;
-  category: "AI视频与生图" | "大语言模型与代码助手" | "AI音频与音乐" | "出海B2C与社媒神器";
+  aliases?: string[];
+  category: "AI视频与生图" | "大语言模型与代码助手" | "AI音频与音乐" | "出海B2C与社媒神器" | "小游戏与泛娱乐";
   description: string;
   suggestedActionType: string;
 }
@@ -74,6 +75,7 @@ export const ENTITY_SEEDS: EntitySeed[] = [
   {
     entity: "anthropic",
     displayName: "Anthropic / Claude",
+    aliases: ["anthropic api", "claude 3.5", "claude sonnet"],
     category: "大语言模型与代码助手",
     description: "Claude 3.5 Sonnet / 5.5 系列，代码与复杂推理最强",
     suggestedActionType: "Claude Artifacts 预览工具 / 系统 Prompts 库"
@@ -81,6 +83,7 @@ export const ENTITY_SEEDS: EntitySeed[] = [
   {
     entity: "claude",
     displayName: "Claude",
+    aliases: ["claude code", "claude api", "claude artifacts"],
     category: "大语言模型与代码助手",
     description: "Claude 生态周边与各类衍生工具",
     suggestedActionType: "Claude 效率插件与格式转换工具"
@@ -88,6 +91,7 @@ export const ENTITY_SEEDS: EntitySeed[] = [
   {
     entity: "openai",
     displayName: "OpenAI / ChatGPT",
+    aliases: ["chatgpt", "openai api", "gpt-4o", "chatgpt o1"],
     category: "大语言模型与代码助手",
     description: "GPT-4o, o1, o3-mini 及模型周边动向",
     suggestedActionType: "GPTs 发现导航 / 免登录逆向助手"
@@ -95,6 +99,7 @@ export const ENTITY_SEEDS: EntitySeed[] = [
   {
     entity: "mistral ai",
     displayName: "Mistral AI",
+    aliases: ["mistral", "codestral"],
     category: "大语言模型与代码助手",
     description: "欧洲开源模型巨头 (Codestral, Pixtral, Pimento 等新动向)",
     suggestedActionType: "Mistral 本地部署脚本与在线体验壳"
@@ -102,6 +107,7 @@ export const ENTITY_SEEDS: EntitySeed[] = [
   {
     entity: "deepseek",
     displayName: "DeepSeek",
+    aliases: ["deepseek api", "deepseek coder", "deepseek v2.5"],
     category: "大语言模型与代码助手",
     description: "极致性价比开源大模型 (DeepSeek-V2.5 / Coder)",
     suggestedActionType: "DeepSeek API 价格计算器 / 格式转换中间件"
@@ -109,9 +115,10 @@ export const ENTITY_SEEDS: EntitySeed[] = [
   {
     entity: "cursor ai",
     displayName: "Cursor AI",
+    aliases: ["cursor", "cursor ide"],
     category: "大语言模型与代码助手",
-    description: "AI 编程编辑器，.cursorrules 成为全球顶流生态",
-    suggestedActionType: ".cursorrules 一键生成器 / 快捷规则社区"
+    description: "AI 编程编辑器，.cursorrules 与 BYOK 自带 Key 成为全球顶流生态",
+    suggestedActionType: ".cursorrules 一键生成器 / BYOK 配置与 API 代理导航"
   },
   {
     entity: "notebooklm",
@@ -223,6 +230,36 @@ export const ENTITY_SEEDS: EntitySeed[] = [
     category: "大语言模型与代码助手",
     description: "Kimi 长文本大模型、多模态与出海助手生态",
     suggestedActionType: "Kimi 提效提示词库 / 长文本助手衍生单页"
+  },
+
+  // 5. 小游戏与泛娱乐出海 (Gaming & Entertainment)
+  {
+    entity: "roblox codes",
+    displayName: "Roblox 兑换码生态 (Codes)",
+    category: "小游戏与泛娱乐",
+    description: "千万级日活的 Roblox 各子游戏礼包码与活动",
+    suggestedActionType: "Roblox 实时兑换码聚合页 / 游戏维基导航"
+  },
+  {
+    entity: "pokemon bundle",
+    displayName: "宝可梦周边与集换卡 (Pokemon TCG)",
+    category: "小游戏与泛娱乐",
+    description: "Pokemon 周年庆、卡包集换与价格比对",
+    suggestedActionType: "卡牌价格走势追踪与开包模拟器"
+  },
+  {
+    entity: "indie game wiki",
+    displayName: "Steam 独立爆款与维基攻略",
+    category: "小游戏与泛娱乐",
+    description: "Steam 独立游戏（如 Deadlock、吸血鬼幸存者类）Builds 与 Wiki",
+    suggestedActionType: "轻量攻略 Wiki 与角色加点配置器"
+  },
+  {
+    entity: "casual puzzle pwa",
+    displayName: "轻量数独与解压小游戏",
+    category: "小游戏与泛娱乐",
+    description: "无须下载、即点即玩的休闲益智小游戏与脑洞工具",
+    suggestedActionType: "Canvas 纯前端 H5 免安装即玩小游戏"
   }
 ];
 

@@ -1,0 +1,961 @@
+{
+  "overview": {
+    "keywordDb": {
+      "total": 12132,
+      "todayNew": 355,
+      "reSurging": 495,
+      "updatedAt": "2026-10-07 04:14",
+      "description": "每24小时从互联网抓取500多个新词，提取出新词库、二次爆火词库、长尾词库三大块。",
+      "bullets": [
+        "追踪新词特征，每个词都有线下落地场景",
+        "服务小众创业、用于出海和做垂直站",
+        "重点提取包含商业价值行业词：如游戏出海、独立开发、多小创意"
+      ]
+    },
+    "hnNew": {
+      "total": 732,
+      "last7Days": 493,
+      "last24Hours": 28,
+      "updatedAt": "2026-10-07 04:14",
+      "description": "Hacker News 上每天新发布的项目；提取几千个公开、伪匿名讨论——判断关键量，巨大热度新词，找入局机会与入局时机。",
+      "bullets": [
+        "提取社区讨论背后在做甚么",
+        "某一件事情火热后，上面往往会跟进",
+        "决策入局速度更快"
+      ]
+    },
+    "hostedSites": {
+      "total": 21640,
+      "latestCycle": 1492,
+      "pioneers": 25281,
+      "updatedAt": "2026-10-06 17:13",
+      "description": "vercel.app、github.io、pages.dev 等各托管平台上最新自动化爬取的站点：每个新站小项目，早期小流量。",
+      "bullets": [
+        "监控它们开始在哪些搜索引擎有了初期流量",
+        "通过爬虫发现早期低成本低竞争样本",
+        "投资回报比极高的新站、适合小团队跟进"
+      ]
+    }
+  },
+  "batches": [
+    {
+      "id": "batch-20261007-0414",
+      "timestamp": "2026-10-07T04:14:00Z",
+      "dateLabel": "10-07 04:14",
+      "relativeTime": "2 小时前",
+      "badges": {
+        "newWords": 12,
+        "reSurging": 14,
+        "games": 13,
+        "pushed": 18
+      },
+      "metricsSummary": {
+        "reviewedCandidates": 123,
+        "gamesCount": 57,
+        "wordsAdded": 443,
+        "serpChecked": 150,
+        "valuableCount": 108,
+        "hnNewCount": 140,
+        "durationMinutes": 85
+      },
+      "categories": {
+        "newWords": [
+          {
+            "keyword": "replicate meaning in malayalam",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "slop tower defense value list",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "verity rotten tomatoes",
+            "ratio": 1.94,
+            "ratioFormatted": "×1.94",
+            "isHigh": true,
+            "suggestedAction": "影评聚合与评分走势可视化单页"
+          },
+          {
+            "keyword": "delta reign",
+            "ratio": 7.04,
+            "ratioFormatted": "×7.04",
+            "isHigh": true,
+            "suggestedAction": "游戏战力榜单与武器配置数据库"
+          },
+          {
+            "keyword": "meowdoku",
+            "ratio": 1.94,
+            "ratioFormatted": "×1.94",
+            "isHigh": true,
+            "suggestedAction": "猫咪数独休闲在线即玩 PWA"
+          },
+          {
+            "keyword": "dog control resonant",
+            "ratio": 0.789,
+            "ratioFormatted": "×0.789",
+            "isHigh": false
+          }
+        ],
+        "reSurging": [
+          {
+            "keyword": "deadlock builds",
+            "ratio": 0.439,
+            "ratioFormatted": "×0.439",
+            "isHigh": true,
+            "suggestedAction": "V社新游 Deadlock 英雄出装与胜率统计"
+          },
+          {
+            "keyword": "grow a garden wiki tropical plants",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "12axes test",
+            "ratio": 0.663,
+            "ratioFormatted": "×0.663",
+            "isHigh": true,
+            "suggestedAction": "多维度意识形态自测工具单页"
+          },
+          {
+            "keyword": "dressmaker mods",
+            "ratio": 0.164,
+            "ratioFormatted": "×0.164",
+            "isHigh": false
+          },
+          {
+            "keyword": "control resonant taxi locations",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "deskrawl",
+            "ratio": 0.799,
+            "ratioFormatted": "×0.799",
+            "isHigh": true,
+            "suggestedAction": "桌面爬塔小游戏在线版"
+          },
+          {
+            "keyword": "futgenie",
+            "ratio": 0.524,
+            "ratioFormatted": "×0.524",
+            "isHigh": true,
+            "suggestedAction": "FIFA/FC 选卡阵容模拟与化学反应计算器"
+          }
+        ],
+        "games": [
+          {
+            "keyword": "pokemon center newsletter",
+            "ratio": 0.049,
+            "ratioFormatted": "×0.049",
+            "isHigh": false
+          },
+          {
+            "keyword": "pokemon 30th celebration booster bundle",
+            "ratio": 0.969,
+            "ratioFormatted": "×0.969",
+            "isHigh": true,
+            "suggestedAction": "宝可梦卡包集换与价格比对工具"
+          },
+          {
+            "keyword": "skibidi toilet war code",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false,
+            "suggestedAction": "最新 Roblox 礼包码实时更新页"
+          },
+          {
+            "keyword": "steel ball run outro roblox id",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "cookie run crumble tier list",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "fishing master roblox codes",
+            "ratio": 0.01,
+            "ratioFormatted": "×0.010",
+            "isHigh": false
+          },
+          {
+            "keyword": "gears e day",
+            "ratio": 32.9,
+            "ratioFormatted": "×32.9",
+            "isHigh": true,
+            "suggestedAction": "《战争机器：E-Day》最新预告分析与发售日倒计时"
+          },
+          {
+            "keyword": "gears of war eday",
+            "ratio": 4.09,
+            "ratioFormatted": "×4.09",
+            "isHigh": true
+          },
+          {
+            "keyword": "star galactic racer",
+            "ratio": 7.43,
+            "ratioFormatted": "×7.43",
+            "isHigh": true,
+            "suggestedAction": "赛车小游戏免下载试玩"
+          },
+          {
+            "keyword": "yankee game",
+            "ratio": 11,
+            "ratioFormatted": "×11.0",
+            "isHigh": true,
+            "suggestedAction": "纽约洋基队实时赛程与比分直击"
+          },
+          {
+            "keyword": "aion 2 early access server",
+            "ratio": 0.043,
+            "ratioFormatted": "×0.043",
+            "isHigh": true
+          },
+          {
+            "keyword": "walmart pokemon drawing",
+            "ratio": 0.993,
+            "ratioFormatted": "×0.993",
+            "isHigh": true
+          },
+          {
+            "keyword": "maplestory classic",
+            "ratio": 2.78,
+            "ratioFormatted": "×2.78",
+            "isHigh": true,
+            "suggestedAction": "冒险岛经典怀旧版职业加点与怀旧地图库"
+          },
+          {
+            "keyword": "sprinkle sort",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "skyward ii sky and starsea",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "bang bang fish blast",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "retro dribble",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "neon weave",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "hamilton salvaged",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "thecall",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "sneaky necro",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "delivery heron game",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "halloween boxed",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "snake abyss",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "sharks vs surfers",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "that mountain needs to fall",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "batch-20261006-1447",
+      "timestamp": "2026-10-06T14:47:00Z",
+      "dateLabel": "10-06 14:47",
+      "relativeTime": "昨天 14:47",
+      "badges": {
+        "newWords": 4,
+        "reSurging": 8,
+        "games": 10,
+        "pushed": 15
+      },
+      "metricsSummary": {
+        "reviewedCandidates": 87,
+        "gamesCount": 42,
+        "wordsAdded": 173,
+        "serpChecked": 110,
+        "valuableCount": 78,
+        "hnNewCount": 94,
+        "durationMinutes": 52
+      },
+      "categories": {
+        "newWords": [
+          {
+            "keyword": "sonnet 5.5",
+            "ratio": 6.24,
+            "ratioFormatted": "×6.24",
+            "isHigh": true,
+            "suggestedAction": "Claude 5.5 性能评测与 Token 定价对比表"
+          },
+          {
+            "keyword": "gpt image 2.5",
+            "ratio": 0.381,
+            "ratioFormatted": "×0.381",
+            "isHigh": false
+          },
+          {
+            "keyword": "omnivision",
+            "ratio": 0.073,
+            "ratioFormatted": "×0.073",
+            "isHigh": false
+          },
+          {
+            "keyword": "life2vec face swap",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "pixelcut looping video",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "vocal clean audio",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "anthropic ultrastart",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "latency from 600",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "visionrope",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.0 mini",
+            "ratio": 3.2,
+            "ratioFormatted": "×3.20",
+            "isHigh": true
+          },
+          {
+            "keyword": "gpt 5.0 omni",
+            "ratio": 0.184,
+            "ratioFormatted": "×0.184",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.4",
+            "ratio": 0.517,
+            "ratioFormatted": "×0.517",
+            "isHigh": true
+          },
+          {
+            "keyword": "gpt 5.5",
+            "ratio": 1.65,
+            "ratioFormatted": "×1.65",
+            "isHigh": true
+          },
+          {
+            "keyword": "gpt 5.6 nano",
+            "ratio": 0.003,
+            "ratioFormatted": "×0.003",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.3 codex",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.2",
+            "ratio": 0.143,
+            "ratioFormatted": "×0.143",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.2 codex",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.10",
+            "ratio": 0.182,
+            "ratioFormatted": "×0.182",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.4 omni",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.14 nano",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5.1 codex mini",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          }
+        ],
+        "reSurging": [
+          {
+            "keyword": "deepseek v3 flash",
+            "ratio": 2.14,
+            "ratioFormatted": "×2.14",
+            "isHigh": true,
+            "suggestedAction": "DeepSeek 快速接入代理与体验镜像"
+          },
+          {
+            "keyword": "open webui mac os",
+            "ratio": 0.812,
+            "ratioFormatted": "×0.812",
+            "isHigh": true
+          },
+          {
+            "keyword": "flux schnell lora",
+            "ratio": 1.45,
+            "ratioFormatted": "×1.45",
+            "isHigh": true
+          }
+        ],
+        "games": [
+          {
+            "keyword": "dress to impress codes",
+            "ratio": 18.4,
+            "ratioFormatted": "×18.4",
+            "isHigh": true,
+            "suggestedAction": "DTI 最新服装码与更新攻略"
+          },
+          {
+            "keyword": "rivals roblox promo codes",
+            "ratio": 4.88,
+            "ratioFormatted": "×4.88",
+            "isHigh": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "batch-20261006-0235",
+      "timestamp": "2026-10-06T02:35:00Z",
+      "dateLabel": "10-06 02:35",
+      "relativeTime": "昨天 02:35",
+      "badges": {
+        "newWords": 38,
+        "reSurging": 19,
+        "games": 21,
+        "pushed": 15
+      },
+      "metricsSummary": {
+        "reviewedCandidates": 537,
+        "gamesCount": 88,
+        "wordsAdded": 250,
+        "serpChecked": 210,
+        "valuableCount": 139,
+        "hnNewCount": 168,
+        "durationMinutes": 98
+      },
+      "categories": {
+        "newWords": [
+          {
+            "keyword": "taggbox ads studio",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gemini 2.1 flash",
+            "ratio": 0.633,
+            "ratioFormatted": "×0.633",
+            "isHigh": false
+          },
+          {
+            "keyword": "deepseek v3 flash",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "devura di stomaco song id",
+            "ratio": 2.181,
+            "ratioFormatted": "×2.181",
+            "isHigh": true
+          },
+          {
+            "keyword": "chamarra song id deeplate",
+            "ratio": 0.152,
+            "ratioFormatted": "×0.152",
+            "isHigh": false
+          },
+          {
+            "keyword": "chamarra song viral video",
+            "ratio": 0.157,
+            "ratioFormatted": "×0.157",
+            "isHigh": true
+          },
+          {
+            "keyword": "chamarra song id version fox",
+            "ratio": 0.043,
+            "ratioFormatted": "×0.043",
+            "isHigh": false
+          },
+          {
+            "keyword": "firefly ai noirmaker",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gamepark ai slice",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "merging games with ai",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gpt 5 solve my list",
+            "ratio": 0.735,
+            "ratioFormatted": "×0.735",
+            "isHigh": false
+          },
+          {
+            "keyword": "quanti anni ha gemini gagan",
+            "ratio": 0.01,
+            "ratioFormatted": "×0.010",
+            "isHigh": false
+          },
+          {
+            "keyword": "opux 5.8 v3 sonnet 5.0",
+            "ratio": 0.034,
+            "ratioFormatted": "×0.034",
+            "isHigh": false
+          },
+          {
+            "keyword": "synthesis nodacja",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "originality ai prompt generator",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "manus ai gratuito",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "kinsmeanding",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "higgsfield genjutsu",
+            "ratio": 1.74,
+            "ratioFormatted": "×1.74",
+            "isHigh": true
+          },
+          {
+            "keyword": "earnd.io ai",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "ai competitor applesister",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "maplot claressai filkero",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "everyspasm/mcp",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "opux 5.8 sonnet 5.5",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "frasi consigo supone significa",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "strata aven 2.0",
+            "ratio": 8,
+            "ratioFormatted": "×8.000",
+            "isHigh": true
+          },
+          {
+            "keyword": "cuantas press time un pollo",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "kling ai image to video generator",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "ai tattoo generator from photo",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "qwen 3.8 max",
+            "ratio": 0.872,
+            "ratioFormatted": "×0.872",
+            "isHigh": false
+          },
+          {
+            "keyword": "package of 500 sheets of paper",
+            "ratio": 0.076,
+            "ratioFormatted": "×0.076",
+            "isHigh": false
+          },
+          {
+            "keyword": "sitkur in hacks",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "sootooty giyes",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "aron 2 discount",
+            "ratio": 0.543,
+            "ratioFormatted": "×0.543",
+            "isHigh": false
+          },
+          {
+            "keyword": "polski jekturo simulator 2",
+            "ratio": 0.022,
+            "ratioFormatted": "×0.022",
+            "isHigh": false
+          },
+          {
+            "keyword": "calcowiser",
+            "ratio": 1.58,
+            "ratioFormatted": "×1.58",
+            "isHigh": false
+          },
+          {
+            "keyword": "avengers endgame encore",
+            "ratio": 0.58,
+            "ratioFormatted": "×0.580",
+            "isHigh": false
+          },
+          {
+            "keyword": "marvel avengers endgame encore",
+            "ratio": 0.541,
+            "ratioFormatted": "×0.541",
+            "isHigh": false
+          }
+        ],
+        "reSurging": [
+          {
+            "keyword": "30 minutes or story",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gene ontology",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "untitled goose game vga",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "gamma galyon eta",
+            "ratio": 0.012,
+            "ratioFormatted": "×0.012",
+            "isHigh": false
+          },
+          {
+            "keyword": "mojouncy gratis",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "champagne astro",
+            "ratio": 2.78,
+            "ratioFormatted": "×2.78",
+            "isHigh": false
+          },
+          {
+            "keyword": "word frequency counter",
+            "ratio": 4.57,
+            "ratioFormatted": "×4.57",
+            "isHigh": true
+          },
+          {
+            "keyword": "threshing day dragon test",
+            "ratio": 0.04,
+            "ratioFormatted": "×0.040",
+            "isHigh": false
+          },
+          {
+            "keyword": "placid",
+            "ratio": 1.18,
+            "ratioFormatted": "×1.18",
+            "isHigh": false
+          },
+          {
+            "keyword": "hsv color ophire",
+            "ratio": 1.177,
+            "ratioFormatted": "×1.177",
+            "isHigh": false
+          },
+          {
+            "keyword": "apakah hari ini ada demo",
+            "ratio": 0.042,
+            "ratioFormatted": "×0.042",
+            "isHigh": false
+          },
+          {
+            "keyword": "aniyam 1 release date",
+            "ratio": 0.194,
+            "ratioFormatted": "×0.194",
+            "isHigh": false
+          },
+          {
+            "keyword": "transport fever 2 system requirements",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "almeri torrent pipe puzzles",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "janet 2",
+            "ratio": 9.38,
+            "ratioFormatted": "×9.38",
+            "isHigh": true
+          }
+        ],
+        "games": [
+          {
+            "keyword": "threshing day game dragon test",
+            "ratio": 0.558,
+            "ratioFormatted": "×0.558",
+            "isHigh": false
+          },
+          {
+            "keyword": "dragon threshing day game",
+            "ratio": 0.57,
+            "ratioFormatted": "×0.570",
+            "isHigh": false
+          },
+          {
+            "keyword": "coolmath games tiny fishing",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "off the grid early access",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "2x21 release date early access",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "roblox clover time codes",
+            "ratio": 0.052,
+            "ratioFormatted": "×0.052",
+            "isHigh": false
+          },
+          {
+            "keyword": "itgcs life game app",
+            "ratio": 0.01,
+            "ratioFormatted": "×0.010",
+            "isHigh": false
+          },
+          {
+            "keyword": "minecraft fart ttf",
+            "ratio": 0.051,
+            "ratioFormatted": "×0.051",
+            "isHigh": false
+          },
+          {
+            "keyword": "chefis game",
+            "ratio": 1.52,
+            "ratioFormatted": "×1.52",
+            "isHigh": false
+          },
+          {
+            "keyword": "itgcs life game website",
+            "ratio": 0.02,
+            "ratioFormatted": "×0.020",
+            "isHigh": false
+          },
+          {
+            "keyword": "kicha a gentics survival game",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "clofis games",
+            "ratio": 2.41,
+            "ratioFormatted": "×2.41",
+            "isHigh": true
+          },
+          {
+            "keyword": "a incandescent wings of time",
+            "ratio": 3.81,
+            "ratioFormatted": "×3.81",
+            "isHigh": true
+          },
+          {
+            "keyword": "codes for clover legends roblox",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "codes anime ones",
+            "ratio": 0.99,
+            "ratioFormatted": "×0.99",
+            "isHigh": true
+          },
+          {
+            "keyword": "habonware game",
+            "ratio": 0.95,
+            "ratioFormatted": "×0.95",
+            "isHigh": false
+          },
+          {
+            "keyword": "flagmaster",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "clove rivals",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          },
+          {
+            "keyword": "doublo shit parenting",
+            "ratio": null,
+            "ratioFormatted": "",
+            "isHigh": false
+          }
+        ]
+      }
+    }
+  ]
+}

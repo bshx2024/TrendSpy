@@ -85,9 +85,10 @@ function formatDateShort(isoOrStr: string): string {
 }
 
 function extractClusterRoot(query: string, entity: string): string {
+  const entityTokens = entity.toLowerCase().split(/[\s\-_]+/);
   const stopWords = new Set([
     "ai", "free", "video", "generator", "online", "app", "tool", "login",
-    "download", "tutorial", "maker", "prompt", "model", entity.toLowerCase()
+    "download", "tutorial", "maker", "prompt", "model", ...entityTokens
   ]);
   const words = query.toLowerCase().split(/[\s\-_]+/).filter((w) => !stopWords.has(w) && w.length > 2);
   if (words.length > 0) {
@@ -135,13 +136,16 @@ export async function runBenchmarkEngine(
   for (const [clusterKey, group] of clusterMap.entries()) {
     const root = clusterKey.split("::")[1];
 
-    // 优先选有 free/maker/ai/generator 且 Breakout 的
+    // 优先选最接近核心母词的 2~3 词黄金形态 (如 cursor byok 优先于 cursor byok free)
     group.sort((a, b) => {
-      const aTool = /\b(free|maker|generator|video|online|login)\b/i.test(a.query);
-      const bTool = /\b(free|maker|generator|video|online|login)\b/i.test(b.query);
-      if (aTool && !bTool) return -1;
-      if (!aTool && bTool) return 1;
-      return (b.isBreakout ? 1 : 0) - (a.isBreakout ? 1 : 0) || b.value - a.value;
+      const aWords = a.query.trim().split(/\s+/).length;
+      const bWords = b.query.trim().split(/\s+/).length;
+      const aIsGold = aWords >= 2 && aWords <= 3;
+      const bIsGold = bWords >= 2 && bWords <= 3;
+      if (aIsGold && !bIsGold) return -1;
+      if (!aIsGold && bIsGold) return 1;
+
+      return (b.isBreakout ? 1 : 0) - (a.isBreakout ? 1 : 0) || aWords - bWords || b.value - a.value;
     });
 
     const rep = group[0];

@@ -585,6 +585,15 @@ body {
   position: relative;
 }
 
+.clickable-card {
+  cursor: pointer;
+}
+
+.clickable-card:hover {
+  border-color: rgba(56, 189, 248, 0.45);
+  box-shadow: 0 10px 30px rgba(0, 242, 254, 0.08);
+}
+
 .breakout-card:hover {
   transform: translateY(-2px);
   border-color: rgba(56, 189, 248, 0.3);
@@ -1708,4 +1717,427 @@ body {
   border-top: 1px solid var(--border-subtle);
   background: rgba(255, 255, 255, 0.01);
 }
+
+/* Detail Modal Specific Styling */
+.detail-kpi-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.detail-kpi-label {
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+.detail-kpi-val {
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  font-family: var(--font-mono);
+}
+
+.detail-kpi-sub {
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+.clickable-keyword {
+  cursor: pointer;
+  transition: var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.clickable-keyword:hover {
+  color: var(--cyan-primary) !important;
+  text-decoration: underline;
+}
+
+.longtail-pill {
+  background: rgba(56, 189, 248, 0.08);
+  border: 1px solid rgba(56, 189, 248, 0.2);
+  color: #7dd3fc;
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  font-size: 12px;
+  font-family: var(--font-mono);
+  cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.longtail-pill:hover {
+  background: rgba(56, 189, 248, 0.2);
+  color: #fff;
+  border-color: #38bdf8;
+}
+
+/* ==========================================================================
+   WebCafe Style · 极简实时流 (Live Stream & Timeline Pills)
+   ========================================================================== */
+
+.badge-hot {
+  background: linear-gradient(135deg, #f97316, #ef4444) !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  font-size: 10px !important;
+  padding: 1px 6px !important;
+  border-radius: var(--radius-full);
+  animation: pulse-hot 2s infinite;
+}
+
+@keyframes pulse-hot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(1.08); }
+}
+
+/* 顶部三大板块概览网格 */
+.stream-overview-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  gap: 18px;
+  margin-bottom: 30px;
+}
+
+.stream-kpi-card {
+  background: #141519;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.stream-kpi-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(255, 255, 255, 0.18);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+}
+
+.stream-kpi-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.stream-kpi-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: -0.01em;
+}
+
+.stream-kpi-tag {
+  font-size: 11px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #9ca3af;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.stream-kpi-tag.tag-exclusive {
+  background: rgba(249, 115, 22, 0.15);
+  color: #fb923c;
+  border: 1px solid rgba(249, 115, 22, 0.3);
+}
+
+.stream-kpi-desc {
+  font-size: 12px;
+  color: #858997;
+  line-height: 1.45;
+  margin-bottom: 18px;
+  min-height: 35px;
+}
+
+.stream-kpi-metrics-row {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 1fr;
+  gap: 12px;
+  padding: 14px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  margin-bottom: 16px;
+}
+
+.stream-metric-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.stream-metric-val {
+  font-size: 24px;
+  font-weight: 800;
+  color: #f3f4f6;
+  font-family: var(--font-mono);
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+.stream-metric-lbl {
+  font-size: 11px;
+  color: #71717a;
+  margin-top: 5px;
+}
+
+.stream-kpi-bullets {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex-grow: 1;
+}
+
+.stream-kpi-bullets li {
+  font-size: 11.5px;
+  color: #8b8f9d;
+  line-height: 1.4;
+  position: relative;
+  padding-left: 12px;
+}
+
+.stream-kpi-bullets li::before {
+  content: "·";
+  position: absolute;
+  left: 2px;
+  top: -1px;
+  font-weight: 900;
+  color: #52525b;
+  font-size: 14px;
+}
+
+.stream-kpi-time {
+  font-size: 11px;
+  color: #52525b;
+  border-top: 1px dashed rgba(255, 255, 255, 0.05);
+  padding-top: 10px;
+  font-family: var(--font-mono);
+}
+
+/* 更新动态 时间轴卡片流 */
+.stream-timeline-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.stream-timeline-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-bottom: 10px;
+}
+
+.stream-timeline-title-wrap {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.stream-timeline-title {
+  font-size: 18px;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: -0.02em;
+}
+
+.stream-timeline-subtitle {
+  font-size: 12.5px;
+  color: #94a3b8;
+}
+
+.stream-batches-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* 单个批次卡片 */
+.stream-batch-card {
+  background: #141519;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 18px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  transition: border-color 0.15s ease;
+}
+
+.stream-batch-card:hover {
+  border-color: rgba(255, 255, 255, 0.16);
+}
+
+.stream-batch-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.stream-batch-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.stream-batch-date {
+  font-size: 15px;
+  font-weight: 700;
+  color: #f8fafc;
+  font-family: var(--font-mono);
+}
+
+.stream-batch-relative {
+  font-size: 12px;
+  color: #71717a;
+}
+
+.stream-batch-badges {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.stream-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.stream-badge.badge-new {
+  background: rgba(249, 115, 22, 0.15);
+  color: #fb923c;
+  border: 1px solid rgba(249, 115, 22, 0.3);
+}
+
+.stream-badge.badge-resurge {
+  background: rgba(234, 179, 8, 0.15);
+  color: #facc15;
+  border: 1px solid rgba(234, 179, 8, 0.3);
+}
+
+.stream-badge.badge-game {
+  background: rgba(6, 182, 212, 0.15);
+  color: #22d3ee;
+  border: 1px solid rgba(6, 182, 212, 0.3);
+}
+
+.stream-badge.badge-push {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+/* 批次指标流水明细行 */
+.stream-batch-stats {
+  font-size: 12px;
+  color: #8b8f9e;
+  line-height: 1.5;
+  background: rgba(255, 255, 255, 0.02);
+  padding: 7px 12px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+/* 分类与胶囊药丸行 */
+.stream-batch-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.stream-category-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.stream-category-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #71717a;
+  min-width: 56px;
+  padding-top: 5px;
+  letter-spacing: -0.01em;
+}
+
+.stream-pills-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  flex: 1;
+}
+
+/* 核心药丸胶囊 */
+.stream-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: #202227;
+  color: #e2e8f0;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  font-size: 12.5px;
+  font-family: var(--font-mono);
+  cursor: pointer;
+  transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+  white-space: nowrap;
+}
+
+.stream-pill:hover {
+  background: #2a2c33;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.22);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* 爆发高热度突出药丸 (同 WebCafe 亮橙色高倍率样式) */
+.stream-pill.high {
+  background: rgba(234, 88, 12, 0.16);
+  border: 1px solid rgba(249, 115, 22, 0.45);
+  color: #fb923c;
+  font-weight: 600;
+}
+
+.stream-pill.high:hover {
+  background: rgba(234, 88, 12, 0.28);
+  border-color: #f97316;
+  color: #ffedd5;
+  box-shadow: 0 4px 14px rgba(249, 115, 22, 0.25);
+}
+
+.stream-pill-ratio {
+  font-size: 11.5px;
+  font-weight: 700;
+  opacity: 0.9;
+  letter-spacing: -0.02em;
+}
+
+.stream-pill.high .stream-pill-ratio {
+  color: #fdba74;
+}
+
+
 

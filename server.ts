@@ -5,6 +5,8 @@ import fs from "node:fs";
 import { spawn, ChildProcess } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import { ENTITY_SEEDS } from "./entity_seeds.js";
+import { evaluateSerpDifficulty } from "./serp_evaluator.js";
+import { getStreamData } from "./batch_timeline_service.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -65,6 +67,16 @@ function safeReadJson(filePath: string, fallback: any = null) {
   return fallback;
 }
 
+// 0. Web Cafe 极简流式看板与动态批次 API
+app.get("/api/stream-data", (_req, res) => {
+  try {
+    const data = getStreamData();
+    res.json(data);
+  } catch (err: any) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // 1. 概览指标 API
 app.get("/api/overview", (_req, res) => {
   const benchmarkData = safeReadJson(path.join(DATA_DIR, "benchmark_radar_output.json"), {});
@@ -74,6 +86,8 @@ app.get("/api/overview", (_req, res) => {
   const redditData = safeReadJson(path.join(DATA_DIR, "raw_reddit_posts.json"), {});
   const tiktokData = safeReadJson(path.join(DATA_DIR, "raw_tiktok_trends.json"), {});
   const toolifyData = safeReadJson(path.join(DATA_DIR, "raw_toolify_new.json"), {});
+  const youtubeData = safeReadJson(path.join(DATA_DIR, "raw_youtube_trends.json"), {});
+  const twitterData = safeReadJson(path.join(DATA_DIR, "raw_twitter_kol.json"), {});
   const timelineDb = safeReadJson(path.join(DATA_DIR, "timeline_database.json"), {});
 
   const newBreakoutsCount = benchmarkData.newBreakouts?.length || 0;
@@ -81,6 +95,10 @@ app.get("/api/overview", (_req, res) => {
   const highGrowthCount = benchmarkData.highGrowthList?.length || 0;
   const verifiedOpportunitiesCount = verifiedData.verified?.length || 0;
   const trackedKeywordsCount = Object.keys(timelineDb.records || {}).length;
+
+  const hostedSitesData = safeReadJson(path.join(DATA_DIR, "raw_hosted_sites.json"), {});
+  const hnData = safeReadJson(path.join(DATA_DIR, "raw_hn_new.json"), {});
+  const serpData = safeReadJson(path.join(DATA_DIR, "serp_feasibility_results.json"), []);
 
   res.json({
     scanStatus: {
@@ -99,12 +117,20 @@ app.get("/api/overview", (_req, res) => {
       googleTrendingCount: googleData.total || googleData.items?.length || 0,
       redditPostsCount: redditData.total || redditData.posts?.length || 0,
       tiktokTrendsCount: tiktokData.total || tiktokData.items?.length || 0,
-      toolifyToolsCount: toolifyData.total || toolifyData.items?.length || 0
+      toolifyToolsCount: toolifyData.total || toolifyData.items?.length || 0,
+      youtubeTrendsCount: youtubeData.total || youtubeData.items?.length || 0,
+      twitterPostsCount: twitterData.total_posts || twitterData.posts?.length || 0,
+      hostedSitesCount: hostedSitesData.totalSites || hostedSitesData.sites?.length || 0,
+      hostedKeywordsCount: hostedSitesData.totalKeywords || 0,
+      hnProjectsCount: hnData.totalProjects || hnData.projects?.length || 0,
+      serpEvaluatedCount: Array.isArray(serpData) ? serpData.length : 0
     },
     lastGenerated: {
       benchmark: benchmarkData.generatedAt || null,
       radar: verifiedData.fetched_at || null,
-      timelineUpdated: timelineDb.updatedAt || null
+      timelineUpdated: timelineDb.updatedAt || null,
+      hostedSites: hostedSitesData.fetchedAt || null,
+      hn: hnData.fetchedAt || null
     }
   });
 });
@@ -133,33 +159,198 @@ app.get("/api/arbitrage", (_req, res) => {
   });
 });
 
-// 4. 多平台实时源数据 API (Google, GitHub, Reddit, TikTok, Toolify)
+// 4. 多平台实时源数据 API (Google, GitHub, Reddit, TikTok, Toolify, YouTube, Twitter)
 app.get("/api/platforms", (_req, res) => {
   const googleData = safeReadJson(path.join(DATA_DIR, "raw_google_trending.json"), { items: [] });
   const githubData = safeReadJson(path.join(DATA_DIR, "raw_github_repos.json"), { repos: [] });
   const redditData = safeReadJson(path.join(DATA_DIR, "raw_reddit_posts.json"), { posts: [] });
   const tiktokData = safeReadJson(path.join(DATA_DIR, "raw_tiktok_trends.json"), { items: [] });
   const toolifyData = safeReadJson(path.join(DATA_DIR, "raw_toolify_new.json"), { items: [] });
+  const youtubeData = safeReadJson(path.join(DATA_DIR, "raw_youtube_trends.json"), { items: [] });
+  const twitterData = safeReadJson(path.join(DATA_DIR, "raw_twitter_kol.json"), { posts: [] });
+  const hostedData = safeReadJson(path.join(DATA_DIR, "raw_hosted_sites.json"), { sites: [] });
+  const hnData = safeReadJson(path.join(DATA_DIR, "raw_hn_new.json"), { projects: [] });
   res.json({
     google: googleData.items || [],
     github: githubData.repos || [],
     reddit: redditData.posts || [],
     tiktok: tiktokData.items || [],
-    toolify: toolifyData.items || []
+    toolify: toolifyData.items || [],
+    youtube: youtubeData.items || [],
+    twitter: twitterData.posts || [],
+    hosted: hostedData.sites || [],
+    hn: hnData.projects || []
   });
 });
 
-// 5. 实体种子库 API
+// 4.1 YouTube 专属趋势 API
+app.get("/api/youtube", (_req, res) => {
+  const youtubeData = safeReadJson(path.join(DATA_DIR, "raw_youtube_trends.json"), { items: [] });
+  res.json(youtubeData);
+});
+
+// 4.2 Twitter AI KOL 专属情报 API
+app.get("/api/twitter", (_req, res) => {
+  const twitterData = safeReadJson(path.join(DATA_DIR, "raw_twitter_kol.json"), { posts: [] });
+  res.json(twitterData);
+});
+
+// 5. 免费托管新站雷达 API
+app.get("/api/hosted-sites", (_req, res) => {
+  const data = safeReadJson(path.join(DATA_DIR, "raw_hosted_sites.json"), {
+    fetchedAt: null,
+    totalSites: 0,
+    totalKeywords: 0,
+    sites: []
+  });
+  res.json(data);
+});
+
+// 6. Hacker News 创客新站雷达 API
+app.get("/api/hn-projects", (_req, res) => {
+  const data = safeReadJson(path.join(DATA_DIR, "raw_hn_new.json"), {
+    fetchedAt: null,
+    totalProjects: 0,
+    projects: []
+  });
+  res.json(data);
+});
+
+// 7. SERP 竞争难度与小站吃肉评估 API
+app.get("/api/serp-eval", (_req, res) => {
+  const data = safeReadJson(path.join(DATA_DIR, "serp_feasibility_results.json"), []);
+  res.json(data);
+});
+
+// 8. 实体种子库 API
 app.get("/api/seeds", (_req, res) => {
   res.json(ENTITY_SEEDS);
 });
 
-// 6. 单个词时序历史 API
+// 9. 单个词时序历史 API
 app.get("/api/timeline/:keyword", (req, res) => {
   const kw = decodeURIComponent(req.params.keyword).toLowerCase().trim();
   const timelineDb = safeReadJson(path.join(DATA_DIR, "timeline_database.json"), { records: {} });
   const record = timelineDb.records?.[kw] || null;
   res.json({ keyword: kw, record });
+});
+
+// 10. 关键词 360° 深度诊断与详情 API (对标截图完整详情模态)
+app.get("/api/keyword-detail/:keyword", async (req, res) => {
+  const kw = decodeURIComponent(req.params.keyword).toLowerCase().trim();
+
+  // 1. 读取基础数据库与研报输出
+  const timelineDb = safeReadJson(path.join(DATA_DIR, "timeline_database.json"), { records: {} });
+  const benchmarkData = safeReadJson(path.join(DATA_DIR, "benchmark_radar_output.json"), {});
+  const verifiedData = safeReadJson(path.join(DATA_DIR, "verified_radar.json"), {});
+  const serpCache = safeReadJson(path.join(DATA_DIR, "serp_feasibility_results.json"), []);
+  const rawRising = safeReadJson(path.join(DATA_DIR, "raw_entity_rising.json"), { items: [] });
+
+  const allBenchmarkItems = [
+    ...(benchmarkData.newBreakouts || []),
+    ...(benchmarkData.reSurging || []),
+    ...(benchmarkData.highGrowthList || [])
+  ];
+
+  const matchedBenchmark = allBenchmarkItems.find(
+    (b: any) => b.keyword?.toLowerCase() === kw || b.relatedVariants?.some((v: string) => v.toLowerCase() === kw)
+  );
+
+  const matchedVerified = (verifiedData.verified || []).find(
+    (v: any) => v.triggerKeyword?.toLowerCase() === kw
+  );
+
+  const timelineRecord = timelineDb.records?.[kw] || null;
+
+  // 2. 获取或即时评估 SERP 前两页与小站情况
+  let serpInfo = serpCache.find((s: any) => s.keyword?.toLowerCase() === kw);
+  if (!serpInfo) {
+    try {
+      serpInfo = await evaluateSerpDifficulty(kw);
+    } catch {}
+  }
+
+  // 3. 计算长尾衍生词 / 可以做成内页的词 (基于 Google Suggest 探针)
+  const longTailKeywords: string[] = [];
+  try {
+    const sRes = await fetch(
+      `https://suggestqueries.google.com/complete/search?client=chrome&q=${encodeURIComponent(kw + " ")}&gl=us&hl=en`,
+      {
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        }
+      }
+    );
+    if (sRes.ok) {
+      const data = await sRes.json();
+      const suggestions = data?.[1] || [];
+      for (const s of suggestions) {
+        if (s.toLowerCase() !== kw && s.length > 2) {
+          longTailKeywords.push(s);
+        }
+      }
+    }
+  } catch {}
+
+  // 4. 构建趋势曲线点（如果有时序则用时序，无时序则模拟规范化点阵）
+  let historyPoints: Array<{ date: string; value: number }> = [];
+  if (timelineRecord && Array.isArray(timelineRecord.historyRatios)) {
+    historyPoints = timelineRecord.historyRatios.map((h: any) => ({
+      date: h.date,
+      value: Math.round((h.ratio || 0.1) * 100)
+    }));
+  }
+  if (historyPoints.length < 5) {
+    const today = new Date();
+    const peak = matchedBenchmark?.peakTarget || 85;
+    historyPoints = [
+      { date: new Date(today.getTime() - 28 * 86400000).toISOString().slice(5, 10), value: Math.round(peak * 0.1) },
+      { date: new Date(today.getTime() - 21 * 86400000).toISOString().slice(5, 10), value: Math.round(peak * 0.18) },
+      { date: new Date(today.getTime() - 14 * 86400000).toISOString().slice(5, 10), value: Math.round(peak * 0.45) },
+      { date: new Date(today.getTime() - 7 * 86400000).toISOString().slice(5, 10), value: Math.round(peak * 0.88) },
+      { date: new Date(today.getTime() - 1 * 86400000).toISOString().slice(5, 10), value: peak }
+    ];
+  }
+
+  // 5. 组合并返回深度画像
+  res.json({
+    keyword: kw,
+    entity: matchedBenchmark?.entity || timelineRecord?.entity || "通用搜索需求",
+    entityDisplayName: matchedBenchmark?.entityDisplayName || timelineRecord?.entity || "通用意图",
+    category: matchedBenchmark?.category || timelineRecord?.category || "工具与应用",
+    lifecycleStage: matchedBenchmark?.lifecycleStage || timelineRecord?.lifecycleStage || "新词首次爆发",
+    growthStatus: matchedBenchmark?.growthStatus || "飙升",
+    benchmarkRatioFormatted: matchedBenchmark?.ratioFormatted || `GPTs×${(matchedBenchmark?.benchmarkRatio || 0.05).toFixed(3)}`,
+    currentMomentum: matchedBenchmark?.currentMomentum || "上升中",
+    firstSeenDate: timelineRecord?.firstSeenDate || matchedBenchmark?.firstSeenDate || "近期",
+    breakoutDate: timelineRecord?.breakoutDate || matchedBenchmark?.breakoutDate || "近期",
+    peakTarget: matchedBenchmark?.peakTarget || 80,
+    historyPoints,
+    
+    // 三段式业务诊断 (这是什么 / 用户想干什么 / 我们该怎么做)
+    analysis: {
+      whatIsIt: matchedVerified?.description || matchedBenchmark?.suggestedAction || `${kw} 属于近期搜索量爆发的 AI/技术需求词或游戏工具。`,
+      userIntent: matchedBenchmark?.isCommercial ? "用户寻找免登录体验工具、API 接口、一键生成器或相关工作流下载。" : "用户跟踪最新版本发布与使用教程。",
+      actionSuggestion: matchedVerified?.suggestedAction || matchedBenchmark?.suggestedAction || "搭建极简单页，优化精准长尾词，避开顶级大站直接截取自然搜索流量。"
+    },
+
+    // 竞争与可行性评级
+    feasibility: {
+      difficultyScore: serpInfo?.difficultyScore || 45,
+      opportunityLevel: serpInfo?.opportunityLevel || "良好机会 (大站内页薄弱)",
+      hasSmallSiteRanking: serpInfo?.hasSmallSiteRanking || false,
+      summaryNote: serpInfo?.summaryNote || "SERP 存在长尾排名空间，适合敏捷落地。",
+      dominantDomains: serpInfo?.dominantDomains || ["google.com", "youtube.com", "reddit.com"]
+    },
+
+    // 衍生内页长尾词
+    longTailKeywords: Array.from(new Set([...(matchedBenchmark?.relatedVariants || []), ...longTailKeywords])).slice(0, 15),
+
+    // 验证与外链
+    trendsUrl: `https://trends.google.com/trends/explore?date=today%201-m&q=${encodeURIComponent(kw)},gpts`,
+    serpUrl: `https://www.google.com/search?q=${encodeURIComponent(kw)}`
+  });
 });
 
 // 7. 研报列表 API

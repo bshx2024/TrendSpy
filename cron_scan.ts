@@ -4,6 +4,9 @@
  */
 import { runGitHubIngestion } from "./fetch_github.js";
 import { runGoogleTrendingIngestion } from "./fetch_google_trending.js";
+import { runRedditIngestion } from "./fetch_reddit.js";
+import { runYouTubeIngestion } from "./fetch_youtube_trends.js";
+import { runTwitterKolIngestion } from "./fetch_twitter_kol.js";
 import { runViralAnalysis } from "./analyze_viral.js";
 import { runTrendsVerification } from "./verify_trends.js";
 import { runReportGeneration as runRadarReport } from "./generate_radar_report.js";
@@ -11,6 +14,9 @@ import { runReportGeneration as runRadarReport } from "./generate_radar_report.j
 import { fetchAllEntityRisingQueries } from "./fetch_entity_trends.js";
 import { runBenchmarkEngine } from "./benchmark_engine.js";
 import { runReportGeneration as runNewtrendReport } from "./generate_newtrend_report.js";
+import { runHostedSitesIngestion } from "./fetch_hosted_sites.js";
+import { runHnIngestion } from "./fetch_hn_new.js";
+import { recordCruiseBatchFromResults } from "./batch_timeline_service.js";
 
 async function runSafe(name: string, fn: () => Promise<any> | any) {
   const start = Date.now();
@@ -38,7 +44,22 @@ export async function main() {
   // 2. GitHub 敏捷爆发代码库采集
   await runSafe("GitHub 敏捷项目采集", () => runGitHubIngestion());
 
-  // 3. C 端自传播特征与意图逆向
+  // 3. Reddit 高潜力社区与开发者讨论采集
+  await runSafe("Reddit 开发者与独立开发社区采集", () => runRedditIngestion());
+
+  // 4. YouTube Shorts 与 AI 视频热点雷达采集
+  await runSafe("YouTube Shorts & 视频热点雷达采集", () => runYouTubeIngestion());
+
+  // 5. Twitter/X 关键 AI KOL 追踪雷达
+  await runSafe("Twitter/X 关键 AI KOL 追踪雷达", () => runTwitterKolIngestion());
+
+  // 6. 免费托管新站雷达 (vercel.app / github.io / pages.dev)
+  await runSafe("免费托管新站雷达 (Vercel/Cloudflare/GitHub)", () => runHostedSitesIngestion());
+
+  // 7. Hacker News 创客新站与痛点雷达
+  await runSafe("Hacker News 创客新站雷达", () => runHnIngestion());
+
+  // 8. C 端自传播特征与意图逆向
   await runSafe("C端自传播特征与意图逆向分析", () => runViralAnalysis());
 
   // 4. 套利雷达核验与报告生成
@@ -55,6 +76,10 @@ export async function main() {
   await runSafe("NewTrend 研报生成", () => runNewtrendReport());
 
   const totalSec = ((Date.now() - totalStart) / 1000).toFixed(1);
+
+  // 8. 固化动态流巡航批次 (WebCafe Style)
+  await runSafe("固化极简流式批次动态", () => recordCruiseBatchFromResults(Number(totalSec)));
+
   console.log("\n" + "=".repeat(65));
   console.log(`✨ 本轮全自动化巡航完成！总耗时: ${totalSec} 秒`);
   console.log("=".repeat(65) + "\n");

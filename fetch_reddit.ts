@@ -1,14 +1,16 @@
 import fs from "node:fs";
 import path from "node:path";
 
-// 挑选出海工具和独立开发最高价值的 6 个核心板块
-const SUBREDDITS = [
+// 挑选出海工具、AI 编程与独立开发最高价值的核心板块
+export const SUBREDDITS = [
+  "cursor",
+  "LocalLLaMA",
+  "ChatGPTCoding",
   "SideProject",
-  "InternetIsBeautiful",
   "webdev",
   "CoolGithubProjects",
-  "ChatGPTCoding",
-  "IndieHackers"
+  "IndieHackers",
+  "InternetIsBeautiful"
 ];
 
 const CURRENT_DIR = typeof import.meta.dirname !== "undefined"
@@ -68,13 +70,13 @@ async function fetchSubreddit(subreddit: string, listing = "hot", limit = 25): P
   }
 }
 
-async function main() {
+export async function runRedditIngestion(): Promise<RedditPost[]> {
   if (!fs.existsSync(OUTPUT_DIR)) {
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   }
 
   console.log("=".repeat(60));
-  console.log("🚀 开始抓取 Reddit 高潜力独立开发与工具板块...");
+  console.log("🚀 开始抓取 Reddit 高潜力独立开发、AI 编程与工具板块...");
   console.log("=".repeat(60));
 
   const allPosts: RedditPost[] = [];
@@ -99,9 +101,13 @@ async function main() {
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(result, null, 2), "utf-8");
 
   console.log("=".repeat(60));
-  console.log(`🎉 抓取完成！共收集 ${allPosts.length} 条数据。`);
+  console.log(`🎉 Reddit 抓取完成！共收集 ${allPosts.length} 条数据。`);
   console.log(`📁 原始帖子已保存至: ${OUTPUT_FILE}`);
   console.log("=".repeat(60));
+
+  return allPosts;
 }
 
-main();
+if (process.argv[1] && process.argv[1].endsWith("fetch_reddit.ts")) {
+  runRedditIngestion();
+}

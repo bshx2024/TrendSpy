@@ -14,6 +14,11 @@
     "fetch:reddit": "tsx fetch_reddit.ts",
     "fetch:tiktok": "tsx fetch_tiktok_trends.ts",
     "fetch:toolify": "tsx fetch_toolify.ts",
+    "fetch:youtube": "tsx fetch_youtube_trends.ts",
+    "fetch:twitter": "tsx fetch_twitter_kol.ts",
+    "fetch:hosted": "tsx fetch_hosted_sites.ts",
+    "fetch:hn": "tsx fetch_hn_new.ts",
+    "eval:serp": "tsx serp_evaluator.ts",
     "benchmark": "tsx benchmark_engine.ts",
     "report": "tsx generate_newtrend_report.ts",
     "report:benchmark": "tsx generate_benchmark_report.ts"
@@ -28,6 +33,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@esbuild/win32-x64": "^0.28.2",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "tsx": "^4.23.15"

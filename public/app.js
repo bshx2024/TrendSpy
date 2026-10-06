@@ -4,7 +4,8 @@
 
 // 全局应用状态
 const state = {
-  activeTab: "tab-breakouts",
+  activeTab: "tab-stream",
+  streamData: null,
   overview: null,
   breakoutsData: {
     benchmark: "gpts",
@@ -153,6 +154,149 @@ async function checkCloudStatus() {
 
 
 // ==========================================
+// WebCafe 极简实时流动态数据层
+// ==========================================
+async function fetchStreamData() {
+  try {
+    const res = await fetch("/api/stream-data");
+    const data = await res.json();
+    state.streamData = data;
+    renderStreamOverview(data.overview);
+    renderStreamBatches(data.batches);
+  } catch (err) {
+    console.error("fetchStreamData error:", err);
+  }
+}
+
+function renderStreamOverview(ov) {
+  if (!ov) return;
+  // 关键词库
+  if (ov.keywordDb) {
+    const kwTotalEl = document.getElementById("streamKwTotal");
+    const kwTodayEl = document.getElementById("streamKwToday");
+    const kwResurgeEl = document.getElementById("streamKwResurging");
+    const kwTimeEl = document.getElementById("streamKwTime");
+    if (kwTotalEl) kwTotalEl.innerText = (ov.keywordDb.total || 0).toLocaleString();
+    if (kwTodayEl) kwTodayEl.innerText = (ov.keywordDb.todayNew || 0).toLocaleString();
+    if (kwResurgeEl) kwResurgeEl.innerText = (ov.keywordDb.reSurging || 0).toLocaleString();
+    if (kwTimeEl) kwTimeEl.innerText = `最后更新: ${ov.keywordDb.updatedAt || "近期"}`;
+  }
+  // HN 新站
+  if (ov.hnNew) {
+    const hnTotalEl = document.getElementById("streamHnTotal");
+    const hn7dEl = document.getElementById("streamHn7d");
+    const hn24hEl = document.getElementById("streamHn24h");
+    const hnTimeEl = document.getElementById("streamHnTime");
+    if (hnTotalEl) hnTotalEl.innerText = (ov.hnNew.total || 0).toLocaleString();
+    if (hn7dEl) hn7dEl.innerText = (ov.hnNew.last7Days || 0).toLocaleString();
+    if (hn24hEl) hn24hEl.innerText = (ov.hnNew.last24Hours || 0).toLocaleString();
+    if (hnTimeEl) hnTimeEl.innerText = `最后更新: ${ov.hnNew.updatedAt || "近期"}`;
+  }
+  // 托管新站
+  if (ov.hostedSites) {
+    const hTotalEl = document.getElementById("streamHostedTotal");
+    const hCycleEl = document.getElementById("streamHostedCycle");
+    const hPioneerEl = document.getElementById("streamHostedPioneer");
+    const hTimeEl = document.getElementById("streamHostedTime");
+    if (hTotalEl) hTotalEl.innerText = (ov.hostedSites.total || 0).toLocaleString();
+    if (hCycleEl) hCycleEl.innerText = (ov.hostedSites.latestCycle || 0).toLocaleString();
+    if (hPioneerEl) hPioneerEl.innerText = (ov.hostedSites.pioneers || 0).toLocaleString();
+    if (hTimeEl) hTimeEl.innerText = `最后更新: ${ov.hostedSites.updatedAt || "近期"}`;
+  }
+}
+
+function renderStreamBatches(batches) {
+  const container = document.getElementById("streamBatchesContainer");
+  if (!container) return;
+  if (!batches || batches.length === 0) {
+    container.innerHTML = `<div style="padding: 40px; text-align: center; color: var(--text-dim);">暂无流式巡航批次数据</div>`;
+    return;
+  }
+
+  // 更新总标题副文
+  const latest = batches[0];
+  const subTitle = document.getElementById("streamTimelineSubtitle");
+  if (subTitle && latest && latest.badges) {
+    subTitle.innerText = `每小时自动扫一批 · 今天已跑 ${batches.length} 批，新词 ${latest.badges.newWords || 0}、二次爆火 ${latest.badges.reSurging || 0}、小游戏 ${latest.badges.games || 0}`;
+  }
+
+  container.innerHTML = batches.map(batch => {
+    const badges = batch.badges || {};
+    const ms = batch.metricsSummary || {};
+    const cats = batch.categories || {};
+
+    const summaryParts = [];
+    if (ms.reviewedCandidates) summaryParts.push(`复核 ${ms.reviewedCandidates} 个候选`);
+    if (ms.gamesCount) summaryParts.push(`${ms.gamesCount} 款小游戏`);
+    if (ms.wordsAdded) summaryParts.push(`关键词库 +${ms.wordsAdded}`);
+    if (ms.serpChecked) summaryParts.push(`查谷歌前两页 ${ms.serpChecked} 个词`);
+    if (ms.valuableCount) summaryParts.push(`判断值不值得做 ${ms.valuableCount} 个`);
+    if (ms.hnNewCount) summaryParts.push(`HN 新站 +${ms.hnNewCount}`);
+    if (ms.durationMinutes) summaryParts.push(`用时 ${ms.durationMinutes} 分钟`);
+
+    const summaryLine = summaryParts.join(" · ");
+
+    function renderPills(items) {
+      if (!items || items.length === 0) return `<span style="color:#64748b; font-size:12px;">无</span>`;
+      return items.map(it => {
+        const isHigh = it.isHigh || (it.ratio && it.ratio > 0.4);
+        const ratioTxt = it.ratioFormatted || (it.ratio ? `×${it.ratio.toFixed(2)}` : "");
+        const escapedKw = escapeHtml(it.keyword);
+        const safeKwForClick = escapedKw.replace(/'/g, "\\'");
+        return `
+          <button class="stream-pill ${isHigh ? 'high' : ''}" onclick="openKeywordDetail('${safeKwForClick}')" title="点击查看详情、Google SERP 与落地分析">
+            <span>${escapedKw}</span>
+            ${ratioTxt ? `<span class="stream-pill-ratio">${ratioTxt}</span>` : ""}
+          </button>
+        `;
+      }).join("");
+    }
+
+    return `
+      <div class="stream-batch-card">
+        <div class="stream-batch-top">
+          <div class="stream-batch-meta">
+            <span class="stream-batch-date">${escapeHtml(batch.dateLabel || batch.timestamp)}</span>
+            <span class="stream-batch-relative">${escapeHtml(batch.relativeTime || "")}</span>
+            <div class="stream-batch-badges">
+              ${badges.newWords ? `<span class="stream-badge badge-new">新词 ${badges.newWords}</span>` : ""}
+              ${badges.reSurging ? `<span class="stream-badge badge-resurge">二次爆火 ${badges.reSurging}</span>` : ""}
+              ${badges.games ? `<span class="stream-badge badge-game">小游戏 ${badges.games}</span>` : ""}
+              ${badges.pushed ? `<span class="stream-badge badge-push">推送 ${badges.pushed}</span>` : ""}
+            </div>
+          </div>
+        </div>
+
+        ${summaryLine ? `<div class="stream-batch-stats">${escapeHtml(summaryLine)}</div>` : ""}
+
+        <div class="stream-batch-content">
+          ${cats.newWords && cats.newWords.length > 0 ? `
+            <div class="stream-category-row">
+              <span class="stream-category-label">新词</span>
+              <div class="stream-pills-wrap">${renderPills(cats.newWords)}</div>
+            </div>
+          ` : ""}
+
+          ${cats.reSurging && cats.reSurging.length > 0 ? `
+            <div class="stream-category-row">
+              <span class="stream-category-label">二次爆火</span>
+              <div class="stream-pills-wrap">${renderPills(cats.reSurging)}</div>
+            </div>
+          ` : ""}
+
+          ${cats.games && cats.games.length > 0 ? `
+            <div class="stream-category-row">
+              <span class="stream-category-label">游戏</span>
+              <div class="stream-pills-wrap">${renderPills(cats.games)}</div>
+            </div>
+          ` : ""}
+        </div>
+      </div>
+    `;
+  }).join("");
+}
+
+// ==========================================
 // 数据请求层
 // ==========================================
 async function fetchOverview() {
@@ -171,7 +315,9 @@ async function fetchOverview() {
                              (m.googleTrendingCount || 0) + 
                              (m.redditPostsCount || 0) + 
                              (m.tiktokTrendsCount || 0) + 
-                             (m.toolifyToolsCount || 0);
+                             (m.toolifyToolsCount || 0) +
+                             (m.youtubeTrendsCount || 0) +
+                             (m.twitterPostsCount || 0);
     document.getElementById("kpiMultiSource").innerText = `${totalMultiSource} 条`;
 
     updateScanningStatus(data.scanStatus?.isScanning, data.scanStatus?.pipeline);
@@ -226,6 +372,14 @@ async function fetchPlatforms() {
     if (badgeTiktok) badgeTiktok.innerText = data.tiktok?.length || 0;
     const badgeToolify = document.getElementById("badgeToolifyCount");
     if (badgeToolify) badgeToolify.innerText = data.toolify?.length || 0;
+    const badgeYoutube = document.getElementById("badgeYoutubeCount");
+    if (badgeYoutube) badgeYoutube.innerText = data.youtube?.length || 0;
+    const badgeTwitter = document.getElementById("badgeTwitterCount");
+    if (badgeTwitter) badgeTwitter.innerText = data.twitter?.length || 0;
+    const badgeHosted = document.getElementById("badgeHostedCount");
+    if (badgeHosted) badgeHosted.innerText = data.hosted?.length || 0;
+    const badgeHn = document.getElementById("badgeHnCount");
+    if (badgeHn) badgeHn.innerText = data.hn?.length || 0;
 
     renderPlatforms();
   } catch (err) {
@@ -360,13 +514,16 @@ function renderBreakouts() {
     const momentumClass = isMomentumUp ? "momentum-up" : (isDeclining ? "momentum-down" : "");
     const momentumArrow = isMomentumUp ? "↑" : (isDeclining ? "↓" : "→");
 
-    const percentWidth = Math.min(Math.round(((item.benchmarkRatio || 0) / maxRatio) * 100), 100);
+    const escapedKw = escapeHtml(item.keyword).replace(/'/g, "\\'");
 
     return `
-      <div class="breakout-card">
+      <div class="breakout-card clickable-card" onclick="openKeywordDetail('${escapedKw}')" title="点击查看 360° 深度诊断与时序画像">
         <div class="card-top">
           <div class="keyword-wrap">
-            <h4 class="keyword-text">${escapeHtml(item.keyword)}</h4>
+            <h4 class="keyword-text clickable-keyword">
+              ${escapeHtml(item.keyword)}
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="opacity:0.6;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            </h4>
             <div class="entity-subtext">
               <span>母体: <strong>${escapeHtml(item.entityDisplayName || item.entity)}</strong></span>
               <span>·</span>
@@ -397,7 +554,7 @@ function renderBreakouts() {
         }
 
         <div class="card-bottom-actions">
-          <div class="external-links">
+          <div class="external-links" onclick="event.stopPropagation()">
             <a href="https://trends.google.com/trends/explore?q=${encodeURIComponent(item.keyword)}" target="_blank" class="link-trends" rel="noopener" title="查看关键词真实趋势">
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
               Google Trends
@@ -700,6 +857,165 @@ function renderPlatforms() {
       `).join("");
     }
   }
+
+  // YouTube Shorts & Trending Table
+  const youtubeTbody = document.getElementById("youtubeTableBody");
+  const youtubeItems = state.platformsData.youtube || [];
+
+  if (youtubeTbody) {
+    if (youtubeItems.length === 0) {
+      youtubeTbody.innerHTML = `<tr><td colspan="7" style="text-align:center; padding:30px; color:var(--text-dim);">暂无 YouTube Shorts/Trending 数据 (可运行 npm run fetch:youtube 触发)</td></tr>`;
+    } else {
+      youtubeTbody.innerHTML = youtubeItems.slice(0, 60).map((item) => {
+        const isShorts = item.sourceType === "shorts" || item.sourceType === "shorts_keyword";
+        return `
+        <tr>
+          <td style="font-weight: 700; color: #fff; max-width: 280px;">
+            <div style="margin-bottom: 4px;">
+              <a href="${item.url}" target="_blank" style="color:#ef4444; text-decoration:none; font-weight:700;">
+                ▶ ${escapeHtml(item.title)} ↗
+              </a>
+            </div>
+            <div style="font-size: 11px; color: #94a3b8;">
+              来源: ${escapeHtml(item.channelOrAuthor || "YouTube")}
+            </div>
+          </td>
+          <td>
+            <span class="${isShorts ? 'badge-rose' : 'badge-blue'}" style="padding: 2px 8px; border-radius: var(--radius-full); font-size: 11px;">
+              ${isShorts ? '🔥 Shorts' : '📹 视频/热词'}
+            </span>
+          </td>
+          <td style="color: #cbd5e1; font-size: 12px;">${escapeHtml(item.channelOrAuthor || "YouTube")}</td>
+          <td><strong style="color: #38bdf8; font-family: monospace;">${escapeHtml(item.extractedKeyword)}</strong></td>
+          <td><strong style="color: var(--cyan-primary); font-family: monospace;">${item.demandScore || 85} / 100</strong></td>
+          <td style="font-family: monospace; font-size: 11px; color: #a5b4fc;">
+            ${(item.emdDomainIdeas || []).slice(0, 2).map(d => `<span style="background:rgba(255,255,255,0.06); padding:2px 6px; border-radius:4px; margin-right:4px;">${escapeHtml(d)}</span>`).join("")}
+          </td>
+          <td style="color: #cbd5e1; font-size: 12px; max-width: 220px;">
+            ${escapeHtml(item.suggestedAction)}
+          </td>
+        </tr>
+      `;
+      }).join("");
+    }
+  }
+
+  // Twitter/X AI KOL Table
+  const twitterTbody = document.getElementById("twitterTableBody");
+  const twitterItems = state.platformsData.twitter || [];
+
+  if (twitterTbody) {
+    if (twitterItems.length === 0) {
+      twitterTbody.innerHTML = `<tr><td colspan="7" style="text-align:center; padding:30px; color:var(--text-dim);">暂无 Twitter/X KOL 动态情报 (可运行 npm run fetch:twitter 触发)</td></tr>`;
+    } else {
+      twitterTbody.innerHTML = twitterItems.slice(0, 50).map((item) => `
+        <tr>
+          <td style="font-weight: 700; color: #fff;">
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="font-size: 16px;">𝕏</span>
+              <div>
+                <a href="${item.tweetUrl}" target="_blank" style="color:#38bdf8; text-decoration:none; font-weight:700;">
+                  @${escapeHtml(item.handle)} ↗
+                </a>
+                <div style="font-size: 11px; color: #94a3b8;">${escapeHtml(item.authorName)}</div>
+              </div>
+            </div>
+          </td>
+          <td style="font-size: 12px; color: #e2e8f0; max-width: 180px;">${escapeHtml(item.authorBio?.slice(0, 60))}</td>
+          <td style="font-size: 12px; color: #f1f5f9; max-width: 280px; line-height: 1.4;">
+            ${escapeHtml(item.tweetTitle)}
+          </td>
+          <td>
+            ${(item.extractedKeywords || []).map(k => `<span class="badge-emerald" style="padding: 1px 6px; border-radius: 4px; font-size: 11px; margin-right: 3px;">${escapeHtml(k)}</span>`).join("") || '<span style="color:#64748b; font-size:11px;">无新实体</span>'}
+          </td>
+          <td><strong style="color: #f59e0b; font-family: monospace;">★ ${item.impactScore}</strong></td>
+          <td>
+            <span class="badge-blue" style="padding: 2px 6px; border-radius: 4px; font-size: 10px;">
+              ${item.captureChannel === 'nitter_mirror' ? 'Nitter镜像' : (item.captureChannel === 'realtime_x_mention' ? '全网推文流' : '开放元数据')}
+            </span>
+          </td>
+          <td style="color: #cbd5e1; font-size: 12px; max-width: 220px;">
+            <div style="margin-bottom: 4px;">${escapeHtml(item.suggestedAction)}</div>
+            <a href="${item.tweetUrl}" target="_blank" style="color: #60a5fa; text-decoration: none; font-size: 11px;">查看推文 ↗</a>
+          </td>
+        </tr>
+      `).join("");
+    }
+  }
+
+  // 免费托管新站雷达 (Vercel / GitHub.io / Pages.dev)
+  const hostedTbody = document.getElementById("hostedTableBody");
+  const hostedItems = state.platformsData.hosted || [];
+  if (hostedTbody) {
+    if (hostedItems.length === 0) {
+      hostedTbody.innerHTML = `<tr><td colspan="6" style="text-align:center; padding:30px; color:var(--text-dim);">暂无托管新站数据 (可运行 npm run fetch:hosted 触发)</td></tr>`;
+    } else {
+      hostedTbody.innerHTML = hostedItems.slice(0, 100).map((item) => `
+        <tr>
+          <td style="font-weight: 700; color: #fff;">
+            <a href="${item.domain}" target="_blank" style="color: var(--cyan-primary); text-decoration: none; font-size: 13px;">
+              ${escapeHtml(item.title || item.domain)} ↗
+            </a>
+            <div style="font-size: 11px; color: #94a3b8; font-family: monospace;">${escapeHtml(item.domain)}</div>
+          </td>
+          <td>
+            <span class="badge-blue" style="padding: 2px 8px; border-radius: 4px; font-size: 11px;">
+              ${item.platform === 'vercel' ? '▲ Vercel' : (item.platform === 'cloudflare' ? '☁ Cloudflare' : '🐙 GitHub')}
+            </span>
+          </td>
+          <td style="font-size: 12px; color: #cbd5e1; max-width: 260px; line-height: 1.4;">
+            ${escapeHtml(item.description)}
+          </td>
+          <td>
+            ${(item.extractedKeywords || []).map(k => `<span class="badge-emerald" style="padding: 1px 6px; border-radius: 4px; font-size: 11px; margin-right: 3px;">${escapeHtml(k)}</span>`).join("")}
+          </td>
+          <td style="font-size: 11px; color: #94a3b8; font-family: monospace;">
+            ${item.firstSeenAt ? new Date(item.firstSeenAt).toLocaleDateString() : '近期'}
+          </td>
+          <td>
+            <a href="${item.domain}" target="_blank" style="color: #38bdf8; text-decoration: none; font-size: 12px; display:block; margin-bottom:2px;">访问站点 ↗</a>
+            <a href="${item.sourceUrl}" target="_blank" style="color: #64748b; text-decoration: none; font-size: 11px; display:block;">来源代码/搜索 ↗</a>
+          </td>
+        </tr>
+      `).join("");
+    }
+  }
+
+  // Hacker News 创客新站雷达
+  const hnTbody = document.getElementById("hnTableBody");
+  const hnItems = state.platformsData.hn || [];
+  if (hnTbody) {
+    if (hnItems.length === 0) {
+      hnTbody.innerHTML = `<tr><td colspan="6" style="text-align:center; padding:30px; color:var(--text-dim);">暂无 HN 创客新站数据 (可运行 npm run fetch:hn 触发)</td></tr>`;
+    } else {
+      hnTbody.innerHTML = hnItems.slice(0, 100).map((item) => `
+        <tr>
+          <td style="font-weight: 700; color: #fff;">
+            <a href="${item.url}" target="_blank" style="color: #fb923c; text-decoration: none; font-size: 13px;">
+              ${escapeHtml(item.title)} ↗
+            </a>
+          </td>
+          <td style="font-size: 12px; color: #94a3b8;">${escapeHtml(item.author)}</td>
+          <td>
+            <span style="color: #f59e0b; font-weight:700; font-size:12px;">▲ ${item.points}</span>
+            <span style="color: #64748b; font-size:11px; margin-left:6px;">💬 ${item.commentsCount}</span>
+          </td>
+          <td style="font-size: 12px; color: #cbd5e1; max-width: 260px; line-height: 1.4;">
+            <div style="background: rgba(249, 115, 22, 0.08); border-left: 2px solid #f97316; padding: 4px 8px; border-radius: 4px;">
+              ${escapeHtml(item.painPointSummary)}
+            </div>
+          </td>
+          <td>
+            ${(item.extractedKeywords || []).map(k => `<span class="badge-cyan" style="padding: 1px 6px; border-radius: 4px; font-size: 11px; margin-right: 3px;">${escapeHtml(k)}</span>`).join("")}
+          </td>
+          <td>
+            <a href="${item.url}" target="_blank" style="color: #38bdf8; text-decoration: none; font-size: 12px; display:block; margin-bottom:2px;">产品官网 ↗</a>
+            <a href="${item.hnUrl}" target="_blank" style="color: #fb923c; text-decoration: none; font-size: 11px; display:block;">HN 讨论区 ↗</a>
+          </td>
+        </tr>
+      `).join("");
+    }
+  }
 }
 
 // 4. 渲染研报列表
@@ -790,12 +1106,19 @@ window.copyText = function (text) {
 // ==========================================
 document.addEventListener("DOMContentLoaded", () => {
   setupSSE();
+  fetchStreamData();
   fetchOverview();
   fetchBreakouts();
   fetchArbitrage();
   fetchPlatforms();
   fetchReports();
   fetchSeeds();
+
+  // 0. 刷新动态流
+  document.getElementById("btnRefreshStream")?.addEventListener("click", () => {
+    showToast("正在拉取最新动态流...");
+    fetchStreamData();
+  });
 
   // 1. Tab 切换
   document.querySelectorAll(".nav-tab").forEach((tabBtn) => {
@@ -871,6 +1194,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 6. 刷新按钮
   document.getElementById("btnRefresh")?.addEventListener("click", () => {
     showToast("正在重新同步最新数据...");
+    fetchStreamData();
     fetchOverview();
     fetchBreakouts();
     fetchArbitrage();
@@ -995,4 +1319,152 @@ document.addEventListener("DOMContentLoaded", () => {
       showToast("当前暂无研报内容");
     }
   });
+
+  // 11. 关键词 360° 深度详情模态框关闭事件
+  const detailModal = document.getElementById("keywordDetailModal");
+  function closeDetailModal() {
+    if (detailModal) {
+      detailModal.style.display = "none";
+      detailModal.classList.remove("active");
+    }
+  }
+  document.getElementById("btnCloseDetailModal")?.addEventListener("click", closeDetailModal);
+  document.getElementById("btnDetailCloseFooter")?.addEventListener("click", closeDetailModal);
+  detailModal?.addEventListener("click", (e) => {
+    if (e.target === detailModal) closeDetailModal();
+  });
 });
+
+// ==========================================
+// 关键词 360° 深度诊断模态触发与渲染函数
+// ==========================================
+window.openKeywordDetail = async function (keyword) {
+  console.log("Opening detail for keyword:", keyword);
+  const modal = document.getElementById("keywordDetailModal");
+  if (!modal) {
+    console.error("keywordDetailModal not found!");
+    return;
+  }
+
+  // 重置初始内容并展示 Loading
+  modal.style.display = "flex";
+  modal.classList.add("active");
+  document.getElementById("modalKeywordTitle").innerText = keyword;
+  document.getElementById("modalLifecycleBadge").innerText = "诊断中...";
+  document.getElementById("modalRatioVal").innerText = "...";
+  document.getElementById("modalFirstSeen").innerText = "...";
+  document.getElementById("modalBreakoutDate").innerText = "...";
+  document.getElementById("modalMomentumVal").innerText = "...";
+  document.getElementById("modalCategoryVal").innerText = "...";
+  document.getElementById("modalEntitySub").innerText = "...";
+  document.getElementById("modalWhatIsIt").innerText = "正在查询全球数据库与实时 SERP 竞争格局...";
+  document.getElementById("modalUserIntent").innerText = "正在逆向搜索意图与需求痛点...";
+  document.getElementById("modalActionSuggestion").innerText = "正在生成最佳套利与出海落地路径...";
+  document.getElementById("modalSerpSummary").innerText = "正在扫描 Google 前两页排名站点...";
+  document.getElementById("modalSerpDominantDomains").innerHTML = "";
+  document.getElementById("modalLongtailContainer").innerHTML = "";
+
+  try {
+    const res = await fetch(`/api/keyword-detail/${encodeURIComponent(keyword)}`);
+    if (!res.ok) throw new Error("获取详情失败");
+    const d = await res.json();
+
+    // 填充顶部指标
+    document.getElementById("modalKeywordTitle").innerText = d.keyword;
+    document.getElementById("modalLifecycleBadge").innerText = d.lifecycleStage;
+    document.getElementById("modalFeasibilityBadge").innerText = d.feasibility?.opportunityLevel || "良好机会";
+    document.getElementById("modalRatioVal").innerText = d.benchmarkRatioFormatted;
+    document.getElementById("modalFirstSeen").innerText = d.firstSeenDate || "近期";
+    document.getElementById("modalBreakoutDate").innerText = d.breakoutDate || "近期";
+    document.getElementById("modalMomentumVal").innerText = d.currentMomentum || "上升中";
+    document.getElementById("modalCategoryVal").innerText = d.category;
+    document.getElementById("modalEntitySub").innerText = `归属: ${d.entityDisplayName}`;
+
+    // 填充三段式业务诊断
+    document.getElementById("modalWhatIsIt").innerText = d.analysis?.whatIsIt || "--";
+    document.getElementById("modalUserIntent").innerText = d.analysis?.userIntent || "--";
+    document.getElementById("modalActionSuggestion").innerText = d.analysis?.actionSuggestion || "--";
+
+    // 填充 SERP 前两页竞争
+    const f = d.feasibility || {};
+    document.getElementById("modalSerpDifficultyText").innerText = `竞争难度分: ${f.difficultyScore}/100 · ${f.opportunityLevel}`;
+    document.getElementById("modalSerpSummary").innerText = f.summaryNote || "前排竞争格局扫描完毕";
+    const domBox = document.getElementById("modalSerpDominantDomains");
+    domBox.innerHTML = (f.dominantDomains || []).map(dom => {
+      const isIndie = dom.includes("vercel") || dom.includes("github.io") || dom.includes("pages.dev");
+      return `<span style="background:${isIndie ? 'rgba(16,185,129,0.15)' : 'rgba(255,255,255,0.06)'}; border:1px solid ${isIndie ? '#10b981' : 'rgba(255,255,255,0.1)'}; color:${isIndie ? '#34d399' : '#94a3b8'}; padding:2px 8px; border-radius:4px; font-size:11px; font-family:monospace;">${escapeHtml(dom)}${isIndie ? ' (★独立小站)' : ''}</span>`;
+    }).join("");
+
+    // 填充内页长尾词
+    const ltBox = document.getElementById("modalLongtailContainer");
+    const longtails = d.longTailKeywords || [];
+    if (longtails.length === 0) {
+      ltBox.innerHTML = `<span style="color:#64748b; font-size:12px;">暂无扩展长尾词</span>`;
+    } else {
+      ltBox.innerHTML = longtails.map(lt => `
+        <span class="longtail-pill" onclick="openKeywordDetail('${escapeHtml(lt).replace(/'/g, "\\'")}')" title="点击下钻查看该长尾词详情">
+          + ${escapeHtml(lt)}
+        </span>
+      `).join("");
+    }
+
+    // 链接
+    document.getElementById("modalLinkTrends").href = d.trendsUrl;
+    document.getElementById("modalLinkSerp").href = d.serpUrl;
+
+    // 绘制时序图
+    renderModalSvgChart(d.historyPoints || []);
+
+  } catch (err) {
+    document.getElementById("modalWhatIsIt").innerText = `加载失败: ${err.message}`;
+  }
+};
+
+// 绘制轻量 SVG 趋势折线图
+function renderModalSvgChart(points) {
+  const container = document.getElementById("modalSvgChartContainer");
+  if (!container || points.length === 0) return;
+
+  const w = container.clientWidth || 800;
+  const h = 130;
+  const pad = 25;
+
+  const maxVal = Math.max(...points.map(p => p.value), 10);
+  const minVal = 0;
+
+  const coords = points.map((p, i) => {
+    const x = pad + (i / (points.length - 1)) * (w - pad * 2);
+    const y = h - pad - ((p.value - minVal) / (maxVal - minVal)) * (h - pad * 2);
+    return { x, y, date: p.date, val: p.value };
+  });
+
+  const pathD = coords.reduce((acc, c, i) => {
+    return i === 0 ? `M ${c.x} ${c.y}` : `${acc} L ${c.x} ${c.y}`;
+  }, "");
+
+  const areaD = `${pathD} L ${coords[coords.length - 1].x} ${h - pad} L ${coords[0].x} ${h - pad} Z`;
+
+  container.innerHTML = `
+    <svg width="100%" height="100%" viewBox="0 0 ${w} ${h}">
+      <defs>
+        <linearGradient id="chartGrad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.35"/>
+          <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.0"/>
+        </linearGradient>
+      </defs>
+      <!-- Base Grid Line -->
+      <line x1="${pad}" y1="${h - pad}" x2="${w - pad}" y2="${h - pad}" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <!-- Area Fill -->
+      <path d="${areaD}" fill="url(#chartGrad)"/>
+      <!-- Line Stroke -->
+      <path d="${pathD}" fill="none" stroke="#00f2fe" stroke-width="2.5" stroke-linecap="round"/>
+      <!-- Points & Tooltips -->
+      ${coords.map(c => `
+        <circle cx="${c.x}" cy="${c.y}" r="4" fill="#090d16" stroke="#00f2fe" stroke-width="2"/>
+        <text x="${c.x}" y="${h - 8}" font-size="10" fill="#64748b" text-anchor="middle" font-family="monospace">${c.date}</text>
+        <text x="${c.x}" y="${c.y - 8}" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="monospace">${c.val}</text>
+      `).join("")}
+    </svg>
+  `;
+}
+

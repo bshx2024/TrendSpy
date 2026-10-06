@@ -93,16 +93,20 @@
       <div class="kpi-card card-glow-rose">
         <div class="kpi-header">
           <span class="kpi-title">全网实时多源数据</span>
-          <span class="kpi-badge badge-rose" id="kpiSourceBadge">📡 5 大源</span>
+          <span class="kpi-badge badge-rose" id="kpiSourceBadge">📡 7 大全网源</span>
         </div>
         <div class="kpi-value" id="kpiMultiSource">--</div>
-        <div class="kpi-footer">Google + GitHub + Reddit + TikTok + Toolify</div>
+        <div class="kpi-footer">Google + GitHub + Reddit + TikTok + Toolify + YouTube + X/Twitter</div>
       </div>
     </section>
 
     <!-- Navigation Tabs -->
     <nav class="nav-tabs" role="tablist">
-      <button class="nav-tab active" data-tab="tab-breakouts">
+      <button class="nav-tab active" data-tab="tab-stream">
+        <span class="tab-icon">⚡</span> 极简实时流 (WebCafe 经典)
+        <span class="tab-pill badge-hot" id="pillStreamCount">LIVE</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-breakouts">
         <span class="tab-icon">🚀</span> 爆发新词与标尺量化
         <span class="tab-pill" id="pillBreakoutsCount">0</span>
       </button>
@@ -110,7 +114,7 @@
         <span class="tab-icon">🎯</span> 流量套利与产品机会
         <span class="tab-pill" id="pillArbitrageCount">0</span>
       </button>
-        <button class="nav-tab" data-tab="tab-platforms">
+      <button class="nav-tab" data-tab="tab-platforms">
         <span class="tab-icon">📡</span> 多源监控实时情报
         <span class="tab-pill" id="pillPlatformsCount">5 源</span>
       </button>
@@ -124,8 +128,130 @@
       </button>
     </nav>
 
+    <!-- Tab 0: 极简实时流 (WebCafe 经典看板) -->
+    <section class="tab-pane active" id="tab-stream">
+      <!-- 顶部 3 大核心板块看板 -->
+      <div class="stream-overview-grid" id="streamOverviewGrid">
+        <!-- 关键词库 -->
+        <div class="stream-kpi-card">
+          <div class="stream-kpi-header">
+            <span class="stream-kpi-title">关键词库</span>
+            <span class="stream-kpi-tag">每日追踪</span>
+          </div>
+          <div class="stream-kpi-desc">
+            每24小时从互联网抓取500多个新词，提取出新词库、二次爆火词库、长尾词库三大块。
+          </div>
+          <div class="stream-kpi-metrics-row">
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamKwTotal">12,132</span>
+              <span class="stream-metric-lbl">全部数据</span>
+            </div>
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamKwToday">355</span>
+              <span class="stream-metric-lbl">今日新词</span>
+            </div>
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamKwResurging">495</span>
+              <span class="stream-metric-lbl">二次爆火</span>
+            </div>
+          </div>
+          <ul class="stream-kpi-bullets">
+            <li>追踪新词特征，每个词都有线下落地场景</li>
+            <li>服务小众创业、用于出海和做垂直站</li>
+            <li>重点提取包含商业价值行业词：如游戏出海、独立开发、多小创意</li>
+          </ul>
+          <div class="stream-kpi-time" id="streamKwTime">最后更新: 2026-10-07 04:14</div>
+        </div>
+
+        <!-- HN 新站 -->
+        <div class="stream-kpi-card">
+          <div class="stream-kpi-header">
+            <span class="stream-kpi-title">HN 新站</span>
+            <span class="stream-kpi-tag">每日追踪</span>
+          </div>
+          <div class="stream-kpi-desc">
+            Hacker News 上每天新发布的项目；提取几千个公开、伪匿名讨论——判断关键量，巨大热度新词，找入局机会与入局时机。
+          </div>
+          <div class="stream-kpi-metrics-row">
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamHnTotal">460</span>
+              <span class="stream-metric-lbl">全部新站</span>
+            </div>
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamHn7d">493</span>
+              <span class="stream-metric-lbl">最近7天</span>
+            </div>
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamHn24h">28</span>
+              <span class="stream-metric-lbl">24小时内</span>
+            </div>
+          </div>
+          <ul class="stream-kpi-bullets">
+            <li>提取社区讨论背后在做甚么</li>
+            <li>某一件事情火热后，上面往往会跟进</li>
+            <li>决策入局速度更快</li>
+          </ul>
+          <div class="stream-kpi-time" id="streamHnTime">最后更新: 2026-10-07 04:14</div>
+        </div>
+
+        <!-- 托管新站 -->
+        <div class="stream-kpi-card">
+          <div class="stream-kpi-header">
+            <span class="stream-kpi-title">托管新站</span>
+            <span class="stream-kpi-tag tag-exclusive">独家追踪</span>
+          </div>
+          <div class="stream-kpi-desc">
+            vercel.app、github.io、pages.dev 等各托管平台上最新自动化爬取的站点：每个新站小项目，早期小流量。
+          </div>
+          <div class="stream-kpi-metrics-row">
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamHostedTotal">14,731</span>
+              <span class="stream-metric-lbl">全部网站</span>
+            </div>
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamHostedCycle">1,492</span>
+              <span class="stream-metric-lbl">最新一个周期挖掘</span>
+            </div>
+            <div class="stream-metric-col">
+              <span class="stream-metric-val" id="streamHostedPioneer">25,281</span>
+              <span class="stream-metric-lbl">先锋</span>
+            </div>
+          </div>
+          <ul class="stream-kpi-bullets">
+            <li>监控它们开始在哪些搜索引擎有了初期流量</li>
+            <li>通过爬虫发现早期低成本低竞争样本</li>
+            <li>投资回报比极高的新站、适合小团队跟进</li>
+          </ul>
+          <div class="stream-kpi-time" id="streamHostedTime">最后更新: 2026-10-06 17:13</div>
+        </div>
+      </div>
+
+      <!-- 更新动态 时间轴卡片流 -->
+      <div class="stream-timeline-section">
+        <div class="stream-timeline-header">
+          <div class="stream-timeline-title-wrap">
+            <h2 class="stream-timeline-title">更新动态</h2>
+            <span class="stream-timeline-subtitle" id="streamTimelineSubtitle">
+              每小时自动扫一批 · 今天已跑 1 批，新词 12、二次爆火 14、小游戏 13
+            </span>
+          </div>
+          <div class="stream-timeline-actions">
+            <button class="btn btn-sm btn-secondary" id="btnRefreshStream">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.3"/></svg>
+              刷新动态流
+            </button>
+          </div>
+        </div>
+
+        <!-- 批次卡片容器 -->
+        <div class="stream-batches-container" id="streamBatchesContainer">
+          <!-- Rendered by JS -->
+        </div>
+      </div>
+    </section>
+
     <!-- Tab 1: 爆发新词与标尺量化 -->
-    <section class="tab-pane active" id="tab-breakouts">
+    <section class="tab-pane" id="tab-breakouts">
       <!-- Filter Bar -->
       <div class="filter-bar">
         <div class="filter-group">
@@ -195,6 +321,18 @@
         </button>
         <button class="subtab-btn" data-subtab="subtab-tiktok">
           🎵 TikTok 视频特效与模版雷达 <span class="badge-sm" id="badgeTiktokCount">0</span>
+        </button>
+        <button class="subtab-btn" data-subtab="subtab-youtube">
+          🎥 YouTube Shorts & 爆款视频 <span class="badge-sm" id="badgeYoutubeCount">0</span>
+        </button>
+        <button class="subtab-btn" data-subtab="subtab-twitter">
+          🐦 Twitter/X 关键 AI KOL 情报 <span class="badge-sm" id="badgeTwitterCount">0</span>
+        </button>
+        <button class="subtab-btn" data-subtab="subtab-hosted">
+          🌐 托管新站雷达 (Vercel/Pages) <span class="badge-sm" id="badgeHostedCount">0</span>
+        </button>
+        <button class="subtab-btn" data-subtab="subtab-hn">
+          📰 HN 创客新站 & 痛点 <span class="badge-sm" id="badgeHnCount">0</span>
         </button>
         <button class="subtab-btn" data-subtab="subtab-toolify">
           🛠️ Toolify 新上线 AI 工具 <span class="badge-sm" id="badgeToolifyCount">0</span>
@@ -273,6 +411,92 @@
               </tr>
             </thead>
             <tbody id="toolifyTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- YouTube Subtab -->
+      <div class="subtab-pane" id="subtab-youtube">
+        <div class="data-table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>YouTube 爆款标题 / Shorts 视频</th>
+                <th>内容类型</th>
+                <th>频道 / 来源</th>
+                <th>提炼核心关键词</th>
+                <th>需求指数</th>
+                <th>EMD 域名推荐</th>
+                <th>💡 落地建议</th>
+              </tr>
+            </thead>
+            <tbody id="youtubeTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Twitter / X AI KOL Subtab -->
+      <div class="subtab-pane" id="subtab-twitter">
+        <div class="data-table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>KOL 账号 / 领军人物</th>
+                <th>机构 / 身份</th>
+                <th>动态标题 / 关键推文内容</th>
+                <th>核心提及新词</th>
+                <th>影响力权重</th>
+                <th>抓取通道</th>
+                <th>落地动作 / 原始链接</th>
+              </tr>
+            </thead>
+            <tbody id="twitterTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Hosted Sites Subtab (Vercel / Cloudflare Pages / GitHub.io) -->
+      <div class="subtab-pane" id="subtab-hosted">
+        <div class="data-table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>免费托管新站域名 / 产品名</th>
+                <th>托管平台</th>
+                <th>产品简介 / 痛点定位</th>
+                <th>提取关键词</th>
+                <th>首次收录时间</th>
+                <th>直达 / 验证</th>
+              </tr>
+            </thead>
+            <tbody id="hostedTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Hacker News New Projects Subtab -->
+      <div class="subtab-pane" id="subtab-hn">
+        <div class="data-table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Show HN 项目名称</th>
+                <th>作者</th>
+                <th>点赞 / 评论</th>
+                <th>发布痛点提炼</th>
+                <th>冲高关键词</th>
+                <th>直达产品 / HN 讨论</th>
+              </tr>
+            </thead>
+            <tbody id="hnTableBody">
               <!-- Rendered by JS -->
             </tbody>
           </table>
@@ -411,6 +635,116 @@
     </div>
     <div class="terminal-body" id="terminalLogArea">
       <div class="log-line system">[TrendSpy Console Ready] 等待执行流水线指令...</div>
+    </div>
+  </div>
+
+  <!-- Keyword 360° Depth Detail Modal (对标截图完整详情模态) -->
+  <div class="modal-overlay" id="keywordDetailModal" style="display:none; z-index: 200;">
+    <div class="modal-dialog modal-detail-dialog" style="max-width: 920px; width: 95%; max-height: 90vh; overflow-y: auto;">
+      <div class="modal-header" style="position: sticky; top: 0; background: var(--bg-surface); z-index: 10;">
+        <div class="modal-title">
+          <span class="modal-icon" style="background: rgba(56, 189, 248, 0.15); color: #38bdf8;">🔎</span>
+          <div>
+            <div style="display:flex; align-items:center; gap: 8px;">
+              <h3 id="modalKeywordTitle" style="font-size: 20px; font-weight: 800; color: #fff; margin:0;">--</h3>
+              <span class="stage-badge stage-breakout" id="modalLifecycleBadge">新词</span>
+              <span class="badge-emerald" id="modalFeasibilityBadge">良好机会</span>
+            </div>
+            <div style="font-size: 12px; color: var(--text-dim); margin-top: 2px;" id="modalBreadcrumb">
+              首页 / 关键词库 / 深度画像
+            </div>
+          </div>
+        </div>
+        <button class="modal-close" id="btnCloseDetailModal">&times;</button>
+      </div>
+
+      <div class="modal-body" style="padding: 24px;">
+        <!-- Top Metrics Cards -->
+        <div class="detail-metrics-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; margin-bottom: 20px;">
+          <div class="detail-kpi-card">
+            <span class="detail-kpi-label">热度 (GPTs 倍数)</span>
+            <span class="detail-kpi-val" id="modalRatioVal" style="color: var(--cyan-primary);">--</span>
+            <span class="detail-kpi-sub">基准月搜标尺</span>
+          </div>
+          <div class="detail-kpi-card">
+            <span class="detail-kpi-label">首次出现</span>
+            <span class="detail-kpi-val" id="modalFirstSeen">--</span>
+            <span class="detail-kpi-sub">最早捕获记录</span>
+          </div>
+          <div class="detail-kpi-card">
+            <span class="detail-kpi-label">爆发日</span>
+            <span class="detail-kpi-val" id="modalBreakoutDate">--</span>
+            <span class="detail-kpi-sub">单日量级飙升</span>
+          </div>
+          <div class="detail-kpi-card">
+            <span class="detail-kpi-label">当前动量</span>
+            <span class="detail-kpi-val" id="modalMomentumVal" style="color: #10b981;">--</span>
+            <span class="detail-kpi-sub">7天时序演进</span>
+          </div>
+          <div class="detail-kpi-card">
+            <span class="detail-kpi-label">所属赛道</span>
+            <span class="detail-kpi-val" id="modalCategoryVal" style="font-size: 13px;">--</span>
+            <span class="detail-kpi-sub" id="modalEntitySub">--</span>
+          </div>
+        </div>
+
+        <!-- Trend Line SVG Chart -->
+        <div class="detail-chart-box" style="background: rgba(0,0,0,0.25); border: 1px solid var(--border-subtle); border-radius: 8px; padding: 16px; margin-bottom: 20px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 12px;">
+            <span style="font-size: 13px; font-weight: 600; color: #fff;">📈 需求时序演化曲线 (Timeline & Momentum)</span>
+            <span style="font-size: 11px; color: #94a3b8;" id="modalChartDateRange">近期趋势对比</span>
+          </div>
+          <div id="modalSvgChartContainer" style="height: 140px; width: 100%;">
+            <!-- Rendered by JS via SVG -->
+          </div>
+        </div>
+
+        <!-- 3-Column Diagnostic Summary (是什么 / 用户想干什么 / 我们该怎么做) -->
+        <div class="diagnosis-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin-bottom: 20px;">
+          <div class="diagnosis-card" style="background: rgba(255,255,255,0.02); border: 1px solid var(--border-subtle); border-radius: 8px; padding: 14px;">
+            <div style="font-size: 12px; font-weight: 700; color: #38bdf8; margin-bottom: 6px;">📌 这是什么</div>
+            <p id="modalWhatIsIt" style="font-size: 13px; color: #cbd5e1; line-height: 1.5; margin:0;">--</p>
+          </div>
+          <div class="diagnosis-card" style="background: rgba(255,255,255,0.02); border: 1px solid var(--border-subtle); border-radius: 8px; padding: 14px;">
+            <div style="font-size: 12px; font-weight: 700; color: #f59e0b; margin-bottom: 6px;">🎯 用户想做什么</div>
+            <p id="modalUserIntent" style="font-size: 13px; color: #cbd5e1; line-height: 1.5; margin:0;">--</p>
+          </div>
+          <div class="diagnosis-card" style="background: rgba(16, 185, 129, 0.04); border: 1px solid rgba(16, 185, 129, 0.2); border-radius: 8px; padding: 14px;">
+            <div style="font-size: 12px; font-weight: 700; color: #10b981; margin-bottom: 6px;">🚀 我们怎么做 (出海套利)</div>
+            <p id="modalActionSuggestion" style="font-size: 13px; color: #ecfdf5; line-height: 1.5; margin:0;">--</p>
+          </div>
+        </div>
+
+        <!-- SERP Top 2 Pages Competitive Analysis -->
+        <div class="serp-section" style="background: rgba(0,0,0,0.2); border: 1px solid var(--border-subtle); border-radius: 8px; padding: 16px; margin-bottom: 20px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 10px;">
+            <span style="font-size: 14px; font-weight: 700; color: #fff;">🔍 谷歌前两页竞争分析 (是否专门做这个词)</span>
+            <span id="modalSerpDifficultyText" style="font-size: 12px; font-weight:600; color: #38bdf8;">--</span>
+          </div>
+          <p id="modalSerpSummary" style="font-size: 12px; color: #94a3b8; margin-bottom: 12px; line-height: 1.4;">--</p>
+          <div id="modalSerpDominantDomains" style="display:flex; flex-wrap:wrap; gap: 6px; margin-bottom: 10px;">
+            <!-- DOM Domains -->
+          </div>
+        </div>
+
+        <!-- Longtail / Interior Page Keywords (可以做成内页的词) -->
+        <div class="longtail-section" style="background: rgba(255,255,255,0.02); border: 1px solid var(--border-subtle); border-radius: 8px; padding: 16px;">
+          <div style="font-size: 13px; font-weight: 700; color: #fff; margin-bottom: 10px;">
+            📑 可以做成内页的长尾词 (共网民真实搜索长尾)
+          </div>
+          <div id="modalLongtailContainer" style="display:flex; flex-wrap:wrap; gap: 8px;">
+            <!-- Longtail tags -->
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-footer" style="position: sticky; bottom: 0; background: var(--bg-surface); z-index: 10; display:flex; justify-content:space-between;">
+        <div style="display:flex; gap: 10px;">
+          <a id="modalLinkTrends" href="#" target="_blank" class="btn btn-secondary" style="font-size:12px; text-decoration:none;">📈 Google Trends 对比 ↗</a>
+          <a id="modalLinkSerp" href="#" target="_blank" class="btn btn-secondary" style="font-size:12px; text-decoration:none;">🔍 实时 SERP 搜索 ↗</a>
+        </div>
+        <button class="btn btn-primary" id="btnDetailCloseFooter">确定 / 返回看板</button>
+      </div>
     </div>
   </div>
 

@@ -115,10 +115,11 @@ export class GoogleTrendsClient {
 
   /**
    * 抓取指定关键词的 Related Queries (TOP + RISING 飙升词)
+   * 支持指定国家地区 (如 "US" 或默认全球 "")
    */
-  public async fetchRelatedQueries(keyword: string, period = "today 1-m"): Promise<RelatedQueriesResult> {
+  public async fetchRelatedQueries(keyword: string, period = "today 1-m", geo = ""): Promise<RelatedQueriesResult> {
     try {
-      const widgets = await this.fetchExploreWidgets([{ keyword, time: period }]);
+      const widgets = await this.fetchExploreWidgets([{ keyword, time: period, geo }]);
       const relatedWidget = widgets.find((w: any) => w.id === "RELATED_QUERIES");
 
       if (!relatedWidget) {
