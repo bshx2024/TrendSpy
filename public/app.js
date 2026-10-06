@@ -1120,16 +1120,126 @@ document.addEventListener("DOMContentLoaded", () => {
     fetchStreamData();
   });
 
+  // 通用 Tab 切换函数
+  window.switchTab = function(tabId, subtabId = null) {
+    document.querySelectorAll(".nav-tab").forEach((b) => b.classList.remove("active"));
+    document.querySelectorAll(".tab-pane").forEach((p) => p.classList.remove("active"));
+
+    const targetTabBtn = document.querySelector(`.nav-tab[data-tab="${tabId}"]`);
+    if (targetTabBtn) targetTabBtn.classList.add("active");
+
+    const targetPane = document.getElementById(tabId);
+    if (targetPane) targetPane.classList.add("active");
+    state.activeTab = tabId;
+
+    if (subtabId) {
+      document.querySelectorAll(".subtab-btn").forEach((b) => b.classList.remove("active"));
+      document.querySelectorAll(".subtab-pane").forEach((p) => p.classList.remove("active"));
+      const subBtn = document.querySelector(`.subtab-btn[data-subtab="${subtabId}"]`);
+      if (subBtn) subBtn.classList.add("active");
+      const subPane = document.getElementById(subtabId);
+      if (subPane) subPane.classList.add("active");
+    }
+  };
+
+  // 0.1 顶部 KPI 卡片点击直达对应结果
+  document.getElementById("cardKpiBreakouts")?.addEventListener("click", () => {
+    window.switchTab("tab-breakouts");
+    document.querySelectorAll("[data-stage]").forEach((c) => c.classList.remove("active"));
+    const chip = document.querySelector('[data-stage="breakout"]');
+    if (chip) chip.classList.add("active");
+    state.filters.breakoutStage = "breakout";
+    renderBreakouts();
+    document.getElementById("tab-breakouts")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【首次爆发新词】结果列表");
+  });
+
+  document.getElementById("cardKpiReSurging")?.addEventListener("click", () => {
+    window.switchTab("tab-breakouts");
+    document.querySelectorAll("[data-stage]").forEach((c) => c.classList.remove("active"));
+    const chip = document.querySelector('[data-stage="resurging"]');
+    if (chip) chip.classList.add("active");
+    state.filters.breakoutStage = "resurging";
+    renderBreakouts();
+    document.getElementById("tab-breakouts")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【老词二次爆火】结果列表");
+  });
+
+  document.getElementById("cardKpiArbitrage")?.addEventListener("click", () => {
+    window.switchTab("tab-arbitrage");
+    document.getElementById("tab-arbitrage")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【流量套利与产品机会】看板");
+  });
+
+  document.getElementById("cardKpiEntities")?.addEventListener("click", () => {
+    window.switchTab("tab-seeds");
+    document.getElementById("tab-seeds")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【核心实体种子库】");
+  });
+
+  document.getElementById("cardKpiMultiSource")?.addEventListener("click", () => {
+    window.switchTab("tab-platforms");
+    document.getElementById("tab-platforms")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【多源监控实时情报】");
+  });
+
+  // 0.2 三大板块卡片点击直达
+  document.getElementById("cardStreamKeywordDb")?.addEventListener("click", (e) => {
+    // 若点击的是具体小列，不重复触发
+    if (e.target.closest("#colStreamKwToday") || e.target.closest("#colStreamKwResurging") || e.target.closest("#colStreamKwTotal")) return;
+    document.getElementById("streamBatchesContainer")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已向下平滑滚动至【更新动态】时间轴");
+  });
+
+  document.getElementById("colStreamKwToday")?.addEventListener("click", () => {
+    window.switchTab("tab-breakouts");
+    document.querySelectorAll("[data-stage]").forEach((c) => c.classList.remove("active"));
+    const chip = document.querySelector('[data-stage="breakout"]');
+    if (chip) chip.classList.add("active");
+    state.filters.breakoutStage = "breakout";
+    renderBreakouts();
+    document.getElementById("tab-breakouts")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【今日新词首次爆发】列表");
+  });
+
+  document.getElementById("colStreamKwResurging")?.addEventListener("click", () => {
+    window.switchTab("tab-breakouts");
+    document.querySelectorAll("[data-stage]").forEach((c) => c.classList.remove("active"));
+    const chip = document.querySelector('[data-stage="resurging"]');
+    if (chip) chip.classList.add("active");
+    state.filters.breakoutStage = "resurging";
+    renderBreakouts();
+    document.getElementById("tab-breakouts")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【老词二次爆火】列表");
+  });
+
+  document.getElementById("colStreamKwTotal")?.addEventListener("click", () => {
+    window.switchTab("tab-breakouts");
+    document.querySelectorAll("[data-stage]").forEach((c) => c.classList.remove("active"));
+    const chip = document.querySelector('[data-stage="all"]');
+    if (chip) chip.classList.add("active");
+    state.filters.breakoutStage = "all";
+    renderBreakouts();
+    document.getElementById("tab-breakouts")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【全部标尺量化词库】");
+  });
+
+  document.getElementById("cardStreamHn")?.addEventListener("click", () => {
+    window.switchTab("tab-platforms", "subtab-hn");
+    document.getElementById("tab-platforms")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【HN 创客新站与痛点雷达】");
+  });
+
+  document.getElementById("cardStreamHosted")?.addEventListener("click", () => {
+    window.switchTab("tab-platforms", "subtab-hosted");
+    document.getElementById("tab-platforms")?.scrollIntoView({ behavior: "smooth" });
+    showToast("已直达【托管新站雷达 (Vercel/Pages)】");
+  });
+
   // 1. Tab 切换
   document.querySelectorAll(".nav-tab").forEach((tabBtn) => {
     tabBtn.addEventListener("click", () => {
-      document.querySelectorAll(".nav-tab").forEach((b) => b.classList.remove("active"));
-      document.querySelectorAll(".tab-pane").forEach((p) => p.classList.remove("active"));
-
-      tabBtn.classList.add("active");
-      const targetPane = document.getElementById(tabBtn.dataset.tab);
-      if (targetPane) targetPane.classList.add("active");
-      state.activeTab = tabBtn.dataset.tab;
+      window.switchTab(tabBtn.dataset.tab);
     });
   });
 

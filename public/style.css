@@ -281,11 +281,28 @@ body {
   position: relative;
   overflow: hidden;
   transition: var(--transition-normal);
+  cursor: pointer;
+  user-select: none;
 }
 
 .kpi-card:hover {
-  transform: translateY(-2px);
-  border-color: rgba(255, 255, 255, 0.14);
+  transform: translateY(-3px);
+  border-color: rgba(255, 255, 255, 0.22);
+  box-shadow: 0 10px 24px -5px rgba(0, 0, 0, 0.5);
+}
+
+.kpi-click-hint {
+  font-size: 11px;
+  color: var(--cyan-primary);
+  opacity: 0.85;
+  margin-left: 6px;
+  font-weight: 600;
+  transition: opacity 0.15s ease;
+}
+
+.kpi-card:hover .kpi-click-hint {
+  opacity: 1;
+  text-decoration: underline;
 }
 
 .card-glow-cyan::after {

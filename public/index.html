@@ -52,51 +52,51 @@
 
   <!-- Main Container -->
   <main class="main-layout">
-    <!-- Top KPI Cards -->
+    <!-- Top KPI Cards (Clickable Direct Entry) -->
     <section class="kpi-grid" id="kpiGrid">
-      <div class="kpi-card card-glow-cyan">
+      <div class="kpi-card card-glow-cyan" id="cardKpiBreakouts" role="button" tabindex="0" title="点击直达：查看首次爆发新词列表">
         <div class="kpi-header">
           <span class="kpi-title">爆发新词 (Breakouts)</span>
           <span class="kpi-badge badge-cyan">🔥 飙升 &gt;5000%</span>
         </div>
         <div class="kpi-value" id="kpiBreakouts">--</div>
-        <div class="kpi-footer">首次爆发，黄金入场窗口期</div>
+        <div class="kpi-footer">首次爆发，黄金入场期 <span class="kpi-click-hint">查看结果 ↗</span></div>
       </div>
 
-      <div class="kpi-card card-glow-purple">
+      <div class="kpi-card card-glow-purple" id="cardKpiReSurging" role="button" tabindex="0" title="点击直达：查看老词二次爆火列表">
         <div class="kpi-header">
           <span class="kpi-title">老词二次爆火 (Re-Surging)</span>
           <span class="kpi-badge badge-purple">📈 二次拉升</span>
         </div>
         <div class="kpi-value" id="kpiReSurging">--</div>
-        <div class="kpi-footer">历史沉淀后再次破圈</div>
+        <div class="kpi-footer">历史沉淀后再次破圈 <span class="kpi-click-hint">查看结果 ↗</span></div>
       </div>
 
-      <div class="kpi-card card-glow-emerald">
+      <div class="kpi-card card-glow-emerald" id="cardKpiArbitrage" role="button" tabindex="0" title="点击直达：查看核验套利机会与EMD域名">
         <div class="kpi-header">
           <span class="kpi-title">核验套利机会 (Arbitrage)</span>
           <span class="kpi-badge badge-emerald">💎 可落地</span>
         </div>
         <div class="kpi-value" id="kpiArbitrage">--</div>
-        <div class="kpi-footer">带 EMD 域名与 C 端产品化方案</div>
+        <div class="kpi-footer">带 EMD 域名与落地产品 <span class="kpi-click-hint">查看结果 ↗</span></div>
       </div>
 
-      <div class="kpi-card card-glow-amber">
+      <div class="kpi-card card-glow-amber" id="cardKpiEntities" role="button" tabindex="0" title="点击直达：查看核心实体种子库">
         <div class="kpi-header">
           <span class="kpi-title">监控实体 &amp; 标尺覆盖</span>
           <span class="kpi-badge badge-amber">⚖️ GPTs 标尺</span>
         </div>
         <div class="kpi-value" id="kpiEntities">--</div>
-        <div class="kpi-footer">覆盖 AI生图、视频、LLM等核心赛道</div>
+        <div class="kpi-footer">覆盖 AI 与游戏等核心生态 <span class="kpi-click-hint">查看库 ↗</span></div>
       </div>
 
-      <div class="kpi-card card-glow-rose">
+      <div class="kpi-card card-glow-rose" id="cardKpiMultiSource" role="button" tabindex="0" title="点击直达：查看全网实时多源数据">
         <div class="kpi-header">
           <span class="kpi-title">全网实时多源数据</span>
           <span class="kpi-badge badge-rose" id="kpiSourceBadge">📡 7 大全网源</span>
         </div>
         <div class="kpi-value" id="kpiMultiSource">--</div>
-        <div class="kpi-footer">Google + GitHub + Reddit + TikTok + Toolify + YouTube + X/Twitter</div>
+        <div class="kpi-footer">Google+GitHub+Reddit等多源 <span class="kpi-click-hint">查看源 ↗</span></div>
       </div>
     </section>
 
@@ -133,24 +133,25 @@
       <!-- 顶部 3 大核心板块看板 -->
       <div class="stream-overview-grid" id="streamOverviewGrid">
         <!-- 关键词库 -->
-        <div class="stream-kpi-card">
+        <div class="stream-kpi-card" id="cardStreamKeywordDb" role="button" tabindex="0" title="点击直达：滚动至下方【更新动态】时间轴">
           <div class="stream-kpi-header">
             <span class="stream-kpi-title">关键词库</span>
             <span class="stream-kpi-tag">每日追踪</span>
+            <span class="kpi-click-hint" style="margin-left:auto;">查看动态 ↓</span>
           </div>
           <div class="stream-kpi-desc">
             每24小时从互联网抓取500多个新词，提取出新词库、二次爆火词库、长尾词库三大块。
           </div>
           <div class="stream-kpi-metrics-row">
-            <div class="stream-metric-col">
+            <div class="stream-metric-col" id="colStreamKwTotal" style="cursor:pointer;" title="查看全部词库">
               <span class="stream-metric-val" id="streamKwTotal">12,132</span>
               <span class="stream-metric-lbl">全部数据</span>
             </div>
-            <div class="stream-metric-col">
+            <div class="stream-metric-col" id="colStreamKwToday" style="cursor:pointer;" title="查看今日新词">
               <span class="stream-metric-val" id="streamKwToday">355</span>
               <span class="stream-metric-lbl">今日新词</span>
             </div>
-            <div class="stream-metric-col">
+            <div class="stream-metric-col" id="colStreamKwResurging" style="cursor:pointer;" title="查看二次爆火">
               <span class="stream-metric-val" id="streamKwResurging">495</span>
               <span class="stream-metric-lbl">二次爆火</span>
             </div>
@@ -164,10 +165,11 @@
         </div>
 
         <!-- HN 新站 -->
-        <div class="stream-kpi-card">
+        <div class="stream-kpi-card" id="cardStreamHn" role="button" tabindex="0" title="点击直达：查看 HN 创客新站实时情报">
           <div class="stream-kpi-header">
             <span class="stream-kpi-title">HN 新站</span>
             <span class="stream-kpi-tag">每日追踪</span>
+            <span class="kpi-click-hint" style="margin-left:auto;">查看项目 ↗</span>
           </div>
           <div class="stream-kpi-desc">
             Hacker News 上每天新发布的项目；提取几千个公开、伪匿名讨论——判断关键量，巨大热度新词，找入局机会与入局时机。
@@ -195,10 +197,11 @@
         </div>
 
         <!-- 托管新站 -->
-        <div class="stream-kpi-card">
+        <div class="stream-kpi-card" id="cardStreamHosted" role="button" tabindex="0" title="点击直达：查看托管新站雷达 (Vercel/Pages/GitHub)">
           <div class="stream-kpi-header">
             <span class="stream-kpi-title">托管新站</span>
             <span class="stream-kpi-tag tag-exclusive">独家追踪</span>
+            <span class="kpi-click-hint" style="margin-left:auto;">查看站点 ↗</span>
           </div>
           <div class="stream-kpi-desc">
             vercel.app、github.io、pages.dev 等各托管平台上最新自动化爬取的站点：每个新站小项目，早期小流量。
