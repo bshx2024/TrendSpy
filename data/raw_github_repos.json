@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/6 11:51:08",
-  "total_repos": 249,
+  "fetched_at": "2026/10/6 16:11:25",
+  "total_repos": 251,
   "repos": [
     {
       "id": 1403431984,
@@ -24,8 +24,8 @@
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "html_url": "https://github.com/Jakeschincariol/replica-skill",
       "homepage": "https://opusjake.ai",
-      "stars": 538,
-      "forks": 48,
+      "stars": 575,
+      "forks": 49,
       "language": "Python",
       "topics": [
         "agent",
@@ -39,7 +39,7 @@
         "saas"
       ],
       "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-06T03:50:15Z",
+      "updated_at": "2026-10-06T08:08:31Z",
       "pushed_at": "2026-10-03T12:07:53Z"
     },
     {
@@ -64,8 +64,8 @@
       "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "html_url": "https://github.com/whirlchat/whirl",
       "homepage": "https://whirl.chat",
-      "stars": 481,
-      "forks": 42,
+      "stars": 482,
+      "forks": 43,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -80,7 +80,7 @@
         "typescript"
       ],
       "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-06T03:20:42Z",
+      "updated_at": "2026-10-06T08:01:33Z",
       "pushed_at": "2026-10-05T07:19:29Z"
     },
     {
@@ -363,12 +363,12 @@
       "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
       "html_url": "https://github.com/DozenTwelve/Papermorph",
       "homepage": null,
-      "stars": 325,
-      "forks": 32,
+      "stars": 353,
+      "forks": 39,
       "language": "HTML",
       "topics": [],
       "created_at": "2026-10-03T01:38:22Z",
-      "updated_at": "2026-10-06T03:49:17Z",
+      "updated_at": "2026-10-06T07:54:38Z",
       "pushed_at": "2026-10-05T12:33:10Z"
     },
     {
@@ -419,6 +419,50 @@
       "pushed_at": "2026-10-02T19:57:37Z"
     },
     {
+      "id": 1403847264,
+      "name": "mesh-avatar-studio",
+      "full_name": "shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "homepage": null,
+      "stars": 283,
+      "forks": 30,
+      "language": "TypeScript",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ],
+      "created_at": "2026-10-04T03:33:57Z",
+      "updated_at": "2026-10-06T08:09:24Z",
+      "pushed_at": "2026-10-06T03:25:20Z"
+    },
+    {
+      "id": 1400250107,
+      "name": "bootloops",
+      "full_name": "BootLoops-ai/bootloops",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "html_url": "https://github.com/BootLoops-ai/bootloops",
+      "homepage": null,
+      "stars": 282,
+      "forks": 55,
+      "language": "Python",
+      "topics": [
+        "bootloops",
+        "feynman-integrals",
+        "llm-agents",
+        "physics",
+        "scientific-computing"
+      ],
+      "created_at": "2026-10-01T15:29:28Z",
+      "updated_at": "2026-10-06T07:52:16Z",
+      "pushed_at": "2026-10-05T14:16:54Z"
+    },
+    {
       "id": 1375594818,
       "name": "desktop-habitats",
       "full_name": "chaseleantj/desktop-habitats",
@@ -432,27 +476,6 @@
       "created_at": "2026-09-18T08:31:55Z",
       "updated_at": "2026-09-24T02:25:23Z",
       "pushed_at": "2026-09-22T19:57:36Z"
-    },
-    {
-      "id": 1400250107,
-      "name": "bootloops",
-      "full_name": "BootLoops-ai/bootloops",
-      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
-      "html_url": "https://github.com/BootLoops-ai/bootloops",
-      "homepage": null,
-      "stars": 278,
-      "forks": 55,
-      "language": "Python",
-      "topics": [
-        "bootloops",
-        "feynman-integrals",
-        "llm-agents",
-        "physics",
-        "scientific-computing"
-      ],
-      "created_at": "2026-10-01T15:29:28Z",
-      "updated_at": "2026-10-06T03:22:06Z",
-      "pushed_at": "2026-10-05T14:16:54Z"
     },
     {
       "id": 1390994799,
@@ -473,29 +496,6 @@
       "created_at": "2026-09-27T14:59:35Z",
       "updated_at": "2026-10-02T22:54:55Z",
       "pushed_at": "2026-10-02T00:33:09Z"
-    },
-    {
-      "id": 1403847264,
-      "name": "mesh-avatar-studio",
-      "full_name": "shinshin86/mesh-avatar-studio",
-      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
-      "homepage": null,
-      "stars": 252,
-      "forks": 25,
-      "language": "TypeScript",
-      "topics": [
-        "2d-animation",
-        "avatar",
-        "claude-code",
-        "codex",
-        "mesh-deformation",
-        "vtuber",
-        "webgl"
-      ],
-      "created_at": "2026-10-04T03:33:57Z",
-      "updated_at": "2026-10-06T03:39:34Z",
-      "pushed_at": "2026-10-06T03:25:20Z"
     },
     {
       "id": 1396738941,
@@ -906,6 +906,31 @@
       "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
+      "id": 1401480940,
+      "name": "qiaomu-clipper",
+      "full_name": "joeseesun/qiaomu-clipper",
+      "description": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
+      "html_url": "https://github.com/joeseesun/qiaomu-clipper",
+      "homepage": "https://rss.qiaomu.ai",
+      "stars": 180,
+      "forks": 28,
+      "language": "TypeScript",
+      "topics": [
+        "ai-chat",
+        "chrome-extension",
+        "markdown",
+        "obsidian",
+        "obsidian-clipper",
+        "read-later",
+        "rss",
+        "typescript",
+        "web-clipper"
+      ],
+      "created_at": "2026-10-02T10:02:23Z",
+      "updated_at": "2026-10-06T08:05:59Z",
+      "pushed_at": "2026-10-06T08:06:12Z"
+    },
+    {
       "id": 1379117882,
       "name": "ai-manager",
       "full_name": "OnlistTeam/ai-manager",
@@ -919,6 +944,21 @@
       "created_at": "2026-09-21T05:07:53Z",
       "updated_at": "2026-09-24T04:24:32Z",
       "pushed_at": "2026-09-24T02:57:21Z"
+    },
+    {
+      "id": 1400563899,
+      "name": "procedural-pixel-creatures",
+      "full_name": "idlerunner00/procedural-pixel-creatures",
+      "description": "Godot Tool to create procedural pixel creatures",
+      "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
+      "homepage": null,
+      "stars": 164,
+      "forks": 19,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-10-01T18:39:44Z",
+      "updated_at": "2026-10-06T08:02:08Z",
+      "pushed_at": "2026-10-05T18:50:02Z"
     },
     {
       "id": 1391423600,
@@ -969,21 +1009,6 @@
       "pushed_at": "2026-09-29T06:40:02Z"
     },
     {
-      "id": 1400563899,
-      "name": "procedural-pixel-creatures",
-      "full_name": "idlerunner00/procedural-pixel-creatures",
-      "description": "Godot Tool to create procedural pixel creatures",
-      "html_url": "https://github.com/idlerunner00/procedural-pixel-creatures",
-      "homepage": null,
-      "stars": 161,
-      "forks": 19,
-      "language": "C#",
-      "topics": [],
-      "created_at": "2026-10-01T18:39:44Z",
-      "updated_at": "2026-10-05T18:50:06Z",
-      "pushed_at": "2026-10-05T18:50:02Z"
-    },
-    {
       "id": 1382304020,
       "name": "riso-windowseat",
       "full_name": "sevenevesai/riso-windowseat",
@@ -1020,43 +1045,18 @@
       "pushed_at": "2026-09-23T10:48:10Z"
     },
     {
-      "id": 1401480940,
-      "name": "qiaomu-clipper",
-      "full_name": "joeseesun/qiaomu-clipper",
-      "description": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
-      "html_url": "https://github.com/joeseesun/qiaomu-clipper",
-      "homepage": "https://rss.qiaomu.ai",
-      "stars": 150,
-      "forks": 26,
-      "language": "TypeScript",
-      "topics": [
-        "ai-chat",
-        "chrome-extension",
-        "markdown",
-        "obsidian",
-        "obsidian-clipper",
-        "read-later",
-        "rss",
-        "typescript",
-        "web-clipper"
-      ],
-      "created_at": "2026-10-02T10:02:23Z",
-      "updated_at": "2026-10-06T03:35:40Z",
-      "pushed_at": "2026-10-06T02:50:25Z"
-    },
-    {
       "id": 1400877599,
       "name": "ArkWeb",
       "full_name": "luki-1/ArkWeb",
       "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
       "html_url": "https://github.com/luki-1/ArkWeb",
       "homepage": null,
-      "stars": 147,
+      "stars": 148,
       "forks": 13,
       "language": "C++",
       "topics": [],
       "created_at": "2026-10-02T00:59:19Z",
-      "updated_at": "2026-10-05T23:20:35Z",
+      "updated_at": "2026-10-06T06:16:52Z",
       "pushed_at": "2026-10-03T03:53:52Z"
     },
     {
@@ -1066,12 +1066,12 @@
       "description": "The Nuvex website. It does not read chain state and it does not submit transactions.  The protocol, the documentation site, and the off-chain services are separate repositories.",
       "html_url": "https://github.com/NuvexNetwork/nuvex-web",
       "homepage": null,
-      "stars": 145,
+      "stars": 147,
       "forks": 41,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-10-02T15:42:15Z",
-      "updated_at": "2026-10-06T03:10:35Z",
+      "updated_at": "2026-10-06T07:35:29Z",
       "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
@@ -1249,7 +1249,7 @@
       "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
       "html_url": "https://github.com/TannerMidd/pi-pocket",
       "homepage": "https://tannermidd.github.io/pi-pocket/",
-      "stars": 115,
+      "stars": 119,
       "forks": 5,
       "language": "TypeScript",
       "topics": [
@@ -1264,8 +1264,8 @@
         "self-hosted"
       ],
       "created_at": "2026-10-04T02:29:57Z",
-      "updated_at": "2026-10-06T02:55:32Z",
-      "pushed_at": "2026-10-06T03:49:23Z"
+      "updated_at": "2026-10-06T07:47:06Z",
+      "pushed_at": "2026-10-06T04:14:18Z"
     },
     {
       "id": 1380729698,
@@ -2034,6 +2034,47 @@
       "pushed_at": "2026-09-18T11:35:53Z"
     },
     {
+      "id": 1403848767,
+      "name": "Porpoise-Dolphin-Emulator-for-PS5",
+      "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
+      "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "homepage": "https://www.ripalda.dev",
+      "stars": 86,
+      "forks": 13,
+      "language": "C++",
+      "topics": [
+        "dolphin",
+        "dolphin-emulator",
+        "emulator",
+        "gamecube",
+        "homebrew",
+        "libretro",
+        "ps5",
+        "ps5-homebrew",
+        "vulkan",
+        "wii"
+      ],
+      "created_at": "2026-10-04T03:36:16Z",
+      "updated_at": "2026-10-06T08:05:39Z",
+      "pushed_at": "2026-10-06T01:59:45Z"
+    },
+    {
+      "id": 1399863517,
+      "name": "sts2-web",
+      "full_name": "moonrailgun/sts2-web",
+      "description": "",
+      "html_url": "https://github.com/moonrailgun/sts2-web",
+      "homepage": "https://sts2.moonrailgun.com",
+      "stars": 81,
+      "forks": 28,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-01T11:46:25Z",
+      "updated_at": "2026-10-06T07:32:25Z",
+      "pushed_at": "2026-10-05T10:30:45Z"
+    },
+    {
       "id": 1386777688,
       "name": "seed-phrase-generator",
       "full_name": "pengakuza/seed-phrase-generator",
@@ -2068,47 +2109,6 @@
       "created_at": "2026-09-25T04:49:37Z",
       "updated_at": "2026-09-30T15:47:34Z",
       "pushed_at": "2026-09-30T15:47:30Z"
-    },
-    {
-      "id": 1403848767,
-      "name": "Porpoise-Dolphin-Emulator-for-PS5",
-      "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
-      "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-      "homepage": "https://www.ripalda.dev",
-      "stars": 80,
-      "forks": 11,
-      "language": "C++",
-      "topics": [
-        "dolphin",
-        "dolphin-emulator",
-        "emulator",
-        "gamecube",
-        "homebrew",
-        "libretro",
-        "ps5",
-        "ps5-homebrew",
-        "vulkan",
-        "wii"
-      ],
-      "created_at": "2026-10-04T03:36:16Z",
-      "updated_at": "2026-10-06T03:38:25Z",
-      "pushed_at": "2026-10-06T01:59:45Z"
-    },
-    {
-      "id": 1399863517,
-      "name": "sts2-web",
-      "full_name": "moonrailgun/sts2-web",
-      "description": "",
-      "html_url": "https://github.com/moonrailgun/sts2-web",
-      "homepage": "https://sts2.moonrailgun.com",
-      "stars": 79,
-      "forks": 27,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-01T11:46:25Z",
-      "updated_at": "2026-10-06T02:10:15Z",
-      "pushed_at": "2026-10-05T10:30:45Z"
     },
     {
       "id": 1377321806,
@@ -2194,12 +2194,12 @@
       "html_url": "https://github.com/phamduybk/ThiepCuoi",
       "homepage": null,
       "stars": 73,
-      "forks": 41,
+      "forks": 42,
       "language": "PHP",
       "topics": [],
       "created_at": "2026-09-30T18:35:30Z",
-      "updated_at": "2026-10-06T02:29:04Z",
-      "pushed_at": "2026-10-06T02:29:03Z"
+      "updated_at": "2026-10-06T06:44:06Z",
+      "pushed_at": "2026-10-06T06:44:05Z"
     },
     {
       "id": 1375761817,
@@ -2283,7 +2283,7 @@
       "html_url": "https://github.com/hayatky/sdr-dtv-poc",
       "homepage": null,
       "stars": 70,
-      "forks": 6,
+      "forks": 7,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-30T18:37:59Z",
@@ -2360,6 +2360,42 @@
       "pushed_at": "2026-10-02T21:20:30Z"
     },
     {
+      "id": 1400284027,
+      "name": "Snitch",
+      "full_name": "aixisstudio/Snitch",
+      "description": "Real-time network traffic visualizer — see every connection your computer makes. Privacy-first, 100% local. / Visualiseur de trafic réseau en temps réel, 100% local.",
+      "html_url": "https://github.com/aixisstudio/Snitch",
+      "homepage": "https://aixisstudio.github.io/Snitch/",
+      "stars": 65,
+      "forks": 4,
+      "language": "Python",
+      "topics": [
+        "bandwidth-monitor",
+        "cybersecurity",
+        "d3js",
+        "electron",
+        "fastapi",
+        "linux",
+        "little-snitch-alternative",
+        "macos",
+        "network-monitor",
+        "network-security",
+        "network-visualization",
+        "packet-capture",
+        "pcap",
+        "pinokio",
+        "privacy",
+        "react",
+        "self-hosted",
+        "traffic-analysis",
+        "traffic-monitor",
+        "windows"
+      ],
+      "created_at": "2026-10-01T15:47:55Z",
+      "updated_at": "2026-10-06T07:41:00Z",
+      "pushed_at": "2026-10-05T13:12:32Z"
+    },
+    {
       "id": 1388637178,
       "name": "steam-frame-6ghz-tool",
       "full_name": "toorux/steam-frame-6ghz-tool",
@@ -2409,42 +2445,6 @@
       "created_at": "2026-09-30T02:50:26Z",
       "updated_at": "2026-10-05T02:56:40Z",
       "pushed_at": "2026-10-05T02:56:36Z"
-    },
-    {
-      "id": 1400284027,
-      "name": "Snitch",
-      "full_name": "aixisstudio/Snitch",
-      "description": "Real-time network traffic visualizer — see every connection your computer makes. Privacy-first, 100% local. / Visualiseur de trafic réseau en temps réel, 100% local.",
-      "html_url": "https://github.com/aixisstudio/Snitch",
-      "homepage": "https://aixisstudio.github.io/Snitch/",
-      "stars": 64,
-      "forks": 4,
-      "language": "Python",
-      "topics": [
-        "bandwidth-monitor",
-        "cybersecurity",
-        "d3js",
-        "electron",
-        "fastapi",
-        "linux",
-        "little-snitch-alternative",
-        "macos",
-        "network-monitor",
-        "network-security",
-        "network-visualization",
-        "packet-capture",
-        "pcap",
-        "pinokio",
-        "privacy",
-        "react",
-        "self-hosted",
-        "traffic-analysis",
-        "traffic-monitor",
-        "windows"
-      ],
-      "created_at": "2026-10-01T15:47:55Z",
-      "updated_at": "2026-10-06T02:56:17Z",
-      "pushed_at": "2026-10-05T13:12:32Z"
     },
     {
       "id": 1387598614,
@@ -2617,6 +2617,37 @@
       "pushed_at": "2026-10-02T13:38:08Z"
     },
     {
+      "id": 1404682975,
+      "name": "VB6",
+      "full_name": "wieslawsoltes/VB6",
+      "description": "VB6 Studio Web — a browser-native classic Visual Basic IDE, form designer, source runtime and controls library in HTML, CSS and JavaScript, with a debugger, WebGPU drawing and single-file HTML app export.",
+      "html_url": "https://github.com/wieslawsoltes/VB6",
+      "homepage": "https://wieslawsoltes.github.io/VB6/",
+      "stars": 59,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [
+        "browser-ide",
+        "canvas2d",
+        "debugger",
+        "form-designer",
+        "github-pages",
+        "html",
+        "ide",
+        "interpreter",
+        "javascript",
+        "retro",
+        "runtime",
+        "vb6",
+        "visual-basic",
+        "visual-basic-6",
+        "webgpu"
+      ],
+      "created_at": "2026-10-04T17:40:27Z",
+      "updated_at": "2026-10-06T06:59:14Z",
+      "pushed_at": "2026-10-06T08:09:25Z"
+    },
+    {
       "id": 1389512019,
       "name": "plain-backtest",
       "full_name": "Sixian-Li/plain-backtest",
@@ -2645,6 +2676,27 @@
       "created_at": "2026-09-26T06:55:12Z",
       "updated_at": "2026-10-01T16:47:02Z",
       "pushed_at": "2026-09-26T07:49:48Z"
+    },
+    {
+      "id": 1406041130,
+      "name": "softlab",
+      "full_name": "deity6/softlab",
+      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
+      "html_url": "https://github.com/deity6/softlab",
+      "homepage": "https://doit.loc.cc/",
+      "stars": 57,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "canvas",
+        "interaction-design",
+        "react",
+        "vite",
+        "webgl"
+      ],
+      "created_at": "2026-10-05T16:07:09Z",
+      "updated_at": "2026-10-06T07:56:14Z",
+      "pushed_at": "2026-10-05T16:52:50Z"
     },
     {
       "id": 1386319785,
@@ -2745,37 +2797,6 @@
       "pushed_at": "2026-09-28T16:39:05Z"
     },
     {
-      "id": 1404682975,
-      "name": "VB6",
-      "full_name": "wieslawsoltes/VB6",
-      "description": "VB6 Studio Web — a browser-native classic Visual Basic IDE, form designer, source runtime and controls library in HTML, CSS and JavaScript, with a debugger, WebGPU drawing and single-file HTML app export.",
-      "html_url": "https://github.com/wieslawsoltes/VB6",
-      "homepage": "https://wieslawsoltes.github.io/VB6/",
-      "stars": 56,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [
-        "browser-ide",
-        "canvas2d",
-        "debugger",
-        "form-designer",
-        "github-pages",
-        "html",
-        "ide",
-        "interpreter",
-        "javascript",
-        "retro",
-        "runtime",
-        "vb6",
-        "visual-basic",
-        "visual-basic-6",
-        "webgpu"
-      ],
-      "created_at": "2026-10-04T17:40:27Z",
-      "updated_at": "2026-10-06T03:36:36Z",
-      "pushed_at": "2026-10-05T22:29:19Z"
-    },
-    {
       "id": 1391635046,
       "name": "awesome-cloud-emulators",
       "full_name": "upgundecha/awesome-cloud-emulators",
@@ -2841,6 +2862,29 @@
       "pushed_at": "2026-09-28T16:33:04Z"
     },
     {
+      "id": 1399378829,
+      "name": "proxy-farm",
+      "full_name": "huuhoa143/proxy-farm",
+      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
+      "html_url": "https://github.com/huuhoa143/proxy-farm",
+      "homepage": null,
+      "stars": 55,
+      "forks": 39,
+      "language": "HTML",
+      "topics": [
+        "docker",
+        "hma",
+        "ipsec",
+        "proxy",
+        "socks5",
+        "vpn",
+        "wireguard"
+      ],
+      "created_at": "2026-10-01T07:10:36Z",
+      "updated_at": "2026-10-06T05:13:02Z",
+      "pushed_at": "2026-10-06T05:01:14Z"
+    },
+    {
       "id": 1399838098,
       "name": "ai-agent-gateway",
       "full_name": "Tuskira/ai-agent-gateway",
@@ -2854,29 +2898,6 @@
       "created_at": "2026-10-01T11:32:10Z",
       "updated_at": "2026-10-03T13:35:48Z",
       "pushed_at": "2026-10-01T21:42:33Z"
-    },
-    {
-      "id": 1399378829,
-      "name": "proxy-farm",
-      "full_name": "huuhoa143/proxy-farm",
-      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
-      "html_url": "https://github.com/huuhoa143/proxy-farm",
-      "homepage": null,
-      "stars": 54,
-      "forks": 39,
-      "language": "HTML",
-      "topics": [
-        "docker",
-        "hma",
-        "ipsec",
-        "proxy",
-        "socks5",
-        "vpn",
-        "wireguard"
-      ],
-      "created_at": "2026-10-01T07:10:36Z",
-      "updated_at": "2026-10-06T02:16:09Z",
-      "pushed_at": "2026-10-05T16:43:32Z"
     },
     {
       "id": 1388409097,
@@ -3176,6 +3197,36 @@
       "pushed_at": "2026-10-02T16:15:37Z"
     },
     {
+      "id": 1403984902,
+      "name": "rustdsh",
+      "full_name": "sahenjp/rustdsh",
+      "description": "rdsh: safe Rust fast launcher for dsh with local web dashboard (90x startup, 1/25 RSS)",
+      "html_url": "https://github.com/sahenjp/rustdsh",
+      "homepage": null,
+      "stars": 48,
+      "forks": 2,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-04T06:05:05Z",
+      "updated_at": "2026-10-06T07:39:55Z",
+      "pushed_at": "2026-10-06T07:39:52Z"
+    },
+    {
+      "id": 1404113489,
+      "name": "fm1-x0x",
+      "full_name": "charlesvestal/fm1-x0x",
+      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
+      "html_url": "https://github.com/charlesvestal/fm1-x0x",
+      "homepage": null,
+      "stars": 48,
+      "forks": 2,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-04T08:03:49Z",
+      "updated_at": "2026-10-06T07:55:40Z",
+      "pushed_at": "2026-10-06T07:55:45Z"
+    },
+    {
       "id": 1379859926,
       "name": "jeview",
       "full_name": "andududu/jeview",
@@ -3295,21 +3346,6 @@
       "pushed_at": "2026-09-28T16:31:08Z"
     },
     {
-      "id": 1403984902,
-      "name": "rustdsh",
-      "full_name": "sahenjp/rustdsh",
-      "description": "rdsh: safe Rust fast launcher for dsh with local web dashboard (90x startup, 1/25 RSS)",
-      "html_url": "https://github.com/sahenjp/rustdsh",
-      "homepage": null,
-      "stars": 46,
-      "forks": 2,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-04T06:05:05Z",
-      "updated_at": "2026-10-06T00:03:30Z",
-      "pushed_at": "2026-10-06T03:22:14Z"
-    },
-    {
       "id": 1376092823,
       "name": "EdgeSSH",
       "full_name": "aozorae/EdgeSSH",
@@ -3346,27 +3382,6 @@
       "created_at": "2026-09-26T00:58:58Z",
       "updated_at": "2026-10-02T13:46:58Z",
       "pushed_at": "2026-09-30T13:38:19Z"
-    },
-    {
-      "id": 1406041130,
-      "name": "softlab",
-      "full_name": "deity6/softlab",
-      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
-      "html_url": "https://github.com/deity6/softlab",
-      "homepage": "https://doit.loc.cc/",
-      "stars": 45,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "canvas",
-        "interaction-design",
-        "react",
-        "vite",
-        "webgl"
-      ],
-      "created_at": "2026-10-05T16:07:09Z",
-      "updated_at": "2026-10-06T03:28:00Z",
-      "pushed_at": "2026-10-05T16:52:50Z"
     },
     {
       "id": 1397433953,
@@ -3459,6 +3474,29 @@
       "pushed_at": "2026-09-29T17:28:26Z"
     },
     {
+      "id": 1396899630,
+      "name": "gleaner",
+      "full_name": "ssssssanjiu/gleaner",
+      "description": "Gleaner (拾穗) — collect full-resolution images, video with sound, and audio from any web page. Zero telemetry, local-first browser extension.",
+      "html_url": "https://github.com/ssssssanjiu/gleaner",
+      "homepage": null,
+      "stars": 42,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "ffmpeg-wasm",
+        "image-downloader",
+        "manifest-v3",
+        "privacy",
+        "video-downloader"
+      ],
+      "created_at": "2026-09-30T03:19:00Z",
+      "updated_at": "2026-10-06T06:33:10Z",
+      "pushed_at": "2026-09-30T07:56:58Z"
+    },
+    {
       "id": 1377057562,
       "name": "crayfish",
       "full_name": "skydoves/crayfish",
@@ -3518,6 +3556,28 @@
       "pushed_at": "2026-10-04T06:07:15Z"
     },
     {
+      "id": 1402430099,
+      "name": "daily-team",
+      "full_name": "isas1/daily-team",
+      "description": "A new four-person creative team every day, and the small web tool it built. Generated with Claude Code, recorded on GitHub.",
+      "html_url": "https://github.com/isas1/daily-team",
+      "homepage": null,
+      "stars": 41,
+      "forks": 4,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "generative",
+        "github-actions",
+        "openrouter"
+      ],
+      "created_at": "2026-10-02T22:48:41Z",
+      "updated_at": "2026-10-06T05:06:51Z",
+      "pushed_at": "2026-10-05T17:28:49Z"
+    },
+    {
       "id": 1378383465,
       "name": "agent-builder-skills",
       "full_name": "minorun365/agent-builder-skills",
@@ -3561,28 +3621,6 @@
       "pushed_at": "2026-09-19T12:16:43Z"
     },
     {
-      "id": 1402430099,
-      "name": "daily-team",
-      "full_name": "isas1/daily-team",
-      "description": "A new four-person creative team every day, and the small web tool it built. Generated with Claude Code, recorded on GitHub.",
-      "html_url": "https://github.com/isas1/daily-team",
-      "homepage": null,
-      "stars": 40,
-      "forks": 4,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "claude",
-        "claude-code",
-        "generative",
-        "github-actions",
-        "openrouter"
-      ],
-      "created_at": "2026-10-02T22:48:41Z",
-      "updated_at": "2026-10-06T03:06:34Z",
-      "pushed_at": "2026-10-05T17:28:49Z"
-    },
-    {
       "id": 1396835637,
       "name": "website-playbook",
       "full_name": "7-an/website-playbook",
@@ -3596,29 +3634,6 @@
       "created_at": "2026-09-30T02:18:22Z",
       "updated_at": "2026-10-05T23:05:51Z",
       "pushed_at": "2026-09-30T02:22:23Z"
-    },
-    {
-      "id": 1396899630,
-      "name": "gleaner",
-      "full_name": "ssssssanjiu/gleaner",
-      "description": "Gleaner (拾穗) — collect full-resolution images, video with sound, and audio from any web page. Zero telemetry, local-first browser extension.",
-      "html_url": "https://github.com/ssssssanjiu/gleaner",
-      "homepage": null,
-      "stars": 39,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [
-        "browser-extension",
-        "chrome-extension",
-        "ffmpeg-wasm",
-        "image-downloader",
-        "manifest-v3",
-        "privacy",
-        "video-downloader"
-      ],
-      "created_at": "2026-09-30T03:19:00Z",
-      "updated_at": "2026-10-05T22:27:30Z",
-      "pushed_at": "2026-09-30T07:56:58Z"
     },
     {
       "id": 1382790500,
@@ -3880,21 +3895,6 @@
       "pushed_at": "2026-09-30T12:48:50Z"
     },
     {
-      "id": 1404113489,
-      "name": "fm1-x0x",
-      "full_name": "charlesvestal/fm1-x0x",
-      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
-      "html_url": "https://github.com/charlesvestal/fm1-x0x",
-      "homepage": null,
-      "stars": 32,
-      "forks": 1,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-04T08:03:49Z",
-      "updated_at": "2026-10-06T03:14:51Z",
-      "pushed_at": "2026-10-05T19:23:39Z"
-    },
-    {
       "id": 1392926470,
       "name": "pilulier",
       "full_name": "ceshihaox-dotcom/pilulier",
@@ -3927,8 +3927,8 @@
         "indesign-key"
       ],
       "created_at": "2026-10-02T01:30:37Z",
-      "updated_at": "2026-10-05T22:24:47Z",
-      "pushed_at": "2026-10-05T22:24:42Z"
+      "updated_at": "2026-10-06T05:43:14Z",
+      "pushed_at": "2026-10-06T05:43:10Z"
     },
     {
       "id": 1387868633,
@@ -4014,6 +4014,21 @@
       "created_at": "2026-09-29T20:05:15Z",
       "updated_at": "2026-10-03T22:18:07Z",
       "pushed_at": "2026-10-03T18:42:02Z"
+    },
+    {
+      "id": 1400514535,
+      "name": "clef-webcam",
+      "full_name": "lucataco/clef-webcam",
+      "description": "Run Cloudflare's clef-flash decision model locally on your webcam",
+      "html_url": "https://github.com/lucataco/clef-webcam",
+      "homepage": null,
+      "stars": 30,
+      "forks": 3,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-01T18:03:59Z",
+      "updated_at": "2026-10-05T10:43:14Z",
+      "pushed_at": "2026-10-01T18:04:05Z"
     },
     {
       "id": 1375795989,
@@ -4373,12 +4388,12 @@
       "description": "A Home Assistant dashboard built as one custom element. A reference, not a plug-and-play card.",
       "html_url": "https://github.com/bnlqn/maison",
       "homepage": null,
-      "stars": 23,
+      "stars": 22,
       "forks": 0,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-02T14:22:00Z",
-      "updated_at": "2026-10-04T21:00:12Z",
+      "updated_at": "2026-10-06T07:35:18Z",
       "pushed_at": "2026-10-02T14:22:08Z"
     },
     {
@@ -4603,7 +4618,7 @@
       "html_url": "https://github.com/osergios/karta",
       "homepage": "https://github.com/osergios/karta/wiki",
       "stars": 17,
-      "forks": 1,
+      "forks": 2,
       "language": "Python",
       "topics": [
         "ergani",
@@ -4614,8 +4629,36 @@
         "work-card"
       ],
       "created_at": "2026-10-04T18:43:25Z",
-      "updated_at": "2026-10-06T03:40:35Z",
-      "pushed_at": "2026-10-05T19:30:27Z"
+      "updated_at": "2026-10-06T04:33:00Z",
+      "pushed_at": "2026-10-06T04:33:10Z"
+    },
+    {
+      "id": 1403697348,
+      "name": "ai-domain-name-generator",
+      "full_name": "paveldevyatov/ai-domain-name-generator",
+      "description": "AI domain name generator & availability checker — prompt and agent skill that brainstorms brandable names and domain hacks, checks 1,350+ zones, ranks the top 50 free domains.",
+      "html_url": "https://github.com/paveldevyatov/ai-domain-name-generator",
+      "homepage": null,
+      "stars": 17,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "chatgpt",
+        "claude",
+        "domain-availability",
+        "domain-checker",
+        "domain-finder",
+        "domain-hacks",
+        "domain-name-generator",
+        "domain-search",
+        "prompt",
+        "skills"
+      ],
+      "created_at": "2026-10-03T22:54:56Z",
+      "updated_at": "2026-10-06T07:57:21Z",
+      "pushed_at": "2026-10-05T16:08:07Z"
     },
     {
       "id": 1379717308,
@@ -4730,6 +4773,42 @@
       "pushed_at": "2026-10-04T21:37:55Z"
     },
     {
+      "id": 1402658180,
+      "name": "dompetku",
+      "full_name": "ilramdhan/dompetku",
+      "description": "Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net worth, Telegram bot, receipt OCR, 2FA and backups.",
+      "html_url": "https://github.com/ilramdhan/dompetku",
+      "homepage": "https://dompetku.ilramdhan.dev",
+      "stars": 16,
+      "forks": 17,
+      "language": "TypeScript",
+      "topics": [
+        "budget-tracker",
+        "expense-tracker",
+        "finance-tracker",
+        "income-tracker",
+        "money-management",
+        "money-tracker",
+        "n8n",
+        "open-source",
+        "personal-finance",
+        "pwa",
+        "react",
+        "receipt-ocr",
+        "self-hosted",
+        "shadcn-ui",
+        "supabase",
+        "tailwindcss",
+        "tanstack-start",
+        "telegram-bot",
+        "typescript",
+        "vercel"
+      ],
+      "created_at": "2026-10-03T04:31:00Z",
+      "updated_at": "2026-10-06T05:36:17Z",
+      "pushed_at": "2026-10-05T06:22:35Z"
+    },
+    {
       "id": 1378545590,
       "name": "Yvette",
       "full_name": "MartinForsterNL/Yvette",
@@ -4800,42 +4879,6 @@
       "created_at": "2026-09-26T14:34:57Z",
       "updated_at": "2026-10-02T15:52:26Z",
       "pushed_at": "2026-09-26T14:35:37Z"
-    },
-    {
-      "id": 1402658180,
-      "name": "dompetku",
-      "full_name": "ilramdhan/dompetku",
-      "description": "Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net worth, Telegram bot, receipt OCR, 2FA and backups.",
-      "html_url": "https://github.com/ilramdhan/dompetku",
-      "homepage": "https://dompetku.ilramdhan.dev",
-      "stars": 15,
-      "forks": 17,
-      "language": "TypeScript",
-      "topics": [
-        "budget-tracker",
-        "expense-tracker",
-        "finance-tracker",
-        "income-tracker",
-        "money-management",
-        "money-tracker",
-        "n8n",
-        "open-source",
-        "personal-finance",
-        "pwa",
-        "react",
-        "receipt-ocr",
-        "self-hosted",
-        "shadcn-ui",
-        "supabase",
-        "tailwindcss",
-        "tanstack-start",
-        "telegram-bot",
-        "typescript",
-        "vercel"
-      ],
-      "created_at": "2026-10-03T04:31:00Z",
-      "updated_at": "2026-10-05T08:27:22Z",
-      "pushed_at": "2026-10-05T06:22:35Z"
     },
     {
       "id": 1379723846,
@@ -5084,8 +5127,8 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-01T04:28:10Z",
-      "updated_at": "2026-10-05T13:55:44Z",
-      "pushed_at": "2026-10-05T13:55:43Z"
+      "updated_at": "2026-10-06T07:46:43Z",
+      "pushed_at": "2026-10-06T07:46:42Z"
     },
     {
       "id": 1403041010,
