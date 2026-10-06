@@ -466,7 +466,17 @@ function renderBreakouts() {
   if (stage === "all") {
     items.push(...newBreakouts, ...reSurging, ...highGrowthList);
   } else if (stage === "breakout") {
-    items.push(...newBreakouts.filter(i => !i.lifecycleStage?.includes("过气")));
+    const breakoutPool = [
+      ...newBreakouts,
+      ...highGrowthList.filter(i => i.isBreakout || i.growthStatus === "飙升" || i.lifecycleStage?.includes("爆发"))
+    ];
+    const seen = new Set();
+    for (const it of breakoutPool) {
+      if (!seen.has(it.keyword)) {
+        seen.add(it.keyword);
+        items.push(it);
+      }
+    }
   } else if (stage === "resurging") {
     items.push(...reSurging);
   } else if (stage === "highgrowth") {
@@ -515,6 +525,7 @@ function renderBreakouts() {
     const momentumArrow = isMomentumUp ? "↑" : (isDeclining ? "↓" : "→");
 
     const escapedKw = escapeHtml(item.keyword).replace(/'/g, "\\'");
+    const percentWidth = Math.min(Math.max(((item.benchmarkRatio || 0) / maxRatio) * 100, 5), 100).toFixed(1);
 
     return `
       <div class="breakout-card clickable-card" onclick="openKeywordDetail('${escapedKw}')" title="点击查看 360° 深度诊断与时序画像">
