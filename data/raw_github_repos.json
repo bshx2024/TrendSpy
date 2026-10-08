@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/8 02:07:50",
-  "total_repos": 279,
+  "fetched_at": "2026/10/8 11:34:29",
+  "total_repos": 289,
   "repos": [
     {
       "id": 1403431984,
@@ -43,6 +43,21 @@
       "pushed_at": "2026-10-03T12:07:53Z"
     },
     {
+      "id": 1402525166,
+      "name": "Papermorph",
+      "full_name": "DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "html_url": "https://github.com/DozenTwelve/Papermorph",
+      "homepage": null,
+      "stars": 536,
+      "forks": 68,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-03T01:38:22Z",
+      "updated_at": "2026-10-08T03:28:00Z",
+      "pushed_at": "2026-10-06T12:33:37Z"
+    },
+    {
       "id": 1377938409,
       "name": "minecraft-agent",
       "full_name": "rmalde/minecraft-agent",
@@ -58,28 +73,13 @@
       "pushed_at": "2026-09-20T05:05:16Z"
     },
     {
-      "id": 1402525166,
-      "name": "Papermorph",
-      "full_name": "DozenTwelve/Papermorph",
-      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "html_url": "https://github.com/DozenTwelve/Papermorph",
-      "homepage": null,
-      "stars": 511,
-      "forks": 61,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-03T01:38:22Z",
-      "updated_at": "2026-10-07T18:07:28Z",
-      "pushed_at": "2026-10-06T12:33:37Z"
-    },
-    {
       "id": 1401821001,
       "name": "whirl",
       "full_name": "whirlchat/whirl",
       "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "html_url": "https://github.com/whirlchat/whirl",
       "homepage": "https://whirl.chat",
-      "stars": 493,
+      "stars": 497,
       "forks": 45,
       "language": "TypeScript",
       "topics": [
@@ -95,7 +95,7 @@
         "typescript"
       ],
       "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-07T17:50:29Z",
+      "updated_at": "2026-10-08T03:14:46Z",
       "pushed_at": "2026-10-05T07:19:29Z"
     },
     {
@@ -105,8 +105,8 @@
       "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
       "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
       "homepage": null,
-      "stars": 447,
-      "forks": 58,
+      "stars": 464,
+      "forks": 61,
       "language": "TypeScript",
       "topics": [
         "2d-animation",
@@ -118,7 +118,7 @@
         "webgl"
       ],
       "created_at": "2026-10-04T03:33:57Z",
-      "updated_at": "2026-10-07T18:05:07Z",
+      "updated_at": "2026-10-08T03:31:06Z",
       "pushed_at": "2026-10-07T10:06:32Z"
     },
     {
@@ -504,7 +504,7 @@
       "description": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
       "html_url": "https://github.com/joeseesun/qiaomu-clipper",
       "homepage": "https://rss.qiaomu.ai",
-      "stars": 230,
+      "stars": 235,
       "forks": 35,
       "language": "TypeScript",
       "topics": [
@@ -519,8 +519,32 @@
         "web-clipper"
       ],
       "created_at": "2026-10-02T10:02:23Z",
-      "updated_at": "2026-10-07T17:44:51Z",
-      "pushed_at": "2026-10-07T08:59:19Z"
+      "updated_at": "2026-10-08T03:22:25Z",
+      "pushed_at": "2026-10-08T03:22:48Z"
+    },
+    {
+      "id": 1408371739,
+      "name": "ascii",
+      "full_name": "bas3line/ascii",
+      "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "html_url": "https://github.com/bas3line/ascii",
+      "homepage": "https://ascii.rest",
+      "stars": 234,
+      "forks": 14,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "ascii",
+        "ascii-art",
+        "astro",
+        "nextjs",
+        "react",
+        "typescript",
+        "web-components"
+      ],
+      "created_at": "2026-10-07T06:48:54Z",
+      "updated_at": "2026-10-08T03:33:04Z",
+      "pushed_at": "2026-10-07T18:10:32Z"
     },
     {
       "id": 1396738941,
@@ -605,6 +629,31 @@
       "created_at": "2026-09-27T13:33:00Z",
       "updated_at": "2026-10-03T22:11:51Z",
       "pushed_at": "2026-09-27T18:48:24Z"
+    },
+    {
+      "id": 1403805593,
+      "name": "pi-pocket",
+      "full_name": "TannerMidd/pi-pocket",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "html_url": "https://github.com/TannerMidd/pi-pocket",
+      "homepage": "https://tannermidd.github.io/pi-pocket/",
+      "stars": 210,
+      "forks": 12,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "coding-agent",
+        "mobile",
+        "multiplayer",
+        "omarchy",
+        "pi",
+        "pi-durable",
+        "pwa",
+        "self-hosted"
+      ],
+      "created_at": "2026-10-04T02:29:57Z",
+      "updated_at": "2026-10-08T03:31:54Z",
+      "pushed_at": "2026-10-08T03:32:09Z"
     },
     {
       "id": 1402304588,
@@ -831,6 +880,21 @@
       "pushed_at": "2026-10-05T10:14:36Z"
     },
     {
+      "id": 1408486424,
+      "name": "soundcraft",
+      "full_name": "storytold/soundcraft",
+      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "html_url": "https://github.com/storytold/soundcraft",
+      "homepage": "https://getartcraft.com/apps/soundcraft",
+      "stars": 200,
+      "forks": 104,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-07T08:31:31Z",
+      "updated_at": "2026-10-08T03:29:50Z",
+      "pushed_at": "2026-10-08T02:08:12Z"
+    },
+    {
       "id": 1380797051,
       "name": "threejs-architecture-effects",
       "full_name": "lhlGitHub/threejs-architecture-effects",
@@ -906,31 +970,6 @@
       "pushed_at": "2026-09-25T16:10:39Z"
     },
     {
-      "id": 1403805593,
-      "name": "pi-pocket",
-      "full_name": "TannerMidd/pi-pocket",
-      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-      "html_url": "https://github.com/TannerMidd/pi-pocket",
-      "homepage": "https://tannermidd.github.io/pi-pocket/",
-      "stars": 186,
-      "forks": 10,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agent",
-        "coding-agent",
-        "mobile",
-        "multiplayer",
-        "omarchy",
-        "pi",
-        "pi-durable",
-        "pwa",
-        "self-hosted"
-      ],
-      "created_at": "2026-10-04T02:29:57Z",
-      "updated_at": "2026-10-07T17:02:36Z",
-      "pushed_at": "2026-10-07T04:00:39Z"
-    },
-    {
       "id": 1387387974,
       "name": "SeeCut",
       "full_name": "YeJe-cpu/SeeCut",
@@ -954,6 +993,31 @@
       "created_at": "2026-09-25T11:48:27Z",
       "updated_at": "2026-10-01T08:18:08Z",
       "pushed_at": "2026-09-30T23:21:04Z"
+    },
+    {
+      "id": 1406548400,
+      "name": "convt",
+      "full_name": "opencoredev/convt",
+      "description": "Convert any file with a right-click.",
+      "html_url": "https://github.com/opencoredev/convt",
+      "homepage": "convt.app",
+      "stars": 177,
+      "forks": 6,
+      "language": "Rust",
+      "topics": [
+        "convert",
+        "convert-images",
+        "convert-local",
+        "converted-to-private",
+        "converter",
+        "converter-app",
+        "local",
+        "local-first",
+        "private"
+      ],
+      "created_at": "2026-10-06T01:17:53Z",
+      "updated_at": "2026-10-08T03:30:15Z",
+      "pushed_at": "2026-10-08T03:08:59Z"
     },
     {
       "id": 1379117882,
@@ -984,6 +1048,32 @@
       "created_at": "2026-10-01T18:39:44Z",
       "updated_at": "2026-10-07T14:17:12Z",
       "pushed_at": "2026-10-05T18:50:02Z"
+    },
+    {
+      "id": 1403731980,
+      "name": "animate",
+      "full_name": "cth9191/animate",
+      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "html_url": "https://github.com/cth9191/animate",
+      "homepage": null,
+      "stars": 165,
+      "forks": 22,
+      "language": "JavaScript",
+      "topics": [
+        "animation",
+        "canvas",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "explainer-video",
+        "generative-art",
+        "motion-graphics",
+        "procedural-animation",
+        "storyboard"
+      ],
+      "created_at": "2026-10-04T00:05:25Z",
+      "updated_at": "2026-10-08T03:31:46Z",
+      "pushed_at": "2026-10-05T20:31:48Z"
     },
     {
       "id": 1391423600,
@@ -1049,6 +1139,47 @@
       "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
+      "id": 1400877599,
+      "name": "ArkWeb",
+      "full_name": "luki-1/ArkWeb",
+      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
+      "html_url": "https://github.com/luki-1/ArkWeb",
+      "homepage": null,
+      "stars": 157,
+      "forks": 15,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-02T00:59:19Z",
+      "updated_at": "2026-10-08T03:24:56Z",
+      "pushed_at": "2026-10-03T03:53:52Z"
+    },
+    {
+      "id": 1406229181,
+      "name": "short-video-maker",
+      "full_name": "mushigaite/short-video-maker",
+      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+      "html_url": "https://github.com/mushigaite/short-video-maker",
+      "homepage": null,
+      "stars": 157,
+      "forks": 46,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "ai-video-editing",
+        "ai-video-generation-api",
+        "money-printer",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker",
+        "short-video-sdk",
+        "shorts-generator"
+      ],
+      "created_at": "2026-10-05T18:35:21Z",
+      "updated_at": "2026-10-08T03:18:30Z",
+      "pushed_at": "2026-10-05T18:40:04Z"
+    },
+    {
       "id": 1382304020,
       "name": "riso-windowseat",
       "full_name": "sevenevesai/riso-windowseat",
@@ -1068,21 +1199,6 @@
       "created_at": "2026-09-22T20:14:59Z",
       "updated_at": "2026-09-24T04:24:54Z",
       "pushed_at": "2026-09-23T22:34:48Z"
-    },
-    {
-      "id": 1400877599,
-      "name": "ArkWeb",
-      "full_name": "luki-1/ArkWeb",
-      "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
-      "html_url": "https://github.com/luki-1/ArkWeb",
-      "homepage": null,
-      "stars": 156,
-      "forks": 15,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-02T00:59:19Z",
-      "updated_at": "2026-10-07T11:09:13Z",
-      "pushed_at": "2026-10-03T03:53:52Z"
     },
     {
       "id": 1375327232,
@@ -1268,56 +1384,53 @@
       "pushed_at": "2026-10-02T12:01:32Z"
     },
     {
-      "id": 1403731980,
-      "name": "animate",
-      "full_name": "cth9191/animate",
-      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
-      "html_url": "https://github.com/cth9191/animate",
+      "id": 1407257084,
+      "name": "persian-motion-director",
+      "full_name": "atmirrr/persian-motion-director",
+      "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.",
+      "html_url": "https://github.com/atmirrr/persian-motion-director",
       "homepage": null,
-      "stars": 124,
-      "forks": 15,
+      "stars": 119,
+      "forks": 4,
       "language": "JavaScript",
       "topics": [
-        "animation",
-        "canvas",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "explainer-video",
-        "generative-art",
-        "motion-graphics",
-        "procedural-animation",
-        "storyboard"
+        "agent-skills",
+        "claude",
+        "claude-skills",
+        "farsi",
+        "kinetic-typography",
+        "motion-design",
+        "persian",
+        "remotion",
+        "rtl",
+        "typography"
       ],
-      "created_at": "2026-10-04T00:05:25Z",
-      "updated_at": "2026-10-07T17:44:45Z",
-      "pushed_at": "2026-10-05T20:31:48Z"
+      "created_at": "2026-10-06T12:23:55Z",
+      "updated_at": "2026-10-08T02:43:40Z",
+      "pushed_at": "2026-10-06T13:27:09Z"
     },
     {
-      "id": 1406229181,
-      "name": "short-video-maker",
-      "full_name": "mushigaite/short-video-maker",
-      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-      "html_url": "https://github.com/mushigaite/short-video-maker",
+      "id": 1408673153,
+      "name": "psp-web-recomp",
+      "full_name": "snuri00/psp-web-recomp",
+      "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+      "html_url": "https://github.com/snuri00/psp-web-recomp",
       "homepage": null,
       "stars": 114,
-      "forks": 35,
-      "language": "Python",
+      "forks": 1,
+      "language": "C++",
       "topics": [
-        "ai-video",
-        "ai-video-editing",
-        "ai-video-generation-api",
-        "money-printer",
-        "short-video",
-        "short-video-automation",
-        "short-video-generator",
-        "short-video-maker",
-        "short-video-sdk",
-        "shorts-generator"
+        "emscripten",
+        "god-of-war",
+        "psp",
+        "recompilation",
+        "static-recompilation",
+        "webassembly",
+        "webgl2"
       ],
-      "created_at": "2026-10-05T18:35:21Z",
-      "updated_at": "2026-10-07T18:03:18Z",
-      "pushed_at": "2026-10-05T18:40:04Z"
+      "created_at": "2026-10-07T11:21:20Z",
+      "updated_at": "2026-10-08T03:26:29Z",
+      "pushed_at": "2026-10-07T12:48:17Z"
     },
     {
       "id": 1380729698,
@@ -1490,6 +1603,32 @@
       "created_at": "2026-09-25T16:39:59Z",
       "updated_at": "2026-10-01T08:49:46Z",
       "pushed_at": "2026-09-30T14:28:36Z"
+    },
+    {
+      "id": 1403848767,
+      "name": "Porpoise-Dolphin-Emulator-for-PS5",
+      "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
+      "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "homepage": "https://www.ripalda.dev",
+      "stars": 109,
+      "forks": 16,
+      "language": "C++",
+      "topics": [
+        "dolphin",
+        "dolphin-emulator",
+        "emulator",
+        "gamecube",
+        "homebrew",
+        "libretro",
+        "ps5",
+        "ps5-homebrew",
+        "vulkan",
+        "wii"
+      ],
+      "created_at": "2026-10-04T03:36:16Z",
+      "updated_at": "2026-10-08T02:43:19Z",
+      "pushed_at": "2026-10-07T04:46:29Z"
     },
     {
       "id": 1402302127,
@@ -1683,80 +1822,13 @@
       "pushed_at": "2026-10-05T16:54:41Z"
     },
     {
-      "id": 1403848767,
-      "name": "Porpoise-Dolphin-Emulator-for-PS5",
-      "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
-      "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-      "homepage": "https://www.ripalda.dev",
-      "stars": 106,
-      "forks": 16,
-      "language": "C++",
-      "topics": [
-        "dolphin",
-        "dolphin-emulator",
-        "emulator",
-        "gamecube",
-        "homebrew",
-        "libretro",
-        "ps5",
-        "ps5-homebrew",
-        "vulkan",
-        "wii"
-      ],
-      "created_at": "2026-10-04T03:36:16Z",
-      "updated_at": "2026-10-07T17:43:48Z",
-      "pushed_at": "2026-10-07T04:46:29Z"
-    },
-    {
-      "id": 1407257084,
-      "name": "persian-motion-director",
-      "full_name": "atmirrr/persian-motion-director",
-      "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.",
-      "html_url": "https://github.com/atmirrr/persian-motion-director",
-      "homepage": null,
-      "stars": 106,
-      "forks": 4,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "claude",
-        "claude-skills",
-        "farsi",
-        "kinetic-typography",
-        "motion-design",
-        "persian",
-        "remotion",
-        "rtl",
-        "typography"
-      ],
-      "created_at": "2026-10-06T12:23:55Z",
-      "updated_at": "2026-10-07T17:12:06Z",
-      "pushed_at": "2026-10-06T13:27:09Z"
-    },
-    {
-      "id": 1395984333,
-      "name": "kantor-ai",
-      "full_name": "kangkungmozzarella/kantor-ai",
-      "description": "Kantor Kita: interactive 3D paper-model office for a 13-person team",
-      "html_url": "https://github.com/kangkungmozzarella/kantor-ai",
-      "homepage": null,
-      "stars": 105,
-      "forks": 34,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-09-29T16:33:24Z",
-      "updated_at": "2026-10-04T07:59:31Z",
-      "pushed_at": "2026-09-30T23:28:14Z"
-    },
-    {
       "id": 1407310609,
       "name": "seed-phrase-generator",
       "full_name": "kenkorasu/seed-phrase-generator",
       "description": "WalletGen - Seed Phrase generator / checker / finder / bruteforce for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
       "html_url": "https://github.com/kenkorasu/seed-phrase-generator",
       "homepage": null,
-      "stars": 105,
+      "stars": 106,
       "forks": 8,
       "language": "C++",
       "topics": [
@@ -1782,8 +1854,23 @@
         "wallet-tracking-bot"
       ],
       "created_at": "2026-10-06T12:58:54Z",
-      "updated_at": "2026-10-07T07:52:09Z",
+      "updated_at": "2026-10-08T03:24:11Z",
       "pushed_at": "2026-10-06T13:10:37Z"
+    },
+    {
+      "id": 1395984333,
+      "name": "kantor-ai",
+      "full_name": "kangkungmozzarella/kantor-ai",
+      "description": "Kantor Kita: interactive 3D paper-model office for a 13-person team",
+      "html_url": "https://github.com/kangkungmozzarella/kantor-ai",
+      "homepage": null,
+      "stars": 105,
+      "forks": 34,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-29T16:33:24Z",
+      "updated_at": "2026-10-04T07:59:31Z",
+      "pushed_at": "2026-09-30T23:28:14Z"
     },
     {
       "id": 1387522551,
@@ -2037,6 +2124,37 @@
       "pushed_at": "2026-10-05T10:24:08Z"
     },
     {
+      "id": 1404682975,
+      "name": "VB6",
+      "full_name": "wieslawsoltes/VB6",
+      "description": "VB6 Studio Web — a browser-native classic Visual Basic IDE, form designer, source runtime and controls library in HTML, CSS and JavaScript, with a debugger, WebGPU drawing and single-file HTML app export.",
+      "html_url": "https://github.com/wieslawsoltes/VB6",
+      "homepage": "https://wieslawsoltes.github.io/VB6/",
+      "stars": 97,
+      "forks": 16,
+      "language": "JavaScript",
+      "topics": [
+        "browser-ide",
+        "canvas2d",
+        "debugger",
+        "form-designer",
+        "github-pages",
+        "html",
+        "ide",
+        "interpreter",
+        "javascript",
+        "retro",
+        "runtime",
+        "vb6",
+        "visual-basic",
+        "visual-basic-6",
+        "webgpu"
+      ],
+      "created_at": "2026-10-04T17:40:27Z",
+      "updated_at": "2026-10-08T02:24:14Z",
+      "pushed_at": "2026-10-07T21:28:25Z"
+    },
+    {
       "id": 1386267511,
       "name": "0audit.com",
       "full_name": "defitier-sdk/0audit.com",
@@ -2079,6 +2197,42 @@
       "pushed_at": "2026-10-06T14:35:26Z"
     },
     {
+      "id": 1403810477,
+      "name": "ai-iso-skill",
+      "full_name": "MrBongoC/ai-iso-skill",
+      "description": "Claude skill that draws interactive isometric figures in a single HTML file",
+      "html_url": "https://github.com/MrBongoC/ai-iso-skill",
+      "homepage": "https://mrbongoc.github.io/ai-iso-skill/examples/desk-synth.html",
+      "stars": 96,
+      "forks": 3,
+      "language": null,
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "isometric",
+        "svg"
+      ],
+      "created_at": "2026-10-04T02:38:15Z",
+      "updated_at": "2026-10-08T01:56:10Z",
+      "pushed_at": "2026-10-04T02:52:27Z"
+    },
+    {
+      "id": 1400874663,
+      "name": "Sentry",
+      "full_name": "nuglifeleoji/Sentry",
+      "description": "Learning to Recover from LLM Agent Failures at Test Time",
+      "html_url": "https://github.com/nuglifeleoji/Sentry",
+      "homepage": null,
+      "stars": 95,
+      "forks": 4,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-02T00:54:32Z",
+      "updated_at": "2026-10-07T23:47:37Z",
+      "pushed_at": "2026-10-05T01:56:08Z"
+    },
+    {
       "id": 1376436152,
       "name": "jev-chat",
       "full_name": "w3cj/jev-chat",
@@ -2092,37 +2246,6 @@
       "created_at": "2026-09-18T21:09:21Z",
       "updated_at": "2026-09-23T22:22:03Z",
       "pushed_at": "2026-09-18T21:16:11Z"
-    },
-    {
-      "id": 1404682975,
-      "name": "VB6",
-      "full_name": "wieslawsoltes/VB6",
-      "description": "VB6 Studio Web — a browser-native classic Visual Basic IDE, form designer, source runtime and controls library in HTML, CSS and JavaScript, with a debugger, WebGPU drawing and single-file HTML app export.",
-      "html_url": "https://github.com/wieslawsoltes/VB6",
-      "homepage": "https://wieslawsoltes.github.io/VB6/",
-      "stars": 94,
-      "forks": 14,
-      "language": "JavaScript",
-      "topics": [
-        "browser-ide",
-        "canvas2d",
-        "debugger",
-        "form-designer",
-        "github-pages",
-        "html",
-        "ide",
-        "interpreter",
-        "javascript",
-        "retro",
-        "runtime",
-        "vb6",
-        "visual-basic",
-        "visual-basic-6",
-        "webgpu"
-      ],
-      "created_at": "2026-10-04T17:40:27Z",
-      "updated_at": "2026-10-07T16:26:38Z",
-      "pushed_at": "2026-10-07T17:50:36Z"
     },
     {
       "id": 1377530130,
@@ -2159,19 +2282,24 @@
       "pushed_at": "2026-09-23T00:41:36Z"
     },
     {
-      "id": 1400874663,
-      "name": "Sentry",
-      "full_name": "nuglifeleoji/Sentry",
-      "description": "Learning to Recover from LLM Agent Failures at Test Time",
-      "html_url": "https://github.com/nuglifeleoji/Sentry",
+      "id": 1405616800,
+      "name": "awesome-tern",
+      "full_name": "theblazehen/awesome-tern",
+      "description": "A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal",
+      "html_url": "https://github.com/theblazehen/awesome-tern",
       "homepage": null,
       "stars": 91,
-      "forks": 4,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-02T00:54:32Z",
-      "updated_at": "2026-10-07T17:20:00Z",
-      "pushed_at": "2026-10-05T01:56:08Z"
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "tern",
+        "tern-plugin"
+      ],
+      "created_at": "2026-10-05T11:11:31Z",
+      "updated_at": "2026-10-08T01:32:28Z",
+      "pushed_at": "2026-10-07T10:32:33Z"
     },
     {
       "id": 1399057460,
@@ -2257,69 +2385,13 @@
       "pushed_at": "2026-09-18T11:35:53Z"
     },
     {
-      "id": 1408486424,
-      "name": "soundcraft",
-      "full_name": "storytold/soundcraft",
-      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
-      "html_url": "https://github.com/storytold/soundcraft",
-      "homepage": "https://getartcraft.com/apps/soundcraft",
-      "stars": 88,
-      "forks": 43,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-07T08:31:31Z",
-      "updated_at": "2026-10-07T18:02:38Z",
-      "pushed_at": "2026-10-07T09:26:46Z"
-    },
-    {
-      "id": 1403810477,
-      "name": "ai-iso-skill",
-      "full_name": "MrBongoC/ai-iso-skill",
-      "description": "Claude skill that draws interactive isometric figures in a single HTML file",
-      "html_url": "https://github.com/MrBongoC/ai-iso-skill",
-      "homepage": "https://mrbongoc.github.io/ai-iso-skill/examples/desk-synth.html",
-      "stars": 87,
-      "forks": 3,
-      "language": null,
-      "topics": [
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "isometric",
-        "svg"
-      ],
-      "created_at": "2026-10-04T02:38:15Z",
-      "updated_at": "2026-10-07T17:43:21Z",
-      "pushed_at": "2026-10-04T02:52:27Z"
-    },
-    {
-      "id": 1405616800,
-      "name": "awesome-tern",
-      "full_name": "theblazehen/awesome-tern",
-      "description": "A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal",
-      "html_url": "https://github.com/theblazehen/awesome-tern",
-      "homepage": null,
-      "stars": 86,
-      "forks": 6,
-      "language": "Python",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "tern",
-        "tern-plugin"
-      ],
-      "created_at": "2026-10-05T11:11:31Z",
-      "updated_at": "2026-10-07T16:27:58Z",
-      "pushed_at": "2026-10-07T10:32:33Z"
-    },
-    {
       "id": 1402924075,
       "name": "DeepSeek-V4.1-Flash-Two-Sparks",
       "full_name": "0xSero/DeepSeek-V4.1-Flash-Two-Sparks",
       "description": "DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools, MTP, bundled with Pi",
       "html_url": "https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks",
       "homepage": null,
-      "stars": 85,
+      "stars": 86,
       "forks": 8,
       "language": "Shell",
       "topics": [
@@ -2329,8 +2401,23 @@
         "vllm"
       ],
       "created_at": "2026-10-03T09:02:14Z",
-      "updated_at": "2026-10-07T13:36:01Z",
+      "updated_at": "2026-10-08T03:03:42Z",
       "pushed_at": "2026-10-03T19:59:55Z"
+    },
+    {
+      "id": 1404113489,
+      "name": "fm1-x0x",
+      "full_name": "charlesvestal/fm1-x0x",
+      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
+      "html_url": "https://github.com/charlesvestal/fm1-x0x",
+      "homepage": null,
+      "stars": 81,
+      "forks": 5,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-04T08:03:49Z",
+      "updated_at": "2026-10-08T00:44:55Z",
+      "pushed_at": "2026-10-07T09:45:07Z"
     },
     {
       "id": 1386777688,
@@ -2369,19 +2456,26 @@
       "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
-      "id": 1404113489,
-      "name": "fm1-x0x",
-      "full_name": "charlesvestal/fm1-x0x",
-      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
-      "html_url": "https://github.com/charlesvestal/fm1-x0x",
+      "id": 1408082051,
+      "name": "founder-skill",
+      "full_name": "Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "homepage": null,
-      "stars": 77,
-      "forks": 4,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-04T08:03:49Z",
-      "updated_at": "2026-10-07T14:49:43Z",
-      "pushed_at": "2026-10-07T09:45:07Z"
+      "stars": 80,
+      "forks": 12,
+      "language": "Python",
+      "topics": [
+        "business-plan",
+        "claude-code",
+        "claude-skills",
+        "startup",
+        "subagents",
+        "unit-economics"
+      ],
+      "created_at": "2026-10-07T01:07:13Z",
+      "updated_at": "2026-10-08T02:40:18Z",
+      "pushed_at": "2026-10-07T01:07:17Z"
     },
     {
       "id": 1377321806,
@@ -2421,6 +2515,27 @@
       "created_at": "2026-09-28T18:48:03Z",
       "updated_at": "2026-10-04T07:22:06Z",
       "pushed_at": "2026-10-03T15:46:40Z"
+    },
+    {
+      "id": 1406041130,
+      "name": "softlab",
+      "full_name": "deity6/softlab",
+      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
+      "html_url": "https://github.com/deity6/softlab",
+      "homepage": "https://doit.loc.cc/",
+      "stars": 76,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "canvas",
+        "interaction-design",
+        "react",
+        "vite",
+        "webgl"
+      ],
+      "created_at": "2026-10-05T16:07:09Z",
+      "updated_at": "2026-10-08T01:19:04Z",
+      "pushed_at": "2026-10-05T16:52:50Z"
     },
     {
       "id": 1398599398,
@@ -2472,27 +2587,6 @@
       "created_at": "2026-10-01T15:47:55Z",
       "updated_at": "2026-10-07T08:16:22Z",
       "pushed_at": "2026-10-07T08:16:17Z"
-    },
-    {
-      "id": 1406041130,
-      "name": "softlab",
-      "full_name": "deity6/softlab",
-      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
-      "html_url": "https://github.com/deity6/softlab",
-      "homepage": "https://doit.loc.cc/",
-      "stars": 74,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "canvas",
-        "interaction-design",
-        "react",
-        "vite",
-        "webgl"
-      ],
-      "created_at": "2026-10-05T16:07:09Z",
-      "updated_at": "2026-10-07T16:04:58Z",
-      "pushed_at": "2026-10-05T16:52:50Z"
     },
     {
       "id": 1396432432,
@@ -2636,6 +2730,36 @@
       "pushed_at": "2026-10-07T07:11:56Z"
     },
     {
+      "id": 1403809641,
+      "name": "vibestart",
+      "full_name": "VinkyDev/vibestart",
+      "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
+      "html_url": "https://github.com/VinkyDev/vibestart",
+      "homepage": "https://vibestart.net",
+      "stars": 69,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-coding",
+        "cli",
+        "fullstack",
+        "lint",
+        "react",
+        "shadcn-ui",
+        "skills",
+        "tailwindcss",
+        "tanstack",
+        "typescript",
+        "vibe-coding",
+        "vite",
+        "vite-plus"
+      ],
+      "created_at": "2026-10-04T02:36:55Z",
+      "updated_at": "2026-10-08T03:22:02Z",
+      "pushed_at": "2026-10-08T03:21:57Z"
+    },
+    {
       "id": 1396348192,
       "name": "compress",
       "full_name": "spenmcke/compress",
@@ -2675,34 +2799,59 @@
       "pushed_at": "2026-10-04T10:41:52Z"
     },
     {
-      "id": 1403809641,
-      "name": "vibestart",
-      "full_name": "VinkyDev/vibestart",
-      "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
-      "html_url": "https://github.com/VinkyDev/vibestart",
-      "homepage": "https://vibestart.net",
-      "stars": 67,
-      "forks": 2,
-      "language": "TypeScript",
+      "id": 1406397878,
+      "name": "Video2World",
+      "full_name": "AetherLabsAI/Video2World",
+      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
+      "html_url": "https://github.com/AetherLabsAI/Video2World",
+      "homepage": "https://aetherlabsai.github.io/Video2World/",
+      "stars": 68,
+      "forks": 0,
+      "language": "Python",
       "topics": [
-        "ai",
-        "ai-coding",
-        "cli",
-        "fullstack",
-        "lint",
-        "react",
-        "shadcn-ui",
-        "skills",
-        "tailwindcss",
-        "tanstack",
-        "typescript",
-        "vibe-coding",
-        "vite",
-        "vite-plus"
+        "benchmark",
+        "coding-agent",
+        "embodied-ai",
+        "foundation-models",
+        "real-to-sim",
+        "robot-learning",
+        "robotics",
+        "simulation",
+        "world-models"
       ],
-      "created_at": "2026-10-04T02:36:55Z",
-      "updated_at": "2026-10-07T18:06:13Z",
-      "pushed_at": "2026-10-07T17:33:56Z"
+      "created_at": "2026-10-05T21:27:56Z",
+      "updated_at": "2026-10-08T03:30:54Z",
+      "pushed_at": "2026-10-06T15:47:31Z"
+    },
+    {
+      "id": 1407000491,
+      "name": "claude-my-privacy",
+      "full_name": "jinrunsen/claude-my-privacy",
+      "description": "MyPrivacy: local name and company pseudonymization for Claude Code, with restoration for tools and assistant reply display.",
+      "html_url": "https://github.com/jinrunsen/claude-my-privacy",
+      "homepage": null,
+      "stars": 66,
+      "forks": 9,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-06T09:00:47Z",
+      "updated_at": "2026-10-08T03:19:09Z",
+      "pushed_at": "2026-10-06T09:01:23Z"
+    },
+    {
+      "id": 1407997858,
+      "name": "project-maya",
+      "full_name": "mw00/project-maya",
+      "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
+      "html_url": "https://github.com/mw00/project-maya",
+      "homepage": null,
+      "stars": 66,
+      "forks": 9,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-06T22:55:13Z",
+      "updated_at": "2026-10-08T03:21:24Z",
+      "pushed_at": "2026-10-08T01:29:20Z"
     },
     {
       "id": 1375694442,
@@ -2940,19 +3089,19 @@
       "pushed_at": "2026-10-06T16:34:59Z"
     },
     {
-      "id": 1407000491,
-      "name": "claude-my-privacy",
-      "full_name": "jinrunsen/claude-my-privacy",
-      "description": "MyPrivacy: local name and company pseudonymization for Claude Code, with restoration for tools and assistant reply display.",
-      "html_url": "https://github.com/jinrunsen/claude-my-privacy",
+      "id": 1401594712,
+      "name": "awesome-fde-tools",
+      "full_name": "tonysurfly/awesome-fde-tools",
+      "description": "",
+      "html_url": "https://github.com/tonysurfly/awesome-fde-tools",
       "homepage": null,
       "stars": 60,
-      "forks": 7,
-      "language": "Python",
+      "forks": 0,
+      "language": null,
       "topics": [],
-      "created_at": "2026-10-06T09:00:47Z",
-      "updated_at": "2026-10-07T15:18:13Z",
-      "pushed_at": "2026-10-06T09:01:23Z"
+      "created_at": "2026-10-02T11:40:20Z",
+      "updated_at": "2026-10-07T22:55:16Z",
+      "pushed_at": "2026-10-02T13:38:08Z"
     },
     {
       "id": 1386575337,
@@ -3000,19 +3149,19 @@
       "pushed_at": "2026-09-30T11:49:23Z"
     },
     {
-      "id": 1401594712,
-      "name": "awesome-fde-tools",
-      "full_name": "tonysurfly/awesome-fde-tools",
-      "description": "",
-      "html_url": "https://github.com/tonysurfly/awesome-fde-tools",
+      "id": 1404036000,
+      "name": "jiti",
+      "full_name": "ghuntley/jiti",
+      "description": "Live Common Lisp image repair with OpenAI tools, persistent revisions, and a conversational CLI",
+      "html_url": "https://github.com/ghuntley/jiti",
       "homepage": null,
-      "stars": 58,
-      "forks": 0,
-      "language": null,
+      "stars": 59,
+      "forks": 7,
+      "language": "Common Lisp",
       "topics": [],
-      "created_at": "2026-10-02T11:40:20Z",
-      "updated_at": "2026-10-07T12:10:31Z",
-      "pushed_at": "2026-10-02T13:38:08Z"
+      "created_at": "2026-10-04T06:52:46Z",
+      "updated_at": "2026-10-08T02:42:43Z",
+      "pushed_at": "2026-10-07T07:09:55Z"
     },
     {
       "id": 1389512019,
@@ -3028,6 +3177,40 @@
       "created_at": "2026-09-26T16:29:26Z",
       "updated_at": "2026-10-02T21:35:55Z",
       "pushed_at": "2026-09-27T14:49:48Z"
+    },
+    {
+      "id": 1405884090,
+      "name": "iwrzwr-visual-archive",
+      "full_name": "kaganin/iwrzwr-visual-archive",
+      "description": "160+ experimental visualization studies across 25+ categories, built with javascript. explore waveform animations, spectrum-inspired displays, matrix patterns, particle fields, rhythm, memory, and mechanical motion. study the drawing code and adapt the live examples for your own creative-coding projects.",
+      "html_url": "https://github.com/kaganin/iwrzwr-visual-archive",
+      "homepage": "https://www.kagan.in/iwrzwr/visual-archive/",
+      "stars": 58,
+      "forks": 7,
+      "language": "HTML",
+      "topics": [
+        "animation",
+        "audio-visualization",
+        "canvas",
+        "creative-coding",
+        "experimental",
+        "generative-art",
+        "input",
+        "javascript",
+        "motion-design",
+        "music",
+        "music-visualiser",
+        "music-visualizer",
+        "output",
+        "record",
+        "sound",
+        "sound-visualizer",
+        "voice",
+        "waveform"
+      ],
+      "created_at": "2026-10-05T14:16:19Z",
+      "updated_at": "2026-10-08T03:28:25Z",
+      "pushed_at": "2026-10-07T17:59:29Z"
     },
     {
       "id": 1388724753,
@@ -3220,22 +3403,7 @@
       "topics": [],
       "created_at": "2026-10-04T06:05:05Z",
       "updated_at": "2026-10-07T12:37:51Z",
-      "pushed_at": "2026-10-07T17:05:26Z"
-    },
-    {
-      "id": 1404036000,
-      "name": "jiti",
-      "full_name": "ghuntley/jiti",
-      "description": "Live Common Lisp image repair with OpenAI tools, persistent revisions, and a conversational CLI",
-      "html_url": "https://github.com/ghuntley/jiti",
-      "homepage": null,
-      "stars": 55,
-      "forks": 6,
-      "language": "Common Lisp",
-      "topics": [],
-      "created_at": "2026-10-04T06:52:46Z",
-      "updated_at": "2026-10-07T09:14:39Z",
-      "pushed_at": "2026-10-07T07:09:55Z"
+      "pushed_at": "2026-10-08T03:06:01Z"
     },
     {
       "id": 1388409097,
@@ -3351,6 +3519,21 @@
       "created_at": "2026-09-26T07:46:48Z",
       "updated_at": "2026-10-01T08:27:45Z",
       "pushed_at": "2026-10-01T08:27:40Z"
+    },
+    {
+      "id": 1401523038,
+      "name": "ToolSeeds",
+      "full_name": "KentBeck/ToolSeeds",
+      "description": "Programming tools can now be transmitted in the form of prompts instead of finished software. Here's a library of such tool seeds.",
+      "html_url": "https://github.com/KentBeck/ToolSeeds",
+      "homepage": null,
+      "stars": 53,
+      "forks": 3,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-02T10:46:49Z",
+      "updated_at": "2026-10-08T02:11:38Z",
+      "pushed_at": "2026-10-06T23:07:06Z"
     },
     {
       "id": 1379547345,
@@ -3484,6 +3667,28 @@
       "pushed_at": "2026-10-02T07:48:46Z"
     },
     {
+      "id": 1402430099,
+      "name": "daily-team",
+      "full_name": "isas1/daily-team",
+      "description": "A new four-person creative team every day, and the small web tool it built. Generated with Claude Code, recorded on GitHub.",
+      "html_url": "https://github.com/isas1/daily-team",
+      "homepage": null,
+      "stars": 50,
+      "forks": 6,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "generative",
+        "github-actions",
+        "openrouter"
+      ],
+      "created_at": "2026-10-02T22:48:41Z",
+      "updated_at": "2026-10-07T22:33:52Z",
+      "pushed_at": "2026-10-07T22:33:48Z"
+    },
+    {
       "id": 1392926487,
       "name": "excali-mode",
       "full_name": "yibie/excali-mode",
@@ -3535,28 +3740,6 @@
       "pushed_at": "2026-09-28T17:40:50Z"
     },
     {
-      "id": 1402430099,
-      "name": "daily-team",
-      "full_name": "isas1/daily-team",
-      "description": "A new four-person creative team every day, and the small web tool it built. Generated with Claude Code, recorded on GitHub.",
-      "html_url": "https://github.com/isas1/daily-team",
-      "homepage": null,
-      "stars": 49,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "claude",
-        "claude-code",
-        "generative",
-        "github-actions",
-        "openrouter"
-      ],
-      "created_at": "2026-10-02T22:48:41Z",
-      "updated_at": "2026-10-07T14:15:27Z",
-      "pushed_at": "2026-10-07T12:39:02Z"
-    },
-    {
       "id": 1389869253,
       "name": "webkvm",
       "full_name": "Slaker19/webkvm",
@@ -3570,6 +3753,39 @@
       "created_at": "2026-09-26T23:17:14Z",
       "updated_at": "2026-10-02T20:33:02Z",
       "pushed_at": "2026-10-02T16:15:37Z"
+    },
+    {
+      "id": 1405115700,
+      "name": "streamfirefly",
+      "full_name": "rumoii/streamfirefly",
+      "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
+      "html_url": "https://github.com/rumoii/streamfirefly",
+      "homepage": null,
+      "stars": 48,
+      "forks": 3,
+      "language": "JavaScript",
+      "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "dash",
+        "edge-extension",
+        "ffmpeg",
+        "firefox-addon",
+        "hls",
+        "m3u8",
+        "media-downloader",
+        "media-sniffer",
+        "native-messaging",
+        "rust",
+        "stream-recorder",
+        "video-downloader",
+        "vue",
+        "webextension",
+        "windows"
+      ],
+      "created_at": "2026-10-05T04:26:14Z",
+      "updated_at": "2026-10-08T03:27:00Z",
+      "pushed_at": "2026-10-07T12:20:17Z"
     },
     {
       "id": 1379859926,
@@ -3831,28 +4047,62 @@
       "pushed_at": "2026-10-06T02:16:41Z"
     },
     {
-      "id": 1408371739,
-      "name": "ascii",
-      "full_name": "bas3line/ascii",
-      "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
-      "html_url": "https://github.com/bas3line/ascii",
-      "homepage": "https://ascii.rest",
+      "id": 1405596068,
+      "name": "kar-plain",
+      "full_name": "Burntgogi/kar-plain",
+      "description": "A compact Codex skill for explanations in Korean or English: prose, diagrams, web pages, and videos.",
+      "html_url": "https://github.com/Burntgogi/kar-plain",
+      "homepage": null,
       "stars": 43,
-      "forks": 2,
-      "language": "TypeScript",
+      "forks": 8,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-05T10:55:08Z",
+      "updated_at": "2026-10-08T02:23:00Z",
+      "pushed_at": "2026-10-06T22:03:50Z"
+    },
+    {
+      "id": 1401081055,
+      "name": "ArgusBPF",
+      "full_name": "cn0xroot/ArgusBPF",
+      "description": "eBPF-based system & AI-agent activity monitor with a bilingual professional/plain-language web dashboard",
+      "html_url": "https://github.com/cn0xroot/ArgusBPF",
+      "homepage": "https://www.sistudiohq.com",
+      "stars": 43,
+      "forks": 1,
+      "language": "C",
       "topics": [
-        "animation",
-        "ascii",
-        "ascii-art",
-        "astro",
-        "nextjs",
-        "react",
-        "typescript",
-        "web-components"
+        "aiagent",
+        "ebpf",
+        "ebpf-go"
       ],
-      "created_at": "2026-10-07T06:48:54Z",
-      "updated_at": "2026-10-07T18:06:17Z",
-      "pushed_at": "2026-10-07T18:05:28Z"
+      "created_at": "2026-10-02T04:40:54Z",
+      "updated_at": "2026-10-08T03:19:38Z",
+      "pushed_at": "2026-10-04T10:34:37Z"
+    },
+    {
+      "id": 1406555191,
+      "name": "PSXS5",
+      "full_name": "SynoPiia/PSXS5",
+      "description": "PSXS5 (PlayStation X Super 5): a PlayStation 1 emulator running natively on jailbroken PS5, based on PCSX-ReARMed. Cover-flow shelf, xBR upscaling, RetroAchievements, cheats.",
+      "html_url": "https://github.com/SynoPiia/PSXS5",
+      "homepage": "https://x.com/Synopiia",
+      "stars": 43,
+      "forks": 6,
+      "language": "C",
+      "topics": [
+        "emulator",
+        "etahen",
+        "homebrew",
+        "pcsx-rearmed",
+        "playstation",
+        "ps1",
+        "ps5",
+        "retroachievements"
+      ],
+      "created_at": "2026-10-06T01:28:45Z",
+      "updated_at": "2026-10-08T03:16:27Z",
+      "pushed_at": "2026-10-07T23:00:12Z"
     },
     {
       "id": 1382441164,
@@ -3915,21 +4165,6 @@
       "pushed_at": "2026-09-29T17:28:26Z"
     },
     {
-      "id": 1405596068,
-      "name": "kar-plain",
-      "full_name": "Burntgogi/kar-plain",
-      "description": "A compact Codex skill for explanations in Korean or English: prose, diagrams, web pages, and videos.",
-      "html_url": "https://github.com/Burntgogi/kar-plain",
-      "homepage": null,
-      "stars": 42,
-      "forks": 8,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-05T10:55:08Z",
-      "updated_at": "2026-10-07T08:09:52Z",
-      "pushed_at": "2026-10-06T22:03:50Z"
-    },
-    {
       "id": 1377057562,
       "name": "crayfish",
       "full_name": "skydoves/crayfish",
@@ -3987,25 +4222,6 @@
       "created_at": "2026-09-30T11:51:52Z",
       "updated_at": "2026-10-06T02:47:07Z",
       "pushed_at": "2026-10-04T06:07:15Z"
-    },
-    {
-      "id": 1401081055,
-      "name": "ArgusBPF",
-      "full_name": "cn0xroot/ArgusBPF",
-      "description": "eBPF-based system & AI-agent activity monitor with a bilingual professional/plain-language web dashboard",
-      "html_url": "https://github.com/cn0xroot/ArgusBPF",
-      "homepage": "https://www.sistudiohq.com",
-      "stars": 41,
-      "forks": 1,
-      "language": "C",
-      "topics": [
-        "aiagent",
-        "ebpf",
-        "ebpf-go"
-      ],
-      "created_at": "2026-10-02T04:40:54Z",
-      "updated_at": "2026-10-07T09:08:21Z",
-      "pushed_at": "2026-10-04T10:34:37Z"
     },
     {
       "id": 1404117099,
@@ -4292,29 +4508,6 @@
       "pushed_at": "2026-10-04T03:19:51Z"
     },
     {
-      "id": 1408673153,
-      "name": "psp-web-recomp",
-      "full_name": "snuri00/psp-web-recomp",
-      "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
-      "html_url": "https://github.com/snuri00/psp-web-recomp",
-      "homepage": null,
-      "stars": 34,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "emscripten",
-        "god-of-war",
-        "psp",
-        "recompilation",
-        "static-recompilation",
-        "webassembly",
-        "webgl2"
-      ],
-      "created_at": "2026-10-07T11:21:20Z",
-      "updated_at": "2026-10-07T17:58:28Z",
-      "pushed_at": "2026-10-07T12:48:17Z"
-    },
-    {
       "id": 1377573287,
       "name": "jev-recall",
       "full_name": "samdotmak/jev-recall",
@@ -4406,30 +4599,6 @@
       "created_at": "2026-09-27T13:18:25Z",
       "updated_at": "2026-10-03T22:08:38Z",
       "pushed_at": "2026-09-30T12:48:50Z"
-    },
-    {
-      "id": 1406555191,
-      "name": "PSXS5",
-      "full_name": "SynoPiia/PSXS5",
-      "description": "PSXS5 (PlayStation X Super 5): a PlayStation 1 emulator running natively on jailbroken PS5, based on PCSX-ReARMed. Cover-flow shelf, xBR upscaling, RetroAchievements, cheats.",
-      "html_url": "https://github.com/SynoPiia/PSXS5",
-      "homepage": "https://x.com/Synopiia",
-      "stars": 32,
-      "forks": 3,
-      "language": "C",
-      "topics": [
-        "emulator",
-        "etahen",
-        "homebrew",
-        "pcsx-rearmed",
-        "playstation",
-        "ps1",
-        "ps5",
-        "retroachievements"
-      ],
-      "created_at": "2026-10-06T01:28:45Z",
-      "updated_at": "2026-10-07T17:59:32Z",
-      "pushed_at": "2026-10-07T15:37:34Z"
     },
     {
       "id": 1392926470,
@@ -4735,6 +4904,30 @@
       "pushed_at": "2026-10-04T06:32:32Z"
     },
     {
+      "id": 1403461478,
+      "name": "icon-marquee",
+      "full_name": "gian-gg/icon-marquee",
+      "description": "Dynamic SVG icon marquees for READMEs, portfolios, and web pages.",
+      "html_url": "https://github.com/gian-gg/icon-marquee",
+      "homepage": "https://icon-marquee.giann.dev",
+      "stars": 27,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "animated-sv",
+        "api",
+        "developer-tools",
+        "github-readme",
+        "icons",
+        "readme-profile",
+        "skills-icons",
+        "svg"
+      ],
+      "created_at": "2026-10-03T17:22:40Z",
+      "updated_at": "2026-10-07T21:17:02Z",
+      "pushed_at": "2026-10-03T19:35:16Z"
+    },
+    {
       "id": 1387743071,
       "name": "explainroo",
       "full_name": "vincentsch/explainroo",
@@ -5019,8 +5212,8 @@
         "windows-injector"
       ],
       "created_at": "2026-10-02T01:49:52Z",
-      "updated_at": "2026-10-07T12:52:50Z",
-      "pushed_at": "2026-10-07T12:52:46Z"
+      "updated_at": "2026-10-08T00:03:14Z",
+      "pushed_at": "2026-10-08T00:03:10Z"
     },
     {
       "id": 1394505594,
@@ -5094,8 +5287,8 @@
         "revit-windows"
       ],
       "created_at": "2026-10-02T00:35:59Z",
-      "updated_at": "2026-10-07T12:46:24Z",
-      "pushed_at": "2026-10-07T12:46:19Z"
+      "updated_at": "2026-10-08T00:01:37Z",
+      "pushed_at": "2026-10-08T00:01:32Z"
     },
     {
       "id": 1379231612,
@@ -5451,6 +5644,28 @@
       "pushed_at": "2026-09-26T14:35:37Z"
     },
     {
+      "id": 1402374485,
+      "name": "lemur-light-effect-card",
+      "full_name": "mendebur-lemur/lemur-light-effect-card",
+      "description": "Room-by-room light effects, white tones and colors for any light. Home Assistant card + control panel.",
+      "html_url": "https://github.com/mendebur-lemur/lemur-light-effect-card",
+      "homepage": null,
+      "stars": 15,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "homeassistant-custom-component",
+        "light-effects",
+        "lovelace-custom-card"
+      ],
+      "created_at": "2026-10-02T21:29:05Z",
+      "updated_at": "2026-10-07T21:55:37Z",
+      "pushed_at": "2026-10-05T12:48:22Z"
+    },
+    {
       "id": 1379723846,
       "name": "taplio-dev.github.io",
       "full_name": "taplio-dev/taplio-dev.github.io",
@@ -5543,28 +5758,6 @@
       "created_at": "2026-10-02T02:58:40Z",
       "updated_at": "2026-10-06T22:15:41Z",
       "pushed_at": "2026-10-06T22:15:37Z"
-    },
-    {
-      "id": 1402374485,
-      "name": "lemur-light-effect-card",
-      "full_name": "mendebur-lemur/lemur-light-effect-card",
-      "description": "Room-by-room light effects, white tones and colors for any light. Home Assistant card + control panel.",
-      "html_url": "https://github.com/mendebur-lemur/lemur-light-effect-card",
-      "homepage": null,
-      "stars": 14,
-      "forks": 1,
-      "language": "JavaScript",
-      "topics": [
-        "hacs",
-        "hacs-integration",
-        "home-assistant",
-        "homeassistant-custom-component",
-        "light-effects",
-        "lovelace-custom-card"
-      ],
-      "created_at": "2026-10-02T21:29:05Z",
-      "updated_at": "2026-10-05T12:48:27Z",
-      "pushed_at": "2026-10-05T12:48:22Z"
     },
     {
       "id": 1379722239,
@@ -5714,6 +5907,21 @@
       "created_at": "2026-10-03T11:09:11Z",
       "updated_at": "2026-10-06T01:40:18Z",
       "pushed_at": "2026-10-04T11:32:51Z"
+    },
+    {
+      "id": 1406642722,
+      "name": "flipper-mtools",
+      "full_name": "mtoolstec/flipper-mtools",
+      "description": "Open-source NFC magic card tools for Flipper Zero",
+      "html_url": "https://github.com/mtoolstec/flipper-mtools",
+      "homepage": null,
+      "stars": 13,
+      "forks": 0,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-06T03:29:30Z",
+      "updated_at": "2026-10-07T21:15:30Z",
+      "pushed_at": "2026-10-06T10:07:09Z"
     },
     {
       "id": 1380788494,
@@ -5895,19 +6103,48 @@
       "pushed_at": "2026-10-05T13:57:52Z"
     },
     {
-      "id": 1406642722,
-      "name": "flipper-mtools",
-      "full_name": "mtoolstec/flipper-mtools",
-      "description": "Open-source NFC magic card tools for Flipper Zero",
-      "html_url": "https://github.com/mtoolstec/flipper-mtools",
+      "id": 1401068325,
+      "name": "ps2-launcher",
+      "full_name": "danielnuld/ps2-launcher",
+      "description": "ORBIT: a game launcher for a real PlayStation 2 — covers, 3D save icons, in-game menu, home game server, RetroAchievements",
+      "html_url": "https://github.com/danielnuld/ps2-launcher",
+      "homepage": "https://danielnuld.github.io/ps2-launcher/",
+      "stars": 11,
+      "forks": 0,
+      "language": "C",
+      "topics": [
+        "homebrew",
+        "launcher",
+        "neutrino",
+        "playstation2",
+        "ps2",
+        "ps2-homebrew",
+        "retroachievements"
+      ],
+      "created_at": "2026-10-02T04:30:03Z",
+      "updated_at": "2026-10-07T20:27:51Z",
+      "pushed_at": "2026-10-07T01:47:33Z"
+    },
+    {
+      "id": 1408158211,
+      "name": "mupen64plus-ps5",
+      "full_name": "TheRealRetro/mupen64plus-ps5",
+      "description": "Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates",
+      "html_url": "https://github.com/TheRealRetro/mupen64plus-ps5",
       "homepage": null,
       "stars": 11,
       "forks": 0,
       "language": "C",
-      "topics": [],
-      "created_at": "2026-10-06T03:29:30Z",
-      "updated_at": "2026-10-07T00:19:57Z",
-      "pushed_at": "2026-10-06T10:07:09Z"
+      "topics": [
+        "emulator",
+        "mupen64plus",
+        "n64",
+        "ps5",
+        "ps5-homebrew"
+      ],
+      "created_at": "2026-10-07T02:51:00Z",
+      "updated_at": "2026-10-08T03:27:11Z",
+      "pushed_at": "2026-10-07T23:28:27Z"
     },
     {
       "id": 1387641647,
