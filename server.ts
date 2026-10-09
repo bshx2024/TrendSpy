@@ -7,6 +7,7 @@ import { fileURLToPath } from "node:url";
 import { ENTITY_SEEDS } from "./entity_seeds.js";
 import { evaluateSerpDifficulty } from "./serp_evaluator.js";
 import { getStreamData } from "./batch_timeline_service.js";
+import { diagnoseKeyword } from "./sensenova_client.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -237,9 +238,10 @@ app.get("/api/timeline/:keyword", (req, res) => {
 
 // 10. 关键词 360° 深度诊断与详情 API (对标截图完整详情模态)
 app.get("/api/keyword-detail/:keyword", async (req, res) => {
-  const kw = decodeURIComponent(req.params.keyword).toLowerCase().trim();
+  try {
+    const kw = decodeURIComponent(req.params.keyword).toLowerCase().trim();
 
-  // 1. 读取基础数据库与研报输出
+    // 1. 读取基础数据库与研报输出
   const timelineDb = safeReadJson(path.join(DATA_DIR, "timeline_database.json"), { records: {} });
   const benchmarkData = safeReadJson(path.join(DATA_DIR, "benchmark_radar_output.json"), {});
   const verifiedData = safeReadJson(path.join(DATA_DIR, "verified_radar.json"), {});
@@ -313,45 +315,108 @@ app.get("/api/keyword-detail/:keyword", async (req, res) => {
     ];
   }
 
-  // 5. 组合并返回深度画像
-  res.json({
-    keyword: kw,
-    entity: matchedBenchmark?.entity || timelineRecord?.entity || "通用搜索需求",
-    entityDisplayName: matchedBenchmark?.entityDisplayName || timelineRecord?.entity || "通用意图",
-    category: matchedBenchmark?.category || timelineRecord?.category || "工具与应用",
-    lifecycleStage: matchedBenchmark?.lifecycleStage || timelineRecord?.lifecycleStage || "新词首次爆发",
-    growthStatus: matchedBenchmark?.growthStatus || "飙升",
-    benchmarkRatioFormatted: matchedBenchmark?.ratioFormatted || `GPTs×${(matchedBenchmark?.benchmarkRatio || 0.05).toFixed(3)}`,
-    currentMomentum: matchedBenchmark?.currentMomentum || "上升中",
-    firstSeenDate: timelineRecord?.firstSeenDate || matchedBenchmark?.firstSeenDate || "近期",
-    breakoutDate: timelineRecord?.breakoutDate || matchedBenchmark?.breakoutDate || "近期",
-    peakTarget: matchedBenchmark?.peakTarget || 80,
-    historyPoints,
-    
-    // 三段式业务诊断 (这是什么 / 用户想干什么 / 我们该怎么做)
-    analysis: {
-      whatIsIt: matchedVerified?.description || matchedBenchmark?.suggestedAction || `${kw} 属于近期搜索量爆发的 AI/技术需求词或游戏工具。`,
-      userIntent: matchedBenchmark?.isCommercial ? "用户寻找免登录体验工具、API 接口、一键生成器或相关工作流下载。" : "用户跟踪最新版本发布与使用教程。",
-      actionSuggestion: matchedVerified?.suggestedAction || matchedBenchmark?.suggestedAction || "搭建极简单页，优化精准长尾词，避开顶级大站直接截取自然搜索流量。"
-    },
+    // 5. 组合并返回深度画像 (商汤科技 DeepSeek-v4-flash 智能诊断)
+    const diagnosesFile = path.join(DATA_DIR, "llm_diagnoses.json");
+    const diagnosesDb = safeReadJson(diagnosesFile, {});
 
-    // 竞争与可行性评级
-    feasibility: {
-      difficultyScore: serpInfo?.difficultyScore || 45,
-      opportunityLevel: serpInfo?.opportunityLevel || "良好机会 (大站内页薄弱)",
-      hasSmallSiteRanking: serpInfo?.hasSmallSiteRanking || false,
-      summaryNote: serpInfo?.summaryNote || "SERP 存在长尾排名空间，适合敏捷落地。",
-      dominantDomains: serpInfo?.dominantDomains || ["google.com", "youtube.com", "reddit.com"]
-    },
+    let llmResult = diagnosesDb[kw] || null;
+    if (!llmResult) {
+      try {
+        console.log(`[DeepSeek-v4-flash] 实时智能诊断关键词: "${kw}"...`);
+        llmResult = await diagnoseKeyword(kw, {
+          sourceEntity: matchedBenchmark?.entity || timelineRecord?.entity,
+          category: matchedBenchmark?.category || timelineRecord?.category,
+          ratio: matchedBenchmark?.benchmarkRatio,
+          stage: matchedBenchmark?.lifecycleStage || timelineRecord?.lifecycleStage,
+          longtails: longTailKeywords,
+          serpDomains: serpInfo?.dominantDomains
+        });
+        diagnosesDb[kw] = llmResult;
+        safeWriteJson(diagnosesFile, diagnosesDb);
+      } catch (err: any) {
+        console.warn(`[DeepSeek-v4-flash] 自动诊断失败:`, err.message);
+      }
+    }
 
-    // 衍生内页长尾词
-    longTailKeywords: Array.from(new Set([...(matchedBenchmark?.relatedVariants || []), ...longTailKeywords])).slice(0, 15),
+    res.json({
+      keyword: kw,
+      entity: matchedBenchmark?.entity || timelineRecord?.entity || "通用搜索需求",
+      entityDisplayName: matchedBenchmark?.entityDisplayName || timelineRecord?.entity || "通用意图",
+      category: matchedBenchmark?.category || timelineRecord?.category || "工具与应用",
+      lifecycleStage: matchedBenchmark?.lifecycleStage || timelineRecord?.lifecycleStage || "新词首次爆发",
+      growthStatus: matchedBenchmark?.growthStatus || "飙升",
+      benchmarkRatioFormatted: matchedBenchmark?.ratioFormatted || `GPTs×${(matchedBenchmark?.benchmarkRatio || 0.05).toFixed(3)}`,
+      currentMomentum: matchedBenchmark?.currentMomentum || "上升中",
+      firstSeenDate: timelineRecord?.firstSeenDate || matchedBenchmark?.firstSeenDate || "近期",
+      breakoutDate: timelineRecord?.breakoutDate || matchedBenchmark?.breakoutDate || "近期",
+      peakTarget: matchedBenchmark?.peakTarget || 80,
+      historyPoints,
+      
+      // 三段式业务诊断 (这是什么 / 用户想干什么 / 我们该怎么做)
+      analysis: {
+        whatIsIt: llmResult?.whatIsIt || matchedVerified?.description || matchedBenchmark?.suggestedAction || `${kw} 属于近期搜索量爆发的海外需求词。`,
+        userIntent: llmResult?.userIntent || (matchedBenchmark?.isCommercial ? "用户寻找免登录体验工具、API 接口或相关工作流下载。" : "用户跟踪最新版本与使用教程。"),
+        actionSuggestion: llmResult?.actionSuggestion || matchedVerified?.suggestedAction || matchedBenchmark?.suggestedAction || "搭建极简单页，优化精准长尾词，避开顶级大站直接截取自然搜索流量。",
+        verdictLevel: llmResult?.verdictLevel || "可以试·做内页",
+        verdictSummary: llmResult?.verdictSummary || "可结合大盘做长尾测试",
+        contentAngle: llmResult?.contentAngle || [],
+        modelUsed: llmResult?.modelUsed || "deepseek-v4-flash (SenseNova)"
+      },
 
-    // 验证与外链
-    trendsUrl: `https://trends.google.com/trends/explore?date=today%201-m&q=${encodeURIComponent(kw)},gpts`,
-    serpUrl: `https://www.google.com/search?q=${encodeURIComponent(kw)}`
-  });
+      // 竞争与可行性评级
+      feasibility: {
+        difficultyScore: serpInfo?.difficultyScore || 45,
+        opportunityLevel: serpInfo?.opportunityLevel || "良好机会 (大站内页薄弱)",
+        hasSmallSiteRanking: serpInfo?.hasSmallSiteRanking || false,
+        summaryNote: serpInfo?.summaryNote || "SERP 存在长尾排名空间，适合敏捷落地。",
+        dominantDomains: serpInfo?.dominantDomains || ["google.com", "youtube.com", "reddit.com"]
+      },
+
+      // 衍生内页长尾词
+      longTailKeywords: Array.from(new Set([...(matchedBenchmark?.relatedVariants || []), ...longTailKeywords])).slice(0, 15),
+
+      // 验证与外链
+      trendsUrl: `https://trends.google.com/trends/explore?date=today%201-m&q=${encodeURIComponent(kw)},gpts`,
+      serpUrl: `https://www.google.com/search?q=${encodeURIComponent(kw)}`
+    });
+  } catch (err: any) {
+    res.status(500).json({ error: err.message });
+  }
 });
+
+// 11. 商汤科技 DeepSeek-v4-flash 实时单词/批量诊断 API
+app.post("/api/diagnose-keyword", async (req, res) => {
+  try {
+    const { keyword, forceRefresh = false, context = {} } = req.body;
+    if (!keyword) {
+      return res.status(400).json({ error: "Missing keyword parameter" });
+    }
+    const cleanKw = keyword.trim().toLowerCase();
+    const diagnosesFile = path.join(DATA_DIR, "llm_diagnoses.json");
+    const diagnosesDb = safeReadJson(diagnosesFile, {});
+
+    if (!forceRefresh && diagnosesDb[cleanKw]) {
+      return res.json({ cached: true, ...diagnosesDb[cleanKw] });
+    }
+
+    const diagnosis = await diagnoseKeyword(cleanKw, context);
+    diagnosesDb[cleanKw] = diagnosis;
+    safeWriteJson(diagnosesFile, diagnosesDb);
+
+    res.json({ cached: false, ...diagnosis });
+  } catch (err: any) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// 安全写 JSON 辅助
+function safeWriteJson(filePath: string, data: any) {
+  try {
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
+  } catch (err) {
+    console.error(`Error writing ${filePath}:`, err);
+  }
+}
 
 // 7. 研报列表 API
 app.get("/api/reports", (_req, res) => {

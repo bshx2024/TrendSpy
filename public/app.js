@@ -1501,10 +1501,83 @@ window.openKeywordDetail = async function (keyword) {
     document.getElementById("modalCategoryVal").innerText = d.category;
     document.getElementById("modalEntitySub").innerText = `归属: ${d.entityDisplayName}`;
 
-    // 填充三段式业务诊断
+    // 填充三段式业务诊断 (商汤 DeepSeek-v4-flash)
     document.getElementById("modalWhatIsIt").innerText = d.analysis?.whatIsIt || "--";
     document.getElementById("modalUserIntent").innerText = d.analysis?.userIntent || "--";
     document.getElementById("modalActionSuggestion").innerText = d.analysis?.actionSuggestion || "--";
+
+    const vBadge = document.getElementById("modalVerdictBadge");
+    if (vBadge) {
+      vBadge.innerText = d.analysis?.verdictLevel || "可以试·做内页";
+      if (d.analysis?.verdictLevel?.includes("单独立站")) {
+        vBadge.style.color = "#34d399";
+        vBadge.style.borderColor = "rgba(16,185,129,0.4)";
+      } else if (d.analysis?.verdictLevel?.includes("内页")) {
+        vBadge.style.color = "#38bdf8";
+        vBadge.style.borderColor = "rgba(56,189,248,0.4)";
+      } else {
+        vBadge.style.color = "#fbbf24";
+        vBadge.style.borderColor = "rgba(251,191,36,0.4)";
+      }
+    }
+
+    const mBadge = document.getElementById("modalModelBadge");
+    if (mBadge) {
+      mBadge.innerText = d.analysis?.modelUsed || "deepseek-v4-flash";
+    }
+
+    const anglesList = document.getElementById("modalContentAngleList");
+    if (anglesList) {
+      const angles = d.analysis?.contentAngle || [];
+      if (angles.length > 0) {
+        anglesList.innerHTML = angles.map(a => `<li>${escapeHtml(a)}</li>`).join("");
+      } else {
+        anglesList.innerHTML = `<li>${escapeHtml(d.analysis?.verdictSummary || "建议配合长尾意图快速产出页面")}</li>`;
+      }
+    }
+
+    // 绑定重新 AI 诊断按钮
+    const btnRe = document.getElementById("btnRediagnoseLlm");
+    if (btnRe) {
+      btnRe.onclick = async () => {
+        const originalText = btnRe.innerHTML;
+        btnRe.innerHTML = `<span class="spinner-inline"></span> 正在诊断中...`;
+        btnRe.disabled = true;
+        try {
+          const res = await fetch("/api/diagnose-keyword", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              keyword: d.keyword,
+              forceRefresh: true,
+              context: {
+                sourceEntity: d.entity,
+                category: d.category,
+                stage: d.currentMomentum,
+                longtails: d.longTailKeywords,
+                serpDomains: d.feasibility?.dominantDomains
+              }
+            })
+          });
+          if (!res.ok) throw new Error("诊断请求失败");
+          const diag = await res.json();
+          document.getElementById("modalWhatIsIt").innerText = diag.whatIsIt;
+          document.getElementById("modalUserIntent").innerText = diag.userIntent;
+          document.getElementById("modalActionSuggestion").innerText = diag.actionSuggestion;
+          if (vBadge) vBadge.innerText = diag.verdictLevel || "已更新";
+          if (mBadge) mBadge.innerText = diag.modelUsed || "deepseek-v4-flash";
+          if (anglesList && diag.contentAngle) {
+            anglesList.innerHTML = diag.contentAngle.map(a => `<li>${escapeHtml(a)}</li>`).join("");
+          }
+          showToast(`✨ DeepSeek-v4-flash 诊断完成`);
+        } catch (e) {
+          showToast(`❌ 诊断异常: ${e.message}`);
+        } finally {
+          btnRe.innerHTML = originalText;
+          btnRe.disabled = false;
+        }
+      };
+    }
 
     // 填充 SERP 前两页竞争
     const f = d.feasibility || {};

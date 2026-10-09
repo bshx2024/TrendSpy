@@ -702,8 +702,20 @@
           </div>
         </div>
 
-        <!-- 3-Column Diagnostic Summary (是什么 / 用户想干什么 / 我们该怎么做) -->
-        <div class="diagnosis-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin-bottom: 20px;">
+        <!-- 3-Column Diagnostic Summary (商汤 DeepSeek-v4-flash 智能商业化研判) -->
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 10px;">
+          <div style="display:flex; align-items:center; gap: 8px;">
+            <span style="font-size: 13px; font-weight: 700; color: #fff;">🧠 出海商业化诊断 (商汤 DeepSeek-v4-flash)</span>
+            <span class="badge" id="modalVerdictBadge" style="background: rgba(16,185,129,0.15); color: #34d399; border: 1px solid rgba(16,185,129,0.3); font-size: 11px; padding: 2px 8px; border-radius: 4px;">--</span>
+            <span id="modalModelBadge" style="font-size: 11px; color: #64748b; font-family: monospace;">SenseNova</span>
+          </div>
+          <button class="btn btn-sm btn-secondary" id="btnRediagnoseLlm" style="font-size: 11px; padding: 4px 10px;">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-right:3px;"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.3"/></svg>
+            重新 AI 深度诊断
+          </button>
+        </div>
+
+        <div class="diagnosis-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin-bottom: 14px;">
           <div class="diagnosis-card" style="background: rgba(255,255,255,0.02); border: 1px solid var(--border-subtle); border-radius: 8px; padding: 14px;">
             <div style="font-size: 12px; font-weight: 700; color: #38bdf8; margin-bottom: 6px;">📌 这是什么</div>
             <p id="modalWhatIsIt" style="font-size: 13px; color: #cbd5e1; line-height: 1.5; margin:0;">--</p>
@@ -716,6 +728,14 @@
             <div style="font-size: 12px; font-weight: 700; color: #10b981; margin-bottom: 6px;">🚀 我们怎么做 (出海套利)</div>
             <p id="modalActionSuggestion" style="font-size: 13px; color: #ecfdf5; line-height: 1.5; margin:0;">--</p>
           </div>
+        </div>
+
+        <!-- 落地切入点与功能建议清单 -->
+        <div id="modalContentAngleBox" style="background: rgba(56, 189, 248, 0.03); border: 1px dashed rgba(56, 189, 248, 0.25); border-radius: 8px; padding: 12px 16px; margin-bottom: 20px;">
+          <div style="font-size: 12px; font-weight: 700; color: #38bdf8; margin-bottom: 6px;">💡 建议落地功能与内容切入点:</div>
+          <ul id="modalContentAngleList" style="margin: 0; padding-left: 20px; font-size: 12px; color: #94a3b8; line-height: 1.6;">
+            <li>等待诊断...</li>
+          </ul>
         </div>
 
         <!-- SERP Top 2 Pages Competitive Analysis -->
