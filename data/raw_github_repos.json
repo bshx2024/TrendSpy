@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/9 10:40:29",
-  "total_repos": 306,
+  "fetched_at": "2026/10/9 11:39:55",
+  "total_repos": 307,
   "repos": [
     {
       "id": 1403431984,
@@ -24,13 +24,28 @@
       "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
       "html_url": "https://github.com/DozenTwelve/Papermorph",
       "homepage": null,
-      "stars": 585,
+      "stars": 587,
       "forks": 79,
       "language": "HTML",
       "topics": [],
       "created_at": "2026-10-03T01:38:22Z",
-      "updated_at": "2026-10-09T01:05:28Z",
+      "updated_at": "2026-10-09T03:21:50Z",
       "pushed_at": "2026-10-06T12:33:37Z"
+    },
+    {
+      "id": 1408486424,
+      "name": "soundcraft",
+      "full_name": "storytold/soundcraft",
+      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "html_url": "https://github.com/storytold/soundcraft",
+      "homepage": "https://getartcraft.com/apps/soundcraft",
+      "stars": 582,
+      "forks": 304,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-07T08:31:31Z",
+      "updated_at": "2026-10-09T03:37:54Z",
+      "pushed_at": "2026-10-08T14:41:51Z"
     },
     {
       "id": 1403115747,
@@ -56,21 +71,6 @@
       "created_at": "2026-10-03T12:07:49Z",
       "updated_at": "2026-10-06T08:08:31Z",
       "pushed_at": "2026-10-03T12:07:53Z"
-    },
-    {
-      "id": 1408486424,
-      "name": "soundcraft",
-      "full_name": "storytold/soundcraft",
-      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
-      "html_url": "https://github.com/storytold/soundcraft",
-      "homepage": "https://getartcraft.com/apps/soundcraft",
-      "stars": 569,
-      "forks": 297,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-07T08:31:31Z",
-      "updated_at": "2026-10-09T02:40:19Z",
-      "pushed_at": "2026-10-08T14:41:51Z"
     },
     {
       "id": 1408371739,
@@ -118,7 +118,7 @@
       "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
       "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
       "homepage": null,
-      "stars": 509,
+      "stars": 512,
       "forks": 65,
       "language": "TypeScript",
       "topics": [
@@ -131,8 +131,8 @@
         "webgl"
       ],
       "created_at": "2026-10-04T03:33:57Z",
-      "updated_at": "2026-10-09T02:37:12Z",
-      "pushed_at": "2026-10-09T02:21:25Z"
+      "updated_at": "2026-10-09T03:25:23Z",
+      "pushed_at": "2026-10-09T03:14:49Z"
     },
     {
       "id": 1401821001,
@@ -508,7 +508,7 @@
       "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
       "html_url": "https://github.com/TannerMidd/pi-pocket",
       "homepage": "https://tannermidd.github.io/pi-pocket/",
-      "stars": 281,
+      "stars": 284,
       "forks": 18,
       "language": "TypeScript",
       "topics": [
@@ -523,7 +523,7 @@
         "self-hosted"
       ],
       "created_at": "2026-10-04T02:29:57Z",
-      "updated_at": "2026-10-09T01:15:33Z",
+      "updated_at": "2026-10-09T03:34:26Z",
       "pushed_at": "2026-10-08T20:45:00Z"
     },
     {
@@ -619,7 +619,7 @@
       "description": "Convert any file with a right-click.",
       "html_url": "https://github.com/opencoredev/convt",
       "homepage": "convt.app",
-      "stars": 253,
+      "stars": 255,
       "forks": 13,
       "language": "Rust",
       "topics": [
@@ -634,7 +634,7 @@
         "private"
       ],
       "created_at": "2026-10-06T01:17:53Z",
-      "updated_at": "2026-10-09T01:39:08Z",
+      "updated_at": "2026-10-09T03:13:15Z",
       "pushed_at": "2026-10-09T00:40:46Z"
     },
     {
@@ -686,6 +686,21 @@
       "created_at": "2026-10-04T00:05:25Z",
       "updated_at": "2026-10-09T02:37:19Z",
       "pushed_at": "2026-10-05T20:31:48Z"
+    },
+    {
+      "id": 1406514405,
+      "name": "liquid-glass",
+      "full_name": "Glass-HQ/liquid-glass",
+      "description": "Liquid Glass materials for web and Electron, built with vgpu.",
+      "html_url": "https://github.com/Glass-HQ/liquid-glass",
+      "homepage": "https://liquid-glass.glassapp.dev",
+      "stars": 216,
+      "forks": 6,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-06T00:23:48Z",
+      "updated_at": "2026-10-09T03:24:54Z",
+      "pushed_at": "2026-10-08T10:42:07Z"
     },
     {
       "id": 1390509008,
@@ -746,21 +761,6 @@
       "created_at": "2026-09-27T13:33:00Z",
       "updated_at": "2026-10-03T22:11:51Z",
       "pushed_at": "2026-09-27T18:48:24Z"
-    },
-    {
-      "id": 1406514405,
-      "name": "liquid-glass",
-      "full_name": "Glass-HQ/liquid-glass",
-      "description": "Liquid Glass materials for web and Electron, built with vgpu.",
-      "html_url": "https://github.com/Glass-HQ/liquid-glass",
-      "homepage": "https://liquid-glass.glassapp.dev",
-      "stars": 213,
-      "forks": 6,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-06T00:23:48Z",
-      "updated_at": "2026-10-09T02:17:52Z",
-      "pushed_at": "2026-10-08T10:42:07Z"
     },
     {
       "id": 1402304588,
@@ -1068,7 +1068,7 @@
       "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
       "html_url": "https://github.com/snuri00/psp-web-recomp",
       "homepage": null,
-      "stars": 186,
+      "stars": 188,
       "forks": 5,
       "language": "C++",
       "topics": [
@@ -1081,7 +1081,7 @@
         "webgl2"
       ],
       "created_at": "2026-10-07T11:21:20Z",
-      "updated_at": "2026-10-09T02:34:57Z",
+      "updated_at": "2026-10-09T03:34:04Z",
       "pushed_at": "2026-10-07T12:48:17Z"
     },
     {
@@ -1260,7 +1260,7 @@
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "homepage": null,
-      "stars": 150,
+      "stars": 151,
       "forks": 16,
       "language": "Python",
       "topics": [
@@ -1272,8 +1272,23 @@
         "unit-economics"
       ],
       "created_at": "2026-10-07T01:07:13Z",
-      "updated_at": "2026-10-09T02:23:54Z",
+      "updated_at": "2026-10-09T03:06:41Z",
       "pushed_at": "2026-10-07T01:07:17Z"
+    },
+    {
+      "id": 1407997858,
+      "name": "project-maya",
+      "full_name": "mw00/project-maya",
+      "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
+      "html_url": "https://github.com/mw00/project-maya",
+      "homepage": null,
+      "stars": 143,
+      "forks": 20,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-06T22:55:13Z",
+      "updated_at": "2026-10-09T03:10:15Z",
+      "pushed_at": "2026-10-08T21:39:14Z"
     },
     {
       "id": 1378060456,
@@ -1304,21 +1319,6 @@
       "created_at": "2026-09-28T05:00:45Z",
       "updated_at": "2026-10-04T15:01:02Z",
       "pushed_at": "2026-09-28T05:04:35Z"
-    },
-    {
-      "id": 1407997858,
-      "name": "project-maya",
-      "full_name": "mw00/project-maya",
-      "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
-      "html_url": "https://github.com/mw00/project-maya",
-      "homepage": null,
-      "stars": 139,
-      "forks": 20,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-06T22:55:13Z",
-      "updated_at": "2026-10-09T02:39:06Z",
-      "pushed_at": "2026-10-08T21:39:14Z"
     },
     {
       "id": 1403448265,
@@ -1519,7 +1519,7 @@
       "description": "Claude skill that draws interactive isometric figures in a single HTML file",
       "html_url": "https://github.com/MrBongoC/ai-iso-skill",
       "homepage": "https://mrbongoc.github.io/ai-iso-skill/examples/desk-synth.html",
-      "stars": 123,
+      "stars": 124,
       "forks": 6,
       "language": null,
       "topics": [
@@ -1530,7 +1530,7 @@
         "svg"
       ],
       "created_at": "2026-10-04T02:38:15Z",
-      "updated_at": "2026-10-08T23:28:01Z",
+      "updated_at": "2026-10-09T02:52:45Z",
       "pushed_at": "2026-10-04T02:52:27Z"
     },
     {
@@ -1699,6 +1699,39 @@
       "created_at": "2026-09-21T05:28:58Z",
       "updated_at": "2026-09-24T04:26:49Z",
       "pushed_at": "2026-09-22T14:18:57Z"
+    },
+    {
+      "id": 1405115700,
+      "name": "streamfirefly",
+      "full_name": "rumoii/streamfirefly",
+      "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
+      "html_url": "https://github.com/rumoii/streamfirefly",
+      "homepage": null,
+      "stars": 110,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "dash",
+        "edge-extension",
+        "ffmpeg",
+        "firefox-addon",
+        "hls",
+        "m3u8",
+        "media-downloader",
+        "media-sniffer",
+        "native-messaging",
+        "rust",
+        "stream-recorder",
+        "video-downloader",
+        "vue",
+        "webextension",
+        "windows"
+      ],
+      "created_at": "2026-10-05T04:26:14Z",
+      "updated_at": "2026-10-09T03:38:31Z",
+      "pushed_at": "2026-10-08T11:10:45Z"
     },
     {
       "id": 1387885716,
@@ -2003,39 +2036,6 @@
       "created_at": "2026-10-04T17:40:27Z",
       "updated_at": "2026-10-09T00:07:25Z",
       "pushed_at": "2026-10-08T23:04:53Z"
-    },
-    {
-      "id": 1405115700,
-      "name": "streamfirefly",
-      "full_name": "rumoii/streamfirefly",
-      "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
-      "html_url": "https://github.com/rumoii/streamfirefly",
-      "homepage": null,
-      "stars": 105,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [
-        "browser-extension",
-        "chrome-extension",
-        "dash",
-        "edge-extension",
-        "ffmpeg",
-        "firefox-addon",
-        "hls",
-        "m3u8",
-        "media-downloader",
-        "media-sniffer",
-        "native-messaging",
-        "rust",
-        "stream-recorder",
-        "video-downloader",
-        "vue",
-        "webextension",
-        "windows"
-      ],
-      "created_at": "2026-10-05T04:26:14Z",
-      "updated_at": "2026-10-09T02:38:30Z",
-      "pushed_at": "2026-10-08T11:10:45Z"
     },
     {
       "id": 1387522551,
@@ -2437,6 +2437,31 @@
       "pushed_at": "2026-10-06T09:08:57Z"
     },
     {
+      "id": 1406397878,
+      "name": "Video2World",
+      "full_name": "AetherLabsAI/Video2World",
+      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
+      "html_url": "https://github.com/AetherLabsAI/Video2World",
+      "homepage": "https://aetherlabsai.github.io/Video2World/",
+      "stars": 90,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "coding-agent",
+        "embodied-ai",
+        "foundation-models",
+        "real-to-sim",
+        "robot-learning",
+        "robotics",
+        "simulation",
+        "world-models"
+      ],
+      "created_at": "2026-10-05T21:27:56Z",
+      "updated_at": "2026-10-09T03:21:05Z",
+      "pushed_at": "2026-10-06T15:47:31Z"
+    },
+    {
       "id": 1399029726,
       "name": "awesome-homelab",
       "full_name": "Minh141120/awesome-homelab",
@@ -2533,43 +2558,18 @@
       "pushed_at": "2026-10-03T19:59:55Z"
     },
     {
-      "id": 1406397878,
-      "name": "Video2World",
-      "full_name": "AetherLabsAI/Video2World",
-      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
-      "html_url": "https://github.com/AetherLabsAI/Video2World",
-      "homepage": "https://aetherlabsai.github.io/Video2World/",
-      "stars": 87,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "benchmark",
-        "coding-agent",
-        "embodied-ai",
-        "foundation-models",
-        "real-to-sim",
-        "robot-learning",
-        "robotics",
-        "simulation",
-        "world-models"
-      ],
-      "created_at": "2026-10-05T21:27:56Z",
-      "updated_at": "2026-10-09T02:25:28Z",
-      "pushed_at": "2026-10-06T15:47:31Z"
-    },
-    {
       "id": 1408011967,
       "name": "Genjustsu-Open-Source-Workflow",
       "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
       "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
       "html_url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
       "homepage": "https://tein.ai",
-      "stars": 86,
-      "forks": 20,
+      "stars": 87,
+      "forks": 21,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-06T23:18:18Z",
-      "updated_at": "2026-10-09T02:27:19Z",
+      "updated_at": "2026-10-09T03:35:38Z",
       "pushed_at": "2026-10-08T20:54:22Z"
     },
     {
@@ -2639,8 +2639,8 @@
         "wallet-tracker"
       ],
       "created_at": "2026-10-06T13:26:32Z",
-      "updated_at": "2026-10-09T02:15:24Z",
-      "pushed_at": "2026-10-09T02:15:20Z"
+      "updated_at": "2026-10-09T03:34:41Z",
+      "pushed_at": "2026-10-09T03:34:38Z"
     },
     {
       "id": 1386777688,
@@ -3204,6 +3204,33 @@
       "pushed_at": "2026-10-01T17:23:57Z"
     },
     {
+      "id": 1403984902,
+      "name": "rustdsh",
+      "full_name": "jimoto-no-llm/rustdsh",
+      "description": "Rust launcher for DSH with native fast commands, guarded agent tools and a local project dashboard",
+      "html_url": "https://github.com/jimoto-no-llm/rustdsh",
+      "homepage": "https://github.com/jimoto-no-llm/rustdsh#readme",
+      "stars": 62,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "cli",
+        "command-line",
+        "cross-platform",
+        "dashboard",
+        "deepseek",
+        "developer-tools",
+        "dsh",
+        "performance",
+        "rust",
+        "token-optimization"
+      ],
+      "created_at": "2026-10-04T06:05:05Z",
+      "updated_at": "2026-10-09T03:00:32Z",
+      "pushed_at": "2026-10-09T03:06:29Z"
+    },
+    {
       "id": 1386511925,
       "name": "Comment2Shell",
       "full_name": "DeathShotXD/Comment2Shell",
@@ -3289,31 +3316,19 @@
       "pushed_at": "2026-10-08T17:32:30Z"
     },
     {
-      "id": 1403984902,
-      "name": "rustdsh",
-      "full_name": "jimoto-no-llm/rustdsh",
-      "description": "Rust launcher for DSH with native fast commands, guarded agent tools and a local project dashboard",
-      "html_url": "https://github.com/jimoto-no-llm/rustdsh",
-      "homepage": "https://github.com/jimoto-no-llm/rustdsh#readme",
+      "id": 1410661601,
+      "name": "CF-Workers-TGProxy",
+      "full_name": "ToiCF/CF-Workers-TGProxy",
+      "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
+      "html_url": "https://github.com/ToiCF/CF-Workers-TGProxy",
+      "homepage": null,
       "stars": 61,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "cli",
-        "command-line",
-        "cross-platform",
-        "dashboard",
-        "deepseek",
-        "developer-tools",
-        "dsh",
-        "performance",
-        "rust",
-        "token-optimization"
-      ],
-      "created_at": "2026-10-04T06:05:05Z",
-      "updated_at": "2026-10-09T01:00:50Z",
-      "pushed_at": "2026-10-09T02:26:05Z"
+      "forks": 27,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-08T16:38:51Z",
+      "updated_at": "2026-10-09T03:29:55Z",
+      "pushed_at": "2026-10-08T17:19:51Z"
     },
     {
       "id": 1399378829,
@@ -3442,21 +3457,6 @@
       "created_at": "2026-09-26T06:55:12Z",
       "updated_at": "2026-10-01T16:47:02Z",
       "pushed_at": "2026-09-26T07:49:48Z"
-    },
-    {
-      "id": 1410661601,
-      "name": "CF-Workers-TGProxy",
-      "full_name": "ToiCF/CF-Workers-TGProxy",
-      "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
-      "html_url": "https://github.com/ToiCF/CF-Workers-TGProxy",
-      "homepage": null,
-      "stars": 57,
-      "forks": 25,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-08T16:38:51Z",
-      "updated_at": "2026-10-09T02:35:17Z",
-      "pushed_at": "2026-10-08T17:19:51Z"
     },
     {
       "id": 1386319785,
@@ -3786,7 +3786,7 @@
       "id": 1404374196,
       "name": "dsh-sieve",
       "full_name": "Sev7eEn7/dsh-sieve",
-      "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化插件。",
+      "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
       "html_url": "https://github.com/Sev7eEn7/dsh-sieve",
       "homepage": "https://www.npmjs.com/package/dsh-sieve",
       "stars": 52,
@@ -3815,7 +3815,7 @@
         "typescript"
       ],
       "created_at": "2026-10-04T12:30:42Z",
-      "updated_at": "2026-10-09T01:48:04Z",
+      "updated_at": "2026-10-09T03:19:57Z",
       "pushed_at": "2026-10-08T09:56:33Z"
     },
     {
@@ -4712,6 +4712,21 @@
       "pushed_at": "2026-10-04T03:19:51Z"
     },
     {
+      "id": 1409087866,
+      "name": "freecenter",
+      "full_name": "fdaforno/freecenter",
+      "description": "A vCenter-style management console for the free VMware ESXi hypervisor: web UI, REST API, migration between hosts, backups, Terraform provider",
+      "html_url": "https://github.com/fdaforno/freecenter",
+      "homepage": null,
+      "stars": 34,
+      "forks": 12,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-07T16:35:58Z",
+      "updated_at": "2026-10-09T02:51:09Z",
+      "pushed_at": "2026-10-08T18:38:51Z"
+    },
+    {
       "id": 1377573287,
       "name": "jev-recall",
       "full_name": "samdotmak/jev-recall",
@@ -4749,21 +4764,6 @@
       "created_at": "2026-09-25T14:45:38Z",
       "updated_at": "2026-10-01T07:02:19Z",
       "pushed_at": "2026-09-30T07:18:51Z"
-    },
-    {
-      "id": 1409087866,
-      "name": "freecenter",
-      "full_name": "fdaforno/freecenter",
-      "description": "A vCenter-style management console for the free VMware ESXi hypervisor: web UI, REST API, migration between hosts, backups, Terraform provider",
-      "html_url": "https://github.com/fdaforno/freecenter",
-      "homepage": null,
-      "stars": 33,
-      "forks": 12,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-07T16:35:58Z",
-      "updated_at": "2026-10-09T01:52:32Z",
-      "pushed_at": "2026-10-08T18:38:51Z"
     },
     {
       "id": 1386746644,
@@ -4869,6 +4869,38 @@
       "created_at": "2026-10-01T18:03:59Z",
       "updated_at": "2026-10-07T00:19:50Z",
       "pushed_at": "2026-10-01T18:04:05Z"
+    },
+    {
+      "id": 1409683147,
+      "name": "zcode-claim-9router",
+      "full_name": "0xgetz/zcode-claim-9router",
+      "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
+      "html_url": "https://github.com/0xgetz/zcode-claim-9router",
+      "homepage": null,
+      "stars": 31,
+      "forks": 3,
+      "language": "Python",
+      "topics": [
+        "9router",
+        "ai",
+        "automation",
+        "browser-automation",
+        "cdp",
+        "coding-plan",
+        "glm",
+        "glm-5",
+        "llm",
+        "open-webui",
+        "python",
+        "reverse-engineering",
+        "token-farm",
+        "z-ai",
+        "zai",
+        "zcode"
+      ],
+      "created_at": "2026-10-08T03:43:27Z",
+      "updated_at": "2026-10-09T02:55:58Z",
+      "pushed_at": "2026-10-08T06:27:03Z"
     },
     {
       "id": 1387868633,
@@ -4993,36 +5025,31 @@
       "pushed_at": "2026-10-08T22:38:32Z"
     },
     {
-      "id": 1409683147,
-      "name": "zcode-claim-9router",
-      "full_name": "0xgetz/zcode-claim-9router",
-      "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
-      "html_url": "https://github.com/0xgetz/zcode-claim-9router",
-      "homepage": null,
+      "id": 1404567872,
+      "name": "direct-stream-ps5",
+      "full_name": "ChillQuant/direct-stream-ps5",
+      "description": "High-speed parallel stream engine & local web dashboard for streaming HTTP/HTTPS downloads directly to PlayStation 5 FTP storage. Pure Python standard library, zero pip packages, macOS & Windows.",
+      "html_url": "https://github.com/ChillQuant/direct-stream-ps5",
+      "homepage": "https://github.com/ChillQuant/direct-stream-ps5/releases/tag/v2.8.0",
       "stars": 30,
-      "forks": 3,
+      "forks": 4,
       "language": "Python",
       "topics": [
-        "9router",
-        "ai",
-        "automation",
-        "browser-automation",
-        "cdp",
-        "coding-plan",
-        "glm",
-        "glm-5",
-        "llm",
-        "open-webui",
+        "direct-stream",
+        "ftp",
+        "ftp-streamer",
+        "macos",
+        "parallel-download",
+        "playstation-5",
+        "ps5",
         "python",
-        "reverse-engineering",
-        "token-farm",
-        "z-ai",
-        "zai",
-        "zcode"
+        "web-dashboard",
+        "windows",
+        "zero-dependencies"
       ],
-      "created_at": "2026-10-08T03:43:27Z",
-      "updated_at": "2026-10-09T00:56:33Z",
-      "pushed_at": "2026-10-08T06:27:03Z"
+      "created_at": "2026-10-04T15:30:20Z",
+      "updated_at": "2026-10-09T03:37:30Z",
+      "pushed_at": "2026-10-08T23:40:08Z"
     },
     {
       "id": 1375795989,
@@ -5602,6 +5629,21 @@
       "pushed_at": "2026-10-06T11:03:28Z"
     },
     {
+      "id": 1409300261,
+      "name": "cardlane",
+      "full_name": "Cryptoxiaoxiang/cardlane",
+      "description": "Bilingual gift card marketplace with encrypted delivery, onchain escrow, 24-hour appeal replies and 48-hour settlement on Base Sepolia.",
+      "html_url": "https://github.com/Cryptoxiaoxiang/cardlane",
+      "homepage": null,
+      "stars": 20,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-07T19:47:13Z",
+      "updated_at": "2026-10-09T03:17:30Z",
+      "pushed_at": "2026-10-07T20:26:31Z"
+    },
+    {
       "id": 1402658180,
       "name": "dompetku",
       "full_name": "ilramdhan/dompetku",
@@ -5635,22 +5677,7 @@
       ],
       "created_at": "2026-10-03T04:31:00Z",
       "updated_at": "2026-10-09T02:33:21Z",
-      "pushed_at": "2026-10-09T02:40:03Z"
-    },
-    {
-      "id": 1409300261,
-      "name": "cardlane",
-      "full_name": "Cryptoxiaoxiang/cardlane",
-      "description": "Bilingual gift card marketplace with encrypted delivery, onchain escrow, 24-hour appeal replies and 48-hour settlement on Base Sepolia.",
-      "html_url": "https://github.com/Cryptoxiaoxiang/cardlane",
-      "homepage": null,
-      "stars": 19,
-      "forks": 1,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-07T19:47:13Z",
-      "updated_at": "2026-10-09T02:20:50Z",
-      "pushed_at": "2026-10-07T20:26:31Z"
+      "pushed_at": "2026-10-09T03:38:46Z"
     },
     {
       "id": 1387292246,
@@ -5739,6 +5766,21 @@
       "created_at": "2026-09-27T07:23:17Z",
       "updated_at": "2026-10-01T05:30:51Z",
       "pushed_at": "2026-09-27T09:10:11Z"
+    },
+    {
+      "id": 1409514013,
+      "name": "weasley-clock-card",
+      "full_name": "Nite01007/weasley-clock-card",
+      "description": "Home Assistant card in the style of Mrs. Weasley's clock: one hand per person, pointing at where they are.",
+      "html_url": "https://github.com/Nite01007/weasley-clock-card",
+      "homepage": null,
+      "stars": 17,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-08T00:16:27Z",
+      "updated_at": "2026-10-09T03:38:06Z",
+      "pushed_at": "2026-10-08T00:20:14Z"
     },
     {
       "id": 1379717308,
@@ -5853,21 +5895,6 @@
       "pushed_at": "2026-10-04T21:37:55Z"
     },
     {
-      "id": 1409514013,
-      "name": "weasley-clock-card",
-      "full_name": "Nite01007/weasley-clock-card",
-      "description": "Home Assistant card in the style of Mrs. Weasley's clock: one hand per person, pointing at where they are.",
-      "html_url": "https://github.com/Nite01007/weasley-clock-card",
-      "homepage": null,
-      "stars": 16,
-      "forks": 2,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-08T00:16:27Z",
-      "updated_at": "2026-10-09T00:42:28Z",
-      "pushed_at": "2026-10-08T00:20:14Z"
-    },
-    {
       "id": 1378545590,
       "name": "Yvette",
       "full_name": "MartinForsterNL/Yvette",
@@ -5960,6 +5987,21 @@
       "created_at": "2026-10-02T21:29:05Z",
       "updated_at": "2026-10-07T21:55:37Z",
       "pushed_at": "2026-10-05T12:48:22Z"
+    },
+    {
+      "id": 1410448867,
+      "name": "cirfig_gen",
+      "full_name": "KwantaeKim/cirfig_gen",
+      "description": "AI-driven analog circuit figure generator. Ask Claude Code or Codex for a circuit and get one SVG at final size.",
+      "html_url": "https://github.com/KwantaeKim/cirfig_gen",
+      "homepage": null,
+      "stars": 15,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-08T14:07:54Z",
+      "updated_at": "2026-10-09T03:36:00Z",
+      "pushed_at": "2026-10-08T21:28:38Z"
     },
     {
       "id": 1379723846,
@@ -6241,21 +6283,6 @@
       "pushed_at": "2026-10-06T10:07:09Z"
     },
     {
-      "id": 1410448867,
-      "name": "cirfig_gen",
-      "full_name": "KwantaeKim/cirfig_gen",
-      "description": "AI-driven analog circuit figure generator. Ask Claude Code or Codex for a circuit and get one SVG at final size.",
-      "html_url": "https://github.com/KwantaeKim/cirfig_gen",
-      "homepage": null,
-      "stars": 13,
-      "forks": 1,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-08T14:07:54Z",
-      "updated_at": "2026-10-09T02:02:11Z",
-      "pushed_at": "2026-10-08T21:28:38Z"
-    },
-    {
       "id": 1403945832,
       "name": "universal-framefx",
       "full_name": "ilikemacos/universal-framefx",
@@ -6343,8 +6370,8 @@
         "zz9000"
       ],
       "created_at": "2026-10-05T21:02:18Z",
-      "updated_at": "2026-10-08T23:19:08Z",
-      "pushed_at": "2026-10-08T23:19:03Z"
+      "updated_at": "2026-10-09T03:20:56Z",
+      "pushed_at": "2026-10-09T03:20:52Z"
     },
     {
       "id": 1389013962,
