@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026/10/9 11:39:55",
-  "total_repos": 307,
+  "fetched_at": "2026/10/9 16:24:21",
+  "total_repos": 308,
   "repos": [
+    {
+      "id": 1402525166,
+      "name": "Papermorph",
+      "full_name": "DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "html_url": "https://github.com/DozenTwelve/Papermorph",
+      "homepage": null,
+      "stars": 596,
+      "forks": 79,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-03T01:38:22Z",
+      "updated_at": "2026-10-09T08:15:59Z",
+      "pushed_at": "2026-10-06T12:33:37Z"
+    },
     {
       "id": 1403431984,
       "name": "live-panel-skill",
@@ -16,21 +31,6 @@
       "created_at": "2026-10-03T16:53:36Z",
       "updated_at": "2026-10-06T03:50:26Z",
       "pushed_at": "2026-10-03T16:53:42Z"
-    },
-    {
-      "id": 1402525166,
-      "name": "Papermorph",
-      "full_name": "DozenTwelve/Papermorph",
-      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "html_url": "https://github.com/DozenTwelve/Papermorph",
-      "homepage": null,
-      "stars": 587,
-      "forks": 79,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-03T01:38:22Z",
-      "updated_at": "2026-10-09T03:21:50Z",
-      "pushed_at": "2026-10-06T12:33:37Z"
     },
     {
       "id": 1408486424,
@@ -118,8 +118,8 @@
       "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
       "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
       "homepage": null,
-      "stars": 512,
-      "forks": 65,
+      "stars": 526,
+      "forks": 68,
       "language": "TypeScript",
       "topics": [
         "2d-animation",
@@ -131,7 +131,7 @@
         "webgl"
       ],
       "created_at": "2026-10-04T03:33:57Z",
-      "updated_at": "2026-10-09T03:25:23Z",
+      "updated_at": "2026-10-09T08:06:10Z",
       "pushed_at": "2026-10-09T03:14:49Z"
     },
     {
@@ -508,8 +508,8 @@
       "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
       "html_url": "https://github.com/TannerMidd/pi-pocket",
       "homepage": "https://tannermidd.github.io/pi-pocket/",
-      "stars": 284,
-      "forks": 18,
+      "stars": 294,
+      "forks": 19,
       "language": "TypeScript",
       "topics": [
         "ai-agent",
@@ -523,8 +523,34 @@
         "self-hosted"
       ],
       "created_at": "2026-10-04T02:29:57Z",
-      "updated_at": "2026-10-09T03:34:26Z",
+      "updated_at": "2026-10-09T07:58:10Z",
       "pushed_at": "2026-10-08T20:45:00Z"
+    },
+    {
+      "id": 1406229181,
+      "name": "short-video-maker",
+      "full_name": "mushigaite/short-video-maker",
+      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+      "html_url": "https://github.com/mushigaite/short-video-maker",
+      "homepage": null,
+      "stars": 281,
+      "forks": 75,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "ai-video-editing",
+        "ai-video-generation-api",
+        "money-printer",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker",
+        "short-video-sdk",
+        "shorts-generator"
+      ],
+      "created_at": "2026-10-05T18:35:21Z",
+      "updated_at": "2026-10-09T08:17:37Z",
+      "pushed_at": "2026-10-05T18:40:04Z"
     },
     {
       "id": 1375594818,
@@ -567,6 +593,21 @@
       "pushed_at": "2026-10-08T13:21:09Z"
     },
     {
+      "id": 1410661601,
+      "name": "CF-Workers-TGProxy",
+      "full_name": "ToiCF/CF-Workers-TGProxy",
+      "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
+      "html_url": "https://github.com/ToiCF/CF-Workers-TGProxy",
+      "homepage": null,
+      "stars": 276,
+      "forks": 105,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-08T16:38:51Z",
+      "updated_at": "2026-10-09T08:24:11Z",
+      "pushed_at": "2026-10-08T17:19:51Z"
+    },
+    {
       "id": 1390994799,
       "name": "CalcKernel",
       "full_name": "luxine/CalcKernel",
@@ -587,39 +628,13 @@
       "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
-      "id": 1406229181,
-      "name": "short-video-maker",
-      "full_name": "mushigaite/short-video-maker",
-      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-      "html_url": "https://github.com/mushigaite/short-video-maker",
-      "homepage": null,
-      "stars": 255,
-      "forks": 75,
-      "language": "Python",
-      "topics": [
-        "ai-video",
-        "ai-video-editing",
-        "ai-video-generation-api",
-        "money-printer",
-        "short-video",
-        "short-video-automation",
-        "short-video-generator",
-        "short-video-maker",
-        "short-video-sdk",
-        "shorts-generator"
-      ],
-      "created_at": "2026-10-05T18:35:21Z",
-      "updated_at": "2026-10-09T02:32:40Z",
-      "pushed_at": "2026-10-05T18:40:04Z"
-    },
-    {
       "id": 1406548400,
       "name": "convt",
       "full_name": "opencoredev/convt",
       "description": "Convert any file with a right-click.",
       "html_url": "https://github.com/opencoredev/convt",
       "homepage": "convt.app",
-      "stars": 255,
+      "stars": 259,
       "forks": 13,
       "language": "Rust",
       "topics": [
@@ -634,8 +649,49 @@
         "private"
       ],
       "created_at": "2026-10-06T01:17:53Z",
-      "updated_at": "2026-10-09T03:13:15Z",
+      "updated_at": "2026-10-09T07:37:39Z",
       "pushed_at": "2026-10-09T00:40:46Z"
+    },
+    {
+      "id": 1403731980,
+      "name": "animate",
+      "full_name": "cth9191/animate",
+      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "html_url": "https://github.com/cth9191/animate",
+      "homepage": null,
+      "stars": 237,
+      "forks": 36,
+      "language": "JavaScript",
+      "topics": [
+        "animation",
+        "canvas",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "explainer-video",
+        "generative-art",
+        "motion-graphics",
+        "procedural-animation",
+        "storyboard"
+      ],
+      "created_at": "2026-10-04T00:05:25Z",
+      "updated_at": "2026-10-09T07:46:12Z",
+      "pushed_at": "2026-10-05T20:31:48Z"
+    },
+    {
+      "id": 1406514405,
+      "name": "liquid-glass",
+      "full_name": "Glass-HQ/liquid-glass",
+      "description": "Liquid Glass materials for web and Electron, built with vgpu.",
+      "html_url": "https://github.com/Glass-HQ/liquid-glass",
+      "homepage": "https://liquid-glass.glassapp.dev",
+      "stars": 231,
+      "forks": 7,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-06T00:23:48Z",
+      "updated_at": "2026-10-09T07:56:01Z",
+      "pushed_at": "2026-10-08T10:42:07Z"
     },
     {
       "id": 1396738941,
@@ -660,47 +716,6 @@
       "created_at": "2026-09-30T00:07:56Z",
       "updated_at": "2026-10-06T02:27:42Z",
       "pushed_at": "2026-09-30T00:10:22Z"
-    },
-    {
-      "id": 1403731980,
-      "name": "animate",
-      "full_name": "cth9191/animate",
-      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
-      "html_url": "https://github.com/cth9191/animate",
-      "homepage": null,
-      "stars": 226,
-      "forks": 33,
-      "language": "JavaScript",
-      "topics": [
-        "animation",
-        "canvas",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "explainer-video",
-        "generative-art",
-        "motion-graphics",
-        "procedural-animation",
-        "storyboard"
-      ],
-      "created_at": "2026-10-04T00:05:25Z",
-      "updated_at": "2026-10-09T02:37:19Z",
-      "pushed_at": "2026-10-05T20:31:48Z"
-    },
-    {
-      "id": 1406514405,
-      "name": "liquid-glass",
-      "full_name": "Glass-HQ/liquid-glass",
-      "description": "Liquid Glass materials for web and Electron, built with vgpu.",
-      "html_url": "https://github.com/Glass-HQ/liquid-glass",
-      "homepage": "https://liquid-glass.glassapp.dev",
-      "stars": 216,
-      "forks": 6,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-06T00:23:48Z",
-      "updated_at": "2026-10-09T03:24:54Z",
-      "pushed_at": "2026-10-08T10:42:07Z"
     },
     {
       "id": 1390509008,
@@ -1017,6 +1032,29 @@
       "pushed_at": "2026-10-03T06:15:44Z"
     },
     {
+      "id": 1408673153,
+      "name": "psp-web-recomp",
+      "full_name": "snuri00/psp-web-recomp",
+      "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+      "html_url": "https://github.com/snuri00/psp-web-recomp",
+      "homepage": null,
+      "stars": 194,
+      "forks": 5,
+      "language": "C++",
+      "topics": [
+        "emscripten",
+        "god-of-war",
+        "psp",
+        "recompilation",
+        "static-recompilation",
+        "webassembly",
+        "webgl2"
+      ],
+      "created_at": "2026-10-07T11:21:20Z",
+      "updated_at": "2026-10-09T07:47:56Z",
+      "pushed_at": "2026-10-07T12:48:17Z"
+    },
+    {
       "id": 1388097438,
       "name": "mysticgsi",
       "full_name": "MysticGSI/mysticgsi",
@@ -1060,29 +1098,6 @@
       "created_at": "2026-09-25T12:31:39Z",
       "updated_at": "2026-09-30T17:15:14Z",
       "pushed_at": "2026-09-25T16:10:39Z"
-    },
-    {
-      "id": 1408673153,
-      "name": "psp-web-recomp",
-      "full_name": "snuri00/psp-web-recomp",
-      "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
-      "html_url": "https://github.com/snuri00/psp-web-recomp",
-      "homepage": null,
-      "stars": 188,
-      "forks": 5,
-      "language": "C++",
-      "topics": [
-        "emscripten",
-        "god-of-war",
-        "psp",
-        "recompilation",
-        "static-recompilation",
-        "webassembly",
-        "webgl2"
-      ],
-      "created_at": "2026-10-07T11:21:20Z",
-      "updated_at": "2026-10-09T03:34:04Z",
-      "pushed_at": "2026-10-07T12:48:17Z"
     },
     {
       "id": 1387387974,
@@ -1203,6 +1218,43 @@
       "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
+      "id": 1407997858,
+      "name": "project-maya",
+      "full_name": "mw00/project-maya",
+      "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
+      "html_url": "https://github.com/mw00/project-maya",
+      "homepage": null,
+      "stars": 159,
+      "forks": 25,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-06T22:55:13Z",
+      "updated_at": "2026-10-09T08:06:10Z",
+      "pushed_at": "2026-10-08T21:39:14Z"
+    },
+    {
+      "id": 1408082051,
+      "name": "founder-skill",
+      "full_name": "Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "html_url": "https://github.com/Jakeschincariol/founder-skill",
+      "homepage": null,
+      "stars": 158,
+      "forks": 16,
+      "language": "Python",
+      "topics": [
+        "business-plan",
+        "claude-code",
+        "claude-skills",
+        "startup",
+        "subagents",
+        "unit-economics"
+      ],
+      "created_at": "2026-10-07T01:07:13Z",
+      "updated_at": "2026-10-09T07:55:52Z",
+      "pushed_at": "2026-10-07T01:07:17Z"
+    },
+    {
       "id": 1400877599,
       "name": "ArkWeb",
       "full_name": "luki-1/ArkWeb",
@@ -1252,43 +1304,6 @@
       "created_at": "2026-09-18T03:36:12Z",
       "updated_at": "2026-09-23T10:48:14Z",
       "pushed_at": "2026-09-23T10:48:10Z"
-    },
-    {
-      "id": 1408082051,
-      "name": "founder-skill",
-      "full_name": "Jakeschincariol/founder-skill",
-      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "html_url": "https://github.com/Jakeschincariol/founder-skill",
-      "homepage": null,
-      "stars": 151,
-      "forks": 16,
-      "language": "Python",
-      "topics": [
-        "business-plan",
-        "claude-code",
-        "claude-skills",
-        "startup",
-        "subagents",
-        "unit-economics"
-      ],
-      "created_at": "2026-10-07T01:07:13Z",
-      "updated_at": "2026-10-09T03:06:41Z",
-      "pushed_at": "2026-10-07T01:07:17Z"
-    },
-    {
-      "id": 1407997858,
-      "name": "project-maya",
-      "full_name": "mw00/project-maya",
-      "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
-      "html_url": "https://github.com/mw00/project-maya",
-      "homepage": null,
-      "stars": 143,
-      "forks": 20,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-06T22:55:13Z",
-      "updated_at": "2026-10-09T03:10:15Z",
-      "pushed_at": "2026-10-08T21:39:14Z"
     },
     {
       "id": 1378060456,
@@ -1342,6 +1357,39 @@
       "created_at": "2026-10-03T17:10:43Z",
       "updated_at": "2026-10-05T02:37:53Z",
       "pushed_at": "2026-10-03T17:16:17Z"
+    },
+    {
+      "id": 1405115700,
+      "name": "streamfirefly",
+      "full_name": "rumoii/streamfirefly",
+      "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
+      "html_url": "https://github.com/rumoii/streamfirefly",
+      "homepage": null,
+      "stars": 134,
+      "forks": 6,
+      "language": "JavaScript",
+      "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "dash",
+        "edge-extension",
+        "ffmpeg",
+        "firefox-addon",
+        "hls",
+        "m3u8",
+        "media-downloader",
+        "media-sniffer",
+        "native-messaging",
+        "rust",
+        "stream-recorder",
+        "video-downloader",
+        "vue",
+        "webextension",
+        "windows"
+      ],
+      "created_at": "2026-10-05T04:26:14Z",
+      "updated_at": "2026-10-09T08:21:45Z",
+      "pushed_at": "2026-10-09T08:08:45Z"
     },
     {
       "id": 1390688516,
@@ -1519,7 +1567,7 @@
       "description": "Claude skill that draws interactive isometric figures in a single HTML file",
       "html_url": "https://github.com/MrBongoC/ai-iso-skill",
       "homepage": "https://mrbongoc.github.io/ai-iso-skill/examples/desk-synth.html",
-      "stars": 124,
+      "stars": 125,
       "forks": 6,
       "language": null,
       "topics": [
@@ -1530,7 +1578,7 @@
         "svg"
       ],
       "created_at": "2026-10-04T02:38:15Z",
-      "updated_at": "2026-10-09T02:52:45Z",
+      "updated_at": "2026-10-09T07:49:06Z",
       "pushed_at": "2026-10-04T02:52:27Z"
     },
     {
@@ -1616,6 +1664,32 @@
       "pushed_at": "2026-10-03T17:03:37Z"
     },
     {
+      "id": 1403848767,
+      "name": "Porpoise-Dolphin-Emulator-for-PS5",
+      "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
+      "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+      "homepage": "https://www.ripalda.dev",
+      "stars": 112,
+      "forks": 16,
+      "language": "C++",
+      "topics": [
+        "dolphin",
+        "dolphin-emulator",
+        "emulator",
+        "gamecube",
+        "homebrew",
+        "libretro",
+        "ps5",
+        "ps5-homebrew",
+        "vulkan",
+        "wii"
+      ],
+      "created_at": "2026-10-04T03:36:16Z",
+      "updated_at": "2026-10-09T04:11:51Z",
+      "pushed_at": "2026-10-08T23:43:30Z"
+    },
+    {
       "id": 1377674687,
       "name": "jev-webmcp-extension",
       "full_name": "sdras/jev-webmcp-extension",
@@ -1660,32 +1734,6 @@
       "pushed_at": "2026-09-26T15:32:59Z"
     },
     {
-      "id": 1403848767,
-      "name": "Porpoise-Dolphin-Emulator-for-PS5",
-      "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
-      "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-      "homepage": "https://www.ripalda.dev",
-      "stars": 111,
-      "forks": 16,
-      "language": "C++",
-      "topics": [
-        "dolphin",
-        "dolphin-emulator",
-        "emulator",
-        "gamecube",
-        "homebrew",
-        "libretro",
-        "ps5",
-        "ps5-homebrew",
-        "vulkan",
-        "wii"
-      ],
-      "created_at": "2026-10-04T03:36:16Z",
-      "updated_at": "2026-10-08T23:43:04Z",
-      "pushed_at": "2026-10-08T23:43:30Z"
-    },
-    {
       "id": 1379139682,
       "name": "polytech-tree",
       "full_name": "secwind7/polytech-tree",
@@ -1699,39 +1747,6 @@
       "created_at": "2026-09-21T05:28:58Z",
       "updated_at": "2026-09-24T04:26:49Z",
       "pushed_at": "2026-09-22T14:18:57Z"
-    },
-    {
-      "id": 1405115700,
-      "name": "streamfirefly",
-      "full_name": "rumoii/streamfirefly",
-      "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
-      "html_url": "https://github.com/rumoii/streamfirefly",
-      "homepage": null,
-      "stars": 110,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [
-        "browser-extension",
-        "chrome-extension",
-        "dash",
-        "edge-extension",
-        "ffmpeg",
-        "firefox-addon",
-        "hls",
-        "m3u8",
-        "media-downloader",
-        "media-sniffer",
-        "native-messaging",
-        "rust",
-        "stream-recorder",
-        "video-downloader",
-        "vue",
-        "webextension",
-        "windows"
-      ],
-      "created_at": "2026-10-05T04:26:14Z",
-      "updated_at": "2026-10-09T03:38:31Z",
-      "pushed_at": "2026-10-08T11:10:45Z"
     },
     {
       "id": 1387885716,
@@ -1930,6 +1945,37 @@
       "pushed_at": "2026-10-05T16:54:41Z"
     },
     {
+      "id": 1404682975,
+      "name": "VB6",
+      "full_name": "wieslawsoltes/VB6",
+      "description": "VB6 Studio Web — a browser-native classic Visual Basic IDE, form designer, source runtime and controls library in HTML, CSS and JavaScript, with a debugger, WebGPU drawing and single-file HTML app export.",
+      "html_url": "https://github.com/wieslawsoltes/VB6",
+      "homepage": "https://wieslawsoltes.github.io/VB6/",
+      "stars": 107,
+      "forks": 17,
+      "language": "JavaScript",
+      "topics": [
+        "browser-ide",
+        "canvas2d",
+        "debugger",
+        "form-designer",
+        "github-pages",
+        "html",
+        "ide",
+        "interpreter",
+        "javascript",
+        "retro",
+        "runtime",
+        "vb6",
+        "visual-basic",
+        "visual-basic-6",
+        "webgpu"
+      ],
+      "created_at": "2026-10-04T17:40:27Z",
+      "updated_at": "2026-10-09T07:13:42Z",
+      "pushed_at": "2026-10-09T08:02:16Z"
+    },
+    {
       "id": 1377007152,
       "name": "ritridata",
       "full_name": "reco-tools/ritridata",
@@ -2005,37 +2051,6 @@
       "created_at": "2026-09-29T16:33:24Z",
       "updated_at": "2026-10-04T07:59:31Z",
       "pushed_at": "2026-09-30T23:28:14Z"
-    },
-    {
-      "id": 1404682975,
-      "name": "VB6",
-      "full_name": "wieslawsoltes/VB6",
-      "description": "VB6 Studio Web — a browser-native classic Visual Basic IDE, form designer, source runtime and controls library in HTML, CSS and JavaScript, with a debugger, WebGPU drawing and single-file HTML app export.",
-      "html_url": "https://github.com/wieslawsoltes/VB6",
-      "homepage": "https://wieslawsoltes.github.io/VB6/",
-      "stars": 105,
-      "forks": 17,
-      "language": "JavaScript",
-      "topics": [
-        "browser-ide",
-        "canvas2d",
-        "debugger",
-        "form-designer",
-        "github-pages",
-        "html",
-        "ide",
-        "interpreter",
-        "javascript",
-        "retro",
-        "runtime",
-        "vb6",
-        "visual-basic",
-        "visual-basic-6",
-        "webgpu"
-      ],
-      "created_at": "2026-10-04T17:40:27Z",
-      "updated_at": "2026-10-09T00:07:25Z",
-      "pushed_at": "2026-10-08T23:04:53Z"
     },
     {
       "id": 1387522551,
@@ -2170,6 +2185,21 @@
       "created_at": "2026-10-02T00:54:32Z",
       "updated_at": "2026-10-08T15:25:26Z",
       "pushed_at": "2026-10-05T01:56:08Z"
+    },
+    {
+      "id": 1408011967,
+      "name": "Genjustsu-Open-Source-Workflow",
+      "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "html_url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "homepage": "https://tein.ai",
+      "stars": 102,
+      "forks": 27,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-06T23:18:18Z",
+      "updated_at": "2026-10-09T08:15:25Z",
+      "pushed_at": "2026-10-08T20:54:22Z"
     },
     {
       "id": 1385781283,
@@ -2366,6 +2396,31 @@
       "pushed_at": "2026-10-06T14:35:26Z"
     },
     {
+      "id": 1406397878,
+      "name": "Video2World",
+      "full_name": "AetherLabsAI/Video2World",
+      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
+      "html_url": "https://github.com/AetherLabsAI/Video2World",
+      "homepage": "https://aetherlabsai.github.io/Video2World/",
+      "stars": 95,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "coding-agent",
+        "embodied-ai",
+        "foundation-models",
+        "real-to-sim",
+        "robot-learning",
+        "robotics",
+        "simulation",
+        "world-models"
+      ],
+      "created_at": "2026-10-05T21:27:56Z",
+      "updated_at": "2026-10-09T08:14:02Z",
+      "pushed_at": "2026-10-06T15:47:31Z"
+    },
+    {
       "id": 1376436152,
       "name": "jev-chat",
       "full_name": "w3cj/jev-chat",
@@ -2437,29 +2492,19 @@
       "pushed_at": "2026-10-06T09:08:57Z"
     },
     {
-      "id": 1406397878,
-      "name": "Video2World",
-      "full_name": "AetherLabsAI/Video2World",
-      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
-      "html_url": "https://github.com/AetherLabsAI/Video2World",
-      "homepage": "https://aetherlabsai.github.io/Video2World/",
+      "id": 1404113489,
+      "name": "fm1-x0x",
+      "full_name": "charlesvestal/fm1-x0x",
+      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
+      "html_url": "https://github.com/charlesvestal/fm1-x0x",
+      "homepage": null,
       "stars": 90,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "benchmark",
-        "coding-agent",
-        "embodied-ai",
-        "foundation-models",
-        "real-to-sim",
-        "robot-learning",
-        "robotics",
-        "simulation",
-        "world-models"
-      ],
-      "created_at": "2026-10-05T21:27:56Z",
-      "updated_at": "2026-10-09T03:21:05Z",
-      "pushed_at": "2026-10-06T15:47:31Z"
+      "forks": 7,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-04T08:03:49Z",
+      "updated_at": "2026-10-09T06:12:44Z",
+      "pushed_at": "2026-10-08T14:36:32Z"
     },
     {
       "id": 1399029726,
@@ -2485,21 +2530,6 @@
       "created_at": "2026-10-01T03:40:25Z",
       "updated_at": "2026-10-02T14:26:50Z",
       "pushed_at": "2026-10-01T14:20:12Z"
-    },
-    {
-      "id": 1404113489,
-      "name": "fm1-x0x",
-      "full_name": "charlesvestal/fm1-x0x",
-      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
-      "html_url": "https://github.com/charlesvestal/fm1-x0x",
-      "homepage": null,
-      "stars": 89,
-      "forks": 7,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-04T08:03:49Z",
-      "updated_at": "2026-10-08T23:46:51Z",
-      "pushed_at": "2026-10-08T14:36:32Z"
     },
     {
       "id": 1375760472,
@@ -2558,28 +2588,13 @@
       "pushed_at": "2026-10-03T19:59:55Z"
     },
     {
-      "id": 1408011967,
-      "name": "Genjustsu-Open-Source-Workflow",
-      "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
-      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "html_url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-      "homepage": "https://tein.ai",
-      "stars": 87,
-      "forks": 21,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-06T23:18:18Z",
-      "updated_at": "2026-10-09T03:35:38Z",
-      "pushed_at": "2026-10-08T20:54:22Z"
-    },
-    {
       "id": 1405884090,
       "name": "iwrzwr-visual-archive",
       "full_name": "kaganin/iwrzwr-visual-archive",
       "description": "160+ experimental visualization studies across 25+ categories, built with javascript. explore waveform animations, spectrum-inspired displays, matrix patterns, particle fields, rhythm, memory, and mechanical motion. study the drawing code and adapt the live examples for your own creative-coding projects.",
       "html_url": "https://github.com/kaganin/iwrzwr-visual-archive",
       "homepage": "https://www.kagan.in/iwrzwr/visual-archive/",
-      "stars": 84,
+      "stars": 85,
       "forks": 7,
       "language": "HTML",
       "topics": [
@@ -2603,7 +2618,7 @@
         "waveform"
       ],
       "created_at": "2026-10-05T14:16:19Z",
-      "updated_at": "2026-10-08T23:41:00Z",
+      "updated_at": "2026-10-09T07:54:17Z",
       "pushed_at": "2026-10-08T14:36:32Z"
     },
     {
@@ -2639,8 +2654,59 @@
         "wallet-tracker"
       ],
       "created_at": "2026-10-06T13:26:32Z",
-      "updated_at": "2026-10-09T03:34:41Z",
-      "pushed_at": "2026-10-09T03:34:38Z"
+      "updated_at": "2026-10-09T08:04:26Z",
+      "pushed_at": "2026-10-09T08:04:21Z"
+    },
+    {
+      "id": 1406041130,
+      "name": "softlab",
+      "full_name": "deity6/softlab",
+      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
+      "html_url": "https://github.com/deity6/softlab",
+      "homepage": "https://doit.loc.cc/",
+      "stars": 81,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "canvas",
+        "interaction-design",
+        "react",
+        "vite",
+        "webgl"
+      ],
+      "created_at": "2026-10-05T16:07:09Z",
+      "updated_at": "2026-10-09T07:01:22Z",
+      "pushed_at": "2026-10-05T16:52:50Z"
+    },
+    {
+      "id": 1403809641,
+      "name": "vibestart",
+      "full_name": "VinkyDev/vibestart",
+      "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
+      "html_url": "https://github.com/VinkyDev/vibestart",
+      "homepage": "https://vibestart.net",
+      "stars": 81,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-coding",
+        "cli",
+        "fullstack",
+        "lint",
+        "react",
+        "shadcn-ui",
+        "skills",
+        "tailwindcss",
+        "tanstack",
+        "typescript",
+        "vibe-coding",
+        "vite",
+        "vite-plus"
+      ],
+      "created_at": "2026-10-04T02:36:55Z",
+      "updated_at": "2026-10-09T07:38:58Z",
+      "pushed_at": "2026-10-08T11:40:20Z"
     },
     {
       "id": 1386777688,
@@ -2679,27 +2745,6 @@
       "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
-      "id": 1406041130,
-      "name": "softlab",
-      "full_name": "deity6/softlab",
-      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
-      "html_url": "https://github.com/deity6/softlab",
-      "homepage": "https://doit.loc.cc/",
-      "stars": 80,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "canvas",
-        "interaction-design",
-        "react",
-        "vite",
-        "webgl"
-      ],
-      "created_at": "2026-10-05T16:07:09Z",
-      "updated_at": "2026-10-08T13:48:44Z",
-      "pushed_at": "2026-10-05T16:52:50Z"
-    },
-    {
       "id": 1409175398,
       "name": "mcpdelta",
       "full_name": "mcpdelta/mcpdelta",
@@ -2730,36 +2775,6 @@
       "created_at": "2026-10-07T17:53:23Z",
       "updated_at": "2026-10-08T17:51:31Z",
       "pushed_at": "2026-10-08T08:17:32Z"
-    },
-    {
-      "id": 1403809641,
-      "name": "vibestart",
-      "full_name": "VinkyDev/vibestart",
-      "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
-      "html_url": "https://github.com/VinkyDev/vibestart",
-      "homepage": "https://vibestart.net",
-      "stars": 78,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-coding",
-        "cli",
-        "fullstack",
-        "lint",
-        "react",
-        "shadcn-ui",
-        "skills",
-        "tailwindcss",
-        "tanstack",
-        "typescript",
-        "vibe-coding",
-        "vite",
-        "vite-plus"
-      ],
-      "created_at": "2026-10-04T02:36:55Z",
-      "updated_at": "2026-10-09T02:06:34Z",
-      "pushed_at": "2026-10-08T11:40:20Z"
     },
     {
       "id": 1377321806,
@@ -2926,6 +2941,21 @@
       "pushed_at": "2026-09-30T14:20:33Z"
     },
     {
+      "id": 1407000491,
+      "name": "claude-my-privacy",
+      "full_name": "jinrunsen/claude-my-privacy",
+      "description": "MyPrivacy: local name and company pseudonymization for Claude Code, with restoration for tools and assistant reply display.",
+      "html_url": "https://github.com/jinrunsen/claude-my-privacy",
+      "homepage": null,
+      "stars": 72,
+      "forks": 10,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-06T09:00:47Z",
+      "updated_at": "2026-10-09T06:20:50Z",
+      "pushed_at": "2026-10-06T09:01:23Z"
+    },
+    {
       "id": 1375750028,
       "name": "jgrep",
       "full_name": "keltokhy/jgrep",
@@ -2961,21 +2991,6 @@
       "created_at": "2026-09-30T18:37:59Z",
       "updated_at": "2026-10-06T09:12:23Z",
       "pushed_at": "2026-10-04T16:51:12Z"
-    },
-    {
-      "id": 1407000491,
-      "name": "claude-my-privacy",
-      "full_name": "jinrunsen/claude-my-privacy",
-      "description": "MyPrivacy: local name and company pseudonymization for Claude Code, with restoration for tools and assistant reply display.",
-      "html_url": "https://github.com/jinrunsen/claude-my-privacy",
-      "homepage": null,
-      "stars": 71,
-      "forks": 10,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-06T09:00:47Z",
-      "updated_at": "2026-10-08T12:58:52Z",
-      "pushed_at": "2026-10-06T09:01:23Z"
     },
     {
       "id": 1392901645,
@@ -3128,6 +3143,69 @@
       "pushed_at": "2026-10-05T02:56:36Z"
     },
     {
+      "id": 1402794401,
+      "name": "Ryty",
+      "full_name": "aarvsn/Ryty",
+      "description": "Tool for porting PlayStation 4 & 5 executables to Windows, MacOS and Linux",
+      "html_url": "https://github.com/aarvsn/Ryty",
+      "homepage": null,
+      "stars": 64,
+      "forks": 1,
+      "language": "C++",
+      "topics": [
+        "elf",
+        "ps4",
+        "ps5",
+        "ps5-tools",
+        "spir-v"
+      ],
+      "created_at": "2026-10-03T07:04:39Z",
+      "updated_at": "2026-10-09T05:36:40Z",
+      "pushed_at": "2026-10-07T15:52:43Z"
+    },
+    {
+      "id": 1404470900,
+      "name": "FlagshipRouter",
+      "full_name": "theRizwan/FlagshipRouter",
+      "description": "Free AI models for every coding tool — a local OpenAI-compatible gateway for Claude Code, Codex, Cursor, Cline and OpenCode. Based on 9router (MIT).",
+      "html_url": "https://github.com/theRizwan/FlagshipRouter",
+      "homepage": null,
+      "stars": 64,
+      "forks": 34,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-04T13:54:43Z",
+      "updated_at": "2026-10-09T07:38:46Z",
+      "pushed_at": "2026-10-04T14:15:47Z"
+    },
+    {
+      "id": 1403984902,
+      "name": "rustdsh",
+      "full_name": "jimoto-no-llm/rustdsh",
+      "description": "Rust launcher for DSH with native fast commands, guarded agent tools and a local project dashboard",
+      "html_url": "https://github.com/jimoto-no-llm/rustdsh",
+      "homepage": "https://github.com/jimoto-no-llm/rustdsh#readme",
+      "stars": 64,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "cli",
+        "command-line",
+        "cross-platform",
+        "dashboard",
+        "deepseek",
+        "developer-tools",
+        "dsh",
+        "performance",
+        "rust",
+        "token-optimization"
+      ],
+      "created_at": "2026-10-04T06:05:05Z",
+      "updated_at": "2026-10-09T07:00:32Z",
+      "pushed_at": "2026-10-09T07:13:09Z"
+    },
+    {
       "id": 1387598614,
       "name": "fluidplan",
       "full_name": "morganhub/fluidplan",
@@ -3141,42 +3219,6 @@
       "created_at": "2026-09-25T13:53:14Z",
       "updated_at": "2026-09-28T23:09:22Z",
       "pushed_at": "2026-09-26T13:37:48Z"
-    },
-    {
-      "id": 1402794401,
-      "name": "Ryty",
-      "full_name": "aarvsn/Ryty",
-      "description": "Tool for porting PlayStation 4 & 5 executables to Windows, MacOS and Linux",
-      "html_url": "https://github.com/aarvsn/Ryty",
-      "homepage": null,
-      "stars": 63,
-      "forks": 1,
-      "language": "C++",
-      "topics": [
-        "elf",
-        "ps4",
-        "ps5",
-        "ps5-tools",
-        "spir-v"
-      ],
-      "created_at": "2026-10-03T07:04:39Z",
-      "updated_at": "2026-10-08T12:28:47Z",
-      "pushed_at": "2026-10-07T15:52:43Z"
-    },
-    {
-      "id": 1404470900,
-      "name": "FlagshipRouter",
-      "full_name": "theRizwan/FlagshipRouter",
-      "description": "Free AI models for every coding tool — a local OpenAI-compatible gateway for Claude Code, Codex, Cursor, Cline and OpenCode. Based on 9router (MIT).",
-      "html_url": "https://github.com/theRizwan/FlagshipRouter",
-      "homepage": null,
-      "stars": 63,
-      "forks": 33,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-04T13:54:43Z",
-      "updated_at": "2026-10-09T00:12:22Z",
-      "pushed_at": "2026-10-04T14:15:47Z"
     },
     {
       "id": 1400269105,
@@ -3202,33 +3244,6 @@
       "created_at": "2026-10-01T15:40:04Z",
       "updated_at": "2026-10-01T17:24:01Z",
       "pushed_at": "2026-10-01T17:23:57Z"
-    },
-    {
-      "id": 1403984902,
-      "name": "rustdsh",
-      "full_name": "jimoto-no-llm/rustdsh",
-      "description": "Rust launcher for DSH with native fast commands, guarded agent tools and a local project dashboard",
-      "html_url": "https://github.com/jimoto-no-llm/rustdsh",
-      "homepage": "https://github.com/jimoto-no-llm/rustdsh#readme",
-      "stars": 62,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "cli",
-        "command-line",
-        "cross-platform",
-        "dashboard",
-        "deepseek",
-        "developer-tools",
-        "dsh",
-        "performance",
-        "rust",
-        "token-optimization"
-      ],
-      "created_at": "2026-10-04T06:05:05Z",
-      "updated_at": "2026-10-09T03:00:32Z",
-      "pushed_at": "2026-10-09T03:06:29Z"
     },
     {
       "id": 1386511925,
@@ -3314,21 +3329,6 @@
       "created_at": "2026-10-02T10:46:49Z",
       "updated_at": "2026-10-08T17:32:36Z",
       "pushed_at": "2026-10-08T17:32:30Z"
-    },
-    {
-      "id": 1410661601,
-      "name": "CF-Workers-TGProxy",
-      "full_name": "ToiCF/CF-Workers-TGProxy",
-      "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
-      "html_url": "https://github.com/ToiCF/CF-Workers-TGProxy",
-      "homepage": null,
-      "stars": 61,
-      "forks": 27,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-08T16:38:51Z",
-      "updated_at": "2026-10-09T03:29:55Z",
-      "pushed_at": "2026-10-08T17:19:51Z"
     },
     {
       "id": 1399378829,
@@ -3421,7 +3421,7 @@
       "html_url": "https://github.com/ghuntley/jiti",
       "homepage": null,
       "stars": 59,
-      "forks": 7,
+      "forks": 8,
       "language": "Common Lisp",
       "topics": [],
       "created_at": "2026-10-04T06:52:46Z",
@@ -3457,6 +3457,42 @@
       "created_at": "2026-09-26T06:55:12Z",
       "updated_at": "2026-10-01T16:47:02Z",
       "pushed_at": "2026-09-26T07:49:48Z"
+    },
+    {
+      "id": 1404374196,
+      "name": "dsh-sieve",
+      "full_name": "Sev7eEn7/dsh-sieve",
+      "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+      "html_url": "https://github.com/Sev7eEn7/dsh-sieve",
+      "homepage": "https://www.npmjs.com/package/dsh-sieve",
+      "stars": 57,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [
+        "agent-tools",
+        "ai-agent",
+        "ai-coding",
+        "coding-agent",
+        "context-engineering",
+        "context-management",
+        "context-pruning",
+        "context-window",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "llm-agent",
+        "llm-cost",
+        "prompt-compression",
+        "token-efficiency",
+        "token-optimization",
+        "tool-output",
+        "typescript"
+      ],
+      "created_at": "2026-10-04T12:30:42Z",
+      "updated_at": "2026-10-09T07:36:16Z",
+      "pushed_at": "2026-10-08T09:56:33Z"
     },
     {
       "id": 1386319785,
@@ -3781,42 +3817,6 @@
       "created_at": "2026-10-02T22:48:41Z",
       "updated_at": "2026-10-08T12:47:54Z",
       "pushed_at": "2026-10-08T12:47:50Z"
-    },
-    {
-      "id": 1404374196,
-      "name": "dsh-sieve",
-      "full_name": "Sev7eEn7/dsh-sieve",
-      "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
-      "html_url": "https://github.com/Sev7eEn7/dsh-sieve",
-      "homepage": "https://www.npmjs.com/package/dsh-sieve",
-      "stars": 52,
-      "forks": 3,
-      "language": "TypeScript",
-      "topics": [
-        "agent-tools",
-        "ai-agent",
-        "ai-coding",
-        "coding-agent",
-        "context-engineering",
-        "context-management",
-        "context-pruning",
-        "context-window",
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm",
-        "llm-agent",
-        "llm-cost",
-        "prompt-compression",
-        "token-efficiency",
-        "token-optimization",
-        "tool-output",
-        "typescript"
-      ],
-      "created_at": "2026-10-04T12:30:42Z",
-      "updated_at": "2026-10-09T03:19:57Z",
-      "pushed_at": "2026-10-08T09:56:33Z"
     },
     {
       "id": 1379547345,
@@ -4566,6 +4566,21 @@
       "pushed_at": "2026-09-20T17:33:37Z"
     },
     {
+      "id": 1409087866,
+      "name": "freecenter",
+      "full_name": "fdaforno/freecenter",
+      "description": "A vCenter-style management console for the free VMware ESXi hypervisor: web UI, REST API, migration between hosts, backups, Terraform provider",
+      "html_url": "https://github.com/fdaforno/freecenter",
+      "homepage": null,
+      "stars": 38,
+      "forks": 12,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-07T16:35:58Z",
+      "updated_at": "2026-10-09T07:41:33Z",
+      "pushed_at": "2026-10-09T07:33:25Z"
+    },
+    {
       "id": 1377304402,
       "name": "tmon",
       "full_name": "khangzxrr/tmon",
@@ -4712,19 +4727,54 @@
       "pushed_at": "2026-10-04T03:19:51Z"
     },
     {
-      "id": 1409087866,
-      "name": "freecenter",
-      "full_name": "fdaforno/freecenter",
-      "description": "A vCenter-style management console for the free VMware ESXi hypervisor: web UI, REST API, migration between hosts, backups, Terraform provider",
-      "html_url": "https://github.com/fdaforno/freecenter",
+      "id": 1404567872,
+      "name": "direct-stream-ps5",
+      "full_name": "ChillQuant/direct-stream-ps5",
+      "description": "High-speed parallel stream engine & local web dashboard for streaming HTTP/HTTPS downloads directly to PlayStation 5 FTP storage. Pure Python standard library, zero pip packages, macOS & Windows.",
+      "html_url": "https://github.com/ChillQuant/direct-stream-ps5",
+      "homepage": "https://github.com/ChillQuant/direct-stream-ps5/releases/tag/v2.8.0",
+      "stars": 34,
+      "forks": 5,
+      "language": "Python",
+      "topics": [
+        "direct-stream",
+        "ftp",
+        "ftp-streamer",
+        "macos",
+        "parallel-download",
+        "playstation-5",
+        "ps5",
+        "python",
+        "web-dashboard",
+        "windows",
+        "zero-dependencies"
+      ],
+      "created_at": "2026-10-04T15:30:20Z",
+      "updated_at": "2026-10-09T07:45:39Z",
+      "pushed_at": "2026-10-08T23:40:08Z"
+    },
+    {
+      "id": 1405353782,
+      "name": "universal-content-intake",
+      "full_name": "YIAN6557/universal-content-intake",
+      "description": "One-link downloader for the Mac (videos, documents, images, articles, web pages), with optional automatic YouTube monitoring that translates and subtitles new videos.",
+      "html_url": "https://github.com/YIAN6557/universal-content-intake",
       "homepage": null,
       "stars": 34,
-      "forks": 12,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-07T16:35:58Z",
-      "updated_at": "2026-10-09T02:51:09Z",
-      "pushed_at": "2026-10-08T18:38:51Z"
+      "forks": 6,
+      "language": "Python",
+      "topics": [
+        "downloader",
+        "google-apps-script",
+        "macos",
+        "subtitles",
+        "whisper",
+        "youtube",
+        "yt-dlp"
+      ],
+      "created_at": "2026-10-05T07:45:07Z",
+      "updated_at": "2026-10-09T07:26:23Z",
+      "pushed_at": "2026-10-09T05:18:56Z"
     },
     {
       "id": 1377573287,
@@ -4820,6 +4870,38 @@
       "pushed_at": "2026-09-30T12:48:50Z"
     },
     {
+      "id": 1409683147,
+      "name": "zcode-claim-9router",
+      "full_name": "0xgetz/zcode-claim-9router",
+      "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
+      "html_url": "https://github.com/0xgetz/zcode-claim-9router",
+      "homepage": null,
+      "stars": 32,
+      "forks": 3,
+      "language": "Python",
+      "topics": [
+        "9router",
+        "ai",
+        "automation",
+        "browser-automation",
+        "cdp",
+        "coding-plan",
+        "glm",
+        "glm-5",
+        "llm",
+        "open-webui",
+        "python",
+        "reverse-engineering",
+        "token-farm",
+        "z-ai",
+        "zai",
+        "zcode"
+      ],
+      "created_at": "2026-10-08T03:43:27Z",
+      "updated_at": "2026-10-09T07:00:43Z",
+      "pushed_at": "2026-10-08T06:27:03Z"
+    },
+    {
       "id": 1392926470,
       "name": "pilulier",
       "full_name": "ceshihaox-dotcom/pilulier",
@@ -4869,38 +4951,6 @@
       "created_at": "2026-10-01T18:03:59Z",
       "updated_at": "2026-10-07T00:19:50Z",
       "pushed_at": "2026-10-01T18:04:05Z"
-    },
-    {
-      "id": 1409683147,
-      "name": "zcode-claim-9router",
-      "full_name": "0xgetz/zcode-claim-9router",
-      "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
-      "html_url": "https://github.com/0xgetz/zcode-claim-9router",
-      "homepage": null,
-      "stars": 31,
-      "forks": 3,
-      "language": "Python",
-      "topics": [
-        "9router",
-        "ai",
-        "automation",
-        "browser-automation",
-        "cdp",
-        "coding-plan",
-        "glm",
-        "glm-5",
-        "llm",
-        "open-webui",
-        "python",
-        "reverse-engineering",
-        "token-farm",
-        "z-ai",
-        "zai",
-        "zcode"
-      ],
-      "created_at": "2026-10-08T03:43:27Z",
-      "updated_at": "2026-10-09T02:55:58Z",
-      "pushed_at": "2026-10-08T06:27:03Z"
     },
     {
       "id": 1387868633,
@@ -5023,33 +5073,6 @@
       "created_at": "2026-10-07T12:12:30Z",
       "updated_at": "2026-10-08T22:38:36Z",
       "pushed_at": "2026-10-08T22:38:32Z"
-    },
-    {
-      "id": 1404567872,
-      "name": "direct-stream-ps5",
-      "full_name": "ChillQuant/direct-stream-ps5",
-      "description": "High-speed parallel stream engine & local web dashboard for streaming HTTP/HTTPS downloads directly to PlayStation 5 FTP storage. Pure Python standard library, zero pip packages, macOS & Windows.",
-      "html_url": "https://github.com/ChillQuant/direct-stream-ps5",
-      "homepage": "https://github.com/ChillQuant/direct-stream-ps5/releases/tag/v2.8.0",
-      "stars": 30,
-      "forks": 4,
-      "language": "Python",
-      "topics": [
-        "direct-stream",
-        "ftp",
-        "ftp-streamer",
-        "macos",
-        "parallel-download",
-        "playstation-5",
-        "ps5",
-        "python",
-        "web-dashboard",
-        "windows",
-        "zero-dependencies"
-      ],
-      "created_at": "2026-10-04T15:30:20Z",
-      "updated_at": "2026-10-09T03:37:30Z",
-      "pushed_at": "2026-10-08T23:40:08Z"
     },
     {
       "id": 1375795989,
@@ -5235,7 +5258,7 @@
       "html_url": "https://github.com/ziqing888/alpha-meme-radar",
       "homepage": null,
       "stars": 27,
-      "forks": 9,
+      "forks": 10,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-04T04:48:55Z",
@@ -5650,7 +5673,7 @@
       "description": "Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net worth, Telegram bot, receipt OCR, 2FA and backups.",
       "html_url": "https://github.com/ilramdhan/dompetku",
       "homepage": "https://dompetku.ilramdhan.dev",
-      "stars": 19,
+      "stars": 20,
       "forks": 17,
       "language": "TypeScript",
       "topics": [
@@ -5676,8 +5699,8 @@
         "vercel"
       ],
       "created_at": "2026-10-03T04:31:00Z",
-      "updated_at": "2026-10-09T02:33:21Z",
-      "pushed_at": "2026-10-09T03:38:46Z"
+      "updated_at": "2026-10-09T08:05:00Z",
+      "pushed_at": "2026-10-09T08:05:04Z"
     },
     {
       "id": 1387292246,
@@ -5720,6 +5743,36 @@
       "created_at": "2026-10-04T21:33:59Z",
       "updated_at": "2026-10-06T22:28:44Z",
       "pushed_at": "2026-10-06T22:28:40Z"
+    },
+    {
+      "id": 1409514013,
+      "name": "weasley-clock-card",
+      "full_name": "Nite01007/weasley-clock-card",
+      "description": "Home Assistant card in the style of Mrs. Weasley's clock: one hand per person, pointing at where they are.",
+      "html_url": "https://github.com/Nite01007/weasley-clock-card",
+      "homepage": null,
+      "stars": 18,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-08T00:16:27Z",
+      "updated_at": "2026-10-09T07:36:28Z",
+      "pushed_at": "2026-10-08T00:20:14Z"
+    },
+    {
+      "id": 1410448867,
+      "name": "cirfig_gen",
+      "full_name": "KwantaeKim/cirfig_gen",
+      "description": "AI-driven analog circuit figure generator. Ask Claude Code or Codex for a circuit and get one SVG at final size.",
+      "html_url": "https://github.com/KwantaeKim/cirfig_gen",
+      "homepage": null,
+      "stars": 18,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-08T14:07:54Z",
+      "updated_at": "2026-10-09T07:48:16Z",
+      "pushed_at": "2026-10-08T21:28:38Z"
     },
     {
       "id": 1386745578,
@@ -5766,21 +5819,6 @@
       "created_at": "2026-09-27T07:23:17Z",
       "updated_at": "2026-10-01T05:30:51Z",
       "pushed_at": "2026-09-27T09:10:11Z"
-    },
-    {
-      "id": 1409514013,
-      "name": "weasley-clock-card",
-      "full_name": "Nite01007/weasley-clock-card",
-      "description": "Home Assistant card in the style of Mrs. Weasley's clock: one hand per person, pointing at where they are.",
-      "html_url": "https://github.com/Nite01007/weasley-clock-card",
-      "homepage": null,
-      "stars": 17,
-      "forks": 2,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-08T00:16:27Z",
-      "updated_at": "2026-10-09T03:38:06Z",
-      "pushed_at": "2026-10-08T00:20:14Z"
     },
     {
       "id": 1379717308,
@@ -5987,21 +6025,6 @@
       "created_at": "2026-10-02T21:29:05Z",
       "updated_at": "2026-10-07T21:55:37Z",
       "pushed_at": "2026-10-05T12:48:22Z"
-    },
-    {
-      "id": 1410448867,
-      "name": "cirfig_gen",
-      "full_name": "KwantaeKim/cirfig_gen",
-      "description": "AI-driven analog circuit figure generator. Ask Claude Code or Codex for a circuit and get one SVG at final size.",
-      "html_url": "https://github.com/KwantaeKim/cirfig_gen",
-      "homepage": null,
-      "stars": 15,
-      "forks": 1,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-08T14:07:54Z",
-      "updated_at": "2026-10-09T03:36:00Z",
-      "pushed_at": "2026-10-08T21:28:38Z"
     },
     {
       "id": 1379723846,
@@ -6370,8 +6393,8 @@
         "zz9000"
       ],
       "created_at": "2026-10-05T21:02:18Z",
-      "updated_at": "2026-10-09T03:20:56Z",
-      "pushed_at": "2026-10-09T03:20:52Z"
+      "updated_at": "2026-10-09T05:51:26Z",
+      "pushed_at": "2026-10-09T05:51:22Z"
     },
     {
       "id": 1389013962,
@@ -6541,8 +6564,8 @@
         "how-to-install-adguard-premium-on-pc"
       ],
       "created_at": "2026-10-07T11:20:07Z",
-      "updated_at": "2026-10-08T22:57:05Z",
-      "pushed_at": "2026-10-08T22:57:01Z"
+      "updated_at": "2026-10-09T04:43:25Z",
+      "pushed_at": "2026-10-09T04:43:21Z"
     },
     {
       "id": 1387641647,
