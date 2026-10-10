@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/10 11:21:22",
-  "total_repos": 324,
+  "fetched_at": "2026/10/11 00:35:44",
+  "total_repos": 329,
   "repos": [
     {
       "id": 1402525166,
@@ -31,6 +31,29 @@
       "created_at": "2026-10-03T16:53:36Z",
       "updated_at": "2026-10-06T03:50:26Z",
       "pushed_at": "2026-10-03T16:53:42Z"
+    },
+    {
+      "id": 1403847264,
+      "name": "mesh-avatar-studio",
+      "full_name": "shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "homepage": null,
+      "stars": 584,
+      "forks": 69,
+      "language": "TypeScript",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ],
+      "created_at": "2026-10-04T03:33:57Z",
+      "updated_at": "2026-10-10T14:20:21Z",
+      "pushed_at": "2026-10-10T05:11:24Z"
     },
     {
       "id": 1408486424,
@@ -71,29 +94,6 @@
       "created_at": "2026-10-03T12:07:49Z",
       "updated_at": "2026-10-06T08:08:31Z",
       "pushed_at": "2026-10-03T12:07:53Z"
-    },
-    {
-      "id": 1403847264,
-      "name": "mesh-avatar-studio",
-      "full_name": "shinshin86/mesh-avatar-studio",
-      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
-      "homepage": null,
-      "stars": 568,
-      "forks": 68,
-      "language": "TypeScript",
-      "topics": [
-        "2d-animation",
-        "avatar",
-        "claude-code",
-        "codex",
-        "mesh-deformation",
-        "vtuber",
-        "webgl"
-      ],
-      "created_at": "2026-10-04T03:33:57Z",
-      "updated_at": "2026-10-10T02:26:01Z",
-      "pushed_at": "2026-10-09T03:14:49Z"
     },
     {
       "id": 1408371739,
@@ -283,6 +283,21 @@
       "pushed_at": "2026-10-02T19:56:10Z"
     },
     {
+      "id": 1408011967,
+      "name": "Genjustsu-Open-Source-Workflow",
+      "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "html_url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "homepage": "https://tein.ai",
+      "stars": 401,
+      "forks": 116,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-06T23:18:18Z",
+      "updated_at": "2026-10-10T16:32:57Z",
+      "pushed_at": "2026-10-08T20:54:22Z"
+    },
+    {
       "id": 1405558786,
       "name": "Discord-Nitro-Generator",
       "full_name": "CyclopsRogueSucceed/Discord-Nitro-Generator",
@@ -440,6 +455,32 @@
       "pushed_at": "2026-10-05T10:21:10Z"
     },
     {
+      "id": 1403731980,
+      "name": "animate",
+      "full_name": "cth9191/animate",
+      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "html_url": "https://github.com/cth9191/animate",
+      "homepage": null,
+      "stars": 392,
+      "forks": 66,
+      "language": "JavaScript",
+      "topics": [
+        "animation",
+        "canvas",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "explainer-video",
+        "generative-art",
+        "motion-graphics",
+        "procedural-animation",
+        "storyboard"
+      ],
+      "created_at": "2026-10-04T00:05:25Z",
+      "updated_at": "2026-10-10T16:33:59Z",
+      "pushed_at": "2026-10-05T20:31:48Z"
+    },
+    {
       "id": 1397599794,
       "name": "livecanvas",
       "full_name": "pengchujin/livecanvas",
@@ -479,6 +520,31 @@
       "pushed_at": "2026-09-24T03:51:47Z"
     },
     {
+      "id": 1403805593,
+      "name": "pi-pocket",
+      "full_name": "TannerMidd/pi-pocket",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "html_url": "https://github.com/TannerMidd/pi-pocket",
+      "homepage": "https://tannermidd.github.io/pi-pocket/",
+      "stars": 321,
+      "forks": 21,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "coding-agent",
+        "mobile",
+        "multiplayer",
+        "omarchy",
+        "pi",
+        "pi-durable",
+        "pwa",
+        "self-hosted"
+      ],
+      "created_at": "2026-10-04T02:29:57Z",
+      "updated_at": "2026-10-10T16:15:07Z",
+      "pushed_at": "2026-10-10T15:34:08Z"
+    },
+    {
       "id": 1381875232,
       "name": "corz-client",
       "full_name": "zeldaboyzlix/corz-client",
@@ -498,31 +564,6 @@
       "created_at": "2026-09-22T15:56:39Z",
       "updated_at": "2026-09-24T04:06:45Z",
       "pushed_at": "2026-09-22T16:32:10Z"
-    },
-    {
-      "id": 1403805593,
-      "name": "pi-pocket",
-      "full_name": "TannerMidd/pi-pocket",
-      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-      "html_url": "https://github.com/TannerMidd/pi-pocket",
-      "homepage": "https://tannermidd.github.io/pi-pocket/",
-      "stars": 311,
-      "forks": 21,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agent",
-        "coding-agent",
-        "mobile",
-        "multiplayer",
-        "omarchy",
-        "pi",
-        "pi-durable",
-        "pwa",
-        "self-hosted"
-      ],
-      "created_at": "2026-10-04T02:29:57Z",
-      "updated_at": "2026-10-09T21:51:47Z",
-      "pushed_at": "2026-10-10T00:40:51Z"
     },
     {
       "id": 1402295346,
@@ -557,7 +598,7 @@
       "description": "Microsoft Office optimizes professional desktop software utility configurations by providing a comprehensive suite of productivity tools that streamline...",
       "html_url": "https://github.com/ParrotStaple/Microsoft-Office",
       "homepage": null,
-      "stars": 304,
+      "stars": 305,
       "forks": 0,
       "language": null,
       "topics": [
@@ -576,7 +617,7 @@
         "word-excel"
       ],
       "created_at": "2026-10-09T13:54:19Z",
-      "updated_at": "2026-10-09T18:54:13Z",
+      "updated_at": "2026-10-10T14:49:48Z",
       "pushed_at": "2026-10-09T13:54:25Z"
     },
     {
@@ -599,6 +640,21 @@
       "created_at": "2026-10-01T15:29:28Z",
       "updated_at": "2026-10-07T17:10:46Z",
       "pushed_at": "2026-10-05T14:16:54Z"
+    },
+    {
+      "id": 1406514405,
+      "name": "liquid-glass",
+      "full_name": "Glass-HQ/liquid-glass",
+      "description": "Liquid Glass materials for web and Electron, built with vgpu.",
+      "html_url": "https://github.com/Glass-HQ/liquid-glass",
+      "homepage": "https://liquid-glass.glassapp.dev",
+      "stars": 302,
+      "forks": 12,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-06T00:23:48Z",
+      "updated_at": "2026-10-10T15:52:22Z",
+      "pushed_at": "2026-10-10T07:39:07Z"
     },
     {
       "id": 1411934025,
@@ -625,30 +681,29 @@
       "pushed_at": "2026-10-09T13:57:05Z"
     },
     {
-      "id": 1403731980,
-      "name": "animate",
-      "full_name": "cth9191/animate",
-      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
-      "html_url": "https://github.com/cth9191/animate",
-      "homepage": null,
-      "stars": 296,
-      "forks": 50,
-      "language": "JavaScript",
+      "id": 1406548400,
+      "name": "convt",
+      "full_name": "opencoredev/convt",
+      "description": "Convert any file with a right-click.",
+      "html_url": "https://github.com/opencoredev/convt",
+      "homepage": "convt.app",
+      "stars": 293,
+      "forks": 15,
+      "language": "Rust",
       "topics": [
-        "animation",
-        "canvas",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "explainer-video",
-        "generative-art",
-        "motion-graphics",
-        "procedural-animation",
-        "storyboard"
+        "convert",
+        "convert-images",
+        "convert-local",
+        "converted-to-private",
+        "converter",
+        "converter-app",
+        "local",
+        "local-first",
+        "private"
       ],
-      "created_at": "2026-10-04T00:05:25Z",
-      "updated_at": "2026-10-10T02:53:59Z",
-      "pushed_at": "2026-10-05T20:31:48Z"
+      "created_at": "2026-10-06T01:17:53Z",
+      "updated_at": "2026-10-10T16:14:06Z",
+      "pushed_at": "2026-10-10T00:53:41Z"
     },
     {
       "id": 1406229181,
@@ -657,7 +712,7 @@
       "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
       "html_url": "https://github.com/mushigaite/short-video-maker",
       "homepage": null,
-      "stars": 288,
+      "stars": 290,
       "forks": 75,
       "language": "Python",
       "topics": [
@@ -673,33 +728,8 @@
         "shorts-generator"
       ],
       "created_at": "2026-10-05T18:35:21Z",
-      "updated_at": "2026-10-09T16:59:35Z",
+      "updated_at": "2026-10-10T07:47:59Z",
       "pushed_at": "2026-10-09T16:59:30Z"
-    },
-    {
-      "id": 1406548400,
-      "name": "convt",
-      "full_name": "opencoredev/convt",
-      "description": "Convert any file with a right-click.",
-      "html_url": "https://github.com/opencoredev/convt",
-      "homepage": "convt.app",
-      "stars": 284,
-      "forks": 15,
-      "language": "Rust",
-      "topics": [
-        "convert",
-        "convert-images",
-        "convert-local",
-        "converted-to-private",
-        "converter",
-        "converter-app",
-        "local",
-        "local-first",
-        "private"
-      ],
-      "created_at": "2026-10-06T01:17:53Z",
-      "updated_at": "2026-10-10T03:13:33Z",
-      "pushed_at": "2026-10-10T00:53:41Z"
     },
     {
       "id": 1375594818,
@@ -742,6 +772,21 @@
       "pushed_at": "2026-10-08T13:21:09Z"
     },
     {
+      "id": 1407997858,
+      "name": "project-maya",
+      "full_name": "mw00/project-maya",
+      "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
+      "html_url": "https://github.com/mw00/project-maya",
+      "homepage": null,
+      "stars": 278,
+      "forks": 39,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-06T22:55:13Z",
+      "updated_at": "2026-10-10T16:35:05Z",
+      "pushed_at": "2026-10-10T11:56:33Z"
+    },
+    {
       "id": 1390994799,
       "name": "CalcKernel",
       "full_name": "luxine/CalcKernel",
@@ -760,21 +805,6 @@
       "created_at": "2026-09-27T14:59:35Z",
       "updated_at": "2026-10-02T22:54:55Z",
       "pushed_at": "2026-10-02T00:33:09Z"
-    },
-    {
-      "id": 1406514405,
-      "name": "liquid-glass",
-      "full_name": "Glass-HQ/liquid-glass",
-      "description": "Liquid Glass materials for web and Electron, built with vgpu.",
-      "html_url": "https://github.com/Glass-HQ/liquid-glass",
-      "homepage": "https://liquid-glass.glassapp.dev",
-      "stars": 259,
-      "forks": 9,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-06T00:23:48Z",
-      "updated_at": "2026-10-10T03:14:30Z",
-      "pushed_at": "2026-10-10T01:36:21Z"
     },
     {
       "id": 1396738941,
@@ -801,19 +831,26 @@
       "pushed_at": "2026-09-30T00:10:22Z"
     },
     {
-      "id": 1407997858,
-      "name": "project-maya",
-      "full_name": "mw00/project-maya",
-      "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
-      "html_url": "https://github.com/mw00/project-maya",
+      "id": 1408082051,
+      "name": "founder-skill",
+      "full_name": "Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "homepage": null,
-      "stars": 220,
-      "forks": 35,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-06T22:55:13Z",
-      "updated_at": "2026-10-10T03:17:50Z",
-      "pushed_at": "2026-10-10T02:51:02Z"
+      "stars": 217,
+      "forks": 22,
+      "language": "Python",
+      "topics": [
+        "business-plan",
+        "claude-code",
+        "claude-skills",
+        "startup",
+        "subagents",
+        "unit-economics"
+      ],
+      "created_at": "2026-10-07T01:07:13Z",
+      "updated_at": "2026-10-10T15:45:01Z",
+      "pushed_at": "2026-10-07T01:07:17Z"
     },
     {
       "id": 1390509008,
@@ -900,6 +937,29 @@
       "pushed_at": "2026-10-02T20:07:29Z"
     },
     {
+      "id": 1408673153,
+      "name": "psp-web-recomp",
+      "full_name": "snuri00/psp-web-recomp",
+      "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+      "html_url": "https://github.com/snuri00/psp-web-recomp",
+      "homepage": null,
+      "stars": 209,
+      "forks": 9,
+      "language": "C++",
+      "topics": [
+        "emscripten",
+        "god-of-war",
+        "psp",
+        "recompilation",
+        "static-recompilation",
+        "webassembly",
+        "webgl2"
+      ],
+      "created_at": "2026-10-07T11:21:20Z",
+      "updated_at": "2026-10-10T14:56:13Z",
+      "pushed_at": "2026-10-09T13:48:43Z"
+    },
+    {
       "id": 1402301525,
       "name": "Microsoft-365",
       "full_name": "ByteInvestigator/Microsoft-365",
@@ -925,44 +985,6 @@
       "created_at": "2026-10-02T20:04:11Z",
       "updated_at": "2026-10-04T22:11:40Z",
       "pushed_at": "2026-10-02T20:04:16Z"
-    },
-    {
-      "id": 1408673153,
-      "name": "psp-web-recomp",
-      "full_name": "snuri00/psp-web-recomp",
-      "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
-      "html_url": "https://github.com/snuri00/psp-web-recomp",
-      "homepage": null,
-      "stars": 204,
-      "forks": 9,
-      "language": "C++",
-      "topics": [
-        "emscripten",
-        "god-of-war",
-        "psp",
-        "recompilation",
-        "static-recompilation",
-        "webassembly",
-        "webgl2"
-      ],
-      "created_at": "2026-10-07T11:21:20Z",
-      "updated_at": "2026-10-09T23:07:28Z",
-      "pushed_at": "2026-10-09T13:48:43Z"
-    },
-    {
-      "id": 1408011967,
-      "name": "Genjustsu-Open-Source-Workflow",
-      "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
-      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "html_url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-      "homepage": "https://tein.ai",
-      "stars": 203,
-      "forks": 58,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-06T23:18:18Z",
-      "updated_at": "2026-10-10T03:17:09Z",
-      "pushed_at": "2026-10-08T20:54:22Z"
     },
     {
       "id": 1376284519,
@@ -1218,28 +1240,6 @@
       "pushed_at": "2026-10-03T06:15:44Z"
     },
     {
-      "id": 1408082051,
-      "name": "founder-skill",
-      "full_name": "Jakeschincariol/founder-skill",
-      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "html_url": "https://github.com/Jakeschincariol/founder-skill",
-      "homepage": null,
-      "stars": 192,
-      "forks": 17,
-      "language": "Python",
-      "topics": [
-        "business-plan",
-        "claude-code",
-        "claude-skills",
-        "startup",
-        "subagents",
-        "unit-economics"
-      ],
-      "created_at": "2026-10-07T01:07:13Z",
-      "updated_at": "2026-10-10T03:19:39Z",
-      "pushed_at": "2026-10-07T01:07:17Z"
-    },
-    {
       "id": 1388097438,
       "name": "mysticgsi",
       "full_name": "MysticGSI/mysticgsi",
@@ -1308,6 +1308,39 @@
       "created_at": "2026-09-25T11:48:27Z",
       "updated_at": "2026-10-01T08:18:08Z",
       "pushed_at": "2026-09-30T23:21:04Z"
+    },
+    {
+      "id": 1405115700,
+      "name": "streamfirefly",
+      "full_name": "rumoii/streamfirefly",
+      "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
+      "html_url": "https://github.com/rumoii/streamfirefly",
+      "homepage": null,
+      "stars": 183,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "dash",
+        "edge-extension",
+        "ffmpeg",
+        "firefox-addon",
+        "hls",
+        "m3u8",
+        "media-downloader",
+        "media-sniffer",
+        "native-messaging",
+        "rust",
+        "stream-recorder",
+        "video-downloader",
+        "vue",
+        "webextension",
+        "windows"
+      ],
+      "created_at": "2026-10-05T04:26:14Z",
+      "updated_at": "2026-10-10T15:00:04Z",
+      "pushed_at": "2026-10-09T08:08:45Z"
     },
     {
       "id": 1379117882,
@@ -1403,39 +1436,6 @@
       "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
-      "id": 1405115700,
-      "name": "streamfirefly",
-      "full_name": "rumoii/streamfirefly",
-      "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
-      "html_url": "https://github.com/rumoii/streamfirefly",
-      "homepage": null,
-      "stars": 159,
-      "forks": 9,
-      "language": "JavaScript",
-      "topics": [
-        "browser-extension",
-        "chrome-extension",
-        "dash",
-        "edge-extension",
-        "ffmpeg",
-        "firefox-addon",
-        "hls",
-        "m3u8",
-        "media-downloader",
-        "media-sniffer",
-        "native-messaging",
-        "rust",
-        "stream-recorder",
-        "video-downloader",
-        "vue",
-        "webextension",
-        "windows"
-      ],
-      "created_at": "2026-10-05T04:26:14Z",
-      "updated_at": "2026-10-10T02:30:23Z",
-      "pushed_at": "2026-10-09T08:08:45Z"
-    },
-    {
       "id": 1400877599,
       "name": "ArkWeb",
       "full_name": "luki-1/ArkWeb",
@@ -1472,6 +1472,25 @@
       "pushed_at": "2026-09-23T22:34:48Z"
     },
     {
+      "id": 1409893258,
+      "name": "dsh-ops",
+      "full_name": "T-Auto/dsh-ops",
+      "description": "Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. / 为windows的dsh提供bash、powershell7及rust的高性能tools来减少token消耗",
+      "html_url": "https://github.com/T-Auto/dsh-ops",
+      "homepage": null,
+      "stars": 155,
+      "forks": 3,
+      "language": "JavaScript",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins"
+      ],
+      "created_at": "2026-10-08T07:09:25Z",
+      "updated_at": "2026-10-10T16:33:24Z",
+      "pushed_at": "2026-10-10T11:38:52Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -1485,6 +1504,49 @@
       "created_at": "2026-09-18T03:36:12Z",
       "updated_at": "2026-09-23T10:48:14Z",
       "pushed_at": "2026-09-23T10:48:10Z"
+    },
+    {
+      "id": 1412143785,
+      "name": "robot-heads",
+      "full_name": "fayazara/robot-heads",
+      "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+      "html_url": "https://github.com/fayazara/robot-heads",
+      "homepage": "https://robot-heads.fayaz.workers.dev",
+      "stars": 145,
+      "forks": 19,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "animation",
+        "avatar",
+        "canvas",
+        "react",
+        "robot"
+      ],
+      "created_at": "2026-10-09T16:28:47Z",
+      "updated_at": "2026-10-10T16:34:44Z",
+      "pushed_at": "2026-10-10T05:18:23Z"
+    },
+    {
+      "id": 1403810477,
+      "name": "ai-iso-skill",
+      "full_name": "MrBongoC/ai-iso-skill",
+      "description": "Claude skill that draws interactive isometric figures in a single HTML file",
+      "html_url": "https://github.com/MrBongoC/ai-iso-skill",
+      "homepage": "https://mrbongoc.github.io/ai-iso-skill/examples/desk-synth.html",
+      "stars": 141,
+      "forks": 8,
+      "language": null,
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "isometric",
+        "svg"
+      ],
+      "created_at": "2026-10-04T02:38:15Z",
+      "updated_at": "2026-10-10T16:07:39Z",
+      "pushed_at": "2026-10-04T02:52:27Z"
     },
     {
       "id": 1378060456,
@@ -1546,7 +1608,7 @@
       "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.",
       "html_url": "https://github.com/atmirrr/persian-motion-director",
       "homepage": null,
-      "stars": 134,
+      "stars": 135,
       "forks": 4,
       "language": "JavaScript",
       "topics": [
@@ -1562,29 +1624,8 @@
         "typography"
       ],
       "created_at": "2026-10-06T12:23:55Z",
-      "updated_at": "2026-10-09T19:44:27Z",
+      "updated_at": "2026-10-10T15:06:39Z",
       "pushed_at": "2026-10-06T13:27:09Z"
-    },
-    {
-      "id": 1403810477,
-      "name": "ai-iso-skill",
-      "full_name": "MrBongoC/ai-iso-skill",
-      "description": "Claude skill that draws interactive isometric figures in a single HTML file",
-      "html_url": "https://github.com/MrBongoC/ai-iso-skill",
-      "homepage": "https://mrbongoc.github.io/ai-iso-skill/examples/desk-synth.html",
-      "stars": 134,
-      "forks": 7,
-      "language": null,
-      "topics": [
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "isometric",
-        "svg"
-      ],
-      "created_at": "2026-10-04T02:38:15Z",
-      "updated_at": "2026-10-09T23:38:46Z",
-      "pushed_at": "2026-10-04T02:52:27Z"
     },
     {
       "id": 1390688516,
@@ -1681,8 +1722,8 @@
       "description": "Native SwiftUI trading charts for iOS: candles, indicators, crosshair, drawing tools and paged history, on Swift Charts.",
       "html_url": "https://github.com/pavellunev/trading_chart",
       "homepage": null,
-      "stars": 131,
-      "forks": 0,
+      "stars": 132,
+      "forks": 1,
       "language": "Swift",
       "topics": [
         "candlestick-chart",
@@ -1699,7 +1740,7 @@
         "trading"
       ],
       "created_at": "2026-10-06T11:58:23Z",
-      "updated_at": "2026-10-08T21:26:57Z",
+      "updated_at": "2026-10-10T12:33:58Z",
       "pushed_at": "2026-10-07T12:31:10Z"
     },
     {
@@ -1760,7 +1801,7 @@
       "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
       "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
       "homepage": "https://www.ripalda.dev",
-      "stars": 121,
+      "stars": 123,
       "forks": 15,
       "language": "C++",
       "topics": [
@@ -1776,8 +1817,44 @@
         "wii"
       ],
       "created_at": "2026-10-04T03:36:16Z",
-      "updated_at": "2026-10-10T03:13:33Z",
+      "updated_at": "2026-10-10T12:43:19Z",
       "pushed_at": "2026-10-08T23:43:30Z"
+    },
+    {
+      "id": 1411335875,
+      "name": "scam-with-your-friends-web",
+      "full_name": "mrzh7/scam-with-your-friends-web",
+      "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+      "html_url": "https://github.com/mrzh7/scam-with-your-friends-web",
+      "homepage": "https://scam.gamefun.world",
+      "stars": 121,
+      "forks": 19,
+      "language": "TypeScript",
+      "topics": [
+        "ai-game",
+        "browser-game",
+        "call-center",
+        "cloudflare-workers",
+        "coop-game",
+        "dark-comedy",
+        "durable-objects",
+        "i18n",
+        "job-simulator",
+        "multiplayer",
+        "party-game",
+        "react",
+        "scam-with-your-friends",
+        "scam-with-your-friends-web",
+        "text-to-speech",
+        "threejs",
+        "typescript",
+        "voice-chat",
+        "web-game",
+        "webrtc"
+      ],
+      "created_at": "2026-10-09T05:27:48Z",
+      "updated_at": "2026-10-10T14:39:10Z",
+      "pushed_at": "2026-10-10T03:25:09Z"
     },
     {
       "id": 1404682975,
@@ -1786,8 +1863,8 @@
       "description": "VB6 Studio Web — a browser-native classic Visual Basic IDE, form designer, source runtime and controls library in HTML, CSS and JavaScript, with a debugger, WebGPU drawing and single-file HTML app export.",
       "html_url": "https://github.com/wieslawsoltes/VB6",
       "homepage": "https://wieslawsoltes.github.io/VB6/",
-      "stars": 114,
-      "forks": 18,
+      "stars": 115,
+      "forks": 19,
       "language": "JavaScript",
       "topics": [
         "browser-ide",
@@ -1807,7 +1884,7 @@
         "webgpu"
       ],
       "created_at": "2026-10-04T17:40:27Z",
-      "updated_at": "2026-10-10T01:53:37Z",
+      "updated_at": "2026-10-10T14:04:09Z",
       "pushed_at": "2026-10-09T22:37:48Z"
     },
     {
@@ -1891,6 +1968,31 @@
       "created_at": "2026-10-03T16:56:54Z",
       "updated_at": "2026-10-05T02:31:10Z",
       "pushed_at": "2026-10-03T17:03:37Z"
+    },
+    {
+      "id": 1406397878,
+      "name": "Video2World",
+      "full_name": "AetherLabsAI/Video2World",
+      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
+      "html_url": "https://github.com/AetherLabsAI/Video2World",
+      "homepage": "https://aetherlabsai.github.io/Video2World/",
+      "stars": 113,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "coding-agent",
+        "embodied-ai",
+        "foundation-models",
+        "real-to-sim",
+        "robot-learning",
+        "robotics",
+        "simulation",
+        "world-models"
+      ],
+      "created_at": "2026-10-05T21:27:56Z",
+      "updated_at": "2026-10-10T12:01:58Z",
+      "pushed_at": "2026-10-06T15:47:31Z"
     },
     {
       "id": 1377674687,
@@ -1983,40 +2085,19 @@
       "pushed_at": "2026-09-30T14:28:36Z"
     },
     {
-      "id": 1411335875,
-      "name": "scam-with-your-friends-web",
-      "full_name": "mrzh7/scam-with-your-friends-web",
-      "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
-      "html_url": "https://github.com/mrzh7/scam-with-your-friends-web",
-      "homepage": "https://scam.gamefun.world",
+      "id": 1404113489,
+      "name": "fm1-x0x",
+      "full_name": "charlesvestal/fm1-x0x",
+      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
+      "html_url": "https://github.com/charlesvestal/fm1-x0x",
+      "homepage": null,
       "stars": 109,
-      "forks": 18,
-      "language": "TypeScript",
-      "topics": [
-        "ai-game",
-        "browser-game",
-        "call-center",
-        "cloudflare-workers",
-        "coop-game",
-        "dark-comedy",
-        "durable-objects",
-        "i18n",
-        "job-simulator",
-        "multiplayer",
-        "party-game",
-        "react",
-        "scam-with-your-friends",
-        "scam-with-your-friends-web",
-        "text-to-speech",
-        "threejs",
-        "typescript",
-        "voice-chat",
-        "web-game",
-        "webrtc"
-      ],
-      "created_at": "2026-10-09T05:27:48Z",
-      "updated_at": "2026-10-10T03:19:50Z",
-      "pushed_at": "2026-10-10T00:20:07Z"
+      "forks": 9,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-04T08:03:49Z",
+      "updated_at": "2026-10-10T15:19:35Z",
+      "pushed_at": "2026-10-10T05:20:04Z"
     },
     {
       "id": 1402302127,
@@ -2395,46 +2476,6 @@
       "pushed_at": "2026-10-05T01:56:08Z"
     },
     {
-      "id": 1406397878,
-      "name": "Video2World",
-      "full_name": "AetherLabsAI/Video2World",
-      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
-      "html_url": "https://github.com/AetherLabsAI/Video2World",
-      "homepage": "https://aetherlabsai.github.io/Video2World/",
-      "stars": 102,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "benchmark",
-        "coding-agent",
-        "embodied-ai",
-        "foundation-models",
-        "real-to-sim",
-        "robot-learning",
-        "robotics",
-        "simulation",
-        "world-models"
-      ],
-      "created_at": "2026-10-05T21:27:56Z",
-      "updated_at": "2026-10-10T02:39:18Z",
-      "pushed_at": "2026-10-06T15:47:31Z"
-    },
-    {
-      "id": 1404113489,
-      "name": "fm1-x0x",
-      "full_name": "charlesvestal/fm1-x0x",
-      "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
-      "html_url": "https://github.com/charlesvestal/fm1-x0x",
-      "homepage": null,
-      "stars": 102,
-      "forks": 7,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-04T08:03:49Z",
-      "updated_at": "2026-10-10T02:19:45Z",
-      "pushed_at": "2026-10-09T18:52:55Z"
-    },
-    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -2485,6 +2526,26 @@
       "created_at": "2026-10-05T10:27:43Z",
       "updated_at": "2026-10-05T20:45:40Z",
       "pushed_at": "2026-10-05T10:27:49Z"
+    },
+    {
+      "id": 1405616800,
+      "name": "awesome-tern",
+      "full_name": "theblazehen/awesome-tern",
+      "description": "A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal",
+      "html_url": "https://github.com/theblazehen/awesome-tern",
+      "homepage": null,
+      "stars": 101,
+      "forks": 12,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "tern",
+        "tern-plugin"
+      ],
+      "created_at": "2026-10-05T11:11:31Z",
+      "updated_at": "2026-10-10T14:18:46Z",
+      "pushed_at": "2026-10-10T10:06:10Z"
     },
     {
       "id": 1405556648,
@@ -2567,24 +2628,25 @@
       "pushed_at": "2026-10-05T10:24:08Z"
     },
     {
-      "id": 1405616800,
-      "name": "awesome-tern",
-      "full_name": "theblazehen/awesome-tern",
-      "description": "A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal",
-      "html_url": "https://github.com/theblazehen/awesome-tern",
-      "homepage": null,
+      "id": 1406041130,
+      "name": "softlab",
+      "full_name": "deity6/softlab",
+      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
+      "html_url": "https://github.com/deity6/softlab",
+      "homepage": "https://doit.loc.cc/",
       "stars": 99,
-      "forks": 12,
-      "language": "Python",
+      "forks": 0,
+      "language": "TypeScript",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "tern",
-        "tern-plugin"
+        "canvas",
+        "interaction-design",
+        "react",
+        "vite",
+        "webgl"
       ],
-      "created_at": "2026-10-05T11:11:31Z",
-      "updated_at": "2026-10-09T13:14:06Z",
-      "pushed_at": "2026-10-09T13:14:02Z"
+      "created_at": "2026-10-05T16:07:09Z",
+      "updated_at": "2026-10-10T09:47:51Z",
+      "pushed_at": "2026-10-05T16:52:50Z"
     },
     {
       "id": 1411921952,
@@ -2701,6 +2763,51 @@
       "pushed_at": "2026-10-09T13:47:47Z"
     },
     {
+      "id": 1403809641,
+      "name": "vibestart",
+      "full_name": "VinkyDev/vibestart",
+      "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
+      "html_url": "https://github.com/VinkyDev/vibestart",
+      "homepage": "https://vibestart.net",
+      "stars": 98,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-coding",
+        "cli",
+        "fullstack",
+        "lint",
+        "react",
+        "shadcn-ui",
+        "skills",
+        "tailwindcss",
+        "tanstack",
+        "typescript",
+        "vibe-coding",
+        "vite",
+        "vite-plus"
+      ],
+      "created_at": "2026-10-04T02:36:55Z",
+      "updated_at": "2026-10-10T16:01:43Z",
+      "pushed_at": "2026-10-10T11:49:34Z"
+    },
+    {
+      "id": 1410815894,
+      "name": "autonomous-pentest-agent",
+      "full_name": "kutukam/autonomous-pentest-agent",
+      "description": "Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+      "html_url": "https://github.com/kutukam/autonomous-pentest-agent",
+      "homepage": null,
+      "stars": 97,
+      "forks": 230,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-08T18:47:12Z",
+      "updated_at": "2026-10-10T16:14:49Z",
+      "pushed_at": "2026-10-09T05:07:24Z"
+    },
+    {
       "id": 1386267511,
       "name": "0audit.com",
       "full_name": "defitier-sdk/0audit.com",
@@ -2773,25 +2880,38 @@
       "pushed_at": "2026-09-18T21:16:11Z"
     },
     {
-      "id": 1406041130,
-      "name": "softlab",
-      "full_name": "deity6/softlab",
-      "description": "SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.",
-      "html_url": "https://github.com/deity6/softlab",
-      "homepage": "https://doit.loc.cc/",
+      "id": 1405884090,
+      "name": "iwrzwr-visual-archive",
+      "full_name": "kaganin/iwrzwr-visual-archive",
+      "description": "160+ experimental visualization studies across 25+ categories, built with javascript. explore waveform animations, spectrum-inspired displays, matrix patterns, particle fields, rhythm, memory, and mechanical motion. study the drawing code and adapt the live examples for your own creative-coding projects.",
+      "html_url": "https://github.com/kaganin/iwrzwr-visual-archive",
+      "homepage": "https://www.kagan.in/iwrzwr/visual-archive/",
       "stars": 94,
-      "forks": 0,
-      "language": "TypeScript",
+      "forks": 7,
+      "language": "HTML",
       "topics": [
+        "animation",
+        "audio-visualization",
         "canvas",
-        "interaction-design",
-        "react",
-        "vite",
-        "webgl"
+        "creative-coding",
+        "experimental",
+        "generative-art",
+        "input",
+        "javascript",
+        "motion-design",
+        "music",
+        "music-visualiser",
+        "music-visualizer",
+        "output",
+        "record",
+        "sound",
+        "sound-visualizer",
+        "voice",
+        "waveform"
       ],
-      "created_at": "2026-10-05T16:07:09Z",
-      "updated_at": "2026-10-10T02:47:44Z",
-      "pushed_at": "2026-10-05T16:52:50Z"
+      "created_at": "2026-10-05T14:16:19Z",
+      "updated_at": "2026-10-10T15:05:47Z",
+      "pushed_at": "2026-10-08T14:36:32Z"
     },
     {
       "id": 1377530130,
@@ -2826,40 +2946,6 @@
       "created_at": "2026-09-20T16:39:08Z",
       "updated_at": "2026-09-23T00:41:39Z",
       "pushed_at": "2026-09-23T00:41:36Z"
-    },
-    {
-      "id": 1405884090,
-      "name": "iwrzwr-visual-archive",
-      "full_name": "kaganin/iwrzwr-visual-archive",
-      "description": "160+ experimental visualization studies across 25+ categories, built with javascript. explore waveform animations, spectrum-inspired displays, matrix patterns, particle fields, rhythm, memory, and mechanical motion. study the drawing code and adapt the live examples for your own creative-coding projects.",
-      "html_url": "https://github.com/kaganin/iwrzwr-visual-archive",
-      "homepage": "https://www.kagan.in/iwrzwr/visual-archive/",
-      "stars": 91,
-      "forks": 7,
-      "language": "HTML",
-      "topics": [
-        "animation",
-        "audio-visualization",
-        "canvas",
-        "creative-coding",
-        "experimental",
-        "generative-art",
-        "input",
-        "javascript",
-        "motion-design",
-        "music",
-        "music-visualiser",
-        "music-visualizer",
-        "output",
-        "record",
-        "sound",
-        "sound-visualizer",
-        "voice",
-        "waveform"
-      ],
-      "created_at": "2026-10-05T14:16:19Z",
-      "updated_at": "2026-10-10T01:22:19Z",
-      "pushed_at": "2026-10-08T14:36:32Z"
     },
     {
       "id": 1399057460,
@@ -2965,34 +3051,24 @@
       "pushed_at": "2026-10-03T19:59:55Z"
     },
     {
-      "id": 1403809641,
-      "name": "vibestart",
-      "full_name": "VinkyDev/vibestart",
-      "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
-      "html_url": "https://github.com/VinkyDev/vibestart",
-      "homepage": "https://vibestart.net",
+      "id": 1412679017,
+      "name": "qiaomu-cover-fonts",
+      "full_name": "joeseesun/qiaomu-cover-fonts",
+      "description": "乔木封面设计的默认开源字库：中文与英文 OFL 字体，子集化并附授权 · Default open-licence font library for Qiaomu Cover Design",
+      "html_url": "https://github.com/joeseesun/qiaomu-cover-fonts",
+      "homepage": null,
       "stars": 87,
-      "forks": 2,
-      "language": "TypeScript",
+      "forks": 3,
+      "language": null,
       "topics": [
-        "ai",
-        "ai-coding",
-        "cli",
-        "fullstack",
-        "lint",
-        "react",
-        "shadcn-ui",
-        "skills",
-        "tailwindcss",
-        "tanstack",
-        "typescript",
-        "vibe-coding",
-        "vite",
-        "vite-plus"
+        "chinese-fonts",
+        "fonts",
+        "obsidian",
+        "ofl"
       ],
-      "created_at": "2026-10-04T02:36:55Z",
-      "updated_at": "2026-10-10T02:38:34Z",
-      "pushed_at": "2026-10-10T02:38:30Z"
+      "created_at": "2026-10-10T02:48:39Z",
+      "updated_at": "2026-10-10T16:16:35Z",
+      "pushed_at": "2026-10-10T03:10:04Z"
     },
     {
       "id": 1407351931,
@@ -3315,6 +3391,42 @@
       "pushed_at": "2026-10-04T16:51:12Z"
     },
     {
+      "id": 1404374196,
+      "name": "dsh-sieve",
+      "full_name": "Sev7eEn7/dsh-sieve",
+      "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+      "html_url": "https://github.com/Sev7eEn7/dsh-sieve",
+      "homepage": "https://www.npmjs.com/package/dsh-sieve",
+      "stars": 71,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [
+        "agent-tools",
+        "ai-agent",
+        "ai-coding",
+        "coding-agent",
+        "context-engineering",
+        "context-management",
+        "context-pruning",
+        "context-window",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "llm-agent",
+        "llm-cost",
+        "prompt-compression",
+        "token-efficiency",
+        "token-optimization",
+        "tool-output",
+        "typescript"
+      ],
+      "created_at": "2026-10-04T12:30:42Z",
+      "updated_at": "2026-10-10T15:51:56Z",
+      "pushed_at": "2026-10-10T07:10:36Z"
+    },
+    {
       "id": 1392901645,
       "name": "Simple-WAM",
       "full_name": "LeapLabTHU/Simple-WAM",
@@ -3576,42 +3688,6 @@
       "pushed_at": "2026-09-26T13:37:48Z"
     },
     {
-      "id": 1404374196,
-      "name": "dsh-sieve",
-      "full_name": "Sev7eEn7/dsh-sieve",
-      "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
-      "html_url": "https://github.com/Sev7eEn7/dsh-sieve",
-      "homepage": "https://www.npmjs.com/package/dsh-sieve",
-      "stars": 63,
-      "forks": 3,
-      "language": "TypeScript",
-      "topics": [
-        "agent-tools",
-        "ai-agent",
-        "ai-coding",
-        "coding-agent",
-        "context-engineering",
-        "context-management",
-        "context-pruning",
-        "context-window",
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm",
-        "llm-agent",
-        "llm-cost",
-        "prompt-compression",
-        "token-efficiency",
-        "token-optimization",
-        "tool-output",
-        "typescript"
-      ],
-      "created_at": "2026-10-04T12:30:42Z",
-      "updated_at": "2026-10-10T02:16:48Z",
-      "pushed_at": "2026-10-08T09:56:33Z"
-    },
-    {
       "id": 1400269105,
       "name": "WARDOGS-2026-AIMBOT-WALLHACK-",
       "full_name": "Masszumplain17/WARDOGS-2026-AIMBOT-WALLHACK-",
@@ -3760,6 +3836,30 @@
       "pushed_at": "2026-10-02T13:38:08Z"
     },
     {
+      "id": 1406555191,
+      "name": "PSXS5",
+      "full_name": "SynoPiia/PSXS5",
+      "description": "PSXS5 (PlayStation X Super 5): a PlayStation 1 emulator running natively on jailbroken PS5, based on PCSX-ReARMed. Cover-flow shelf, xBR upscaling, RetroAchievements, cheats.",
+      "html_url": "https://github.com/SynoPiia/PSXS5",
+      "homepage": "https://x.com/Synopiia",
+      "stars": 60,
+      "forks": 10,
+      "language": "C",
+      "topics": [
+        "emulator",
+        "etahen",
+        "homebrew",
+        "pcsx-rearmed",
+        "playstation",
+        "ps1",
+        "ps5",
+        "retroachievements"
+      ],
+      "created_at": "2026-10-06T01:28:45Z",
+      "updated_at": "2026-10-10T12:45:19Z",
+      "pushed_at": "2026-10-09T15:41:41Z"
+    },
+    {
       "id": 1386575337,
       "name": "Java-KIT",
       "full_name": "avinash201199/Java-KIT",
@@ -3820,30 +3920,6 @@
       "pushed_at": "2026-10-07T07:09:55Z"
     },
     {
-      "id": 1406555191,
-      "name": "PSXS5",
-      "full_name": "SynoPiia/PSXS5",
-      "description": "PSXS5 (PlayStation X Super 5): a PlayStation 1 emulator running natively on jailbroken PS5, based on PCSX-ReARMed. Cover-flow shelf, xBR upscaling, RetroAchievements, cheats.",
-      "html_url": "https://github.com/SynoPiia/PSXS5",
-      "homepage": "https://x.com/Synopiia",
-      "stars": 59,
-      "forks": 10,
-      "language": "C",
-      "topics": [
-        "emulator",
-        "etahen",
-        "homebrew",
-        "pcsx-rearmed",
-        "playstation",
-        "ps1",
-        "ps5",
-        "retroachievements"
-      ],
-      "created_at": "2026-10-06T01:28:45Z",
-      "updated_at": "2026-10-10T00:32:59Z",
-      "pushed_at": "2026-10-09T15:41:41Z"
-    },
-    {
       "id": 1389512019,
       "name": "plain-backtest",
       "full_name": "Sixian-Li/plain-backtest",
@@ -3872,28 +3948,6 @@
       "created_at": "2026-09-26T06:55:12Z",
       "updated_at": "2026-10-01T16:47:02Z",
       "pushed_at": "2026-09-26T07:49:48Z"
-    },
-    {
-      "id": 1412143785,
-      "name": "robot-heads",
-      "full_name": "fayazara/robot-heads",
-      "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
-      "html_url": "https://github.com/fayazara/robot-heads",
-      "homepage": "https://robot-heads.fayaz.workers.dev",
-      "stars": 57,
-      "forks": 8,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "animation",
-        "avatar",
-        "canvas",
-        "react",
-        "robot"
-      ],
-      "created_at": "2026-10-09T16:28:47Z",
-      "updated_at": "2026-10-10T03:20:36Z",
-      "pushed_at": "2026-10-09T16:38:37Z"
     },
     {
       "id": 1386319785,
@@ -4057,6 +4111,33 @@
       "created_at": "2026-09-28T16:31:49Z",
       "updated_at": "2026-10-04T16:09:03Z",
       "pushed_at": "2026-09-28T16:33:04Z"
+    },
+    {
+      "id": 1404567872,
+      "name": "direct-stream-ps5",
+      "full_name": "ChillQuant/direct-stream-ps5",
+      "description": "High-speed parallel stream engine & local web dashboard for streaming HTTP/HTTPS downloads directly to PlayStation 5 FTP storage. Pure Python standard library, zero pip packages, macOS & Windows.",
+      "html_url": "https://github.com/ChillQuant/direct-stream-ps5",
+      "homepage": "https://github.com/ChillQuant/direct-stream-ps5/releases/tag/v2.8.0",
+      "stars": 55,
+      "forks": 8,
+      "language": "Python",
+      "topics": [
+        "direct-stream",
+        "ftp",
+        "ftp-streamer",
+        "macos",
+        "parallel-download",
+        "playstation-5",
+        "ps5",
+        "python",
+        "web-dashboard",
+        "windows",
+        "zero-dependencies"
+      ],
+      "created_at": "2026-10-04T15:30:20Z",
+      "updated_at": "2026-10-10T15:13:54Z",
+      "pushed_at": "2026-10-10T15:13:51Z"
     },
     {
       "id": 1388409097,
@@ -4266,33 +4347,6 @@
       "created_at": "2026-09-29T03:42:10Z",
       "updated_at": "2026-10-04T19:29:27Z",
       "pushed_at": "2026-09-29T05:16:14Z"
-    },
-    {
-      "id": 1404567872,
-      "name": "direct-stream-ps5",
-      "full_name": "ChillQuant/direct-stream-ps5",
-      "description": "High-speed parallel stream engine & local web dashboard for streaming HTTP/HTTPS downloads directly to PlayStation 5 FTP storage. Pure Python standard library, zero pip packages, macOS & Windows.",
-      "html_url": "https://github.com/ChillQuant/direct-stream-ps5",
-      "homepage": "https://github.com/ChillQuant/direct-stream-ps5/releases/tag/v2.8.0",
-      "stars": 51,
-      "forks": 8,
-      "language": "Python",
-      "topics": [
-        "direct-stream",
-        "ftp",
-        "ftp-streamer",
-        "macos",
-        "parallel-download",
-        "playstation-5",
-        "ps5",
-        "python",
-        "web-dashboard",
-        "windows",
-        "zero-dependencies"
-      ],
-      "created_at": "2026-10-04T15:30:20Z",
-      "updated_at": "2026-10-10T02:19:43Z",
-      "pushed_at": "2026-10-09T15:43:07Z"
     },
     {
       "id": 1393286718,
@@ -4516,6 +4570,21 @@
       "pushed_at": "2026-10-02T06:27:29Z"
     },
     {
+      "id": 1409087866,
+      "name": "freecenter",
+      "full_name": "fdaforno/freecenter",
+      "description": "A vCenter-style management console for the free VMware ESXi hypervisor: web UI, REST API, migration between hosts, backups, Terraform provider",
+      "html_url": "https://github.com/fdaforno/freecenter",
+      "homepage": null,
+      "stars": 47,
+      "forks": 16,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-07T16:35:58Z",
+      "updated_at": "2026-10-10T11:45:27Z",
+      "pushed_at": "2026-10-09T07:33:25Z"
+    },
+    {
       "id": 1376688549,
       "name": "weilanx-cover-skill",
       "full_name": "Azure12355/weilanx-cover-skill",
@@ -4626,21 +4695,6 @@
       "pushed_at": "2026-09-30T13:38:19Z"
     },
     {
-      "id": 1409087866,
-      "name": "freecenter",
-      "full_name": "fdaforno/freecenter",
-      "description": "A vCenter-style management console for the free VMware ESXi hypervisor: web UI, REST API, migration between hosts, backups, Terraform provider",
-      "html_url": "https://github.com/fdaforno/freecenter",
-      "homepage": null,
-      "stars": 45,
-      "forks": 14,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-07T16:35:58Z",
-      "updated_at": "2026-10-09T23:04:27Z",
-      "pushed_at": "2026-10-09T07:33:25Z"
-    },
-    {
       "id": 1396899630,
       "name": "gleaner",
       "full_name": "ssssssanjiu/gleaner",
@@ -4662,6 +4716,21 @@
       "created_at": "2026-09-30T03:19:00Z",
       "updated_at": "2026-10-06T17:15:48Z",
       "pushed_at": "2026-09-30T07:56:58Z"
+    },
+    {
+      "id": 1405596068,
+      "name": "kar-plain",
+      "full_name": "Burntgogi/kar-plain",
+      "description": "A compact Codex skill for explanations in Korean or English: prose, diagrams, web pages, and videos.",
+      "html_url": "https://github.com/Burntgogi/kar-plain",
+      "homepage": null,
+      "stars": 44,
+      "forks": 8,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-05T10:55:08Z",
+      "updated_at": "2026-10-10T10:04:55Z",
+      "pushed_at": "2026-10-06T22:03:50Z"
     },
     {
       "id": 1375718495,
@@ -4692,21 +4761,6 @@
       "created_at": "2026-10-05T02:43:38Z",
       "updated_at": "2026-10-06T16:22:54Z",
       "pushed_at": "2026-10-06T02:16:41Z"
-    },
-    {
-      "id": 1405596068,
-      "name": "kar-plain",
-      "full_name": "Burntgogi/kar-plain",
-      "description": "A compact Codex skill for explanations in Korean or English: prose, diagrams, web pages, and videos.",
-      "html_url": "https://github.com/Burntgogi/kar-plain",
-      "homepage": null,
-      "stars": 43,
-      "forks": 8,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-05T10:55:08Z",
-      "updated_at": "2026-10-08T02:23:00Z",
-      "pushed_at": "2026-10-06T22:03:50Z"
     },
     {
       "id": 1401081055,
@@ -4819,6 +4873,29 @@
       "created_at": "2026-10-09T19:30:14Z",
       "updated_at": "2026-10-09T23:05:25Z",
       "pushed_at": "2026-10-09T20:00:33Z"
+    },
+    {
+      "id": 1405353782,
+      "name": "universal-content-intake",
+      "full_name": "YIAN6557/universal-content-intake",
+      "description": "One-link downloader for the Mac (videos, documents, images, articles, web pages), with optional automatic YouTube monitoring that translates and subtitles new videos.",
+      "html_url": "https://github.com/YIAN6557/universal-content-intake",
+      "homepage": null,
+      "stars": 42,
+      "forks": 10,
+      "language": "Python",
+      "topics": [
+        "downloader",
+        "google-apps-script",
+        "macos",
+        "subtitles",
+        "whisper",
+        "youtube",
+        "yt-dlp"
+      ],
+      "created_at": "2026-10-05T07:45:07Z",
+      "updated_at": "2026-10-10T12:50:58Z",
+      "pushed_at": "2026-10-09T05:18:56Z"
     },
     {
       "id": 1377057562,
@@ -4938,29 +5015,6 @@
       "pushed_at": "2026-09-19T12:16:43Z"
     },
     {
-      "id": 1405353782,
-      "name": "universal-content-intake",
-      "full_name": "YIAN6557/universal-content-intake",
-      "description": "One-link downloader for the Mac (videos, documents, images, articles, web pages), with optional automatic YouTube monitoring that translates and subtitles new videos.",
-      "html_url": "https://github.com/YIAN6557/universal-content-intake",
-      "homepage": null,
-      "stars": 40,
-      "forks": 8,
-      "language": "Python",
-      "topics": [
-        "downloader",
-        "google-apps-script",
-        "macos",
-        "subtitles",
-        "whisper",
-        "youtube",
-        "yt-dlp"
-      ],
-      "created_at": "2026-10-05T07:45:07Z",
-      "updated_at": "2026-10-10T02:21:37Z",
-      "pushed_at": "2026-10-09T05:18:56Z"
-    },
-    {
       "id": 1396835637,
       "name": "website-playbook",
       "full_name": "7-an/website-playbook",
@@ -5000,8 +5054,8 @@
         "ui-components"
       ],
       "created_at": "2026-10-05T16:13:50Z",
-      "updated_at": "2026-10-08T13:47:37Z",
-      "pushed_at": "2026-10-08T07:29:19Z"
+      "updated_at": "2026-10-10T11:35:43Z",
+      "pushed_at": "2026-10-10T11:35:39Z"
     },
     {
       "id": 1382790500,
@@ -5258,6 +5312,28 @@
       "pushed_at": "2026-10-08T06:27:03Z"
     },
     {
+      "id": 1404734276,
+      "name": "karta",
+      "full_name": "osergios/karta",
+      "description": "Ψηφιακή κάρτα εργασίας για το ΕΡΓΑΝΗ · Digital work card for Ergani",
+      "html_url": "https://github.com/osergios/karta",
+      "homepage": "https://github.com/osergios/karta/wiki",
+      "stars": 33,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "ergani",
+        "fastapi",
+        "greece",
+        "self-hosted",
+        "time-tracking",
+        "work-card"
+      ],
+      "created_at": "2026-10-04T18:43:25Z",
+      "updated_at": "2026-10-10T15:36:14Z",
+      "pushed_at": "2026-10-10T07:13:48Z"
+    },
+    {
       "id": 1386746644,
       "name": "BWM-Technical-Reference-Guide",
       "full_name": "valleytechsolutions/BWM-Technical-Reference-Guide",
@@ -5361,28 +5437,6 @@
       "created_at": "2026-10-01T18:03:59Z",
       "updated_at": "2026-10-07T00:19:50Z",
       "pushed_at": "2026-10-01T18:04:05Z"
-    },
-    {
-      "id": 1404734276,
-      "name": "karta",
-      "full_name": "osergios/karta",
-      "description": "Ψηφιακή κάρτα εργασίας για το ΕΡΓΑΝΗ · Digital work card for Ergani",
-      "html_url": "https://github.com/osergios/karta",
-      "homepage": "https://github.com/osergios/karta/wiki",
-      "stars": 31,
-      "forks": 2,
-      "language": "Python",
-      "topics": [
-        "ergani",
-        "fastapi",
-        "greece",
-        "self-hosted",
-        "time-tracking",
-        "work-card"
-      ],
-      "created_at": "2026-10-04T18:43:25Z",
-      "updated_at": "2026-10-09T13:59:55Z",
-      "pushed_at": "2026-10-07T14:51:49Z"
     },
     {
       "id": 1387868633,
@@ -5567,6 +5621,35 @@
       "pushed_at": "2026-10-08T14:15:19Z"
     },
     {
+      "id": 1405570714,
+      "name": "done-is-a-claim",
+      "full_name": "Grit-77/done-is-a-claim",
+      "description": "Evidence-first development workflows for coding agents. 13 connected skills, Claude/Codex plugins, safe updates and verifiable receipts. Show the receipt.",
+      "html_url": "https://github.com/Grit-77/done-is-a-claim",
+      "homepage": "https://grit.grit-77.workers.dev",
+      "stars": 29,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "agent-reliability",
+        "agent-skills",
+        "agents-md",
+        "ai-agents",
+        "claude-code",
+        "claude-md",
+        "claude-skills",
+        "codex",
+        "coding-agents",
+        "llm",
+        "testing",
+        "verification"
+      ],
+      "created_at": "2026-10-05T10:31:35Z",
+      "updated_at": "2026-10-10T14:02:09Z",
+      "pushed_at": "2026-10-10T14:04:28Z"
+    },
+    {
       "id": 1376687962,
       "name": "kisakcod-port",
       "full_name": "slqntdevss/kisakcod-port",
@@ -5674,6 +5757,21 @@
       "created_at": "2026-10-04T04:48:55Z",
       "updated_at": "2026-10-06T15:33:16Z",
       "pushed_at": "2026-10-04T06:32:32Z"
+    },
+    {
+      "id": 1410448867,
+      "name": "cirfig_gen",
+      "full_name": "KwantaeKim/cirfig_gen",
+      "description": "AI-driven analog circuit figure generator. Ask Claude Code or Codex for a circuit and get one SVG at final size.",
+      "html_url": "https://github.com/KwantaeKim/cirfig_gen",
+      "homepage": null,
+      "stars": 27,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-08T14:07:54Z",
+      "updated_at": "2026-10-10T15:38:57Z",
+      "pushed_at": "2026-10-09T15:41:04Z"
     },
     {
       "id": 1387743071,
@@ -5848,21 +5946,6 @@
       "pushed_at": "2026-09-27T16:51:40Z"
     },
     {
-      "id": 1410448867,
-      "name": "cirfig_gen",
-      "full_name": "KwantaeKim/cirfig_gen",
-      "description": "AI-driven analog circuit figure generator. Ask Claude Code or Codex for a circuit and get one SVG at final size.",
-      "html_url": "https://github.com/KwantaeKim/cirfig_gen",
-      "homepage": null,
-      "stars": 24,
-      "forks": 1,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-08T14:07:54Z",
-      "updated_at": "2026-10-10T02:16:32Z",
-      "pushed_at": "2026-10-09T15:41:04Z"
-    },
-    {
       "id": 1378959833,
       "name": "jev-design-test",
       "full_name": "bhaiG-de/jev-design-test",
@@ -5906,6 +5989,21 @@
       "created_at": "2026-09-26T13:03:43Z",
       "updated_at": "2026-10-02T20:31:31Z",
       "pushed_at": "2026-09-26T13:30:37Z"
+    },
+    {
+      "id": 1409300261,
+      "name": "cardlane",
+      "full_name": "Cryptoxiaoxiang/cardlane",
+      "description": "Bilingual gift card marketplace with encrypted delivery, onchain escrow, 24-hour appeal replies and 48-hour settlement on Base Sepolia.",
+      "html_url": "https://github.com/Cryptoxiaoxiang/cardlane",
+      "homepage": null,
+      "stars": 23,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-07T19:47:13Z",
+      "updated_at": "2026-10-10T09:24:41Z",
+      "pushed_at": "2026-10-07T20:26:31Z"
     },
     {
       "id": 1401877870,
@@ -5955,6 +6053,30 @@
       "created_at": "2026-10-02T01:49:52Z",
       "updated_at": "2026-10-08T17:15:48Z",
       "pushed_at": "2026-10-08T17:15:42Z"
+    },
+    {
+      "id": 1408565264,
+      "name": "open-annie",
+      "full_name": "rehan-remade/open-annie",
+      "description": "A voice-driven 3D character in the browser. The model that talks is not the model that moves: GPT-Live-1 talks, Jev moves her, three.js + VRM render her, a thin broker runs on fal.",
+      "html_url": "https://github.com/rehan-remade/open-annie",
+      "homepage": null,
+      "stars": 22,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "avatar",
+        "fal",
+        "lipsync",
+        "realtime",
+        "three-vrm",
+        "threejs",
+        "voice-ai",
+        "vrm"
+      ],
+      "created_at": "2026-10-07T09:41:08Z",
+      "updated_at": "2026-10-10T13:54:41Z",
+      "pushed_at": "2026-10-07T10:04:49Z"
     },
     {
       "id": 1394505594,
@@ -6030,21 +6152,6 @@
       "created_at": "2026-10-02T00:35:59Z",
       "updated_at": "2026-10-08T17:13:44Z",
       "pushed_at": "2026-10-08T17:13:39Z"
-    },
-    {
-      "id": 1409300261,
-      "name": "cardlane",
-      "full_name": "Cryptoxiaoxiang/cardlane",
-      "description": "Bilingual gift card marketplace with encrypted delivery, onchain escrow, 24-hour appeal replies and 48-hour settlement on Base Sepolia.",
-      "html_url": "https://github.com/Cryptoxiaoxiang/cardlane",
-      "homepage": null,
-      "stars": 21,
-      "forks": 1,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-07T19:47:13Z",
-      "updated_at": "2026-10-09T21:22:02Z",
-      "pushed_at": "2026-10-07T20:26:31Z"
     },
     {
       "id": 1402658180,
@@ -6183,6 +6290,27 @@
       "created_at": "2026-10-08T00:16:27Z",
       "updated_at": "2026-10-09T23:27:18Z",
       "pushed_at": "2026-10-09T23:27:16Z"
+    },
+    {
+      "id": 1408158211,
+      "name": "mupen64plus-ps5",
+      "full_name": "TheRealRetro/mupen64plus-ps5",
+      "description": "Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates",
+      "html_url": "https://github.com/TheRealRetro/mupen64plus-ps5",
+      "homepage": "https://raaproductions.ca/ps5",
+      "stars": 18,
+      "forks": 1,
+      "language": "C",
+      "topics": [
+        "emulator",
+        "mupen64plus",
+        "n64",
+        "ps5",
+        "ps5-homebrew"
+      ],
+      "created_at": "2026-10-07T02:51:00Z",
+      "updated_at": "2026-10-10T15:25:06Z",
+      "pushed_at": "2026-10-09T20:08:23Z"
     },
     {
       "id": 1386745578,
@@ -6343,51 +6471,6 @@
       "pushed_at": "2026-10-04T21:37:55Z"
     },
     {
-      "id": 1408158211,
-      "name": "mupen64plus-ps5",
-      "full_name": "TheRealRetro/mupen64plus-ps5",
-      "description": "Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates",
-      "html_url": "https://github.com/TheRealRetro/mupen64plus-ps5",
-      "homepage": "https://raaproductions.ca/ps5",
-      "stars": 16,
-      "forks": 1,
-      "language": "C",
-      "topics": [
-        "emulator",
-        "mupen64plus",
-        "n64",
-        "ps5",
-        "ps5-homebrew"
-      ],
-      "created_at": "2026-10-07T02:51:00Z",
-      "updated_at": "2026-10-09T23:40:50Z",
-      "pushed_at": "2026-10-09T20:08:23Z"
-    },
-    {
-      "id": 1408565264,
-      "name": "open-annie",
-      "full_name": "rehan-remade/open-annie",
-      "description": "A voice-driven 3D character in the browser. The model that talks is not the model that moves: GPT-Live-1 talks, Jev moves her, three.js + VRM render her, a thin broker runs on fal.",
-      "html_url": "https://github.com/rehan-remade/open-annie",
-      "homepage": null,
-      "stars": 16,
-      "forks": 7,
-      "language": "Python",
-      "topics": [
-        "avatar",
-        "fal",
-        "lipsync",
-        "realtime",
-        "three-vrm",
-        "threejs",
-        "voice-ai",
-        "vrm"
-      ],
-      "created_at": "2026-10-07T09:41:08Z",
-      "updated_at": "2026-10-10T02:38:29Z",
-      "pushed_at": "2026-10-07T10:04:49Z"
-    },
-    {
       "id": 1378545590,
       "name": "Yvette",
       "full_name": "MartinForsterNL/Yvette",
@@ -6495,6 +6578,29 @@
       "created_at": "2026-10-06T03:29:30Z",
       "updated_at": "2026-10-09T23:33:42Z",
       "pushed_at": "2026-10-09T23:33:38Z"
+    },
+    {
+      "id": 1408966931,
+      "name": "qiaomu-cover-design",
+      "full_name": "joeseesun/qiaomu-cover-design",
+      "description": "在 Obsidian 中把笔记做成可编辑封面与海报：AI 排版、生图改图、图库、绘制与导出 | Editable covers and posters in Obsidian, with AI layouts, image tools and export.",
+      "html_url": "https://github.com/joeseesun/qiaomu-cover-design",
+      "homepage": "https://github.com/joeseesun/qiaomu-cover-design#readme",
+      "stars": 15,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [
+        "ai-image-generation",
+        "cover-design",
+        "fabricjs",
+        "image-editor",
+        "local-first",
+        "obsidian-plugin",
+        "poster-design"
+      ],
+      "created_at": "2026-10-07T14:57:05Z",
+      "updated_at": "2026-10-10T16:25:40Z",
+      "pushed_at": "2026-10-10T16:25:35Z"
     },
     {
       "id": 1379723846,
