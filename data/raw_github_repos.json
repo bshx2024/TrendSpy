@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/15 00:10:26",
-  "total_repos": 413,
+  "fetched_at": "2026/10/15 23:58:28",
+  "total_repos": 425,
   "repos": [
     {
       "id": 1402525166,
@@ -135,6 +135,42 @@
       "pushed_at": "2026-10-08T18:07:45Z"
     },
     {
+      "id": 1412022658,
+      "name": "awesome-reverse-engineering",
+      "full_name": "morluto/awesome-reverse-engineering",
+      "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+      "html_url": "https://github.com/morluto/awesome-reverse-engineering",
+      "homepage": null,
+      "stars": 545,
+      "forks": 117,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "binary-analysis",
+        "ctf",
+        "cybersecurity",
+        "debugging",
+        "decompiler",
+        "disassembler",
+        "dynamic-analysis",
+        "firmware",
+        "frida",
+        "ghidra",
+        "malware-analysis",
+        "mcp",
+        "reverse-engineering",
+        "security",
+        "security-tools",
+        "static-analysis"
+      ],
+      "created_at": "2026-10-09T14:58:20Z",
+      "updated_at": "2026-10-15T15:48:25Z",
+      "pushed_at": "2026-10-15T02:18:56Z"
+    },
+    {
       "id": 1377938409,
       "name": "minecraft-agent",
       "full_name": "rmalde/minecraft-agent",
@@ -248,42 +284,6 @@
       "created_at": "2026-10-06T22:55:13Z",
       "updated_at": "2026-10-12T03:07:34Z",
       "pushed_at": "2026-10-12T01:15:52Z"
-    },
-    {
-      "id": 1412022658,
-      "name": "awesome-reverse-engineering",
-      "full_name": "morluto/awesome-reverse-engineering",
-      "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-      "html_url": "https://github.com/morluto/awesome-reverse-engineering",
-      "homepage": null,
-      "stars": 484,
-      "forks": 93,
-      "language": null,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "awesome",
-        "awesome-list",
-        "binary-analysis",
-        "ctf",
-        "cybersecurity",
-        "debugging",
-        "decompiler",
-        "disassembler",
-        "dynamic-analysis",
-        "firmware",
-        "frida",
-        "ghidra",
-        "malware-analysis",
-        "mcp",
-        "reverse-engineering",
-        "security",
-        "security-tools",
-        "static-analysis"
-      ],
-      "created_at": "2026-10-09T14:58:20Z",
-      "updated_at": "2026-10-14T16:09:40Z",
-      "pushed_at": "2026-10-13T14:28:00Z"
     },
     {
       "id": 1415910250,
@@ -636,6 +636,30 @@
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
+      "id": 1417843932,
+      "name": "solana-classic",
+      "full_name": "solana-classic/solana-classic",
+      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "html_url": "https://github.com/solana-classic/solana-classic",
+      "homepage": "https://solanaclassic.net",
+      "stars": 383,
+      "forks": 56,
+      "language": "Rust",
+      "topics": [
+        "agave",
+        "blockchain",
+        "memecoins",
+        "nft",
+        "open-source",
+        "solana",
+        "svm",
+        "testnet"
+      ],
+      "created_at": "2026-10-13T19:35:48Z",
+      "updated_at": "2026-10-15T15:39:08Z",
+      "pushed_at": "2026-10-15T15:49:05Z"
+    },
+    {
       "id": 1406514405,
       "name": "liquid-glass",
       "full_name": "Glass-HQ/liquid-glass",
@@ -753,8 +777,8 @@
       "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
       "html_url": "https://github.com/fayazara/robot-heads",
       "homepage": "https://robot-heads.fayaz.workers.dev",
-      "stars": 325,
-      "forks": 52,
+      "stars": 337,
+      "forks": 54,
       "language": "TypeScript",
       "topics": [
         "ai-agents",
@@ -765,7 +789,7 @@
         "robot"
       ],
       "created_at": "2026-10-09T16:28:47Z",
-      "updated_at": "2026-10-14T15:31:27Z",
+      "updated_at": "2026-10-15T12:29:39Z",
       "pushed_at": "2026-10-10T05:18:23Z"
     },
     {
@@ -937,8 +961,8 @@
       "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
       "html_url": "https://github.com/egotoadcitadel/palette-from-image-ai",
       "homepage": null,
-      "stars": 303,
-      "forks": 78,
+      "stars": 300,
+      "forks": 75,
       "language": "Python",
       "topics": [
         "ai-color-extraction",
@@ -962,7 +986,7 @@
         "windows"
       ],
       "created_at": "2026-10-13T17:08:53Z",
-      "updated_at": "2026-10-14T01:17:58Z",
+      "updated_at": "2026-10-15T11:00:07Z",
       "pushed_at": "2026-10-13T17:10:50Z"
     },
     {
@@ -1039,30 +1063,6 @@
       "pushed_at": "2026-10-09T13:48:43Z"
     },
     {
-      "id": 1417843932,
-      "name": "solana-classic",
-      "full_name": "solana-classic/solana-classic",
-      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-      "html_url": "https://github.com/solana-classic/solana-classic",
-      "homepage": "https://solanaclassic.net",
-      "stars": 279,
-      "forks": 60,
-      "language": "Rust",
-      "topics": [
-        "agave",
-        "blockchain",
-        "memecoins",
-        "nft",
-        "open-source",
-        "solana",
-        "svm",
-        "testnet"
-      ],
-      "created_at": "2026-10-13T19:35:48Z",
-      "updated_at": "2026-10-14T16:10:09Z",
-      "pushed_at": "2026-10-14T15:39:48Z"
-    },
-    {
       "id": 1375594818,
       "name": "desktop-habitats",
       "full_name": "chaseleantj/desktop-habitats",
@@ -1123,37 +1123,13 @@
       "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
-      "id": 1396738941,
-      "name": "dioramas",
-      "full_name": "blendi-remade/dioramas",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "html_url": "https://github.com/blendi-remade/dioramas",
-      "homepage": null,
-      "stars": 229,
-      "forks": 25,
-      "language": "JavaScript",
-      "topics": [
-        "3d",
-        "creative-coding",
-        "fal",
-        "generative-ai",
-        "landing-page",
-        "meshy",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-06T02:27:42Z",
-      "pushed_at": "2026-09-30T00:10:22Z"
-    },
-    {
       "id": 1411335875,
       "name": "scam-with-your-friends-web",
       "full_name": "mrzh7/scam-with-your-friends-web",
       "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
       "html_url": "https://github.com/mrzh7/scam-with-your-friends-web",
       "homepage": "https://scam.gamefun.world",
-      "stars": 228,
+      "stars": 231,
       "forks": 19,
       "language": "TypeScript",
       "topics": [
@@ -1179,8 +1155,58 @@
         "webrtc"
       ],
       "created_at": "2026-10-09T05:27:48Z",
-      "updated_at": "2026-10-13T21:14:47Z",
+      "updated_at": "2026-10-15T02:51:05Z",
       "pushed_at": "2026-10-12T22:04:00Z"
+    },
+    {
+      "id": 1396738941,
+      "name": "dioramas",
+      "full_name": "blendi-remade/dioramas",
+      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "html_url": "https://github.com/blendi-remade/dioramas",
+      "homepage": null,
+      "stars": 229,
+      "forks": 25,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "creative-coding",
+        "fal",
+        "generative-ai",
+        "landing-page",
+        "meshy",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-09-30T00:07:56Z",
+      "updated_at": "2026-10-06T02:27:42Z",
+      "pushed_at": "2026-09-30T00:10:22Z"
+    },
+    {
+      "id": 1416220570,
+      "name": "machine-skill",
+      "full_name": "AirsupHQ/machine-skill",
+      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "html_url": "https://github.com/AirsupHQ/machine-skill",
+      "homepage": "https://airsup.ai/lab/skill",
+      "stars": 222,
+      "forks": 21,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-skill",
+        "cutaway",
+        "engineering",
+        "physics",
+        "simulation",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-10-12T23:10:01Z",
+      "updated_at": "2026-10-15T15:47:13Z",
+      "pushed_at": "2026-10-13T16:21:53Z"
     },
     {
       "id": 1390509008,
@@ -1325,6 +1351,21 @@
       "created_at": "2026-10-05T04:26:14Z",
       "updated_at": "2026-10-11T16:45:45Z",
       "pushed_at": "2026-10-09T08:08:45Z"
+    },
+    {
+      "id": 1414415721,
+      "name": "xrevive",
+      "full_name": "Teraflopping/xrevive",
+      "description": "Desktop launcher for Xrecomp games with xb.live online services",
+      "html_url": "https://github.com/Teraflopping/xrevive",
+      "homepage": "https://teraflopping.github.io/xrevive/",
+      "stars": 205,
+      "forks": 4,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-11T14:17:34Z",
+      "updated_at": "2026-10-15T15:23:33Z",
+      "pushed_at": "2026-10-15T15:13:43Z"
     },
     {
       "id": 1376284519,
@@ -1550,6 +1591,42 @@
       "pushed_at": "2026-10-09T13:46:33Z"
     },
     {
+      "id": 1418226869,
+      "name": "claudemy",
+      "full_name": "assafkip/claudemy",
+      "description": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
+      "html_url": "https://github.com/assafkip/claudemy",
+      "homepage": null,
+      "stars": 197,
+      "forks": 25,
+      "language": "Python",
+      "topics": [
+        "ai-course-generator",
+        "ai-education",
+        "anthropic",
+        "audio-lessons",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "course-generator",
+        "coursera-alternative",
+        "edtech",
+        "education",
+        "elevenlabs",
+        "learn-anything",
+        "microlearning",
+        "online-learning",
+        "podcast",
+        "self-learning",
+        "text-to-speech",
+        "udemy-alternative"
+      ],
+      "created_at": "2026-10-14T01:49:12Z",
+      "updated_at": "2026-10-15T15:52:22Z",
+      "pushed_at": "2026-10-14T17:21:32Z"
+    },
+    {
       "id": 1380797051,
       "name": "threejs-architecture-effects",
       "full_name": "lhlGitHub/threejs-architecture-effects",
@@ -1612,32 +1689,6 @@
       "created_at": "2026-10-08T07:09:25Z",
       "updated_at": "2026-10-11T02:54:19Z",
       "pushed_at": "2026-10-10T11:38:52Z"
-    },
-    {
-      "id": 1416220570,
-      "name": "machine-skill",
-      "full_name": "AirsupHQ/machine-skill",
-      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
-      "html_url": "https://github.com/AirsupHQ/machine-skill",
-      "homepage": "https://airsup.ai/lab/skill",
-      "stars": 190,
-      "forks": 19,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "claude",
-        "claude-code",
-        "claude-skill",
-        "cutaway",
-        "engineering",
-        "physics",
-        "simulation",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-10-12T23:10:01Z",
-      "updated_at": "2026-10-14T16:08:37Z",
-      "pushed_at": "2026-10-13T16:21:53Z"
     },
     {
       "id": 1375641268,
@@ -1745,6 +1796,50 @@
       "pushed_at": "2026-10-12T17:23:39Z"
     },
     {
+      "id": 1416989474,
+      "name": "wallet-core-web",
+      "full_name": "zehraakar424-lgtm/wallet-core-web",
+      "description": "",
+      "html_url": "https://github.com/zehraakar424-lgtm/wallet-core-web",
+      "homepage": null,
+      "stars": 170,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-13T12:20:04Z",
+      "updated_at": "2026-10-15T15:36:55Z",
+      "pushed_at": "2026-10-13T12:50:13Z"
+    },
+    {
+      "id": 1412301770,
+      "name": "datasets",
+      "full_name": "toddrjones/datasets",
+      "description": "A compilation of 100+ free datasets for use in social science, applied microeconomics, data visualization, etc.",
+      "html_url": "https://github.com/toddrjones/datasets",
+      "homepage": null,
+      "stars": 168,
+      "forks": 28,
+      "language": null,
+      "topics": [
+        "applied-microeconomics",
+        "data",
+        "data-visualization",
+        "dataset",
+        "demographics-data",
+        "economics",
+        "economics-data",
+        "free-data",
+        "free-datasets",
+        "open-data",
+        "public-data",
+        "social-science-data",
+        "social-sciences-data"
+      ],
+      "created_at": "2026-10-09T18:38:36Z",
+      "updated_at": "2026-10-15T15:49:38Z",
+      "pushed_at": "2026-10-15T15:22:09Z"
+    },
+    {
       "id": 1379117882,
       "name": "ai-manager",
       "full_name": "OnlistTeam/ai-manager",
@@ -1838,21 +1933,6 @@
       "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
-      "id": 1414415721,
-      "name": "xrevive",
-      "full_name": "Teraflopping/xrevive",
-      "description": "Desktop launcher for Xrecomp games with xb.live online services",
-      "html_url": "https://github.com/Teraflopping/xrevive",
-      "homepage": "https://teraflopping.github.io/xrevive/",
-      "stars": 159,
-      "forks": 3,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-11T14:17:34Z",
-      "updated_at": "2026-10-14T15:37:57Z",
-      "pushed_at": "2026-10-14T06:06:22Z"
-    },
-    {
       "id": 1400877599,
       "name": "ArkWeb",
       "full_name": "luki-1/ArkWeb",
@@ -1904,6 +1984,54 @@
       "pushed_at": "2026-09-23T10:48:10Z"
     },
     {
+      "id": 1416828644,
+      "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "html_url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "homepage": null,
+      "stars": 153,
+      "forks": 173,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "cross-border-ecommerce",
+        "ecommerce",
+        "llm",
+        "mercado-livre",
+        "prompt-engineering",
+        "shopee",
+        "sop",
+        "workflow-automation"
+      ],
+      "created_at": "2026-10-13T10:13:21Z",
+      "updated_at": "2026-10-15T15:56:48Z",
+      "pushed_at": "2026-10-14T23:38:21Z"
+    },
+    {
+      "id": 1414287839,
+      "name": "anima",
+      "full_name": "Garinmckayl/anima",
+      "description": "Anima: a Claude Code skill that turns a biology idea into an interactive, sourced, isometric figure. Dopamine receptors, stimulants, addiction circuits, semaglutide.",
+      "html_url": "https://github.com/Garinmckayl/anima",
+      "homepage": "https://anima.arcumet.com",
+      "stars": 147,
+      "forks": 14,
+      "language": "JavaScript",
+      "topics": [
+        "biology",
+        "claude-code",
+        "claude-skill",
+        "data-visualization",
+        "neuroscience",
+        "pharmacology",
+        "svg"
+      ],
+      "created_at": "2026-10-11T11:54:57Z",
+      "updated_at": "2026-10-15T15:44:57Z",
+      "pushed_at": "2026-10-14T14:07:08Z"
+    },
+    {
       "id": 1410815894,
       "name": "autonomous-pentest-agent",
       "full_name": "kutukam/autonomous-pentest-agent",
@@ -1917,6 +2045,21 @@
       "created_at": "2026-10-08T18:47:12Z",
       "updated_at": "2026-10-14T10:55:20Z",
       "pushed_at": "2026-10-09T05:07:24Z"
+    },
+    {
+      "id": 1415436686,
+      "name": "ssbu-recomp",
+      "full_name": "Denkishi/ssbu-recomp",
+      "description": "Static recompilation of Super Smash Bros. Ultimate 13.0.4 to a native Windows program: tools and runtime only, bring your own dump",
+      "html_url": "https://github.com/Denkishi/ssbu-recomp",
+      "homepage": null,
+      "stars": 143,
+      "forks": 17,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-12T10:30:45Z",
+      "updated_at": "2026-10-15T15:55:42Z",
+      "pushed_at": "2026-10-12T23:13:48Z"
     },
     {
       "id": 1403810477,
@@ -2022,6 +2165,31 @@
       "created_at": "2026-09-28T05:00:45Z",
       "updated_at": "2026-10-04T15:01:02Z",
       "pushed_at": "2026-09-28T05:04:35Z"
+    },
+    {
+      "id": 1413230318,
+      "name": "ForzaHorizon1-ReImagined",
+      "full_name": "Dyotson/ForzaHorizon1-ReImagined",
+      "description": "Forza Horizon (Xbox 360) natively on PC, rebuilt around the modern Horizon experience: shared online free roam, leaderboards and rivals, 120/144 fps, and a self-hostable online server.",
+      "html_url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined",
+      "homepage": "http://forza.dyotson.dev/",
+      "stars": 139,
+      "forks": 5,
+      "language": "Python",
+      "topics": [
+        "decompilation",
+        "forza",
+        "forza-horizon",
+        "game-preservation",
+        "reverse-engineering",
+        "rexglue",
+        "static-recompilation",
+        "xbox-360",
+        "xbox360"
+      ],
+      "created_at": "2026-10-10T13:37:16Z",
+      "updated_at": "2026-10-15T15:29:27Z",
+      "pushed_at": "2026-10-15T15:43:44Z"
     },
     {
       "id": 1410111943,
@@ -2150,21 +2318,6 @@
       "pushed_at": "2026-10-09T10:13:23Z"
     },
     {
-      "id": 1416989474,
-      "name": "wallet-core-web",
-      "full_name": "zehraakar424-lgtm/wallet-core-web",
-      "description": "",
-      "html_url": "https://github.com/zehraakar424-lgtm/wallet-core-web",
-      "homepage": null,
-      "stars": 130,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-13T12:20:04Z",
-      "updated_at": "2026-10-14T16:08:27Z",
-      "pushed_at": "2026-10-13T12:50:13Z"
-    },
-    {
       "id": 1385750356,
       "name": "paperclip-guide",
       "full_name": "theNetworkChuck/paperclip-guide",
@@ -2267,6 +2420,51 @@
       "pushed_at": "2026-10-08T23:43:30Z"
     },
     {
+      "id": 1415164610,
+      "name": "robosimstudio",
+      "full_name": "robosimstudio/robosimstudio",
+      "description": "An open interactive toolkit that accelerates human and agentic physics-based Real2Sim of Robot Manipulation Tasks",
+      "html_url": "https://github.com/robosimstudio/robosimstudio",
+      "homepage": null,
+      "stars": 121,
+      "forks": 6,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T06:22:39Z",
+      "updated_at": "2026-10-15T15:09:46Z",
+      "pushed_at": "2026-10-14T05:02:34Z"
+    },
+    {
+      "id": 1417978332,
+      "name": "hwid-spoofer-toolkit",
+      "full_name": "GladiatorSplit/hwid-spoofer-toolkit",
+      "description": "Windows HWID spoofer configurator for PC users — reset hardware fingerprint identifiers from a local GUI, no subscription, open access.",
+      "html_url": "https://github.com/GladiatorSplit/hwid-spoofer-toolkit",
+      "homepage": null,
+      "stars": 120,
+      "forks": 14,
+      "language": "Python",
+      "topics": [
+        "cli",
+        "desktop-app",
+        "device-fingerprint",
+        "gui",
+        "hardware-fingerprint",
+        "hwid-spoofer-toolkit",
+        "machine-guid",
+        "pentest-tooling",
+        "privacy-tool",
+        "registry-cleaner",
+        "spoofer-toolkit",
+        "system-fingerprint",
+        "system-identity",
+        "windows"
+      ],
+      "created_at": "2026-10-13T20:54:30Z",
+      "updated_at": "2026-10-15T13:06:24Z",
+      "pushed_at": "2026-10-13T20:56:57Z"
+    },
+    {
       "id": 1408550900,
       "name": "mynah",
       "full_name": "honwee/mynah",
@@ -2291,31 +2489,6 @@
       "created_at": "2026-10-07T09:27:35Z",
       "updated_at": "2026-10-13T15:45:26Z",
       "pushed_at": "2026-10-12T10:11:18Z"
-    },
-    {
-      "id": 1412301770,
-      "name": "datasets",
-      "full_name": "toddrjones/datasets",
-      "description": "A compilation of 100+ free datasets for use in social science, applied microeconomics, data visualization, etc.",
-      "html_url": "https://github.com/toddrjones/datasets",
-      "homepage": null,
-      "stars": 117,
-      "forks": 19,
-      "language": null,
-      "topics": [
-        "applied-microeconomics",
-        "data",
-        "data-visualization",
-        "dataset",
-        "demographics-data",
-        "economics",
-        "open-data",
-        "public-data",
-        "social-sciences-data"
-      ],
-      "created_at": "2026-10-09T18:38:36Z",
-      "updated_at": "2026-10-14T16:07:46Z",
-      "pushed_at": "2026-10-14T15:16:53Z"
     },
     {
       "id": 1412679017,
@@ -2637,6 +2810,23 @@
       "created_at": "2026-10-02T20:04:50Z",
       "updated_at": "2026-10-04T09:54:24Z",
       "pushed_at": "2026-10-02T20:04:56Z"
+    },
+    {
+      "id": 1415636770,
+      "name": "Grand-V",
+      "full_name": "SebasKitten/Grand-V",
+      "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
+      "html_url": "https://github.com/SebasKitten/Grand-V",
+      "homepage": null,
+      "stars": 108,
+      "forks": 14,
+      "language": null,
+      "topics": [
+        "gaming"
+      ],
+      "created_at": "2026-10-12T13:24:03Z",
+      "updated_at": "2026-10-15T14:18:19Z",
+      "pushed_at": "2026-10-13T14:06:53Z"
     },
     {
       "id": 1387850278,
@@ -3058,6 +3248,38 @@
       "pushed_at": "2026-10-05T01:56:08Z"
     },
     {
+      "id": 1414327429,
+      "name": "awesome-iran-mcp",
+      "full_name": "sepehr071/awesome-iran-mcp",
+      "description": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
+      "html_url": "https://github.com/sepehr071/awesome-iran-mcp",
+      "homepage": null,
+      "stars": 102,
+      "forks": 11,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "awesome",
+        "claude",
+        "claude-code-plugin",
+        "digikala",
+        "iran",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "model-context-protocol",
+        "persian",
+        "price-comparison",
+        "snappfood",
+        "unofficial-api"
+      ],
+      "created_at": "2026-10-11T12:42:59Z",
+      "updated_at": "2026-10-15T14:14:24Z",
+      "pushed_at": "2026-10-14T22:01:18Z"
+    },
+    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -3211,19 +3433,53 @@
       "pushed_at": "2026-10-05T16:52:50Z"
     },
     {
-      "id": 1415436686,
-      "name": "ssbu-recomp",
-      "full_name": "Denkishi/ssbu-recomp",
-      "description": "Static recompilation of Super Smash Bros. Ultimate 13.0.4 to a native Windows program: tools and runtime only, bring your own dump",
-      "html_url": "https://github.com/Denkishi/ssbu-recomp",
-      "homepage": null,
+      "id": 1415337709,
+      "name": "lucian-uxui-prompt",
+      "full_name": "Seokwoooo/lucian-uxui-prompt",
+      "description": "200 interactive UI elements you can try live, then copy as an AI prompt or working code. Light/dark, MIT.",
+      "html_url": "https://github.com/Seokwoooo/lucian-uxui-prompt",
+      "homepage": "https://lucianlabs.dev/uxui-prompt/",
       "stars": 100,
-      "forks": 8,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-12T10:30:45Z",
-      "updated_at": "2026-10-14T15:25:57Z",
-      "pushed_at": "2026-10-12T23:13:48Z"
+      "forks": 15,
+      "language": "HTML",
+      "topics": [
+        "ai-coding",
+        "design-system",
+        "html-css-js",
+        "prompt",
+        "ui-components"
+      ],
+      "created_at": "2026-10-12T09:01:47Z",
+      "updated_at": "2026-10-15T15:42:05Z",
+      "pushed_at": "2026-10-12T13:23:25Z"
+    },
+    {
+      "id": 1420803717,
+      "name": "youtube-tiktok-video-manager-downloader",
+      "full_name": "centimotormancavity/youtube-tiktok-video-manager-downloader",
+      "description": "youtube-tiktok-video-manager, video organization, multi-platform sharing, content scheduling, analytics tracking",
+      "html_url": "https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader",
+      "homepage": null,
+      "stars": 99,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "analytics-tools",
+        "content-creation",
+        "content-organization",
+        "cross-platform-sharing",
+        "social-media-integration",
+        "social-media-tools",
+        "tiktok-api",
+        "user-engagement",
+        "video-management",
+        "video-scheduling",
+        "video-uploads",
+        "youtube-api"
+      ],
+      "created_at": "2026-10-15T13:48:38Z",
+      "updated_at": "2026-10-15T14:35:46Z",
+      "pushed_at": "2026-10-15T13:48:51Z"
     },
     {
       "id": 1411921952,
@@ -3446,36 +3702,19 @@
       "pushed_at": "2026-10-08T14:36:32Z"
     },
     {
-      "id": 1414327429,
-      "name": "awesome-iran-mcp",
-      "full_name": "sepehr071/awesome-iran-mcp",
-      "description": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
-      "html_url": "https://github.com/sepehr071/awesome-iran-mcp",
+      "id": 1411630666,
+      "name": "op1r",
+      "full_name": "pcppcp/op1r",
+      "description": "Patches for the original OP1 r246 firmware. New synths, drum, fxs, sequencers. Sample editor, improved tape tools and other cool features & bugfixes. Use at your own risk & have fun.",
+      "html_url": "https://github.com/pcppcp/op1r",
       "homepage": null,
       "stars": 96,
-      "forks": 11,
+      "forks": 6,
       "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "awesome",
-        "claude",
-        "claude-code-plugin",
-        "digikala",
-        "iran",
-        "llm",
-        "mcp",
-        "mcp-server",
-        "mcp-servers",
-        "model-context-protocol",
-        "persian",
-        "price-comparison",
-        "snappfood",
-        "unofficial-api"
-      ],
-      "created_at": "2026-10-11T12:42:59Z",
-      "updated_at": "2026-10-14T15:44:13Z",
-      "pushed_at": "2026-10-13T15:55:23Z"
+      "topics": [],
+      "created_at": "2026-10-09T09:55:03Z",
+      "updated_at": "2026-10-15T14:09:44Z",
+      "pushed_at": "2026-10-15T13:42:26Z"
     },
     {
       "id": 1410924943,
@@ -3571,31 +3810,6 @@
       "pushed_at": "2026-09-23T00:41:36Z"
     },
     {
-      "id": 1412855958,
-      "name": "cross-harness",
-      "full_name": "AI-BizOS/cross-harness",
-      "description": "Open cross-harness protocol with terminal and local web interfaces",
-      "html_url": "https://github.com/AI-BizOS/cross-harness",
-      "homepage": "https://code.bizos-ai.com",
-      "stars": 91,
-      "forks": 3,
-      "language": "JavaScript",
-      "topics": [
-        "acp",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "mcp",
-        "multi-agent",
-        "orchestration",
-        "tui"
-      ],
-      "created_at": "2026-10-10T06:37:06Z",
-      "updated_at": "2026-10-14T12:26:08Z",
-      "pushed_at": "2026-10-10T14:18:41Z"
-    },
-    {
       "id": 1399057460,
       "name": "openpactprotocol",
       "full_name": "openpactprotocol/openpactprotocol",
@@ -3616,27 +3830,6 @@
       "created_at": "2026-10-01T04:01:14Z",
       "updated_at": "2026-10-07T17:28:49Z",
       "pushed_at": "2026-10-06T09:08:57Z"
-    },
-    {
-      "id": 1415337709,
-      "name": "lucian-uxui-prompt",
-      "full_name": "Seokwoooo/lucian-uxui-prompt",
-      "description": "200 interactive UI elements you can try live, then copy as an AI prompt or working code. Light/dark, MIT.",
-      "html_url": "https://github.com/Seokwoooo/lucian-uxui-prompt",
-      "homepage": "https://lucianlabs.dev/uxui-prompt/",
-      "stars": 90,
-      "forks": 14,
-      "language": "HTML",
-      "topics": [
-        "ai-coding",
-        "design-system",
-        "html-css-js",
-        "prompt",
-        "ui-components"
-      ],
-      "created_at": "2026-10-12T09:01:47Z",
-      "updated_at": "2026-10-14T14:38:24Z",
-      "pushed_at": "2026-10-12T13:23:25Z"
     },
     {
       "id": 1399029726,
@@ -3662,21 +3855,6 @@
       "created_at": "2026-10-01T03:40:25Z",
       "updated_at": "2026-10-02T14:26:50Z",
       "pushed_at": "2026-10-01T14:20:12Z"
-    },
-    {
-      "id": 1411630666,
-      "name": "op1r",
-      "full_name": "pcppcp/op1r",
-      "description": "Patches for the original OP1 r246 firmware. New synths, drum, fxs, sequencers. Sample editor, improved tape tools and other cool features & bugfixes. Use at your own risk & have fun.",
-      "html_url": "https://github.com/pcppcp/op1r",
-      "homepage": null,
-      "stars": 89,
-      "forks": 6,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-09T09:55:03Z",
-      "updated_at": "2026-10-14T13:56:46Z",
-      "pushed_at": "2026-10-14T12:47:26Z"
     },
     {
       "id": 1375760472,
@@ -3715,31 +3893,6 @@
       "pushed_at": "2026-09-18T11:35:53Z"
     },
     {
-      "id": 1413230318,
-      "name": "ForzaHorizon1-ReImagined",
-      "full_name": "Dyotson/ForzaHorizon1-ReImagined",
-      "description": "Forza Horizon (Xbox 360) natively on PC, rebuilt around the modern Horizon experience: shared online free roam, leaderboards and rivals, 120/144 fps, and a self-hostable online server.",
-      "html_url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined",
-      "homepage": "http://forza.dyotson.dev/",
-      "stars": 88,
-      "forks": 4,
-      "language": "Python",
-      "topics": [
-        "decompilation",
-        "forza",
-        "forza-horizon",
-        "game-preservation",
-        "reverse-engineering",
-        "rexglue",
-        "static-recompilation",
-        "xbox-360",
-        "xbox360"
-      ],
-      "created_at": "2026-10-10T13:37:16Z",
-      "updated_at": "2026-10-14T16:01:31Z",
-      "pushed_at": "2026-10-14T16:01:10Z"
-    },
-    {
       "id": 1402924075,
       "name": "DeepSeek-V4.1-Flash-Two-Sparks",
       "full_name": "0xSero/DeepSeek-V4.1-Flash-Two-Sparks",
@@ -3758,23 +3911,6 @@
       "created_at": "2026-10-03T09:02:14Z",
       "updated_at": "2026-10-08T06:33:32Z",
       "pushed_at": "2026-10-03T19:59:55Z"
-    },
-    {
-      "id": 1415636770,
-      "name": "Grand-V",
-      "full_name": "SebasKitten/Grand-V",
-      "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
-      "html_url": "https://github.com/SebasKitten/Grand-V",
-      "homepage": null,
-      "stars": 86,
-      "forks": 9,
-      "language": null,
-      "topics": [
-        "gaming"
-      ],
-      "created_at": "2026-10-12T13:24:03Z",
-      "updated_at": "2026-10-14T13:55:38Z",
-      "pushed_at": "2026-10-13T14:06:53Z"
     },
     {
       "id": 1405691280,
@@ -3954,6 +4090,33 @@
       "pushed_at": "2026-10-14T15:05:30Z"
     },
     {
+      "id": 1413307346,
+      "name": "mcd-git",
+      "full_name": "zhutoumeme/mcd-git",
+      "description": "用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。",
+      "html_url": "https://github.com/zhutoumeme/mcd-git",
+      "homepage": null,
+      "stars": 83,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "git",
+        "mcdonalds",
+        "mcp",
+        "mcp-client",
+        "model-context-protocol",
+        "python",
+        "terminal",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-10T14:46:47Z",
+      "updated_at": "2026-10-15T02:03:45Z",
+      "pushed_at": "2026-10-13T05:44:43Z"
+    },
+    {
       "id": 1409175398,
       "name": "mcpdelta",
       "full_name": "mcpdelta/mcpdelta",
@@ -3987,33 +4150,6 @@
       "created_at": "2026-10-07T17:53:23Z",
       "updated_at": "2026-10-12T20:55:41Z",
       "pushed_at": "2026-10-10T12:51:22Z"
-    },
-    {
-      "id": 1413307346,
-      "name": "mcd-git",
-      "full_name": "zhutoumeme/mcd-git",
-      "description": "用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。",
-      "html_url": "https://github.com/zhutoumeme/mcd-git",
-      "homepage": null,
-      "stars": 81,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "cli",
-        "git",
-        "mcdonalds",
-        "mcp",
-        "mcp-client",
-        "model-context-protocol",
-        "python",
-        "terminal",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-10T14:46:47Z",
-      "updated_at": "2026-10-14T14:24:54Z",
-      "pushed_at": "2026-10-13T05:44:43Z"
     },
     {
       "id": 1386777688,
@@ -4052,6 +4188,25 @@
       "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
+      "id": 1414942519,
+      "name": "EdenLive",
+      "full_name": "VAST-AI-Research/EdenLive",
+      "description": "Real-time generative rendering for interactive worlds, from any reference.",
+      "html_url": "https://github.com/VAST-AI-Research/EdenLive",
+      "homepage": "https://vast-eden.ai/?p=edenlive",
+      "stars": 79,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "game",
+        "renderer",
+        "video-generation"
+      ],
+      "created_at": "2026-10-12T01:57:33Z",
+      "updated_at": "2026-10-15T10:58:05Z",
+      "pushed_at": "2026-10-12T03:05:53Z"
+    },
+    {
       "id": 1408229138,
       "name": "unpaired-rosetta",
       "full_name": "dominik-schnaus/unpaired-rosetta",
@@ -4065,6 +4220,21 @@
       "created_at": "2026-10-07T04:14:49Z",
       "updated_at": "2026-10-13T17:30:31Z",
       "pushed_at": "2026-10-08T11:37:42Z"
+    },
+    {
+      "id": 1414770162,
+      "name": "folivox",
+      "full_name": "vatavale/folivox",
+      "description": "Turn any e-book into a chaptered audiobook in your own voice: free, local, CosyVoice 3, with optional online engines",
+      "html_url": "https://github.com/vatavale/folivox",
+      "homepage": null,
+      "stars": 77,
+      "forks": 7,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-11T21:04:19Z",
+      "updated_at": "2026-10-15T15:29:02Z",
+      "pushed_at": "2026-10-13T15:06:07Z"
     },
     {
       "id": 1377321806,
@@ -4209,6 +4379,34 @@
       "pushed_at": "2026-10-02T14:32:21Z"
     },
     {
+      "id": 1416366647,
+      "name": "tlg_pc",
+      "full_name": "HayatoG/tlg_pc",
+      "description": "Native PC port (Linux/Windows) of The Last Guardian (PS4, CUSA03627) — runs your own game dump; no game or firmware files included. Mouse/keyboard, optional 60 FPS, SMAA/CAS filters. | Port nativo para PC de The Last Guardian — usa o seu próprio dump.",
+      "html_url": "https://github.com/HayatoG/tlg_pc",
+      "homepage": "https://www.youtube.com/@hayatog-dev",
+      "stars": 73,
+      "forks": 3,
+      "language": "C++",
+      "topics": [
+        "game-preservation",
+        "homebrew",
+        "japan-studio",
+        "linux",
+        "native-port",
+        "pc-port",
+        "playstation-4",
+        "ps4",
+        "shadps4",
+        "the-last-guardian",
+        "vulkan",
+        "windows"
+      ],
+      "created_at": "2026-10-13T02:46:25Z",
+      "updated_at": "2026-10-15T15:56:27Z",
+      "pushed_at": "2026-10-15T03:50:36Z"
+    },
+    {
       "id": 1375761817,
       "name": "jevcache",
       "full_name": "hyperspaceai/jevcache",
@@ -4291,6 +4489,21 @@
       "pushed_at": "2026-10-13T09:54:16Z"
     },
     {
+      "id": 1416647388,
+      "name": "dashi-animationstyle",
+      "full_name": "chuspeeism/dashi-animationstyle",
+      "description": "把一段中文知识口播做成 7 种画风的讲解动画（Claude Code skill）：画面由 Claude 写 HTML/Canvas 代码逐帧画出，不用生图模型",
+      "html_url": "https://github.com/chuspeeism/dashi-animationstyle",
+      "homepage": null,
+      "stars": 72,
+      "forks": 1,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-13T07:37:15Z",
+      "updated_at": "2026-10-15T13:51:03Z",
+      "pushed_at": "2026-10-13T08:10:24Z"
+    },
+    {
       "id": 1375750028,
       "name": "jgrep",
       "full_name": "keltokhy/jgrep",
@@ -4371,7 +4584,7 @@
       "html_url": "https://github.com/berit13/Exodus-Fake-Balance",
       "homepage": null,
       "stars": 71,
-      "forks": 12,
+      "forks": 13,
       "language": "Python",
       "topics": [
         "balance-flasher-exodus",
@@ -4396,8 +4609,8 @@
         "trx-fake-exodus"
       ],
       "created_at": "2026-10-09T16:19:32Z",
-      "updated_at": "2026-10-14T15:45:42Z",
-      "pushed_at": "2026-10-14T15:45:32Z"
+      "updated_at": "2026-10-15T15:41:27Z",
+      "pushed_at": "2026-10-15T15:41:21Z"
     },
     {
       "id": 1392901645,
@@ -4492,25 +4705,6 @@
       "pushed_at": "2026-10-07T07:11:56Z"
     },
     {
-      "id": 1414942519,
-      "name": "EdenLive",
-      "full_name": "VAST-AI-Research/EdenLive",
-      "description": "Real-time generative rendering for interactive worlds, from any reference.",
-      "html_url": "https://github.com/VAST-AI-Research/EdenLive",
-      "homepage": "https://vast-eden.ai/?p=edenlive",
-      "stars": 69,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "game",
-        "renderer",
-        "video-generation"
-      ],
-      "created_at": "2026-10-12T01:57:33Z",
-      "updated_at": "2026-10-14T10:52:07Z",
-      "pushed_at": "2026-10-12T03:05:53Z"
-    },
-    {
       "id": 1396348192,
       "name": "compress",
       "full_name": "spenmcke/compress",
@@ -4550,27 +4744,19 @@
       "pushed_at": "2026-10-04T10:41:52Z"
     },
     {
-      "id": 1414287839,
-      "name": "anima",
-      "full_name": "Garinmckayl/anima",
-      "description": "Anima: a Claude Code skill that turns a biology idea into an interactive, sourced, isometric figure. Dopamine receptors, stimulants, addiction circuits, semaglutide.",
-      "html_url": "https://github.com/Garinmckayl/anima",
-      "homepage": "https://anima.arcumet.com",
+      "id": 1411919172,
+      "name": "actell",
+      "full_name": "ja1chen/actell",
+      "description": "Actell (执言) is an experimental AI agent for iPhone that understands the screen and performs actions via CoreDevice, using on-device loopback or an ESP32 relay. An early-stage, vibe-coded prototype for exploration and idea sharing.",
+      "html_url": "https://github.com/ja1chen/actell",
+      "homepage": null,
       "stars": 66,
-      "forks": 9,
-      "language": "JavaScript",
-      "topics": [
-        "biology",
-        "claude-code",
-        "claude-skill",
-        "data-visualization",
-        "neuroscience",
-        "pharmacology",
-        "svg"
-      ],
-      "created_at": "2026-10-11T11:54:57Z",
-      "updated_at": "2026-10-14T16:01:50Z",
-      "pushed_at": "2026-10-14T14:07:08Z"
+      "forks": 24,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-10-09T13:46:56Z",
+      "updated_at": "2026-10-15T15:25:44Z",
+      "pushed_at": "2026-10-15T15:25:39Z"
     },
     {
       "id": 1375694442,
@@ -4616,21 +4802,6 @@
       "created_at": "2026-10-08T04:07:48Z",
       "updated_at": "2026-10-14T13:24:45Z",
       "pushed_at": "2026-10-14T08:08:24Z"
-    },
-    {
-      "id": 1414770162,
-      "name": "folivox",
-      "full_name": "vatavale/folivox",
-      "description": "Turn any e-book into a chaptered audiobook in your own voice: free, local, CosyVoice 3, with optional online engines",
-      "html_url": "https://github.com/vatavale/folivox",
-      "homepage": null,
-      "stars": 65,
-      "forks": 6,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-11T21:04:19Z",
-      "updated_at": "2026-10-14T13:17:26Z",
-      "pushed_at": "2026-10-13T15:06:07Z"
     },
     {
       "id": 1388637178,
@@ -4809,6 +4980,21 @@
       "created_at": "2026-10-01T15:40:04Z",
       "updated_at": "2026-10-01T17:24:01Z",
       "pushed_at": "2026-10-01T17:23:57Z"
+    },
+    {
+      "id": 1418465265,
+      "name": "logicc2api",
+      "full_name": "JamesZhaoY/logicc2api",
+      "description": "OpenAI-compatible Logicc adapter with account pooling, credential refresh, and a local web console.",
+      "html_url": "https://github.com/JamesZhaoY/logicc2api",
+      "homepage": null,
+      "stars": 62,
+      "forks": 36,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-14T06:20:15Z",
+      "updated_at": "2026-10-15T14:06:38Z",
+      "pushed_at": "2026-10-15T07:38:02Z"
     },
     {
       "id": 1386511925,
@@ -5188,6 +5374,27 @@
       "pushed_at": "2026-10-12T16:22:53Z"
     },
     {
+      "id": 1414149806,
+      "name": "accelerando-8192",
+      "full_name": "gillverd/accelerando-8192",
+      "description": "Accelerando-8192 — an 8,192-token alien glyph alphabet, interactive encoder, and complete visual atlas.",
+      "html_url": "https://github.com/gillverd/accelerando-8192",
+      "homepage": "https://gillverd.github.io/accelerando-8192/",
+      "stars": 56,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [
+        "bpe",
+        "generative-art",
+        "github-pages",
+        "tokenizer",
+        "typography"
+      ],
+      "created_at": "2026-10-11T09:08:58Z",
+      "updated_at": "2026-10-14T21:16:34Z",
+      "pushed_at": "2026-10-11T09:19:08Z"
+    },
+    {
       "id": 1391635046,
       "name": "awesome-cloud-emulators",
       "full_name": "upgundecha/awesome-cloud-emulators",
@@ -5278,27 +5485,6 @@
       "created_at": "2026-10-04T15:30:20Z",
       "updated_at": "2026-10-10T15:13:54Z",
       "pushed_at": "2026-10-10T15:13:51Z"
-    },
-    {
-      "id": 1414149806,
-      "name": "accelerando-8192",
-      "full_name": "gillverd/accelerando-8192",
-      "description": "Accelerando-8192 — an 8,192-token alien glyph alphabet, interactive encoder, and complete visual atlas.",
-      "html_url": "https://github.com/gillverd/accelerando-8192",
-      "homepage": "https://gillverd.github.io/accelerando-8192/",
-      "stars": 55,
-      "forks": 11,
-      "language": "JavaScript",
-      "topics": [
-        "bpe",
-        "generative-art",
-        "github-pages",
-        "tokenizer",
-        "typography"
-      ],
-      "created_at": "2026-10-11T09:08:58Z",
-      "updated_at": "2026-10-13T09:26:55Z",
-      "pushed_at": "2026-10-11T09:19:08Z"
     },
     {
       "id": 1415850310,
@@ -5465,6 +5651,21 @@
       "pushed_at": "2026-10-01T08:27:40Z"
     },
     {
+      "id": 1414542104,
+      "name": "farm-support-network",
+      "full_name": "YINZICHU/farm-support-network",
+      "description": "源自“农时有医”的双语农忙就医支援模板：村负责人登记短时农活供需、按技能与时间筛选候选，管理任务、费用、回访及分村权限；附10份工具。 / From Care in Farming Seasons: a bilingual, self-hosted template for village coordinators to register farm-work needs and helpers, suggest skill/time matches, and manage tasks, fees, follow-ups and village-scoped access. Includes 10 tools. Code: MIT; tools: CC BY 4.0.",
+      "html_url": "https://github.com/YINZICHU/farm-support-network",
+      "homepage": null,
+      "stars": 53,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-11T16:29:08Z",
+      "updated_at": "2026-10-15T15:36:21Z",
+      "pushed_at": "2026-10-11T16:43:00Z"
+    },
+    {
       "id": 1402430099,
       "name": "daily-team",
       "full_name": "isas1/daily-team",
@@ -5485,6 +5686,26 @@
       "created_at": "2026-10-02T22:48:41Z",
       "updated_at": "2026-10-08T12:47:54Z",
       "pushed_at": "2026-10-08T12:47:50Z"
+    },
+    {
+      "id": 1413646435,
+      "name": "CRAP",
+      "full_name": "dashs20/CRAP",
+      "description": "CRAP: Cycloidal Reducer Algorithm & Parametrizer. Parametric cycloidal gearbox generator (build123d): give it bearings, motor, ratio and eccentricity; get collision-checked, toleranced STEP/STL parts and a live 3D web GUI.",
+      "html_url": "https://github.com/dashs20/CRAP",
+      "homepage": null,
+      "stars": 52,
+      "forks": 6,
+      "language": "Python",
+      "topics": [
+        "build123d",
+        "cad",
+        "cycloidal-drive",
+        "parametric-design"
+      ],
+      "created_at": "2026-10-10T20:42:05Z",
+      "updated_at": "2026-10-15T14:45:47Z",
+      "pushed_at": "2026-10-12T06:56:26Z"
     },
     {
       "id": 1379547345,
@@ -5559,6 +5780,21 @@
       "pushed_at": "2026-09-29T05:16:14Z"
     },
     {
+      "id": 1416589488,
+      "name": "Software-Tools-Collection",
+      "full_name": "AsaneNAY/Software-Tools-Collection",
+      "description": "Software Tools Collection",
+      "html_url": "https://github.com/AsaneNAY/Software-Tools-Collection",
+      "homepage": null,
+      "stars": 51,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-13T06:48:51Z",
+      "updated_at": "2026-10-15T14:51:13Z",
+      "pushed_at": "2026-10-15T12:32:35Z"
+    },
+    {
       "id": 1393286718,
       "name": "unofficial-api-gateway-fr",
       "full_name": "apimartctxebv7x/unofficial-api-gateway-fr",
@@ -5618,6 +5854,21 @@
       "pushed_at": "2026-10-02T07:48:46Z"
     },
     {
+      "id": 1411719886,
+      "name": "cursorcam",
+      "full_name": "Avijit07x/cursorcam",
+      "description": "Ask your AI agent for a demo video. CursorCam clicks through your web app and renders a polished MP4 that zooms in on each click, from any MCP agent, Claude Code or the CLI.",
+      "html_url": "https://github.com/Avijit07x/cursorcam",
+      "homepage": "https://cursorcam.vercel.app",
+      "stars": 50,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-09T11:16:53Z",
+      "updated_at": "2026-10-15T11:43:23Z",
+      "pushed_at": "2026-10-15T02:58:31Z"
+    },
+    {
       "id": 1392926487,
       "name": "excali-mode",
       "full_name": "yibie/excali-mode",
@@ -5667,6 +5918,31 @@
       "created_at": "2026-09-28T17:39:36Z",
       "updated_at": "2026-10-04T16:06:01Z",
       "pushed_at": "2026-09-28T17:40:50Z"
+    },
+    {
+      "id": 1412855958,
+      "name": "cross-harness",
+      "full_name": "AI-BizOS/cross-harness",
+      "description": "Open cross-harness protocol with terminal and local web interfaces",
+      "html_url": "https://github.com/AI-BizOS/cross-harness",
+      "homepage": "https://code.bizos-ai.com",
+      "stars": 48,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "acp",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "mcp",
+        "multi-agent",
+        "orchestration",
+        "tui"
+      ],
+      "created_at": "2026-10-10T06:37:06Z",
+      "updated_at": "2026-10-15T00:40:43Z",
+      "pushed_at": "2026-10-10T14:18:41Z"
     },
     {
       "id": 1389869253,
@@ -5890,6 +6166,27 @@
       "pushed_at": "2026-09-30T13:38:19Z"
     },
     {
+      "id": 1414925464,
+      "name": "qz-browser-agent",
+      "full_name": "alibaba/qz-browser-agent",
+      "description": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.",
+      "html_url": "https://github.com/alibaba/qz-browser-agent",
+      "homepage": "https://alibaba.github.io/qz-browser-agent/",
+      "stars": 45,
+      "forks": 10,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "chrome-extension",
+        "web-scraping"
+      ],
+      "created_at": "2026-10-12T01:31:14Z",
+      "updated_at": "2026-10-15T13:42:00Z",
+      "pushed_at": "2026-10-15T11:19:50Z"
+    },
+    {
       "id": 1396899630,
       "name": "gleaner",
       "full_name": "ssssssanjiu/gleaner",
@@ -5959,42 +6256,6 @@
       "pushed_at": "2026-10-14T15:48:15Z"
     },
     {
-      "id": 1414925464,
-      "name": "qz-browser-agent",
-      "full_name": "alibaba/qz-browser-agent",
-      "description": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.",
-      "html_url": "https://github.com/alibaba/qz-browser-agent",
-      "homepage": null,
-      "stars": 44,
-      "forks": 10,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agent",
-        "browser-agent",
-        "browser-automation",
-        "chrome-extension",
-        "web-scraping"
-      ],
-      "created_at": "2026-10-12T01:31:14Z",
-      "updated_at": "2026-10-14T12:28:19Z",
-      "pushed_at": "2026-10-14T12:28:14Z"
-    },
-    {
-      "id": 1411719886,
-      "name": "cursorcam",
-      "full_name": "Avijit07x/cursorcam",
-      "description": "Ask Claude for a demo video. CursorCam clicks through your web app and hands back a polished MP4 that zooms in on each click.",
-      "html_url": "https://github.com/Avijit07x/cursorcam",
-      "homepage": "https://cursorcam.vercel.app",
-      "stars": 44,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-09T11:16:53Z",
-      "updated_at": "2026-10-14T15:55:13Z",
-      "pushed_at": "2026-10-11T03:14:15Z"
-    },
-    {
       "id": 1375718495,
       "name": "jornadas-cloud-2026",
       "full_name": "betta-tech/jornadas-cloud-2026",
@@ -6042,57 +6303,6 @@
       "created_at": "2026-10-02T04:40:54Z",
       "updated_at": "2026-10-08T03:19:38Z",
       "pushed_at": "2026-10-04T10:34:37Z"
-    },
-    {
-      "id": 1416647388,
-      "name": "dashi-animationstyle",
-      "full_name": "chuspeeism/dashi-animationstyle",
-      "description": "把一段中文知识口播做成 7 种画风的讲解动画（Claude Code skill）：画面由 Claude 写 HTML/Canvas 代码逐帧画出，不用生图模型",
-      "html_url": "https://github.com/chuspeeism/dashi-animationstyle",
-      "homepage": null,
-      "stars": 43,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-13T07:37:15Z",
-      "updated_at": "2026-10-14T15:57:23Z",
-      "pushed_at": "2026-10-13T08:10:24Z"
-    },
-    {
-      "id": 1418226869,
-      "name": "claudemy",
-      "full_name": "assafkip/claudemy",
-      "description": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
-      "html_url": "https://github.com/assafkip/claudemy",
-      "homepage": null,
-      "stars": 43,
-      "forks": 6,
-      "language": "Python",
-      "topics": [
-        "ai-course-generator",
-        "ai-education",
-        "anthropic",
-        "audio-lessons",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "course-generator",
-        "coursera-alternative",
-        "edtech",
-        "education",
-        "elevenlabs",
-        "learn-anything",
-        "microlearning",
-        "online-learning",
-        "podcast",
-        "self-learning",
-        "text-to-speech",
-        "udemy-alternative"
-      ],
-      "created_at": "2026-10-14T01:49:12Z",
-      "updated_at": "2026-10-14T16:06:26Z",
-      "pushed_at": "2026-10-14T05:00:29Z"
     },
     {
       "id": 1382441164,
@@ -6262,26 +6472,6 @@
       "pushed_at": "2026-10-04T08:09:23Z"
     },
     {
-      "id": 1413646435,
-      "name": "CRAP",
-      "full_name": "dashs20/CRAP",
-      "description": "CRAP: Cycloidal Reducer Algorithm & Parametrizer. Parametric cycloidal gearbox generator (build123d): give it bearings, motor, ratio and eccentricity; get collision-checked, toleranced STEP/STL parts and a live 3D web GUI.",
-      "html_url": "https://github.com/dashs20/CRAP",
-      "homepage": null,
-      "stars": 41,
-      "forks": 6,
-      "language": "Python",
-      "topics": [
-        "build123d",
-        "cad",
-        "cycloidal-drive",
-        "parametric-design"
-      ],
-      "created_at": "2026-10-10T20:42:05Z",
-      "updated_at": "2026-10-14T16:03:39Z",
-      "pushed_at": "2026-10-12T06:56:26Z"
-    },
-    {
       "id": 1378383465,
       "name": "agent-builder-skills",
       "full_name": "minorun365/agent-builder-skills",
@@ -6437,6 +6627,31 @@
       "pushed_at": "2026-09-20T17:33:37Z"
     },
     {
+      "id": 1414963288,
+      "name": "nerthus",
+      "full_name": "danemadsen/nerthus",
+      "description": "Nerthus is a node-based terrain generator written in Rust",
+      "html_url": "https://github.com/danemadsen/nerthus",
+      "homepage": "https://nerthus.app",
+      "stars": 38,
+      "forks": 1,
+      "language": "Rust",
+      "topics": [
+        "bevy",
+        "egui",
+        "erosion",
+        "gaea",
+        "gaea-terrain",
+        "procedural-generation",
+        "procedural-terrain",
+        "terrain",
+        "terrain-generation"
+      ],
+      "created_at": "2026-10-12T02:28:32Z",
+      "updated_at": "2026-10-15T15:51:13Z",
+      "pushed_at": "2026-10-15T14:41:55Z"
+    },
+    {
       "id": 1377304402,
       "name": "tmon",
       "full_name": "khangzxrr/tmon",
@@ -6481,6 +6696,39 @@
       "created_at": "2026-09-29T12:28:07Z",
       "updated_at": "2026-10-04T21:10:41Z",
       "pushed_at": "2026-10-04T07:26:12Z"
+    },
+    {
+      "id": 1411614788,
+      "name": "Fengard",
+      "full_name": "masaleem-oss/Fengard",
+      "description": "Kernel-enforced firewall and DNS filtering for any OpenWrt router. Parental controls, ad blocking and screen time. A Pi-hole alternative.",
+      "html_url": "https://github.com/masaleem-oss/Fengard",
+      "homepage": null,
+      "stars": 36,
+      "forks": 2,
+      "language": "Go",
+      "topics": [
+        "adblock",
+        "adguard-home-alternative",
+        "dns-filter",
+        "family-safety",
+        "firewall",
+        "gl-inet",
+        "golang",
+        "home-network",
+        "network-security",
+        "nftables",
+        "openwrt",
+        "parental-controls",
+        "pihole-alternative",
+        "router",
+        "screen-time",
+        "self-hosted",
+        "wireguard"
+      ],
+      "created_at": "2026-10-09T09:40:52Z",
+      "updated_at": "2026-10-15T10:50:50Z",
+      "pushed_at": "2026-10-14T05:39:19Z"
     },
     {
       "id": 1395203963,
@@ -6547,39 +6795,6 @@
       "pushed_at": "2026-10-06T06:51:59Z"
     },
     {
-      "id": 1411614788,
-      "name": "Fengard",
-      "full_name": "masaleem-oss/Fengard",
-      "description": "Kernel-enforced firewall and DNS filtering for any OpenWrt router. Parental controls, ad blocking and screen time. A Pi-hole alternative.",
-      "html_url": "https://github.com/masaleem-oss/Fengard",
-      "homepage": null,
-      "stars": 35,
-      "forks": 1,
-      "language": "Go",
-      "topics": [
-        "adblock",
-        "adguard-home-alternative",
-        "dns-filter",
-        "family-safety",
-        "firewall",
-        "gl-inet",
-        "golang",
-        "home-network",
-        "network-security",
-        "nftables",
-        "openwrt",
-        "parental-controls",
-        "pihole-alternative",
-        "router",
-        "screen-time",
-        "self-hosted",
-        "wireguard"
-      ],
-      "created_at": "2026-10-09T09:40:52Z",
-      "updated_at": "2026-10-13T19:05:35Z",
-      "pushed_at": "2026-10-13T07:02:52Z"
-    },
-    {
       "id": 1414341949,
       "name": "paper-rs",
       "full_name": "michaelshimeles/paper-rs",
@@ -6644,6 +6859,21 @@
       "created_at": "2026-10-07T18:00:28Z",
       "updated_at": "2026-10-13T07:06:44Z",
       "pushed_at": "2026-10-12T23:24:48Z"
+    },
+    {
+      "id": 1412796584,
+      "name": "mcd-receipt-persona",
+      "full_name": "Edward690Z/mcd-receipt-persona",
+      "description": "麦味人格：对 AI 说一句话，把你的麦当劳订单变成小票风点餐人格故事卡，16 种程序员人格。麦当劳 MCP Skill｜只读｜本地处理｜零依赖｜非官方｜1024 程序员节",
+      "html_url": "https://github.com/Edward690Z/mcd-receipt-persona",
+      "homepage": null,
+      "stars": 34,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-10T05:32:54Z",
+      "updated_at": "2026-10-15T09:44:24Z",
+      "pushed_at": "2026-10-10T05:55:21Z"
     },
     {
       "id": 1377573287,
@@ -7312,7 +7542,7 @@
       "html_url": "https://github.com/7h30th3r0n3/Flipper-EvilRelay",
       "homepage": null,
       "stars": 27,
-      "forks": 4,
+      "forks": 5,
       "language": "C",
       "topics": [
         "apdu",
@@ -7339,21 +7569,6 @@
       "created_at": "2026-10-10T09:34:57Z",
       "updated_at": "2026-10-14T11:43:11Z",
       "pushed_at": "2026-10-12T16:47:42Z"
-    },
-    {
-      "id": 1412796584,
-      "name": "mcd-receipt-persona",
-      "full_name": "Edward690Z/mcd-receipt-persona",
-      "description": "麦味人格：对 AI 说一句话，把你的麦当劳订单变成小票风点餐人格故事卡，16 种程序员人格。麦当劳 MCP Skill｜只读｜本地处理｜零依赖｜非官方｜1024 程序员节",
-      "html_url": "https://github.com/Edward690Z/mcd-receipt-persona",
-      "homepage": null,
-      "stars": 27,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-10T05:32:54Z",
-      "updated_at": "2026-10-14T08:57:16Z",
-      "pushed_at": "2026-10-10T05:55:21Z"
     },
     {
       "id": 1387743071,
@@ -7667,6 +7882,30 @@
       "pushed_at": "2026-10-08T17:15:42Z"
     },
     {
+      "id": 1412432584,
+      "name": "blobz",
+      "full_name": "lirena00/blobz",
+      "description": "Deterministic SVG avatars from any name or ID. React components, a framework-free generator, and a hosted image API.",
+      "html_url": "https://github.com/lirena00/blobz",
+      "homepage": "https://blobz.lirena.in",
+      "stars": 22,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "avatar",
+        "avatar-generator",
+        "deterministic",
+        "nextjs",
+        "profile-picture",
+        "react",
+        "svg",
+        "typescript"
+      ],
+      "created_at": "2026-10-09T20:44:39Z",
+      "updated_at": "2026-10-15T14:08:55Z",
+      "pushed_at": "2026-10-14T11:25:03Z"
+    },
+    {
       "id": 1394505594,
       "name": "REcall",
       "full_name": "surya-3699/REcall",
@@ -7778,6 +8017,21 @@
       "pushed_at": "2026-10-09T08:05:04Z"
     },
     {
+      "id": 1412130132,
+      "name": "punk-ip-video-cover",
+      "full_name": "adrianpunk/punk-ip-video-cover",
+      "description": "Punk personal IP video cover Agent Skill",
+      "html_url": "https://github.com/adrianpunk/punk-ip-video-cover",
+      "homepage": null,
+      "stars": 21,
+      "forks": 2,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-09T16:17:01Z",
+      "updated_at": "2026-10-15T05:14:30Z",
+      "pushed_at": "2026-10-10T01:20:36Z"
+    },
+    {
       "id": 1379231612,
       "name": "bookcard.koplugin",
       "full_name": "peterboda236/bookcard.koplugin",
@@ -7823,21 +8077,6 @@
       "pushed_at": "2026-10-06T11:03:28Z"
     },
     {
-      "id": 1412130132,
-      "name": "punk-ip-video-cover",
-      "full_name": "adrianpunk/punk-ip-video-cover",
-      "description": "Punk personal IP video cover Agent Skill",
-      "html_url": "https://github.com/adrianpunk/punk-ip-video-cover",
-      "homepage": null,
-      "stars": 20,
-      "forks": 2,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-09T16:17:01Z",
-      "updated_at": "2026-10-13T16:50:33Z",
-      "pushed_at": "2026-10-10T01:20:36Z"
-    },
-    {
       "id": 1408158211,
       "name": "mupen64plus-ps5",
       "full_name": "TheRealRetro/mupen64plus-ps5",
@@ -7857,6 +8096,49 @@
       "created_at": "2026-10-07T02:51:00Z",
       "updated_at": "2026-10-13T15:26:17Z",
       "pushed_at": "2026-10-09T20:08:23Z"
+    },
+    {
+      "id": 1413248210,
+      "name": "Home-Calendar-Card",
+      "full_name": "mimikm/Home-Calendar-Card",
+      "description": "Home calendar card for HA",
+      "html_url": "https://github.com/mimikm/Home-Calendar-Card",
+      "homepage": null,
+      "stars": 20,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "calendar",
+        "calendar-app",
+        "calendar-component",
+        "calendar-events",
+        "calendar-sync",
+        "calendar-view",
+        "calendars",
+        "hacs-dashboard",
+        "home-assistant",
+        "home-assistant-custom-component",
+        "home-assistant-frontend",
+        "lovelace"
+      ],
+      "created_at": "2026-10-10T13:53:27Z",
+      "updated_at": "2026-10-15T04:36:59Z",
+      "pushed_at": "2026-10-12T13:53:15Z"
+    },
+    {
+      "id": 1414916572,
+      "name": "tech-resume",
+      "full_name": "mzupan/tech-resume",
+      "description": "Agent skill for tailored tech resumes and cover letters that parse cleanly in ATS/AI screeners and don't read as AI-written",
+      "html_url": "https://github.com/mzupan/tech-resume",
+      "homepage": null,
+      "stars": 20,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T01:17:26Z",
+      "updated_at": "2026-10-15T15:53:34Z",
+      "pushed_at": "2026-10-13T03:25:51Z"
     },
     {
       "id": 1409514013,
@@ -7908,6 +8190,42 @@
       "created_at": "2026-10-08T03:52:31Z",
       "updated_at": "2026-10-14T12:38:08Z",
       "pushed_at": "2026-10-14T08:13:23Z"
+    },
+    {
+      "id": 1413202315,
+      "name": "ESP32MediaBox",
+      "full_name": "mikedeblin/ESP32MediaBox",
+      "description": "A portable MP3 player on the ESP32-S3 that plays music from a microSD card or streams it from a DLNA/UPnP media server (tested with Synology Audio Station).",
+      "html_url": "https://github.com/mikedeblin/ESP32MediaBox",
+      "homepage": null,
+      "stars": 19,
+      "forks": 1,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-10T13:11:12Z",
+      "updated_at": "2026-10-14T22:58:25Z",
+      "pushed_at": "2026-10-11T00:39:31Z"
+    },
+    {
+      "id": 1417107361,
+      "name": "ha-appliance-electromenager-cards",
+      "full_name": "skyrotter/ha-appliance-electromenager-cards",
+      "description": "18 realistic animated Lovelace cards / électroménager: washer, dryer, dishwasher, water heater, oven, microwave, air fryer, coffee maker, fridge, freezers, pellet stove, pool pump, 3D printer, solar, VMC, cooktop, radiator. HACS.",
+      "html_url": "https://github.com/skyrotter/ha-appliance-electromenager-cards",
+      "homepage": "https://skyrotter.github.io/ha-appliance-electromenager-cards/docs/demo.html",
+      "stars": 19,
+      "forks": 1,
+      "language": null,
+      "topics": [
+        "hacs",
+        "home-assistant",
+        "home-automation",
+        "lovelace",
+        "lovelace-custom-card"
+      ],
+      "created_at": "2026-10-13T13:22:51Z",
+      "updated_at": "2026-10-15T15:52:59Z",
+      "pushed_at": "2026-10-15T15:52:54Z"
     },
     {
       "id": 1387292246,
@@ -7978,28 +8296,19 @@
       "pushed_at": "2026-10-13T10:43:52Z"
     },
     {
-      "id": 1412432584,
-      "name": "blobz",
-      "full_name": "lirena00/blobz",
-      "description": "Deterministic SVG avatars from any name or ID. React components, a framework-free generator, and a hosted image API.",
-      "html_url": "https://github.com/lirena00/blobz",
-      "homepage": "https://blobz.lirena.in",
+      "id": 1413729995,
+      "name": "ComfyUI-GOATd-Universal-Text-Generator",
+      "full_name": "ninjaGurung/ComfyUI-GOATd-Universal-Text-Generator",
+      "description": "GOAT’d Text Generator 🐐- Turn rough ideas into polished prompts with cloud or local LLMs. Bring images, videos, and audio into the mix, tag them with @, and pick a model-specific prompt guide. Clean text output, ready for your ComfyUI workflow. Big prompt energy, less guesswork.",
+      "html_url": "https://github.com/ninjaGurung/ComfyUI-GOATd-Universal-Text-Generator",
+      "homepage": null,
       "stars": 18,
-      "forks": 1,
-      "language": "TypeScript",
-      "topics": [
-        "avatar",
-        "avatar-generator",
-        "deterministic",
-        "nextjs",
-        "profile-picture",
-        "react",
-        "svg",
-        "typescript"
-      ],
-      "created_at": "2026-10-09T20:44:39Z",
-      "updated_at": "2026-10-14T15:07:59Z",
-      "pushed_at": "2026-10-14T11:25:03Z"
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-10T22:42:00Z",
+      "updated_at": "2026-10-15T14:00:34Z",
+      "pushed_at": "2026-10-15T14:00:26Z"
     },
     {
       "id": 1386745578,
@@ -8046,64 +8355,6 @@
       "created_at": "2026-09-27T07:23:17Z",
       "updated_at": "2026-10-01T05:30:51Z",
       "pushed_at": "2026-09-27T09:10:11Z"
-    },
-    {
-      "id": 1413202315,
-      "name": "ESP32MediaBox",
-      "full_name": "mikedeblin/ESP32MediaBox",
-      "description": "A portable MP3 player on the ESP32-S3 that plays music from a microSD card or streams it from a DLNA/UPnP media server (tested with Synology Audio Station).",
-      "html_url": "https://github.com/mikedeblin/ESP32MediaBox",
-      "homepage": null,
-      "stars": 17,
-      "forks": 1,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-10T13:11:12Z",
-      "updated_at": "2026-10-14T12:04:35Z",
-      "pushed_at": "2026-10-11T00:39:31Z"
-    },
-    {
-      "id": 1413248210,
-      "name": "Home-Calendar-Card",
-      "full_name": "mimikm/Home-Calendar-Card",
-      "description": "Home calendar card for HA",
-      "html_url": "https://github.com/mimikm/Home-Calendar-Card",
-      "homepage": null,
-      "stars": 17,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "calendar",
-        "calendar-app",
-        "calendar-component",
-        "calendar-events",
-        "calendar-sync",
-        "calendar-view",
-        "calendars",
-        "hacs-dashboard",
-        "home-assistant",
-        "home-assistant-custom-component",
-        "home-assistant-frontend",
-        "lovelace"
-      ],
-      "created_at": "2026-10-10T13:53:27Z",
-      "updated_at": "2026-10-14T11:53:50Z",
-      "pushed_at": "2026-10-12T13:53:15Z"
-    },
-    {
-      "id": 1413729995,
-      "name": "ComfyUI-GOATd-Universal-Text-Generator",
-      "full_name": "ninjaGurung/ComfyUI-GOATd-Universal-Text-Generator",
-      "description": "GOAT’d Text Generator 🐐- Turn rough ideas into polished prompts with cloud or local LLMs. Bring images, videos, and audio into the mix, tag them with @, and pick a model-specific prompt guide. Clean text output, ready for your ComfyUI workflow. Big prompt energy, less guesswork.",
-      "html_url": "https://github.com/ninjaGurung/ComfyUI-GOATd-Universal-Text-Generator",
-      "homepage": null,
-      "stars": 17,
-      "forks": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-10T22:42:00Z",
-      "updated_at": "2026-10-14T11:01:11Z",
-      "pushed_at": "2026-10-11T13:55:07Z"
     },
     {
       "id": 1379717308,
@@ -8218,6 +8469,45 @@
       "pushed_at": "2026-10-04T21:37:55Z"
     },
     {
+      "id": 1411990589,
+      "name": "hermes-watch",
+      "full_name": "styles01/hermes-watch",
+      "description": "A voice remote for AI agents: push-to-talk, procedural avatar + live status ring on the M5Stack StopWatch (ESP32-S3 round AMOLED). Hermes gadget firmware, hub plugin, desktop sim, WiFi OTA.",
+      "html_url": "https://github.com/styles01/hermes-watch",
+      "homepage": "https://github.com/NousResearch/hermes-agent",
+      "stars": 16,
+      "forks": 1,
+      "language": "C++",
+      "topics": [
+        "ai-agent",
+        "amoled",
+        "esp32s3",
+        "hermes",
+        "m5stack",
+        "ota-updates",
+        "push-to-talk",
+        "voice-assistant"
+      ],
+      "created_at": "2026-10-09T14:36:30Z",
+      "updated_at": "2026-10-15T07:27:01Z",
+      "pushed_at": "2026-10-10T17:14:46Z"
+    },
+    {
+      "id": 1411945311,
+      "name": "LLM-to-Flow-Distillation",
+      "full_name": "FedericoDiGennaro/LLM-to-Flow-Distillation",
+      "description": "Code of the paper \"LLM-to-Flow-Distillation: Teaching Natural Language Goals to Scientific Generators\"",
+      "html_url": "https://github.com/FedericoDiGennaro/LLM-to-Flow-Distillation",
+      "homepage": "https://arxiv.org/abs/2610.17246",
+      "stars": 16,
+      "forks": 2,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-09T14:05:02Z",
+      "updated_at": "2026-10-15T15:14:25Z",
+      "pushed_at": "2026-10-14T08:38:18Z"
+    },
+    {
       "id": 1378545590,
       "name": "Yvette",
       "full_name": "MartinForsterNL/Yvette",
@@ -8325,30 +8615,6 @@
       "created_at": "2026-10-06T03:29:30Z",
       "updated_at": "2026-10-09T23:33:42Z",
       "pushed_at": "2026-10-09T23:33:38Z"
-    },
-    {
-      "id": 1411990589,
-      "name": "hermes-watch",
-      "full_name": "styles01/hermes-watch",
-      "description": "A voice remote for AI agents: push-to-talk, procedural avatar + live status ring on the M5Stack StopWatch (ESP32-S3 round AMOLED). Hermes gadget firmware, hub plugin, desktop sim, WiFi OTA.",
-      "html_url": "https://github.com/styles01/hermes-watch",
-      "homepage": "https://github.com/NousResearch/hermes-agent",
-      "stars": 15,
-      "forks": 1,
-      "language": "C++",
-      "topics": [
-        "ai-agent",
-        "amoled",
-        "esp32s3",
-        "hermes",
-        "m5stack",
-        "ota-updates",
-        "push-to-talk",
-        "voice-assistant"
-      ],
-      "created_at": "2026-10-09T14:36:30Z",
-      "updated_at": "2026-10-14T02:47:02Z",
-      "pushed_at": "2026-10-10T17:14:46Z"
     },
     {
       "id": 1379723846,
@@ -8469,27 +8735,6 @@
       "created_at": "2026-10-05T21:02:18Z",
       "updated_at": "2026-10-10T16:59:56Z",
       "pushed_at": "2026-10-10T16:59:53Z"
-    },
-    {
-      "id": 1417107361,
-      "name": "ha-appliance-electromenager-cards",
-      "full_name": "skyrotter/ha-appliance-electromenager-cards",
-      "description": "18 realistic animated Lovelace cards / électroménager: washer, dryer, dishwasher, water heater, oven, microwave, air fryer, coffee maker, fridge, freezers, pellet stove, pool pump, 3D printer, solar, VMC, cooktop, radiator. HACS.",
-      "html_url": "https://github.com/skyrotter/ha-appliance-electromenager-cards",
-      "homepage": "https://skyrotter.github.io/ha-appliance-electromenager-cards/docs/demo.html",
-      "stars": 14,
-      "forks": 1,
-      "language": null,
-      "topics": [
-        "hacs",
-        "home-assistant",
-        "home-automation",
-        "lovelace",
-        "lovelace-custom-card"
-      ],
-      "created_at": "2026-10-13T13:22:51Z",
-      "updated_at": "2026-10-14T14:09:52Z",
-      "pushed_at": "2026-10-14T11:30:39Z"
     },
     {
       "id": 1379722239,
