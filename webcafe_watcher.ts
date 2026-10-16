@@ -212,6 +212,12 @@ async function dispatchWebhookAlert(alerts: AlertItem[]) {
             text: { tag: "plain_text", content: "🔍 查 SERP 竞品" },
             type: "default",
             url: a.serpUrl
+          },
+          {
+            tag: "button",
+            text: { tag: "plain_text", content: "📑 TrendSpy 看板" },
+            type: "default",
+            url: "https://trendspy-ruddy.vercel.app"
           }
         ]
       });
