@@ -106,12 +106,39 @@ function saveState(state: WatcherState) {
 function classifyKeyword(kw: string): { isMonetizable: boolean; level: AlertItem["level"]; deliveryType: string; suggestedH1: string } {
   const clean = kw.toLowerCase().trim();
 
-  // 1. S 级特征：极速交付型视频/滤镜/换脸/模版 (类似 hotel lobby / raindance)
-  if (/\b(video|filter|template|generator|clone|face|dance|skin)\b/i.test(clean) && !/\b(download|movie|episode|news)\b/i.test(clean)) {
+  // 排除纯吃瓜/盗版资源/影视下载词
+  if (/\b(download|movie|episode|news|leak|watch online|torrent|netflix)\b/i.test(clean)) {
+    return { isMonetizable: false, level: "B (关注)", deliveryType: "常规资讯", suggestedH1: "" };
+  }
+
+  // 核心 AI 视频 / 视觉生成工具母词 (社媒玩法高频发源地)
+  const aiVideoTools = [
+    "higgsfield", "kling", "luma", "runway", "minimax", "hailuo",
+    "vidu", "seedance", "pika", "flux", "sora", "vid2prompt", "genematic"
+  ];
+  const isVideoToolRelated = aiVideoTools.some(t => clean.includes(t));
+
+  // 0. 社群爆火 AI 视频逆向/模版趋势 (如 vid2prompt, higgsfield trend, bulin 47 trend ai)
+  if (clean.includes("vid2prompt") || (clean.includes("prompt") && (isVideoToolRelated || clean.includes("video")))) {
+    return {
+      isMonetizable: true,
+      level: "S (极速交付)",
+      deliveryType: "AI 视频逆向提示词与爆款模板库",
+      suggestedH1: `Extract & Generate ${kw} Prompts in 10 Seconds.`
+    };
+  }
+
+  // 1. S 级特征：极速交付型视频/滤镜/换脸/运镜模版/病毒社媒梗 (如 hotel lobby / raindance / bulin 47)
+  const isDirectDelivery = /\b(video|filter|template|generator|clone|face|dance|skin|swap|motion|portrait|remix|preset|workflow)\b/i.test(clean);
+  const isViralTrend = /\b(trend|viral|tiktok|challenge|style|meme)\b/i.test(clean) && (clean.includes("ai") || isVideoToolRelated || /\b(game|roblox)\b/i.test(clean));
+
+  if (isDirectDelivery || isViralTrend || isVideoToolRelated) {
     let deliveryType = "AI 视频与换脸运镜模版";
     if (clean.includes("filter")) deliveryType = "AI 自传播滤镜";
     else if (clean.includes("clone") || clean.includes("voice")) deliveryType = "AI 声音克隆";
-    else if (clean.includes("skin")) deliveryType = "纯前端卡面生成器";
+    else if (clean.includes("skin") || clean.includes("roblox") || clean.includes("card")) deliveryType = "纯前端卡面/皮肤生成器";
+    else if (clean.includes("prompt") || clean.includes("reverse")) deliveryType = "AI 提示词模版生成器";
+    else if (isVideoToolRelated) deliveryType = `爆款 ${clean} 运镜与特效模板单页`;
 
     return {
       isMonetizable: true,
@@ -121,13 +148,22 @@ function classifyKeyword(kw: string): { isMonetizable: boolean; level: AlertItem
     };
   }
 
-  // 2. A 级特征：音乐/神曲二创/提示词 (类似 hotel lobby song / krea prompt)
-  if (/\b(song|music|prompt|lyrics|voice)\b/i.test(clean) && clean.includes("ai")) {
+  // 2. A 级特征：音乐/神曲二创/游戏兑换码/配置器 (类似 hotel lobby song / roblox codes)
+  if (/\b(song|music|lyrics|voice)\b/i.test(clean) && clean.includes("ai")) {
     return {
       isMonetizable: true,
       level: "A (高潜模版)",
-      deliveryType: "AI 音乐与短剧二创",
+      deliveryType: "AI 音乐与神曲二创",
       suggestedH1: `Generate ${kw} instantly with lyrics.`
+    };
+  }
+
+  if (/\b(codes|calculator|builder|tier list|wiki)\b/i.test(clean) && /\b(game|roblox|steam|pokemon)\b/i.test(clean)) {
+    return {
+      isMonetizable: true,
+      level: "A (高潜模版)",
+      deliveryType: "游戏兑换码与高频互动工具",
+      suggestedH1: `Latest ${kw} - Updated Daily & Free.`
     };
   }
 

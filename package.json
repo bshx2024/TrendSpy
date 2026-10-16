@@ -20,6 +20,7 @@
     "fetch:hn": "tsx fetch_hn_new.ts",
     "fetch:webcafe": "tsx fetch_webcafe_trends.ts",
     "watch:webcafe": "tsx webcafe_watcher.ts",
+    "eval": "tsx fast_eval_trend.ts",
     "eval:serp": "tsx serp_evaluator.ts",
     "benchmark": "tsx benchmark_engine.ts",
     "report": "tsx generate_newtrend_report.ts",

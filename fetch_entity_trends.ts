@@ -45,15 +45,29 @@ async function fetchSuggestTrending(
     }
   } else if (category === "AI视频与生图") {
     const visualSuffixes = [
-      "prompt", "free", "generator", "lora", "workflow", "comfyui",
-      "uncensored", "no filter", "no restriction", "online", "model download"
+      "trend", "template", "prompt", "dance", "style", "challenge", "viral", "tiktok", "filter",
+      "free", "generator", "reverse prompt", "preset", "lora", "workflow", "comfyui",
+      "uncensored", "no filter", "online"
     ];
     for (const sfx of visualSuffixes) {
       probeList.add(`${seed} ${sfx}`);
+      for (const alias of aliases) {
+        probeList.add(`${alias} ${sfx}`);
+      }
     }
   } else if (category === "AI音频与音乐") {
-    const audioSuffixes = ["prompt", "free", "vocal", "cover", "lyrics", "realtime", "api", "voice clone"];
+    const audioSuffixes = ["prompt", "free", "vocal", "cover", "lyrics", "realtime", "api", "voice clone", "trend"];
     for (const sfx of audioSuffixes) {
+      probeList.add(`${seed} ${sfx}`);
+    }
+  } else if (category === "小游戏与泛娱乐") {
+    const gameSuffixes = ["codes", "tier list", "calculator", "build", "wiki", "mod", "script", "update", "trend", "free"];
+    for (const sfx of gameSuffixes) {
+      probeList.add(`${seed} ${sfx}`);
+    }
+  } else if (category === "出海B2C与社媒神器") {
+    const b2cSuffixes = ["generator", "maker", "tool", "free", "template", "skin", "trend", "viral", "online"];
+    for (const sfx of b2cSuffixes) {
       probeList.add(`${seed} ${sfx}`);
     }
   }

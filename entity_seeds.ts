@@ -17,9 +17,34 @@ export const ENTITY_SEEDS: EntitySeed[] = [
   {
     entity: "higgsfield",
     displayName: "Higgsfield AI",
+    aliases: ["higgsfield ai", "higgsfield video", "higgsfield trend", "higgsfield dance", "higgsfield prompt"],
     category: "AI视频与生图",
-    description: "近期爆火的 AI 运镜与短剧视频平台 (如 Hotel Lobby / Migos 模版)",
-    suggestedActionType: "爆款镜头风格提示词库 / 免登录体验引流单页"
+    description: "近期爆火的 AI 运镜与短剧视频平台 (如 Hotel Lobby / Bulin 47 / Migos 模版及社媒视频玩法)",
+    suggestedActionType: "爆款镜头风格提示词库 / 免登录极速交付运镜单页"
+  },
+  {
+    entity: "vid2prompt",
+    displayName: "Vid2Prompt / 视频提示词逆向",
+    aliases: ["vid2prompt trends", "video to prompt", "ai video reverse prompt"],
+    category: "AI视频与生图",
+    description: "社群爆款挖词工具，视频逆向提取 Prompt 与社媒爆款视频模版库",
+    suggestedActionType: "视频逆向 Prompts 生成器 / 热门视频工作流聚合单页"
+  },
+  {
+    entity: "vidu",
+    displayName: "生数科技 Vidu AI",
+    aliases: ["vidu ai", "vidu video", "vidu 1.5", "vidu 2.0"],
+    category: "AI视频与生图",
+    description: "高一致性角色参考与运镜视频大模型",
+    suggestedActionType: "角色一致性视频生成提示词工具 / 模版演示单页"
+  },
+  {
+    entity: "seedance",
+    displayName: "即梦 (Seedance / Dreamina)",
+    aliases: ["seedance ai", "dreamina", "bytedance video ai"],
+    category: "AI视频与生图",
+    description: "字节跳动海内外爆款生图与生视频生态",
+    suggestedActionType: "即梦/Seedance 工作流与爆款运镜提示词库"
   },
   {
     entity: "kling ai",

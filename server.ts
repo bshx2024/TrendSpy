@@ -9,6 +9,7 @@ import { evaluateSerpDifficulty } from "./serp_evaluator.js";
 import { getStreamData } from "./batch_timeline_service.js";
 import { diagnoseKeyword } from "./sensenova_client.js";
 import { startWebCafeWatcher } from "./webcafe_watcher.js";
+import { evaluateFastTrend } from "./fast_eval_trend.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -406,6 +407,23 @@ app.post("/api/diagnose-keyword", async (req, res) => {
 
     res.json({ cached: false, ...diagnosis });
   } catch (err: any) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// 12. 专有新词闪电评估 API (快速承接社群/人工专有渠道爆款词)
+app.post("/api/fast-eval", async (req, res) => {
+  try {
+    const { keyword } = req.body;
+    if (!keyword || typeof keyword !== "string") {
+      return res.status(400).json({ error: "Missing keyword parameter" });
+    }
+    const cleanKw = keyword.trim();
+    console.log(`[Fast-Eval] 专有新词闪电评估触发: "${cleanKw}"`);
+    const report = await evaluateFastTrend(cleanKw);
+    res.json(report);
+  } catch (err: any) {
+    console.error(`[Fast-Eval] 评估异常:`, err);
     res.status(500).json({ error: err.message });
   }
 });
