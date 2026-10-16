@@ -138,13 +138,117 @@ async function dispatchWebhookAlert(alerts: AlertItem[]) {
   const webhookUrl = getWebhookUrl();
   if (!webhookUrl || alerts.length === 0) return;
 
+  const isFeishu = webhookUrl.includes("feishu.cn");
+
+  if (isFeishu) {
+    // 飞书富文本互动卡片格式
+    const cardElements: any[] = [
+      {
+        tag: "div",
+        text: {
+          tag: "lark_md",
+          content: `**🚨 哥飞新词雷达检出 ${alerts.length} 个符合《选词金三角》标准的高潜交付词！**\n请立即核验是否具备 24 小时极速上站套利空间。`
+        }
+      },
+      { tag: "hr" }
+    ];
+
+    alerts.forEach((a, i) => {
+      cardElements.push({
+        tag: "div",
+        fields: [
+          {
+            is_short: true,
+            text: {
+              tag: "lark_md",
+              content: `**📌 候选词 #${i + 1}:**\n**${a.keyword}**`
+            }
+          },
+          {
+            is_short: true,
+            text: {
+              tag: "lark_md",
+              content: `**⭐ 评级:**\n\`${a.level}\``
+            }
+          },
+          {
+            is_short: true,
+            text: {
+              tag: "lark_md",
+              content: `**🛠️ 交付形态:**\n${a.deliveryType}`
+            }
+          },
+          {
+            is_short: true,
+            text: {
+              tag: "lark_md",
+              content: `**💰 变现模式:**\n一次性积分包 ($5.99)`
+            }
+          }
+        ]
+      });
+
+      if (a.suggestedH1) {
+        cardElements.push({
+          tag: "div",
+          text: {
+            tag: "lark_md",
+            content: `**💡 建议 GEO 落地 H1:** \`${a.suggestedH1}\``
+          }
+        });
+      }
+
+      cardElements.push({
+        tag: "action",
+        actions: [
+          {
+            tag: "button",
+            text: { tag: "plain_text", content: "📈 Trends 验证" },
+            type: "primary",
+            url: a.trendsUrl
+          },
+          {
+            tag: "button",
+            text: { tag: "plain_text", content: "🔍 查 SERP 竞品" },
+            type: "default",
+            url: a.serpUrl
+          }
+        ]
+      });
+
+      cardElements.push({ tag: "hr" });
+    });
+
+    try {
+      const res = await fetch(webhookUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          msg_type: "interactive",
+          card: {
+            config: { wide_screen_mode: true },
+            header: {
+              title: { tag: "plain_text", content: `🚨 TrendSpy 极速出单词战斗警报 (${alerts.length})` },
+              template: "red"
+            },
+            elements: cardElements
+          }
+        })
+      });
+      console.log(`[+] 成功向飞书群推送 ${alerts.length} 条富文本报警卡片！`);
+    } catch (err: any) {
+      console.warn(`[-] 飞书推送失败:`, err.message);
+    }
+    return;
+  }
+
+  // 其他通用 Webhook 文本格式
   const title = `🚨 哥飞新词雷达报警！发现 ${alerts.length} 个 S/A 级出单词`;
   const textLines = alerts.map((a, i) => 
     `${i + 1}. [${a.level}] **${a.keyword}**\n   - 交付物: ${a.deliveryType}\n   - 建议H1: ${a.suggestedH1}\n   - 验证: https://trends.google.com/trends/explore?q=${encodeURIComponent(a.keyword)}`
   ).join("\n\n");
 
   try {
-    // 兼容飞书、钉钉、企微通用格式
     await fetch(webhookUrl, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -154,7 +258,7 @@ async function dispatchWebhookAlert(alerts: AlertItem[]) {
         text: { content: `${title}\n\n${textLines}` }
       })
     });
-    console.log(`[+] 成功通过 Webhook 发送报警消息至: ${webhookUrl.slice(0, 30)}...`);
+    console.log(`[+] 成功通过通用 Webhook 发送报警消息至: ${webhookUrl.slice(0, 30)}...`);
   } catch (err: any) {
     console.warn(`[-] Webhook 推送失败:`, err.message);
   }
