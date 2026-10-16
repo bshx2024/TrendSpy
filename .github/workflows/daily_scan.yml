@@ -1,9 +1,9 @@
 name: TrendSpy Auto-Cruise & Sync
 
 on:
-  # 定时任务：每天执行 2 次 (北京时间 08:00 和 20:00)
+  # 定时任务：每 2 小时自动同步一次 (高频捕捉新词窗口)
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 */2 * * *'
   
   # 支持在 GitHub Actions 页面随时手动一键触发执行
   workflow_dispatch:

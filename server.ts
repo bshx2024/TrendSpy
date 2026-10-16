@@ -8,6 +8,7 @@ import { ENTITY_SEEDS } from "./entity_seeds.js";
 import { evaluateSerpDifficulty } from "./serp_evaluator.js";
 import { getStreamData } from "./batch_timeline_service.js";
 import { diagnoseKeyword } from "./sensenova_client.js";
+import { startWebCafeWatcher } from "./webcafe_watcher.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -712,6 +713,9 @@ if (!process.env.VERCEL) {
     console.log(`🌐 访问地址: http://localhost:${PORT}`);
     console.log(`📡 API 文档及数据监控服务已就绪`);
     console.log(`========================================================\n`);
+
+    // 启动哥飞 Web.Cafe 5分钟实时新词监听与秒级报警器
+    startWebCafeWatcher(5);
   });
 }
 

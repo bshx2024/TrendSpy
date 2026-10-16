@@ -16,6 +16,7 @@ import { runBenchmarkEngine } from "./benchmark_engine.js";
 import { runReportGeneration as runNewtrendReport } from "./generate_newtrend_report.js";
 import { runHostedSitesIngestion } from "./fetch_hosted_sites.js";
 import { runHnIngestion } from "./fetch_hn_new.js";
+import { runWebCafeIngestion } from "./fetch_webcafe_trends.js";
 import { recordCruiseBatchFromResults } from "./batch_timeline_service.js";
 
 async function runSafe(name: string, fn: () => Promise<any> | any) {
@@ -59,7 +60,10 @@ export async function main() {
   // 7. Hacker News 创客新站与痛点雷达
   await runSafe("Hacker News 创客新站雷达", () => runHnIngestion());
 
-  // 8. C 端自传播特征与意图逆向
+  // 8. 哥飞 Web.Cafe 开放 API 新词批次同步
+  await runSafe("哥飞 Web.Cafe 开放 API 新词批次同步", () => runWebCafeIngestion());
+
+  // 9. C 端自传播特征与意图逆向
   await runSafe("C端自传播特征与意图逆向分析", () => runViralAnalysis());
 
   // 4. 套利雷达核验与报告生成
