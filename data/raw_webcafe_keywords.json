@@ -1,17 +1,760 @@
 {
-  "fetched_at": "2026-10-17T08:23:52.241Z",
-  "total": 330,
+  "fetched_at": "2026-10-17T13:32:32.126Z",
+  "total": 293,
   "batches_synced": [
+    "2026-10-17T1109",
     "2026-10-17T0819",
     "2026-10-17T0516",
     "2026-10-17T0253",
-    "2026-10-16T2312",
-    "2026-10-16T2023"
+    "2026-10-16T2312"
   ],
   "items": [
     {
+      "keyword": "deepseek v4.1 flash 1017",
+      "category": "ai",
+      "verdict": "maybe",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "deepseek v4.1 flash 1017",
+        "category": "ai",
+        "kind": "new",
+        "trend_now": "",
+        "heat_ratio": 0.051,
+        "growth_pct": null,
+        "appear_date": "2026-05-10",
+        "burst_date": null,
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 7,
+        "verdict": "maybe",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 5.1%，刚够建站门槛，但趋势未知，风险较高。",
+          "前两页 7 个专门页面全是内页，来自 x.com、reddit 等月流量数十亿的大站。",
+          "没有新站首页在竞争，但大站内页已全面覆盖，新站首页很难突围。",
+          "这是一个 AI 模型的具体版本号，需求主要是看评测和 API 价格，不适合做工具页。"
+        ],
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "DeepSeek 于 2026 年 10 月 17 日发布的 V4.1-Flash 模型新检查点，性能更强、输出更简洁。",
+          "want": "搜这个词的人想了解新模型的性能评测、基准跑分、API 定价，以及和旧版的对比。",
+          "how": "不建议建新站。可在现有 AI 工具站做一个内页，形式为「模型评测 + API 价格对比页」，汇总各平台（OpenRouter 等）的定价和跑分数据。"
+        },
+        "sources": [
+          "OpenRouter:text+image→text"
+        ],
+        "spark": [],
+        "page_url": "https://new.web.cafe/keywords/deepseek-v4-1-flash-1017-371289"
+      }
+    },
+    {
+      "keyword": "heap hopper",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "heap hopper",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "",
+        "heat_ratio": 0.006,
+        "growth_pct": null,
+        "appear_date": "2026-06-14",
+        "burst_date": null,
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 0,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.6%，搜索量极低，不值得投入。",
+          "前两页没有任何专门针对这个词的页面，说明没有明确的搜索意图。",
+          "搜索结果全是「Heap 数据分析平台」「Hopper 旅行 App」「HEAP 能源补助」等无关内容。",
+          "从搜索结果完全看不出 'heap hopper' 具体指什么，可能只是拼写错误或极小众的梗。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出具体是什么，可能是一个极小众的网页游戏或拼写错误。",
+          "want": "搜索意图不明，谷歌结果混杂了数据分析平台、旅行 App 和能源补助计划，没有一致需求。",
+          "how": "不建议做。搜索量极低且意图模糊，无法确定做什么内容。非要做的话，最多在游戏站加一个猜测性的介绍内页，但几乎不会有流量。"
+        },
+        "sources": [
+          "小游戏:y8"
+        ],
+        "spark": [],
+        "page_url": "https://new.web.cafe/keywords/heap-hopper"
+      }
+    },
+    {
+      "keyword": "mw4 campaign early access countdown",
+      "category": "game",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "mw4 campaign early access countdown",
+        "category": "game",
+        "kind": "new",
+        "trend_now": "上升中",
+        "heat_ratio": 0.004,
+        "growth_pct": null,
+        "appear_date": "2026-10-14",
+        "burst_date": "2026-10-15",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 2,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.4%，搜索量太低，且是时效性极强的短期热点。",
+          "前两页只有 2 个专门页面，都是大站内页（x.com、dotesports.com）。",
+          "这是一个已过期的倒计时需求——Early Access 已于 10 月 16 日开启，搜索高峰已过。",
+          "官方和 IGN、Forbes 等大媒体已全面覆盖，新站没有任何优势。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "《使命召唤：现代战争 4》战役模式抢先体验的解锁倒计时，已于 2026 年 10 月 16 日开启。",
+          "want": "搜的人想知道距离抢先体验解锁还有多久，以及自己所在时区的具体解锁时间。",
+          "how": "不建议做。这是一个已过期的短期热点，倒计时结束后搜索量会归零。非要做的话，最多做一个「MW4 上线时间汇总」内页，但已错过最佳窗口。"
+        },
+        "sources": [
+          "early access",
+          "countdown"
+        ],
+        "spark": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          14,
+          50,
+          100
+        ],
+        "page_url": "https://new.web.cafe/keywords/mw4-campaign-early-access-countdown"
+      }
+    },
+    {
+      "keyword": "runewarden",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "runewarden",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "",
+        "heat_ratio": 0.004,
+        "growth_pct": null,
+        "appear_date": "2026-02-22",
+        "burst_date": null,
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 20,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.4%，搜索量极低。",
+          "前两页 20 个结果全是专门页面，但都是大站内页（wowhead、reddit、fandom 等），竞争饱和。",
+          "这个词被多个游戏使用（Achaea、魔兽世界、D&D 等），搜索意图分散，难以精准满足。",
+          "没有新站首页在排，说明这个领域已被老牌游戏 Wiki 站垄断。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "一个被多款游戏使用的名称：Achaea 中的骑士职业、魔兽世界中的 NPC 和装备套装、D&D 中的魔法武器。",
+          "want": "搜的人可能想找魔兽世界 NPC 位置和任务攻略，或 Achaea 职业指南，或 D&D 武器数据。",
+          "how": "不建议做。搜索量低且意图分散，老牌 Wiki 站已全面覆盖。非要做的话，只能做一个「Runewarden 含义汇总」内页，但流量会很低。"
+        },
+        "sources": [
+          "小游戏:y8"
+        ],
+        "spark": [],
+        "page_url": "https://new.web.cafe/keywords/runewarden"
+      }
+    },
+    {
+      "keyword": "koma crash",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "koma crash",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "",
+        "heat_ratio": 0.003,
+        "growth_pct": null,
+        "appear_date": "2026-06-07",
+        "burst_date": null,
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 6,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.3%，搜索量极低。",
+          "搜索结果意图极度混乱：Magic Arena 游戏崩溃、加密货币暴跌、车祸昏迷、女子摔跤纪念册。",
+          "前两页 6 个专门页面来自 reddit、binance、ebay 等，覆盖了完全不同的主题。",
+          "无法确定用户到底在搜什么，建站无法精准命中需求。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出统一含义，可能指万智牌游戏崩溃、Koma Inu 代币暴跌、或车祸昏迷的拼写错误。",
+          "want": "搜索意图极度分散，有人想解决游戏 Bug，有人看币价，有人找车祸法律信息。",
+          "how": "不建议做。这个词没有统一搜索意图，无论做什么内容都只能命中一小部分用户。非要做的话，最多做一个「Koma Crash 含义解释」内页，但几乎不会有稳定流量。"
+        },
+        "sources": [
+          "小游戏:itch"
+        ],
+        "spark": [],
+        "page_url": "https://new.web.cafe/keywords/koma-crash"
+      }
+    },
+    {
+      "keyword": "minecraft boy nether end",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "minecraft boy nether end",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "已明显回落",
+        "heat_ratio": 0.002,
+        "growth_pct": null,
+        "appear_date": "2026-03-29",
+        "burst_date": "2026-04-08",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 0,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.2%，且走势已明显回落，搜索量极低。",
+          "前两页没有任何专门针对这个词的页面，说明没有明确的搜索需求。",
+          "搜索结果全是 Minecraft 皮肤、LEGO 套装、通用攻略，没有针对 'boy' 的特定内容。",
+          "这可能只是用户随意组合的搜索词，没有稳定的流量价值。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出具体指什么，可能是用户搜索 Minecraft 男孩皮肤时随意组合的关键词。",
+          "want": "搜的人可能在找 Minecraft 男孩角色的地狱和末地主题皮肤，或相关 LEGO 套装。",
+          "how": "不建议做。搜索量极低且意图模糊，没有专门页面在竞争说明需求不存在。非要做的话，最多做一个 Minecraft 皮肤合集内页，但这个词本身带不来流量。"
+        },
+        "sources": [
+          "小游戏:itch"
+        ],
+        "spark": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "page_url": "https://new.web.cafe/keywords/minecraft-boy-nether-end"
+      }
+    },
+    {
+      "keyword": "cursor staff investigated",
+      "category": "ai",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "cursor staff investigated",
+        "category": "ai",
+        "kind": "new",
+        "trend_now": "已明显回落",
+        "heat_ratio": 0,
+        "growth_pct": null,
+        "appear_date": "2026-10-11",
+        "burst_date": "2026-10-15",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 0,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度太小：谷歌趋势里几乎没有量"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": null,
+        "sources": [
+          "新闻:The Information"
+        ],
+        "spark": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          100,
+          0
+        ],
+        "page_url": "https://new.web.cafe/keywords/cursor-staff-investigated"
+      }
+    },
+    {
+      "keyword": "shred the evidence",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "shred the evidence",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "已明显回落",
+        "heat_ratio": 0,
+        "growth_pct": 25,
+        "appear_date": "2026-02-22",
+        "burst_date": "2026-02-28",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 14,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs×0.0，搜索量极低。",
+          "走势已明显回落，仅是一次短暂爆发，无持续流量。",
+          "前两页 14 个专门页面，全是词典、音乐、Roblox 游戏等大站内页，无独立站首页。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "这是一个英语短语，意为“销毁证据”。同时，它也是 Roblox 平台上一款模拟销毁文件的游戏。",
+          "want": "搜索者可能在查这个短语的意思，也可能在找 Roblox 上同名游戏的攻略或试玩视频。",
+          "how": "不建议做。热度极低且已回落，用户意图在词典查询和游戏攻略间摇摆。非要做的话，最多做一个 Roblox 游戏攻略内页，但流量会非常少。"
+        },
+        "sources": [
+          "小游戏:crazygames"
+        ],
+        "spark": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          6,
+          6,
+          0,
+          0,
+          0,
+          8,
+          0,
+          0,
+          0,
+          0,
+          7,
+          0
+        ],
+        "page_url": "https://new.web.cafe/keywords/shred-the-evidence"
+      }
+    },
+    {
+      "keyword": "crazy bash",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "crazy bash",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "回落中",
+        "heat_ratio": 0,
+        "growth_pct": -7,
+        "appear_date": "2025-11-02",
+        "burst_date": "2026-10-06",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 13,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs×0.0，几乎无人搜索，流量价值极低。",
+          "前两页 13 个专门页面，其中 #1 是 2016 年注册的老站首页，竞争激烈。",
+          "搜索结果混杂了啤酒节活动、同名游戏和播客，用户意图极度分散。",
+          "走势回落中，近期涨幅 -7%，热度还在下降。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看，'Crazy Bash' 既指一款复古像素风跳跃手游，也指一个叫 'Crazy Brew Bash' 的线下啤酒节活动。",
+          "want": "搜这个词的人，一部分想找同名手机游戏下载或试玩，另一部分在找啤酒节的门票和活动信息。",
+          "how": "不建议做。搜索量几乎为零，且意图混乱。非要做的话，最多做一个区分游戏和啤酒节的导航页，但几乎没有流量价值。"
+        },
+        "sources": [
+          "小游戏:crazygames"
+        ],
+        "spark": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          60,
+          0,
+          55,
+          63,
+          50,
+          58,
+          100,
+          46,
+          0,
+          49,
+          0,
+          70,
+          0
+        ],
+        "page_url": "https://new.web.cafe/keywords/crazy-bash"
+      }
+    },
+    {
+      "keyword": "claw descent",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "claw descent",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "",
+        "heat_ratio": 0,
+        "growth_pct": null,
+        "appear_date": "2025-12-21",
+        "burst_date": null,
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 9,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs×0.0，搜索需求极低。",
+          "前两页 9 个专门页面全是内页，没有独立站首页，说明无商业价值。",
+          "搜索结果指向滑雪路线、C64 老游戏、游戏播客等多个不相关领域，用户意图混乱。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出一个统一的定义。它可能指科罗拉多州的一条滑雪路线，也可能是一款 Commodore 64 上的老游戏。",
+          "want": "搜索者可能在找滑雪路线信息、复古游戏评测，或是《Dead Space》的游戏攻略，需求非常分散。",
+          "how": "不建议做。搜索量几乎为零，且没有明确统一的用户需求。非要做的话，最多做一个整合不同含义的百科词条页，但无商业前景。"
+        },
+        "sources": [
+          "小游戏:crazygames"
+        ],
+        "spark": [],
+        "page_url": "https://new.web.cafe/keywords/claw-descent"
+      }
+    },
+    {
+      "keyword": "battle bots arena",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "battle bots arena",
+        "category": "webgame",
+        "kind": "new",
+        "trend_now": "已明显回落",
+        "heat_ratio": 0,
+        "growth_pct": null,
+        "appear_date": "2025-12-28",
+        "burst_date": "2026-07-06",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 5,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs 的 0%，几乎没有搜索量，且走势已明显回落。",
+          "前两页 5 个专门页面都是大站内页（hexbug.com、amazon.com），卖的是实体玩具。",
+          "搜索结果主要是 BattleBots 拉斯维加斯现场秀和 HEXBUG 玩具，不是网页游戏。",
+          "用户意图是买玩具或买票看秀，不适合做网页游戏站。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "BattleBots 是一个机器人格斗赛事，这个词主要指其比赛场地，也指 HEXBUG 出的玩具套装。",
+          "want": "搜的人想买 HEXBUG 的 BattleBots Arena 玩具，或了解拉斯维加斯现场秀的门票和场地信息。",
+          "how": "不建议做。搜索量几乎为零，且用户意图是购买实体玩具或门票，无法用网页游戏满足。非要做的话，最多做一个 BattleBots 玩具对比内页，但不会有流量。"
+        },
+        "sources": [
+          "小游戏:crazygames"
+        ],
+        "spark": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "page_url": "https://new.web.cafe/keywords/battle-bots-arena"
+      }
+    },
+    {
+      "keyword": "deepseek-v4.1-flash",
+      "category": "ai",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "deepseek-v4.1-flash",
+        "category": "ai",
+        "kind": "resurgence",
+        "trend_now": "已明显回落",
+        "heat_ratio": 0.095,
+        "growth_pct": -3,
+        "appear_date": null,
+        "burst_date": "2026-09-10",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 19,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "这是DeepSeek公司的官方模型名称，属于品牌词，搜的人主要想找官方文档、API或HuggingFace页面。",
+          "前两页19个专门页面中，官网deepseek.com占据#1和#5，HuggingFace、NVIDIA等巨头内页占据前排，新站无法截流。",
+          "热度GPTs×0.077但已明显回落（-33%），属于模型发布后的短期热度，没有持续搜索需求。",
+          "搜索结果全是技术文档、基准测试、API定价，用户需求是使用和接入，不是看第三方攻略。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "DeepSeek-V4.1-Flash是DeepSeek公司于2026年9月10日发布的多模态MoE模型，拥有552B参数，主打高效推理和长上下文。",
+          "want": "搜索者想获取官方模型介绍、API接入价格、性能基准测试结果，或在HuggingFace下载模型权重。",
+          "how": "不建议做。这是官方品牌词，用户直奔官网和HuggingFace，新站无法在排名上竞争。非要做的话，最多做一个中文评测或教程内页，但流量会被官网和OpenRouter等平台截走。"
+        },
+        "sources": [
+          "deepseek v4",
+          "x:testingcatalog"
+        ],
+        "spark": [
+          21,
+          29,
+          42,
+          64,
+          61,
+          23,
+          10,
+          12,
+          15,
+          10,
+          13,
+          10,
+          13,
+          10,
+          0,
+          7,
+          5,
+          5,
+          6,
+          5,
+          6,
+          6,
+          5,
+          5,
+          4,
+          5,
+          5,
+          6,
+          6,
+          6
+        ],
+        "page_url": "https://new.web.cafe/keywords/deepseek-v4-1-flash-c89eb4"
+      }
+    },
+    {
+      "keyword": "elyndor",
+      "category": "webgame",
+      "verdict": "skip",
+      "batchId": "2026-10-17T1109",
+      "fetchedAt": "2026-10-17T11:09:58.000Z",
+      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T1109",
+      "raw": {
+        "keyword": "elyndor",
+        "category": "webgame",
+        "kind": "resurgence",
+        "trend_now": "已明显回落",
+        "heat_ratio": 0.001,
+        "growth_pct": 31,
+        "appear_date": null,
+        "burst_date": "2026-05-19",
+        "pushed_on": null,
+        "page_count": 0,
+        "targeted_count": 19,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.1%，且走势已明显回落，搜索量极低。",
+          "前两页 19 个专门页面，已有 2 个新站首页（elyndor.world 2025-11、elyndor.store 2025-09），竞争激烈。",
+          "这个词被用于多个领域：奇幻艺术、Steam 游戏、小说、方舟服务器，意图分散。",
+          "已有新站验证过，但热度太低，即使做起来流量也微乎其微。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "一个被多领域使用的名称：奇幻艺术与收藏品品牌、Steam 上的 RPG 游戏、奇幻小说、方舟服务器。",
+          "want": "搜的人可能在找 Elyndor 艺术商店、Steam 游戏页面、小说购买链接，或方舟服务器加入方式。",
+          "how": "不建议做。搜索量极低且已有多个新站竞争，意图还分散。非要做的话，只能做一个「Elyndor 含义汇总」内页，但流量会非常低。"
+        },
+        "sources": [
+          "小游戏:itch"
+        ],
+        "spark": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          11,
+          0,
+          11,
+          10,
+          11,
+          9,
+          0,
+          0,
+          12,
+          6,
+          8,
+          8,
+          16,
+          18
+        ],
+        "page_url": "https://new.web.cafe/keywords/elyndor"
+      }
+    },
+    {
       "keyword": "reverse engineering anything",
       "category": "tool",
+      "verdict": "worth",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -25,17 +768,26 @@
         "appear_date": "2026-10-04",
         "burst_date": "2026-10-12",
         "pushed_on": "2026-10-17",
-        "page_count": 1,
+        "page_count": 11,
         "targeted_count": 15,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "worth",
+        "verdict_reasons": [
+          "热度为 GPTs 的 1.5 倍且暴涨中，近期涨幅 1221%，势头极猛",
+          "前两页 15 个专门页面均为 GitHub、YouTube 等内页，无新站首页",
+          "这是一个开源工具，开发者社区需求明确，可做教程和案例站",
+          "长尾 1 个，但核心词热度足够支撑一个小型工具介绍站"
+        ],
+        "verdict_suggestion": "新站首页",
+        "brief": {
+          "what": "REA（Reverse Engineer Anything）是一个开源 MCP 工具，让 AI 编程代理能够逆向分析二进制和应用程序。",
+          "want": "搜这个词的人想了解 REA 是什么、如何安装使用、有哪些实际案例和教程。",
+          "how": "做新站首页，形式为工具介绍站，提供 REA 安装指南、命令行用法、与 Claude Code 等代理的集成教程和真实逆向案例展示。"
+        },
         "sources": [
           "photocraft",
-          "artcraft github",
-          "getartcraft",
           "artcraft",
+          "getartcraft",
+          "artcraft github",
           "adobe artcraft"
         ],
         "spark": [
@@ -76,6 +828,7 @@
     {
       "keyword": "tesla demo roadster",
       "category": "game",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -91,10 +844,19 @@
         "pushed_on": "2026-10-17",
         "page_count": 0,
         "targeted_count": 11,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "这是一个新闻事件，特斯拉 Roadster 飞行演示，热度短暂且无法持续",
+          "热度仅 GPTs 的 1.1 倍，且长尾为 0，搜索需求会迅速消失",
+          "前两页全是 Investors.com、Road & Track 等新闻媒体内页，无内容沉淀可能",
+          "无法做成工具或生成器，最多只能做一次性新闻聚合"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "2026 年 10 月 15 日特斯拉发布的新 Roadster 演示，展示火箭推进器飞行和 0-60 英里 0.81 秒加速。",
+          "want": "搜这个词的人想看演示视频、新闻图片和性能参数，纯属看热闹。",
+          "how": "不建议做，因为只是新闻事件，热度几天内就会消失；非要做最多在现有站发一篇新闻聚合内页，但无长期流量价值。"
+        },
         "sources": [
           "demo"
         ],
@@ -133,6 +895,7 @@
     {
       "keyword": "ritchie torres video game ownership bill",
       "category": "game",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -148,10 +911,19 @@
         "pushed_on": "2026-10-17",
         "page_count": 0,
         "targeted_count": 0,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "为突发新闻事件，搜索意图是看报道，无任何工具/游戏/攻略需求",
+          "专对页面为 0，全部结果为 Tom's Hardware、Ars Technica 等新闻站，无变现空间",
+          "热度 GPTs×0.19 但时效极短，几天后流量会归零",
+          "已判定不适合建站"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "美国众议员 Ritchie Torres 提出的法案，旨在让购买数字游戏成为真正拥有而非租赁许可。",
+          "want": "用户想了解法案内容、影响，以及哪些权益会被保护，主要是看新闻。",
+          "how": "不建议做：纯新闻话题，无法沉淀成工具或内容页。非要做只能在游戏资讯站做一篇内页解读「Power To The Players Act 要点」，生命周期极短。"
+        },
         "sources": [
           "game"
         ],
@@ -250,6 +1022,7 @@
     {
       "keyword": "name something that uses steam",
       "category": "game",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -265,10 +1038,18 @@
         "pushed_on": "2026-10-17",
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "maybe",
+        "verdict_reasons": [
+          "热度仅 0.035，低于建站阈值，只适合做内页",
+          "前两页专门页面只有 1 个内页，竞争很小",
+          "趋势上升中，需求来自家庭问答游戏，可短期获取流量"
+        ],
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "这是一个 Family Feud 类问答游戏中的题目，让玩家回答使用蒸汽的物品",
+          "want": "搜索者是在找这道题的答案列表，以便在游戏中快速通关",
+          "how": "在已有网站做一个答案合集内页，列出锅炉、蒸锅、咖啡机等常见答案，并加上简短说明，满足快问快答需求"
+        },
         "sources": [
           "steam"
         ],
@@ -307,6 +1088,7 @@
     {
       "keyword": "tvs raider 125 tft dd update",
       "category": "other",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -322,10 +1104,18 @@
         "pushed_on": "2026-10-17",
         "page_count": 0,
         "targeted_count": 0,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "maybe",
+        "verdict_reasons": [
+          "热度 0.021，只够内页，建站不划算",
+          "前两页专门页面 0 个，完全无直接竞争",
+          "走势上升，关注新款摩托更新信息的人正在变多"
+        ],
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "TVS Raider 125 摩托车的最新更新，涉及 TFT 仪表盘和双碟刹配置",
+          "want": "搜索者想看具体的更新细节、实拍图片、价格变化以及升级后的功能",
+          "how": "在有相关车型内容的站内做详情汇总内页，整理官方升级亮点、各媒体评测链接，用清晰列表展示变化"
+        },
         "sources": [
           "update"
         ],
@@ -364,7 +1154,7 @@
     {
       "keyword": "technology in avatar seven havens",
       "category": "ai",
-      "verdict": "skip",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -380,12 +1170,18 @@
         "pushed_on": "2026-10-17",
         "page_count": 0,
         "targeted_count": 4,
-        "verdict": "skip",
+        "verdict": "maybe",
         "verdict_reasons": [
-          "热度太小：只有 GPTs 的 0.9%，搜的人太少"
+          "热度仅 0.012，远未达到建站水平",
+          "专门页面只有 4 个大站内页，竞争以高质量内容为主",
+          "话题有一定讨论度，适合做深度解析内页吸引粉丝"
         ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "动画《Avatar: Seven Havens》中世界观崩塌后遗留的科技水平讨论",
+          "want": "粉丝想了解灾变后哪些科技还能使用，以及系列中的科技变化",
+          "how": "做一篇分析性内页，结合剧中线索和设定梳理科技现状，配上截图与时间线对比，打造系列站的专业内容"
+        },
         "sources": [
           "avatar seven havens"
         ],
@@ -427,6 +1223,7 @@
     {
       "keyword": "akasha avatar seven havens",
       "category": "ai",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -442,10 +1239,18 @@
         "pushed_on": "2026-10-17",
         "page_count": 0,
         "targeted_count": 2,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度仅 0.005，搜索量极低",
+          "专门页面均为 reddit 内页，是社区讨论话题，商业价值弱",
+          "仅为动画中的一个未知地标，无法做成工具或持续吸引流量的内容"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "Akasha 是《Avatar: Seven Havens》剧中提到的一个避难所名称，粉丝在猜测其位置",
+          "want": "粉丝想知道 Akasha 代表哪个颜色/元素，以及剧情中的暗示",
+          "how": "不建议建站或做专门内页，热度太低且只是一次性剧情讨论。如果在粉丝站内，可顺势写一段解析作为系列文章的一部分"
+        },
         "sources": [
           "avatar seven havens"
         ],
@@ -608,6 +1413,7 @@
     {
       "keyword": "quenq vice city",
       "category": "other",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -623,10 +1429,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 8,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "maybe",
+        "verdict_reasons": [
+          "热度为 GPTs 的 3.4 倍，但走势回落且近期涨幅仅 1%，需求疲软",
+          "前两页已有 2026 年 7 月注册的新站首页 quenqsvicecity.com 在排",
+          "长尾为 0，搜索词高度集中，单独建站风险大",
+          "可依附已有站做内页，提供入口或替代指南，降低竞争压力"
+        ],
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "一个名为 Quenq 的网站提供的浏览器版 GTA Vice City，无需下载即可在线游玩。",
+          "want": "搜这个词的人想直接找到在线游玩入口、了解是否免费、看玩法介绍。",
+          "how": "做内页，形式为「在线玩 GTA Vice City 指南」，汇总 quenq.com 入口、操作说明、常见问题，并推荐类似浏览器游戏，避免与已有首页直接竞争。"
+        },
         "sources": [
           "browser game"
         ],
@@ -668,7 +1483,7 @@
     {
       "keyword": "avatar seven havens episodes",
       "category": "ai",
-      "verdict": "maybe",
+      "verdict": "worth",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -684,17 +1499,18 @@
         "pushed_on": "2026-10-12",
         "page_count": 2,
         "targeted_count": 9,
-        "verdict": "maybe",
+        "verdict": "worth",
         "verdict_reasons": [
-          "虽然热度极高（GPTs×1.1，涨幅 3200%），但这完全是一个百科/清单类信息查询词，需求会随着剧集播完而消失",
-          "前 2 名是 IMDb 和 Fandom（月流量 6.6 亿和 8.1 亿）的专辑页，新站首页排进前两页的可能性为 0",
-          "已有 9 个专门页面，全是月流量巨大或千万级媒体的内页，竞争激烈但全部是内页，侧面印证用户只需要一页清单"
+          "热度为 GPTs 的 2.1 倍且仍在上升，近期涨幅 445%，趋势强劲",
+          "前两页 9 个专门页面均为 IMDb、Fandom 等大站内页，无新站首页",
+          "剧集刚开播，后续每周更新，搜索需求会持续数月",
+          "长尾 2 个，可围绕剧集指南、分集剧情扩展内容"
         ],
-        "verdict_suggestion": "做内页",
+        "verdict_suggestion": "新站首页",
         "brief": {
-          "what": "《降世神通：七重天堂》是 2026 年 10 月 9 日在 Paramount+ 首播的动画剧集，是《最后的气宗》和《科拉传奇》的续作，讲述新一任神通的冒险。",
-          "want": "用户想要一份清晰完整的剧集列表，包括分集标题、播出日期、分集摘要，以及每周更新几集的排播表。",
-          "how": "不建议建新站。热度虽高但需求单一，可以在已有的影视/动漫资讯站做一个内页，提供完整的「《七重天堂》分集列表」，做出中英文对照标题、剧情简介和更新时间表，配上汇总剧评，以此截流。"
+          "what": "《降世神通：七重天》是 2026 年 10 月 9 日在 Paramount+ 开播的动画剧集，首季共 13 集。",
+          "want": "搜这个词的人想要每集播出时间表、分集标题、观看链接和剧情讨论。",
+          "how": "做新站首页，形式为剧集指南站，提供播出日历、每集简介、观看平台汇总和剧透讨论区，随着新集播出持续更新。"
         },
         "sources": [
           "avatar seven heavens",
@@ -758,15 +1574,16 @@
         "targeted_count": 18,
         "verdict": "maybe",
         "verdict_reasons": [
-          "模型品牌词，官方内页 z.ai 排在前列",
-          "前两页 18 个专门页面均为内页，无独立首页",
-          "热度 GPTs×1.3，适合做模型评测或使用教程内页"
+          "热度为 GPTs 的 1.6 倍，但已明显回落，近期涨幅仅 8%，热度消退快",
+          "前两页 18 个专门页面全是 HuggingFace、OpenRouter 等平台内页，无新站首页",
+          "长尾为 0，搜索词单一，单独建站难以获取长尾流量",
+          "可做内页提供模型对比或教程，依附技术站获取已有用户"
         ],
         "verdict_suggestion": "做内页",
         "brief": {
-          "what": "Z.ai 推出的 GLM-5.3-Flash 多模态模型，320B 参数，18B 激活。",
-          "want": "了解模型性能、API 价格、如何本地运行、与 GLM-5.3 的对比。",
-          "how": "做内页，撰写 GLM-5.3-Flash 详细评测，包含基准测试、与 GPT-5.6 Terra 的对比、Ollama 本地部署教程，或 API 调用示例。"
+          "what": "Z.ai 推出的多模态 AI 模型 GLM-5.3-Flash，320B 总参数、18B 活跃参数，主打低成本编程和代理任务。",
+          "want": "搜这个词的人想了解模型性能、API 价格、如何本地运行以及和 GLM-5.3 的对比。",
+          "how": "做内页，形式为「GLM-5.3-Flash 使用指南」，包含模型介绍、API 接入步骤、基准测试对比和实际用例，放在已有 AI 工具站下。"
         },
         "sources": [
           "glm"
@@ -827,16 +1644,16 @@
         "targeted_count": 14,
         "verdict": "worth",
         "verdict_reasons": [
-          "热度GPTs×0.44且上升中，有1个长尾词，需求在增长",
-          "前两页14个专门页面全是内页，无新站首页，存在机会窗口",
-          "SourceForge、Uptodown等下载站只是内页，未专门针对此词建站",
-          "工具类需求明确：下载、安装教程、PSD编辑，适合做工具站"
+          "热度高达 GPTs 的 91%，且近一周仍在暴涨 352%，需求极其旺盛",
+          "前两页虽有 14 个专门页面，但全部是 YouTube、SourceForge 等大站内页，无新站首页占据",
+          "搜索词为「软件名+download」，意图明确，可快速搭建下载与安装教程站",
+          "需趁热度高峰尽快上线，抢占大站内页未覆盖的独立入口"
         ],
         "verdict_suggestion": "新站首页",
         "brief": {
-          "what": "PhotoCraft是开源免费的Photoshop替代品，用Rust编写，支持PSD文件读写、图层、蒙版和调整层。",
-          "want": "搜的人想找下载链接（Windows/Mac/Linux）、安装教程、和Photoshop的功能对比、是否支持PSD编辑。",
-          "how": "可以做新站首页，形式为「PhotoCraft下载与教程站」。核心内容：各平台下载链接聚合、安装图文教程、PSD编辑实测、与Photoshop功能对比表、常见问题。注意引导到官方getartcraft.com下载。"
+          "what": "PhotoCraft 是一款免费开源的 Photoshop 替代品，由 ArtCraft 推出，支持 PSD、图层、蒙版等。",
+          "want": "搜索者想找到安全、直接的 PhotoCraft 下载链接，以及 Windows/Mac/Linux 安装教程。",
+          "how": "新站首页做「PhotoCraft 下载与安装一站通」，聚合各系统官方/可靠下载链、图文安装步骤、常见问题解答，突出安全免费。"
         },
         "sources": [
           "artcraft photoshop",
@@ -885,6 +1702,7 @@
     {
       "keyword": "san clemente fire update",
       "category": "other",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -900,10 +1718,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 0,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "为突发山火新闻，需求随事件结束迅速消失，无法持续吸引流量",
+          "前两页全是新闻媒体和官方通告，专对页面为 0，无商业内容空间",
+          "热度只有 GPTs×0.10，不足以支撑建站，也无长尾词",
+          "已判定不适合建站"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "指加州 San Clemente 地区发生的 Norte 山火，有强制疏散和房屋被毁的更新信息。",
+          "want": "搜索者要查看最新火势、疏散区域、道路封闭和受灾情况。",
+          "how": "不建议做：突发灾难新闻，没有稳定需求。做时效内页很快失效，成本上完全不划算。"
+        },
         "sources": [
           "update"
         ],
@@ -945,6 +1772,7 @@
     {
       "keyword": "accenture claude ai spending cap",
       "category": "ai",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -960,10 +1788,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 4,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "属于企业内部政策新闻，热度 GPTs×0.059 且已回落，无工具/教程需求",
+          "前两页 4 个专对页面全为 Yahoo、TNW 等新闻内页，没有可参与的空间",
+          "搜这个词的人只想看新闻细节，不会反复搜索，无法形成稳定流量",
+          "已判定不适合建站"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "咨询巨头埃森哲将员工使用 Claude AI 的公司补贴上限设为每人每月 29 美元，此前有人月花费上千。",
+          "want": "搜索者想了解政策细节、限制背后的成本考量，以及员工反应。",
+          "how": "不建议做：IT 圈短新闻，很难扩展。硬做只能在 AI 资讯站写内页「埃森哲 Claude 限费事件复盘」，价值极低。"
+        },
         "sources": [
           "claude"
         ],
@@ -1002,6 +1839,7 @@
     {
       "keyword": "opencode glm 5.3 flash",
       "category": "ai",
+      "verdict": "worth",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1017,10 +1855,18 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 10,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "worth",
+        "verdict_reasons": [
+          "热度0.052，超过建站阈值，搜的人足够多",
+          "前两页10个专门页面全部是大站内页，无独立站首页",
+          "走势虽回落但仍有搜索价值，可抢时效做工具页"
+        ],
+        "verdict_suggestion": "新站首页",
+        "brief": {
+          "what": "GLM-5.3-Flash 是智谱 AI 推出的高效开源大模型，可在 OpenCode 等平台免费使用",
+          "want": "搜索者想要在线体验、获取 API 接入方式、查看价格与性能对比",
+          "how": "可做新站首页，核心提供免费在线试用工具、API Key 申请教程、与 GLM-5.3 的对比表，快速截取搜索流量"
+        },
         "sources": [
           "glm"
         ],
@@ -1094,6 +1940,7 @@
     {
       "keyword": "charisma style quiz animals",
       "category": "other",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1109,10 +1956,18 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度极低仅 0.006，且趋势下跌 35%，几乎没流量",
+          "专门页面仅 1 个新站内页，需求太小众",
+          "题目本质是一个性格测试，生命周期短，不值得投入"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "一个叫“Charisma Animal Quiz”的免费性格测试，匹配 31 种动物",
+          "want": "用户想做趣味测试，看看自己对应哪种动物魅力风格",
+          "how": "不建议建站或做内页，热度太低已过峰值。若非要做，最多在娱乐站做一个极简测评内页并引导分享"
+        },
         "sources": [
           "quiz"
         ],
@@ -1172,16 +2027,16 @@
         "targeted_count": 2,
         "verdict": "skip",
         "verdict_reasons": [
-          "热度仅 GPTs 的 0.2%，且近期涨幅 -100%，爆发已结束",
-          "专门页面仅 2 个内页，需求不稳定",
-          "主题涉及成人内容，存在合规风险",
-          "长尾 0，无持续搜索动机"
+          "热度只有 GPTs 的 0.5%，且走势已明显回落，搜索量极低。",
+          "前两页仅 2 个专门页面，但都是大站内页（kemono.cr、ptt.cc），需求已被满足。",
+          "Civitai 官网已占据多个结果，用户可直接在官网找到 R18 内容设置方法。",
+          "这是一个典型的教程类需求，用户搜完即走，没有做工具或生成器的空间。"
         ],
         "verdict_suggestion": "不建议做",
         "brief": {
-          "what": "Civitai 是 AI 模型平台，R18 指成人内容，用户寻求搜索/开启方法。",
-          "want": "搜的人想了解如何开启 R18 内容或寻找替代平台。",
-          "how": "不建议做：合规风险高，热度已崩；非要做只能写一篇谨慎的教程内页，但风险大于收益。"
+          "what": "这是一个关于如何在 AI 模型平台 Civitai 上搜索和查看 R18（成人）内容的搜索词。",
+          "want": "搜的人想要找到在 Civitai 上开启成人内容过滤、搜索 NSFW 模型的具体方法或教程。",
+          "how": "不建议做。这只是一个平台使用教程类需求，用户搜完设置方法就会离开，没有持续流量价值。非要做的话，最多在自己的 AI 工具站里加一篇图文教程内页，但很难竞争过官网和 Reddit。"
         },
         "sources": [
           "civitai"
@@ -1224,6 +2079,7 @@
     {
       "keyword": "nio firefly september deliveries",
       "category": "ai",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1239,10 +2095,18 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度仅 0.005，非常低，流量无法支撑",
+          "前两页仅 1 个专门页面，是 threads.com 内页，无独立站机会",
+          "属于新闻类短期信息，无工具或攻略价值，持续搜索量极低"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "蔚来旗下 Firefly 品牌 2026 年 9 月份的交付数据新闻",
+          "want": "关注电动车销量的人查看当月交付数量和累计里程碑",
+          "how": "不值得单独建站或做内页，数据很快过时。非要做，只能在综合新闻站里作为月度交付统计文章的一部分简单提及"
+        },
         "sources": [
           "firefly"
         ],
@@ -1341,7 +2205,7 @@
     {
       "keyword": "oya gacha",
       "category": "other",
-      "verdict": "skip",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1357,12 +2221,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 7,
-        "verdict": "skip",
+        "verdict": "maybe",
         "verdict_reasons": [
-          "热度太小：只有 GPTs 的 0.4%，搜的人太少"
+          "热度只有 GPTs 的 0.4%，虽然走势在上升，但绝对搜索量太低，不值得单独建站。",
+          "前两页有 7 个专门页面，但全部是大站内页（asahi.com、facebook、youtube 等），没有独立站首页。",
+          "这是一个日本社会流行语，用户需求是了解含义，属于知识科普类，不是工具或游戏。",
+          "搜索结果已被权威媒体和百科类内容占据，新站很难挤进前两页。"
         ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "「親ガチャ」（Oya Gacha）是一个日本流行语，意思是「父母扭蛋」，比喻孩子无法选择自己的父母，就像抽扭蛋一样随机。",
+          "want": "搜的人想了解这个日本流行语的含义、来源，以及为什么它在社交媒体上被广泛讨论。",
+          "how": "做内页。可以在已有的日本文化或语言学习站上加一篇科普文章，解释「親ガチャ」的含义、社会背景和相关讨论。热度太低，不值得单独建站。页面可以做成图文百科形式，配合日本社会现象分析。"
+        },
         "sources": [
           "gacha"
         ],
@@ -1401,6 +2272,7 @@
     {
       "keyword": "hobo fighting game",
       "category": "game",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1416,10 +2288,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.4%，且走势已明显回落，搜索量极低。",
+          "前两页仅 1 个专门页面（seeles.ai 内页），但 CrazyGames、Armor Games 等老牌游戏站已占据头部。",
+          "这是一个 2000 年代的经典 Flash 游戏系列，不是新游戏，没有爆发性流量机会。",
+          "用户搜的是在线玩这款老游戏，需求已被各大 Flash 游戏站满足。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "Hobo 是一个经典的 Flash 格斗游戏系列，玩家扮演流浪汉在街头与人打架，最早由 Armor Games 发布。",
+          "want": "搜的人想在线免费玩这款老游戏，或者找回童年回忆，体验经典的街头格斗玩法。",
+          "how": "不建议做。这是一个十几年前的老游戏，不是新趋势，搜索热度极低且已回落。各大 Flash 游戏站（CrazyGames、Armor Games）已完全覆盖需求。非要做的话，最多做一个怀旧游戏合集内页，但几乎没有流量。"
+        },
         "sources": [
           "fighting game"
         ],
@@ -1461,6 +2342,7 @@
     {
       "keyword": "demo_idea_phuong",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1476,10 +2358,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 0,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.4%，走势已明显回落，搜索量极低。",
+          "前两页专门针对这个词的页面为 0 个，说明没有人在做这个词。",
+          "从搜索结果完全看不出这个词具体指什么，没有明确的需求。",
+          "搜索结果混杂了越南语、生物医学视频生成模型、Instagram 个人主页等无关内容。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出具体是什么，可能是一个越南语短语或某个项目的演示名称，但没有明确指向。",
+          "want": "无法判断搜这个词的人想要什么，搜索结果中没有任何一致的内容或需求。",
+          "how": "不建议做。这个词在谷歌搜索结果中完全混乱，没有任何明确的需求或产品指向，建站毫无意义。非要做的话，完全无法确定页面内容方向。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -1521,6 +2412,7 @@
     {
       "keyword": "personality test indie game",
       "category": "game",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1536,10 +2428,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.3%，走势已明显回落，搜索量极低。",
+          "前两页仅 1 个专门页面（live-expo.games 内页），但 Steam、Nintendo、Wikipedia 等大站已占据头部。",
+          "搜索结果几乎全部指向一款特定游戏《Refind Self: The Personality Test Game》，不是游戏类型。",
+          "用户搜的是这款具体游戏，不是找新的性格测试游戏，截流空间为零。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "这指的是《Refind Self: The Personality Test Game》，一款 2023 年发布的独立游戏，通过玩家的行为来分析性格。",
+          "want": "搜的人想了解或购买这款游戏，查看评测，或者在 Steam/Switch 上下载玩。",
+          "how": "不建议做。这个词指向一款特定游戏，用户意图是找官网或购买渠道，不是发现新游戏。Steam、Nintendo 等官方页面已占据前几名，新站无法截流。非要做的话，最多写一篇游戏评测内页，但流量极低。"
+        },
         "sources": [
           "indie game"
         ],
@@ -1581,6 +2482,7 @@
     {
       "keyword": "avatar seven heavens odc 1",
       "category": "ai",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1596,10 +2498,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.2%，走势已在回落，搜索量极低。",
+          "前两页仅 1 个专门页面（TikTok 内页），Paramount+、YouTube、IMDb 等大站已占据头部。",
+          "这是《Avatar: Seven Havens》动画剧集的第一集，属于品牌内容词。",
+          "用户搜的是观看或回顾第一集内容，需求已被流媒体平台和 recap 视频满足。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "这是 Nickelodeon 新动画剧集《Avatar: Seven Havens》（降世神通：七重天）的第一集，于 2026 年 10 月 9 日在 Paramount+ 首播。",
+          "want": "搜的人想在线观看第一集、看剧情回顾或评测，了解这部新降世神通剧集的内容。",
+          "how": "不建议做。这是一个大 IP 新剧集的观看需求词，Paramount+、YouTube recap 视频已完全覆盖。新站无法提供正版观看渠道，做 recap 也竞争不过 YouTube。非要做的话，最多写一篇剧情解析内页，但流量极低。"
+        },
         "sources": [
           "avatar seven heavens"
         ],
@@ -1641,6 +2552,7 @@
     {
       "keyword": "threshing day german edition",
       "category": "other",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1656,10 +2568,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 2,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.2%，走势已明显回落（近期涨幅 -100%），搜索量极低。",
+          "前两页仅 2 个专门页面，都是 TikTok 和 Instagram 内页，Amazon、Thalia 等电商站已占据头部。",
+          "这是 Rebecca Yarros 小说《Fourth Wing》系列的衍生书，属于品牌产品词。",
+          "用户搜的是购买德文版实体书，需求已被 Amazon.de、Thalia.de 等电商完全满足。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "这是 Rebecca Yarros 的《Empyrean》系列新书《Threshing Day》的德文版本，书名为《Threshing Day – Flammengeküsst》。",
+          "want": "搜的人想购买这本德文版实体书，或者查看德文版的装帧设计、发售信息。",
+          "how": "不建议做。这是一个具体产品的购买需求词，Amazon、Thalia 等电商已占据前几名，新站无法与电商竞争。非要做的话，最多写一篇德文版开箱评测内页，但流量极低且转化困难。"
+        },
         "sources": [
           "threshing day"
         ],
@@ -1859,6 +2780,7 @@
     {
       "keyword": "battle of tides",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -1874,10 +2796,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 6,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.1%，且已明显回落，搜索量极低",
+          "前两页 6 个专门页面全是 Amazon、Reddit 等大站内页，无新站首页",
+          "搜索结果混杂书籍、游戏事件、潮汐表等，用户意图分散",
+          "长尾数量为 0，缺乏可扩展的内容矩阵"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看，这个词指向多个不同事物：一本名为《Battle Tides》的小说、游戏《暗黑破坏神3》的 Tide of Battle 事件、以及《全面战争：战锤》的玩家讨论。",
+          "want": "搜这个词的人可能在找特定书籍购买、游戏攻略或历史战役信息，但意图非常分散，没有统一的核心需求。",
+          "how": "不建议做。热度极低且意图混乱，无法确定做什么内容。非要做的话，最多做一个书籍介绍或游戏事件攻略内页，但几乎不会有流量。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -2358,6 +3289,7 @@
     {
       "keyword": "pythagoras mahjong",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2373,10 +3305,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 2,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs 的 0%，几乎无人搜索",
+          "前两页仅 2 个专门页面，均为在线游戏平台内页",
+          "趋势已明显回落，且无长尾关键词支撑",
+          "游戏本身是经典麻将变体，无独特卖点吸引新站"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "Pythagoras Mahjong 是一款在线麻将连连看游戏，在 Yandex Games 等平台可免费游玩，规则是配对相同数值的牌。",
+          "want": "搜这个词的人想在线免费玩这款特定麻将游戏，需求就是直接打开可玩的页面。",
+          "how": "不建议做。搜索量为零，且已有 Yandex Games 和 nub.games 提供在线游玩，新站无法竞争。非要做最多做一个嵌入游戏的 iframe 内页，但毫无意义。"
+        },
         "sources": [
           "小游戏:gamedistribution"
         ],
@@ -2445,6 +3386,7 @@
     {
       "keyword": "petting cards",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2460,10 +3402,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs 的 0%，完全无人搜索",
+          "前两页仅 1 个专门页面，是 TikTok 内页，无竞争也无需求验证",
+          "搜索结果混杂宠物卡牌游戏、MTG 术语、实体卡牌产品等，意图不清",
+          "趋势已明显回落，长尾为 0，无内容扩展空间"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出具体是什么。可能指宠物主题的卡牌游戏、万智牌中的“宠物牌”概念，或 TikTok 上的宠物交换视频。",
+          "want": "用户意图极其分散，可能在找卡牌游戏、实体宠物卡牌产品，或只是看 TikTok 娱乐内容。",
+          "how": "不建议做。零搜索量且意图混乱，无法确定做什么内容。非要做最多做一个宠物卡牌游戏合集内页，但不会有任何自然流量。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -2505,6 +3456,7 @@
     {
       "keyword": "matsuri match",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2520,10 +3472,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs 的 0%，搜索量可忽略不计",
+          "前两页仅 1 个专门页面，是 Facebook 内页，无竞争也无需求",
+          "搜索结果指向 Anime Matsuri 动漫展的摔跤比赛，是线下活动",
+          "趋势已明显回落，长尾为 0，无内容扩展可能"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "Matsuri Match 指的是 Anime Matsuri 动漫展上举办的摔跤表演赛（Wrestling Matsuri），是线下活动中的娱乐环节。",
+          "want": "搜这个词的人可能在找动漫展的比赛对阵表、结果或视频回顾，是时效性很强的线下活动信息。",
+          "how": "不建议做。搜索量为零，且内容是线下活动，活动结束后需求消失。非要做最多做一个活动回顾内页，但不会有持续流量。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -2565,6 +3526,7 @@
     {
       "keyword": "memories of an oracle",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2580,10 +3542,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 15,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs 的 0%，搜索量可忽略不计",
+          "前两页 15 个专门页面全是 Oracle 官网、Reddit、Medium 等大站内页",
+          "搜索结果指向神谕卡、AI 记忆、书籍、歌词等多种事物，无统一主题",
+          "虽有上升趋势，但基数为零，实际增长无意义"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出具体是什么。可能是 Medium 上的一个博客账号名、神谕卡牌主题、Oracle 数据库的 AI 记忆功能，或一本名为《The Body: Oracle of Memory》的书。",
+          "want": "用户意图极度分散，可能在找博客内容、神谕卡解读、Oracle 技术文档或书籍购买，没有统一需求。",
+          "how": "不建议做。零搜索量且主题混乱，无法确定做什么内容。非要做最多做一个神谕卡解读内页，但不会有流量。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -2625,6 +3596,7 @@
     {
       "keyword": "pot by pot demo",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2640,10 +3612,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs 的 0%，完全无人搜索",
+          "前两页仅 1 个专门页面，是 slotslaunch.com 的老虎机 demo 内页",
+          "搜索结果全是老虎机游戏 demo，属于赌博类内容",
+          "无趋势数据，长尾为 0，无任何建站价值"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看，这个词指向多个老虎机游戏的免费试玩版（demo），如 Pigs N' Pots、Boilin Pots、Pot of Fortune 等。",
+          "want": "搜这个词的人想在线免费试玩某个带 'pot' 名称的老虎机游戏，是赌博类娱乐需求。",
+          "how": "不建议做。搜索量为零，且内容属于赌博游戏领域，合规风险高。非要做最多做一个老虎机 demo 合集内页，但不会有流量。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -2654,6 +3635,7 @@
     {
       "keyword": "medarun pusher",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2669,10 +3651,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 0,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度为 GPTs 的 0%，完全无人搜索",
+          "前两页 0 个专门页面，谷歌无法识别这个词的含义",
+          "搜索结果全是医疗器械、电影、工业推杆等无关内容",
+          "无任何需求信号，建站毫无意义"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "从搜索结果看不出具体是什么。谷歌返回的全是医疗器械（Precision Pusher）、电影（Pusher III）、工业设备等完全不相关的内容。",
+          "want": "无法判断用户意图，这个词可能是一个拼写错误、极冷门的游戏术语，或根本不存在实际搜索需求。",
+          "how": "不建议做。谷歌都无法理解这个词，没有任何搜索需求。无论做什么形式的页面都是浪费资源。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -2683,7 +3674,7 @@
     {
       "keyword": "phantom blade zero",
       "category": "other",
-      "verdict": "maybe",
+      "verdict": "worth",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2699,17 +3690,18 @@
         "pushed_on": null,
         "page_count": 2,
         "targeted_count": 19,
-        "verdict": "maybe",
+        "verdict": "worth",
         "verdict_reasons": [
-          "热度 GPTs 的 3 倍，但已明显回落（涨幅 23%），趋势走弱",
-          "前两页 19 个专门页面，被 Steam、Wikipedia、PlayStation 等大站内页占据，无新站首页",
-          "品牌游戏，搜的人主要去官网和商店预购，新站截流难"
+          "热度高达 GPTs 的 7 倍，远超单独建站门槛",
+          "前两页 19 个专门页面全是 Steam、维基等大站内页，无新站首页",
+          "热度虽在回落，但游戏尚未发售，仍有持续搜索需求",
+          "长尾仅 2 个，但核心词需求集中，可做攻略/预购站"
         ],
-        "verdict_suggestion": "做内页",
+        "verdict_suggestion": "新站首页",
         "brief": {
-          "what": "中国 S-Game 开发的武侠动作 RPG《Phantom Blade Zero》，2026 年 10 月 29 日发售。",
-          "want": "预购、发售日期、玩法演示、评价、配置要求。",
-          "how": "不建议做新站首页，可做内页，如发售信息汇总、攻略前瞻、武器介绍等，吸引预购前流量。"
+          "what": "一款即将于 2026 年 10 月 29 日发售的武侠动作 RPG，由 S-Game 开发，使用虚幻 5 引擎，玩家扮演刺客 Soul。",
+          "want": "搜这个词的人想预购游戏、了解发售日期、看预告片、找早期评测和攻略。",
+          "how": "做新站首页，形式为游戏专题站，包含发售倒计时、预购链接汇总、玩法介绍、角色武器图鉴和攻略前瞻，抢在大站前占位。"
         },
         "sources": [
           "control resonant",
@@ -2753,6 +3745,7 @@
     {
       "keyword": "gaffe",
       "category": "other",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2768,13 +3761,22 @@
         "pushed_on": null,
         "page_count": 1,
         "targeted_count": 18,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "这是一个普通英文单词，搜索意图只是查定义，无法做成工具或内容页",
+          "热度已明显回落，近期涨幅 171% 后暴跌，属于短期尖峰",
+          "前两页全是韦氏、剑桥等权威词典内页，新站毫无竞争机会",
+          "长尾仅 1 个，需求单一，无商业化或流量沉淀可能"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "一个英文单词，意为失态、社交失误或外交失言。",
+          "want": "搜这个词的人只想查定义、用法和例句，没有其他深层需求。",
+          "how": "不建议做，因为只是单词查询，无法做成工具或持续内容；非要做最多在现有站加一个单词解释内页，但流量价值极低。"
+        },
         "sources": [
-          "solver",
-          "wordle"
+          "wordle",
+          "solver"
         ],
         "spark": [
           1,
@@ -2889,7 +3891,7 @@
     {
       "keyword": "dragon kind",
       "category": "other",
-      "verdict": "maybe",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2905,18 +3907,18 @@
         "pushed_on": null,
         "page_count": 5,
         "targeted_count": 12,
-        "verdict": "maybe",
+        "verdict": "skip",
         "verdict_reasons": [
-          "热度高达 GPTs 的 4.6 倍且仍在暴涨（涨幅 933%），需求强劲。",
-          "前两页有 12 个专门页面，但多数是大站内页或粉丝站。",
-          "已有 2026 年 10 月新注册的首页 dragonkind.world 在排，说明有人验证过。",
-          "官方站 rebeccayarrosshop.com 是商品页，不是攻略站，存在差异化机会。"
+          "热度仅 GPTs 的 1.2 倍且已明显回落，近期跌幅达 68%，需求断崖式下跌",
+          "前两页已有 2026 年 10 月注册的新站首页 dragonkind.world 在排",
+          "这是一个粉丝互动网站，热度由短期营销驱动，无持续搜索价值",
+          "长尾虽有 5 个，但主词热度崩溃，长尾流量也难以为继"
         ],
-        "verdict_suggestion": "做内页",
+        "verdict_suggestion": "不建议做",
         "brief": {
-          "what": "Dragonkind 是《Fourth Wing》小说系列的互动游戏网站，玩家通过选择来“绑定”自己的龙，有 6 种颜色和 13.5 万个独特龙名。",
-          "want": "用户想玩 Threshing Day 互动游戏，获取特定颜色龙（如黑龙）的攻略，了解不同选择的后果。",
-          "how": "建议做内页。已有新站在排，但热度还在涨。可以在已有的游戏或小说站上做一个“Dragonkind 攻略：如何绑定黑龙/全结局指南”内页，整理玩家社区分享的选择路线和结果，靠攻略内容吸引粉丝流量。"
+          "what": "一个基于《Fourth Wing》小说的粉丝互动网站，让用户参与“Threshing Day”并绑定虚拟龙。",
+          "want": "搜这个词的人想参与龙绑定活动、获取攻略、看不同龙颜色和结果。",
+          "how": "不建议做，热度已暴跌且已有新站首页；非要做最多在现有粉丝站加一个攻略内页，但流量回报极低。"
         },
         "sources": [
           "threshing day",
@@ -2961,6 +3963,7 @@
     {
       "keyword": "overexposed",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -2976,10 +3979,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 18,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度虽有 GPTs×0.33，但走势已明显回落，且无任何长尾词支撑",
+          "搜索结果以 Maroon 5 专辑、摄影术语、生活品牌为主，与给定的 webgame 方向完全不符",
+          "专辑名和品牌词自带官网，新站难以截流，也无法做成游戏页",
+          "已判定不适合建站"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "多数结果指向 Maroon 5 的《Overexposed》专辑，另有摄影术语解释和环保生活品牌。",
+          "want": "用户主要想听专辑、查看歌曲列表或购买黑胶，也可能查询摄影知识或品牌产品。",
+          "how": "不建议做：与游戏方向无关，用户意图分散且被大站牢牢占据。非要做最多做内页，整理「Maroon 5 Overexposed 歌曲试听/背景」合集，但价值很低。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -3021,6 +4033,7 @@
     {
       "keyword": "find the needle in haystack",
       "category": "webgame",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -3036,10 +4049,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 6,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "maybe",
+        "verdict_reasons": [
+          "热度 GPTs×0.22 尚可，但近期走势回落 -14%，热度正在消退",
+          "前两页仅 6 个专门页面，均为 YouTube、Reddit 等大站内页，直接竞争小",
+          "长尾数量为 0，持续流量可能不足，单独建站风险较高",
+          "可做在线版小游戏或攻略内页，降低成本试水"
+        ],
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "一款模拟「大海捞针」的休闲游戏，玩家在数百万根干草中寻找一根针，有 Steam、Roblox 等多个版本。",
+          "want": "用户想在线试玩、找 Roblox 代码、看通关技巧，或下载 Steam 版本。",
+          "how": "在你现有游戏站上做一个内页，提供在线简化版找针游戏，附各平台地址、Roblox 兑换码和通关小攻略。"
+        },
         "sources": [
           "小游戏:poki"
         ],
@@ -3081,6 +4103,7 @@
     {
       "keyword": "opencode glm 5.3",
       "category": "ai",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -3096,10 +4119,19 @@
         "pushed_on": null,
         "page_count": 1,
         "targeted_count": 11,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "maybe",
+        "verdict_reasons": [
+          "热度 GPTs×0.088，接近可用门槛，但走势已回落，高峰期已过",
+          "前两页 11 个专门页面多为 OpenCode、Reddit 等大站内页，有 glm5.app 小站内页做教程",
+          "长尾仅 1 个，独立建站后劲不足",
+          "更适合在已有 AI 评测站上做一个使用教程/对比内页"
+        ],
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "Z.ai 开源的 GLM-5.3 和 Flash 变体模型，可在 OpenCode 等 AI 编程工具中免费或低成本使用，编码能力突出。",
+          "want": "用户想要接入教程、API 价格对比、免费额度获取方式，以及 GLM-5.3 vs 其他编码模型的实际体验。",
+          "how": "在你现有的 AI 工具站做一个内页，包含「GLM 5.3 在 OpenCode 中的免费配置教程」「GLM-5.3 vs DeepSeek 编码对比实测」，并嵌入注册引导。"
+        },
         "sources": [
           "glm"
         ],
@@ -3141,6 +4173,7 @@
     {
       "keyword": "danny webb motorcycle test passed",
       "category": "other",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -3156,10 +4189,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 1,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "前 GP/曼岛 TT 车手通过驾照考试，属一时趣闻，无持续搜索需求",
+          "热度仅 GPTs×0.065，专对页面仅 1 个内页，流量天花板极低",
+          "无法做成工具、攻略或任何可常青的内容页",
+          "已判定不适合建站"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "前 MotoGP 和曼岛 TT 车手 Danny Webb 终于通过了普通的摩托车驾照路考，引发车圈调侃。",
+          "want": "用户看个乐子，了解故事背景，想知道为什么职业车手现在才考驾照。",
+          "how": "不建议做：纯短热资讯，无商业用途。非要做的话，可在摩托车资讯站写一篇内页趣闻，但几乎没有流量价值。"
+        },
         "sources": [
           "test"
         ],
@@ -3198,6 +4240,7 @@
     {
       "keyword": "army commander tycoon code",
       "category": "game",
+      "verdict": "maybe",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -3213,10 +4256,18 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 2,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "maybe",
+        "verdict_reasons": [
+          "热度只有 0.01，仅适合做内页",
+          "已有新站首页（armycommandertycoon.com，2026-10 注册）在排，说明有人在做",
+          "二次爆火，前后有多个类似游戏代码需求，可打包成代码合集页"
+        ],
+        "verdict_suggestion": "做内页",
+        "brief": {
+          "what": "Roblox 游戏《Army Commander Tycoon》的兑换码检索请求",
+          "want": "玩家想要最新能用的代码，领取游戏内奖励",
+          "how": "在游戏站做一个代码更新内页，持续追踪有效和过期代码列表，提供一键复制功能，成为玩家经常回访的页面"
+        },
         "sources": [
           "tycoon"
         ],
@@ -3318,6 +4369,7 @@
     {
       "keyword": "dinner is ruined",
       "category": "webgame",
+      "verdict": "skip",
       "batchId": "2026-10-17T0819",
       "fetchedAt": "2026-10-17T08:19:04.000Z",
       "sourceUrl": "https://new.web.cafe/data/updates/2026-10-17T0819",
@@ -3333,10 +4385,19 @@
         "pushed_on": null,
         "page_count": 0,
         "targeted_count": 19,
-        "verdict": "",
-        "verdict_reasons": [],
-        "verdict_suggestion": "",
-        "brief": null,
+        "verdict": "skip",
+        "verdict_reasons": [
+          "热度只有 GPTs 的 0.2%，虽然走势在上升，但绝对搜索量极低。",
+          "前两页有 19 个专门页面，全部是大站内页（Wikipedia、Spotify、Bandcamp 等），已被完全覆盖。",
+          "这是一个加拿大独立摇滚乐队的名字，属于品牌词，用户搜的是乐队信息。",
+          "新站无法与 Wikipedia、Spotify、Bandcamp 等权威音乐平台竞争。"
+        ],
+        "verdict_suggestion": "不建议做",
+        "brief": {
+          "what": "The Dinner Is Ruined 是一支加拿大独立摇滚乐队，以实验性和即兴的布鲁斯摇滚风格著称，成立于 1991 年。",
+          "want": "搜的人想听这支乐队的音乐、查看专辑信息、了解乐队成员背景或历史。",
+          "how": "不建议做。这是一个乐队品牌词，用户意图是找官方音乐和资料，Wikipedia、Spotify、Bandcamp 已完全满足需求。新站无法提供比这些平台更有价值的内容。非要做的话，最多写一篇乐队介绍内页，但几乎没有流量。"
+        },
         "sources": [
           "小游戏:itch"
         ],
@@ -4231,7 +5292,7 @@
         "appear_date": "2026-03-15",
         "burst_date": "2026-10-10",
         "pushed_on": "2026-10-17",
-        "page_count": 10,
+        "page_count": 11,
         "targeted_count": 17,
         "verdict": "maybe",
         "verdict_reasons": [
@@ -5630,7 +6691,7 @@
         "appear_date": null,
         "burst_date": "2026-10-14",
         "pushed_on": "2026-10-17",
-        "page_count": 21,
+        "page_count": 24,
         "targeted_count": 4,
         "verdict": "maybe",
         "verdict_reasons": [
@@ -5912,7 +6973,7 @@
         "appear_date": null,
         "burst_date": "2026-10-09",
         "pushed_on": "2026-10-17",
-        "page_count": 5,
+        "page_count": 9,
         "targeted_count": 0,
         "verdict": "maybe",
         "verdict_reasons": [
@@ -6530,7 +7591,7 @@
         "appear_date": null,
         "burst_date": "2026-09-06",
         "pushed_on": "2026-10-17",
-        "page_count": 0,
+        "page_count": 3,
         "targeted_count": 18,
         "verdict": "worth",
         "verdict_reasons": [
@@ -7611,13 +8672,13 @@
         },
         "sources": [
           "luma dream machine",
-          "invideo ai",
           "luma ai",
+          "invideo ai",
           "pollo ai",
           "midjourney",
           "heygen",
-          "pika ai",
           "wan ai",
+          "pika ai",
           "nano banana",
           "leonardo ai",
           "genjutsu ai",
@@ -7886,7 +8947,7 @@
         "appear_date": "2026-09-08",
         "burst_date": "2026-09-10",
         "pushed_on": null,
-        "page_count": 3,
+        "page_count": 4,
         "targeted_count": 19,
         "verdict": "maybe",
         "verdict_reasons": [
@@ -9362,7 +10423,7 @@
         "appear_date": "2026-10-08",
         "burst_date": "2026-10-09",
         "pushed_on": "2026-10-12",
-        "page_count": 2,
+        "page_count": 4,
         "targeted_count": 9,
         "verdict": "maybe",
         "verdict_reasons": [
@@ -14822,7 +15883,7 @@
         "appear_date": null,
         "burst_date": "2026-10-08",
         "pushed_on": null,
-        "page_count": 5,
+        "page_count": 6,
         "targeted_count": 6,
         "verdict": "skip",
         "verdict_reasons": [
@@ -17108,3226 +18169,6 @@
         ],
         "spark": [],
         "page_url": "https://new.web.cafe/keywords/pulse-rhythm-runner"
-      }
-    },
-    {
-      "keyword": "kenny traitors",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "kenny traitors",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 2.167,
-        "growth_pct": 47,
-        "appear_date": "2026-01-25",
-        "burst_date": "2026-10-15",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "谷歌首页看不出是游戏，多半是新闻或答题活动"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "beta"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          3,
-          0,
-          47,
-          37,
-          23,
-          14,
-          8,
-          5,
-          4,
-          11,
-          19,
-          16,
-          14,
-          7,
-          4,
-          3,
-          87
-        ],
-        "page_url": "https://new.web.cafe/keywords/kenny-traitors"
-      }
-    },
-    {
-      "keyword": "wieswowas neroberg",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "wieswowas neroberg",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.859,
-        "growth_pct": 34,
-        "appear_date": "2026-09-07",
-        "burst_date": "2026-09-26",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "谷歌首页看不出是游戏，多半是新闻或答题活动"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "update"
-        ],
-        "spark": [
-          65,
-          58,
-          76,
-          0,
-          0,
-          0,
-          87,
-          62,
-          56,
-          56,
-          100,
-          73,
-          78,
-          72,
-          56,
-          68,
-          60,
-          72,
-          23,
-          23,
-          56,
-          58,
-          63,
-          75,
-          81,
-          88,
-          76,
-          46,
-          34,
-          75
-        ],
-        "page_url": "https://new.web.cafe/keywords/wieswowas-neroberg"
-      }
-    },
-    {
-      "keyword": "pokebonk",
-      "category": "game",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "pokebonk",
-        "category": "game",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.672,
-        "growth_pct": null,
-        "appear_date": "2026-10-14",
-        "burst_date": "2026-10-15",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 5,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度只有GPTs的0.67倍，搜的人很少，只适合做内页，不值得单独建站。",
-          "前两页只有5个专门页面，且没有大站垄断，竞争低，但词太新太小众。",
-          "长尾为0，无法扩展内容矩阵，单独建站风险高。",
-          "从搜索结果看这是一个宝可梦同人小游戏，可做游戏介绍或试玩内页蹭热度。"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "PokeBonk似乎是一个宝可梦题材的同人小游戏，从YouTube/TikTok视频看，玩家可扮演宝可梦进行对战或生存玩法。",
-          "want": "搜这个词的人想找游戏下载链接、看实机试玩视频、了解玩法、或找TikTok上的相关短视频。",
-          "how": "做内页。在已有游戏站上加一个PokeBonk介绍页，嵌入YouTube试玩视频、TikTok剪辑、玩法说明。热度太低且无长尾，单独建站不划算，但内页可蹭宝可梦同人游戏的长尾流量。"
-        },
-        "sources": [
-          "pokemon",
-          "pokemon game"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          8,
-          46
-        ],
-        "page_url": "https://new.web.cafe/keywords/pokebonk"
-      }
-    },
-    {
-      "keyword": "geode 2.209",
-      "category": "game",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "geode 2.209",
-        "category": "game",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.662,
-        "growth_pct": null,
-        "appear_date": "2026-10-15",
-        "burst_date": "2026-10-15",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 3,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度只有GPTs的0.66倍，搜的人少，只适合做内页。",
-          "前两页只有3个专门页面（TikTok和YouTube内页），竞争极低，但词太小众。",
-          "长尾为0，无法扩展内容，单独建站风险高。",
-          "这是Geometry Dash的Mod加载器Geode与新版本2.209的兼容性问题，时效性强，热度会快速消退。"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "Geode是《几何冲刺》的Mod加载器，2.209是游戏2026年10月15日的新版本，更新后Geode暂时不兼容，玩家在找解决方案。",
-          "want": "搜这个词的人想知道Geode何时适配2.209、如何临时安装旧版Mod、或看更新后Mod失效的吐槽视频。",
-          "how": "做内页。在已有游戏站上加一个「Geode 2.209兼容性状态」页，实时更新Geode适配进度、临时解决方案、官方GitHub Release链接。热度低且时效性强，单独建站不划算。"
-        },
-        "sources": [
-          "geometry dash"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          17
-        ],
-        "page_url": "https://new.web.cafe/keywords/geode-2-209-ceb2d5"
-      }
-    },
-    {
-      "keyword": "wow forever stress test",
-      "category": "other",
-      "verdict": "worth",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "wow forever stress test",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.633,
-        "growth_pct": 17500,
-        "appear_date": "2026-10-09",
-        "burst_date": "2026-10-14",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 10,
-        "verdict": "worth",
-        "verdict_reasons": [
-          "热度高达 GPTs 的 63%，且仍在上升，搜索需求旺盛。",
-          "前两页虽有 10 个专门页面，但全是 youtube.com、wowhead.com 等大站内页，没有新站首页竞争。",
-          "这是一个有时效性的游戏活动，用户急需时间、参与方式等攻略信息。",
-          "长尾词为 0，说明搜索非常集中，利于首页直接承接流量。"
-        ],
-        "verdict_suggestion": "新站首页",
-        "brief": {
-          "what": "这是《魔兽世界》新版本“WoW Forever”在 10 月 19 日举行的公开压力测试活动，无需订阅即可参与。",
-          "want": "搜这个词的人想要知道压力测试的具体开始时间、如何下载和参与、是否需要资格。",
-          "how": "做一个新站首页，形式为攻略/指南页。核心内容包括：各时区测试时间表、参与步骤（战网客户端下载安装指引）、常见问题解答。"
-        },
-        "sources": [
-          "test"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          1,
-          7,
-          82,
-          85
-        ],
-        "page_url": "https://new.web.cafe/keywords/wow-forever-stress-test"
-      }
-    },
-    {
-      "keyword": "cardi b esmeralda purse update",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "cardi b esmeralda purse update",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.099,
-        "growth_pct": null,
-        "appear_date": "2026-10-15",
-        "burst_date": "2026-10-15",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度极低（GPTs 的 0.099%），搜索量太小，不值得投入。",
-          "前两页专门针对这个词的页面为 0 个，说明没有网站认为值得为此做页面。",
-          "这是一个纯粹的娱乐八卦新闻，用户看完即走，没有工具、攻略或教程类的需求。"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "这是一则关于美国说唱歌手 Cardi B 丢失并最终找回她心爱的爱马仕铂金包“Esmeralda”的娱乐新闻。",
-          "want": "搜这个词的人想了解 Cardi B 丢包事件的最新进展、包的估值以及最终在哪里找到的。",
-          "how": "不建议做。这是一个没有长尾价值的短期八卦新闻，用户没有工具或攻略需求。非要做的话，最多写一篇内页文章复述事件经过，但几乎不会获得搜索流量。"
-        },
-        "sources": [
-          "update"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          64
-        ],
-        "page_url": "https://new.web.cafe/keywords/cardi-b-esmeralda-purse-update"
-      }
-    },
-    {
-      "keyword": "gemini argon vs claude opus",
-      "category": "ai",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "gemini argon vs claude opus",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "高位",
-        "heat_ratio": 0.079,
-        "growth_pct": 369,
-        "appear_date": "2026-10-02",
-        "burst_date": "2026-10-13",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 16,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度偏低（GPTs 的 0.079%），只适合做内页，不值得单独建站。",
-          "前两页有 16 个专门页面，竞争激烈，且已有 mindstudio.ai、artificialanalysis.ai 等专业 AI 模型对比站。",
-          "搜索结果全是专业测评和基准测试对比，用户期待深度数据，内容制作门槛高。",
-          "这是一个 AI 模型对比词，用户需求是看专业评测，而非使用工具。"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "这是 Google 最新 AI 模型 Gemini 4 Argon 与 Anthropic 的旗舰模型 Claude Opus 5.5 之间的性能、价格和速度对比。",
-          "want": "搜这个词的人想了解两个顶级 AI 模型在编码、推理、价格等方面的优劣，以决定使用哪一个。",
-          "how": "不建议建新站。可以在已有的 AI 工具导航或科技博客上做一个内页，形式为详细的模型对比页。核心内容：整理并可视化两个模型在多个权威基准测试中的得分、API 价格、生成速度对比，并给出不同场景下的选择建议。"
-        },
-        "sources": [
-          "claude opus"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          12,
-          7,
-          6,
-          7,
-          7,
-          5,
-          5,
-          7,
-          4,
-          5,
-          6,
-          44,
-          100,
-          64
-        ],
-        "page_url": "https://new.web.cafe/keywords/gemini-argon-vs-claude-opus"
-      }
-    },
-    {
-      "keyword": "geometry dash 2.209 free",
-      "category": "other",
-      "verdict": "worth",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "geometry dash 2.209 free",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.077,
-        "growth_pct": null,
-        "appear_date": "2026-10-14",
-        "burst_date": "2026-10-15",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 7,
-        "verdict": "worth",
-        "verdict_reasons": [
-          "热度GPTs×0.077，高于0.05阈值，且走势上升中",
-          "前两页7个专门页面，但全是reddit、facebook等大站内页，无专门新站首页",
-          "仅一个2022年注册小站内页solubletexturepacks.com，竞争较小"
-        ],
-        "verdict_suggestion": "新站首页",
-        "brief": {
-          "what": "《几何冲刺》2.209版本更新已发布，用户搜索“free”想找免费下载或免费内容。",
-          "want": "搜的人想要免费下载2.209版本、了解新功能，或找到可玩的免费途径。",
-          "how": "做新站首页，页面形式为下载/信息页：汇总官方免费下载链接（Steam/App Store/Google Play），列出2.209新功能，提供常见问题。避免提供盗版，引导至官方渠道即可。"
-        },
-        "sources": [
-          "geometry dash"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          2,
-          9
-        ],
-        "page_url": "https://new.web.cafe/keywords/geometry-dash-2-209-free-c50173"
-      }
-    },
-    {
-      "keyword": "geometry dash 2.209 android",
-      "category": "other",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "geometry dash 2.209 android",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.048,
-        "growth_pct": null,
-        "appear_date": "2026-10-15",
-        "burst_date": "2026-10-15",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 2,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度GPTs×0.048，低于0.05阈值，只适合做内页",
-          "前两页仅2个专门页面，竞争很少，但热度不足支撑新站"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "《几何冲刺》2.209版本的Android平台更新，用户关注安卓下载。",
-          "want": "搜的人想在Android设备上下载2.209版本，或了解安卓版新功能。",
-          "how": "做内页，页面形式为Android下载/更新说明：提供Google Play官方链接、APK安装注意事项、新功能列表。可挂在已有游戏站或下载站内页，不要单独建站。"
-        },
-        "sources": [
-          "geometry dash"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          7
-        ],
-        "page_url": "https://new.web.cafe/keywords/geometry-dash-2-209-android-3b2223"
-      }
-    },
-    {
-      "keyword": "kenny beta squad what happened",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "kenny beta squad what happened",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 0.035,
-        "growth_pct": null,
-        "appear_date": "2026-10-15",
-        "burst_date": "2026-10-15",
-        "pushed_on": "2026-10-16",
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度仅GPTs的3.5%，且是单次八卦事件，搜索需求短暂",
-          "前两页0个专门页面，但都是新闻/社交平台结果，用户想看最新消息",
-          "事件性内容不适合建站，即使做内页也很难持续吸引流量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "YouTube团体Beta Squad成员Kenny的争议事件，团队宣布与他决裂",
-          "want": "想知道发生了什么、事件细节和最新进展",
-          "how": "不建议做；非要做只能做一篇事件梳理内页，但热度短暂且无长尾，ROI极低"
-        },
-        "sources": [
-          "beta"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          12
-        ],
-        "page_url": "https://new.web.cafe/keywords/kenny-beta-squad-what-happened"
-      }
-    },
-    {
-      "keyword": "santa cruz pokemon",
-      "category": "game",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "santa cruz pokemon",
-        "category": "game",
-        "kind": "resurgence",
-        "trend_now": "高位",
-        "heat_ratio": 0.824,
-        "growth_pct": -9,
-        "appear_date": null,
-        "burst_date": "2026-10-03",
-        "pushed_on": "2026-10-16",
-        "page_count": 1,
-        "targeted_count": 12,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "这是Santa Cruz滑板与宝可梦的联名商品词，用户搜的是官方商店或购买渠道，新站无法截流。",
-          "前两页全是santacruzskateboards.com、Zumiez、eBay等电商/品牌站内页，竞争壁垒高。",
-          "热度只有GPTs的0.82倍且走势高位（-9%），搜的人不多，趋势在掉。",
-          "长尾为0，没有可扩展的内容方向，无法做工具或攻略页，只能做资讯。"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "Santa Cruz滑板品牌与宝可梦TCG的30周年联名系列，推出盲盒滑板板面和服饰，10月17日发售。",
-          "want": "搜这个词的人想买盲盒滑板、看发售日期和价格、找购买链接（Santa Cruz官网/Zumiez/eBay）、或看开箱视频。",
-          "how": "不建议做。这是联名商品词，用户直奔官方商店或电商平台，新站无法替代购买渠道。非要做最多写一篇开箱资讯内页，但无搜索流量价值。"
-        },
-        "sources": [
-          "pokemon"
-        ],
-        "spark": [
-          12,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          12,
-          0,
-          0,
-          0,
-          18,
-          62,
-          76,
-          42,
-          48,
-          57,
-          45,
-          36,
-          33,
-          30,
-          38,
-          49,
-          60,
-          69
-        ],
-        "page_url": "https://new.web.cafe/keywords/santa-cruz-pokemon"
-      }
-    },
-    {
-      "keyword": "glm flash",
-      "category": "ai",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "glm flash",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 1.755,
-        "growth_pct": -3,
-        "appear_date": "2026-01-18",
-        "burst_date": "2026-08-26",
-        "pushed_on": null,
-        "page_count": 1,
-        "targeted_count": 19,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度只有GPTs的1.8倍且已回落（-3%），搜的人不多，不值得单独建站。",
-          "前两页有19个专门页面，全是HuggingFace、OpenRouter、Reddit等大站内页，竞争激烈。",
-          "没有新站首页排在前面，说明这个词对新域名不友好，但做内页蹭长尾流量可行。",
-          "这是一个AI模型名，用户需求是API价格、跑分对比、本地部署教程，可做工具型内页。"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "GLM-5.3-Flash是Z.ai推出的320B参数多模态AI模型，主打超低成本推理，是GLM-5系列首个原生多模态模型。",
-          "want": "搜这个词的人想了解API价格、跑分对比、与GLM-5.3的区别、如何本地部署（Ollama）、或找在线体验入口。",
-          "how": "做内页。可在已有AI工具站上加一个GLM-5.3-Flash vs GLM-5.3对比页，包含价格（$0.04/M tokens）、延迟、跑分表格，嵌入OpenRouter调用链接。热度低，单独建站不划算。"
-        },
-        "sources": [
-          "glm"
-        ],
-        "spark": [
-          29,
-          29,
-          27,
-          38,
-          41,
-          30,
-          25,
-          21,
-          18,
-          20,
-          19,
-          17,
-          19,
-          21,
-          21,
-          19,
-          18,
-          18,
-          15,
-          20,
-          21,
-          21,
-          20,
-          18,
-          19,
-          16,
-          20,
-          19,
-          18,
-          19
-        ],
-        "page_url": "https://new.web.cafe/keywords/glm-flash"
-      }
-    },
-    {
-      "keyword": "mw4 campaign early access",
-      "category": "game",
-      "verdict": "worth",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "mw4 campaign early access",
-        "category": "game",
-        "kind": "new",
-        "trend_now": "上升中",
-        "heat_ratio": 1.536,
-        "growth_pct": 308,
-        "appear_date": "2026-08-16",
-        "burst_date": "2026-10-13",
-        "pushed_on": null,
-        "page_count": 4,
-        "targeted_count": 2,
-        "verdict": "worth",
-        "verdict_reasons": [
-          "前两页只有2个专门针对这个词的页面（YouTube和NintendoLife内页），竞争极低，新站首页有机会。",
-          "热度GPTs×1.5且上升中（+308%），正值《现代战争4》抢先体验期（10月16日），流量在爆发。",
-          "长尾有3个，可扩展做解锁时间、预购教程、各平台下载指南等内容。",
-          "前两页结果多为官网和新闻站，没有专门做攻略或教程的新站首页，存在内容空白。"
-        ],
-        "verdict_suggestion": "新站首页",
-        "brief": {
-          "what": "MW4 Campaign Early Access是《使命召唤：现代战争4》的战役模式抢先体验活动，预购数字版可在10月16日提前一周解锁。",
-          "want": "搜这个词的人想知道如何解锁抢先体验、各平台解锁时间、预购哪个版本、下载教程、或遇到报错怎么解决。",
-          "how": "做新站首页。做一个MW4抢先体验攻略站，核心内容：各平台解锁倒计时、预购版本对比（标准版vs Vault版）、下载安装教程、常见报错解决。可嵌入YouTube预告片和官方FAQ链接。"
-        },
-        "sources": [
-          "early access"
-        ],
-        "spark": [
-          0,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          3,
-          2,
-          3,
-          4,
-          4,
-          4,
-          6,
-          9,
-          7,
-          8,
-          10,
-          12,
-          16,
-          44
-        ],
-        "page_url": "https://new.web.cafe/keywords/mw4-campaign-early-access"
-      }
-    },
-    {
-      "keyword": "steal an egg discord",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "steal an egg discord",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "回落中",
-        "heat_ratio": 0.592,
-        "growth_pct": -16,
-        "appear_date": "2026-08-18",
-        "burst_date": "2026-09-12",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 20,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "前两页 20 个结果全是专门页面，且被 discord.com 的官方/大型社区服务器霸屏，新站无机会。",
-          "搜索结果完全是 Discord 服务器邀请链接，用户意图就是加入服务器，而非浏览外部网站。",
-          "热度虽高（GPTs 的 59%），但趋势已在回落，且流量被 Discord 平台自身完全截留。"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "这是 Roblox 游戏《Steal An Egg》的官方及玩家社区 Discord 服务器，用于获取游戏内稀有蛋提醒、兑换码和交易。",
-          "want": "搜这个词的人想要找到并加入《Steal An Egg》的 Discord 服务器链接，以获取游戏通知和社区互动。",
-          "how": "不建议做。用户搜索意图是直接进入 Discord，外部网站无法满足。非要做的话，最多做一个内页，整理并列出几个最活跃的 Discord 服务器永久链接，但截流效果会很差。"
-        },
-        "sources": [
-          "steal a"
-        ],
-        "spark": [
-          58,
-          89,
-          65,
-          87,
-          66,
-          58,
-          46,
-          96,
-          82,
-          68,
-          93,
-          61,
-          41,
-          30,
-          30,
-          28,
-          36,
-          59,
-          60,
-          43,
-          40,
-          41,
-          37,
-          41,
-          50,
-          49,
-          31,
-          32,
-          33,
-          30
-        ],
-        "page_url": "https://new.web.cafe/keywords/steal-an-egg-discord"
-      }
-    },
-    {
-      "keyword": "adobe clones",
-      "category": "tool",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "adobe clones",
-        "category": "tool",
-        "kind": "new",
-        "trend_now": "回落中",
-        "heat_ratio": 0.55,
-        "growth_pct": 2271,
-        "appear_date": "2025-11-23",
-        "burst_date": "2026-10-10",
-        "pushed_on": null,
-        "page_count": 2,
-        "targeted_count": 15,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度高（GPTs 的 55%），但趋势已从峰值回落，需求可能正在降温。",
-          "前两页有 15 个专门页面，其中包含 dapta.ai 这类 2023 年注册的较新站点，已有竞争。",
-          "搜索结果以科技媒体报道和 YouTube 测评为主，用户想看介绍和对比，而非直接使用工具。",
-          "这是一个新闻/话题词，而非工具词，建站难度大，但可做信息整合。"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "一位开发者利用 AI 创建了一套名为 ArtCraft 的免费开源软件，旨在克隆 Adobe 的 Photoshop、Premiere 等 7 款核心应用。",
-          "want": "搜这个词的人想了解这些克隆软件是什么、是否真的免费好用、与正版 Adobe 的对比评测以及如何下载。",
-          "how": "不建议用新站首页强攻。可以在现有技术/设计类网站上做一个内页，形式为“免费 Adobe 替代品合集与测评”。内容要点：逐一介绍 ArtCraft 各软件功能、与 Adobe 正版对比、优缺点总结、下载链接汇总。"
-        },
-        "sources": [
-          "artcraft",
-          "artcraft ai",
-          "artcraft adobe",
-          "adobe clone"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          2,
-          10,
-          18,
-          26,
-          100,
-          73,
-          47,
-          42,
-          26
-        ],
-        "page_url": "https://new.web.cafe/keywords/adobe-clones"
-      }
-    },
-    {
-      "keyword": "geode update",
-      "category": "other",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "geode update",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.359,
-        "growth_pct": 350,
-        "appear_date": "2025-11-16",
-        "burst_date": "2026-01-24",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 7,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度中等（GPTs 的 36%），但已明显回落，时效性已过。",
-          "前两页专门页面只有 7 个，且多为 YouTube 视频，图文攻略存在机会。",
-          "搜索结果中缺少一个清晰、步骤化的图文安装教程，这是可以切入的需求点。",
-          "这是一个由游戏版本更新引发的特定问题，需求明确但短暂。"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "Geode 是游戏《Geometry Dash》的一个模组加载器，在游戏更新到 2.208 版本后失效，玩家需要寻找更新或修复方法。",
-          "want": "搜这个词的人想要知道如何在《Geometry Dash》新版本中安装或修复 Geode 模组加载器。",
-          "how": "不建议建新站。可以在已有的游戏攻略站上做一个内页，形式为图文教程。核心内容：针对 2.2081 版本，分 Windows、Android 平台提供详细的 Geode 安装步骤、常见报错修复方案。"
-        },
-        "sources": [
-          "update"
-        ],
-        "spark": [
-          0,
-          11,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          2,
-          2,
-          4,
-          1,
-          1,
-          1,
-          1,
-          26
-        ],
-        "page_url": "https://new.web.cafe/keywords/geode-update"
-      }
-    },
-    {
-      "keyword": "geometry dash 2.209 mobile",
-      "category": "other",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "geometry dash 2.209 mobile",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.069,
-        "growth_pct": null,
-        "appear_date": "2026-02-08",
-        "burst_date": "2026-04-08",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度GPTs×0.069虽高于0.05，但已明显回落，需打折扣",
-          "前两页0个专门页面，竞争极小，但趋势下降风险大"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "《几何冲刺》2.209版本的移动端更新，用户关心手机版下载和更新内容。",
-          "want": "搜的人想在手机上获取2.209版本，了解移动端新功能和下载方式。",
-          "how": "做内页，页面形式为移动端下载指南/更新说明：对比iOS和Android版本，列出更新亮点，提供官方商店链接。因趋势已回落，不要单独建站，挂在已有游戏站下即可。"
-        },
-        "sources": [
-          "geometry dash"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          15
-        ],
-        "page_url": "https://new.web.cafe/keywords/geometry-dash-2-209-mobile-ad856c"
-      }
-    },
-    {
-      "keyword": "slayers 2 wiki",
-      "category": "other",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "slayers 2 wiki",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.062,
-        "growth_pct": -55,
-        "appear_date": "2026-09-18",
-        "burst_date": "2026-09-18",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 12,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度GPTs×0.062，但已明显回落（近期涨幅-55%）",
-          "前两页已有专门首页slayers2wiki.com（2026-09注册新站）排第2，竞争已存在",
-          "前10个专门页面中还有bloxinformer.com等多个内页，内容已较多"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "Slayers 2（前身Project Slayers 2）是一款Roblox动作冒险游戏，基于《鬼灭之刃》，含RPG元素。",
-          "want": "搜的人想查游戏攻略：呼吸法、血鬼术、氏族、训练师位置、代码等。",
-          "how": "做内页，页面形式为攻略整合页：整理现有Slayers 2 Wiki链接、核心机制速查表、新手路线图。不要做独立新站，已有新站slayers2wiki.com占位且热度下降，在现有游戏站加内页更稳。"
-        },
-        "sources": [
-          "trello",
-          "codes wiki"
-        ],
-        "spark": [
-          0,
-          0,
-          26,
-          100,
-          44,
-          0,
-          54,
-          52,
-          55,
-          44,
-          62,
-          56,
-          33,
-          29,
-          23,
-          20,
-          19,
-          29,
-          26,
-          14,
-          10,
-          10,
-          9,
-          9,
-          11,
-          10,
-          7,
-          6,
-          5,
-          5
-        ],
-        "page_url": "https://new.web.cafe/keywords/slayers-2-wiki"
-      }
-    },
-    {
-      "keyword": "fourth wing tv show release date",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "fourth wing tv show release date",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.056,
-        "growth_pct": 6,
-        "appear_date": "2025-11-09",
-        "burst_date": "2026-04-19",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "像是一条新闻标题，不是稳定的搜索需求"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "release date"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          6,
-          9,
-          12,
-          7,
-          5,
-          5,
-          5,
-          3,
-          7,
-          6,
-          6,
-          5,
-          5,
-          20
-        ],
-        "page_url": "https://new.web.cafe/keywords/fourth-wing-tv-show-release-date"
-      }
-    },
-    {
-      "keyword": "ai impact on game decompilation",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "ai impact on game decompilation",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.044,
-        "growth_pct": null,
-        "appear_date": "2025-11-16",
-        "burst_date": "2026-03-22",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度GPTs×0.044，低于0.05，且已明显回落",
-          "前两页0个专门页面，但话题为资讯/分析，非工具或攻略需求",
-          "搜索结果全是新闻、讨论（reddit、ign、404media等），无明确可操作页面"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "关于AI对游戏反编译（decompilation）影响的讨论话题，涉及技术、版权和社区反应。",
-          "want": "搜的人想了解AI如何改变游戏反编译、真实案例、版权争议等。",
-          "how": "不建议做。这是时效性资讯话题，热度低且已回落，没有可做成工具或攻略的明确需求。非要做的话，最多在内容站写一篇深度分析文章，但独立建站无价值。"
-        },
-        "sources": [
-          "ai game"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/ai-impact-on-game-decompilation"
-      }
-    },
-    {
-      "keyword": "kenny beta squad traitors",
-      "category": "other",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "kenny beta squad traitors",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "回落中",
-        "heat_ratio": 0.034,
-        "growth_pct": 39,
-        "appear_date": "2026-04-26",
-        "burst_date": "2026-07-03",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 2,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度GPTs的3.4%尚可但已回落，专门页面仅2个且都是大站内页",
-          "需求是了解Kenny在《Celebrity Traitors》中的表现",
-          "可直接做一篇人物回顾/节目亮点内页，竞争较小"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "King Kenny参加《Celebrity Traitors》第二季的相关信息",
-          "want": "想知道他的角色、表现及与Beta Squad成员的互动",
-          "how": "做内页，形式为回顾文章：介绍Kenny上节目的背景、关键情节、与Niko等成员的关系，引用节目亮点"
-        },
-        "sources": [
-          "beta"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          39,
-          26,
-          16,
-          7,
-          9,
-          0,
-          16,
-          18,
-          21,
-          21,
-          12,
-          11,
-          0,
-          74
-        ],
-        "page_url": "https://new.web.cafe/keywords/kenny-beta-squad-traitors"
-      }
-    },
-    {
-      "keyword": "dokie ai",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "dokie ai",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.008,
-        "growth_pct": 2,
-        "appear_date": "2025-11-02",
-        "burst_date": "2026-02-21",
-        "pushed_on": null,
-        "page_count": 1,
-        "targeted_count": 16,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "品牌词，官方首页dokie.ai已占第一位，新站极难竞争",
-          "热度仅GPTs的0.8%，搜索量极低",
-          "专门页面已达16个，含官方和大量权威内页，竞争饱和"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "Dokie AI是一款AI演示文稿制作工具，可快速生成PPT",
-          "want": "用Dokie AI做演示文稿，或了解功能及评价",
-          "how": "不建议做；非要做最多做一篇测评内页，但无法与官方及大站流量争夺"
-        },
-        "sources": [
-          "gamma ai"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          10,
-          15,
-          22,
-          14,
-          20,
-          20,
-          20,
-          11,
-          18,
-          16,
-          18,
-          22,
-          21,
-          18
-        ],
-        "page_url": "https://new.web.cafe/keywords/dokie-ai"
-      }
-    },
-    {
-      "keyword": "luma all-in-one ai electrochromic smart glasses",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "luma all-in-one ai electrochromic smart glasses",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.005,
-        "growth_pct": 50,
-        "appear_date": "2026-08-23",
-        "burst_date": "2026-08-26",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "像是一条新闻标题，不是稳定的搜索需求"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "ai glasses"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          0,
-          0,
-          0,
-          1,
-          1,
-          1,
-          2,
-          2,
-          1,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/luma-all-in-one-ai-electrochromic-smart-glasses-d15623"
-      }
-    },
-    {
-      "keyword": "gpt-live-1",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "gpt-live-1",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.004,
-        "growth_pct": -16,
-        "appear_date": "2026-07-08",
-        "burst_date": "2026-07-08",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 15,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "OpenAI品牌词，前两页被官方文档和大站内页统治",
-          "热度仅GPTs的0.4%且明显回落，搜索需求已过峰值",
-          "前20名中专门页面15个均为权威站，新站无法插足"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "OpenAI推出的全双工语音模型，用于实时语音对话",
-          "want": "了解模型能力、定价、接入API或开发语音助手",
-          "how": "不建议做；非要做只能写技术介绍内页，但官方和开发者平台已全面覆盖"
-        },
-        "sources": [
-          "新闻:TestingCatalog",
-          "x:OpenAIDevs"
-        ],
-        "spark": [
-          23,
-          27,
-          17,
-          0,
-          42,
-          0,
-          18,
-          0,
-          13,
-          0,
-          0,
-          0,
-          12,
-          11,
-          0,
-          10,
-          2,
-          3,
-          2,
-          3,
-          3,
-          3,
-          3,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          3
-        ],
-        "page_url": "https://new.web.cafe/keywords/gpt-live-1-f44142"
-      }
-    },
-    {
-      "keyword": "mustafa suleyman openai model comparison",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "mustafa suleyman openai model comparison",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "",
-        "heat_ratio": 0.002,
-        "growth_pct": null,
-        "appear_date": "2026-10-11",
-        "burst_date": null,
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度仅 GPTs 的 0.2%",
-          "前两页全是新闻媒体，无任何专门页面",
-          "这是一次性热门新闻，无长期持续性需求"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "微软 AI CEO Mustafa Suleyman 称内部模型 MAI-Base-2 优于 OpenAI 的 GPT-5.6",
-          "want": "搜的人想看模型的对比分析和新闻详情",
-          "how": "不建议做，非要做可撰一篇对比文章的内页"
-        },
-        "sources": [
-          "openai"
-        ],
-        "spark": [],
-        "page_url": "https://new.web.cafe/keywords/mustafa-suleyman-openai-model-comparison"
-      }
-    },
-    {
-      "keyword": "vibe coding memes",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "vibe coding memes",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "",
-        "heat_ratio": 0.002,
-        "growth_pct": null,
-        "appear_date": "2026-10-04",
-        "burst_date": null,
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 11,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度只有 GPTs 的 0.2%",
-          "前两页被 Reddit 子版和大型社交媒体占据，都是内页",
-          "这是梗图/笑话内容，难以独立建站、无变现点"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "“Vibe coding”是 2025 年 Andrej Karpathy 提出的用 AI 写代码不审查的梗",
-          "want": "搜的人想看关于 vibe coding 的搞笑梗图、笑话",
-          "how": "不建议做，最多做个内页梗图合集"
-        },
-        "sources": [
-          "vibe coding"
-        ],
-        "spark": [],
-        "page_url": "https://new.web.cafe/keywords/vibe-coding-memes"
-      }
-    },
-    {
-      "keyword": "capcut template creator point new",
-      "category": "tool",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "capcut template creator point new",
-        "category": "tool",
-        "kind": "new",
-        "trend_now": "",
-        "heat_ratio": 0.002,
-        "growth_pct": null,
-        "appear_date": "2026-10-11",
-        "burst_date": null,
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度仅 GPTs 的 0.2%，且走势未知",
-          "谷歌前两页无任何专门页面，搜索结果与 CapCut 模板无关",
-          "搜索意图不明，可能为误拼或瞬间词"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "从搜索结果看不出具体是什么，可能是 CapCut 的模板创作者积分功能",
-          "want": "可能在找 CapCut 模板创作奖励或新功能",
-          "how": "不建议做，若非要尝试可建一个提供模板下载的内页"
-        },
-        "sources": [
-          "template",
-          "creator"
-        ],
-        "spark": [],
-        "page_url": "https://new.web.cafe/keywords/capcut-template-creator-point-new"
-      }
-    },
-    {
-      "keyword": "escape the giant cat",
-      "category": "webgame",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "escape the giant cat",
-        "category": "webgame",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.002,
-        "growth_pct": null,
-        "appear_date": "2026-06-07",
-        "burst_date": "2026-05-20",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 7,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度只有 GPTs 的 0.2%，且已明显回落",
-          "前两页全是 YouTube、Reddit 等大站内页，无独立页",
-          "需求是看猫鼠追逐短视频/直播，非独立游戏页"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "一款名为 Hide and Seek: Cat Escape 的猫鼠追逐逃生游戏",
-          "want": "搜的人想看相关的游戏实况、直播或短视频",
-          "how": "不建议做，需求完全被视频平台满足，非要做最多做个视频合集内页"
-        },
-        "sources": [
-          "小游戏:itch"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/escape-the-giant-cat"
-      }
-    },
-    {
-      "keyword": "pop and plunge",
-      "category": "webgame",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "pop and plunge",
-        "category": "webgame",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.002,
-        "growth_pct": -100,
-        "appear_date": "2025-11-30",
-        "burst_date": "2026-06-11",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 7,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度仅 GPTs 的 0.2%，且近期涨幅 -100% 已回落",
-          "搜索结果主要是派对活动和冰浴产品，非在线游戏",
-          "有一个冷 plunge 厂商首页 poplunge.com 占据 #16，不相关"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "印度 Delhi 的泳池派对 IP 活动，也有冷 plunges 产品",
-          "want": "搜的人想参加派对或购买冰浴产品",
-          "how": "不建议做，无法做成游戏站"
-        },
-        "sources": [
-          "小游戏:itch"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          12,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/pop-and-plunge"
-      }
-    },
-    {
-      "keyword": "oyun ama zor",
-      "category": "webgame",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "oyun ama zor",
-        "category": "webgame",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.002,
-        "growth_pct": null,
-        "appear_date": "2025-12-21",
-        "burst_date": "2026-05-28",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度仅 GPTs 的 0.2%，且已明显回落",
-          "谷歌前两页 0 个专门页面，结果都是 Poki、Crazygames 等大站内页",
-          "这是土耳其语泛词，新站极难竞争"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "土耳其语“游戏但难”，搜索困难游戏",
-          "want": "想在线玩或发现，找高难度游戏",
-          "how": "不建议做，需求已被大游戏平台覆盖"
-        },
-        "sources": [
-          "小游戏:itch"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/oyun-ama-zor"
-      }
-    },
-    {
-      "keyword": "windsurf essaouira",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "windsurf essaouira",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.001,
-        "growth_pct": -100,
-        "appear_date": "2026-10-04",
-        "burst_date": "2026-10-08",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：只有 GPTs 的 0.1%，搜的人太少"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "windsurf"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          100,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/windsurf-essaouira"
-      }
-    },
-    {
-      "keyword": "obby alpha pigana na mungu",
-      "category": "game",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "obby alpha pigana na mungu",
-        "category": "game",
-        "kind": "new",
-        "trend_now": "",
-        "heat_ratio": 0.001,
-        "growth_pct": null,
-        "appear_date": "2026-01-04",
-        "burst_date": null,
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 15,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：只有 GPTs 的 0.1%，搜的人太少"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "obby"
-        ],
-        "spark": [],
-        "page_url": "https://new.web.cafe/keywords/obby-alpha-pigana-na-mungu"
-      }
-    },
-    {
-      "keyword": "claude mythos 5",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "claude mythos 5",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0,
-        "growth_pct": null,
-        "appear_date": "2026-04-05",
-        "burst_date": "2026-06-09",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：谷歌趋势里几乎没有量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "x:AnthropicAI"
-        ],
-        "spark": [
-          0,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/claude-mythos-5"
-      }
-    },
-    {
-      "keyword": "ideogram ai gratuit",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "ideogram ai gratuit",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0,
-        "growth_pct": null,
-        "appear_date": "2025-11-30",
-        "burst_date": "2026-03-30",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：谷歌趋势里几乎没有量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "ideogram"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/ideogram-ai-gratuit"
-      }
-    },
-    {
-      "keyword": "steelseries xai",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "steelseries xai",
-        "category": "ai",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0,
-        "growth_pct": null,
-        "appear_date": "2026-03-08",
-        "burst_date": "2026-04-24",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：谷歌趋势里几乎没有量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "xai"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/steelseries-xai"
-      }
-    },
-    {
-      "keyword": "rc wiki fandom",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "rc wiki fandom",
-        "category": "other",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0,
-        "growth_pct": null,
-        "appear_date": "2025-11-30",
-        "burst_date": "2026-05-22",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：谷歌趋势里几乎没有量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "wiki fandom"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/rc-wiki-fandom"
-      }
-    },
-    {
-      "keyword": "code skibidi masters tower defense",
-      "category": "game",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "code skibidi masters tower defense",
-        "category": "game",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0,
-        "growth_pct": -100,
-        "appear_date": "2026-05-24",
-        "burst_date": "2026-07-11",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：谷歌趋势里几乎没有量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "tower defense"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          9,
-          7,
-          0,
-          0,
-          7,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/code-skibidi-masters-tower-defense"
-      }
-    },
-    {
-      "keyword": "hunger games wiki fandom",
-      "category": "game",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "hunger games wiki fandom",
-        "category": "game",
-        "kind": "new",
-        "trend_now": "",
-        "heat_ratio": 0,
-        "growth_pct": null,
-        "appear_date": "2025-12-28",
-        "burst_date": null,
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：谷歌趋势里几乎没有量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "wiki fandom"
-        ],
-        "spark": [],
-        "page_url": "https://new.web.cafe/keywords/hunger-games-wiki-fandom"
-      }
-    },
-    {
-      "keyword": "mech royale",
-      "category": "webgame",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "mech royale",
-        "category": "webgame",
-        "kind": "new",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0,
-        "growth_pct": null,
-        "appear_date": "2026-06-14",
-        "burst_date": "2026-08-30",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 13,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度为 GPTs 的 0.0，搜索量极低，趋势已明显回落",
-          "前两页有 13 个专门页面，全是大站内页（youtube.com、crazygames.com 等），竞争激烈",
-          "搜索结果指向多个不同游戏（Super Mecha Champions、Mecha Allstars 等），用户意图分散",
-          "长尾词为 0，没有扩展内容空间"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "从搜索结果看，mech royale 不是单一游戏，而是指机甲大逃杀这一游戏类型，涉及 Super Mecha Champions、Mecha Allstars Battle Royale 等多款游戏。",
-          "want": "搜这个词的人想找机甲大逃杀类游戏来玩，可能是看视频了解游戏、找在线免费版、或下载手游。",
-          "how": "不建议做。热度为零且趋势已掉，前两页全被 youtube、crazygames 等大站内页占满，新站首页毫无机会。非要做的话，最多做一个机甲大逃杀游戏合集内页，但流量前景极差。"
-        },
-        "sources": [
-          "小游戏:itch"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          6,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/mech-royale"
-      }
-    },
-    {
-      "keyword": "hellraiser",
-      "category": "webgame",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "hellraiser",
-        "category": "webgame",
-        "kind": "resurgence",
-        "trend_now": "上升中",
-        "heat_ratio": 48.647,
-        "growth_pct": 230,
-        "appear_date": null,
-        "burst_date": "2026-10-08",
-        "pushed_on": "2026-10-11",
-        "page_count": 4,
-        "targeted_count": 17,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "这是一个经典恐怖电影/游戏系列品牌词，用户搜的是官网或电影信息，新站极难截流。",
-          "前两页全是维基、IMDb、Steam、Hulu等千万/十亿级流量的老站内页，竞争壁垒极高。",
-          "热度虽高达GPTs的48.6倍，但流量被大站垄断，新站首页几乎不可能排进前20。",
-          "最多只能做游戏攻略或电影解说内页，但无法与现有大站竞争核心词排名。"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "Hellraiser是1987年Clive Barker执导的经典超自然恐怖电影系列，2026年推出了新游戏《Clive Barker's Hellraiser: Revival》。",
-          "want": "搜这个词的人想看电影信息、流媒体观看链接、新游戏《Hellraiser: Revival》的Steam页面、评测或购买渠道。",
-          "how": "不建议做。这是品牌词，前两页被维基、IMDb、Steam、Hulu等大站垄断，新站首页无排名机会。非要做的话，最多做一个游戏攻略或电影彩蛋解析内页，但流量极低。"
-        },
-        "sources": [
-          "horror game",
-          "steam game",
-          "silent hill townfall",
-          "multiplayer game"
-        ],
-        "spark": [
-          7,
-          11,
-          16,
-          18,
-          16,
-          12,
-          15,
-          15,
-          14,
-          12,
-          13,
-          13,
-          12,
-          14,
-          11,
-          12,
-          14,
-          17,
-          17,
-          15,
-          18,
-          21,
-          56,
-          83,
-          100,
-          91,
-          77,
-          64,
-          54,
-          52
-        ],
-        "page_url": "https://new.web.cafe/keywords/hellraiser"
-      }
-    },
-    {
-      "keyword": "king kenny",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "king kenny",
-        "category": "other",
-        "kind": "resurgence",
-        "trend_now": "已明显回落",
-        "heat_ratio": 1.801,
-        "growth_pct": -36,
-        "appear_date": null,
-        "burst_date": "2026-10-01",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 17,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "这是英国网红/前拳击手的个人品牌词，用户搜的是他的社交媒体主页或新闻，新站无法截流。",
-          "前两页全是维基、Instagram、YouTube、IMDb等大站内页，专门针对这个词的页面有17个。",
-          "热度只有GPTs的1.8倍且已明显回落（-36%），趋势在掉，搜的人越来越少。",
-          "长尾数量为0，没有可扩展的内容方向，无法做工具或生成器页。"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "King Kenny是英国社交媒体网红、前拳击手Kenny Ojuederie的网名，因参加《The Celebrity Traitors》节目再次走红。",
-          "want": "搜这个词的人想找他的Instagram、YouTube频道、个人资料（年龄、真名）、或《The Traitors》节目相关信息。",
-          "how": "不建议做。这是个人品牌词，用户只认官方社交账号，新站无法替代。热度已回落且无长尾词，非要做最多写一篇人物介绍内页，但无搜索流量价值。"
-        },
-        "sources": [
-          "beta"
-        ],
-        "spark": [
-          9,
-          5,
-          8,
-          0,
-          10,
-          0,
-          10,
-          7,
-          5,
-          4,
-          7,
-          8,
-          6,
-          7,
-          9,
-          100,
-          73,
-          41,
-          27,
-          14,
-          9,
-          9,
-          14,
-          20,
-          17,
-          14,
-          9,
-          7,
-          6,
-          46
-        ],
-        "page_url": "https://new.web.cafe/keywords/king-kenny"
-      }
-    },
-    {
-      "keyword": "storytold",
-      "category": "tool",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "storytold",
-        "category": "tool",
-        "kind": "resurgence",
-        "trend_now": "回落中",
-        "heat_ratio": 0.878,
-        "growth_pct": 121,
-        "appear_date": null,
-        "burst_date": "2026-10-06",
-        "pushed_on": null,
-        "page_count": 5,
-        "targeted_count": 13,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度只有GPTs的0.88倍且已回落（+121%涨幅后下跌），搜的人少，趋势在掉。",
-          "前两页有13个专门页面，全是GitHub、LinkedIn、Instagram等大站内页，没有新站首页。",
-          "这是一个GitHub开源组织名，用户搜的是项目仓库地址，新站无法替代GitHub官方页。",
-          "但可做「Adobe开源替代品合集」内页，蹭PhotoCraft、EffectCraft等子项目长尾流量。"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "Storytold是GitHub上的开源组织ArtCraft，用Rust重写了Photoshop、After Effects、InDesign等Adobe全家桶的替代品。",
-          "want": "搜这个词的人想找GitHub仓库地址、了解PhotoCraft/EffectCraft等工具的功能、下载链接、或看对比评测。",
-          "how": "做内页。在已有工具站上加一个「Adobe开源替代品合集」页，列出PhotoCraft（PS替代）、EffectCraft（AE替代）、DesignCraft（InDesign替代），附GitHub链接和Star数。单独建站热度不够。"
-        },
-        "sources": [
-          "photocraft",
-          "deckcraft",
-          "pdfcraft",
-          "github photocraft"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          0,
-          1,
-          25,
-          57,
-          45,
-          31,
-          26,
-          100,
-          52,
-          34,
-          24,
-          20
-        ],
-        "page_url": "https://new.web.cafe/keywords/storytold"
-      }
-    },
-    {
-      "keyword": "yba codes",
-      "category": "game",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "yba codes",
-        "category": "game",
-        "kind": "resurgence",
-        "trend_now": "回落中",
-        "heat_ratio": 0.481,
-        "growth_pct": -31,
-        "appear_date": null,
-        "burst_date": "2026-09-25",
-        "pushed_on": "2026-09-29",
-        "page_count": 1,
-        "targeted_count": 11,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "前两页挤满了 beebom.com、pcgamesn.com 等老牌游戏攻略站的内页，竞争异常激烈。",
-          "这是一个典型的兑换码页面，用户找到码就走，停留时间短，新站很难建立排名。",
-          "热度虽高（GPTs 的 48%），但趋势在回落，且这类词已有非常成熟的头部站点垄断。"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "这是 Roblox 游戏《Your Bizarre Adventure》(YBA) 的兑换码，用于兑换游戏内的幸运箭、经验等奖励。",
-          "want": "搜这个词的人想要最新、可用的 YBA 兑换码列表，并可能想知道如何兑换。",
-          "how": "不建议做。头部游戏攻略站已形成垄断，新站极难突围。非要做的话，只能做一个内页，保持每日更新最新可用和过期兑换码，并提供兑换步骤图解，但获取流量希望渺茫。"
-        },
-        "sources": [
-          "roblox codes",
-          "codes"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          34,
-          100,
-          83,
-          39,
-          54,
-          52,
-          25,
-          39,
-          50,
-          45,
-          21,
-          16,
-          17,
-          15,
-          20,
-          31,
-          32,
-          17,
-          14,
-          13,
-          14
-        ],
-        "page_url": "https://new.web.cafe/keywords/yba-codes"
-      }
-    },
-    {
-      "keyword": "17 octobre app",
-      "category": "tool",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "17 octobre app",
-        "category": "tool",
-        "kind": "resurgence",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.136,
-        "growth_pct": 227,
-        "appear_date": null,
-        "burst_date": "2026-08-16",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 9,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度低（GPTs 的 0.14%），且趋势已明显回落，搜索量很小。",
-          "这是一个特定日期（10月17日）的抗议活动应用，时效性极强，活动结束后流量将归零。",
-          "已有官网 17octobre.app 排在首页，且有多家法国权威媒体（lefigaro.fr, liberation.fr）报道，新站无优势。"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "这是一款名为“17Octobre”的法国抗议活动实时地图应用，被称为“游行版的 Waze”，用于在 10 月 17 日的示威活动中报告警察位置和路况。",
-          "want": "搜这个词的人想了解这个应用是什么、如何下载，以及它如何帮助参与或避开示威活动。",
-          "how": "不建议做。这是一个已过气的短期热点，流量已枯竭。非要做的话，最多做一个法语内页，介绍该应用的功能和争议，但几乎没有获取搜索流量的价值。"
-        },
-        "sources": [
-          "app"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          3,
-          0,
-          2,
-          2,
-          2,
-          1,
-          0,
-          0,
-          0,
-          2,
-          2,
-          3,
-          29
-        ],
-        "page_url": "https://new.web.cafe/keywords/17-octobre-app"
-      }
-    },
-    {
-      "keyword": "puzzle dock ikea",
-      "category": "other",
-      "verdict": "maybe",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "puzzle dock ikea",
-        "category": "other",
-        "kind": "resurgence",
-        "trend_now": "已明显回落",
-        "heat_ratio": 0.013,
-        "growth_pct": null,
-        "appear_date": null,
-        "burst_date": "2026-05-15",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "maybe",
-        "verdict_reasons": [
-          "热度仅GPTs的1.3%且已明显回落，搜索量很低",
-          "前两页0个专门页面，都是UGC或宜家官方内容",
-          "可做DIY教程或产品测评内页，但回报有限"
-        ],
-        "verdict_suggestion": "做内页",
-        "brief": {
-          "what": "宜家推车式拼图收纳方案或DIY拼图桌",
-          "want": "想买或自制拼图收纳推车、拼图桌",
-          "how": "做内页，形式为DIY攻略/产品对比：介绍宜家哪些产品可改造为拼图dock，附步骤和材料清单"
-        },
-        "sources": [
-          "puzzle"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          4,
-          6,
-          0,
-          9,
-          0,
-          0,
-          11
-        ],
-        "page_url": "https://new.web.cafe/keywords/puzzle-dock-ikea"
-      }
-    },
-    {
-      "keyword": "the fumigator",
-      "category": "webgame",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "the fumigator",
-        "category": "webgame",
-        "kind": "resurgence",
-        "trend_now": "回落中",
-        "heat_ratio": 0.007,
-        "growth_pct": 2,
-        "appear_date": null,
-        "burst_date": "2026-10-11",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 18,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度仅GPTs的0.7%，极低且回落",
-          "搜索结果混杂游戏物品和现实灭虫产品，需求不集中",
-          "专门页面18个多是大站内页，新站无优势"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "可能指《魔兽世界》/《使命召唤》游戏物品，或现实灭虫喷剂",
-          "want": "获取游戏内物品信息或购买灭虫器",
-          "how": "不建议做；非要做最多整理游戏物品攻略内页，但热度极低难以获益"
-        },
-        "sources": [
-          "小游戏:itch"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          97,
-          0,
-          0,
-          97,
-          0,
-          97,
-          0,
-          100,
-          0,
-          0,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/the-fumigator"
-      }
-    },
-    {
-      "keyword": "viggie ai",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "viggie ai",
-        "category": "ai",
-        "kind": "resurgence",
-        "trend_now": "高位",
-        "heat_ratio": 0.003,
-        "growth_pct": 8,
-        "appear_date": null,
-        "burst_date": "2026-10-02",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "很明显是「Viggle AI」的拼写错误，搜索意图指向现有品牌",
-          "热度仅GPTs的0.3%，即使有涨幅也极低",
-          "无专门页面，但大站已通过正常拼写覆盖，新站做错误拼写无意义"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "很可能是Viggle AI（AI动画工具）的错误拼写",
-          "want": "用Viggle AI制作动画、表情包或了解使用方法",
-          "how": "不建议做；非要做只能做拼写纠正跳转页，但无搜索价值"
-        },
-        "sources": [
-          "viggle ai"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          72,
-          67,
-          88,
-          80,
-          47,
-          53,
-          56,
-          60,
-          79,
-          100,
-          88,
-          63,
-          45,
-          65
-        ],
-        "page_url": "https://new.web.cafe/keywords/viggie-ai"
-      }
-    },
-    {
-      "keyword": "avatar seven havens cap 4",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "avatar seven havens cap 4",
-        "category": "ai",
-        "kind": "resurgence",
-        "trend_now": "上升中",
-        "heat_ratio": 0.003,
-        "growth_pct": null,
-        "appear_date": null,
-        "burst_date": "2026-10-15",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 2,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度仅GPTs的0.3%，极低，虽上升但绝对值太小",
-          "需求为单集动画剧情，无法持续吸引搜索",
-          "专门页面仅2个都是大站内页，但搜索意图时效性极强"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": {
-          "what": "动画《Avatar: Seven Havens》第一季第四章/第四集",
-          "want": "看剧情回顾、分集解析或讨论",
-          "how": "不建议做；非要做只能写分集剧情内页，但流量上限极低且很快过气"
-        },
-        "sources": [
-          "avatar seven havens"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          17,
-          0,
-          13,
-          0,
-          0,
-          23
-        ],
-        "page_url": "https://new.web.cafe/keywords/avatar-seven-havens-cap-4"
-      }
-    },
-    {
-      "keyword": "free ai resume builder and download",
-      "category": "ai",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "free ai resume builder and download",
-        "category": "ai",
-        "kind": "resurgence",
-        "trend_now": "高位",
-        "heat_ratio": 0.003,
-        "growth_pct": -1,
-        "appear_date": null,
-        "burst_date": "2026-10-05",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "像是一条新闻标题，不是稳定的搜索需求"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "ai resume"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          57,
-          0,
-          0,
-          67,
-          69,
-          100,
-          67,
-          0,
-          53,
-          54,
-          91,
-          91,
-          67,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/free-ai-resume-builder-and-download"
-      }
-    },
-    {
-      "keyword": "tower defense simulator script",
-      "category": "other",
-      "verdict": "skip",
-      "batchId": "2026-10-16T2023",
-      "fetchedAt": "2026-10-16T20:23:13.000Z",
-      "sourceUrl": "https://new.web.cafe/data/updates/2026-10-16T2023",
-      "raw": {
-        "keyword": "tower defense simulator script",
-        "category": "other",
-        "kind": "resurgence",
-        "trend_now": "回落中",
-        "heat_ratio": 0,
-        "growth_pct": -30,
-        "appear_date": null,
-        "burst_date": "2026-10-02",
-        "pushed_on": null,
-        "page_count": 0,
-        "targeted_count": 0,
-        "verdict": "skip",
-        "verdict_reasons": [
-          "热度太小：谷歌趋势里几乎没有量"
-        ],
-        "verdict_suggestion": "不建议做",
-        "brief": null,
-        "sources": [
-          "tower defense"
-        ],
-        "spark": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          93,
-          66,
-          100,
-          0,
-          0,
-          0,
-          41,
-          54,
-          51,
-          62,
-          0,
-          44,
-          0,
-          0
-        ],
-        "page_url": "https://new.web.cafe/keywords/tower-defense-simulator-script"
       }
     }
   ]
