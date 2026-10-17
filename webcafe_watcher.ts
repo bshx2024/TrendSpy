@@ -253,7 +253,7 @@ async function dispatchWebhookAlert(alerts: AlertItem[]) {
             tag: "button",
             text: { tag: "plain_text", content: "📑 TrendSpy 看板" },
             type: "default",
-            url: "https://trendspy-ruddy.vercel.app"
+            url: process.env.TRENDSPY_WEB_URL || "https://trend.apivel.com"
           }
         ]
       });
