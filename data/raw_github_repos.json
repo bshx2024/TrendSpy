@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/20 03:43:21",
-  "total_repos": 519,
+  "fetched_at": "2026/10/20 07:28:20",
+  "total_repos": 524,
   "repos": [
     {
       "id": 1402525166,
@@ -108,6 +108,21 @@
       "created_at": "2026-10-04T03:33:57Z",
       "updated_at": "2026-10-10T14:20:21Z",
       "pushed_at": "2026-10-10T05:11:24Z"
+    },
+    {
+      "id": 1422053844,
+      "name": "coop-anything",
+      "full_name": "cranebeaker/coop-anything",
+      "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+      "html_url": "https://github.com/cranebeaker/coop-anything",
+      "homepage": null,
+      "stars": 583,
+      "forks": 56,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-16T11:12:03Z",
+      "updated_at": "2026-10-19T23:14:28Z",
+      "pushed_at": "2026-10-19T20:32:14Z"
     },
     {
       "id": 1408486424,
@@ -223,21 +238,6 @@
       "created_at": "2026-10-15T22:30:47Z",
       "updated_at": "2026-10-17T20:20:09Z",
       "pushed_at": "2026-10-17T09:46:44Z"
-    },
-    {
-      "id": 1422053844,
-      "name": "coop-anything",
-      "full_name": "cranebeaker/coop-anything",
-      "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "html_url": "https://github.com/cranebeaker/coop-anything",
-      "homepage": null,
-      "stars": 557,
-      "forks": 51,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-16T11:12:03Z",
-      "updated_at": "2026-10-19T19:33:37Z",
-      "pushed_at": "2026-10-19T19:31:24Z"
     },
     {
       "id": 1412022658,
@@ -443,8 +443,8 @@
       "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
       "html_url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
       "homepage": null,
-      "stars": 429,
-      "forks": 485,
+      "stars": 430,
+      "forks": 489,
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -458,7 +458,7 @@
         "workflow-automation"
       ],
       "created_at": "2026-10-13T10:13:21Z",
-      "updated_at": "2026-10-19T19:27:26Z",
+      "updated_at": "2026-10-19T23:07:04Z",
       "pushed_at": "2026-10-18T06:48:08Z"
     },
     {
@@ -582,6 +582,25 @@
       "created_at": "2026-10-02T19:56:03Z",
       "updated_at": "2026-10-04T11:35:37Z",
       "pushed_at": "2026-10-02T19:56:10Z"
+    },
+    {
+      "id": 1419211419,
+      "name": "nsh",
+      "full_name": "longbridge/nsh",
+      "description": "NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
+      "html_url": "https://github.com/longbridge/nsh",
+      "homepage": "https://nsh.dev",
+      "stars": 399,
+      "forks": 25,
+      "language": "Rust",
+      "topics": [
+        "cross-platform",
+        "native",
+        "nsh"
+      ],
+      "created_at": "2026-10-14T14:59:36Z",
+      "updated_at": "2026-10-19T23:19:23Z",
+      "pushed_at": "2026-10-19T20:33:40Z"
     },
     {
       "id": 1405558786,
@@ -788,25 +807,6 @@
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
-      "id": 1419211419,
-      "name": "nsh",
-      "full_name": "longbridge/nsh",
-      "description": "NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
-      "html_url": "https://github.com/longbridge/nsh",
-      "homepage": "https://nsh.dev",
-      "stars": 390,
-      "forks": 25,
-      "language": "Rust",
-      "topics": [
-        "cross-platform",
-        "native",
-        "nsh"
-      ],
-      "created_at": "2026-10-14T14:59:36Z",
-      "updated_at": "2026-10-19T19:08:29Z",
-      "pushed_at": "2026-10-19T18:20:22Z"
-    },
-    {
       "id": 1406514405,
       "name": "liquid-glass",
       "full_name": "Glass-HQ/liquid-glass",
@@ -970,6 +970,49 @@
       "pushed_at": "2026-10-17T17:11:11Z"
     },
     {
+      "id": 1424201691,
+      "name": "nanoui",
+      "full_name": "justrach/nanoui",
+      "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
+      "html_url": "https://github.com/justrach/nanoui",
+      "homepage": null,
+      "stars": 325,
+      "forks": 8,
+      "language": "Zig",
+      "topics": [],
+      "created_at": "2026-10-18T09:27:46Z",
+      "updated_at": "2026-10-19T22:43:05Z",
+      "pushed_at": "2026-10-19T17:26:56Z"
+    },
+    {
+      "id": 1416366647,
+      "name": "tlg_pc",
+      "full_name": "HayatoG/tlg_pc",
+      "description": "Native PC port (Linux/Windows) of The Last Guardian (PS4, CUSA03627) — runs your own game dump; no game or firmware files included. Mouse/keyboard, optional 60 FPS, SMAA/CAS filters. | Port nativo para PC de The Last Guardian — usa o seu próprio dump.",
+      "html_url": "https://github.com/HayatoG/tlg_pc",
+      "homepage": "https://www.youtube.com/@hayatog-dev",
+      "stars": 323,
+      "forks": 14,
+      "language": "C++",
+      "topics": [
+        "game-preservation",
+        "homebrew",
+        "japan-studio",
+        "linux",
+        "native-port",
+        "pc-port",
+        "playstation-4",
+        "ps4",
+        "shadps4",
+        "the-last-guardian",
+        "vulkan",
+        "windows"
+      ],
+      "created_at": "2026-10-13T02:46:25Z",
+      "updated_at": "2026-10-19T23:09:19Z",
+      "pushed_at": "2026-10-19T03:21:18Z"
+    },
+    {
       "id": 1410124849,
       "name": "anatomy",
       "full_name": "wheresryan22/anatomy",
@@ -1016,8 +1059,8 @@
       "description": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
       "html_url": "https://github.com/assafkip/claudemy",
       "homepage": "https://askconsulting.io",
-      "stars": 318,
-      "forks": 35,
+      "stars": 319,
+      "forks": 37,
       "language": "Python",
       "topics": [
         "ai-course-generator",
@@ -1042,36 +1085,8 @@
         "udemy-alternative"
       ],
       "created_at": "2026-10-14T01:49:12Z",
-      "updated_at": "2026-10-19T16:08:56Z",
+      "updated_at": "2026-10-19T21:41:13Z",
       "pushed_at": "2026-10-16T18:45:13Z"
-    },
-    {
-      "id": 1416366647,
-      "name": "tlg_pc",
-      "full_name": "HayatoG/tlg_pc",
-      "description": "Native PC port (Linux/Windows) of The Last Guardian (PS4, CUSA03627) — runs your own game dump; no game or firmware files included. Mouse/keyboard, optional 60 FPS, SMAA/CAS filters. | Port nativo para PC de The Last Guardian — usa o seu próprio dump.",
-      "html_url": "https://github.com/HayatoG/tlg_pc",
-      "homepage": "https://www.youtube.com/@hayatog-dev",
-      "stars": 316,
-      "forks": 13,
-      "language": "C++",
-      "topics": [
-        "game-preservation",
-        "homebrew",
-        "japan-studio",
-        "linux",
-        "native-port",
-        "pc-port",
-        "playstation-4",
-        "ps4",
-        "shadps4",
-        "the-last-guardian",
-        "vulkan",
-        "windows"
-      ],
-      "created_at": "2026-10-13T02:46:25Z",
-      "updated_at": "2026-10-19T19:22:19Z",
-      "pushed_at": "2026-10-19T03:21:18Z"
     },
     {
       "id": 1381875232,
@@ -1118,21 +1133,6 @@
       "created_at": "2026-10-06T01:17:53Z",
       "updated_at": "2026-10-12T15:19:31Z",
       "pushed_at": "2026-10-12T14:34:22Z"
-    },
-    {
-      "id": 1424201691,
-      "name": "nanoui",
-      "full_name": "justrach/nanoui",
-      "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
-      "html_url": "https://github.com/justrach/nanoui",
-      "homepage": null,
-      "stars": 309,
-      "forks": 7,
-      "language": "Zig",
-      "topics": [],
-      "created_at": "2026-10-18T09:27:46Z",
-      "updated_at": "2026-10-19T19:41:56Z",
-      "pushed_at": "2026-10-19T17:26:56Z"
     },
     {
       "id": 1402295346,
@@ -1422,6 +1422,21 @@
       "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
+      "id": 1422434082,
+      "name": "mush8",
+      "full_name": "c22dev/mush8",
+      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "html_url": "https://github.com/c22dev/mush8",
+      "homepage": null,
+      "stars": 261,
+      "forks": 51,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-16T16:56:14Z",
+      "updated_at": "2026-10-19T23:25:33Z",
+      "pushed_at": "2026-10-18T08:42:02Z"
+    },
+    {
       "id": 1423660177,
       "name": "Movavi-Converter",
       "full_name": "Maroonplocord/Movavi-Converter",
@@ -1582,21 +1597,6 @@
       "pushed_at": "2026-10-17T19:14:32Z"
     },
     {
-      "id": 1422434082,
-      "name": "mush8",
-      "full_name": "c22dev/mush8",
-      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
-      "html_url": "https://github.com/c22dev/mush8",
-      "homepage": null,
-      "stars": 249,
-      "forks": 49,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-16T16:56:14Z",
-      "updated_at": "2026-10-19T17:32:31Z",
-      "pushed_at": "2026-10-18T08:42:02Z"
-    },
-    {
       "id": 1411335875,
       "name": "scam-with-your-friends-web",
       "full_name": "mrzh7/scam-with-your-friends-web",
@@ -1670,6 +1670,29 @@
       "created_at": "2026-10-13T12:20:04Z",
       "updated_at": "2026-10-17T01:10:12Z",
       "pushed_at": "2026-10-13T12:50:13Z"
+    },
+    {
+      "id": 1425938162,
+      "name": "ai-jailbreaks",
+      "full_name": "AndreSzymanski15/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "html_url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+      "homepage": null,
+      "stars": 228,
+      "forks": 47,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy",
+        "safety",
+        "security"
+      ],
+      "created_at": "2026-10-19T17:14:07Z",
+      "updated_at": "2026-10-19T23:26:41Z",
+      "pushed_at": "2026-10-19T17:20:03Z"
     },
     {
       "id": 1390509008,
@@ -2343,42 +2366,19 @@
       "pushed_at": "2026-10-16T09:26:34Z"
     },
     {
-      "id": 1425938162,
-      "name": "ai-jailbreaks",
-      "full_name": "AndreSzymanski15/ai-jailbreaks",
-      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "html_url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-      "homepage": null,
-      "stars": 187,
-      "forks": 22,
-      "language": null,
-      "topics": [
-        "ai",
-        "ai-safety",
-        "jailbreak",
-        "jailbreaking",
-        "privacy",
-        "safety",
-        "security"
-      ],
-      "created_at": "2026-10-19T17:14:07Z",
-      "updated_at": "2026-10-19T19:42:04Z",
-      "pushed_at": "2026-10-19T17:20:03Z"
-    },
-    {
       "id": 1417980343,
       "name": "ComfyArt",
       "full_name": "jtydhr88/ComfyArt",
       "description": "The open-source, fully local design canvas",
       "html_url": "https://github.com/jtydhr88/ComfyArt",
       "homepage": null,
-      "stars": 185,
-      "forks": 51,
+      "stars": 186,
+      "forks": 52,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-10-13T20:55:49Z",
-      "updated_at": "2026-10-19T19:05:32Z",
-      "pushed_at": "2026-10-19T02:03:09Z"
+      "updated_at": "2026-10-19T22:32:50Z",
+      "pushed_at": "2026-10-19T22:32:45Z"
     },
     {
       "id": 1387387974,
@@ -2406,6 +2406,54 @@
       "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
+      "id": 1418204810,
+      "name": "TwinDesk",
+      "full_name": "InukaAsith/TwinDesk",
+      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
+      "html_url": "https://github.com/InukaAsith/TwinDesk",
+      "homepage": "https://twin-desk.vercel.app",
+      "stars": 183,
+      "forks": 17,
+      "language": "JavaScript",
+      "topics": [
+        "linux",
+        "macbook",
+        "macos",
+        "mouse-sharing",
+        "productivity",
+        "screen-sharing",
+        "windows"
+      ],
+      "created_at": "2026-10-14T01:19:02Z",
+      "updated_at": "2026-10-19T22:41:18Z",
+      "pushed_at": "2026-10-19T16:54:11Z"
+    },
+    {
+      "id": 1421433459,
+      "name": "NPCTalk",
+      "full_name": "christos-antono/NPCTalk",
+      "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+      "html_url": "https://github.com/christos-antono/NPCTalk",
+      "homepage": null,
+      "stars": 181,
+      "forks": 12,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "fish-audio",
+        "game-modding",
+        "gta5",
+        "llm",
+        "npc",
+        "text-to-speech",
+        "voice-cloning"
+      ],
+      "created_at": "2026-10-15T23:37:25Z",
+      "updated_at": "2026-10-19T22:25:03Z",
+      "pushed_at": "2026-10-16T10:03:49Z"
+    },
+    {
       "id": 1415164610,
       "name": "robosimstudio",
       "full_name": "robosimstudio/robosimstudio",
@@ -2421,52 +2469,19 @@
       "pushed_at": "2026-10-18T08:33:25Z"
     },
     {
-      "id": 1421433459,
-      "name": "NPCTalk",
-      "full_name": "christos-antono/NPCTalk",
-      "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
-      "html_url": "https://github.com/christos-antono/NPCTalk",
+      "id": 1419705266,
+      "name": "hw-harness",
+      "full_name": "cschalle/hw-harness",
+      "description": "Small set of tools for helping with reverse engineering Linux drivers",
+      "html_url": "https://github.com/cschalle/hw-harness",
       "homepage": null,
-      "stars": 179,
+      "stars": 176,
       "forks": 12,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "fish-audio",
-        "game-modding",
-        "gta5",
-        "llm",
-        "npc",
-        "text-to-speech",
-        "voice-cloning"
-      ],
-      "created_at": "2026-10-15T23:37:25Z",
-      "updated_at": "2026-10-19T17:13:30Z",
-      "pushed_at": "2026-10-16T10:03:49Z"
-    },
-    {
-      "id": 1418204810,
-      "name": "TwinDesk",
-      "full_name": "InukaAsith/TwinDesk",
-      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
-      "html_url": "https://github.com/InukaAsith/TwinDesk",
-      "homepage": "https://twin-desk.vercel.app",
-      "stars": 178,
-      "forks": 17,
-      "language": "JavaScript",
-      "topics": [
-        "linux",
-        "macbook",
-        "macos",
-        "mouse-sharing",
-        "productivity",
-        "screen-sharing",
-        "windows"
-      ],
-      "created_at": "2026-10-14T01:19:02Z",
-      "updated_at": "2026-10-19T19:16:23Z",
-      "pushed_at": "2026-10-19T16:54:11Z"
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-10-14T19:06:12Z",
+      "updated_at": "2026-10-19T22:13:55Z",
+      "pushed_at": "2026-10-14T19:16:10Z"
     },
     {
       "id": 1415913339,
@@ -2517,21 +2532,6 @@
       "created_at": "2026-10-12T17:23:33Z",
       "updated_at": "2026-10-12T20:47:57Z",
       "pushed_at": "2026-10-12T17:23:39Z"
-    },
-    {
-      "id": 1419705266,
-      "name": "hw-harness",
-      "full_name": "cschalle/hw-harness",
-      "description": "Small set of tools for helping with reverse engineering Linux drivers",
-      "html_url": "https://github.com/cschalle/hw-harness",
-      "homepage": null,
-      "stars": 173,
-      "forks": 12,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-10-14T19:06:12Z",
-      "updated_at": "2026-10-19T19:30:29Z",
-      "pushed_at": "2026-10-14T19:16:10Z"
     },
     {
       "id": 1413230318,
@@ -2920,6 +2920,32 @@
       "pushed_at": "2026-10-07T12:31:10Z"
     },
     {
+      "id": 1418592001,
+      "name": "ComfyUI-MangaScreen",
+      "full_name": "ashukae/ComfyUI-MangaScreen",
+      "description": "Manga / black & white comic filter for ComfyUI: crisp lines, flat tones, real screentone (halftone), solid blacks and panel frames.",
+      "html_url": "https://github.com/ashukae/ComfyUI-MangaScreen",
+      "homepage": null,
+      "stars": 140,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "black-and-white",
+        "comfyui",
+        "comfyui-nodes",
+        "comic",
+        "comic-filter",
+        "halftone",
+        "manga",
+        "manga-filter",
+        "qwen-image",
+        "screentone"
+      ],
+      "created_at": "2026-10-14T08:23:21Z",
+      "updated_at": "2026-10-19T21:04:32Z",
+      "pushed_at": "2026-10-17T10:29:43Z"
+    },
+    {
       "id": 1378060456,
       "name": "webctl",
       "full_name": "dorkitude/webctl",
@@ -2963,32 +2989,6 @@
       "created_at": "2026-10-08T10:01:46Z",
       "updated_at": "2026-10-14T15:46:53Z",
       "pushed_at": "2026-10-13T11:09:28Z"
-    },
-    {
-      "id": 1418592001,
-      "name": "ComfyUI-MangaScreen",
-      "full_name": "ashukae/ComfyUI-MangaScreen",
-      "description": "Manga / black & white comic filter for ComfyUI: crisp lines, flat tones, real screentone (halftone), solid blacks and panel frames.",
-      "html_url": "https://github.com/ashukae/ComfyUI-MangaScreen",
-      "homepage": null,
-      "stars": 138,
-      "forks": 9,
-      "language": "Python",
-      "topics": [
-        "black-and-white",
-        "comfyui",
-        "comfyui-nodes",
-        "comic",
-        "comic-filter",
-        "halftone",
-        "manga",
-        "manga-filter",
-        "qwen-image",
-        "screentone"
-      ],
-      "created_at": "2026-10-14T08:23:21Z",
-      "updated_at": "2026-10-19T16:10:16Z",
-      "pushed_at": "2026-10-17T10:29:43Z"
     },
     {
       "id": 1403448265,
@@ -3146,6 +3146,35 @@
       "pushed_at": "2026-09-24T15:02:21Z"
     },
     {
+      "id": 1426197381,
+      "name": "call-of-duty-modern-warfare-4-fps-optimizer",
+      "full_name": "EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
+      "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
+      "html_url": "https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
+      "homepage": null,
+      "stars": 126,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "fps-booster-no-lag",
+        "fps-booster-software",
+        "gaming",
+        "gaming-performance",
+        "gaming-tools",
+        "modern-warfare-4",
+        "mw4",
+        "mw4-optimizer",
+        "optimization",
+        "optimization-tools",
+        "optimizations",
+        "performance",
+        "performance-optimization"
+      ],
+      "created_at": "2026-10-19T21:24:52Z",
+      "updated_at": "2026-10-19T21:49:12Z",
+      "pushed_at": "2026-10-19T21:26:58Z"
+    },
+    {
       "id": 1401629577,
       "name": "BorisFX",
       "full_name": "graspdivinerdesign/BorisFX",
@@ -3170,6 +3199,36 @@
       "created_at": "2026-10-02T12:01:26Z",
       "updated_at": "2026-10-02T15:19:23Z",
       "pushed_at": "2026-10-02T12:01:32Z"
+    },
+    {
+      "id": 1426226147,
+      "name": "YouTube-Views-Boost-Free-View-Booster-Growth-Tool-2026",
+      "full_name": "matt-pio00p9/YouTube-Views-Boost-Free-View-Booster-Growth-Tool-2026",
+      "description": "Free YouTube views booster and channel growth tool. Increase video views, watch time and engagement with smart delivery system. Easy to use, fully configurable, safe mode included.",
+      "html_url": "https://github.com/matt-pio00p9/YouTube-Views-Boost-Free-View-Booster-Growth-Tool-2026",
+      "homepage": null,
+      "stars": 125,
+      "forks": 18,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-19T22:01:36Z",
+      "updated_at": "2026-10-19T22:17:45Z",
+      "pushed_at": "2026-10-19T22:01:51Z"
+    },
+    {
+      "id": 1426209566,
+      "name": "CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
+      "full_name": "markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
+      "description": "Powerful CS2 FPS optimizer that boosts frame rate, reduces lag and optimizes system settings. One-click performance profiles, clean interface, fully configurable for Counter-Strike 2.",
+      "html_url": "https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
+      "homepage": null,
+      "stars": 125,
+      "forks": 34,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-19T21:40:05Z",
+      "updated_at": "2026-10-19T21:53:08Z",
+      "pushed_at": "2026-10-19T21:40:24Z"
     },
     {
       "id": 1406397878,
@@ -3223,6 +3282,21 @@
       "pushed_at": "2026-10-08T23:43:30Z"
     },
     {
+      "id": 1418127095,
+      "name": "rax",
+      "full_name": "robot-agent-exploration/rax",
+      "description": "RAX harness: coding agents that learn robot tasks by online exploration",
+      "html_url": "https://github.com/robot-agent-exploration/rax",
+      "homepage": null,
+      "stars": 123,
+      "forks": 5,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-13T23:24:12Z",
+      "updated_at": "2026-10-19T22:11:05Z",
+      "pushed_at": "2026-10-19T14:47:10Z"
+    },
+    {
       "id": 1414327429,
       "name": "awesome-iran-mcp",
       "full_name": "sepehr071/awesome-iran-mcp",
@@ -3273,21 +3347,6 @@
       "created_at": "2026-10-11T11:49:58Z",
       "updated_at": "2026-10-17T18:51:55Z",
       "pushed_at": "2026-10-17T01:32:47Z"
-    },
-    {
-      "id": 1418127095,
-      "name": "rax",
-      "full_name": "robot-agent-exploration/rax",
-      "description": "RAX harness: coding agents that learn robot tasks by online exploration",
-      "html_url": "https://github.com/robot-agent-exploration/rax",
-      "homepage": null,
-      "stars": 121,
-      "forks": 5,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-13T23:24:12Z",
-      "updated_at": "2026-10-19T16:12:26Z",
-      "pushed_at": "2026-10-19T14:47:10Z"
     },
     {
       "id": 1417978332,
@@ -3395,6 +3454,30 @@
       "created_at": "2026-10-04T17:40:27Z",
       "updated_at": "2026-10-10T14:04:09Z",
       "pushed_at": "2026-10-09T22:37:48Z"
+    },
+    {
+      "id": 1419661885,
+      "name": "broadcom-wps",
+      "full_name": "qkaiser/broadcom-wps",
+      "description": "Tools to fingerprint WiFi Access Points running the Broadcom SDK and a list of known affected devices.",
+      "html_url": "https://github.com/qkaiser/broadcom-wps",
+      "homepage": null,
+      "stars": 115,
+      "forks": 16,
+      "language": "Python",
+      "topics": [
+        "broadcom",
+        "ecos",
+        "embedded",
+        "linux",
+        "routers",
+        "wifi",
+        "wireless",
+        "wps"
+      ],
+      "created_at": "2026-10-14T18:34:11Z",
+      "updated_at": "2026-10-19T23:15:57Z",
+      "pushed_at": "2026-10-19T19:07:13Z"
     },
     {
       "id": 1380729698,
@@ -3665,30 +3748,6 @@
       "created_at": "2026-10-02T20:04:50Z",
       "updated_at": "2026-10-04T09:54:24Z",
       "pushed_at": "2026-10-02T20:04:56Z"
-    },
-    {
-      "id": 1419661885,
-      "name": "broadcom-wps",
-      "full_name": "qkaiser/broadcom-wps",
-      "description": "Tools to fingerprint WiFi Access Points running the Broadcom SDK and a list of known affected devices.",
-      "html_url": "https://github.com/qkaiser/broadcom-wps",
-      "homepage": null,
-      "stars": 108,
-      "forks": 14,
-      "language": "Python",
-      "topics": [
-        "broadcom",
-        "ecos",
-        "embedded",
-        "linux",
-        "routers",
-        "wifi",
-        "wireless",
-        "wps"
-      ],
-      "created_at": "2026-10-14T18:34:11Z",
-      "updated_at": "2026-10-19T19:23:00Z",
-      "pushed_at": "2026-10-19T19:07:13Z"
     },
     {
       "id": 1387850278,
@@ -4155,6 +4214,34 @@
       "pushed_at": "2026-10-05T01:56:08Z"
     },
     {
+      "id": 1426240867,
+      "name": "Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
+      "full_name": "ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
+      "description": "Free Instagram view booster for Reels, Stories and Videos. Increase views, reach and engagement with smart delivery system. Easy to use, multiple safety modes, fully configurable.",
+      "html_url": "https://github.com/ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
+      "homepage": null,
+      "stars": 102,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "2026",
+        "configuration",
+        "engagement",
+        "free",
+        "instagram",
+        "instagram-growth",
+        "instagram-views",
+        "open-source",
+        "reels",
+        "stories",
+        "view-booster",
+        "views-tool"
+      ],
+      "created_at": "2026-10-19T22:21:30Z",
+      "updated_at": "2026-10-19T22:31:33Z",
+      "pushed_at": "2026-10-19T22:21:50Z"
+    },
+    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -4363,7 +4450,7 @@
       "topics": [],
       "created_at": "2026-10-17T14:25:48Z",
       "updated_at": "2026-10-19T18:09:49Z",
-      "pushed_at": "2026-10-19T19:38:58Z"
+      "pushed_at": "2026-10-19T23:27:41Z"
     },
     {
       "id": 1411921952,
@@ -5329,7 +5416,7 @@
         "xbox360"
       ],
       "created_at": "2026-10-16T18:05:56Z",
-      "updated_at": "2026-10-19T18:49:19Z",
+      "updated_at": "2026-10-19T20:10:58Z",
       "pushed_at": "2026-10-19T17:30:37Z"
     },
     {
@@ -5925,7 +6012,7 @@
       "description": "Codex plugin for OpenPencil — an interactive Rust/WASM canvas for AI-assisted UI design. Create editable .op files from prompts, refine selected elements, generate image assets, and install with one prompt on macOS, Windows, and Linux.",
       "html_url": "https://github.com/ZSeven-W/codex-openpencil",
       "homepage": null,
-      "stars": 67,
+      "stars": 68,
       "forks": 6,
       "language": "JavaScript",
       "topics": [
@@ -5948,7 +6035,7 @@
         "webassembly"
       ],
       "created_at": "2026-10-14T07:15:57Z",
-      "updated_at": "2026-10-19T19:18:43Z",
+      "updated_at": "2026-10-19T23:11:40Z",
       "pushed_at": "2026-10-18T03:16:14Z"
     },
     {
@@ -6779,6 +6866,41 @@
       "created_at": "2026-10-11T09:08:58Z",
       "updated_at": "2026-10-14T21:16:34Z",
       "pushed_at": "2026-10-11T09:19:08Z"
+    },
+    {
+      "id": 1425063138,
+      "name": "opentrap",
+      "full_name": "opentrap/opentrap",
+      "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
+      "html_url": "https://github.com/opentrap/opentrap",
+      "homepage": "https://opentrap.github.io/opentrap",
+      "stars": 56,
+      "forks": 2,
+      "language": "Java",
+      "topics": [
+        "application-security",
+        "appsec",
+        "bug-bounty",
+        "burp-alternative",
+        "burp-suite",
+        "dast",
+        "http-proxy",
+        "infosec",
+        "intercepting-proxy",
+        "java",
+        "owasp",
+        "owasp-zap",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "vulnerability-scanner",
+        "web-application-security",
+        "web-security"
+      ],
+      "created_at": "2026-10-19T03:29:08Z",
+      "updated_at": "2026-10-19T23:18:11Z",
+      "pushed_at": "2026-10-19T23:19:18Z"
     },
     {
       "id": 1391635046,
@@ -9080,7 +9202,7 @@
         "react"
       ],
       "created_at": "2026-10-14T10:50:28Z",
-      "updated_at": "2026-10-19T12:37:20Z",
+      "updated_at": "2026-10-19T20:07:11Z",
       "pushed_at": "2026-10-14T18:53:19Z"
     },
     {
@@ -9387,6 +9509,28 @@
       "created_at": "2026-10-04T18:05:40Z",
       "updated_at": "2026-10-07T00:30:12Z",
       "pushed_at": "2026-10-06T14:51:59Z"
+    },
+    {
+      "id": 1423074033,
+      "name": "expressive-profile",
+      "full_name": "metawka/expressive-profile",
+      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+      "html_url": "https://github.com/metawka/expressive-profile",
+      "homepage": "https://metawka.github.io/expressive-profile/",
+      "stars": 25,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "github-actions",
+        "github-profile",
+        "material-design",
+        "material-you",
+        "profile-readme",
+        "readme-generator"
+      ],
+      "created_at": "2026-10-17T07:34:55Z",
+      "updated_at": "2026-10-19T22:48:04Z",
+      "pushed_at": "2026-10-17T17:53:05Z"
     },
     {
       "id": 1377235275,
@@ -10013,6 +10157,21 @@
       "pushed_at": "2026-10-15T22:18:12Z"
     },
     {
+      "id": 1424290137,
+      "name": "tan-generator",
+      "full_name": "carrotIndustries/tan-generator",
+      "description": "Implementation of ChipTAN tan generator",
+      "html_url": "https://github.com/carrotIndustries/tan-generator",
+      "homepage": null,
+      "stars": 19,
+      "forks": 2,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-18T11:18:57Z",
+      "updated_at": "2026-10-19T20:53:21Z",
+      "pushed_at": "2026-10-18T11:19:57Z"
+    },
+    {
       "id": 1387292246,
       "name": "ClickMyPayload",
       "full_name": "shaheeryasirofficial/ClickMyPayload",
@@ -10053,43 +10212,6 @@
       "created_at": "2026-10-04T21:33:59Z",
       "updated_at": "2026-10-06T22:28:44Z",
       "pushed_at": "2026-10-06T22:28:40Z"
-    },
-    {
-      "id": 1424290137,
-      "name": "tan-generator",
-      "full_name": "carrotIndustries/tan-generator",
-      "description": "Implementation of ChipTAN tan generator",
-      "html_url": "https://github.com/carrotIndustries/tan-generator",
-      "homepage": null,
-      "stars": 18,
-      "forks": 2,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-18T11:18:57Z",
-      "updated_at": "2026-10-19T13:19:54Z",
-      "pushed_at": "2026-10-18T11:19:57Z"
-    },
-    {
-      "id": 1423074033,
-      "name": "expressive-profile",
-      "full_name": "metawka/expressive-profile",
-      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
-      "html_url": "https://github.com/metawka/expressive-profile",
-      "homepage": "https://metawka.github.io/expressive-profile/",
-      "stars": 18,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "github-actions",
-        "github-profile",
-        "material-design",
-        "material-you",
-        "profile-readme",
-        "readme-generator"
-      ],
-      "created_at": "2026-10-17T07:34:55Z",
-      "updated_at": "2026-10-19T19:22:37Z",
-      "pushed_at": "2026-10-17T17:53:05Z"
     },
     {
       "id": 1386745578,
@@ -10959,7 +11081,7 @@
       "html_url": "https://github.com/parda21/cloofy",
       "homepage": null,
       "stars": 12,
-      "forks": 2,
+      "forks": 1,
       "language": "Rust",
       "topics": [
         "cli",
@@ -10983,6 +11105,21 @@
       "created_at": "2026-10-15T11:51:03Z",
       "updated_at": "2026-10-19T11:38:28Z",
       "pushed_at": "2026-10-16T12:33:09Z"
+    },
+    {
+      "id": 1422809462,
+      "name": "avatar-thrift-store",
+      "full_name": "F4b1-/avatar-thrift-store",
+      "description": "A homebrew application for modded XBOX 360 consoles that unlocks avatar item packages for all profiles.",
+      "html_url": "https://github.com/F4b1-/avatar-thrift-store",
+      "homepage": null,
+      "stars": 12,
+      "forks": 2,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-17T00:37:13Z",
+      "updated_at": "2026-10-19T22:37:32Z",
+      "pushed_at": "2026-10-19T17:39:40Z"
     },
     {
       "id": 1389013962,
@@ -11193,21 +11330,6 @@
       "created_at": "2026-10-16T06:31:20Z",
       "updated_at": "2026-10-19T03:26:28Z",
       "pushed_at": "2026-10-16T06:32:54Z"
-    },
-    {
-      "id": 1422809462,
-      "name": "avatar-thrift-store",
-      "full_name": "F4b1-/avatar-thrift-store",
-      "description": "A homebrew application for modded XBOX 360 consoles that unlocks avatar item packages for all profiles.",
-      "html_url": "https://github.com/F4b1-/avatar-thrift-store",
-      "homepage": null,
-      "stars": 11,
-      "forks": 2,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-17T00:37:13Z",
-      "updated_at": "2026-10-19T17:39:35Z",
-      "pushed_at": "2026-10-19T17:39:40Z"
     },
     {
       "id": 1387641647,
