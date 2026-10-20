@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/20 19:10:14",
-  "total_repos": 538,
+  "fetched_at": "2026/10/21 00:35:43",
+  "total_repos": 539,
   "repos": [
     {
       "id": 1402525166,
@@ -421,8 +421,8 @@
       "description": "NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
       "html_url": "https://github.com/longbridge/nsh",
       "homepage": "https://nsh.dev",
-      "stars": 460,
-      "forks": 26,
+      "stars": 469,
+      "forks": 27,
       "language": "Rust",
       "topics": [
         "cross-platform",
@@ -430,8 +430,8 @@
         "nsh"
       ],
       "created_at": "2026-10-14T14:59:36Z",
-      "updated_at": "2026-10-20T10:56:05Z",
-      "pushed_at": "2026-10-20T11:07:43Z"
+      "updated_at": "2026-10-20T16:21:34Z",
+      "pushed_at": "2026-10-20T16:33:41Z"
     },
     {
       "id": 1423367363,
@@ -456,27 +456,19 @@
       "pushed_at": "2026-10-17T13:54:23Z"
     },
     {
-      "id": 1425938162,
-      "name": "ai-jailbreaks",
-      "full_name": "AndreSzymanski15/ai-jailbreaks",
-      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "html_url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+      "id": 1422434082,
+      "name": "mush8",
+      "full_name": "c22dev/mush8",
+      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "html_url": "https://github.com/c22dev/mush8",
       "homepage": null,
-      "stars": 440,
-      "forks": 51,
-      "language": null,
-      "topics": [
-        "ai",
-        "ai-safety",
-        "jailbreak",
-        "jailbreaking",
-        "privacy",
-        "safety",
-        "security"
-      ],
-      "created_at": "2026-10-19T17:14:07Z",
-      "updated_at": "2026-10-20T11:06:22Z",
-      "pushed_at": "2026-10-19T17:20:03Z"
+      "stars": 435,
+      "forks": 87,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-16T16:56:14Z",
+      "updated_at": "2026-10-20T16:24:58Z",
+      "pushed_at": "2026-10-18T08:42:02Z"
     },
     {
       "id": 1416828644,
@@ -502,6 +494,29 @@
       "created_at": "2026-10-13T10:13:21Z",
       "updated_at": "2026-10-19T23:07:04Z",
       "pushed_at": "2026-10-18T06:48:08Z"
+    },
+    {
+      "id": 1425938162,
+      "name": "ai-jailbreaks",
+      "full_name": "AndreSzymanski15/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "html_url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+      "homepage": null,
+      "stars": 426,
+      "forks": 57,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy",
+        "safety",
+        "security"
+      ],
+      "created_at": "2026-10-19T17:14:07Z",
+      "updated_at": "2026-10-20T16:29:17Z",
+      "pushed_at": "2026-10-19T17:20:03Z"
     },
     {
       "id": 1397016507,
@@ -624,21 +639,6 @@
       "created_at": "2026-10-02T19:56:03Z",
       "updated_at": "2026-10-04T11:35:37Z",
       "pushed_at": "2026-10-02T19:56:10Z"
-    },
-    {
-      "id": 1422434082,
-      "name": "mush8",
-      "full_name": "c22dev/mush8",
-      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
-      "html_url": "https://github.com/c22dev/mush8",
-      "homepage": null,
-      "stars": 399,
-      "forks": 77,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-16T16:56:14Z",
-      "updated_at": "2026-10-20T11:05:05Z",
-      "pushed_at": "2026-10-18T08:42:02Z"
     },
     {
       "id": 1405558786,
@@ -977,13 +977,13 @@
       "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
       "html_url": "https://github.com/justrach/nanoui",
       "homepage": null,
-      "stars": 347,
-      "forks": 8,
+      "stars": 363,
+      "forks": 9,
       "language": "Zig",
       "topics": [],
       "created_at": "2026-10-18T09:27:46Z",
-      "updated_at": "2026-10-20T10:18:40Z",
-      "pushed_at": "2026-10-20T09:28:21Z"
+      "updated_at": "2026-10-20T15:57:34Z",
+      "pushed_at": "2026-10-20T15:40:15Z"
     },
     {
       "id": 1412143785,
@@ -1023,6 +1023,42 @@
       "pushed_at": "2026-10-17T17:11:11Z"
     },
     {
+      "id": 1418226869,
+      "name": "claudemy",
+      "full_name": "assafkip/claudemy",
+      "description": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
+      "html_url": "https://github.com/assafkip/claudemy",
+      "homepage": "https://askconsulting.io",
+      "stars": 324,
+      "forks": 39,
+      "language": "Python",
+      "topics": [
+        "ai-course-generator",
+        "ai-education",
+        "anthropic",
+        "audio-lessons",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "course-generator",
+        "coursera-alternative",
+        "edtech",
+        "education",
+        "elevenlabs",
+        "learn-anything",
+        "microlearning",
+        "online-learning",
+        "podcast",
+        "self-learning",
+        "text-to-speech",
+        "udemy-alternative"
+      ],
+      "created_at": "2026-10-14T01:49:12Z",
+      "updated_at": "2026-10-20T14:13:50Z",
+      "pushed_at": "2026-10-16T18:45:13Z"
+    },
+    {
       "id": 1416366647,
       "name": "tlg_pc",
       "full_name": "HayatoG/tlg_pc",
@@ -1049,42 +1085,6 @@
       "created_at": "2026-10-13T02:46:25Z",
       "updated_at": "2026-10-19T23:09:19Z",
       "pushed_at": "2026-10-19T03:21:18Z"
-    },
-    {
-      "id": 1418226869,
-      "name": "claudemy",
-      "full_name": "assafkip/claudemy",
-      "description": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
-      "html_url": "https://github.com/assafkip/claudemy",
-      "homepage": "https://askconsulting.io",
-      "stars": 323,
-      "forks": 39,
-      "language": "Python",
-      "topics": [
-        "ai-course-generator",
-        "ai-education",
-        "anthropic",
-        "audio-lessons",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "course-generator",
-        "coursera-alternative",
-        "edtech",
-        "education",
-        "elevenlabs",
-        "learn-anything",
-        "microlearning",
-        "online-learning",
-        "podcast",
-        "self-learning",
-        "text-to-speech",
-        "udemy-alternative"
-      ],
-      "created_at": "2026-10-14T01:49:12Z",
-      "updated_at": "2026-10-20T10:33:38Z",
-      "pushed_at": "2026-10-16T18:45:13Z"
     },
     {
       "id": 1410124849,
@@ -1197,6 +1197,21 @@
       "created_at": "2026-10-02T19:57:27Z",
       "updated_at": "2026-10-04T11:12:46Z",
       "pushed_at": "2026-10-02T19:57:37Z"
+    },
+    {
+      "id": 1421622972,
+      "name": "Full-Chain-Sentinel-System",
+      "full_name": "zgsfsec/Full-Chain-Sentinel-System",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "html_url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "homepage": null,
+      "stars": 308,
+      "forks": 98,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-16T04:05:37Z",
+      "updated_at": "2026-10-20T15:14:57Z",
+      "pushed_at": "2026-10-20T12:54:19Z"
     },
     {
       "id": 1411929925,
@@ -1332,21 +1347,6 @@
       "created_at": "2026-10-09T13:56:59Z",
       "updated_at": "2026-10-10T01:10:01Z",
       "pushed_at": "2026-10-09T13:57:05Z"
-    },
-    {
-      "id": 1421622972,
-      "name": "Full-Chain-Sentinel-System",
-      "full_name": "zgsfsec/Full-Chain-Sentinel-System",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "html_url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-      "homepage": null,
-      "stars": 300,
-      "forks": 95,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-16T04:05:37Z",
-      "updated_at": "2026-10-20T10:24:48Z",
-      "pushed_at": "2026-10-20T07:11:17Z"
     },
     {
       "id": 1406229181,
@@ -2035,6 +2035,29 @@
       "pushed_at": "2026-10-02T04:15:42Z"
     },
     {
+      "id": 1418204810,
+      "name": "TwinDesk",
+      "full_name": "InukaAsith/TwinDesk",
+      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
+      "html_url": "https://github.com/InukaAsith/TwinDesk",
+      "homepage": "https://twin-desk.vercel.app",
+      "stars": 202,
+      "forks": 19,
+      "language": "JavaScript",
+      "topics": [
+        "linux",
+        "macbook",
+        "macos",
+        "mouse-sharing",
+        "productivity",
+        "screen-sharing",
+        "windows"
+      ],
+      "created_at": "2026-10-14T01:19:02Z",
+      "updated_at": "2026-10-20T15:02:23Z",
+      "pushed_at": "2026-10-20T11:08:22Z"
+    },
+    {
       "id": 1402294171,
       "name": "Ashampoo-Uninstaller",
       "full_name": "cpuassociateradial/Ashampoo-Uninstaller",
@@ -2179,29 +2202,6 @@
       "created_at": "2026-10-09T13:57:07Z",
       "updated_at": "2026-10-09T18:27:18Z",
       "pushed_at": "2026-10-09T13:57:13Z"
-    },
-    {
-      "id": 1418204810,
-      "name": "TwinDesk",
-      "full_name": "InukaAsith/TwinDesk",
-      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
-      "html_url": "https://github.com/InukaAsith/TwinDesk",
-      "homepage": "https://twin-desk.vercel.app",
-      "stars": 200,
-      "forks": 19,
-      "language": "JavaScript",
-      "topics": [
-        "linux",
-        "macbook",
-        "macos",
-        "mouse-sharing",
-        "productivity",
-        "screen-sharing",
-        "windows"
-      ],
-      "created_at": "2026-10-14T01:19:02Z",
-      "updated_at": "2026-10-20T10:55:53Z",
-      "pushed_at": "2026-10-20T11:08:22Z"
     },
     {
       "id": 1411918476,
@@ -2419,6 +2419,46 @@
       "pushed_at": "2026-10-19T22:32:45Z"
     },
     {
+      "id": 1421433459,
+      "name": "NPCTalk",
+      "full_name": "christos-antono/NPCTalk",
+      "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+      "html_url": "https://github.com/christos-antono/NPCTalk",
+      "homepage": null,
+      "stars": 185,
+      "forks": 14,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "fish-audio",
+        "game-modding",
+        "gta5",
+        "llm",
+        "npc",
+        "text-to-speech",
+        "voice-cloning"
+      ],
+      "created_at": "2026-10-15T23:37:25Z",
+      "updated_at": "2026-10-20T12:42:37Z",
+      "pushed_at": "2026-10-16T10:03:49Z"
+    },
+    {
+      "id": 1423410732,
+      "name": "a7c2-fl23-research",
+      "full_name": "QAQLeonard/a7c2-fl23-research",
+      "description": "FL2/FL3 porting and custom LUT/DCP import tools for Sony A7C II (ILCE-7CM2) firmware 2.01, with backup, installation, readback verification, and restoration workflows. Includes single-camera test results and known limitations.",
+      "html_url": "https://github.com/QAQLeonard/a7c2-fl23-research",
+      "homepage": null,
+      "stars": 184,
+      "forks": 30,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-17T14:25:48Z",
+      "updated_at": "2026-10-20T16:25:23Z",
+      "pushed_at": "2026-10-20T13:52:21Z"
+    },
+    {
       "id": 1387387974,
       "name": "SeeCut",
       "full_name": "YeJe-cpu/SeeCut",
@@ -2444,29 +2484,19 @@
       "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
-      "id": 1421433459,
-      "name": "NPCTalk",
-      "full_name": "christos-antono/NPCTalk",
-      "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
-      "html_url": "https://github.com/christos-antono/NPCTalk",
+      "id": 1419705266,
+      "name": "hw-harness",
+      "full_name": "cschalle/hw-harness",
+      "description": "Small set of tools for helping with reverse engineering Linux drivers",
+      "html_url": "https://github.com/cschalle/hw-harness",
       "homepage": null,
-      "stars": 183,
-      "forks": 13,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "fish-audio",
-        "game-modding",
-        "gta5",
-        "llm",
-        "npc",
-        "text-to-speech",
-        "voice-cloning"
-      ],
-      "created_at": "2026-10-15T23:37:25Z",
-      "updated_at": "2026-10-20T08:34:48Z",
-      "pushed_at": "2026-10-16T10:03:49Z"
+      "stars": 181,
+      "forks": 14,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-10-14T19:06:12Z",
+      "updated_at": "2026-10-20T14:08:17Z",
+      "pushed_at": "2026-10-14T19:16:10Z"
     },
     {
       "id": 1415164610,
@@ -2484,19 +2514,25 @@
       "pushed_at": "2026-10-18T08:33:25Z"
     },
     {
-      "id": 1419705266,
-      "name": "hw-harness",
-      "full_name": "cschalle/hw-harness",
-      "description": "Small set of tools for helping with reverse engineering Linux drivers",
-      "html_url": "https://github.com/cschalle/hw-harness",
-      "homepage": null,
-      "stars": 180,
-      "forks": 13,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-10-14T19:06:12Z",
-      "updated_at": "2026-10-20T04:07:54Z",
-      "pushed_at": "2026-10-14T19:16:10Z"
+      "id": 1425658028,
+      "name": "spritefusion-sprite-normals",
+      "full_name": "Hugo-Dz/spritefusion-sprite-normals",
+      "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
+      "html_url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+      "homepage": "https://www.spritefusion.com/sprite-normals",
+      "stars": 176,
+      "forks": 6,
+      "language": "Rust",
+      "topics": [
+        "gamedev",
+        "normal-map",
+        "normal-mapping",
+        "pixel-art",
+        "sprites"
+      ],
+      "created_at": "2026-10-19T13:26:45Z",
+      "updated_at": "2026-10-20T16:35:35Z",
+      "pushed_at": "2026-10-20T10:31:00Z"
     },
     {
       "id": 1415913339,
@@ -2633,19 +2669,30 @@
       "pushed_at": "2026-10-05T18:50:02Z"
     },
     {
-      "id": 1423410732,
-      "name": "a7c2-fl23-research",
-      "full_name": "QAQLeonard/a7c2-fl23-research",
-      "description": "FL2/FL3 porting and custom LUT/DCP import tools for Sony A7C II (ILCE-7CM2) firmware 2.01, with backup, installation, readback verification, and restoration workflows. Includes single-camera test results and known limitations.",
-      "html_url": "https://github.com/QAQLeonard/a7c2-fl23-research",
-      "homepage": null,
-      "stars": 165,
-      "forks": 29,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-17T14:25:48Z",
-      "updated_at": "2026-10-20T11:02:56Z",
-      "pushed_at": "2026-10-20T10:43:28Z"
+      "id": 1422491888,
+      "name": "idx",
+      "full_name": "fzn0x/idx",
+      "description": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
+      "html_url": "https://github.com/fzn0x/idx",
+      "homepage": "https://ihsg.midoriresearch.com",
+      "stars": 164,
+      "forks": 6,
+      "language": "Rust",
+      "topics": [
+        "analytics",
+        "cli",
+        "finance",
+        "idx",
+        "ihsg",
+        "indonesia",
+        "mcp",
+        "rust",
+        "stocks",
+        "terminal"
+      ],
+      "created_at": "2026-10-16T17:51:21Z",
+      "updated_at": "2026-10-20T16:16:19Z",
+      "pushed_at": "2026-10-18T14:57:56Z"
     },
     {
       "id": 1391423600,
@@ -2679,32 +2726,6 @@
       "created_at": "2026-09-27T21:31:26Z",
       "updated_at": "2026-10-03T21:59:13Z",
       "pushed_at": "2026-10-03T17:08:44Z"
-    },
-    {
-      "id": 1422491888,
-      "name": "idx",
-      "full_name": "fzn0x/idx",
-      "description": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
-      "html_url": "https://github.com/fzn0x/idx",
-      "homepage": "https://ihsg.midoriresearch.com",
-      "stars": 162,
-      "forks": 6,
-      "language": "Rust",
-      "topics": [
-        "analytics",
-        "cli",
-        "finance",
-        "idx",
-        "ihsg",
-        "indonesia",
-        "mcp",
-        "rust",
-        "stocks",
-        "terminal"
-      ],
-      "created_at": "2026-10-16T17:51:21Z",
-      "updated_at": "2026-10-20T10:48:26Z",
-      "pushed_at": "2026-10-18T14:57:56Z"
     },
     {
       "id": 1387067752,
@@ -2886,36 +2907,6 @@
       "pushed_at": "2026-10-17T10:29:43Z"
     },
     {
-      "id": 1425227613,
-      "name": "Lampline",
-      "full_name": "C4rohan/Lampline",
-      "description": "Self-hosted voice agent platform: import your Dialogflow CX and CX Agent Studio agents, build and test them, and take calls on your own hardware. 20 model providers, phone and SIP through jambonz.",
-      "html_url": "https://github.com/C4rohan/Lampline",
-      "homepage": null,
-      "stars": 145,
-      "forks": 15,
-      "language": "Python",
-      "topics": [
-        "agents-as-code",
-        "contact-center",
-        "conversational-ai",
-        "cx-agent-studio",
-        "dialogflow-cx",
-        "ivr",
-        "llm",
-        "pipecat",
-        "self-hosted",
-        "sip",
-        "speech-to-text",
-        "text-to-speech",
-        "voice-agents",
-        "voice-ai"
-      ],
-      "created_at": "2026-10-19T06:50:54Z",
-      "updated_at": "2026-10-20T07:53:27Z",
-      "pushed_at": "2026-10-20T07:01:38Z"
-    },
-    {
       "id": 1410815894,
       "name": "autonomous-pentest-agent",
       "full_name": "kutukam/autonomous-pentest-agent",
@@ -3004,6 +2995,30 @@
       "created_at": "2026-10-06T11:58:23Z",
       "updated_at": "2026-10-12T10:03:45Z",
       "pushed_at": "2026-10-07T12:31:10Z"
+    },
+    {
+      "id": 1419661885,
+      "name": "broadcom-wps",
+      "full_name": "qkaiser/broadcom-wps",
+      "description": "Tools to fingerprint WiFi Access Points running the Broadcom SDK and a list of known affected devices.",
+      "html_url": "https://github.com/qkaiser/broadcom-wps",
+      "homepage": null,
+      "stars": 141,
+      "forks": 22,
+      "language": "Python",
+      "topics": [
+        "broadcom",
+        "ecos",
+        "embedded",
+        "linux",
+        "routers",
+        "wifi",
+        "wireless",
+        "wps"
+      ],
+      "created_at": "2026-10-14T18:34:11Z",
+      "updated_at": "2026-10-20T15:06:40Z",
+      "pushed_at": "2026-10-20T13:30:31Z"
     },
     {
       "id": 1378060456,
@@ -3181,6 +3196,32 @@
       "pushed_at": "2026-10-18T10:54:15Z"
     },
     {
+      "id": 1425296336,
+      "name": "ascii-magic-art",
+      "full_name": "kailashsr38/ascii-magic-art",
+      "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
+      "html_url": "https://github.com/kailashsr38/ascii-magic-art",
+      "homepage": "https://www.ascii-magic.com/ascii",
+      "stars": 130,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [
+        "animation",
+        "ascii",
+        "ascii-art",
+        "cli",
+        "generative-art",
+        "npx",
+        "readme",
+        "terminal",
+        "wallpaper",
+        "web-components"
+      ],
+      "created_at": "2026-10-19T08:00:49Z",
+      "updated_at": "2026-10-20T16:34:32Z",
+      "pushed_at": "2026-10-19T11:32:11Z"
+    },
+    {
       "id": 1385750356,
       "name": "paperclip-guide",
       "full_name": "theNetworkChuck/paperclip-guide",
@@ -3316,30 +3357,6 @@
       "pushed_at": "2026-10-06T15:47:31Z"
     },
     {
-      "id": 1419661885,
-      "name": "broadcom-wps",
-      "full_name": "qkaiser/broadcom-wps",
-      "description": "Tools to fingerprint WiFi Access Points running the Broadcom SDK and a list of known affected devices.",
-      "html_url": "https://github.com/qkaiser/broadcom-wps",
-      "homepage": null,
-      "stars": 124,
-      "forks": 20,
-      "language": "Python",
-      "topics": [
-        "broadcom",
-        "ecos",
-        "embedded",
-        "linux",
-        "routers",
-        "wifi",
-        "wireless",
-        "wps"
-      ],
-      "created_at": "2026-10-14T18:34:11Z",
-      "updated_at": "2026-10-20T10:33:25Z",
-      "pushed_at": "2026-10-20T08:34:30Z"
-    },
-    {
       "id": 1403848767,
       "name": "Porpoise-Dolphin-Emulator-for-PS5",
       "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
@@ -3379,6 +3396,21 @@
       "created_at": "2026-10-13T23:24:12Z",
       "updated_at": "2026-10-19T22:11:05Z",
       "pushed_at": "2026-10-19T14:47:10Z"
+    },
+    {
+      "id": 1425306307,
+      "name": "ai-live-avatar",
+      "full_name": "garycaogan/ai-live-avatar",
+      "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+      "html_url": "https://github.com/garycaogan/ai-live-avatar",
+      "homepage": null,
+      "stars": 123,
+      "forks": 32,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-19T08:10:48Z",
+      "updated_at": "2026-10-20T16:33:08Z",
+      "pushed_at": "2026-10-19T13:47:28Z"
     },
     {
       "id": 1414327429,
@@ -3645,6 +3677,36 @@
       "pushed_at": "2026-10-13T01:57:27Z"
     },
     {
+      "id": 1425227613,
+      "name": "Lampline",
+      "full_name": "C4rohan/Lampline",
+      "description": "Self-hosted voice agent platform: import your Dialogflow CX and CX Agent Studio agents, build and test them, and take calls on your own hardware. 20 model providers, phone and SIP through jambonz.",
+      "html_url": "https://github.com/C4rohan/Lampline",
+      "homepage": null,
+      "stars": 112,
+      "forks": 15,
+      "language": "Python",
+      "topics": [
+        "agents-as-code",
+        "contact-center",
+        "conversational-ai",
+        "cx-agent-studio",
+        "dialogflow-cx",
+        "ivr",
+        "llm",
+        "pipecat",
+        "self-hosted",
+        "sip",
+        "speech-to-text",
+        "text-to-speech",
+        "voice-agents",
+        "voice-ai"
+      ],
+      "created_at": "2026-10-19T06:50:54Z",
+      "updated_at": "2026-10-20T16:15:21Z",
+      "pushed_at": "2026-10-20T12:54:51Z"
+    },
+    {
       "id": 1377674687,
       "name": "jev-webmcp-extension",
       "full_name": "sdras/jev-webmcp-extension",
@@ -3738,27 +3800,6 @@
       "created_at": "2026-10-06T12:58:54Z",
       "updated_at": "2026-10-11T13:28:47Z",
       "pushed_at": "2026-10-06T13:10:37Z"
-    },
-    {
-      "id": 1425658028,
-      "name": "spritefusion-sprite-normals",
-      "full_name": "Hugo-Dz/spritefusion-sprite-normals",
-      "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
-      "html_url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
-      "homepage": "https://www.spritefusion.com/sprite-normals",
-      "stars": 110,
-      "forks": 5,
-      "language": "Rust",
-      "topics": [
-        "gamedev",
-        "normal-map",
-        "normal-mapping",
-        "pixel-art",
-        "sprites"
-      ],
-      "created_at": "2026-10-19T13:26:45Z",
-      "updated_at": "2026-10-20T10:32:34Z",
-      "pushed_at": "2026-10-20T10:31:00Z"
     },
     {
       "id": 1387885716,
@@ -4129,6 +4170,41 @@
       "pushed_at": "2026-10-19T12:38:51Z"
     },
     {
+      "id": 1425063138,
+      "name": "opentrap",
+      "full_name": "opentrap/opentrap",
+      "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
+      "html_url": "https://github.com/opentrap/opentrap",
+      "homepage": "https://opentrap.github.io/opentrap",
+      "stars": 105,
+      "forks": 2,
+      "language": "Java",
+      "topics": [
+        "application-security",
+        "appsec",
+        "bug-bounty",
+        "burp-alternative",
+        "burp-suite",
+        "dast",
+        "http-proxy",
+        "infosec",
+        "intercepting-proxy",
+        "java",
+        "owasp",
+        "owasp-zap",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "vulnerability-scanner",
+        "web-application-security",
+        "web-security"
+      ],
+      "created_at": "2026-10-19T03:29:08Z",
+      "updated_at": "2026-10-20T15:41:42Z",
+      "pushed_at": "2026-10-19T23:55:21Z"
+    },
+    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -4224,41 +4300,6 @@
       "created_at": "2026-10-08T16:08:36Z",
       "updated_at": "2026-10-14T08:27:52Z",
       "pushed_at": "2026-10-11T10:34:54Z"
-    },
-    {
-      "id": 1425063138,
-      "name": "opentrap",
-      "full_name": "opentrap/opentrap",
-      "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
-      "html_url": "https://github.com/opentrap/opentrap",
-      "homepage": "https://opentrap.github.io/opentrap",
-      "stars": 104,
-      "forks": 2,
-      "language": "Java",
-      "topics": [
-        "application-security",
-        "appsec",
-        "bug-bounty",
-        "burp-alternative",
-        "burp-suite",
-        "dast",
-        "http-proxy",
-        "infosec",
-        "intercepting-proxy",
-        "java",
-        "owasp",
-        "owasp-zap",
-        "penetration-testing",
-        "pentesting",
-        "security",
-        "security-tools",
-        "vulnerability-scanner",
-        "web-application-security",
-        "web-security"
-      ],
-      "created_at": "2026-10-19T03:29:08Z",
-      "updated_at": "2026-10-20T10:15:07Z",
-      "pushed_at": "2026-10-19T23:55:21Z"
     },
     {
       "id": 1390845863,
@@ -4526,6 +4567,21 @@
       "pushed_at": "2026-10-13T08:10:24Z"
     },
     {
+      "id": 1419989588,
+      "name": "AttentionOS",
+      "full_name": "evanbaker315/AttentionOS",
+      "description": "Star the repo to help support! The open source operating system for creating viral content on social media.",
+      "html_url": "https://github.com/evanbaker315/AttentionOS",
+      "homepage": null,
+      "stars": 100,
+      "forks": 11,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-15T00:27:59Z",
+      "updated_at": "2026-10-20T01:28:23Z",
+      "pushed_at": "2026-10-17T21:31:12Z"
+    },
+    {
       "id": 1420803717,
       "name": "youtube-tiktok-video-manager-downloader",
       "full_name": "centimotormancavity/youtube-tiktok-video-manager-downloader",
@@ -4552,6 +4608,31 @@
       "created_at": "2026-10-15T13:48:38Z",
       "updated_at": "2026-10-15T14:35:46Z",
       "pushed_at": "2026-10-15T13:48:51Z"
+    },
+    {
+      "id": 1421653226,
+      "name": "gemini-stealth-bridge",
+      "full_name": "azrinaldi/gemini-stealth-bridge",
+      "description": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+      "html_url": "https://github.com/azrinaldi/gemini-stealth-bridge",
+      "homepage": null,
+      "stars": 99,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "bridge",
+        "gemini",
+        "gemini-api",
+        "golang",
+        "http2",
+        "llm",
+        "openai-compatible",
+        "reverse-proxy",
+        "utls"
+      ],
+      "created_at": "2026-10-16T04:42:00Z",
+      "updated_at": "2026-10-20T14:50:46Z",
+      "pushed_at": "2026-10-20T05:08:03Z"
     },
     {
       "id": 1411921952,
@@ -4696,31 +4777,6 @@
       "created_at": "2026-10-04T02:36:55Z",
       "updated_at": "2026-10-10T16:01:43Z",
       "pushed_at": "2026-10-10T11:49:34Z"
-    },
-    {
-      "id": 1421653226,
-      "name": "gemini-stealth-bridge",
-      "full_name": "azrinaldi/gemini-stealth-bridge",
-      "description": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
-      "html_url": "https://github.com/azrinaldi/gemini-stealth-bridge",
-      "homepage": null,
-      "stars": 98,
-      "forks": 10,
-      "language": "Go",
-      "topics": [
-        "bridge",
-        "gemini",
-        "gemini-api",
-        "golang",
-        "http2",
-        "llm",
-        "openai-compatible",
-        "reverse-proxy",
-        "utls"
-      ],
-      "created_at": "2026-10-16T04:42:00Z",
-      "updated_at": "2026-10-20T05:08:06Z",
-      "pushed_at": "2026-10-20T05:08:03Z"
     },
     {
       "id": 1424233481,
@@ -4939,6 +4995,31 @@
       "pushed_at": "2026-10-18T14:05:11Z"
     },
     {
+      "id": 1425332954,
+      "name": "Open-Terraria",
+      "full_name": "SandboxWorldOnline/Open-Terraria",
+      "description": "Terraria 1.4.5.8 Web Rewrite,  using GLM-5.3-Flash and GLM-5.3",
+      "html_url": "https://github.com/SandboxWorldOnline/Open-Terraria",
+      "homepage": "https://sandboxworld.online",
+      "stars": 96,
+      "forks": 38,
+      "language": "TypeScript",
+      "topics": [
+        "ai-coding",
+        "glm",
+        "glm-5-3",
+        "glm-5-3-flash",
+        "terraria",
+        "terraria-1-4-5-8",
+        "terraria-mod",
+        "terraria-web",
+        "vibe-coding"
+      ],
+      "created_at": "2026-10-19T08:36:53Z",
+      "updated_at": "2026-10-20T15:41:26Z",
+      "pushed_at": "2026-10-20T07:13:41Z"
+    },
+    {
       "id": 1410924943,
       "name": "robot-fleet-analytics",
       "full_name": "Dishank1501/robot-fleet-analytics",
@@ -4980,21 +5061,6 @@
       "created_at": "2026-10-18T14:06:56Z",
       "updated_at": "2026-10-18T15:41:51Z",
       "pushed_at": "2026-10-18T14:07:04Z"
-    },
-    {
-      "id": 1419989588,
-      "name": "AttentionOS",
-      "full_name": "evanbaker315/AttentionOS",
-      "description": "Star the repo to help support! The open source operating system for creating viral content on social media.",
-      "html_url": "https://github.com/evanbaker315/AttentionOS",
-      "homepage": null,
-      "stars": 95,
-      "forks": 11,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-15T00:27:59Z",
-      "updated_at": "2026-10-19T18:41:13Z",
-      "pushed_at": "2026-10-17T21:31:12Z"
     },
     {
       "id": 1376436152,
@@ -5150,6 +5216,21 @@
       "created_at": "2026-10-18T05:21:40Z",
       "updated_at": "2026-10-19T05:06:20Z",
       "pushed_at": "2026-10-18T05:21:50Z"
+    },
+    {
+      "id": 1425307403,
+      "name": "webos-vibehack",
+      "full_name": "OmkarK97/webos-vibehack",
+      "description": "Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack",
+      "html_url": "https://github.com/OmkarK97/webos-vibehack",
+      "homepage": null,
+      "stars": 89,
+      "forks": 10,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-19T08:11:45Z",
+      "updated_at": "2026-10-20T16:34:05Z",
+      "pushed_at": "2026-10-19T08:11:51Z"
     },
     {
       "id": 1375760472,
@@ -5385,29 +5466,27 @@
       "pushed_at": "2026-10-12T02:17:41Z"
     },
     {
-      "id": 1425332954,
-      "name": "Open-Terraria",
-      "full_name": "SandboxWorldOnline/Open-Terraria",
-      "description": "Terraria 1.4.5.8 Web Rewrite,  using GLM-5.3-Flash and GLM-5.3",
-      "html_url": "https://github.com/SandboxWorldOnline/Open-Terraria",
-      "homepage": "https://sandboxworld.online",
+      "id": 1422507308,
+      "name": "ArmyOfTwoRecompilation",
+      "full_name": "OpenPortroid/ArmyOfTwoRecompilation",
+      "description": "Unofficial PC port of the Xbox 360 version of Army of Two (2008). Online co-op supported.",
+      "html_url": "https://github.com/OpenPortroid/ArmyOfTwoRecompilation",
+      "homepage": null,
       "stars": 84,
-      "forks": 35,
-      "language": "TypeScript",
+      "forks": 0,
+      "language": "C++",
       "topics": [
-        "ai-coding",
-        "glm",
-        "glm-5-3",
-        "glm-5-3-flash",
-        "terraria",
-        "terraria-1-4-5-8",
-        "terraria-mod",
-        "terraria-web",
-        "vibe-coding"
+        "army-of-two",
+        "online-coop",
+        "rexglue",
+        "splitscreen",
+        "static-recompilation",
+        "windows",
+        "xbox360"
       ],
-      "created_at": "2026-10-19T08:36:53Z",
-      "updated_at": "2026-10-20T10:40:09Z",
-      "pushed_at": "2026-10-20T07:13:41Z"
+      "created_at": "2026-10-16T18:05:56Z",
+      "updated_at": "2026-10-20T14:30:47Z",
+      "pushed_at": "2026-10-20T14:04:40Z"
     },
     {
       "id": 1410603031,
@@ -5452,27 +5531,37 @@
       "pushed_at": "2026-10-13T05:44:43Z"
     },
     {
-      "id": 1422507308,
-      "name": "ArmyOfTwoRecompilation",
-      "full_name": "OpenPortroid/ArmyOfTwoRecompilation",
-      "description": "Unofficial PC port of the Xbox 360 version of Army of Two (2008). Online co-op supported.",
-      "html_url": "https://github.com/OpenPortroid/ArmyOfTwoRecompilation",
+      "id": 1418521605,
+      "name": "codex-openpencil",
+      "full_name": "ZSeven-W/codex-openpencil",
+      "description": "Codex plugin for OpenPencil — an interactive Rust/WASM canvas for AI-assisted UI design. Create editable .op files from prompts, refine selected elements, generate image assets, and install with one prompt on macOS, Windows, and Linux.",
+      "html_url": "https://github.com/ZSeven-W/codex-openpencil",
       "homepage": null,
       "stars": 82,
-      "forks": 0,
-      "language": "C++",
+      "forks": 8,
+      "language": "JavaScript",
       "topics": [
-        "army-of-two",
-        "online-coop",
-        "rexglue",
-        "splitscreen",
-        "static-recompilation",
-        "windows",
-        "xbox360"
+        "agent-skills",
+        "ai-agents",
+        "ai-design",
+        "codex",
+        "codex-plugin",
+        "design-as-code",
+        "design-tools",
+        "image-generation",
+        "interactive-canvas",
+        "mcp",
+        "mcp-apps",
+        "model-context-protocol",
+        "openai-codex",
+        "openpencil",
+        "rust",
+        "ui-design",
+        "webassembly"
       ],
-      "created_at": "2026-10-16T18:05:56Z",
-      "updated_at": "2026-10-20T10:09:24Z",
-      "pushed_at": "2026-10-20T09:04:14Z"
+      "created_at": "2026-10-14T07:15:57Z",
+      "updated_at": "2026-10-20T13:40:03Z",
+      "pushed_at": "2026-10-18T03:16:14Z"
     },
     {
       "id": 1409175398,
@@ -5508,39 +5597,6 @@
       "created_at": "2026-10-07T17:53:23Z",
       "updated_at": "2026-10-12T20:55:41Z",
       "pushed_at": "2026-10-10T12:51:22Z"
-    },
-    {
-      "id": 1418521605,
-      "name": "codex-openpencil",
-      "full_name": "ZSeven-W/codex-openpencil",
-      "description": "Codex plugin for OpenPencil — an interactive Rust/WASM canvas for AI-assisted UI design. Create editable .op files from prompts, refine selected elements, generate image assets, and install with one prompt on macOS, Windows, and Linux.",
-      "html_url": "https://github.com/ZSeven-W/codex-openpencil",
-      "homepage": null,
-      "stars": 81,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-design",
-        "codex",
-        "codex-plugin",
-        "design-as-code",
-        "design-tools",
-        "image-generation",
-        "interactive-canvas",
-        "mcp",
-        "mcp-apps",
-        "model-context-protocol",
-        "openai-codex",
-        "openpencil",
-        "rust",
-        "ui-design",
-        "webassembly"
-      ],
-      "created_at": "2026-10-14T07:15:57Z",
-      "updated_at": "2026-10-20T09:27:04Z",
-      "pushed_at": "2026-10-18T03:16:14Z"
     },
     {
       "id": 1386777688,
@@ -5594,6 +5650,26 @@
       "pushed_at": "2026-10-08T11:37:42Z"
     },
     {
+      "id": 1418242060,
+      "name": "magpie-gemini-web",
+      "full_name": "BUKOWSKIREAL/magpie-gemini-web",
+      "description": "Gemini Web provider for Magpie with a local backend and experimental Argon support",
+      "html_url": "https://github.com/BUKOWSKIREAL/magpie-gemini-web",
+      "homepage": null,
+      "stars": 78,
+      "forks": 13,
+      "language": "JavaScript",
+      "topics": [
+        "gemini",
+        "gemini-web",
+        "magpie-plugin",
+        "opencode-plugin"
+      ],
+      "created_at": "2026-10-14T02:08:55Z",
+      "updated_at": "2026-10-20T16:30:13Z",
+      "pushed_at": "2026-10-19T06:37:48Z"
+    },
+    {
       "id": 1414542104,
       "name": "farm-support-network",
       "full_name": "YINZICHU/farm-support-network",
@@ -5607,26 +5683,6 @@
       "created_at": "2026-10-11T16:29:08Z",
       "updated_at": "2026-10-17T18:18:33Z",
       "pushed_at": "2026-10-11T16:43:00Z"
-    },
-    {
-      "id": 1418242060,
-      "name": "magpie-gemini-web",
-      "full_name": "BUKOWSKIREAL/magpie-gemini-web",
-      "description": "Gemini Web provider for Magpie with a local backend and experimental Argon support",
-      "html_url": "https://github.com/BUKOWSKIREAL/magpie-gemini-web",
-      "homepage": null,
-      "stars": 77,
-      "forks": 12,
-      "language": "JavaScript",
-      "topics": [
-        "gemini",
-        "gemini-web",
-        "magpie-plugin",
-        "opencode-plugin"
-      ],
-      "created_at": "2026-10-14T02:08:55Z",
-      "updated_at": "2026-10-20T07:15:16Z",
-      "pushed_at": "2026-10-19T06:37:48Z"
     },
     {
       "id": 1377321806,
@@ -6126,32 +6182,6 @@
       "pushed_at": "2026-10-15T07:38:02Z"
     },
     {
-      "id": 1425296336,
-      "name": "ascii-magic-art",
-      "full_name": "kailashsr38/ascii-magic-art",
-      "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
-      "html_url": "https://github.com/kailashsr38/ascii-magic-art",
-      "homepage": "https://www.ascii-magic.com/ascii",
-      "stars": 69,
-      "forks": 2,
-      "language": "JavaScript",
-      "topics": [
-        "animation",
-        "ascii",
-        "ascii-art",
-        "cli",
-        "generative-art",
-        "npx",
-        "readme",
-        "terminal",
-        "wallpaper",
-        "web-components"
-      ],
-      "created_at": "2026-10-19T08:00:49Z",
-      "updated_at": "2026-10-20T11:02:48Z",
-      "pushed_at": "2026-10-19T11:32:11Z"
-    },
-    {
       "id": 1396348192,
       "name": "compress",
       "full_name": "spenmcke/compress",
@@ -6191,21 +6221,6 @@
       "pushed_at": "2026-10-04T10:41:52Z"
     },
     {
-      "id": 1425307403,
-      "name": "webos-vibehack",
-      "full_name": "OmkarK97/webos-vibehack",
-      "description": "Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack",
-      "html_url": "https://github.com/OmkarK97/webos-vibehack",
-      "homepage": null,
-      "stars": 67,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-19T08:11:45Z",
-      "updated_at": "2026-10-20T11:07:44Z",
-      "pushed_at": "2026-10-19T08:11:51Z"
-    },
-    {
       "id": 1411919172,
       "name": "actell",
       "full_name": "ja1chen/actell",
@@ -6219,6 +6234,30 @@
       "created_at": "2026-10-09T13:46:56Z",
       "updated_at": "2026-10-15T15:25:44Z",
       "pushed_at": "2026-10-15T15:25:39Z"
+    },
+    {
+      "id": 1424055003,
+      "name": "dirt-bike-graphics.github.io",
+      "full_name": "dirt-bike-graphics/dirt-bike-graphics.github.io",
+      "description": "Which dirt bikes share the same plastics and can run the same graphics kit. 175 model years, 76 models, 11 brands. From an AI dirt bike graphics generator with an online editor.",
+      "html_url": "https://github.com/dirt-bike-graphics/dirt-bike-graphics.github.io",
+      "homepage": "https://customdirtbikegraphics.com",
+      "stars": 66,
+      "forks": 6,
+      "language": "SCSS",
+      "topics": [
+        "ai-graphics-generator",
+        "dataset",
+        "decals",
+        "dirt-bike",
+        "dirt-bike-graphics",
+        "graphics-kit",
+        "motocross",
+        "online-editor"
+      ],
+      "created_at": "2026-10-18T06:18:00Z",
+      "updated_at": "2026-10-20T16:27:37Z",
+      "pushed_at": "2026-10-20T08:09:56Z"
     },
     {
       "id": 1375694442,
@@ -7339,6 +7378,21 @@
       "pushed_at": "2026-10-15T15:45:42Z"
     },
     {
+      "id": 1425358398,
+      "name": "Hiddify-Manager",
+      "full_name": "janderson1017/Hiddify-Manager",
+      "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",
+      "html_url": "https://github.com/janderson1017/Hiddify-Manager",
+      "homepage": null,
+      "stars": 53,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-19T09:01:13Z",
+      "updated_at": "2026-10-20T15:49:16Z",
+      "pushed_at": "2026-10-19T13:52:47Z"
+    },
+    {
       "id": 1402430099,
       "name": "daily-team",
       "full_name": "isas1/daily-team",
@@ -7586,21 +7640,6 @@
       "created_at": "2026-10-12T09:12:03Z",
       "updated_at": "2026-10-18T20:10:09Z",
       "pushed_at": "2026-10-18T20:10:05Z"
-    },
-    {
-      "id": 1425358398,
-      "name": "Hiddify-Manager",
-      "full_name": "janderson1017/Hiddify-Manager",
-      "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",
-      "html_url": "https://github.com/janderson1017/Hiddify-Manager",
-      "homepage": null,
-      "stars": 49,
-      "forks": 1,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-19T09:01:13Z",
-      "updated_at": "2026-10-20T06:45:46Z",
-      "pushed_at": "2026-10-19T13:52:47Z"
     },
     {
       "id": 1412855958,
@@ -8014,21 +8053,6 @@
       "pushed_at": "2026-10-18T12:16:22Z"
     },
     {
-      "id": 1425306307,
-      "name": "ai-live-avatar",
-      "full_name": "garycaogan/ai-live-avatar",
-      "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "html_url": "https://github.com/garycaogan/ai-live-avatar",
-      "homepage": null,
-      "stars": 45,
-      "forks": 10,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-19T08:10:48Z",
-      "updated_at": "2026-10-20T11:02:53Z",
-      "pushed_at": "2026-10-19T13:47:28Z"
-    },
-    {
       "id": 1396899630,
       "name": "gleaner",
       "full_name": "ssssssanjiu/gleaner",
@@ -8204,6 +8228,31 @@
       "pushed_at": "2026-10-14T04:41:26Z"
     },
     {
+      "id": 1423476746,
+      "name": "ha-frame-starter",
+      "full_name": "slcr/ha-frame-starter",
+      "description": "A calm paper-and-ink wall dashboard for Home Assistant: clock, weather, calendar, people, lights, blinds and climate on button-card, with optional calendar, energy, Flightradar24, rubbish, appliance, camera, music and screensaver modules, and a setup page that writes the YAML for you.",
+      "html_url": "https://github.com/slcr/ha-frame-starter",
+      "homepage": null,
+      "stars": 43,
+      "forks": 3,
+      "language": "JavaScript",
+      "topics": [
+        "button-card",
+        "dashboard",
+        "energy",
+        "flightradar24",
+        "hacs",
+        "home-assistant",
+        "kiosk",
+        "lovelace",
+        "wall-tablet"
+      ],
+      "created_at": "2026-10-17T15:36:35Z",
+      "updated_at": "2026-10-20T14:38:11Z",
+      "pushed_at": "2026-10-19T06:43:11Z"
+    },
+    {
       "id": 1382441164,
       "name": "talking-head-reel",
       "full_name": "mariagorskikh/talking-head-reel",
@@ -8295,31 +8344,6 @@
       "created_at": "2026-10-09T19:30:14Z",
       "updated_at": "2026-10-09T23:05:25Z",
       "pushed_at": "2026-10-09T20:00:33Z"
-    },
-    {
-      "id": 1423476746,
-      "name": "ha-frame-starter",
-      "full_name": "slcr/ha-frame-starter",
-      "description": "A calm paper-and-ink wall dashboard for Home Assistant: clock, weather, calendar, people, lights, blinds and climate on button-card, with optional calendar, energy, Flightradar24, rubbish, appliance, camera, music and screensaver modules, and a setup page that writes the YAML for you.",
-      "html_url": "https://github.com/slcr/ha-frame-starter",
-      "homepage": null,
-      "stars": 42,
-      "forks": 3,
-      "language": "JavaScript",
-      "topics": [
-        "button-card",
-        "dashboard",
-        "energy",
-        "flightradar24",
-        "hacs",
-        "home-assistant",
-        "kiosk",
-        "lovelace",
-        "wall-tablet"
-      ],
-      "created_at": "2026-10-17T15:36:35Z",
-      "updated_at": "2026-10-20T01:42:57Z",
-      "pushed_at": "2026-10-19T06:43:11Z"
     },
     {
       "id": 1377057562,
@@ -8482,30 +8506,6 @@
       "pushed_at": "2026-10-11T08:54:35Z"
     },
     {
-      "id": 1424055003,
-      "name": "dirt-bike-graphics.github.io",
-      "full_name": "dirt-bike-graphics/dirt-bike-graphics.github.io",
-      "description": "Which dirt bikes share the same plastics and can run the same graphics kit. 175 model years, 76 models, 11 brands. From an AI dirt bike graphics generator with an online editor.",
-      "html_url": "https://github.com/dirt-bike-graphics/dirt-bike-graphics.github.io",
-      "homepage": "https://customdirtbikegraphics.com",
-      "stars": 40,
-      "forks": 6,
-      "language": "SCSS",
-      "topics": [
-        "ai-graphics-generator",
-        "dataset",
-        "decals",
-        "dirt-bike",
-        "dirt-bike-graphics",
-        "graphics-kit",
-        "motocross",
-        "online-editor"
-      ],
-      "created_at": "2026-10-18T06:18:00Z",
-      "updated_at": "2026-10-20T11:07:17Z",
-      "pushed_at": "2026-10-20T08:09:56Z"
-    },
-    {
       "id": 1396835637,
       "name": "website-playbook",
       "full_name": "7-an/website-playbook",
@@ -8618,6 +8618,28 @@
       "created_at": "2026-09-19T15:16:41Z",
       "updated_at": "2026-09-23T00:30:12Z",
       "pushed_at": "2026-09-19T17:40:42Z"
+    },
+    {
+      "id": 1423074033,
+      "name": "expressive-profile",
+      "full_name": "metawka/expressive-profile",
+      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+      "html_url": "https://github.com/metawka/expressive-profile",
+      "homepage": "https://metawka.github.io/expressive-profile/",
+      "stars": 37,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "github-actions",
+        "github-profile",
+        "material-design",
+        "material-you",
+        "profile-readme",
+        "readme-generator"
+      ],
+      "created_at": "2026-10-17T07:34:55Z",
+      "updated_at": "2026-10-20T16:10:14Z",
+      "pushed_at": "2026-10-20T08:59:06Z"
     },
     {
       "id": 1395215215,
@@ -9089,6 +9111,28 @@
       "pushed_at": "2026-10-12T16:02:57Z"
     },
     {
+      "id": 1418756036,
+      "name": "McMEME",
+      "full_name": "vonnyluis/McMEME",
+      "description": "一起点餐，一起造梗。双人协作餐点表情图工作室：选餐、写台词、共同确认、导出漫画。支持简体中文与英文，当前为演示原型。",
+      "html_url": "https://github.com/vonnyluis/McMEME",
+      "homepage": null,
+      "stars": 31,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "bilingual",
+        "collaboration",
+        "mcdonalds",
+        "meme-generator",
+        "prototype",
+        "react"
+      ],
+      "created_at": "2026-10-14T10:50:28Z",
+      "updated_at": "2026-10-20T14:17:08Z",
+      "pushed_at": "2026-10-14T18:53:19Z"
+    },
+    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -9222,28 +9266,6 @@
       "created_at": "2026-10-07T06:43:10Z",
       "updated_at": "2026-10-12T03:13:31Z",
       "pushed_at": "2026-10-12T03:13:28Z"
-    },
-    {
-      "id": 1418756036,
-      "name": "McMEME",
-      "full_name": "vonnyluis/McMEME",
-      "description": "一起点餐，一起造梗。双人协作餐点表情图工作室：选餐、写台词、共同确认、导出漫画。支持简体中文与英文，当前为演示原型。",
-      "html_url": "https://github.com/vonnyluis/McMEME",
-      "homepage": null,
-      "stars": 30,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "bilingual",
-        "collaboration",
-        "mcdonalds",
-        "meme-generator",
-        "prototype",
-        "react"
-      ],
-      "created_at": "2026-10-14T10:50:28Z",
-      "updated_at": "2026-10-20T09:46:16Z",
-      "pushed_at": "2026-10-14T18:53:19Z"
     },
     {
       "id": 1375795989,
@@ -9405,28 +9427,6 @@
       "created_at": "2026-10-14T09:07:53Z",
       "updated_at": "2026-10-19T09:20:32Z",
       "pushed_at": "2026-10-14T09:10:01Z"
-    },
-    {
-      "id": 1423074033,
-      "name": "expressive-profile",
-      "full_name": "metawka/expressive-profile",
-      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
-      "html_url": "https://github.com/metawka/expressive-profile",
-      "homepage": "https://metawka.github.io/expressive-profile/",
-      "stars": 29,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "github-actions",
-        "github-profile",
-        "material-design",
-        "material-you",
-        "profile-readme",
-        "readme-generator"
-      ],
-      "created_at": "2026-10-17T07:34:55Z",
-      "updated_at": "2026-10-20T10:28:12Z",
-      "pushed_at": "2026-10-20T08:59:06Z"
     },
     {
       "id": 1376687962,
@@ -9739,7 +9739,7 @@
         "tailscale"
       ],
       "created_at": "2026-10-15T11:44:57Z",
-      "updated_at": "2026-10-20T01:14:01Z",
+      "updated_at": "2026-10-20T14:58:32Z",
       "pushed_at": "2026-10-19T03:21:59Z"
     },
     {
@@ -9858,6 +9858,26 @@
       "created_at": "2026-10-13T13:22:51Z",
       "updated_at": "2026-10-15T20:34:18Z",
       "pushed_at": "2026-10-15T16:41:16Z"
+    },
+    {
+      "id": 1421814990,
+      "name": "video-diffusion-avatars",
+      "full_name": "SimonGiebenhain/video-diffusion-avatars",
+      "description": "Official Code for \"Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars\"",
+      "html_url": "https://github.com/SimonGiebenhain/video-diffusion-avatars",
+      "homepage": "https://simongiebenhain.github.io/video-diffusion-avatars/",
+      "stars": 23,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "avatars",
+        "camera-control",
+        "expression-control",
+        "video-diffusion"
+      ],
+      "created_at": "2026-10-16T07:37:46Z",
+      "updated_at": "2026-10-20T16:17:56Z",
+      "pushed_at": "2026-10-20T09:39:56Z"
     },
     {
       "id": 1413789740,
@@ -10236,6 +10256,37 @@
       "pushed_at": "2026-10-17T19:06:15Z"
     },
     {
+      "id": 1423577893,
+      "name": "CicaTavern",
+      "full_name": "Shikasar7/CicaTavern",
+      "description": "Agent 式的 SillyTavern 角色卡酒馆：高缓存命中，兼容酒馆角色卡与世界书，自带配图和一键朗读，角色形象固定，引导式创作角色卡。An agent-style SillyTavern card player for your own LLM API.",
+      "html_url": "https://github.com/Shikasar7/CicaTavern",
+      "homepage": "https://github.com/Shikasar7/CicaTavern/releases/latest",
+      "stars": 20,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "ai-roleplay",
+        "android",
+        "character-cards",
+        "character-creator",
+        "chatbot",
+        "claude",
+        "deepseek",
+        "image-generation",
+        "llm",
+        "novelai",
+        "openrouter",
+        "roleplay",
+        "sillytavern",
+        "text-to-speech",
+        "windows"
+      ],
+      "created_at": "2026-10-17T17:30:55Z",
+      "updated_at": "2026-10-20T15:23:17Z",
+      "pushed_at": "2026-10-20T12:57:29Z"
+    },
+    {
       "id": 1409514013,
       "name": "weasley-clock-card",
       "full_name": "Nite01007/weasley-clock-card",
@@ -10400,6 +10451,27 @@
       "pushed_at": "2026-10-06T22:28:40Z"
     },
     {
+      "id": 1423239518,
+      "name": "ankigen",
+      "full_name": "xenohunter/ankigen",
+      "description": "Multilingual Anki deck generator",
+      "html_url": "https://github.com/xenohunter/ankigen",
+      "homepage": "https://xenohunter.github.io/ankigen/",
+      "stars": 18,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "anki",
+        "anki-cards",
+        "anki-decks",
+        "language-learning",
+        "languages"
+      ],
+      "created_at": "2026-10-17T11:02:10Z",
+      "updated_at": "2026-10-20T12:36:51Z",
+      "pushed_at": "2026-10-20T10:53:30Z"
+    },
+    {
       "id": 1386745578,
       "name": "black-wire-pinouts",
       "full_name": "valleytechsolutions/black-wire-pinouts",
@@ -10461,56 +10533,28 @@
       "pushed_at": "2026-10-16T09:00:52Z"
     },
     {
-      "id": 1423239518,
-      "name": "ankigen",
-      "full_name": "xenohunter/ankigen",
-      "description": "Multilingual Anki deck generator",
-      "html_url": "https://github.com/xenohunter/ankigen",
-      "homepage": "https://xenohunter.github.io/ankigen/",
+      "id": 1422920631,
+      "name": "snmp-topo-lan-card",
+      "full_name": "doanlong1412/snmp-topo-lan-card",
+      "description": "Home Assistant card vẽ sơ đồ mạng LAN (ISP → pfSense → switch → cổng) từ SNMP Switch Manager",
+      "html_url": "https://github.com/doanlong1412/snmp-topo-lan-card",
+      "homepage": null,
       "stars": 17,
-      "forks": 2,
+      "forks": 4,
       "language": "JavaScript",
       "topics": [
-        "anki",
-        "anki-cards",
-        "anki-decks",
-        "language-learning",
-        "languages"
+        "home-assistant",
+        "homeassistant",
+        "lovelace",
+        "lovelace-card",
+        "lovelace-custom-card",
+        "network-topology",
+        "snmp",
+        "snmpv2"
       ],
-      "created_at": "2026-10-17T11:02:10Z",
-      "updated_at": "2026-10-20T10:53:34Z",
-      "pushed_at": "2026-10-20T10:53:30Z"
-    },
-    {
-      "id": 1423577893,
-      "name": "CicaTavern",
-      "full_name": "Shikasar7/CicaTavern",
-      "description": "Agent 式的 SillyTavern 角色卡酒馆：高缓存命中，兼容酒馆角色卡与世界书，自带配图和一键朗读，角色形象固定，引导式创作角色卡。An agent-style SillyTavern card player for your own LLM API.",
-      "html_url": "https://github.com/Shikasar7/CicaTavern",
-      "homepage": "https://github.com/Shikasar7/CicaTavern/releases/latest",
-      "stars": 17,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "ai-roleplay",
-        "android",
-        "character-cards",
-        "character-creator",
-        "chatbot",
-        "claude",
-        "deepseek",
-        "image-generation",
-        "llm",
-        "novelai",
-        "openrouter",
-        "roleplay",
-        "sillytavern",
-        "text-to-speech",
-        "windows"
-      ],
-      "created_at": "2026-10-17T17:30:55Z",
-      "updated_at": "2026-10-20T10:35:38Z",
-      "pushed_at": "2026-10-20T04:17:27Z"
+      "created_at": "2026-10-17T03:51:21Z",
+      "updated_at": "2026-10-20T13:55:06Z",
+      "pushed_at": "2026-10-19T01:16:21Z"
     },
     {
       "id": 1379717308,
@@ -10679,30 +10723,6 @@
       "pushed_at": "2026-10-13T08:20:19Z"
     },
     {
-      "id": 1422920631,
-      "name": "snmp-topo-lan-card",
-      "full_name": "doanlong1412/snmp-topo-lan-card",
-      "description": "Home Assistant card vẽ sơ đồ mạng LAN (ISP → pfSense → switch → cổng) từ SNMP Switch Manager",
-      "html_url": "https://github.com/doanlong1412/snmp-topo-lan-card",
-      "homepage": null,
-      "stars": 16,
-      "forks": 3,
-      "language": "JavaScript",
-      "topics": [
-        "home-assistant",
-        "homeassistant",
-        "lovelace",
-        "lovelace-card",
-        "lovelace-custom-card",
-        "network-topology",
-        "snmp",
-        "snmpv2"
-      ],
-      "created_at": "2026-10-17T03:51:21Z",
-      "updated_at": "2026-10-20T04:51:17Z",
-      "pushed_at": "2026-10-19T01:16:21Z"
-    },
-    {
       "id": 1378545590,
       "name": "Yvette",
       "full_name": "MartinForsterNL/Yvette",
@@ -10810,6 +10830,21 @@
       "created_at": "2026-10-06T03:29:30Z",
       "updated_at": "2026-10-09T23:33:42Z",
       "pushed_at": "2026-10-09T23:33:38Z"
+    },
+    {
+      "id": 1424862368,
+      "name": "ZEUSS-LENS",
+      "full_name": "stacklikemind/ZEUSS-LENS",
+      "description": "ZEUSS LENS: a Rust and GPUI optical-code generator for third-party Vision Pro lens compatibility, on desktop and WebAssembly.",
+      "html_url": "https://github.com/stacklikemind/ZEUSS-LENS",
+      "homepage": "https://zeuss-lens.pages.dev",
+      "stars": 15,
+      "forks": 1,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-18T22:06:23Z",
+      "updated_at": "2026-10-20T15:33:04Z",
+      "pushed_at": "2026-10-20T10:27:31Z"
     },
     {
       "id": 1379723846,
@@ -10990,21 +11025,6 @@
       "created_at": "2026-10-12T21:29:28Z",
       "updated_at": "2026-10-18T19:59:06Z",
       "pushed_at": "2026-10-12T21:29:34Z"
-    },
-    {
-      "id": 1424862368,
-      "name": "ZEUSS-LENS",
-      "full_name": "stacklikemind/ZEUSS-LENS",
-      "description": "ZEUSS LENS: a Rust and GPUI optical-code generator for third-party Vision Pro lens compatibility, on desktop and WebAssembly.",
-      "html_url": "https://github.com/stacklikemind/ZEUSS-LENS",
-      "homepage": "https://zeuss-lens.pages.dev",
-      "stars": 14,
-      "forks": 1,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-18T22:06:23Z",
-      "updated_at": "2026-10-20T10:27:33Z",
-      "pushed_at": "2026-10-20T10:27:31Z"
     },
     {
       "id": 1379722239,
@@ -11224,6 +11244,21 @@
       "pushed_at": "2026-10-20T09:30:51Z"
     },
     {
+      "id": 1421749386,
+      "name": "Awesome-Context-Aware-TTS",
+      "full_name": "danjuan-77/Awesome-Context-Aware-TTS",
+      "description": "A curated list of models, datasets, and benchmarks for context-aware text-to-speech (TTS). This list covers conversational speech synthesis and expressive text-to-speech using dialogue history, audio context, or multimodal signals.",
+      "html_url": "https://github.com/danjuan-77/Awesome-Context-Aware-TTS",
+      "homepage": null,
+      "stars": 13,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-16T06:31:20Z",
+      "updated_at": "2026-10-20T12:24:35Z",
+      "pushed_at": "2026-10-16T06:32:54Z"
+    },
+    {
       "id": 1380788494,
       "name": "dingtalk-aicard",
       "full_name": "DingTalk-Real-AI/dingtalk-aicard",
@@ -11373,21 +11408,6 @@
       "created_at": "2026-10-17T00:37:13Z",
       "updated_at": "2026-10-19T22:37:32Z",
       "pushed_at": "2026-10-19T17:39:40Z"
-    },
-    {
-      "id": 1421749386,
-      "name": "Awesome-Context-Aware-TTS",
-      "full_name": "danjuan-77/Awesome-Context-Aware-TTS",
-      "description": "A curated list of models, datasets, and benchmarks for context-aware text-to-speech (TTS). This list covers conversational speech synthesis and expressive text-to-speech using dialogue history, audio context, or multimodal signals.",
-      "html_url": "https://github.com/danjuan-77/Awesome-Context-Aware-TTS",
-      "homepage": null,
-      "stars": 12,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-16T06:31:20Z",
-      "updated_at": "2026-10-20T00:52:02Z",
-      "pushed_at": "2026-10-16T06:32:54Z"
     },
     {
       "id": 1389013962,
