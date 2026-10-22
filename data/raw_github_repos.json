@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/23 03:51:00",
-  "total_repos": 572,
+  "fetched_at": "2026/10/23 07:05:01",
+  "total_repos": 574,
   "repos": [
     {
       "id": 1425658028,
@@ -37,6 +37,21 @@
       "created_at": "2026-10-03T01:38:22Z",
       "updated_at": "2026-10-09T08:15:59Z",
       "pushed_at": "2026-10-06T12:33:37Z"
+    },
+    {
+      "id": 1422434082,
+      "name": "mush8",
+      "full_name": "c22dev/mush8",
+      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "html_url": "https://github.com/c22dev/mush8",
+      "homepage": null,
+      "stars": 595,
+      "forks": 107,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-16T16:56:14Z",
+      "updated_at": "2026-10-22T22:46:33Z",
+      "pushed_at": "2026-10-21T20:53:12Z"
     },
     {
       "id": 1422883896,
@@ -121,21 +136,6 @@
       "created_at": "2026-10-13T19:35:48Z",
       "updated_at": "2026-10-19T14:30:49Z",
       "pushed_at": "2026-10-18T05:37:22Z"
-    },
-    {
-      "id": 1422434082,
-      "name": "mush8",
-      "full_name": "c22dev/mush8",
-      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
-      "html_url": "https://github.com/c22dev/mush8",
-      "homepage": null,
-      "stars": 587,
-      "forks": 107,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-16T16:56:14Z",
-      "updated_at": "2026-10-22T18:23:12Z",
-      "pushed_at": "2026-10-21T20:53:12Z"
     },
     {
       "id": 1403847264,
@@ -470,6 +470,21 @@
       "pushed_at": "2026-10-20T18:32:09Z"
     },
     {
+      "id": 1422474621,
+      "name": "SavageWindRecomp",
+      "full_name": "Revivedx/SavageWindRecomp",
+      "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+      "html_url": "https://github.com/Revivedx/SavageWindRecomp",
+      "homepage": null,
+      "stars": 466,
+      "forks": 16,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-16T17:34:55Z",
+      "updated_at": "2026-10-22T23:03:20Z",
+      "pushed_at": "2026-10-22T04:58:55Z"
+    },
+    {
       "id": 1420454266,
       "name": "dev-null.sh",
       "full_name": "dev-null-sh/dev-null.sh",
@@ -561,12 +576,12 @@
       "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
       "html_url": "https://github.com/justrach/nanoui",
       "homepage": null,
-      "stars": 419,
+      "stars": 421,
       "forks": 14,
       "language": "Zig",
       "topics": [],
       "created_at": "2026-10-18T09:27:46Z",
-      "updated_at": "2026-10-22T15:55:59Z",
+      "updated_at": "2026-10-22T22:32:20Z",
       "pushed_at": "2026-10-22T06:55:03Z"
     },
     {
@@ -949,6 +964,41 @@
       "pushed_at": "2026-10-12T17:10:55Z"
     },
     {
+      "id": 1425063138,
+      "name": "opentrap",
+      "full_name": "opentrap/opentrap",
+      "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
+      "html_url": "https://github.com/opentrap/opentrap",
+      "homepage": "https://opentrap.github.io/opentrap",
+      "stars": 379,
+      "forks": 5,
+      "language": "Java",
+      "topics": [
+        "application-security",
+        "appsec",
+        "bug-bounty",
+        "burp-alternative",
+        "burp-suite",
+        "dast",
+        "http-proxy",
+        "infosec",
+        "intercepting-proxy",
+        "java",
+        "owasp",
+        "owasp-zap",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "vulnerability-scanner",
+        "web-application-security",
+        "web-security"
+      ],
+      "created_at": "2026-10-19T03:29:08Z",
+      "updated_at": "2026-10-22T22:43:54Z",
+      "pushed_at": "2026-10-22T02:31:34Z"
+    },
+    {
       "id": 1415902555,
       "name": "Adobe-Audition",
       "full_name": "sheethelpdoor/Adobe-Audition",
@@ -1019,41 +1069,6 @@
       "pushed_at": "2026-10-18T18:57:02Z"
     },
     {
-      "id": 1425063138,
-      "name": "opentrap",
-      "full_name": "opentrap/opentrap",
-      "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
-      "html_url": "https://github.com/opentrap/opentrap",
-      "homepage": "https://opentrap.github.io/opentrap",
-      "stars": 367,
-      "forks": 5,
-      "language": "Java",
-      "topics": [
-        "application-security",
-        "appsec",
-        "bug-bounty",
-        "burp-alternative",
-        "burp-suite",
-        "dast",
-        "http-proxy",
-        "infosec",
-        "intercepting-proxy",
-        "java",
-        "owasp",
-        "owasp-zap",
-        "penetration-testing",
-        "pentesting",
-        "security",
-        "security-tools",
-        "vulnerability-scanner",
-        "web-application-security",
-        "web-security"
-      ],
-      "created_at": "2026-10-19T03:29:08Z",
-      "updated_at": "2026-10-22T19:29:53Z",
-      "pushed_at": "2026-10-22T02:31:34Z"
-    },
-    {
       "id": 1375530874,
       "name": "herdr-projects",
       "full_name": "eliasstravik/herdr-projects",
@@ -1072,34 +1087,19 @@
       "pushed_at": "2026-09-24T03:51:47Z"
     },
     {
-      "id": 1422474621,
-      "name": "SavageWindRecomp",
-      "full_name": "Revivedx/SavageWindRecomp",
-      "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
-      "html_url": "https://github.com/Revivedx/SavageWindRecomp",
-      "homepage": null,
-      "stars": 364,
-      "forks": 13,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-16T17:34:55Z",
-      "updated_at": "2026-10-22T19:45:56Z",
-      "pushed_at": "2026-10-22T04:58:55Z"
-    },
-    {
       "id": 1423410732,
       "name": "a7c2-fl23-research",
       "full_name": "QAQLeonard/a7c2-fl23-research",
       "description": "Desktop tool for Sony A7C II (ILCE-7CM2) firmware 2.01: one-click FL2/FL3, custom Creative Looks (LUT/DCP), electronic shutter sound, Vertical Display and factory restore. Windows/macOS. | Sony A7C II 固件 2.01 桌面工具：一键安装 FL2/FL3、自定义创意外观、电子快门声、竖屏显示，并可一键恢复原厂。",
       "html_url": "https://github.com/QAQLeonard/a7c2-fl23-research",
       "homepage": null,
-      "stars": 342,
+      "stars": 343,
       "forks": 49,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-17T14:25:48Z",
-      "updated_at": "2026-10-22T19:03:17Z",
-      "pushed_at": "2026-10-22T19:08:30Z"
+      "updated_at": "2026-10-22T20:59:18Z",
+      "pushed_at": "2026-10-22T22:18:54Z"
     },
     {
       "id": 1412143785,
@@ -1130,12 +1130,12 @@
       "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
       "html_url": "https://github.com/garycaogan/ai-live-avatar",
       "homepage": null,
-      "stars": 330,
+      "stars": 331,
       "forks": 98,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-19T08:10:48Z",
-      "updated_at": "2026-10-22T17:44:49Z",
+      "updated_at": "2026-10-22T22:24:50Z",
       "pushed_at": "2026-10-19T13:47:28Z"
     },
     {
@@ -1600,7 +1600,7 @@
       "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
       "html_url": "https://github.com/kailashsr38/ascii-magic-art",
       "homepage": "https://www.ascii-magic.com/ascii",
-      "stars": 268,
+      "stars": 270,
       "forks": 8,
       "language": "JavaScript",
       "topics": [
@@ -1616,7 +1616,7 @@
         "web-components"
       ],
       "created_at": "2026-10-19T08:00:49Z",
-      "updated_at": "2026-10-22T18:27:34Z",
+      "updated_at": "2026-10-22T21:49:26Z",
       "pushed_at": "2026-10-19T11:32:11Z"
     },
     {
@@ -1806,12 +1806,12 @@
       "description": "Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack",
       "html_url": "https://github.com/OmkarK97/webos-vibehack",
       "homepage": null,
-      "stars": 248,
-      "forks": 36,
+      "stars": 249,
+      "forks": 35,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-19T08:11:45Z",
-      "updated_at": "2026-10-22T19:37:19Z",
+      "updated_at": "2026-10-22T20:58:30Z",
       "pushed_at": "2026-10-19T08:11:51Z"
     },
     {
@@ -1896,12 +1896,12 @@
       "description": "Transplant all the games to the web platform",
       "html_url": "https://github.com/atbfun/ATBGamePort",
       "homepage": null,
-      "stars": 226,
+      "stars": 227,
       "forks": 51,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-21T01:29:33Z",
-      "updated_at": "2026-10-22T19:40:50Z",
+      "updated_at": "2026-10-22T22:13:20Z",
       "pushed_at": "2026-10-22T14:26:37Z"
     },
     {
@@ -2452,6 +2452,27 @@
       "pushed_at": "2026-10-17T19:14:04Z"
     },
     {
+      "id": 1424555473,
+      "name": "plugin-interior",
+      "full_name": "img2threejs/plugin-interior",
+      "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
+      "html_url": "https://github.com/img2threejs/plugin-interior",
+      "homepage": "https://img2threejs.io/",
+      "stars": 198,
+      "forks": 21,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "blender",
+        "img2plugin",
+        "img2threejs",
+        "img2x"
+      ],
+      "created_at": "2026-10-18T16:02:27Z",
+      "updated_at": "2026-10-22T22:15:23Z",
+      "pushed_at": "2026-10-19T15:18:07Z"
+    },
+    {
       "id": 1380797051,
       "name": "threejs-architecture-effects",
       "full_name": "lhlGitHub/threejs-architecture-effects",
@@ -2514,25 +2535,37 @@
       "pushed_at": "2026-10-17T19:14:41Z"
     },
     {
-      "id": 1424555473,
-      "name": "plugin-interior",
-      "full_name": "img2threejs/plugin-interior",
-      "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
-      "html_url": "https://github.com/img2threejs/plugin-interior",
-      "homepage": "https://img2threejs.io/",
-      "stars": 194,
-      "forks": 20,
+      "id": 1421473933,
+      "name": "Awesome-REA",
+      "full_name": "reacher-z/Awesome-REA",
+      "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+      "html_url": "https://github.com/reacher-z/Awesome-REA",
+      "homepage": "https://awesomerea.org",
+      "stars": 195,
+      "forks": 123,
       "language": "Python",
       "topics": [
-        "3d",
-        "blender",
-        "img2plugin",
-        "img2threejs",
-        "img2x"
+        "agent-skills",
+        "ai-agents",
+        "android-reverse-engineering",
+        "awesome-list",
+        "binary-analysis",
+        "decompilation",
+        "firmware-analysis",
+        "game-reversing",
+        "ghidra",
+        "ios-reverse-engineering",
+        "javascript-deobfuscation",
+        "mcp",
+        "protocol-analysis",
+        "rea",
+        "research-papers",
+        "reverse-engineering",
+        "web-reverse-engineering"
       ],
-      "created_at": "2026-10-18T16:02:27Z",
-      "updated_at": "2026-10-22T19:44:49Z",
-      "pushed_at": "2026-10-19T15:18:07Z"
+      "created_at": "2026-10-16T00:42:04Z",
+      "updated_at": "2026-10-22T22:58:12Z",
+      "pushed_at": "2026-10-22T21:59:37Z"
     },
     {
       "id": 1388097438,
@@ -2643,39 +2676,6 @@
       "created_at": "2026-10-12T09:01:47Z",
       "updated_at": "2026-10-18T20:20:12Z",
       "pushed_at": "2026-10-16T09:26:34Z"
-    },
-    {
-      "id": 1421473933,
-      "name": "Awesome-REA",
-      "full_name": "reacher-z/Awesome-REA",
-      "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
-      "html_url": "https://github.com/reacher-z/Awesome-REA",
-      "homepage": "https://awesomerea.org",
-      "stars": 187,
-      "forks": 123,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "android-reverse-engineering",
-        "awesome-list",
-        "binary-analysis",
-        "decompilation",
-        "firmware-analysis",
-        "game-reversing",
-        "ghidra",
-        "ios-reverse-engineering",
-        "javascript-deobfuscation",
-        "mcp",
-        "protocol-analysis",
-        "rea",
-        "research-papers",
-        "reverse-engineering",
-        "web-reverse-engineering"
-      ],
-      "created_at": "2026-10-16T00:42:04Z",
-      "updated_at": "2026-10-22T19:14:42Z",
-      "pushed_at": "2026-10-22T11:33:31Z"
     },
     {
       "id": 1417980343,
@@ -2805,7 +2805,7 @@
       "html_url": "https://github.com/fzn0x/idx",
       "homepage": "https://ihsg.midoriresearch.com",
       "stars": 173,
-      "forks": 9,
+      "forks": 10,
       "language": "Rust",
       "topics": [
         "analytics",
@@ -3105,28 +3105,13 @@
       "pushed_at": "2026-09-23T22:34:48Z"
     },
     {
-      "id": 1375327232,
-      "name": "repopilot",
-      "full_name": "indada/repopilot",
-      "description": "Verification-driven AI software iteration, powered by the OpenAI Codex SDK. Self-hosted agents turn goals, GitHub Issues and PR feedback into tested, reviewable changes, with bounded execution and human control over merging and deployment.",
-      "html_url": "https://github.com/indada/repopilot",
-      "homepage": null,
-      "stars": 153,
-      "forks": 7,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-09-18T03:36:12Z",
-      "updated_at": "2026-09-23T10:48:14Z",
-      "pushed_at": "2026-09-23T10:48:10Z"
-    },
-    {
       "id": 1429974885,
       "name": "glm-5.3-abliterated",
       "full_name": "7API/glm-5.3-abliterated",
       "description": "GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.",
       "html_url": "https://github.com/7API/glm-5.3-abliterated",
       "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
-      "stars": 153,
+      "stars": 154,
       "forks": 34,
       "language": null,
       "topics": [
@@ -3152,8 +3137,23 @@
         "zhipu"
       ],
       "created_at": "2026-10-22T16:07:16Z",
-      "updated_at": "2026-10-22T18:44:36Z",
+      "updated_at": "2026-10-22T20:02:36Z",
       "pushed_at": "2026-10-22T16:32:01Z"
+    },
+    {
+      "id": 1375327232,
+      "name": "repopilot",
+      "full_name": "indada/repopilot",
+      "description": "Verification-driven AI software iteration, powered by the OpenAI Codex SDK. Self-hosted agents turn goals, GitHub Issues and PR feedback into tested, reviewable changes, with bounded execution and human control over merging and deployment.",
+      "html_url": "https://github.com/indada/repopilot",
+      "homepage": null,
+      "stars": 153,
+      "forks": 7,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-18T03:36:12Z",
+      "updated_at": "2026-09-23T10:48:14Z",
+      "pushed_at": "2026-09-23T10:48:10Z"
     },
     {
       "id": 1423657709,
@@ -3269,6 +3269,36 @@
       "pushed_at": "2026-10-16T22:07:43Z"
     },
     {
+      "id": 1427877411,
+      "name": "rl-env-use",
+      "full_name": "browser-use/rl-env-use",
+      "description": "Build RL environments for any domain from real cases that Browser Use agents mine from the web",
+      "html_url": "https://github.com/browser-use/rl-env-use",
+      "homepage": null,
+      "stars": 145,
+      "forks": 8,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-21T04:31:55Z",
+      "updated_at": "2026-10-22T20:44:58Z",
+      "pushed_at": "2026-10-21T04:32:02Z"
+    },
+    {
+      "id": 1426280410,
+      "name": "FreeMyTvWebOS",
+      "full_name": "danielthejoker18/FreeMyTvWebOS",
+      "description": "",
+      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
+      "homepage": null,
+      "stars": 145,
+      "forks": 17,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-19T23:20:22Z",
+      "updated_at": "2026-10-22T22:49:57Z",
+      "pushed_at": "2026-10-22T18:09:08Z"
+    },
+    {
       "id": 1410815894,
       "name": "autonomous-pentest-agent",
       "full_name": "kutukam/autonomous-pentest-agent",
@@ -3282,21 +3312,6 @@
       "created_at": "2026-10-08T18:47:12Z",
       "updated_at": "2026-10-14T10:55:20Z",
       "pushed_at": "2026-10-09T05:07:24Z"
-    },
-    {
-      "id": 1427877411,
-      "name": "rl-env-use",
-      "full_name": "browser-use/rl-env-use",
-      "description": "Build RL environments for any domain from real cases that Browser Use agents mine from the web",
-      "html_url": "https://github.com/browser-use/rl-env-use",
-      "homepage": null,
-      "stars": 144,
-      "forks": 8,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-21T04:31:55Z",
-      "updated_at": "2026-10-22T19:31:14Z",
-      "pushed_at": "2026-10-21T04:32:02Z"
     },
     {
       "id": 1403810477,
@@ -3419,6 +3434,21 @@
       "pushed_at": "2026-10-22T11:59:39Z"
     },
     {
+      "id": 1425043515,
+      "name": "smm2recomp",
+      "full_name": "smm2recomp/smm2recomp",
+      "description": "Super Mario Maker 2 Recomp",
+      "html_url": "https://github.com/smm2recomp/smm2recomp",
+      "homepage": null,
+      "stars": 139,
+      "forks": 13,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-19T03:02:41Z",
+      "updated_at": "2026-10-22T22:51:11Z",
+      "pushed_at": "2026-10-22T21:38:33Z"
+    },
+    {
       "id": 1410111943,
       "name": "pluck",
       "full_name": "Astrofrogger/pluck",
@@ -3432,6 +3462,28 @@
       "created_at": "2026-10-08T10:01:46Z",
       "updated_at": "2026-10-14T15:46:53Z",
       "pushed_at": "2026-10-13T11:09:28Z"
+    },
+    {
+      "id": 1427344613,
+      "name": "quiet-tizen",
+      "full_name": "jss8649/quiet-tizen",
+      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
+      "html_url": "https://github.com/jss8649/quiet-tizen",
+      "homepage": null,
+      "stars": 138,
+      "forks": 14,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "debloat",
+        "launcher",
+        "samsung-tv",
+        "smart-tv",
+        "tizen"
+      ],
+      "created_at": "2026-10-20T17:23:41Z",
+      "updated_at": "2026-10-22T20:42:04Z",
+      "pushed_at": "2026-10-20T17:24:38Z"
     },
     {
       "id": 1403448265,
@@ -3455,28 +3507,6 @@
       "created_at": "2026-10-03T17:10:43Z",
       "updated_at": "2026-10-05T02:37:53Z",
       "pushed_at": "2026-10-03T17:16:17Z"
-    },
-    {
-      "id": 1427344613,
-      "name": "quiet-tizen",
-      "full_name": "jss8649/quiet-tizen",
-      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
-      "html_url": "https://github.com/jss8649/quiet-tizen",
-      "homepage": null,
-      "stars": 137,
-      "forks": 14,
-      "language": "Python",
-      "topics": [
-        "codex",
-        "debloat",
-        "launcher",
-        "samsung-tv",
-        "smart-tv",
-        "tizen"
-      ],
-      "created_at": "2026-10-20T17:23:41Z",
-      "updated_at": "2026-10-22T18:57:07Z",
-      "pushed_at": "2026-10-20T17:24:38Z"
     },
     {
       "id": 1390688516,
@@ -3507,21 +3537,6 @@
       "created_at": "2026-09-27T20:26:56Z",
       "updated_at": "2026-10-03T22:10:12Z",
       "pushed_at": "2026-10-01T03:09:41Z"
-    },
-    {
-      "id": 1425043515,
-      "name": "smm2recomp",
-      "full_name": "smm2recomp/smm2recomp",
-      "description": "Super Mario Maker 2 Recomp",
-      "html_url": "https://github.com/smm2recomp/smm2recomp",
-      "homepage": null,
-      "stars": 133,
-      "forks": 13,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-19T03:02:41Z",
-      "updated_at": "2026-10-22T19:35:59Z",
-      "pushed_at": "2026-10-22T19:28:17Z"
     },
     {
       "id": 1386719155,
@@ -3580,21 +3595,6 @@
       "created_at": "2026-10-09T09:20:57Z",
       "updated_at": "2026-10-09T11:01:00Z",
       "pushed_at": "2026-10-09T10:13:23Z"
-    },
-    {
-      "id": 1426280410,
-      "name": "FreeMyTvWebOS",
-      "full_name": "danielthejoker18/FreeMyTvWebOS",
-      "description": "",
-      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
-      "homepage": null,
-      "stars": 132,
-      "forks": 9,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-19T23:20:22Z",
-      "updated_at": "2026-10-22T19:49:09Z",
-      "pushed_at": "2026-10-22T18:09:08Z"
     },
     {
       "id": 1414942519,
@@ -3722,7 +3722,7 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-19T22:01:36Z",
-      "updated_at": "2026-10-19T22:17:45Z",
+      "updated_at": "2026-10-22T23:04:58Z",
       "pushed_at": "2026-10-19T22:01:51Z"
     },
     {
@@ -3859,6 +3859,34 @@
       "pushed_at": "2026-10-17T01:32:47Z"
     },
     {
+      "id": 1426240867,
+      "name": "Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
+      "full_name": "ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
+      "description": "Free Instagram view booster for Reels, Stories and Videos. Increase views, reach and engagement with smart delivery system. Easy to use, multiple safety modes, fully configurable.",
+      "html_url": "https://github.com/ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
+      "homepage": null,
+      "stars": 122,
+      "forks": 58,
+      "language": "Python",
+      "topics": [
+        "2026",
+        "configuration",
+        "engagement",
+        "free",
+        "instagram",
+        "instagram-growth",
+        "instagram-views",
+        "open-source",
+        "reels",
+        "stories",
+        "view-booster",
+        "views-tool"
+      ],
+      "created_at": "2026-10-19T22:21:30Z",
+      "updated_at": "2026-10-22T23:03:24Z",
+      "pushed_at": "2026-10-19T22:21:50Z"
+    },
+    {
       "id": 1417978332,
       "name": "hwid-spoofer-toolkit",
       "full_name": "GladiatorSplit/hwid-spoofer-toolkit",
@@ -3989,6 +4017,21 @@
       "created_at": "2026-10-19T08:36:53Z",
       "updated_at": "2026-10-22T15:08:52Z",
       "pushed_at": "2026-10-22T15:25:43Z"
+    },
+    {
+      "id": 1425343979,
+      "name": "nfsu2-web",
+      "full_name": "th0mk/nfsu2-web",
+      "description": "",
+      "html_url": "https://github.com/th0mk/nfsu2-web",
+      "homepage": "https://nfsu2.xyz/",
+      "stars": 114,
+      "forks": 16,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-19T08:47:39Z",
+      "updated_at": "2026-10-22T23:02:37Z",
+      "pushed_at": "2026-10-22T23:02:33Z"
     },
     {
       "id": 1380729698,
@@ -4777,49 +4820,6 @@
       "created_at": "2026-10-02T00:54:32Z",
       "updated_at": "2026-10-08T15:25:26Z",
       "pushed_at": "2026-10-05T01:56:08Z"
-    },
-    {
-      "id": 1426240867,
-      "name": "Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
-      "full_name": "ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
-      "description": "Free Instagram view booster for Reels, Stories and Videos. Increase views, reach and engagement with smart delivery system. Easy to use, multiple safety modes, fully configurable.",
-      "html_url": "https://github.com/ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026",
-      "homepage": null,
-      "stars": 102,
-      "forks": 1,
-      "language": "Python",
-      "topics": [
-        "2026",
-        "configuration",
-        "engagement",
-        "free",
-        "instagram",
-        "instagram-growth",
-        "instagram-views",
-        "open-source",
-        "reels",
-        "stories",
-        "view-booster",
-        "views-tool"
-      ],
-      "created_at": "2026-10-19T22:21:30Z",
-      "updated_at": "2026-10-19T22:31:33Z",
-      "pushed_at": "2026-10-19T22:21:50Z"
-    },
-    {
-      "id": 1425343979,
-      "name": "nfsu2-web",
-      "full_name": "th0mk/nfsu2-web",
-      "description": "",
-      "html_url": "https://github.com/th0mk/nfsu2-web",
-      "homepage": "https://nfsu2.xyz/",
-      "stars": 102,
-      "forks": 13,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-19T08:47:39Z",
-      "updated_at": "2026-10-22T19:50:46Z",
-      "pushed_at": "2026-10-22T19:50:40Z"
     },
     {
       "id": 1385781283,
@@ -5992,6 +5992,41 @@
       "pushed_at": "2026-10-13T05:44:43Z"
     },
     {
+      "id": 1430297568,
+      "name": "DLSS5-Unlocker",
+      "full_name": "SmokeProduction/DLSS5-Unlocker",
+      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
+      "html_url": "https://github.com/SmokeProduction/DLSS5-Unlocker",
+      "homepage": null,
+      "stars": 82,
+      "forks": 14,
+      "language": null,
+      "topics": [
+        "amd",
+        "amd-gpu",
+        "dlss",
+        "dlss-5",
+        "dlss-5-mod",
+        "dlss5",
+        "dlss5-optiscaler",
+        "dlss5-swapper",
+        "dlss5-universal",
+        "fps-booster-no-lag",
+        "frame-generation",
+        "fsr",
+        "mod-manager",
+        "modding",
+        "nvidia",
+        "nvidia-gpu",
+        "pc-gaming",
+        "radeon",
+        "super-resolution"
+      ],
+      "created_at": "2026-10-22T21:35:38Z",
+      "updated_at": "2026-10-22T23:00:01Z",
+      "pushed_at": "2026-10-22T22:33:38Z"
+    },
+    {
       "id": 1409175398,
       "name": "mcpdelta",
       "full_name": "mcpdelta/mcpdelta",
@@ -6968,6 +7003,28 @@
       "pushed_at": "2026-09-26T13:37:48Z"
     },
     {
+      "id": 1423074033,
+      "name": "expressive-profile",
+      "full_name": "metawka/expressive-profile",
+      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+      "html_url": "https://github.com/metawka/expressive-profile",
+      "homepage": "https://metawka.github.io/expressive-profile/",
+      "stars": 63,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "github-actions",
+        "github-profile",
+        "material-design",
+        "material-you",
+        "profile-readme",
+        "readme-generator"
+      ],
+      "created_at": "2026-10-17T07:34:55Z",
+      "updated_at": "2026-10-22T22:10:18Z",
+      "pushed_at": "2026-10-21T09:59:10Z"
+    },
+    {
       "id": 1400269105,
       "name": "WARDOGS-2026-AIMBOT-WALLHACK-",
       "full_name": "Masszumplain17/WARDOGS-2026-AIMBOT-WALLHACK-",
@@ -7076,28 +7133,6 @@
       "created_at": "2026-10-02T10:46:49Z",
       "updated_at": "2026-10-08T17:32:36Z",
       "pushed_at": "2026-10-08T17:32:30Z"
-    },
-    {
-      "id": 1423074033,
-      "name": "expressive-profile",
-      "full_name": "metawka/expressive-profile",
-      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
-      "html_url": "https://github.com/metawka/expressive-profile",
-      "homepage": "https://metawka.github.io/expressive-profile/",
-      "stars": 61,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "github-actions",
-        "github-profile",
-        "material-design",
-        "material-you",
-        "profile-readme",
-        "readme-generator"
-      ],
-      "created_at": "2026-10-17T07:34:55Z",
-      "updated_at": "2026-10-22T17:37:41Z",
-      "pushed_at": "2026-10-21T09:59:10Z"
     },
     {
       "id": 1399378829,
@@ -9201,6 +9236,21 @@
       "pushed_at": "2026-10-22T13:05:23Z"
     },
     {
+      "id": 1428842369,
+      "name": "Taiga-Launcher-for-Steam",
+      "full_name": "GabrielTaiga/Taiga-Launcher-for-Steam",
+      "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages",
+      "html_url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
+      "homepage": null,
+      "stars": 38,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-21T19:32:13Z",
+      "updated_at": "2026-10-22T23:04:09Z",
+      "pushed_at": "2026-10-22T01:26:00Z"
+    },
+    {
       "id": 1377304402,
       "name": "tmon",
       "full_name": "khangzxrr/tmon",
@@ -9722,6 +9772,35 @@
       "pushed_at": "2026-10-22T06:48:28Z"
     },
     {
+      "id": 1426323151,
+      "name": "kindi",
+      "full_name": "ahtx/kindi",
+      "description": "A custom LLM inference engine for low-cost NVIDIA GPUs: Quadro K420 and K1200, two K1200s joined into one 8 GB card, GTX 1080 and RTX 3080. Runs Bonsai 2B, 4B, 9B and 27B models with an OpenAI-compatible server.",
+      "html_url": "https://github.com/ahtx/kindi",
+      "homepage": "https://amirhusain.com/kindi/",
+      "stars": 31,
+      "forks": 8,
+      "language": "Python",
+      "topics": [
+        "ampere",
+        "bitnet",
+        "cuda",
+        "kepler",
+        "llm-inference",
+        "local-llm",
+        "low-cost-gpu",
+        "maxwell",
+        "openai-compatible",
+        "pascal",
+        "quadro",
+        "tensor-parallelism",
+        "ternary"
+      ],
+      "created_at": "2026-10-20T00:25:56Z",
+      "updated_at": "2026-10-22T22:53:51Z",
+      "pushed_at": "2026-10-22T22:53:48Z"
+    },
+    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -10120,21 +10199,6 @@
       "created_at": "2026-10-20T08:58:54Z",
       "updated_at": "2026-10-22T11:38:56Z",
       "pushed_at": "2026-10-20T09:09:32Z"
-    },
-    {
-      "id": 1428842369,
-      "name": "Taiga-Launcher-for-Steam",
-      "full_name": "GabrielTaiga/Taiga-Launcher-for-Steam",
-      "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages",
-      "html_url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
-      "homepage": null,
-      "stars": 28,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-21T19:32:13Z",
-      "updated_at": "2026-10-22T19:43:55Z",
-      "pushed_at": "2026-10-22T01:26:00Z"
     },
     {
       "id": 1379555830,
@@ -10915,6 +10979,36 @@
       "pushed_at": "2026-10-20T10:53:30Z"
     },
     {
+      "id": 1426991371,
+      "name": "ha-energy-flow-card",
+      "full_name": "Aresitoo/ha-energy-flow-card",
+      "description": "Real-Time Energy Flow & Executive Autarky Scorecard Card for Home Assistant Lovelace (WAAPI Stutter-Free, Solcast, Smart Contracted Power Guard)",
+      "html_url": "https://github.com/Aresitoo/ha-energy-flow-card",
+      "homepage": null,
+      "stars": 20,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "autarky",
+        "battery-storage",
+        "bess",
+        "custom-card",
+        "energy",
+        "energy-flow",
+        "hacs",
+        "hacs-card",
+        "home-assistant",
+        "home-automation",
+        "lovelace",
+        "photovoltaic",
+        "powerwall",
+        "solar"
+      ],
+      "created_at": "2026-10-20T12:26:20Z",
+      "updated_at": "2026-10-22T21:52:27Z",
+      "pushed_at": "2026-10-22T21:52:25Z"
+    },
+    {
       "id": 1409514013,
       "name": "weasley-clock-card",
       "full_name": "Nite01007/weasley-clock-card",
@@ -11020,36 +11114,6 @@
       "created_at": "2026-10-10T22:42:00Z",
       "updated_at": "2026-10-16T14:59:36Z",
       "pushed_at": "2026-10-15T22:18:12Z"
-    },
-    {
-      "id": 1426991371,
-      "name": "ha-energy-flow-card",
-      "full_name": "Aresitoo/ha-energy-flow-card",
-      "description": "Real-Time Energy Flow & Executive Autarky Scorecard Card for Home Assistant Lovelace (WAAPI Stutter-Free, Solcast, Smart Contracted Power Guard)",
-      "html_url": "https://github.com/Aresitoo/ha-energy-flow-card",
-      "homepage": null,
-      "stars": 19,
-      "forks": 2,
-      "language": "JavaScript",
-      "topics": [
-        "autarky",
-        "battery-storage",
-        "bess",
-        "custom-card",
-        "energy",
-        "energy-flow",
-        "hacs",
-        "hacs-card",
-        "home-assistant",
-        "home-automation",
-        "lovelace",
-        "photovoltaic",
-        "powerwall",
-        "solar"
-      ],
-      "created_at": "2026-10-20T12:26:20Z",
-      "updated_at": "2026-10-22T19:37:35Z",
-      "pushed_at": "2026-10-22T14:51:36Z"
     },
     {
       "id": 1387292246,
