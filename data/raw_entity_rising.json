@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-10-22T09:21:20.175Z",
+  "fetchedAt": "2026-10-22T14:58:29.578Z",
   "totalEntitiesScanned": 36,
-  "totalRisingQueries": 7575,
+  "totalRisingQueries": 7596,
   "items": [
     {
       "query": "qwen 2.1",
@@ -178,6 +178,17 @@
       "isBreakout": true,
       "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
       "fetchedAt": "2026-10-19T19:44:06.820Z"
+    },
+    {
+      "query": "dots openai",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 400450,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "perplexity",
@@ -1324,6 +1335,17 @@
       "fetchedAt": "2026-10-16T22:42:04.519Z"
     },
     {
+      "query": "sovereign ai",
+      "entity": "mistral ai",
+      "entityDisplayName": "Mistral AI",
+      "category": "大语言模型与代码助手",
+      "value": 155100,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "duck ai",
       "entity": "mistral ai",
       "entityDisplayName": "Mistral AI",
@@ -1377,6 +1399,17 @@
       "isBreakout": true,
       "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
       "fetchedAt": "2026-10-17T03:41:30.456Z"
+    },
+    {
+      "query": "minimax m3.1 flash",
+      "entity": "minimax",
+      "entityDisplayName": "MiniMax (海螺AI)",
+      "category": "AI视频与生图",
+      "value": 150000,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "视频生成提示词工具 / 声音克隆展示单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "mistrial",
@@ -1434,15 +1467,15 @@
       "fetchedAt": "2026-10-19T12:38:14.342Z"
     },
     {
-      "query": "minimax m3.1 flash",
-      "entity": "minimax",
-      "entityDisplayName": "MiniMax (海螺AI)",
-      "category": "AI视频与生图",
-      "value": 146250,
+      "query": "wan",
+      "entity": "doubao",
+      "entityDisplayName": "字节跳动豆包 (Doubao)",
+      "category": "大语言模型与代码助手",
+      "value": 147100,
       "formattedGrowth": "Breakout",
       "isBreakout": true,
-      "suggestedActionType": "视频生成提示词工具 / 声音克隆展示单页",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
+      "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "upcoming events",
@@ -1588,6 +1621,17 @@
       "fetchedAt": "2026-10-20T11:10:49.096Z"
     },
     {
+      "query": "豆包 输入 法",
+      "entity": "doubao",
+      "entityDisplayName": "字节跳动豆包 (Doubao)",
+      "category": "大语言模型与代码助手",
+      "value": 134900,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "doubao work",
       "entity": "doubao",
       "entityDisplayName": "字节跳动豆包 (Doubao)",
@@ -1608,6 +1652,17 @@
       "isBreakout": true,
       "suggestedActionType": "小票皮肤 / 多平台歌单小票打印机",
       "fetchedAt": "2026-10-17T08:23:53.855Z"
+    },
+    {
+      "query": "deepseek 1017",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 130600,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "what is medvi",
@@ -1663,6 +1718,17 @@
       "isBreakout": true,
       "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
       "fetchedAt": "2026-10-07T03:20:00.688Z"
+    },
+    {
+      "query": "artificial analysis",
+      "entity": "mistral ai",
+      "entityDisplayName": "Mistral AI",
+      "category": "大语言模型与代码助手",
+      "value": 128600,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "etsy coupon",
@@ -1852,6 +1918,17 @@
       "fetchedAt": "2026-10-07T18:08:23.804Z"
     },
     {
+      "query": "invideo",
+      "entity": "runway gen-3",
+      "entityDisplayName": "Runway Gen-3",
+      "category": "AI视频与生图",
+      "value": 115350,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "icebergify",
       "entity": "receiptify",
       "entityDisplayName": "Receiptify",
@@ -1896,6 +1973,17 @@
       "fetchedAt": "2026-10-17T23:53:02.849Z"
     },
     {
+      "query": "pet store tycoon codes",
+      "entity": "tycoon",
+      "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
+      "category": "出海B2C与社媒神器",
+      "value": 113350,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "build a pyramid roblox codes",
       "entity": "roblox codes",
       "entityDisplayName": "Roblox 兑换码生态 (Codes)",
@@ -1907,17 +1995,6 @@
       "fetchedAt": "2026-10-18T08:43:16.519Z"
     },
     {
-      "query": "pet store tycoon codes",
-      "entity": "tycoon",
-      "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
-      "category": "出海B2C与社媒神器",
-      "value": 110950,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
-      "fetchedAt": "2026-10-21T23:06:39.372Z"
-    },
-    {
       "query": "medvi weight loss",
       "entity": "cursor ai",
       "entityDisplayName": "Cursor AI",
@@ -1927,6 +2004,17 @@
       "isBreakout": true,
       "suggestedActionType": ".cursorrules 一键生成器 / BYOK 配置与 API 代理导航",
       "fetchedAt": "2026-10-10T03:21:51.752Z"
+    },
+    {
+      "query": "groq api key",
+      "entity": "mistral ai",
+      "entityDisplayName": "Mistral AI",
+      "category": "大语言模型与代码助手",
+      "value": 110350,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "receiptify spotify music",
@@ -2105,17 +2193,6 @@
       "fetchedAt": "2026-10-20T21:25:14.259Z"
     },
     {
-      "query": "sovereign ai",
-      "entity": "mistral ai",
-      "entityDisplayName": "Mistral AI",
-      "category": "大语言模型与代码助手",
-      "value": 102900,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
-      "fetchedAt": "2026-10-18T03:47:55.215Z"
-    },
-    {
       "query": "stats fm",
       "entity": "receiptify",
       "entityDisplayName": "Receiptify",
@@ -2136,17 +2213,6 @@
       "isBreakout": true,
       "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
       "fetchedAt": "2026-10-19T12:38:14.342Z"
-    },
-    {
-      "query": "artificial analysis",
-      "entity": "mistral ai",
-      "entityDisplayName": "Mistral AI",
-      "category": "大语言模型与代码助手",
-      "value": 102600,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
-      "fetchedAt": "2026-10-20T04:10:00.525Z"
     },
     {
       "query": "cursor careers",
@@ -2193,17 +2259,6 @@
       "fetchedAt": "2026-10-12T03:18:27.333Z"
     },
     {
-      "query": "groq api key",
-      "entity": "mistral ai",
-      "entityDisplayName": "Mistral AI",
-      "category": "大语言模型与代码助手",
-      "value": 98550,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
-      "fetchedAt": "2026-10-20T04:10:00.525Z"
-    },
-    {
       "query": "dolphin mistral",
       "entity": "mistral ai",
       "entityDisplayName": "Mistral AI",
@@ -2213,17 +2268,6 @@
       "isBreakout": true,
       "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
       "fetchedAt": "2026-10-11T02:55:20.228Z"
-    },
-    {
-      "query": "wan",
-      "entity": "doubao",
-      "entityDisplayName": "字节跳动豆包 (Doubao)",
-      "category": "大语言模型与代码助手",
-      "value": 96850,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
-      "fetchedAt": "2026-10-20T11:10:49.096Z"
     },
     {
       "query": "craiyon",
@@ -2389,17 +2433,6 @@
       "isBreakout": true,
       "suggestedActionType": ".cursorrules 一键生成器 / BYOK 配置与 API 代理导航",
       "fetchedAt": "2026-10-20T04:10:00.525Z"
-    },
-    {
-      "query": "deepseek 1017",
-      "entity": "deepseek",
-      "entityDisplayName": "DeepSeek",
-      "category": "大语言模型与代码助手",
-      "value": 82700,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
-      "fetchedAt": "2026-10-19T12:38:14.342Z"
     },
     {
       "query": "leonardo ai",
@@ -2930,6 +2963,17 @@
       "fetchedAt": "2026-10-20T04:10:00.525Z"
     },
     {
+      "query": "deepseek v4.1 flash 1017",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 64450,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "chinaside tycoon",
       "entity": "tycoon",
       "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
@@ -2961,17 +3005,6 @@
       "isBreakout": true,
       "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
       "fetchedAt": "2026-10-19T12:38:14.342Z"
-    },
-    {
-      "query": "deepseek v4.1 flash 1017",
-      "entity": "deepseek",
-      "entityDisplayName": "DeepSeek",
-      "category": "大语言模型与代码助手",
-      "value": 63600,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "king ai",
@@ -3049,6 +3082,17 @@
       "isBreakout": true,
       "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
       "fetchedAt": "2026-10-16T02:15:49.111Z"
+    },
+    {
+      "query": "grok ai",
+      "entity": "runway gen-3",
+      "entityDisplayName": "Runway Gen-3",
+      "category": "AI视频与生图",
+      "value": 61500,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "mistral vs claude",
@@ -3161,6 +3205,17 @@
       "fetchedAt": "2026-10-20T04:10:00.525Z"
     },
     {
+      "query": "stable diffusion",
+      "entity": "runway gen-3",
+      "entityDisplayName": "Runway Gen-3",
+      "category": "AI视频与生图",
+      "value": 55550,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "openai jev",
       "entity": "openai",
       "entityDisplayName": "OpenAI / ChatGPT",
@@ -3214,17 +3269,6 @@
       "isBreakout": true,
       "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
       "fetchedAt": "2026-10-20T11:10:49.096Z"
-    },
-    {
-      "query": "dots openai",
-      "entity": "openai",
-      "entityDisplayName": "OpenAI / ChatGPT",
-      "category": "大语言模型与代码助手",
-      "value": 51500,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
-      "fetchedAt": "2026-10-17T23:53:02.849Z"
     },
     {
       "query": "loot to forge codes roblox",
@@ -3689,6 +3733,17 @@
       "fetchedAt": "2026-10-09T08:24:51.779Z"
     },
     {
+      "query": "meta muse wonder",
+      "entity": "meta ai",
+      "entityDisplayName": "Meta AI 生态",
+      "category": "大语言模型与代码助手",
+      "value": 42350,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "adidas zx flux women",
       "entity": "flux ai",
       "entityDisplayName": "Flux.1",
@@ -3742,17 +3797,6 @@
       "isBreakout": true,
       "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
       "fetchedAt": "2026-10-13T18:40:34.303Z"
-    },
-    {
-      "query": "meta muse wonder",
-      "entity": "meta ai",
-      "entityDisplayName": "Meta AI 生态",
-      "category": "大语言模型与代码助手",
-      "value": 41750,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "pet store tycoon roblox codes",
@@ -4195,6 +4239,17 @@
       "fetchedAt": "2026-10-12T20:36:23.652Z"
     },
     {
+      "query": "duobao",
+      "entity": "doubao",
+      "entityDisplayName": "字节跳动豆包 (Doubao)",
+      "category": "大语言模型与代码助手",
+      "value": 34400,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "herokuapp receiptify",
       "entity": "receiptify",
       "entityDisplayName": "Receiptify",
@@ -4415,17 +4470,6 @@
       "fetchedAt": "2026-10-17T03:41:30.456Z"
     },
     {
-      "query": "duobao",
-      "entity": "doubao",
-      "entityDisplayName": "字节跳动豆包 (Doubao)",
-      "category": "大语言模型与代码助手",
-      "value": 31450,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
-      "fetchedAt": "2026-10-17T16:56:01.551Z"
-    },
-    {
       "query": "how to do receiptify",
       "entity": "receiptify",
       "entityDisplayName": "Receiptify",
@@ -4448,6 +4492,28 @@
       "fetchedAt": "2026-10-19T19:44:06.820Z"
     },
     {
+      "query": "deepinfer",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 31200,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "deepinfer deepseek",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 31100,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "race horses roblox codes",
       "entity": "roblox codes",
       "entityDisplayName": "Roblox 兑换码生态 (Codes)",
@@ -4459,17 +4525,6 @@
       "fetchedAt": "2026-10-16T02:15:49.111Z"
     },
     {
-      "query": "deepinfer",
-      "entity": "deepseek",
-      "entityDisplayName": "DeepSeek",
-      "category": "大语言模型与代码助手",
-      "value": 30650,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
       "query": "clipchamp",
       "entity": "pika ai",
       "entityDisplayName": "Pika AI",
@@ -4479,6 +4534,17 @@
       "isBreakout": true,
       "suggestedActionType": "Pika 特效滤镜预设生成器",
       "fetchedAt": "2026-10-16T19:27:54.567Z"
+    },
+    {
+      "query": "comfy ui",
+      "entity": "qwen",
+      "entityDisplayName": "阿里通义千问 (Qwen)",
+      "category": "大语言模型与代码助手",
+      "value": 30400,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "how old is olivia rodrigo",
@@ -4899,6 +4965,17 @@
       "fetchedAt": "2026-10-18T08:43:16.519Z"
     },
     {
+      "query": "pippit ai",
+      "entity": "pika ai",
+      "entityDisplayName": "Pika AI",
+      "category": "AI视频与生图",
+      "value": 26700,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Pika 特效滤镜预设生成器",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "treblo ai",
       "entity": "udio",
       "entityDisplayName": "Udio AI",
@@ -5240,26 +5317,15 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "comfy ui",
-      "entity": "qwen",
-      "entityDisplayName": "阿里通义千问 (Qwen)",
-      "category": "大语言模型与代码助手",
-      "value": 23600,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
-      "fetchedAt": "2026-10-21T23:06:39.372Z"
-    },
-    {
       "query": "hotel lobby ai filter",
       "entity": "ai filter",
       "entityDisplayName": "AI 滤镜与特效",
       "category": "AI视频与生图",
-      "value": 23500,
+      "value": 23550,
       "formattedGrowth": "Breakout",
       "isBreakout": true,
       "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "notebooklm",
@@ -5537,6 +5603,17 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
+      "query": "higgsfield katana",
+      "entity": "higgsfield",
+      "entityDisplayName": "Higgsfield AI",
+      "category": "AI视频与生图",
+      "value": 21700,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "爆款镜头风格提示词库 / 免登录极速交付运镜单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "hotel lobby song ai",
       "entity": "ai song",
       "entityDisplayName": "AI 音乐与歌曲生成",
@@ -5779,17 +5856,6 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "higgsfield katana",
-      "entity": "higgsfield",
-      "entityDisplayName": "Higgsfield AI",
-      "category": "AI视频与生图",
-      "value": 20650,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "爆款镜头风格提示词库 / 免登录极速交付运镜单页",
-      "fetchedAt": "2026-10-21T23:06:39.372Z"
-    },
-    {
       "query": "mistral large 4 benchmark",
       "entity": "mistral ai",
       "entityDisplayName": "Mistral AI",
@@ -5955,6 +6021,17 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
+      "query": "first person boxing roblox codes",
+      "entity": "roblox codes",
+      "entityDisplayName": "Roblox 兑换码生态 (Codes)",
+      "category": "小游戏与泛娱乐",
+      "value": 19600,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Roblox 实时兑换码聚合页 / 游戏维基导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "kimi raikkonen son",
       "entity": "kimi",
       "entityDisplayName": "月之暗面 (Kimi / Moonshot)",
@@ -6010,6 +6087,17 @@
       "fetchedAt": "2026-10-07T03:20:00.688Z"
     },
     {
+      "query": "open webui",
+      "entity": "qwen",
+      "entityDisplayName": "阿里通义千问 (Qwen)",
+      "category": "大语言模型与代码助手",
+      "value": 19250,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "qwen 4.0",
       "entity": "qwen",
       "entityDisplayName": "阿里通义千问 (Qwen)",
@@ -6019,6 +6107,17 @@
       "isBreakout": true,
       "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
       "fetchedAt": "2026-10-13T04:33:30.504Z"
+    },
+    {
+      "query": "anthropic duet",
+      "entity": "anthropic",
+      "entityDisplayName": "Anthropic / Claude",
+      "category": "大语言模型与代码助手",
+      "value": 19200,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "tempmail",
@@ -6230,17 +6329,6 @@
       "fetchedAt": "2026-10-15T15:59:02.403Z"
     },
     {
-      "query": "豆包 输入 法",
-      "entity": "doubao",
-      "entityDisplayName": "字节跳动豆包 (Doubao)",
-      "category": "大语言模型与代码助手",
-      "value": 17950,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
-      "fetchedAt": "2026-10-20T11:10:49.096Z"
-    },
-    {
       "query": "meshy ai",
       "entity": "flux ai",
       "entityDisplayName": "Flux.1",
@@ -6417,6 +6505,17 @@
       "fetchedAt": "2026-10-17T20:20:57.209Z"
     },
     {
+      "query": "kimi antonelli bahrain podium mistake",
+      "entity": "kimi",
+      "entityDisplayName": "月之暗面 (Kimi / Moonshot)",
+      "category": "大语言模型与代码助手",
+      "value": 17000,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Kimi 提效提示词库 / 长文本助手衍生单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "meta ai infrastructure tax savings",
       "entity": "meta ai",
       "entityDisplayName": "Meta AI 生态",
@@ -6481,17 +6580,6 @@
       "isBreakout": true,
       "suggestedActionType": "小票皮肤 / 多平台歌单小票打印机",
       "fetchedAt": "2026-10-01T00:41:38.646Z"
-    },
-    {
-      "query": "open webui",
-      "entity": "qwen",
-      "entityDisplayName": "阿里通义千问 (Qwen)",
-      "category": "大语言模型与代码助手",
-      "value": 16650,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
-      "fetchedAt": "2026-10-20T04:10:00.525Z"
     },
     {
       "query": "boppy",
@@ -6646,17 +6734,6 @@
       "isBreakout": true,
       "suggestedActionType": "角色一致性视频生成提示词工具 / 模版演示单页",
       "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
-      "query": "pippit ai",
-      "entity": "pika ai",
-      "entityDisplayName": "Pika AI",
-      "category": "AI视频与生图",
-      "value": 16100,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Pika 特效滤镜预设生成器",
-      "fetchedAt": "2026-10-10T03:21:51.752Z"
     },
     {
       "query": "deepseek down?",
@@ -68479,17 +68556,6 @@
       "fetchedAt": "2026-10-21T23:06:39.372Z"
     },
     {
-      "query": "kimi antonelli bahrain podium mistake",
-      "entity": "kimi",
-      "entityDisplayName": "月之暗面 (Kimi / Moonshot)",
-      "category": "大语言模型与代码助手",
-      "value": 15550,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Kimi 提效提示词库 / 长文本助手衍生单页",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
       "query": "idle startup tycoon",
       "entity": "tycoon",
       "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
@@ -68609,17 +68675,6 @@
       "isBreakout": true,
       "suggestedActionType": "Luma 相机控制指令生成器 / 爆款作品合集",
       "fetchedAt": "2026-10-20T04:10:00.525Z"
-    },
-    {
-      "query": "anthropic duet",
-      "entity": "anthropic",
-      "entityDisplayName": "Anthropic / Claude",
-      "category": "大语言模型与代码助手",
-      "value": 15200,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "muse spark",
@@ -69777,6 +69832,17 @@
       "fetchedAt": "2026-10-13T04:33:30.504Z"
     },
     {
+      "query": "deepseek v4 1 flash 1017",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 14400,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "anthropic ipo leak",
       "entity": "anthropic",
       "entityDisplayName": "Anthropic / Claude",
@@ -69797,6 +69863,17 @@
       "isBreakout": true,
       "suggestedActionType": "Claude 效率插件与格式转换工具",
       "fetchedAt": "2026-10-22T09:21:20.175Z"
+    },
+    {
+      "query": "deepseek 4.1 flash 1017",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 14000,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "maseni udio",
@@ -69984,17 +70061,6 @@
       "isBreakout": true,
       "suggestedActionType": "Claude 效率插件与格式转换工具",
       "fetchedAt": "2026-10-20T11:10:49.096Z"
-    },
-    {
-      "query": "stable diffusion",
-      "entity": "runway gen-3",
-      "entityDisplayName": "Runway Gen-3",
-      "category": "AI视频与生图",
-      "value": 13200,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
-      "fetchedAt": "2026-10-13T04:33:30.504Z"
     },
     {
       "query": "notebook.lm",
@@ -70910,6 +70976,17 @@
       "fetchedAt": "2026-10-07T18:08:23.804Z"
     },
     {
+      "query": "openai employee arrested",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 9500,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "noteboo",
       "entity": "notebooklm",
       "entityDisplayName": "Google NotebookLM",
@@ -70919,17 +70996,6 @@
       "isBreakout": true,
       "suggestedActionType": "NotebookLM 播客音视频转录与导图生成器",
       "fetchedAt": "2026-10-08T18:10:39.606Z"
-    },
-    {
-      "query": "openai employee arrested",
-      "entity": "openai",
-      "entityDisplayName": "OpenAI / ChatGPT",
-      "category": "大语言模型与代码助手",
-      "value": 9400,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "adobe firefly",
@@ -71007,6 +71073,28 @@
       "isBreakout": true,
       "suggestedActionType": "Leaflet 交互地图与配种计算器",
       "fetchedAt": "2026-10-10T03:21:51.752Z"
+    },
+    {
+      "query": "anthropic 80 billion loss",
+      "entity": "anthropic",
+      "entityDisplayName": "Anthropic / Claude",
+      "category": "大语言模型与代码助手",
+      "value": 9150,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "pet store tycoon code",
+      "entity": "tycoon",
+      "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
+      "category": "出海B2C与社媒神器",
+      "value": 9150,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "openai math results",
@@ -71106,17 +71194,6 @@
       "isBreakout": true,
       "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
       "fetchedAt": "2026-10-20T11:10:49.096Z"
-    },
-    {
-      "query": "anthropic 80 billion loss",
-      "entity": "anthropic",
-      "entityDisplayName": "Anthropic / Claude",
-      "category": "大语言模型与代码助手",
-      "value": 8950,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
-      "fetchedAt": "2026-10-22T03:58:45.099Z"
     },
     {
       "query": "holly li openai",
@@ -71383,15 +71460,15 @@
       "fetchedAt": "2026-10-15T15:59:02.403Z"
     },
     {
-      "query": "deepseek 4.1 flash 1017",
-      "entity": "deepseek",
-      "entityDisplayName": "DeepSeek",
+      "query": "meta global ai developer hackathon",
+      "entity": "meta ai",
+      "entityDisplayName": "Meta AI 生态",
       "category": "大语言模型与代码助手",
       "value": 8150,
       "formattedGrowth": "Breakout",
       "isBreakout": true,
-      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
-      "fetchedAt": "2026-10-19T12:38:14.342Z"
+      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "substitute bride's animal whispering saved a disabled tycoon",
@@ -71724,17 +71801,6 @@
       "fetchedAt": "2026-10-18T00:30:13.094Z"
     },
     {
-      "query": "pet store tycoon code",
-      "entity": "tycoon",
-      "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
-      "category": "出海B2C与社媒神器",
-      "value": 7350,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
-      "fetchedAt": "2026-10-20T04:10:00.525Z"
-    },
-    {
       "query": "yuki tsunoda height",
       "entity": "kimi",
       "entityDisplayName": "月之暗面 (Kimi / Moonshot)",
@@ -71865,6 +71931,17 @@
       "isBreakout": true,
       "suggestedActionType": "Kimi 提效提示词库 / 长文本助手衍生单页",
       "fetchedAt": "2026-10-19T19:44:06.820Z"
+    },
+    {
+      "query": "deepseek v4.1 flash 1017 release",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 7150,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "just dance michael jackson songs",
@@ -72439,6 +72516,17 @@
       "fetchedAt": "2026-10-18T08:43:16.519Z"
     },
     {
+      "query": "deepseek 推理 框架",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 5600,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "pimento",
       "entity": "mistral ai",
       "entityDisplayName": "Mistral AI",
@@ -72481,6 +72569,17 @@
       "isBreakout": true,
       "suggestedActionType": "Pika 特效滤镜预设生成器",
       "fetchedAt": "2026-10-16T02:15:49.111Z"
+    },
+    {
+      "query": "deepseek deepinfer github",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 5400,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "redesigning source control at anthropic",
@@ -72571,6 +72670,17 @@
       "fetchedAt": "2026-10-20T21:25:14.259Z"
     },
     {
+      "query": "boat capsized shark attack",
+      "entity": "meta ai",
+      "entityDisplayName": "Meta AI 生态",
+      "category": "大语言模型与代码助手",
+      "value": 5000,
+      "formattedGrowth": "+5,000%",
+      "isBreakout": false,
+      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "anthropic claude dna virus discovery",
       "entity": "anthropic",
       "entityDisplayName": "Anthropic / Claude",
@@ -72637,6 +72747,17 @@
       "fetchedAt": "2026-10-16T02:15:49.111Z"
     },
     {
+      "query": "bilal bin saqib openai meeting details",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 4750,
+      "formattedGrowth": "+4,750%",
+      "isBreakout": false,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "suno ai music model v6",
       "entity": "suno",
       "entityDisplayName": "Suno AI",
@@ -72646,17 +72767,6 @@
       "isBreakout": false,
       "suggestedActionType": "Suno 风格提示词/歌词排版生成器",
       "fetchedAt": "2026-10-01T00:32:28.916Z"
-    },
-    {
-      "query": "bilal bin saqib openai meeting details",
-      "entity": "openai",
-      "entityDisplayName": "OpenAI / ChatGPT",
-      "category": "大语言模型与代码助手",
-      "value": 4700,
-      "formattedGrowth": "+4,700%",
-      "isBreakout": false,
-      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
-      "fetchedAt": "2026-10-18T03:47:55.215Z"
     },
     {
       "query": "tad ai",
@@ -72681,7 +72791,7 @@
       "fetchedAt": "2026-10-19T23:28:58.546Z"
     },
     {
-      "query": "boat capsized shark attack",
+      "query": "mark zuckerberg meta ai launch",
       "entity": "meta ai",
       "entityDisplayName": "Meta AI 生态",
       "category": "大语言模型与代码助手",
@@ -72692,15 +72802,15 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "mark zuckerberg meta ai launch",
-      "entity": "meta ai",
-      "entityDisplayName": "Meta AI 生态",
+      "query": "deepseek infer",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
       "category": "大语言模型与代码助手",
-      "value": 4550,
-      "formattedGrowth": "+4,550%",
+      "value": 4500,
+      "formattedGrowth": "+4,500%",
       "isBreakout": false,
-      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "use suno downloader",
@@ -72725,6 +72835,28 @@
       "fetchedAt": "2026-10-20T11:10:49.096Z"
     },
     {
+      "query": "deepseek inference engine",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 4450,
+      "formattedGrowth": "+4,450%",
+      "isBreakout": false,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "anthropic claude pricing accenture memo",
+      "entity": "anthropic",
+      "entityDisplayName": "Anthropic / Claude",
+      "category": "大语言模型与代码助手",
+      "value": 4350,
+      "formattedGrowth": "+4,350%",
+      "isBreakout": false,
+      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "kimi antonelli spanish gp warning",
       "entity": "kimi",
       "entityDisplayName": "月之暗面 (Kimi / Moonshot)",
@@ -72734,17 +72866,6 @@
       "isBreakout": false,
       "suggestedActionType": "Kimi 提效提示词库 / 长文本助手衍生单页",
       "fetchedAt": "2026-10-11T02:55:20.228Z"
-    },
-    {
-      "query": "anthropic claude pricing accenture memo",
-      "entity": "anthropic",
-      "entityDisplayName": "Anthropic / Claude",
-      "category": "大语言模型与代码助手",
-      "value": 4300,
-      "formattedGrowth": "+4,300%",
-      "isBreakout": false,
-      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "museai",
@@ -72868,6 +72989,17 @@
       "fetchedAt": "2026-10-18T00:30:13.094Z"
     },
     {
+      "query": "what is a 401k",
+      "entity": "ai voice",
+      "entityDisplayName": "AI 声音与配音克隆",
+      "category": "AI音频与音乐",
+      "value": 4050,
+      "formattedGrowth": "+4,050%",
+      "isBreakout": false,
+      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "substitute brides animal whispering saved a disabled tycoon",
       "entity": "tycoon",
       "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
@@ -72877,6 +73009,17 @@
       "isBreakout": false,
       "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
       "fetchedAt": "2026-10-08T03:34:59.161Z"
+    },
+    {
+      "query": "war tycoon wiki",
+      "entity": "tycoon",
+      "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
+      "category": "出海B2C与社媒神器",
+      "value": 4000,
+      "formattedGrowth": "+4,000%",
+      "isBreakout": false,
+      "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "claude duet",
@@ -72934,17 +73077,6 @@
       "fetchedAt": "2026-10-18T00:30:13.094Z"
     },
     {
-      "query": "what is a 401k",
-      "entity": "ai voice",
-      "entityDisplayName": "AI 声音与配音克隆",
-      "category": "AI音频与音乐",
-      "value": 3800,
-      "formattedGrowth": "+3,800%",
-      "isBreakout": false,
-      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
       "query": "laya",
       "entity": "qwen",
       "entityDisplayName": "阿里通义千问 (Qwen)",
@@ -72978,6 +73110,17 @@
       "fetchedAt": "2026-10-01T00:19:22.549Z"
     },
     {
+      "query": "meta muse wonder ai subscription",
+      "entity": "meta ai",
+      "entityDisplayName": "Meta AI 生态",
+      "category": "大语言模型与代码助手",
+      "value": 3700,
+      "formattedGrowth": "+3,700%",
+      "isBreakout": false,
+      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "gemeni",
       "entity": "notebooklm",
       "entityDisplayName": "Google NotebookLM",
@@ -72998,17 +73141,6 @@
       "isBreakout": false,
       "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
       "fetchedAt": "2026-10-22T03:58:45.099Z"
-    },
-    {
-      "query": "meta global ai developer hackathon",
-      "entity": "meta ai",
-      "entityDisplayName": "Meta AI 生态",
-      "category": "大语言模型与代码助手",
-      "value": 3600,
-      "formattedGrowth": "+3,600%",
-      "isBreakout": false,
-      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
-      "fetchedAt": "2026-10-17T16:56:01.551Z"
     },
     {
       "query": "anthropic ai researcher quits safety concerns",
@@ -73110,6 +73242,17 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
+      "query": "deepseek infra",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 3400,
+      "formattedGrowth": "+3,400%",
+      "isBreakout": false,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "openai sol 6.1",
       "entity": "openai",
       "entityDisplayName": "OpenAI / ChatGPT",
@@ -73154,6 +73297,17 @@
       "fetchedAt": "2026-10-22T03:58:45.099Z"
     },
     {
+      "query": "companies reducing artificial intelligence spending",
+      "entity": "meta ai",
+      "entityDisplayName": "Meta AI 生态",
+      "category": "大语言模型与代码助手",
+      "value": 3250,
+      "formattedGrowth": "+3,250%",
+      "isBreakout": false,
+      "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "garageband",
       "entity": "udio",
       "entityDisplayName": "Udio AI",
@@ -73185,6 +73339,17 @@
       "isBreakout": false,
       "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
       "fetchedAt": "2026-10-22T03:58:45.099Z"
+    },
+    {
+      "query": "does character ai still have a filter",
+      "entity": "ai filter",
+      "entityDisplayName": "AI 滤镜与特效",
+      "category": "AI视频与生图",
+      "value": 3200,
+      "formattedGrowth": "+3,200%",
+      "isBreakout": false,
+      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "military army tycoon codes",
@@ -73240,17 +73405,6 @@
       "isBreakout": false,
       "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
       "fetchedAt": "2026-10-16T02:15:49.111Z"
-    },
-    {
-      "query": "does character ai still have a filter",
-      "entity": "ai filter",
-      "entityDisplayName": "AI 滤镜与特效",
-      "category": "AI视频与生图",
-      "value": 3050,
-      "formattedGrowth": "+3,050%",
-      "isBreakout": false,
-      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "lips of an angel song meaning",
@@ -73429,6 +73583,17 @@
       "fetchedAt": "2026-10-16T02:15:49.111Z"
     },
     {
+      "query": "anime zero roblox codes",
+      "entity": "roblox codes",
+      "entityDisplayName": "Roblox 兑换码生态 (Codes)",
+      "category": "小游戏与泛娱乐",
+      "value": 2800,
+      "formattedGrowth": "+2,800%",
+      "isBreakout": false,
+      "suggestedActionType": "Roblox 实时兑换码聚合页 / 游戏维基导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "muse ai agent",
       "entity": "meta ai",
       "entityDisplayName": "Meta AI 生态",
@@ -73504,17 +73669,6 @@
       "isBreakout": false,
       "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
       "fetchedAt": "2026-10-17T16:56:01.551Z"
-    },
-    {
-      "query": "anime zero roblox codes",
-      "entity": "roblox codes",
-      "entityDisplayName": "Roblox 兑换码生态 (Codes)",
-      "category": "小游戏与泛娱乐",
-      "value": 2500,
-      "formattedGrowth": "+2,500%",
-      "isBreakout": false,
-      "suggestedActionType": "Roblox 实时兑换码聚合页 / 游戏维基导航",
-      "fetchedAt": "2026-10-16T19:27:54.567Z"
     },
     {
       "query": "drill to earth's core roblox codes",
@@ -73671,6 +73825,17 @@
       "fetchedAt": "2026-10-17T16:56:01.551Z"
     },
     {
+      "query": "vampire life codes",
+      "entity": "roblox codes",
+      "entityDisplayName": "Roblox 兑换码生态 (Codes)",
+      "category": "小游戏与泛娱乐",
+      "value": 2300,
+      "formattedGrowth": "+2,300%",
+      "isBreakout": false,
+      "suggestedActionType": "Roblox 实时兑换码聚合页 / 游戏维基导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "claude ai dna enzyme finding",
       "entity": "claude",
       "entityDisplayName": "Claude",
@@ -73713,6 +73878,17 @@
       "isBreakout": false,
       "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
       "fetchedAt": "2026-10-19T12:38:14.342Z"
+    },
+    {
+      "query": "minimax 3.1 flash",
+      "entity": "minimax",
+      "entityDisplayName": "MiniMax (海螺AI)",
+      "category": "AI视频与生图",
+      "value": 2250,
+      "formattedGrowth": "+2,250%",
+      "isBreakout": false,
+      "suggestedActionType": "视频生成提示词工具 / 声音克隆展示单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "openai autonomous agents security breaches",
@@ -73801,6 +73977,17 @@
       "isBreakout": false,
       "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
       "fetchedAt": "2026-10-18T00:30:13.094Z"
+    },
+    {
+      "query": "claude duet app",
+      "entity": "claude",
+      "entityDisplayName": "Claude",
+      "category": "大语言模型与代码助手",
+      "value": 2100,
+      "formattedGrowth": "+2,100%",
+      "isBreakout": false,
+      "suggestedActionType": "Claude 效率插件与格式转换工具",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "kimi wa shuumatsu",
@@ -73990,17 +74177,6 @@
       "fetchedAt": "2026-09-30T13:46:30.776Z"
     },
     {
-      "query": "war tycoon wiki",
-      "entity": "tycoon",
-      "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
-      "category": "出海B2C与社媒神器",
-      "value": 1650,
-      "formattedGrowth": "+1,650%",
-      "isBreakout": false,
-      "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
-      "fetchedAt": "2026-10-18T08:43:16.519Z"
-    },
-    {
       "query": "command an army codes roblox",
       "entity": "roblox codes",
       "entityDisplayName": "Roblox 兑换码生态 (Codes)",
@@ -74032,17 +74208,6 @@
       "isBreakout": false,
       "suggestedActionType": "即梦/Seedance 工作流与爆款运镜提示词库",
       "fetchedAt": "2026-10-17T23:53:02.849Z"
-    },
-    {
-      "query": "minimax 3.1 flash",
-      "entity": "minimax",
-      "entityDisplayName": "MiniMax (海螺AI)",
-      "category": "AI视频与生图",
-      "value": 1600,
-      "formattedGrowth": "+1,600%",
-      "isBreakout": false,
-      "suggestedActionType": "视频生成提示词工具 / 声音克隆展示单页",
-      "fetchedAt": "2026-10-21T23:06:39.372Z"
     },
     {
       "query": "command an army roblox",
@@ -74120,6 +74285,17 @@
       "isBreakout": false,
       "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
       "fetchedAt": "2026-10-01T04:24:50.606Z"
+    },
+    {
+      "query": "claude duet anthropic",
+      "entity": "claude",
+      "entityDisplayName": "Claude",
+      "category": "大语言模型与代码助手",
+      "value": 1400,
+      "formattedGrowth": "+1,400%",
+      "isBreakout": false,
+      "suggestedActionType": "Claude 效率插件与格式转换工具",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "claude unable to authenticate",
@@ -74285,17 +74461,6 @@
       "isBreakout": false,
       "suggestedActionType": "Claude 效率插件与格式转换工具",
       "fetchedAt": "2026-10-10T03:21:51.752Z"
-    },
-    {
-      "query": "claude duet anthropic",
-      "entity": "claude",
-      "entityDisplayName": "Claude",
-      "category": "大语言模型与代码助手",
-      "value": 1200,
-      "formattedGrowth": "+1,200%",
-      "isBreakout": false,
-      "suggestedActionType": "Claude 效率插件与格式转换工具",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "skinny mirror",
@@ -74705,7 +74870,7 @@
       "fetchedAt": "2026-10-21T23:06:39.372Z"
     },
     {
-      "query": "claude duet app",
+      "query": "what is claude duet",
       "entity": "claude",
       "entityDisplayName": "Claude",
       "category": "大语言模型与代码助手",
@@ -74713,7 +74878,7 @@
       "formattedGrowth": "+800%",
       "isBreakout": false,
       "suggestedActionType": "Claude 效率插件与格式转换工具",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "minimax h3 max turbo",
@@ -74956,17 +75121,6 @@
       "isBreakout": false,
       "suggestedActionType": ".cursorrules 一键生成器 / BYOK 配置与 API 代理导航",
       "fetchedAt": "2026-10-21T23:06:39.372Z"
-    },
-    {
-      "query": "what is claude duet",
-      "entity": "claude",
-      "entityDisplayName": "Claude",
-      "category": "大语言模型与代码助手",
-      "value": 650,
-      "formattedGrowth": "+650%",
-      "isBreakout": false,
-      "suggestedActionType": "Claude 效率插件与格式转换工具",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
       "query": "mcode",
@@ -75992,6 +76146,17 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
+      "query": "higgsfield virality predictor",
+      "entity": "higgsfield",
+      "entityDisplayName": "Higgsfield AI",
+      "category": "AI视频与生图",
+      "value": 350,
+      "formattedGrowth": "+350%",
+      "isBreakout": false,
+      "suggestedActionType": "爆款镜头风格提示词库 / 免登录极速交付运镜单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "wan ai",
       "entity": "doubao",
       "entityDisplayName": "字节跳动豆包 (Doubao)",
@@ -76243,17 +76408,6 @@
       "isBreakout": false,
       "suggestedActionType": "Pika 特效滤镜预设生成器",
       "fetchedAt": "2026-10-18T08:43:16.519Z"
-    },
-    {
-      "query": "higgsfield virality predictor",
-      "entity": "higgsfield",
-      "entityDisplayName": "Higgsfield AI",
-      "category": "AI视频与生图",
-      "value": 300,
-      "formattedGrowth": "+300%",
-      "isBreakout": false,
-      "suggestedActionType": "爆款镜头风格提示词库 / 免登录极速交付运镜单页",
-      "fetchedAt": "2026-10-18T13:51:18.428Z"
     },
     {
       "query": "vidu ai gratis",
@@ -76872,6 +77026,39 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
+      "query": "crushon ai",
+      "entity": "ai filter",
+      "entityDisplayName": "AI 滤镜与特效",
+      "category": "AI视频与生图",
+      "value": 250,
+      "formattedGrowth": "+250%",
+      "isBreakout": false,
+      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "viral ai dance video",
+      "entity": "ai dance",
+      "entityDisplayName": "AI 舞蹈与动作驱动",
+      "category": "AI视频与生图",
+      "value": 250,
+      "formattedGrowth": "+250%",
+      "isBreakout": false,
+      "suggestedActionType": "动作模板生成器 / 绿幕跳舞素材导出",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "anthropic git",
+      "entity": "anthropic",
+      "entityDisplayName": "Anthropic / Claude",
+      "category": "大语言模型与代码助手",
+      "value": 250,
+      "formattedGrowth": "+250%",
+      "isBreakout": false,
+      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "qwen 3.8 next",
       "entity": "qwen",
       "entityDisplayName": "阿里通义千问 (Qwen)",
@@ -77257,28 +77444,6 @@
       "fetchedAt": "2026-10-19T12:38:14.342Z"
     },
     {
-      "query": "crushon ai",
-      "entity": "ai filter",
-      "entityDisplayName": "AI 滤镜与特效",
-      "category": "AI视频与生图",
-      "value": 200,
-      "formattedGrowth": "+200%",
-      "isBreakout": false,
-      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
-      "fetchedAt": "2026-10-20T04:10:00.525Z"
-    },
-    {
-      "query": "viral ai dance video",
-      "entity": "ai dance",
-      "entityDisplayName": "AI 舞蹈与动作驱动",
-      "category": "AI视频与生图",
-      "value": 200,
-      "formattedGrowth": "+200%",
-      "isBreakout": false,
-      "suggestedActionType": "动作模板生成器 / 绿幕跳舞素材导出",
-      "fetchedAt": "2026-10-20T04:10:00.525Z"
-    },
-    {
       "query": "george russell age",
       "entity": "kimi",
       "entityDisplayName": "月之暗面 (Kimi / Moonshot)",
@@ -77323,17 +77488,6 @@
       "fetchedAt": "2026-10-21T23:06:39.372Z"
     },
     {
-      "query": "anthropic git",
-      "entity": "anthropic",
-      "entityDisplayName": "Anthropic / Claude",
-      "category": "大语言模型与代码助手",
-      "value": 200,
-      "formattedGrowth": "+200%",
-      "isBreakout": false,
-      "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
-      "fetchedAt": "2026-10-22T03:58:45.099Z"
-    },
-    {
       "query": "xai",
       "entity": "cursor ai",
       "entityDisplayName": "Cursor AI",
@@ -77365,6 +77519,39 @@
       "isBreakout": false,
       "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
       "fetchedAt": "2026-10-22T09:21:20.175Z"
+    },
+    {
+      "query": "class lg oled ai b6 4k smart tv",
+      "entity": "ai filter",
+      "entityDisplayName": "AI 滤镜与特效",
+      "category": "AI视频与生图",
+      "value": 200,
+      "formattedGrowth": "+200%",
+      "isBreakout": false,
+      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "lumalabs ai",
+      "entity": "luma ai",
+      "entityDisplayName": "Luma Dream Machine",
+      "category": "AI视频与生图",
+      "value": 200,
+      "formattedGrowth": "+200%",
+      "isBreakout": false,
+      "suggestedActionType": "Luma 相机控制指令生成器 / 爆款作品合集",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "deepseek ban",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 200,
+      "formattedGrowth": "+200%",
+      "isBreakout": false,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "glm",
@@ -78159,17 +78346,6 @@
       "fetchedAt": "2026-10-19T12:38:14.342Z"
     },
     {
-      "query": "class lg oled ai b6 4k smart tv",
-      "entity": "ai filter",
-      "entityDisplayName": "AI 滤镜与特效",
-      "category": "AI视频与生图",
-      "value": 150,
-      "formattedGrowth": "+150%",
-      "isBreakout": false,
-      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
-      "fetchedAt": "2026-10-20T21:25:14.259Z"
-    },
-    {
       "query": "suno ai music downloader",
       "entity": "suno",
       "entityDisplayName": "Suno AI",
@@ -78456,6 +78632,17 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
+      "query": "claude ultracode",
+      "entity": "claude",
+      "entityDisplayName": "Claude",
+      "category": "大语言模型与代码助手",
+      "value": 140,
+      "formattedGrowth": "+140%",
+      "isBreakout": false,
+      "suggestedActionType": "Claude 效率插件与格式转换工具",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "download lagu suno",
       "entity": "suno",
       "entityDisplayName": "Suno AI",
@@ -78621,17 +78808,6 @@
       "fetchedAt": "2026-10-18T00:30:13.094Z"
     },
     {
-      "query": "lumalabs ai",
-      "entity": "luma ai",
-      "entityDisplayName": "Luma Dream Machine",
-      "category": "AI视频与生图",
-      "value": 130,
-      "formattedGrowth": "+130%",
-      "isBreakout": false,
-      "suggestedActionType": "Luma 相机控制指令生成器 / 爆款作品合集",
-      "fetchedAt": "2026-10-18T17:10:31.560Z"
-    },
-    {
       "query": "suno ai song download mp3",
       "entity": "ai song",
       "entityDisplayName": "AI 音乐与歌曲生成",
@@ -78740,6 +78916,17 @@
       "isBreakout": false,
       "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
       "fetchedAt": "2026-10-22T09:21:20.175Z"
+    },
+    {
+      "query": "how to bypass character ai filter",
+      "entity": "ai filter",
+      "entityDisplayName": "AI 滤镜与特效",
+      "category": "AI视频与生图",
+      "value": 130,
+      "formattedGrowth": "+130%",
+      "isBreakout": false,
+      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "microsoft designer",
@@ -79072,6 +79259,39 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
+      "query": "шедеврум",
+      "entity": "midjourney",
+      "entityDisplayName": "Midjourney",
+      "category": "AI视频与生图",
+      "value": 120,
+      "formattedGrowth": "+120%",
+      "isBreakout": false,
+      "suggestedActionType": "Midjourney v6.1 风格调色板 / sref 参数生成器",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "чат гпт",
+      "entity": "midjourney",
+      "entityDisplayName": "Midjourney",
+      "category": "AI视频与生图",
+      "value": 120,
+      "formattedGrowth": "+120%",
+      "isBreakout": false,
+      "suggestedActionType": "Midjourney v6.1 风格调色板 / sref 参数生成器",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "ai chat character no filter",
+      "entity": "ai filter",
+      "entityDisplayName": "AI 滤镜与特效",
+      "category": "AI视频与生图",
+      "value": 120,
+      "formattedGrowth": "+120%",
+      "isBreakout": false,
+      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
       "query": "qwen flash",
       "entity": "qwen",
       "entityDisplayName": "阿里通义千问 (Qwen)",
@@ -79314,17 +79534,6 @@
       "fetchedAt": "2026-10-17T16:56:01.551Z"
     },
     {
-      "query": "claude ultracode",
-      "entity": "claude",
-      "entityDisplayName": "Claude",
-      "category": "大语言模型与代码助手",
-      "value": 110,
-      "formattedGrowth": "+110%",
-      "isBreakout": false,
-      "suggestedActionType": "Claude 效率插件与格式转换工具",
-      "fetchedAt": "2026-10-17T20:20:57.209Z"
-    },
-    {
       "query": "sonauto",
       "entity": "udio",
       "entityDisplayName": "Udio AI",
@@ -79356,17 +79565,6 @@
       "isBreakout": false,
       "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
       "fetchedAt": "2026-10-19T19:44:06.820Z"
-    },
-    {
-      "query": "шедеврум",
-      "entity": "midjourney",
-      "entityDisplayName": "Midjourney",
-      "category": "AI视频与生图",
-      "value": 110,
-      "formattedGrowth": "+110%",
-      "isBreakout": false,
-      "suggestedActionType": "Midjourney v6.1 风格调色板 / sref 参数生成器",
-      "fetchedAt": "2026-10-19T23:28:58.546Z"
     },
     {
       "query": "what is a roth ira",
@@ -79655,15 +79853,15 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "чат гпт",
-      "entity": "midjourney",
-      "entityDisplayName": "Midjourney",
+      "query": "perchance",
+      "entity": "flux ai",
+      "entityDisplayName": "Flux.1",
       "category": "AI视频与生图",
       "value": 100,
       "formattedGrowth": "+100%",
       "isBreakout": false,
-      "suggestedActionType": "Midjourney v6.1 风格调色板 / sref 参数生成器",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
+      "suggestedActionType": "Flux 在线生图 / LoRA 预设与微调参数字典",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "mistral ai vs chatgpt",
@@ -79774,17 +79972,6 @@
       "isBreakout": false,
       "suggestedActionType": "Kimi 提效提示词库 / 长文本助手衍生单页",
       "fetchedAt": "2026-10-12T03:18:27.333Z"
-    },
-    {
-      "query": "perchance",
-      "entity": "flux ai",
-      "entityDisplayName": "Flux.1",
-      "category": "AI视频与生图",
-      "value": 90,
-      "formattedGrowth": "+90%",
-      "isBreakout": false,
-      "suggestedActionType": "Flux 在线生图 / LoRA 预设与微调参数字典",
-      "fetchedAt": "2026-10-13T04:33:30.504Z"
     },
     {
       "query": "how tall is kimi antonelli",
@@ -80027,6 +80214,28 @@
       "isBreakout": false,
       "suggestedActionType": "Claude Artifacts 预览工具 / 系统 Prompts 库",
       "fetchedAt": "2026-10-22T03:58:45.099Z"
+    },
+    {
+      "query": "no filter ai chat",
+      "entity": "ai filter",
+      "entityDisplayName": "AI 滤镜与特效",
+      "category": "AI视频与生图",
+      "value": 90,
+      "formattedGrowth": "+90%",
+      "isBreakout": false,
+      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "deepinfra",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 90,
+      "formattedGrowth": "+90%",
+      "isBreakout": false,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "سایت higgsfield ai",
@@ -80425,17 +80634,6 @@
       "fetchedAt": "2026-10-22T03:58:45.099Z"
     },
     {
-      "query": "no filter ai chat",
-      "entity": "ai filter",
-      "entityDisplayName": "AI 滤镜与特效",
-      "category": "AI视频与生图",
-      "value": 80,
-      "formattedGrowth": "+80%",
-      "isBreakout": false,
-      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
       "query": "where to find sulfur in palworld",
       "entity": "palworld",
       "entityDisplayName": "Palworld (幻兽帕鲁)",
@@ -80478,6 +80676,28 @@
       "isBreakout": false,
       "suggestedActionType": "Claude 效率插件与格式转换工具",
       "fetchedAt": "2026-10-22T09:21:20.175Z"
+    },
+    {
+      "query": "midjourney 官网",
+      "entity": "midjourney",
+      "entityDisplayName": "Midjourney",
+      "category": "AI视频与生图",
+      "value": 80,
+      "formattedGrowth": "+80%",
+      "isBreakout": false,
+      "suggestedActionType": "Midjourney v6.1 风格调色板 / sref 参数生成器",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "deepseek 开源",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 80,
+      "formattedGrowth": "+80%",
+      "isBreakout": false,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "anti ai filter",
@@ -80788,17 +81008,6 @@
       "fetchedAt": "2026-10-17T08:23:53.855Z"
     },
     {
-      "query": "grok ai",
-      "entity": "mistral ai",
-      "entityDisplayName": "Mistral AI",
-      "category": "大语言模型与代码助手",
-      "value": 70,
-      "formattedGrowth": "+70%",
-      "isBreakout": false,
-      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
-      "fetchedAt": "2026-10-17T13:32:33.654Z"
-    },
-    {
       "query": "ace studio",
       "entity": "udio",
       "entityDisplayName": "Udio AI",
@@ -81039,6 +81248,39 @@
       "isBreakout": false,
       "suggestedActionType": "Flux 在线生图 / LoRA 预设与微调参数字典",
       "fetchedAt": "2026-10-22T03:58:45.099Z"
+    },
+    {
+      "query": "flow",
+      "entity": "runway gen-3",
+      "entityDisplayName": "Runway Gen-3",
+      "category": "AI视频与生图",
+      "value": 70,
+      "formattedGrowth": "+70%",
+      "isBreakout": false,
+      "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "play flux ai",
+      "entity": "flux ai",
+      "entityDisplayName": "Flux.1",
+      "category": "AI视频与生图",
+      "value": 70,
+      "formattedGrowth": "+70%",
+      "isBreakout": false,
+      "suggestedActionType": "Flux 在线生图 / LoRA 预设与微调参数字典",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "no filter ai",
+      "entity": "ai filter",
+      "entityDisplayName": "AI 滤镜与特效",
+      "category": "AI视频与生图",
+      "value": 70,
+      "formattedGrowth": "+70%",
+      "isBreakout": false,
+      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "aleph alpha",
@@ -81503,17 +81745,6 @@
       "fetchedAt": "2026-10-17T13:32:33.654Z"
     },
     {
-      "query": "flow",
-      "entity": "runway gen-3",
-      "entityDisplayName": "Runway Gen-3",
-      "category": "AI视频与生图",
-      "value": 60,
-      "formattedGrowth": "+60%",
-      "isBreakout": false,
-      "suggestedActionType": "Runway 笔刷与 Director Mode 提示词导航",
-      "fetchedAt": "2026-10-18T00:30:13.094Z"
-    },
-    {
       "query": "api higgsfield",
       "entity": "higgsfield",
       "entityDisplayName": "Higgsfield AI",
@@ -81778,17 +82009,6 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "midjourney 官网",
-      "entity": "midjourney",
-      "entityDisplayName": "Midjourney",
-      "category": "AI视频与生图",
-      "value": 60,
-      "formattedGrowth": "+60%",
-      "isBreakout": false,
-      "suggestedActionType": "Midjourney v6.1 风格调色板 / sref 参数生成器",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
       "query": "qwen 4 27b",
       "entity": "qwen",
       "entityDisplayName": "阿里通义千问 (Qwen)",
@@ -81811,15 +82031,48 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "play flux ai",
-      "entity": "flux ai",
-      "entityDisplayName": "Flux.1",
+      "query": "open higgsfield ai github",
+      "entity": "higgsfield",
+      "entityDisplayName": "Higgsfield AI",
       "category": "AI视频与生图",
       "value": 60,
       "formattedGrowth": "+60%",
       "isBreakout": false,
-      "suggestedActionType": "Flux 在线生图 / LoRA 预设与微调参数字典",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
+      "suggestedActionType": "爆款镜头风格提示词库 / 免登录极速交付运镜单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "minimax voice clone",
+      "entity": "minimax",
+      "entityDisplayName": "MiniMax (海螺AI)",
+      "category": "AI视频与生图",
+      "value": 60,
+      "formattedGrowth": "+60%",
+      "isBreakout": false,
+      "suggestedActionType": "视频生成提示词工具 / 声音克隆展示单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "open ai",
+      "entity": "mistral ai",
+      "entityDisplayName": "Mistral AI",
+      "category": "大语言模型与代码助手",
+      "value": 60,
+      "formattedGrowth": "+60%",
+      "isBreakout": false,
+      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "kimi ga suki",
+      "entity": "kimi",
+      "entityDisplayName": "月之暗面 (Kimi / Moonshot)",
+      "category": "大语言模型与代码助手",
+      "value": 60,
+      "formattedGrowth": "+60%",
+      "isBreakout": false,
+      "suggestedActionType": "Kimi 提效提示词库 / 长文本助手衍生单页",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "palworld steam",
@@ -82339,17 +82592,6 @@
       "fetchedAt": "2026-10-16T02:15:49.111Z"
     },
     {
-      "query": "no filter ai",
-      "entity": "ai filter",
-      "entityDisplayName": "AI 滤镜与特效",
-      "category": "AI视频与生图",
-      "value": 50,
-      "formattedGrowth": "+50%",
-      "isBreakout": false,
-      "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
-      "fetchedAt": "2026-10-16T19:27:54.567Z"
-    },
-    {
       "query": "fastest flying mounts palworld",
       "entity": "palworld",
       "entityDisplayName": "Palworld (幻兽帕鲁)",
@@ -82647,29 +82889,7 @@
       "fetchedAt": "2026-10-21T23:06:39.372Z"
     },
     {
-      "query": "open higgsfield ai github",
-      "entity": "higgsfield",
-      "entityDisplayName": "Higgsfield AI",
-      "category": "AI视频与生图",
-      "value": 50,
-      "formattedGrowth": "+50%",
-      "isBreakout": false,
-      "suggestedActionType": "爆款镜头风格提示词库 / 免登录极速交付运镜单页",
-      "fetchedAt": "2026-10-21T23:06:39.372Z"
-    },
-    {
       "query": "seadance",
-      "entity": "seedance",
-      "entityDisplayName": "即梦 (Seedance / Dreamina)",
-      "category": "AI视频与生图",
-      "value": 50,
-      "formattedGrowth": "+50%",
-      "isBreakout": false,
-      "suggestedActionType": "即梦/Seedance 工作流与爆款运镜提示词库",
-      "fetchedAt": "2026-10-22T03:58:45.099Z"
-    },
-    {
-      "query": "invideo",
       "entity": "seedance",
       "entityDisplayName": "即梦 (Seedance / Dreamina)",
       "category": "AI视频与生图",
@@ -82810,6 +83030,39 @@
       "isBreakout": false,
       "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
       "fetchedAt": "2026-10-22T09:21:20.175Z"
+    },
+    {
+      "query": "deepseek harness 插件",
+      "entity": "deepseek",
+      "entityDisplayName": "DeepSeek",
+      "category": "大语言模型与代码助手",
+      "value": 50,
+      "formattedGrowth": "+50%",
+      "isBreakout": false,
+      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "free ai voice generator text to speech",
+      "entity": "ai voice",
+      "entityDisplayName": "AI 声音与配音克隆",
+      "category": "AI音频与音乐",
+      "value": 50,
+      "formattedGrowth": "+50%",
+      "isBreakout": false,
+      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
+    },
+    {
+      "query": "google studio ai voice generator",
+      "entity": "ai voice",
+      "entityDisplayName": "AI 声音与配音克隆",
+      "category": "AI音频与音乐",
+      "value": 50,
+      "formattedGrowth": "+50%",
+      "isBreakout": false,
+      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     },
     {
       "query": "meta ads",
@@ -83274,17 +83527,6 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "deepseek harness 插件",
-      "entity": "deepseek",
-      "entityDisplayName": "DeepSeek",
-      "category": "大语言模型与代码助手",
-      "value": 40,
-      "formattedGrowth": "+40%",
-      "isBreakout": false,
-      "suggestedActionType": "DeepSeek API 价格计算器 / 格式转换中间件",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
       "query": "palworld final boss",
       "entity": "palworld",
       "entityDisplayName": "Palworld (幻兽帕鲁)",
@@ -83307,26 +83549,15 @@
       "fetchedAt": "2026-10-22T09:21:20.175Z"
     },
     {
-      "query": "free ai voice generator text to speech",
-      "entity": "ai voice",
-      "entityDisplayName": "AI 声音与配音克隆",
-      "category": "AI音频与音乐",
+      "query": "free ai dance video generator",
+      "entity": "ai dance",
+      "entityDisplayName": "AI 舞蹈与动作驱动",
+      "category": "AI视频与生图",
       "value": 40,
       "formattedGrowth": "+40%",
       "isBreakout": false,
-      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
-    },
-    {
-      "query": "google studio ai voice generator",
-      "entity": "ai voice",
-      "entityDisplayName": "AI 声音与配音克隆",
-      "category": "AI音频与音乐",
-      "value": 40,
-      "formattedGrowth": "+40%",
-      "isBreakout": false,
-      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
-      "fetchedAt": "2026-10-22T09:21:20.175Z"
+      "suggestedActionType": "动作模板生成器 / 绿幕跳舞素材导出",
+      "fetchedAt": "2026-10-22T14:58:29.578Z"
     }
   ]
 }
