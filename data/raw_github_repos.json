@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/23 12:01:21",
-  "total_repos": 580,
+  "fetched_at": "2026/10/23 19:16:05",
+  "total_repos": 584,
   "repos": [
     {
       "id": 1425658028,
@@ -522,6 +522,41 @@
       "pushed_at": "2026-10-17T13:54:23Z"
     },
     {
+      "id": 1425063138,
+      "name": "opentrap",
+      "full_name": "opentrap/opentrap",
+      "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
+      "html_url": "https://github.com/opentrap/opentrap",
+      "homepage": "https://opentrap.github.io/opentrap",
+      "stars": 439,
+      "forks": 5,
+      "language": "Java",
+      "topics": [
+        "application-security",
+        "appsec",
+        "bug-bounty",
+        "burp-alternative",
+        "burp-suite",
+        "dast",
+        "http-proxy",
+        "infosec",
+        "intercepting-proxy",
+        "java",
+        "owasp",
+        "owasp-zap",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "vulnerability-scanner",
+        "web-application-security",
+        "web-security"
+      ],
+      "created_at": "2026-10-19T03:29:08Z",
+      "updated_at": "2026-10-23T11:02:41Z",
+      "pushed_at": "2026-10-22T02:31:34Z"
+    },
+    {
       "id": 1416828644,
       "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
       "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
@@ -547,6 +582,21 @@
       "pushed_at": "2026-10-18T06:48:08Z"
     },
     {
+      "id": 1424201691,
+      "name": "nanoui",
+      "full_name": "justrach/nanoui",
+      "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
+      "html_url": "https://github.com/justrach/nanoui",
+      "homepage": null,
+      "stars": 428,
+      "forks": 15,
+      "language": "Zig",
+      "topics": [],
+      "created_at": "2026-10-18T09:27:46Z",
+      "updated_at": "2026-10-23T09:50:47Z",
+      "pushed_at": "2026-10-23T09:38:18Z"
+    },
+    {
       "id": 1425938162,
       "name": "ai-jailbreaks",
       "full_name": "AndreSzymanski15/ai-jailbreaks",
@@ -570,19 +620,19 @@
       "pushed_at": "2026-10-19T17:20:03Z"
     },
     {
-      "id": 1424201691,
-      "name": "nanoui",
-      "full_name": "justrach/nanoui",
-      "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
-      "html_url": "https://github.com/justrach/nanoui",
+      "id": 1423410732,
+      "name": "a7c2-fl23-research",
+      "full_name": "QAQLeonard/a7c2-fl23-research",
+      "description": "Desktop tool for Sony A7C II (ILCE-7CM2) firmware 2.01: one-click FL2/FL3, custom Creative Looks (LUT/DCP), electronic shutter sound, Vertical Display and factory restore. Windows/macOS. | Sony A7C II 固件 2.01 桌面工具：一键安装 FL2/FL3、自定义创意外观、电子快门声、竖屏显示，并可一键恢复原厂。",
+      "html_url": "https://github.com/QAQLeonard/a7c2-fl23-research",
       "homepage": null,
-      "stars": 424,
-      "forks": 14,
-      "language": "Zig",
+      "stars": 420,
+      "forks": 64,
+      "language": "Python",
       "topics": [],
-      "created_at": "2026-10-18T09:27:46Z",
-      "updated_at": "2026-10-23T01:45:02Z",
-      "pushed_at": "2026-10-22T06:55:03Z"
+      "created_at": "2026-10-17T14:25:48Z",
+      "updated_at": "2026-10-23T11:02:21Z",
+      "pushed_at": "2026-10-23T10:19:08Z"
     },
     {
       "id": 1397016507,
@@ -905,41 +955,6 @@
       "pushed_at": "2026-10-05T20:31:48Z"
     },
     {
-      "id": 1425063138,
-      "name": "opentrap",
-      "full_name": "opentrap/opentrap",
-      "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
-      "html_url": "https://github.com/opentrap/opentrap",
-      "homepage": "https://opentrap.github.io/opentrap",
-      "stars": 392,
-      "forks": 5,
-      "language": "Java",
-      "topics": [
-        "application-security",
-        "appsec",
-        "bug-bounty",
-        "burp-alternative",
-        "burp-suite",
-        "dast",
-        "http-proxy",
-        "infosec",
-        "intercepting-proxy",
-        "java",
-        "owasp",
-        "owasp-zap",
-        "penetration-testing",
-        "pentesting",
-        "security",
-        "security-tools",
-        "vulnerability-scanner",
-        "web-application-security",
-        "web-security"
-      ],
-      "created_at": "2026-10-19T03:29:08Z",
-      "updated_at": "2026-10-23T03:38:45Z",
-      "pushed_at": "2026-10-22T02:31:34Z"
-    },
-    {
       "id": 1397599794,
       "name": "livecanvas",
       "full_name": "pengchujin/livecanvas",
@@ -1069,19 +1084,27 @@
       "pushed_at": "2026-10-18T18:57:02Z"
     },
     {
-      "id": 1423410732,
-      "name": "a7c2-fl23-research",
-      "full_name": "QAQLeonard/a7c2-fl23-research",
-      "description": "Desktop tool for Sony A7C II (ILCE-7CM2) firmware 2.01: one-click FL2/FL3, custom Creative Looks (LUT/DCP), electronic shutter sound, Vertical Display and factory restore. Windows/macOS. | Sony A7C II 固件 2.01 桌面工具：一键安装 FL2/FL3、自定义创意外观、电子快门声、竖屏显示，并可一键恢复原厂。",
-      "html_url": "https://github.com/QAQLeonard/a7c2-fl23-research",
+      "id": 1428519987,
+      "name": "ai-jailbreaks",
+      "full_name": "Alejandros17487/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
       "homepage": null,
       "stars": 369,
-      "forks": 51,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-17T14:25:48Z",
-      "updated_at": "2026-10-23T03:54:58Z",
-      "pushed_at": "2026-10-22T23:09:05Z"
+      "forks": 62,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy",
+        "safety",
+        "security"
+      ],
+      "created_at": "2026-10-21T14:44:06Z",
+      "updated_at": "2026-10-23T11:14:33Z",
+      "pushed_at": "2026-10-21T14:49:16Z"
     },
     {
       "id": 1375530874,
@@ -1100,6 +1123,21 @@
       "created_at": "2026-09-18T07:28:36Z",
       "updated_at": "2026-09-24T04:15:16Z",
       "pushed_at": "2026-09-24T03:51:47Z"
+    },
+    {
+      "id": 1425306307,
+      "name": "ai-live-avatar",
+      "full_name": "garycaogan/ai-live-avatar",
+      "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+      "html_url": "https://github.com/garycaogan/ai-live-avatar",
+      "homepage": null,
+      "stars": 339,
+      "forks": 98,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-19T08:10:48Z",
+      "updated_at": "2026-10-23T09:29:24Z",
+      "pushed_at": "2026-10-19T13:47:28Z"
     },
     {
       "id": 1412143785,
@@ -1122,44 +1160,6 @@
       "created_at": "2026-10-09T16:28:47Z",
       "updated_at": "2026-10-15T12:29:39Z",
       "pushed_at": "2026-10-10T05:18:23Z"
-    },
-    {
-      "id": 1425306307,
-      "name": "ai-live-avatar",
-      "full_name": "garycaogan/ai-live-avatar",
-      "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "html_url": "https://github.com/garycaogan/ai-live-avatar",
-      "homepage": null,
-      "stars": 335,
-      "forks": 98,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-19T08:10:48Z",
-      "updated_at": "2026-10-23T03:34:43Z",
-      "pushed_at": "2026-10-19T13:47:28Z"
-    },
-    {
-      "id": 1428519987,
-      "name": "ai-jailbreaks",
-      "full_name": "Alejandros17487/ai-jailbreaks",
-      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
-      "homepage": null,
-      "stars": 334,
-      "forks": 54,
-      "language": null,
-      "topics": [
-        "ai",
-        "ai-safety",
-        "jailbreak",
-        "jailbreaking",
-        "privacy",
-        "safety",
-        "security"
-      ],
-      "created_at": "2026-10-21T14:44:06Z",
-      "updated_at": "2026-10-23T03:25:49Z",
-      "pushed_at": "2026-10-21T14:49:16Z"
     },
     {
       "id": 1414415721,
@@ -1554,6 +1554,47 @@
       "pushed_at": "2026-10-16T22:12:58Z"
     },
     {
+      "id": 1425296336,
+      "name": "ascii-magic-art",
+      "full_name": "kailashsr38/ascii-magic-art",
+      "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
+      "html_url": "https://github.com/kailashsr38/ascii-magic-art",
+      "homepage": "https://www.ascii-magic.com/ascii",
+      "stars": 284,
+      "forks": 8,
+      "language": "JavaScript",
+      "topics": [
+        "animation",
+        "ascii",
+        "ascii-art",
+        "cli",
+        "generative-art",
+        "npx",
+        "readme",
+        "terminal",
+        "wallpaper",
+        "web-components"
+      ],
+      "created_at": "2026-10-19T08:00:49Z",
+      "updated_at": "2026-10-23T10:38:00Z",
+      "pushed_at": "2026-10-19T11:32:11Z"
+    },
+    {
+      "id": 1427744908,
+      "name": "ATBGamePort",
+      "full_name": "atbfun/ATBGamePort",
+      "description": "Transplant all the games to the web platform",
+      "html_url": "https://github.com/atbfun/ATBGamePort",
+      "homepage": null,
+      "stars": 281,
+      "forks": 58,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-21T01:29:33Z",
+      "updated_at": "2026-10-23T11:08:19Z",
+      "pushed_at": "2026-10-22T23:33:10Z"
+    },
+    {
       "id": 1375594818,
       "name": "desktop-habitats",
       "full_name": "chaseleantj/desktop-habitats",
@@ -1594,32 +1635,6 @@
       "pushed_at": "2026-10-08T13:21:09Z"
     },
     {
-      "id": 1425296336,
-      "name": "ascii-magic-art",
-      "full_name": "kailashsr38/ascii-magic-art",
-      "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
-      "html_url": "https://github.com/kailashsr38/ascii-magic-art",
-      "homepage": "https://www.ascii-magic.com/ascii",
-      "stars": 275,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [
-        "animation",
-        "ascii",
-        "ascii-art",
-        "cli",
-        "generative-art",
-        "npx",
-        "readme",
-        "terminal",
-        "wallpaper",
-        "web-components"
-      ],
-      "created_at": "2026-10-19T08:00:49Z",
-      "updated_at": "2026-10-23T03:56:02Z",
-      "pushed_at": "2026-10-19T11:32:11Z"
-    },
-    {
       "id": 1390994799,
       "name": "CalcKernel",
       "full_name": "luxine/CalcKernel",
@@ -1640,19 +1655,19 @@
       "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
-      "id": 1427744908,
-      "name": "ATBGamePort",
-      "full_name": "atbfun/ATBGamePort",
-      "description": "Transplant all the games to the web platform",
-      "html_url": "https://github.com/atbfun/ATBGamePort",
+      "id": 1425307403,
+      "name": "webos-vibehack",
+      "full_name": "OmkarK97/webos-vibehack",
+      "description": "Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack",
+      "html_url": "https://github.com/OmkarK97/webos-vibehack",
       "homepage": null,
-      "stars": 260,
-      "forks": 56,
-      "language": "Python",
+      "stars": 257,
+      "forks": 35,
+      "language": "JavaScript",
       "topics": [],
-      "created_at": "2026-10-21T01:29:33Z",
-      "updated_at": "2026-10-23T04:00:45Z",
-      "pushed_at": "2026-10-22T23:33:10Z"
+      "created_at": "2026-10-19T08:11:45Z",
+      "updated_at": "2026-10-23T08:29:42Z",
+      "pushed_at": "2026-10-19T08:11:51Z"
     },
     {
       "id": 1423660177,
@@ -1765,21 +1780,6 @@
       "created_at": "2026-10-17T19:15:06Z",
       "updated_at": "2026-10-22T02:56:19Z",
       "pushed_at": "2026-10-17T19:15:12Z"
-    },
-    {
-      "id": 1425307403,
-      "name": "webos-vibehack",
-      "full_name": "OmkarK97/webos-vibehack",
-      "description": "Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack",
-      "html_url": "https://github.com/OmkarK97/webos-vibehack",
-      "homepage": null,
-      "stars": 252,
-      "forks": 35,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-19T08:11:45Z",
-      "updated_at": "2026-10-23T02:12:38Z",
-      "pushed_at": "2026-10-19T08:11:51Z"
     },
     {
       "id": 1423661159,
@@ -2253,6 +2253,27 @@
       "pushed_at": "2026-10-02T04:15:42Z"
     },
     {
+      "id": 1424555473,
+      "name": "plugin-interior",
+      "full_name": "img2threejs/plugin-interior",
+      "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
+      "html_url": "https://github.com/img2threejs/plugin-interior",
+      "homepage": "https://img2threejs.io/",
+      "stars": 202,
+      "forks": 21,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "blender",
+        "img2plugin",
+        "img2threejs",
+        "img2x"
+      ],
+      "created_at": "2026-10-18T16:02:27Z",
+      "updated_at": "2026-10-23T09:33:56Z",
+      "pushed_at": "2026-10-19T15:18:07Z"
+    },
+    {
       "id": 1402294171,
       "name": "Ashampoo-Uninstaller",
       "full_name": "cpuassociateradial/Ashampoo-Uninstaller",
@@ -2397,27 +2418,6 @@
       "created_at": "2026-10-09T13:57:07Z",
       "updated_at": "2026-10-09T18:27:18Z",
       "pushed_at": "2026-10-09T13:57:13Z"
-    },
-    {
-      "id": 1424555473,
-      "name": "plugin-interior",
-      "full_name": "img2threejs/plugin-interior",
-      "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
-      "html_url": "https://github.com/img2threejs/plugin-interior",
-      "homepage": "https://img2threejs.io/",
-      "stars": 199,
-      "forks": 21,
-      "language": "Python",
-      "topics": [
-        "3d",
-        "blender",
-        "img2plugin",
-        "img2threejs",
-        "img2x"
-      ],
-      "created_at": "2026-10-18T16:02:27Z",
-      "updated_at": "2026-10-23T02:35:27Z",
-      "pushed_at": "2026-10-19T15:18:07Z"
     },
     {
       "id": 1411918476,
@@ -2625,6 +2625,28 @@
       "created_at": "2026-10-15T23:37:25Z",
       "updated_at": "2026-10-21T16:11:23Z",
       "pushed_at": "2026-10-16T10:03:49Z"
+    },
+    {
+      "id": 1427344613,
+      "name": "quiet-tizen",
+      "full_name": "jss8649/quiet-tizen",
+      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
+      "html_url": "https://github.com/jss8649/quiet-tizen",
+      "homepage": null,
+      "stars": 190,
+      "forks": 23,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "debloat",
+        "launcher",
+        "samsung-tv",
+        "smart-tv",
+        "tizen"
+      ],
+      "created_at": "2026-10-20T17:23:41Z",
+      "updated_at": "2026-10-23T11:15:49Z",
+      "pushed_at": "2026-10-20T17:24:38Z"
     },
     {
       "id": 1375641268,
@@ -2923,6 +2945,21 @@
       "pushed_at": "2026-10-20T12:45:47Z"
     },
     {
+      "id": 1426280410,
+      "name": "FreeMyTvWebOS",
+      "full_name": "danielthejoker18/FreeMyTvWebOS",
+      "description": "",
+      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
+      "homepage": null,
+      "stars": 165,
+      "forks": 21,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-19T23:20:22Z",
+      "updated_at": "2026-10-23T11:10:38Z",
+      "pushed_at": "2026-10-23T00:00:14Z"
+    },
+    {
       "id": 1425227613,
       "name": "Lampline",
       "full_name": "C4rohan/Lampline",
@@ -3045,21 +3082,6 @@
       "pushed_at": "2026-10-02T22:28:26Z"
     },
     {
-      "id": 1426280410,
-      "name": "FreeMyTvWebOS",
-      "full_name": "danielthejoker18/FreeMyTvWebOS",
-      "description": "",
-      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
-      "homepage": null,
-      "stars": 159,
-      "forks": 20,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-19T23:20:22Z",
-      "updated_at": "2026-10-23T02:41:37Z",
-      "pushed_at": "2026-10-23T00:00:14Z"
-    },
-    {
       "id": 1400877599,
       "name": "ArkWeb",
       "full_name": "luki-1/ArkWeb",
@@ -3127,7 +3149,7 @@
       "html_url": "https://github.com/7API/glm-5.3-abliterated",
       "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
       "stars": 155,
-      "forks": 35,
+      "forks": 36,
       "language": null,
       "topics": [
         "abliterated",
@@ -3152,8 +3174,8 @@
         "zhipu"
       ],
       "created_at": "2026-10-22T16:07:16Z",
-      "updated_at": "2026-10-23T01:21:00Z",
-      "pushed_at": "2026-10-22T16:32:01Z"
+      "updated_at": "2026-10-23T06:24:17Z",
+      "pushed_at": "2026-10-23T06:24:13Z"
     },
     {
       "id": 1375327232,
@@ -3291,12 +3313,27 @@
       "html_url": "https://github.com/browser-use/rl-env-use",
       "homepage": null,
       "stars": 146,
-      "forks": 8,
+      "forks": 9,
       "language": "HTML",
       "topics": [],
       "created_at": "2026-10-21T04:31:55Z",
       "updated_at": "2026-10-22T23:48:23Z",
       "pushed_at": "2026-10-21T04:32:02Z"
+    },
+    {
+      "id": 1425043515,
+      "name": "smm2recomp",
+      "full_name": "smm2recomp/smm2recomp",
+      "description": "Super Mario Maker 2 Recomp",
+      "html_url": "https://github.com/smm2recomp/smm2recomp",
+      "homepage": null,
+      "stars": 145,
+      "forks": 14,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-19T03:02:41Z",
+      "updated_at": "2026-10-23T11:09:55Z",
+      "pushed_at": "2026-10-23T11:09:51Z"
     },
     {
       "id": 1410815894,
@@ -3314,26 +3351,19 @@
       "pushed_at": "2026-10-09T05:07:24Z"
     },
     {
-      "id": 1427344613,
-      "name": "quiet-tizen",
-      "full_name": "jss8649/quiet-tizen",
-      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
-      "html_url": "https://github.com/jss8649/quiet-tizen",
-      "homepage": null,
+      "id": 1424690809,
+      "name": "Open-Tangerine",
+      "full_name": "sintaxerrorpvtltd/Open-Tangerine",
+      "description": "Free, open-source local file converter. Native macOS app + early Windows/Linux desktop edition. Batch images, PDFs and optional FFmpeg media. GPLv3.",
+      "html_url": "https://github.com/sintaxerrorpvtltd/Open-Tangerine",
+      "homepage": "https://sintaxerrorpvtltd.github.io/Open-Tangerine/",
       "stars": 142,
-      "forks": 18,
-      "language": "Python",
-      "topics": [
-        "codex",
-        "debloat",
-        "launcher",
-        "samsung-tv",
-        "smart-tv",
-        "tizen"
-      ],
-      "created_at": "2026-10-20T17:23:41Z",
-      "updated_at": "2026-10-23T03:59:12Z",
-      "pushed_at": "2026-10-20T17:24:38Z"
+      "forks": 21,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-10-18T18:32:15Z",
+      "updated_at": "2026-10-23T08:17:43Z",
+      "pushed_at": "2026-10-22T11:59:39Z"
     },
     {
       "id": 1403810477,
@@ -3411,21 +3441,6 @@
       "pushed_at": "2026-10-07T12:31:10Z"
     },
     {
-      "id": 1424690809,
-      "name": "Open-Tangerine",
-      "full_name": "sintaxerrorpvtltd/Open-Tangerine",
-      "description": "Free, open-source local file converter. Native macOS app + early Windows/Linux desktop edition. Batch images, PDFs and optional FFmpeg media. GPLv3.",
-      "html_url": "https://github.com/sintaxerrorpvtltd/Open-Tangerine",
-      "homepage": "https://sintaxerrorpvtltd.github.io/Open-Tangerine/",
-      "stars": 141,
-      "forks": 21,
-      "language": "Swift",
-      "topics": [],
-      "created_at": "2026-10-18T18:32:15Z",
-      "updated_at": "2026-10-23T03:49:37Z",
-      "pushed_at": "2026-10-22T11:59:39Z"
-    },
-    {
       "id": 1378060456,
       "name": "webctl",
       "full_name": "dorkitude/webctl",
@@ -3454,21 +3469,6 @@
       "created_at": "2026-09-28T05:00:45Z",
       "updated_at": "2026-10-04T15:01:02Z",
       "pushed_at": "2026-09-28T05:04:35Z"
-    },
-    {
-      "id": 1425043515,
-      "name": "smm2recomp",
-      "full_name": "smm2recomp/smm2recomp",
-      "description": "Super Mario Maker 2 Recomp",
-      "html_url": "https://github.com/smm2recomp/smm2recomp",
-      "homepage": null,
-      "stars": 139,
-      "forks": 14,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-19T03:02:41Z",
-      "updated_at": "2026-10-23T02:25:29Z",
-      "pushed_at": "2026-10-23T02:25:26Z"
     },
     {
       "id": 1410111943,
@@ -3507,6 +3507,21 @@
       "created_at": "2026-10-03T17:10:43Z",
       "updated_at": "2026-10-05T02:37:53Z",
       "pushed_at": "2026-10-03T17:16:17Z"
+    },
+    {
+      "id": 1425343979,
+      "name": "nfsu2-web",
+      "full_name": "th0mk/nfsu2-web",
+      "description": "",
+      "html_url": "https://github.com/th0mk/nfsu2-web",
+      "homepage": "https://nfsu2.xyz/",
+      "stars": 134,
+      "forks": 25,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-19T08:47:39Z",
+      "updated_at": "2026-10-23T11:13:16Z",
+      "pushed_at": "2026-10-23T11:13:12Z"
     },
     {
       "id": 1390688516,
@@ -3629,6 +3644,31 @@
       "created_at": "2026-10-18T14:22:44Z",
       "updated_at": "2026-10-22T15:06:18Z",
       "pushed_at": "2026-10-20T08:58:38Z"
+    },
+    {
+      "id": 1427871238,
+      "name": "simple-reviewer-v1",
+      "full_name": "Monopoly0024/simple-reviewer-v1",
+      "description": "Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。",
+      "html_url": "https://github.com/Monopoly0024/simple-reviewer-v1",
+      "homepage": null,
+      "stars": 129,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-assisted-coding",
+        "code-explanation",
+        "code-quality",
+        "code-review",
+        "codex",
+        "codex-skill",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "created_at": "2026-10-21T04:22:59Z",
+      "updated_at": "2026-10-23T10:36:49Z",
+      "pushed_at": "2026-10-23T09:26:21Z"
     },
     {
       "id": 1385750356,
@@ -3887,6 +3927,36 @@
       "pushed_at": "2026-10-19T22:21:50Z"
     },
     {
+      "id": 1429010697,
+      "name": "php2shell",
+      "full_name": "devploit/php2shell",
+      "description": "PHP2Shell: version-aware research toolkit for CVE-2026-109618 / CVE-2026-109619 — pre-auth RCE in PHP session.upload_progress (mod_php). Build profiles, labs, heap calibration and detection guidance for authorized security testing.",
+      "html_url": "https://github.com/devploit/php2shell",
+      "homepage": null,
+      "stars": 122,
+      "forks": 37,
+      "language": "Python",
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "exploit",
+        "mod-php",
+        "penetration-testing",
+        "php",
+        "php-security",
+        "php2shell",
+        "poc",
+        "rce",
+        "red-team",
+        "security-research",
+        "session-upload-progress",
+        "vulnerability-research"
+      ],
+      "created_at": "2026-10-21T22:53:01Z",
+      "updated_at": "2026-10-23T11:08:42Z",
+      "pushed_at": "2026-10-22T11:43:17Z"
+    },
+    {
       "id": 1417978332,
       "name": "hwid-spoofer-toolkit",
       "full_name": "GladiatorSplit/hwid-spoofer-toolkit",
@@ -3943,21 +4013,6 @@
       "pushed_at": "2026-10-12T10:11:18Z"
     },
     {
-      "id": 1425343979,
-      "name": "nfsu2-web",
-      "full_name": "th0mk/nfsu2-web",
-      "description": "",
-      "html_url": "https://github.com/th0mk/nfsu2-web",
-      "homepage": "https://nfsu2.xyz/",
-      "stars": 119,
-      "forks": 20,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-19T08:47:39Z",
-      "updated_at": "2026-10-23T02:20:40Z",
-      "pushed_at": "2026-10-23T02:07:53Z"
-    },
-    {
       "id": 1412679017,
       "name": "qiaomu-cover-fonts",
       "full_name": "joeseesun/qiaomu-cover-fonts",
@@ -3976,6 +4031,31 @@
       "created_at": "2026-10-10T02:48:39Z",
       "updated_at": "2026-10-16T01:30:39Z",
       "pushed_at": "2026-10-10T03:10:04Z"
+    },
+    {
+      "id": 1425332954,
+      "name": "Open-Terraria",
+      "full_name": "SandboxWorldOnline/Open-Terraria",
+      "description": "Terraria 1.4.5.8 Web Rewrite,  using GLM-5.3-Flash and GLM-5.3",
+      "html_url": "https://github.com/SandboxWorldOnline/Open-Terraria",
+      "homepage": "https://sandboxworld.online",
+      "stars": 116,
+      "forks": 44,
+      "language": "TypeScript",
+      "topics": [
+        "ai-coding",
+        "glm",
+        "glm-5-3",
+        "glm-5-3-flash",
+        "terraria",
+        "terraria-1-4-5-8",
+        "terraria-mod",
+        "terraria-web",
+        "vibe-coding"
+      ],
+      "created_at": "2026-10-19T08:36:53Z",
+      "updated_at": "2026-10-23T06:27:32Z",
+      "pushed_at": "2026-10-22T15:25:43Z"
     },
     {
       "id": 1404682975,
@@ -4007,31 +4087,6 @@
       "created_at": "2026-10-04T17:40:27Z",
       "updated_at": "2026-10-10T14:04:09Z",
       "pushed_at": "2026-10-09T22:37:48Z"
-    },
-    {
-      "id": 1425332954,
-      "name": "Open-Terraria",
-      "full_name": "SandboxWorldOnline/Open-Terraria",
-      "description": "Terraria 1.4.5.8 Web Rewrite,  using GLM-5.3-Flash and GLM-5.3",
-      "html_url": "https://github.com/SandboxWorldOnline/Open-Terraria",
-      "homepage": "https://sandboxworld.online",
-      "stars": 115,
-      "forks": 43,
-      "language": "TypeScript",
-      "topics": [
-        "ai-coding",
-        "glm",
-        "glm-5-3",
-        "glm-5-3-flash",
-        "terraria",
-        "terraria-1-4-5-8",
-        "terraria-mod",
-        "terraria-web",
-        "vibe-coding"
-      ],
-      "created_at": "2026-10-19T08:36:53Z",
-      "updated_at": "2026-10-22T15:08:52Z",
-      "pushed_at": "2026-10-22T15:25:43Z"
     },
     {
       "id": 1380729698,
@@ -4348,6 +4403,21 @@
       "pushed_at": "2026-10-23T03:42:24Z"
     },
     {
+      "id": 1423167784,
+      "name": "process-watcher",
+      "full_name": "Neo23x0/process-watcher",
+      "description": "A process monitoring tool that tries to detect exploitation",
+      "html_url": "https://github.com/Neo23x0/process-watcher",
+      "homepage": null,
+      "stars": 108,
+      "forks": 4,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-17T09:39:16Z",
+      "updated_at": "2026-10-23T08:38:16Z",
+      "pushed_at": "2026-10-20T22:17:06Z"
+    },
+    {
       "id": 1387850278,
       "name": "simfleet",
       "full_name": "entropyconquers/simfleet",
@@ -4543,21 +4613,6 @@
       "created_at": "2026-10-08T02:15:17Z",
       "updated_at": "2026-10-14T15:41:00Z",
       "pushed_at": "2026-10-14T09:14:29Z"
-    },
-    {
-      "id": 1423167784,
-      "name": "process-watcher",
-      "full_name": "Neo23x0/process-watcher",
-      "description": "A process monitoring tool that tries to detect exploitation",
-      "html_url": "https://github.com/Neo23x0/process-watcher",
-      "homepage": null,
-      "stars": 107,
-      "forks": 4,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-10-17T09:39:16Z",
-      "updated_at": "2026-10-22T18:52:29Z",
-      "pushed_at": "2026-10-20T22:17:06Z"
     },
     {
       "id": 1377007152,
@@ -5125,6 +5180,21 @@
       "pushed_at": "2026-10-22T13:26:25Z"
     },
     {
+      "id": 1427294192,
+      "name": "Haiou-workshop",
+      "full_name": "haiou-666/Haiou-workshop",
+      "description": "海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。",
+      "html_url": "https://github.com/haiou-666/Haiou-workshop",
+      "homepage": null,
+      "stars": 99,
+      "forks": 51,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-20T16:38:05Z",
+      "updated_at": "2026-10-23T05:43:46Z",
+      "pushed_at": "2026-10-21T12:19:33Z"
+    },
+    {
       "id": 1411921952,
       "name": "CorelDraw",
       "full_name": "GrosbeakPulse/CorelDraw",
@@ -5483,21 +5553,6 @@
       "created_at": "2026-10-18T14:05:03Z",
       "updated_at": "2026-10-18T15:39:23Z",
       "pushed_at": "2026-10-18T14:05:11Z"
-    },
-    {
-      "id": 1427294192,
-      "name": "Haiou-workshop",
-      "full_name": "haiou-666/Haiou-workshop",
-      "description": "海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。",
-      "html_url": "https://github.com/haiou-666/Haiou-workshop",
-      "homepage": null,
-      "stars": 96,
-      "forks": 49,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-20T16:38:05Z",
-      "updated_at": "2026-10-23T04:01:09Z",
-      "pushed_at": "2026-10-21T12:19:33Z"
     },
     {
       "id": 1410924943,
@@ -6052,8 +6107,8 @@
         "super-resolution"
       ],
       "created_at": "2026-10-22T21:35:38Z",
-      "updated_at": "2026-10-22T23:00:01Z",
-      "pushed_at": "2026-10-22T22:33:38Z"
+      "updated_at": "2026-10-23T10:45:13Z",
+      "pushed_at": "2026-10-23T10:45:09Z"
     },
     {
       "id": 1409175398,
@@ -6608,6 +6663,59 @@
       "pushed_at": "2026-10-10T18:50:39Z"
     },
     {
+      "id": 1423074033,
+      "name": "expressive-profile",
+      "full_name": "metawka/expressive-profile",
+      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+      "html_url": "https://github.com/metawka/expressive-profile",
+      "homepage": "https://metawka.github.io/expressive-profile/",
+      "stars": 70,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "github-actions",
+        "github-profile",
+        "material-design",
+        "material-you",
+        "profile-readme",
+        "readme-generator"
+      ],
+      "created_at": "2026-10-17T07:34:55Z",
+      "updated_at": "2026-10-23T11:02:00Z",
+      "pushed_at": "2026-10-21T09:59:10Z"
+    },
+    {
+      "id": 1427833144,
+      "name": "open-sesame",
+      "full_name": "hassan-algo/open-sesame",
+      "description": "🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF).",
+      "html_url": "https://github.com/hassan-algo/open-sesame",
+      "homepage": null,
+      "stars": 70,
+      "forks": 10,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "appsec",
+        "claude",
+        "claude-code",
+        "ethical-hacking",
+        "infosec",
+        "owasp",
+        "owasp-wstg",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "vulnerability-assessment",
+        "web-security"
+      ],
+      "created_at": "2026-10-21T03:31:18Z",
+      "updated_at": "2026-10-23T10:47:07Z",
+      "pushed_at": "2026-10-22T18:23:41Z"
+    },
+    {
       "id": 1399838098,
       "name": "ai-agent-gateway",
       "full_name": "Tuskira/ai-agent-gateway",
@@ -6749,6 +6857,21 @@
       "pushed_at": "2026-10-21T16:28:11Z"
     },
     {
+      "id": 1423117739,
+      "name": "T5DROnline",
+      "full_name": "TheWishin/T5DROnline",
+      "description": "Tekken 5 Dark Resurrection Online Native Port",
+      "html_url": "https://github.com/TheWishin/T5DROnline",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-17T08:35:35Z",
+      "updated_at": "2026-10-23T10:43:52Z",
+      "pushed_at": "2026-10-21T08:22:16Z"
+    },
+    {
       "id": 1411919172,
       "name": "actell",
       "full_name": "ja1chen/actell",
@@ -6762,28 +6885,6 @@
       "created_at": "2026-10-09T13:46:56Z",
       "updated_at": "2026-10-15T15:25:44Z",
       "pushed_at": "2026-10-15T15:25:39Z"
-    },
-    {
-      "id": 1423074033,
-      "name": "expressive-profile",
-      "full_name": "metawka/expressive-profile",
-      "description": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
-      "html_url": "https://github.com/metawka/expressive-profile",
-      "homepage": "https://metawka.github.io/expressive-profile/",
-      "stars": 66,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "github-actions",
-        "github-profile",
-        "material-design",
-        "material-you",
-        "profile-readme",
-        "readme-generator"
-      ],
-      "created_at": "2026-10-17T07:34:55Z",
-      "updated_at": "2026-10-23T01:55:21Z",
-      "pushed_at": "2026-10-21T09:59:10Z"
     },
     {
       "id": 1429666605,
@@ -7079,21 +7180,6 @@
       "pushed_at": "2026-10-01T17:23:57Z"
     },
     {
-      "id": 1423117739,
-      "name": "T5DROnline",
-      "full_name": "TheWishin/T5DROnline",
-      "description": "Tekken 5 Dark Resurrection Online Native Port",
-      "html_url": "https://github.com/TheWishin/T5DROnline",
-      "homepage": null,
-      "stars": 62,
-      "forks": 0,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-17T08:35:35Z",
-      "updated_at": "2026-10-23T02:37:28Z",
-      "pushed_at": "2026-10-21T08:22:16Z"
-    },
-    {
       "id": 1386511925,
       "name": "Comment2Shell",
       "full_name": "DeathShotXD/Comment2Shell",
@@ -7248,6 +7334,30 @@
       "pushed_at": "2026-10-18T19:19:18Z"
     },
     {
+      "id": 1423968651,
+      "name": "grok-bot-clipper",
+      "full_name": "RongleCat/grok-bot-clipper",
+      "description": "Unofficial Grok Bot browser extension — capture web pages, screenshots and social posts, collect context, and send it to your BOTs. / Grok Bot 第三方网页采集与聊天助手。",
+      "html_url": "https://github.com/RongleCat/grok-bot-clipper",
+      "homepage": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+      "stars": 60,
+      "forks": 8,
+      "language": "JavaScript",
+      "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "context",
+        "firefox-extension",
+        "grok-bot",
+        "screenshots",
+        "unofficial",
+        "web-clipper"
+      ],
+      "created_at": "2026-10-18T03:56:32Z",
+      "updated_at": "2026-10-23T09:46:00Z",
+      "pushed_at": "2026-10-18T05:03:07Z"
+    },
+    {
       "id": 1386575337,
       "name": "Java-KIT",
       "full_name": "avinash201199/Java-KIT",
@@ -7348,59 +7458,34 @@
       "pushed_at": "2026-10-17T23:00:32Z"
     },
     {
-      "id": 1423968651,
-      "name": "grok-bot-clipper",
-      "full_name": "RongleCat/grok-bot-clipper",
-      "description": "Unofficial Grok Bot browser extension — capture web pages, screenshots and social posts, collect context, and send it to your BOTs. / Grok Bot 第三方网页采集与聊天助手。",
-      "html_url": "https://github.com/RongleCat/grok-bot-clipper",
-      "homepage": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+      "id": 1425600798,
+      "name": "roue",
+      "full_name": "guilyx/roue",
+      "description": "Drop a file, get the file you wanted. A radial file converter for Linux: Ctrl+Shift+right-click a file in Files, pick a format, done. HEIC → JPG, video → GIF or under 10 MB, Word → PDF. 100% local. GTK 4, libadwaita, FFmpeg, libvips.",
+      "html_url": "https://github.com/guilyx/roue",
+      "homepage": "https://guilyx.github.io/roue/",
       "stars": 59,
-      "forks": 8,
-      "language": "JavaScript",
+      "forks": 0,
+      "language": "Python",
       "topics": [
-        "browser-extension",
-        "chrome-extension",
-        "context",
-        "firefox-extension",
-        "grok-bot",
-        "screenshots",
-        "unofficial",
-        "web-clipper"
+        "converter",
+        "gnom",
+        "gtk4",
+        "gtk4libadwaita",
+        "heic-to-jpeg",
+        "heic-to-jpg",
+        "heic-to-pdf",
+        "heic-to-png",
+        "image-converter",
+        "linux",
+        "nautilus",
+        "nautilus-extension",
+        "ubuntu",
+        "video-converte"
       ],
-      "created_at": "2026-10-18T03:56:32Z",
-      "updated_at": "2026-10-22T08:48:28Z",
-      "pushed_at": "2026-10-18T05:03:07Z"
-    },
-    {
-      "id": 1427833144,
-      "name": "open-sesame",
-      "full_name": "hassan-algo/open-sesame",
-      "description": "🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF).",
-      "html_url": "https://github.com/hassan-algo/open-sesame",
-      "homepage": null,
-      "stars": 59,
-      "forks": 9,
-      "language": "HTML",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "appsec",
-        "claude",
-        "claude-code",
-        "ethical-hacking",
-        "infosec",
-        "owasp",
-        "owasp-wstg",
-        "penetration-testing",
-        "pentesting",
-        "security",
-        "security-tools",
-        "vulnerability-assessment",
-        "web-security"
-      ],
-      "created_at": "2026-10-21T03:31:18Z",
-      "updated_at": "2026-10-23T03:04:27Z",
-      "pushed_at": "2026-10-22T18:23:41Z"
+      "created_at": "2026-10-19T12:43:47Z",
+      "updated_at": "2026-10-23T09:42:55Z",
+      "pushed_at": "2026-10-23T06:40:22Z"
     },
     {
       "id": 1422310322,
@@ -7542,6 +7627,21 @@
       "created_at": "2026-10-21T02:56:44Z",
       "updated_at": "2026-10-22T22:02:47Z",
       "pushed_at": "2026-10-22T05:49:44Z"
+    },
+    {
+      "id": 1427070072,
+      "name": "radar-public-sector",
+      "full_name": "flemuh/radar-public-sector",
+      "description": "Python/FastAPI application for monitoring Brazilian public-sector IT opportunities, with automated data collection, job filters, and official-source tracking.",
+      "html_url": "https://github.com/flemuh/radar-public-sector",
+      "homepage": null,
+      "stars": 57,
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-20T13:32:50Z",
+      "updated_at": "2026-10-23T10:44:24Z",
+      "pushed_at": "2026-10-22T19:44:57Z"
     },
     {
       "id": 1386319785,
@@ -7853,21 +7953,6 @@
       "created_at": "2026-10-17T15:36:35Z",
       "updated_at": "2026-10-23T00:39:15Z",
       "pushed_at": "2026-10-21T18:42:34Z"
-    },
-    {
-      "id": 1427070072,
-      "name": "radar-public-sector",
-      "full_name": "flemuh/radar-public-sector",
-      "description": "Python/FastAPI application for monitoring Brazilian public-sector IT opportunities, with automated data collection, job filters, and official-source tracking.",
-      "html_url": "https://github.com/flemuh/radar-public-sector",
-      "homepage": null,
-      "stars": 54,
-      "forks": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-20T13:32:50Z",
-      "updated_at": "2026-10-23T03:29:30Z",
-      "pushed_at": "2026-10-22T19:44:57Z"
     },
     {
       "id": 1388409097,
@@ -8225,6 +8310,21 @@
       "created_at": "2026-10-20T14:10:14Z",
       "updated_at": "2026-10-20T15:19:27Z",
       "pushed_at": "2026-10-20T14:10:22Z"
+    },
+    {
+      "id": 1428842369,
+      "name": "Taiga-Launcher-for-Steam",
+      "full_name": "GabrielTaiga/Taiga-Launcher-for-Steam",
+      "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages",
+      "html_url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
+      "homepage": null,
+      "stars": 50,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-21T19:32:13Z",
+      "updated_at": "2026-10-23T10:26:51Z",
+      "pushed_at": "2026-10-22T01:26:00Z"
     },
     {
       "id": 1392926487,
@@ -8719,6 +8819,21 @@
       "pushed_at": "2026-10-18T12:16:22Z"
     },
     {
+      "id": 1426514073,
+      "name": "ComfyUI-CharacterCardStudio",
+      "full_name": "JGRFW/ComfyUI-CharacterCardStudio",
+      "description": "ComfyUI custom node: one-click character reference sheet (character card) generation, auto slice & recomposition for Qwen-Image 2.1",
+      "html_url": "https://github.com/JGRFW/ComfyUI-CharacterCardStudio",
+      "homepage": null,
+      "stars": 45,
+      "forks": 6,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-20T04:53:55Z",
+      "updated_at": "2026-10-23T10:20:02Z",
+      "pushed_at": "2026-10-22T13:05:23Z"
+    },
+    {
       "id": 1396899630,
       "name": "gleaner",
       "full_name": "ssssssanjiu/gleaner",
@@ -8786,21 +8901,6 @@
       "created_at": "2026-10-08T02:51:41Z",
       "updated_at": "2026-10-14T15:51:58Z",
       "pushed_at": "2026-10-14T15:48:15Z"
-    },
-    {
-      "id": 1428842369,
-      "name": "Taiga-Launcher-for-Steam",
-      "full_name": "GabrielTaiga/Taiga-Launcher-for-Steam",
-      "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages",
-      "html_url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
-      "homepage": null,
-      "stars": 44,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-21T19:32:13Z",
-      "updated_at": "2026-10-23T03:36:33Z",
-      "pushed_at": "2026-10-22T01:26:00Z"
     },
     {
       "id": 1375718495,
@@ -9019,21 +9119,6 @@
       "created_at": "2026-10-15T13:09:34Z",
       "updated_at": "2026-10-21T05:47:33Z",
       "pushed_at": "2026-10-21T00:20:08Z"
-    },
-    {
-      "id": 1426514073,
-      "name": "ComfyUI-CharacterCardStudio",
-      "full_name": "JGRFW/ComfyUI-CharacterCardStudio",
-      "description": "ComfyUI custom node: one-click character reference sheet (character card) generation, auto slice & recomposition for Qwen-Image 2.1",
-      "html_url": "https://github.com/JGRFW/ComfyUI-CharacterCardStudio",
-      "homepage": null,
-      "stars": 42,
-      "forks": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-20T04:53:55Z",
-      "updated_at": "2026-10-23T03:29:19Z",
-      "pushed_at": "2026-10-22T13:05:23Z"
     },
     {
       "id": 1377057562,
@@ -9575,8 +9660,8 @@
         "ternary"
       ],
       "created_at": "2026-10-20T00:25:56Z",
-      "updated_at": "2026-10-23T02:47:13Z",
-      "pushed_at": "2026-10-22T22:53:48Z"
+      "updated_at": "2026-10-23T10:51:04Z",
+      "pushed_at": "2026-10-23T10:51:00Z"
     },
     {
       "id": 1377573287,
@@ -10202,6 +10287,66 @@
       "pushed_at": "2026-10-12T16:47:42Z"
     },
     {
+      "id": 1422920631,
+      "name": "snmp-topo-lan-card",
+      "full_name": "doanlong1412/snmp-topo-lan-card",
+      "description": "Home Assistant card vẽ sơ đồ mạng LAN (ISP → pfSense → switch → cổng) từ SNMP Switch Manager",
+      "html_url": "https://github.com/doanlong1412/snmp-topo-lan-card",
+      "homepage": null,
+      "stars": 29,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [
+        "home-assistant",
+        "homeassistant",
+        "lovelace",
+        "lovelace-card",
+        "lovelace-custom-card",
+        "network-topology",
+        "snmp",
+        "snmpv2"
+      ],
+      "created_at": "2026-10-17T03:51:21Z",
+      "updated_at": "2026-10-23T09:20:32Z",
+      "pushed_at": "2026-10-19T01:16:21Z"
+    },
+    {
+      "id": 1430700022,
+      "name": "DLSS5-Unlocker-rpocket-team",
+      "full_name": "NJourney89258/DLSS5-Unlocker-rpocket-team",
+      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
+      "html_url": "https://github.com/NJourney89258/DLSS5-Unlocker-rpocket-team",
+      "homepage": null,
+      "stars": 29,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "amd",
+        "amd-gpu",
+        "cs2-stutter-fix",
+        "dlss",
+        "dlss-5",
+        "dlss-5-mod",
+        "dlss5",
+        "dlss5-optiscaler",
+        "dlss5-swapper",
+        "dlss5-universal",
+        "fps-booster-no-lag",
+        "frame-generation",
+        "fsr",
+        "mod-manager",
+        "modding",
+        "nvidia",
+        "nvidia-gpu",
+        "pc-gaming",
+        "radeon",
+        "super-resolution"
+      ],
+      "created_at": "2026-10-23T07:06:19Z",
+      "updated_at": "2026-10-23T08:12:04Z",
+      "pushed_at": "2026-10-23T07:06:26Z"
+    },
+    {
       "id": 1376687962,
       "name": "kisakcod-port",
       "full_name": "slqntdevss/kisakcod-port",
@@ -10265,30 +10410,6 @@
       "created_at": "2026-10-06T12:32:58Z",
       "updated_at": "2026-10-11T18:44:55Z",
       "pushed_at": "2026-10-09T12:57:48Z"
-    },
-    {
-      "id": 1422920631,
-      "name": "snmp-topo-lan-card",
-      "full_name": "doanlong1412/snmp-topo-lan-card",
-      "description": "Home Assistant card vẽ sơ đồ mạng LAN (ISP → pfSense → switch → cổng) từ SNMP Switch Manager",
-      "html_url": "https://github.com/doanlong1412/snmp-topo-lan-card",
-      "homepage": null,
-      "stars": 28,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [
-        "home-assistant",
-        "homeassistant",
-        "lovelace",
-        "lovelace-card",
-        "lovelace-custom-card",
-        "network-topology",
-        "snmp",
-        "snmpv2"
-      ],
-      "created_at": "2026-10-17T03:51:21Z",
-      "updated_at": "2026-10-22T06:24:46Z",
-      "pushed_at": "2026-10-19T01:16:21Z"
     },
     {
       "id": 1426760718,
@@ -10606,6 +10727,36 @@
       "pushed_at": "2026-10-16T10:10:05Z"
     },
     {
+      "id": 1426991371,
+      "name": "ha-energy-flow-card",
+      "full_name": "Aresitoo/ha-energy-flow-card",
+      "description": "Real-Time Energy Flow & Executive Autarky Scorecard Card for Home Assistant Lovelace (WAAPI Stutter-Free, Solcast, Smart Contracted Power Guard)",
+      "html_url": "https://github.com/Aresitoo/ha-energy-flow-card",
+      "homepage": null,
+      "stars": 24,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "autarky",
+        "battery-storage",
+        "bess",
+        "custom-card",
+        "energy",
+        "energy-flow",
+        "hacs",
+        "hacs-card",
+        "home-assistant",
+        "home-automation",
+        "lovelace",
+        "photovoltaic",
+        "powerwall",
+        "solar"
+      ],
+      "created_at": "2026-10-20T12:26:20Z",
+      "updated_at": "2026-10-23T10:38:01Z",
+      "pushed_at": "2026-10-23T10:38:00Z"
+    },
+    {
       "id": 1378959833,
       "name": "jev-design-test",
       "full_name": "bhaiG-de/jev-design-test",
@@ -10916,36 +11067,6 @@
       "pushed_at": "2026-10-14T00:37:19Z"
     },
     {
-      "id": 1426991371,
-      "name": "ha-energy-flow-card",
-      "full_name": "Aresitoo/ha-energy-flow-card",
-      "description": "Real-Time Energy Flow & Executive Autarky Scorecard Card for Home Assistant Lovelace (WAAPI Stutter-Free, Solcast, Smart Contracted Power Guard)",
-      "html_url": "https://github.com/Aresitoo/ha-energy-flow-card",
-      "homepage": null,
-      "stars": 21,
-      "forks": 2,
-      "language": "JavaScript",
-      "topics": [
-        "autarky",
-        "battery-storage",
-        "bess",
-        "custom-card",
-        "energy",
-        "energy-flow",
-        "hacs",
-        "hacs-card",
-        "home-assistant",
-        "home-automation",
-        "lovelace",
-        "photovoltaic",
-        "powerwall",
-        "solar"
-      ],
-      "created_at": "2026-10-20T12:26:20Z",
-      "updated_at": "2026-10-22T23:40:40Z",
-      "pushed_at": "2026-10-22T21:52:25Z"
-    },
-    {
       "id": 1417445101,
       "name": "mcd-receipt-studio",
       "full_name": "lengxi-c/mcd-receipt-studio",
@@ -11221,6 +11342,21 @@
       "pushed_at": "2026-10-15T22:18:12Z"
     },
     {
+      "id": 1427205041,
+      "name": "FastStrata",
+      "full_name": "Jarson1408/FastStrata",
+      "description": "Run Qwen3.6-35B-A3B and Ornith 1.5, 35B MoE coding models, on a gaming PC with a 6 GB NVIDIA RTX card: 144K context, 49-72 tok/s on an RTX 3060 laptop. One installer sets up the model, a ready-made engine and its own gateway for OpenCode. Fork of PolyStrata.",
+      "html_url": "https://github.com/Jarson1408/FastStrata",
+      "homepage": null,
+      "stars": 19,
+      "forks": 1,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-20T15:21:41Z",
+      "updated_at": "2026-10-23T08:30:52Z",
+      "pushed_at": "2026-10-22T18:38:46Z"
+    },
+    {
       "id": 1387292246,
       "name": "ClickMyPayload",
       "full_name": "shaheeryasirofficial/ClickMyPayload",
@@ -11360,21 +11496,6 @@
       "created_at": "2026-10-20T16:44:00Z",
       "updated_at": "2026-10-20T16:46:40Z",
       "pushed_at": "2026-10-20T16:44:18Z"
-    },
-    {
-      "id": 1427205041,
-      "name": "FastStrata",
-      "full_name": "Jarson1408/FastStrata",
-      "description": "Run Qwen3.6-35B-A3B and Ornith 1.5, 35B MoE coding models, on a gaming PC with a 6 GB NVIDIA RTX card: 144K context, 49-72 tok/s on an RTX 3060 laptop. One installer sets up the model, a ready-made engine and its own gateway for OpenCode. Fork of PolyStrata.",
-      "html_url": "https://github.com/Jarson1408/FastStrata",
-      "homepage": null,
-      "stars": 17,
-      "forks": 1,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-20T15:21:41Z",
-      "updated_at": "2026-10-23T02:02:06Z",
-      "pushed_at": "2026-10-22T18:38:46Z"
     },
     {
       "id": 1379717308,
