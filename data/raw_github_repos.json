@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/24 05:11:27",
-  "total_repos": 588,
+  "fetched_at": "2026/10/24 08:23:26",
+  "total_repos": 592,
   "repos": [
     {
       "id": 1425658028,
@@ -427,6 +427,29 @@
       "pushed_at": "2026-10-12T01:15:52Z"
     },
     {
+      "id": 1428519987,
+      "name": "ai-jailbreaks",
+      "full_name": "Alejandros17487/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
+      "homepage": null,
+      "stars": 478,
+      "forks": 85,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy",
+        "safety",
+        "security"
+      ],
+      "created_at": "2026-10-21T14:44:06Z",
+      "updated_at": "2026-10-24T00:21:06Z",
+      "pushed_at": "2026-10-21T14:49:16Z"
+    },
+    {
       "id": 1415910250,
       "name": "Discord-Server-Raider",
       "full_name": "Aquafitzdisconnect/Discord-Server-Raider",
@@ -515,29 +538,6 @@
       "pushed_at": "2026-10-21T22:55:18Z"
     },
     {
-      "id": 1428519987,
-      "name": "ai-jailbreaks",
-      "full_name": "Alejandros17487/ai-jailbreaks",
-      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
-      "homepage": null,
-      "stars": 458,
-      "forks": 84,
-      "language": null,
-      "topics": [
-        "ai",
-        "ai-safety",
-        "jailbreak",
-        "jailbreaking",
-        "privacy",
-        "safety",
-        "security"
-      ],
-      "created_at": "2026-10-21T14:44:06Z",
-      "updated_at": "2026-10-23T20:56:04Z",
-      "pushed_at": "2026-10-21T14:49:16Z"
-    },
-    {
       "id": 1423367363,
       "name": "undress.ai",
       "full_name": "BreezeSolicitorMap/undress.ai",
@@ -566,8 +566,8 @@
       "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
       "html_url": "https://github.com/opentrap/opentrap",
       "homepage": "https://opentrap.github.io/opentrap",
-      "stars": 441,
-      "forks": 5,
+      "stars": 445,
+      "forks": 6,
       "language": "Java",
       "topics": [
         "application-security",
@@ -591,8 +591,8 @@
         "web-security"
       ],
       "created_at": "2026-10-19T03:29:08Z",
-      "updated_at": "2026-10-23T21:06:19Z",
-      "pushed_at": "2026-10-23T21:06:14Z"
+      "updated_at": "2026-10-23T23:56:10Z",
+      "pushed_at": "2026-10-23T23:06:57Z"
     },
     {
       "id": 1416828644,
@@ -1641,12 +1641,12 @@
       "description": "Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack",
       "html_url": "https://github.com/OmkarK97/webos-vibehack",
       "homepage": null,
-      "stars": 263,
+      "stars": 265,
       "forks": 35,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-19T08:11:45Z",
-      "updated_at": "2026-10-23T19:26:25Z",
+      "updated_at": "2026-10-24T00:10:30Z",
       "pushed_at": "2026-10-19T08:11:51Z"
     },
     {
@@ -1676,8 +1676,8 @@
       "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
       "html_url": "https://github.com/jss8649/quiet-tizen",
       "homepage": null,
-      "stars": 256,
-      "forks": 31,
+      "stars": 262,
+      "forks": 32,
       "language": "Python",
       "topics": [
         "codex",
@@ -1688,7 +1688,7 @@
         "tizen"
       ],
       "created_at": "2026-10-20T17:23:41Z",
-      "updated_at": "2026-10-23T20:58:44Z",
+      "updated_at": "2026-10-23T23:30:07Z",
       "pushed_at": "2026-10-20T17:24:38Z"
     },
     {
@@ -2179,7 +2179,7 @@
       "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
       "html_url": "https://github.com/img2threejs/plugin-interior",
       "homepage": "https://img2threejs.io/",
-      "stars": 205,
+      "stars": 206,
       "forks": 22,
       "language": "Python",
       "topics": [
@@ -2190,7 +2190,7 @@
         "img2x"
       ],
       "created_at": "2026-10-18T16:02:27Z",
-      "updated_at": "2026-10-23T19:29:57Z",
+      "updated_at": "2026-10-23T22:24:53Z",
       "pushed_at": "2026-10-19T15:18:07Z"
     },
     {
@@ -2495,6 +2495,21 @@
       "pushed_at": "2026-10-17T19:14:04Z"
     },
     {
+      "id": 1426280410,
+      "name": "FreeMyTvWebOS",
+      "full_name": "danielthejoker18/FreeMyTvWebOS",
+      "description": "",
+      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
+      "homepage": null,
+      "stars": 198,
+      "forks": 26,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-19T23:20:22Z",
+      "updated_at": "2026-10-24T00:13:14Z",
+      "pushed_at": "2026-10-23T00:00:14Z"
+    },
+    {
       "id": 1380797051,
       "name": "threejs-architecture-effects",
       "full_name": "lhlGitHub/threejs-architecture-effects",
@@ -2588,21 +2603,6 @@
       "created_at": "2026-10-16T00:42:04Z",
       "updated_at": "2026-10-22T22:58:12Z",
       "pushed_at": "2026-10-22T21:59:37Z"
-    },
-    {
-      "id": 1426280410,
-      "name": "FreeMyTvWebOS",
-      "full_name": "danielthejoker18/FreeMyTvWebOS",
-      "description": "",
-      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
-      "homepage": null,
-      "stars": 192,
-      "forks": 25,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-19T23:20:22Z",
-      "updated_at": "2026-10-23T20:54:59Z",
-      "pushed_at": "2026-10-23T00:00:14Z"
     },
     {
       "id": 1388097438,
@@ -2892,7 +2892,7 @@
       "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
       "html_url": "https://github.com/C4rohan/Lampline",
       "homepage": null,
-      "stars": 169,
+      "stars": 168,
       "forks": 29,
       "language": "Python",
       "topics": [
@@ -2912,7 +2912,7 @@
         "voice-ai"
       ],
       "created_at": "2026-10-19T06:50:54Z",
-      "updated_at": "2026-10-23T20:58:19Z",
+      "updated_at": "2026-10-23T22:26:18Z",
       "pushed_at": "2026-10-22T18:11:59Z"
     },
     {
@@ -2943,6 +2943,21 @@
       "created_at": "2026-10-09T18:38:36Z",
       "updated_at": "2026-10-15T15:49:38Z",
       "pushed_at": "2026-10-15T15:22:09Z"
+    },
+    {
+      "id": 1425343979,
+      "name": "nfsu2-web",
+      "full_name": "th0mk/nfsu2-web",
+      "description": "",
+      "html_url": "https://github.com/th0mk/nfsu2-web",
+      "homepage": "https://nfsu2.xyz/",
+      "stars": 168,
+      "forks": 29,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-19T08:47:39Z",
+      "updated_at": "2026-10-24T00:20:38Z",
+      "pushed_at": "2026-10-23T23:28:28Z"
     },
     {
       "id": 1379117882,
@@ -2990,35 +3005,6 @@
       "pushed_at": "2026-10-20T12:45:47Z"
     },
     {
-      "id": 1427620837,
-      "name": "polymarket-ai-trading-codex-and-claude-bot",
-      "full_name": "pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
-      "description": "polymarket tools",
-      "html_url": "https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
-      "homepage": null,
-      "stars": 163,
-      "forks": 79,
-      "language": "HTML",
-      "topics": [
-        "ai-prediction-market",
-        "ai-trading-arbitrage",
-        "claude-trading-bot",
-        "codex-trading-bot",
-        "free-ai-trading-bot",
-        "llm-trading-bot",
-        "polymarket-ai-2026",
-        "polymarket-ai-arbitrage",
-        "polymarket-ai-bot-download",
-        "polymarket-ai-profit",
-        "polymarket-claude-bot",
-        "polymarket-codex-bot",
-        "polymarket-llm-strategy"
-      ],
-      "created_at": "2026-10-20T22:18:45Z",
-      "updated_at": "2026-10-21T12:21:34Z",
-      "pushed_at": "2026-10-20T22:19:01Z"
-    },
-    {
       "id": 1391423600,
       "name": "neonplan3d",
       "full_name": "Mastershort/neonplan3d",
@@ -3050,21 +3036,6 @@
       "created_at": "2026-09-27T21:31:26Z",
       "updated_at": "2026-10-03T21:59:13Z",
       "pushed_at": "2026-10-03T17:08:44Z"
-    },
-    {
-      "id": 1425343979,
-      "name": "nfsu2-web",
-      "full_name": "th0mk/nfsu2-web",
-      "description": "",
-      "html_url": "https://github.com/th0mk/nfsu2-web",
-      "homepage": "https://nfsu2.xyz/",
-      "stars": 162,
-      "forks": 27,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-19T08:47:39Z",
-      "updated_at": "2026-10-23T20:56:29Z",
-      "pushed_at": "2026-10-23T20:46:33Z"
     },
     {
       "id": 1387067752,
@@ -3193,6 +3164,21 @@
       "pushed_at": "2026-10-23T06:24:13Z"
     },
     {
+      "id": 1425043515,
+      "name": "smm2recomp",
+      "full_name": "smm2recomp/smm2recomp",
+      "description": "Super Mario Maker 2 Recomp",
+      "html_url": "https://github.com/smm2recomp/smm2recomp",
+      "homepage": null,
+      "stars": 155,
+      "forks": 14,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-19T03:02:41Z",
+      "updated_at": "2026-10-23T23:59:10Z",
+      "pushed_at": "2026-10-23T11:09:51Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -3232,21 +3218,6 @@
       "created_at": "2026-10-17T19:09:38Z",
       "updated_at": "2026-10-17T23:50:33Z",
       "pushed_at": "2026-10-17T19:09:44Z"
-    },
-    {
-      "id": 1425043515,
-      "name": "smm2recomp",
-      "full_name": "smm2recomp/smm2recomp",
-      "description": "Super Mario Maker 2 Recomp",
-      "html_url": "https://github.com/smm2recomp/smm2recomp",
-      "homepage": null,
-      "stars": 152,
-      "forks": 14,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-19T03:02:41Z",
-      "updated_at": "2026-10-23T20:18:02Z",
-      "pushed_at": "2026-10-23T11:09:51Z"
     },
     {
       "id": 1423657988,
@@ -3351,6 +3322,21 @@
       "pushed_at": "2026-10-21T04:32:02Z"
     },
     {
+      "id": 1424690809,
+      "name": "Open-Tangerine",
+      "full_name": "sintaxerrorpvtltd/Open-Tangerine",
+      "description": "Free, open-source local file converter. Native macOS app + early Windows/Linux desktop edition. Batch images, PDFs and optional FFmpeg media. GPLv3.",
+      "html_url": "https://github.com/sintaxerrorpvtltd/Open-Tangerine",
+      "homepage": "https://sintaxerrorpvtltd.github.io/Open-Tangerine/",
+      "stars": 146,
+      "forks": 23,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-10-18T18:32:15Z",
+      "updated_at": "2026-10-23T23:56:44Z",
+      "pushed_at": "2026-10-22T11:59:39Z"
+    },
+    {
       "id": 1410815894,
       "name": "autonomous-pentest-agent",
       "full_name": "kutukam/autonomous-pentest-agent",
@@ -3364,21 +3350,6 @@
       "created_at": "2026-10-08T18:47:12Z",
       "updated_at": "2026-10-14T10:55:20Z",
       "pushed_at": "2026-10-09T05:07:24Z"
-    },
-    {
-      "id": 1424690809,
-      "name": "Open-Tangerine",
-      "full_name": "sintaxerrorpvtltd/Open-Tangerine",
-      "description": "Free, open-source local file converter. Native macOS app + early Windows/Linux desktop edition. Batch images, PDFs and optional FFmpeg media. GPLv3.",
-      "html_url": "https://github.com/sintaxerrorpvtltd/Open-Tangerine",
-      "homepage": "https://sintaxerrorpvtltd.github.io/Open-Tangerine/",
-      "stars": 144,
-      "forks": 23,
-      "language": "Swift",
-      "topics": [],
-      "created_at": "2026-10-18T18:32:15Z",
-      "updated_at": "2026-10-23T12:46:16Z",
-      "pushed_at": "2026-10-22T11:59:39Z"
     },
     {
       "id": 1403810477,
@@ -3456,6 +3427,36 @@
       "pushed_at": "2026-10-07T12:31:10Z"
     },
     {
+      "id": 1429010697,
+      "name": "php2shell",
+      "full_name": "devploit/php2shell",
+      "description": "PHP2Shell: version-aware research toolkit for CVE-2026-109618 / CVE-2026-109619 — pre-auth RCE in PHP session.upload_progress (mod_php). Build profiles, labs, heap calibration and detection guidance for authorized security testing.",
+      "html_url": "https://github.com/devploit/php2shell",
+      "homepage": null,
+      "stars": 141,
+      "forks": 43,
+      "language": "Python",
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "exploit",
+        "mod-php",
+        "penetration-testing",
+        "php",
+        "php-security",
+        "php2shell",
+        "poc",
+        "rce",
+        "red-team",
+        "security-research",
+        "session-upload-progress",
+        "vulnerability-research"
+      ],
+      "created_at": "2026-10-21T22:53:01Z",
+      "updated_at": "2026-10-23T23:37:33Z",
+      "pushed_at": "2026-10-22T11:43:17Z"
+    },
+    {
       "id": 1378060456,
       "name": "webctl",
       "full_name": "dorkitude/webctl",
@@ -3501,36 +3502,6 @@
       "pushed_at": "2026-10-13T11:09:28Z"
     },
     {
-      "id": 1429010697,
-      "name": "php2shell",
-      "full_name": "devploit/php2shell",
-      "description": "PHP2Shell: version-aware research toolkit for CVE-2026-109618 / CVE-2026-109619 — pre-auth RCE in PHP session.upload_progress (mod_php). Build profiles, labs, heap calibration and detection guidance for authorized security testing.",
-      "html_url": "https://github.com/devploit/php2shell",
-      "homepage": null,
-      "stars": 138,
-      "forks": 43,
-      "language": "Python",
-      "topics": [
-        "cve-2026-109618",
-        "cve-2026-109619",
-        "exploit",
-        "mod-php",
-        "penetration-testing",
-        "php",
-        "php-security",
-        "php2shell",
-        "poc",
-        "rce",
-        "red-team",
-        "security-research",
-        "session-upload-progress",
-        "vulnerability-research"
-      ],
-      "created_at": "2026-10-21T22:53:01Z",
-      "updated_at": "2026-10-23T21:08:25Z",
-      "pushed_at": "2026-10-22T11:43:17Z"
-    },
-    {
       "id": 1403448265,
       "name": "short-video-generator",
       "full_name": "dakukibana/short-video-generator",
@@ -3552,6 +3523,46 @@
       "created_at": "2026-10-03T17:10:43Z",
       "updated_at": "2026-10-05T02:37:53Z",
       "pushed_at": "2026-10-03T17:16:17Z"
+    },
+    {
+      "id": 1427871238,
+      "name": "simple-reviewer-v1",
+      "full_name": "Monopoly0024/simple-reviewer-v1",
+      "description": "Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。",
+      "html_url": "https://github.com/Monopoly0024/simple-reviewer-v1",
+      "homepage": null,
+      "stars": 136,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-assisted-coding",
+        "code-explanation",
+        "code-quality",
+        "code-review",
+        "codex",
+        "codex-skill",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "created_at": "2026-10-21T04:22:59Z",
+      "updated_at": "2026-10-24T00:21:39Z",
+      "pushed_at": "2026-10-23T09:26:21Z"
+    },
+    {
+      "id": 1427389017,
+      "name": "AutoMorph",
+      "full_name": "holjab/AutoMorph",
+      "description": "A self-hosted tool for automatically patching and distributing Android packages, built on Morphe Desktop.",
+      "html_url": "https://github.com/holjab/AutoMorph",
+      "homepage": null,
+      "stars": 136,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-20T18:04:37Z",
+      "updated_at": "2026-10-23T23:00:50Z",
+      "pushed_at": "2026-10-24T00:19:50Z"
     },
     {
       "id": 1390688516,
@@ -3584,29 +3595,33 @@
       "pushed_at": "2026-10-01T03:09:41Z"
     },
     {
-      "id": 1427871238,
-      "name": "simple-reviewer-v1",
-      "full_name": "Monopoly0024/simple-reviewer-v1",
-      "description": "Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。",
-      "html_url": "https://github.com/Monopoly0024/simple-reviewer-v1",
+      "id": 1427620837,
+      "name": "polymarket-ai-trading-codex-and-claude-bot",
+      "full_name": "pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
+      "description": "polymarket tools",
+      "html_url": "https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
       "homepage": null,
-      "stars": 133,
-      "forks": 9,
-      "language": "Python",
+      "stars": 132,
+      "forks": 79,
+      "language": "HTML",
       "topics": [
-        "ai-agents",
-        "ai-assisted-coding",
-        "code-explanation",
-        "code-quality",
-        "code-review",
-        "codex",
-        "codex-skill",
-        "vibe-coding",
-        "vibecoding"
+        "ai-prediction-market",
+        "ai-trading-arbitrage",
+        "claude-trading-bot",
+        "codex-trading-bot",
+        "free-ai-trading-bot",
+        "llm-trading-bot",
+        "polymarket-ai-2026",
+        "polymarket-ai-arbitrage",
+        "polymarket-ai-bot-download",
+        "polymarket-ai-profit",
+        "polymarket-claude-bot",
+        "polymarket-codex-bot",
+        "polymarket-llm-strategy"
       ],
-      "created_at": "2026-10-21T04:22:59Z",
-      "updated_at": "2026-10-23T21:01:47Z",
-      "pushed_at": "2026-10-23T09:26:21Z"
+      "created_at": "2026-10-20T22:18:45Z",
+      "updated_at": "2026-10-24T00:08:22Z",
+      "pushed_at": "2026-10-20T22:19:01Z"
     },
     {
       "id": 1386719155,
@@ -3667,21 +3682,6 @@
       "pushed_at": "2026-10-09T10:13:23Z"
     },
     {
-      "id": 1427389017,
-      "name": "AutoMorph",
-      "full_name": "holjab/AutoMorph",
-      "description": "A self-hosted tool for automatically patching and distributing Android packages, built on Morphe Desktop.",
-      "html_url": "https://github.com/holjab/AutoMorph",
-      "homepage": null,
-      "stars": 132,
-      "forks": 8,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-20T18:04:37Z",
-      "updated_at": "2026-10-23T20:47:21Z",
-      "pushed_at": "2026-10-23T05:07:16Z"
-    },
-    {
       "id": 1414942519,
       "name": "EdenLive",
       "full_name": "VAST-AI-Research/EdenLive",
@@ -3739,6 +3739,41 @@
       "created_at": "2026-09-24T15:00:59Z",
       "updated_at": "2026-09-30T10:15:14Z",
       "pushed_at": "2026-09-24T15:02:21Z"
+    },
+    {
+      "id": 1430297568,
+      "name": "DLSS5-Unlocker",
+      "full_name": "SmokeProduction/DLSS5-Unlocker",
+      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
+      "html_url": "https://github.com/SmokeProduction/DLSS5-Unlocker",
+      "homepage": null,
+      "stars": 127,
+      "forks": 14,
+      "language": null,
+      "topics": [
+        "amd",
+        "amd-gpu",
+        "dlss",
+        "dlss-5",
+        "dlss-5-mod",
+        "dlss5",
+        "dlss5-optiscaler",
+        "dlss5-swapper",
+        "dlss5-universal",
+        "fps-booster-no-lag",
+        "frame-generation",
+        "fsr",
+        "mod-manager",
+        "modding",
+        "nvidia",
+        "nvidia-gpu",
+        "pc-gaming",
+        "radeon",
+        "super-resolution"
+      ],
+      "created_at": "2026-10-22T21:35:38Z",
+      "updated_at": "2026-10-23T22:37:26Z",
+      "pushed_at": "2026-10-23T10:45:09Z"
     },
     {
       "id": 1426197381,
@@ -3972,6 +4007,21 @@
       "pushed_at": "2026-10-19T22:21:50Z"
     },
     {
+      "id": 1425358398,
+      "name": "Hiddify-Manager",
+      "full_name": "philips71017/Hiddify-Manager",
+      "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",
+      "html_url": "https://github.com/philips71017/Hiddify-Manager",
+      "homepage": null,
+      "stars": 122,
+      "forks": 20,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-19T09:01:13Z",
+      "updated_at": "2026-10-24T00:22:34Z",
+      "pushed_at": "2026-10-19T13:52:47Z"
+    },
+    {
       "id": 1417978332,
       "name": "hwid-spoofer-toolkit",
       "full_name": "GladiatorSplit/hwid-spoofer-toolkit",
@@ -4071,6 +4121,30 @@
       "created_at": "2026-10-19T08:36:53Z",
       "updated_at": "2026-10-23T13:56:49Z",
       "pushed_at": "2026-10-22T15:25:43Z"
+    },
+    {
+      "id": 1429468579,
+      "name": "rom-cli",
+      "full_name": "danisiber/rom-cli",
+      "description": "Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.",
+      "html_url": "https://github.com/danisiber/rom-cli",
+      "homepage": "https://github.com/danisiber/rom-cli",
+      "stars": 116,
+      "forks": 26,
+      "language": "Python",
+      "topics": [
+        "cli",
+        "game-downloader",
+        "python",
+        "retro-gaming",
+        "rom-cli",
+        "roms",
+        "switch",
+        "textual"
+      ],
+      "created_at": "2026-10-22T08:38:38Z",
+      "updated_at": "2026-10-24T00:13:20Z",
+      "pushed_at": "2026-10-22T08:55:27Z"
     },
     {
       "id": 1404682975,
@@ -4253,6 +4327,21 @@
       "pushed_at": "2026-09-26T15:32:59Z"
     },
     {
+      "id": 1427294192,
+      "name": "Haiou-workshop",
+      "full_name": "haiou-666/Haiou-workshop",
+      "description": "海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。",
+      "html_url": "https://github.com/haiou-666/Haiou-workshop",
+      "homepage": null,
+      "stars": 111,
+      "forks": 56,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-20T16:38:05Z",
+      "updated_at": "2026-10-23T23:24:47Z",
+      "pushed_at": "2026-10-21T12:19:33Z"
+    },
+    {
       "id": 1379139682,
       "name": "polytech-tree",
       "full_name": "secwind7/polytech-tree",
@@ -4319,30 +4408,6 @@
       "pushed_at": "2026-10-17T21:31:12Z"
     },
     {
-      "id": 1429468579,
-      "name": "rom-cli",
-      "full_name": "danisiber/rom-cli",
-      "description": "Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.",
-      "html_url": "https://github.com/danisiber/rom-cli",
-      "homepage": "https://github.com/danisiber/rom-cli",
-      "stars": 110,
-      "forks": 24,
-      "language": "Python",
-      "topics": [
-        "cli",
-        "game-downloader",
-        "python",
-        "retro-gaming",
-        "rom-cli",
-        "roms",
-        "switch",
-        "textual"
-      ],
-      "created_at": "2026-10-22T08:38:38Z",
-      "updated_at": "2026-10-23T20:14:11Z",
-      "pushed_at": "2026-10-22T08:55:27Z"
-    },
-    {
       "id": 1387885716,
       "name": "redStackPRO",
       "full_name": "devZero-Security/redStackPRO",
@@ -4402,21 +4467,6 @@
       "created_at": "2026-10-17T09:39:16Z",
       "updated_at": "2026-10-23T13:53:30Z",
       "pushed_at": "2026-10-20T22:17:06Z"
-    },
-    {
-      "id": 1427294192,
-      "name": "Haiou-workshop",
-      "full_name": "haiou-666/Haiou-workshop",
-      "description": "海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。",
-      "html_url": "https://github.com/haiou-666/Haiou-workshop",
-      "homepage": null,
-      "stars": 109,
-      "forks": 56,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-20T16:38:05Z",
-      "updated_at": "2026-10-23T21:05:58Z",
-      "pushed_at": "2026-10-21T12:19:33Z"
     },
     {
       "id": 1402302127,
@@ -4762,7 +4812,7 @@
       "html_url": "https://github.com/BandProtector/Instagram-Growth-Tools-2026",
       "homepage": null,
       "stars": 105,
-      "forks": 0,
+      "forks": 50,
       "language": null,
       "topics": [],
       "created_at": "2026-10-19T12:38:45Z",
@@ -6115,39 +6165,35 @@
       "pushed_at": "2026-10-13T05:44:43Z"
     },
     {
-      "id": 1430297568,
-      "name": "DLSS5-Unlocker",
-      "full_name": "SmokeProduction/DLSS5-Unlocker",
-      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
-      "html_url": "https://github.com/SmokeProduction/DLSS5-Unlocker",
+      "id": 1427833144,
+      "name": "open-sesame",
+      "full_name": "hassan-algo/open-sesame",
+      "description": "🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF).",
+      "html_url": "https://github.com/hassan-algo/open-sesame",
       "homepage": null,
-      "stars": 82,
-      "forks": 14,
-      "language": null,
+      "stars": 83,
+      "forks": 12,
+      "language": "HTML",
       "topics": [
-        "amd",
-        "amd-gpu",
-        "dlss",
-        "dlss-5",
-        "dlss-5-mod",
-        "dlss5",
-        "dlss5-optiscaler",
-        "dlss5-swapper",
-        "dlss5-universal",
-        "fps-booster-no-lag",
-        "frame-generation",
-        "fsr",
-        "mod-manager",
-        "modding",
-        "nvidia",
-        "nvidia-gpu",
-        "pc-gaming",
-        "radeon",
-        "super-resolution"
+        "ai-agents",
+        "anthropic",
+        "appsec",
+        "claude",
+        "claude-code",
+        "ethical-hacking",
+        "infosec",
+        "owasp",
+        "owasp-wstg",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "vulnerability-assessment",
+        "web-security"
       ],
-      "created_at": "2026-10-22T21:35:38Z",
-      "updated_at": "2026-10-23T10:45:13Z",
-      "pushed_at": "2026-10-23T10:45:09Z"
+      "created_at": "2026-10-21T03:31:18Z",
+      "updated_at": "2026-10-23T21:35:12Z",
+      "pushed_at": "2026-10-22T18:23:41Z"
     },
     {
       "id": 1409175398,
@@ -6183,37 +6229,6 @@
       "created_at": "2026-10-07T17:53:23Z",
       "updated_at": "2026-10-12T20:55:41Z",
       "pushed_at": "2026-10-10T12:51:22Z"
-    },
-    {
-      "id": 1427833144,
-      "name": "open-sesame",
-      "full_name": "hassan-algo/open-sesame",
-      "description": "🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF).",
-      "html_url": "https://github.com/hassan-algo/open-sesame",
-      "homepage": null,
-      "stars": 81,
-      "forks": 11,
-      "language": "HTML",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "appsec",
-        "claude",
-        "claude-code",
-        "ethical-hacking",
-        "infosec",
-        "owasp",
-        "owasp-wstg",
-        "penetration-testing",
-        "pentesting",
-        "security",
-        "security-tools",
-        "vulnerability-assessment",
-        "web-security"
-      ],
-      "created_at": "2026-10-21T03:31:18Z",
-      "updated_at": "2026-10-23T19:21:03Z",
-      "pushed_at": "2026-10-22T18:23:41Z"
     },
     {
       "id": 1386777688,
@@ -6428,6 +6443,21 @@
       "pushed_at": "2026-10-07T08:16:17Z"
     },
     {
+      "id": 1427070072,
+      "name": "radar-public-sector",
+      "full_name": "flemuh/radar-public-sector",
+      "description": "Python/FastAPI application for monitoring Brazilian public-sector IT opportunities, with automated data collection, job filters, and official-source tracking.",
+      "html_url": "https://github.com/flemuh/radar-public-sector",
+      "homepage": null,
+      "stars": 74,
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-20T13:32:50Z",
+      "updated_at": "2026-10-23T23:39:43Z",
+      "pushed_at": "2026-10-22T19:44:57Z"
+    },
+    {
       "id": 1396432432,
       "name": "json-toolkit",
       "full_name": "ralf1qdev/json-toolkit",
@@ -6560,21 +6590,6 @@
       "created_at": "2026-10-08T00:17:09Z",
       "updated_at": "2026-10-14T15:20:15Z",
       "pushed_at": "2026-10-13T09:54:16Z"
-    },
-    {
-      "id": 1425358398,
-      "name": "Hiddify-Manager",
-      "full_name": "philips71017/Hiddify-Manager",
-      "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",
-      "html_url": "https://github.com/philips71017/Hiddify-Manager",
-      "homepage": null,
-      "stars": 72,
-      "forks": 20,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-19T09:01:13Z",
-      "updated_at": "2026-10-23T21:08:15Z",
-      "pushed_at": "2026-10-19T13:52:47Z"
     },
     {
       "id": 1375750028,
@@ -6785,21 +6800,6 @@
       "pushed_at": "2026-10-10T18:50:39Z"
     },
     {
-      "id": 1427070072,
-      "name": "radar-public-sector",
-      "full_name": "flemuh/radar-public-sector",
-      "description": "Python/FastAPI application for monitoring Brazilian public-sector IT opportunities, with automated data collection, job filters, and official-source tracking.",
-      "html_url": "https://github.com/flemuh/radar-public-sector",
-      "homepage": null,
-      "stars": 70,
-      "forks": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-20T13:32:50Z",
-      "updated_at": "2026-10-23T19:59:02Z",
-      "pushed_at": "2026-10-22T19:44:57Z"
-    },
-    {
       "id": 1399838098,
       "name": "ai-agent-gateway",
       "full_name": "Tuskira/ai-agent-gateway",
@@ -6939,6 +6939,26 @@
       "created_at": "2026-10-15T23:10:45Z",
       "updated_at": "2026-10-21T22:16:35Z",
       "pushed_at": "2026-10-21T16:28:11Z"
+    },
+    {
+      "id": 1428303251,
+      "name": "cleanyourtv-WebOS",
+      "full_name": "lasharor/cleanyourtv-WebOS",
+      "description": "A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.",
+      "html_url": "https://github.com/lasharor/cleanyourtv-WebOS",
+      "homepage": null,
+      "stars": 68,
+      "forks": 7,
+      "language": "HTML",
+      "topics": [
+        "homescreen",
+        "lg",
+        "rootmytv",
+        "webos"
+      ],
+      "created_at": "2026-10-21T11:43:47Z",
+      "updated_at": "2026-10-23T23:06:54Z",
+      "pushed_at": "2026-10-23T21:44:34Z"
     },
     {
       "id": 1411919172,
@@ -7209,24 +7229,19 @@
       "pushed_at": "2026-10-12T03:31:26Z"
     },
     {
-      "id": 1428303251,
-      "name": "cleanyourtv-WebOS",
-      "full_name": "lasharor/cleanyourtv-WebOS",
-      "description": "A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.",
-      "html_url": "https://github.com/lasharor/cleanyourtv-WebOS",
+      "id": 1428842369,
+      "name": "Taiga-Launcher-for-Steam",
+      "full_name": "GabrielTaiga/Taiga-Launcher-for-Steam",
+      "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages",
+      "html_url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
       "homepage": null,
       "stars": 64,
-      "forks": 6,
-      "language": "HTML",
-      "topics": [
-        "homescreen",
-        "lg",
-        "rootmytv",
-        "webos"
-      ],
-      "created_at": "2026-10-21T11:43:47Z",
-      "updated_at": "2026-10-23T21:10:07Z",
-      "pushed_at": "2026-10-23T17:44:36Z"
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-21T19:32:13Z",
+      "updated_at": "2026-10-24T00:16:25Z",
+      "pushed_at": "2026-10-22T01:26:00Z"
     },
     {
       "id": 1387598614,
@@ -7267,6 +7282,31 @@
       "created_at": "2026-10-01T15:40:04Z",
       "updated_at": "2026-10-01T17:24:01Z",
       "pushed_at": "2026-10-01T17:23:57Z"
+    },
+    {
+      "id": 1424690602,
+      "name": "PicoLab",
+      "full_name": "CoretechR/PicoLab",
+      "description": "Web-GUI Embedded Multitool",
+      "html_url": "https://github.com/CoretechR/PicoLab",
+      "homepage": "https://hackaday.io/project/207129",
+      "stars": 62,
+      "forks": 10,
+      "language": "C",
+      "topics": [
+        "3d-printing",
+        "debug",
+        "embedded",
+        "interface",
+        "multitools",
+        "raspberry-pi",
+        "raspberry-pi-pico",
+        "tool",
+        "user"
+      ],
+      "created_at": "2026-10-18T18:32:01Z",
+      "updated_at": "2026-10-23T23:41:51Z",
+      "pushed_at": "2026-10-21T16:08:47Z"
     },
     {
       "id": 1386511925,
@@ -7352,21 +7392,6 @@
       "created_at": "2026-10-02T10:46:49Z",
       "updated_at": "2026-10-08T17:32:36Z",
       "pushed_at": "2026-10-08T17:32:30Z"
-    },
-    {
-      "id": 1428842369,
-      "name": "Taiga-Launcher-for-Steam",
-      "full_name": "GabrielTaiga/Taiga-Launcher-for-Steam",
-      "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages",
-      "html_url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
-      "homepage": null,
-      "stars": 61,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-21T19:32:13Z",
-      "updated_at": "2026-10-23T19:52:14Z",
-      "pushed_at": "2026-10-22T01:26:00Z"
     },
     {
       "id": 1399378829,
@@ -9507,7 +9532,7 @@
       "html_url": "https://github.com/ahtx/kindi",
       "homepage": "https://amirhusain.com/kindi/",
       "stars": 38,
-      "forks": 10,
+      "forks": 11,
       "language": "Python",
       "topics": [
         "ampere",
@@ -11744,6 +11769,32 @@
       "pushed_at": "2026-10-13T08:20:19Z"
     },
     {
+      "id": 1430113995,
+      "name": "firered-ai-switch",
+      "full_name": "xhinzz/firered-ai-switch",
+      "description": "An AI that plays Pokémon FireRed on a real Nintendo Switch: capture card in, emulated Bluetooth controller out. LLM strategist + deterministic skills, map localisation from the pret decomp, ACE toolkit.",
+      "html_url": "https://github.com/xhinzz/firered-ai-switch",
+      "homepage": "https://xhinzz.github.io/firered-ai-switch/",
+      "stars": 16,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "computer-vision",
+        "game-ai",
+        "llm",
+        "nintendo-switch",
+        "opencv",
+        "pathfinding",
+        "pokemon",
+        "python",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-22T18:16:11Z",
+      "updated_at": "2026-10-23T19:48:48Z",
+      "pushed_at": "2026-10-23T14:50:43Z"
+    },
+    {
       "id": 1378545590,
       "name": "Yvette",
       "full_name": "MartinForsterNL/Yvette",
@@ -11929,6 +11980,31 @@
       "pushed_at": "2026-10-18T20:55:15Z"
     },
     {
+      "id": 1424990780,
+      "name": "deckle",
+      "full_name": "CasaVargas/deckle",
+      "description": "A morning newspaper for your Kindle, built on your own computer, and store-quality Kindle books from EPUBs you own: Enhanced Typesetting, covers, X-Ray, Word Wise. Mac + Windows.",
+      "html_url": "https://github.com/CasaVargas/deckle",
+      "homepage": "https://casavargas.app/deckle/",
+      "stars": 15,
+      "forks": 0,
+      "language": "Rust",
+      "topics": [
+        "ebooks",
+        "ebooks-manager",
+        "eink",
+        "kindle",
+        "kindle-books",
+        "kindle-devices",
+        "kindle-highlights",
+        "kindle-paperwhite",
+        "scribe"
+      ],
+      "created_at": "2026-10-19T01:45:23Z",
+      "updated_at": "2026-10-23T23:52:49Z",
+      "pushed_at": "2026-10-23T23:54:57Z"
+    },
+    {
       "id": 1379723846,
       "name": "taplio-dev.github.io",
       "full_name": "taplio-dev/taplio-dev.github.io",
@@ -12107,6 +12183,30 @@
       "created_at": "2026-10-12T21:29:28Z",
       "updated_at": "2026-10-18T19:59:06Z",
       "pushed_at": "2026-10-12T21:29:34Z"
+    },
+    {
+      "id": 1429295201,
+      "name": "TizenAmbilight",
+      "full_name": "RitwickVerma/TizenAmbilight",
+      "description": "Real-frame ambilight for Samsung Tizen TVs — reads the TV's own decoded video plane, drives a WLED strip over UDP, no capture card",
+      "html_url": "https://github.com/RitwickVerma/TizenAmbilight",
+      "homepage": null,
+      "stars": 14,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "ambilight",
+        "dotnet",
+        "home-automation",
+        "led-strip",
+        "samsung-tizen",
+        "smart-tv",
+        "tizen",
+        "wled"
+      ],
+      "created_at": "2026-10-22T05:40:58Z",
+      "updated_at": "2026-10-23T20:30:52Z",
+      "pushed_at": "2026-10-22T23:06:13Z"
     },
     {
       "id": 1379722239,
