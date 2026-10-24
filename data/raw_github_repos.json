@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/24 20:30:55",
-  "total_repos": 596,
+  "fetched_at": "2026/10/25 01:16:13",
+  "total_repos": 600,
   "repos": [
     {
       "id": 1425658028,
@@ -370,8 +370,8 @@
       "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
       "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
       "homepage": null,
-      "stars": 512,
-      "forks": 93,
+      "stars": 520,
+      "forks": 96,
       "language": null,
       "topics": [
         "ai",
@@ -383,7 +383,7 @@
         "security"
       ],
       "created_at": "2026-10-21T14:44:06Z",
-      "updated_at": "2026-10-24T11:48:16Z",
+      "updated_at": "2026-10-24T16:11:17Z",
       "pushed_at": "2026-10-21T14:49:16Z"
     },
     {
@@ -566,13 +566,13 @@
       "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
       "html_url": "https://github.com/justrach/nanoui",
       "homepage": null,
-      "stars": 434,
+      "stars": 433,
       "forks": 15,
       "language": "Zig",
       "topics": [],
       "created_at": "2026-10-18T09:27:46Z",
-      "updated_at": "2026-10-24T12:07:11Z",
-      "pushed_at": "2026-10-24T12:18:27Z"
+      "updated_at": "2026-10-24T16:30:15Z",
+      "pushed_at": "2026-10-24T14:38:11Z"
     },
     {
       "id": 1416828644,
@@ -655,7 +655,7 @@
       "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
       "html_url": "https://github.com/opentrap/opentrap",
       "homepage": "https://opentrap.github.io/opentrap",
-      "stars": 413,
+      "stars": 414,
       "forks": 6,
       "language": "Java",
       "topics": [
@@ -680,7 +680,7 @@
         "web-security"
       ],
       "created_at": "2026-10-19T03:29:08Z",
-      "updated_at": "2026-10-24T11:49:06Z",
+      "updated_at": "2026-10-24T17:00:20Z",
       "pushed_at": "2026-10-24T10:55:09Z"
     },
     {
@@ -1131,12 +1131,12 @@
       "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
       "html_url": "https://github.com/garycaogan/ai-live-avatar",
       "homepage": null,
-      "stars": 346,
-      "forks": 99,
+      "stars": 347,
+      "forks": 100,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-19T08:10:48Z",
-      "updated_at": "2026-10-24T11:42:51Z",
+      "updated_at": "2026-10-24T15:55:47Z",
       "pushed_at": "2026-10-19T13:47:28Z"
     },
     {
@@ -1488,13 +1488,35 @@
       "pushed_at": "2026-10-09T13:57:05Z"
     },
     {
+      "id": 1427344613,
+      "name": "quiet-tizen",
+      "full_name": "jss8649/quiet-tizen",
+      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
+      "html_url": "https://github.com/jss8649/quiet-tizen",
+      "homepage": null,
+      "stars": 298,
+      "forks": 34,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "debloat",
+        "launcher",
+        "samsung-tv",
+        "smart-tv",
+        "tizen"
+      ],
+      "created_at": "2026-10-20T17:23:41Z",
+      "updated_at": "2026-10-24T17:12:45Z",
+      "pushed_at": "2026-10-20T17:24:38Z"
+    },
+    {
       "id": 1425296336,
       "name": "ascii-magic-art",
       "full_name": "kailashsr38/ascii-magic-art",
       "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
       "html_url": "https://github.com/kailashsr38/ascii-magic-art",
       "homepage": "https://www.ascii-magic.com/ascii",
-      "stars": 294,
+      "stars": 297,
       "forks": 8,
       "language": "JavaScript",
       "topics": [
@@ -1510,8 +1532,23 @@
         "web-components"
       ],
       "created_at": "2026-10-19T08:00:49Z",
-      "updated_at": "2026-10-24T09:33:46Z",
+      "updated_at": "2026-10-24T16:52:10Z",
       "pushed_at": "2026-10-19T11:32:11Z"
+    },
+    {
+      "id": 1427744908,
+      "name": "ATBGamePort",
+      "full_name": "atbfun/ATBGamePort",
+      "description": "Transplant all the games to the web platform",
+      "html_url": "https://github.com/atbfun/ATBGamePort",
+      "homepage": null,
+      "stars": 292,
+      "forks": 58,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-21T01:29:33Z",
+      "updated_at": "2026-10-24T13:49:41Z",
+      "pushed_at": "2026-10-22T23:33:10Z"
     },
     {
       "id": 1406229181,
@@ -1538,21 +1575,6 @@
       "created_at": "2026-10-05T18:35:21Z",
       "updated_at": "2026-10-11T02:30:18Z",
       "pushed_at": "2026-10-09T16:59:30Z"
-    },
-    {
-      "id": 1427744908,
-      "name": "ATBGamePort",
-      "full_name": "atbfun/ATBGamePort",
-      "description": "Transplant all the games to the web platform",
-      "html_url": "https://github.com/atbfun/ATBGamePort",
-      "homepage": null,
-      "stars": 291,
-      "forks": 58,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-21T01:29:33Z",
-      "updated_at": "2026-10-24T09:05:07Z",
-      "pushed_at": "2026-10-22T23:33:10Z"
     },
     {
       "id": 1408673153,
@@ -1593,28 +1615,6 @@
       "created_at": "2026-10-12T13:24:03Z",
       "updated_at": "2026-10-18T13:35:48Z",
       "pushed_at": "2026-10-16T22:12:58Z"
-    },
-    {
-      "id": 1427344613,
-      "name": "quiet-tizen",
-      "full_name": "jss8649/quiet-tizen",
-      "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
-      "html_url": "https://github.com/jss8649/quiet-tizen",
-      "homepage": null,
-      "stars": 283,
-      "forks": 33,
-      "language": "Python",
-      "topics": [
-        "codex",
-        "debloat",
-        "launcher",
-        "samsung-tv",
-        "smart-tv",
-        "tizen"
-      ],
-      "created_at": "2026-10-20T17:23:41Z",
-      "updated_at": "2026-10-24T12:02:03Z",
-      "pushed_at": "2026-10-20T17:24:38Z"
     },
     {
       "id": 1375594818,
@@ -1663,12 +1663,12 @@
       "description": "Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack",
       "html_url": "https://github.com/OmkarK97/webos-vibehack",
       "homepage": null,
-      "stars": 271,
+      "stars": 276,
       "forks": 38,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-19T08:11:45Z",
-      "updated_at": "2026-10-24T11:44:23Z",
+      "updated_at": "2026-10-24T15:24:13Z",
       "pushed_at": "2026-10-19T08:11:51Z"
     },
     {
@@ -1987,6 +1987,27 @@
       "pushed_at": "2026-09-27T18:48:24Z"
     },
     {
+      "id": 1424555473,
+      "name": "plugin-interior",
+      "full_name": "img2threejs/plugin-interior",
+      "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
+      "html_url": "https://github.com/img2threejs/plugin-interior",
+      "homepage": "https://img2threejs.io/",
+      "stars": 214,
+      "forks": 24,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "blender",
+        "img2plugin",
+        "img2threejs",
+        "img2x"
+      ],
+      "created_at": "2026-10-18T16:02:27Z",
+      "updated_at": "2026-10-24T17:15:44Z",
+      "pushed_at": "2026-10-19T15:18:07Z"
+    },
+    {
       "id": 1413253552,
       "name": "UniForge3D",
       "full_name": "xibushu/UniForge3D",
@@ -2000,27 +2021,6 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
-    },
-    {
-      "id": 1424555473,
-      "name": "plugin-interior",
-      "full_name": "img2threejs/plugin-interior",
-      "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
-      "html_url": "https://github.com/img2threejs/plugin-interior",
-      "homepage": "https://img2threejs.io/",
-      "stars": 211,
-      "forks": 24,
-      "language": "Python",
-      "topics": [
-        "3d",
-        "blender",
-        "img2plugin",
-        "img2threejs",
-        "img2x"
-      ],
-      "created_at": "2026-10-18T16:02:27Z",
-      "updated_at": "2026-10-24T12:08:52Z",
-      "pushed_at": "2026-10-19T15:18:07Z"
     },
     {
       "id": 1423658114,
@@ -2179,6 +2179,21 @@
       "pushed_at": "2026-10-09T08:08:45Z"
     },
     {
+      "id": 1426280410,
+      "name": "FreeMyTvWebOS",
+      "full_name": "danielthejoker18/FreeMyTvWebOS",
+      "description": "",
+      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
+      "homepage": null,
+      "stars": 208,
+      "forks": 26,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-19T23:20:22Z",
+      "updated_at": "2026-10-24T17:01:48Z",
+      "pushed_at": "2026-10-23T00:00:14Z"
+    },
+    {
       "id": 1415436686,
       "name": "ssbu-recomp",
       "full_name": "Denkishi/ssbu-recomp",
@@ -2243,21 +2258,6 @@
       "created_at": "2026-10-17T19:10:45Z",
       "updated_at": "2026-10-18T00:26:09Z",
       "pushed_at": "2026-10-17T19:10:52Z"
-    },
-    {
-      "id": 1426280410,
-      "name": "FreeMyTvWebOS",
-      "full_name": "danielthejoker18/FreeMyTvWebOS",
-      "description": "",
-      "html_url": "https://github.com/danielthejoker18/FreeMyTvWebOS",
-      "homepage": null,
-      "stars": 203,
-      "forks": 26,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-19T23:20:22Z",
-      "updated_at": "2026-10-24T11:27:41Z",
-      "pushed_at": "2026-10-23T00:00:14Z"
     },
     {
       "id": 1376284519,
@@ -2382,6 +2382,21 @@
       "created_at": "2026-10-05T10:26:25Z",
       "updated_at": "2026-10-05T21:07:56Z",
       "pushed_at": "2026-10-05T10:26:31Z"
+    },
+    {
+      "id": 1424601929,
+      "name": "Bursar",
+      "full_name": "Samsara-1999/Bursar",
+      "description": "Accounts and quotas for a shared GPU cluster.",
+      "html_url": "https://github.com/Samsara-1999/Bursar",
+      "homepage": null,
+      "stars": 201,
+      "forks": 3,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-18T16:51:55Z",
+      "updated_at": "2026-10-24T15:21:36Z",
+      "pushed_at": "2026-10-16T22:07:43Z"
     },
     {
       "id": 1405554378,
@@ -2510,6 +2525,21 @@
       "pushed_at": "2026-10-17T19:14:04Z"
     },
     {
+      "id": 1425358398,
+      "name": "Hiddify-Manager",
+      "full_name": "philips71017/Hiddify-Manager",
+      "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",
+      "html_url": "https://github.com/philips71017/Hiddify-Manager",
+      "homepage": null,
+      "stars": 196,
+      "forks": 27,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-19T09:01:13Z",
+      "updated_at": "2026-10-24T17:08:05Z",
+      "pushed_at": "2026-10-19T13:52:47Z"
+    },
+    {
       "id": 1380797051,
       "name": "threejs-architecture-effects",
       "full_name": "lhlGitHub/threejs-architecture-effects",
@@ -2603,6 +2633,21 @@
       "created_at": "2026-10-16T00:42:04Z",
       "updated_at": "2026-10-22T22:58:12Z",
       "pushed_at": "2026-10-22T21:59:37Z"
+    },
+    {
+      "id": 1425343979,
+      "name": "nfsu2-web",
+      "full_name": "th0mk/nfsu2-web",
+      "description": "",
+      "html_url": "https://github.com/th0mk/nfsu2-web",
+      "homepage": "https://nfsu2.xyz/",
+      "stars": 192,
+      "forks": 38,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-19T08:47:39Z",
+      "updated_at": "2026-10-24T17:13:59Z",
+      "pushed_at": "2026-10-24T17:02:32Z"
     },
     {
       "id": 1388097438,
@@ -2783,36 +2828,6 @@
       "created_at": "2026-10-12T06:22:39Z",
       "updated_at": "2026-10-18T19:42:50Z",
       "pushed_at": "2026-10-18T08:33:25Z"
-    },
-    {
-      "id": 1425343979,
-      "name": "nfsu2-web",
-      "full_name": "th0mk/nfsu2-web",
-      "description": "",
-      "html_url": "https://github.com/th0mk/nfsu2-web",
-      "homepage": "https://nfsu2.xyz/",
-      "stars": 179,
-      "forks": 34,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-19T08:47:39Z",
-      "updated_at": "2026-10-24T12:28:18Z",
-      "pushed_at": "2026-10-24T12:28:14Z"
-    },
-    {
-      "id": 1425358398,
-      "name": "Hiddify-Manager",
-      "full_name": "philips71017/Hiddify-Manager",
-      "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",
-      "html_url": "https://github.com/philips71017/Hiddify-Manager",
-      "homepage": null,
-      "stars": 176,
-      "forks": 20,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-19T09:01:13Z",
-      "updated_at": "2026-10-24T07:00:47Z",
-      "pushed_at": "2026-10-19T13:52:47Z"
     },
     {
       "id": 1415913339,
@@ -3020,6 +3035,41 @@
       "pushed_at": "2026-10-20T12:45:47Z"
     },
     {
+      "id": 1430297568,
+      "name": "DLSS5-Unlocker",
+      "full_name": "SmokeProduction/DLSS5-Unlocker",
+      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
+      "html_url": "https://github.com/SmokeProduction/DLSS5-Unlocker",
+      "homepage": null,
+      "stars": 164,
+      "forks": 14,
+      "language": null,
+      "topics": [
+        "amd",
+        "amd-gpu",
+        "dlss",
+        "dlss-5",
+        "dlss-5-mod",
+        "dlss5",
+        "dlss5-optiscaler",
+        "dlss5-swapper",
+        "dlss5-universal",
+        "fps-booster-no-lag",
+        "frame-generation",
+        "fsr",
+        "mod-manager",
+        "modding",
+        "nvidia",
+        "nvidia-gpu",
+        "pc-gaming",
+        "radeon",
+        "super-resolution"
+      ],
+      "created_at": "2026-10-22T21:35:38Z",
+      "updated_at": "2026-10-24T16:51:24Z",
+      "pushed_at": "2026-10-24T11:20:37Z"
+    },
+    {
       "id": 1391423600,
       "name": "neonplan3d",
       "full_name": "Mastershort/neonplan3d",
@@ -3089,13 +3139,49 @@
       "description": "Super Mario Maker 2 Recomp",
       "html_url": "https://github.com/smm2recomp/smm2recomp",
       "homepage": null,
-      "stars": 159,
+      "stars": 161,
       "forks": 15,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-19T03:02:41Z",
-      "updated_at": "2026-10-24T12:27:42Z",
-      "pushed_at": "2026-10-24T11:34:23Z"
+      "updated_at": "2026-10-24T16:47:31Z",
+      "pushed_at": "2026-10-24T13:19:14Z"
+    },
+    {
+      "id": 1429974885,
+      "name": "glm-5.3-abliterated",
+      "full_name": "7API/glm-5.3-abliterated",
+      "description": "GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.",
+      "html_url": "https://github.com/7API/glm-5.3-abliterated",
+      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
+      "stars": 158,
+      "forks": 36,
+      "language": null,
+      "topics": [
+        "abliterated",
+        "abliterated-models",
+        "ai-jailbreaks",
+        "anthropic-compatible",
+        "claude-code",
+        "glm",
+        "glm-5-3",
+        "glm-5-3-abliterated",
+        "glm-5-3-abliterated-api",
+        "glm-5-3-flash",
+        "glm-5-3-jailbreak",
+        "glm-5-3-uncensored",
+        "glm-5-3-uncensored-api",
+        "jailbreak-prompts",
+        "llm-jailbreak",
+        "openai-compatible",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-model",
+        "zhipu"
+      ],
+      "created_at": "2026-10-22T16:07:16Z",
+      "updated_at": "2026-10-24T17:00:18Z",
+      "pushed_at": "2026-10-23T06:24:13Z"
     },
     {
       "id": 1400877599,
@@ -3137,40 +3223,19 @@
       "pushed_at": "2026-10-20T21:15:59Z"
     },
     {
-      "id": 1429974885,
-      "name": "glm-5.3-abliterated",
-      "full_name": "7API/glm-5.3-abliterated",
-      "description": "GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.",
-      "html_url": "https://github.com/7API/glm-5.3-abliterated",
-      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
+      "id": 1427389017,
+      "name": "AutoMorph",
+      "full_name": "holjab/AutoMorph",
+      "description": "A self-hosted tool for automatically patching and distributing Android packages, built on Morphe Desktop.",
+      "html_url": "https://github.com/holjab/AutoMorph",
+      "homepage": null,
       "stars": 157,
-      "forks": 36,
-      "language": null,
-      "topics": [
-        "abliterated",
-        "abliterated-models",
-        "ai-jailbreaks",
-        "anthropic-compatible",
-        "claude-code",
-        "glm",
-        "glm-5-3",
-        "glm-5-3-abliterated",
-        "glm-5-3-abliterated-api",
-        "glm-5-3-flash",
-        "glm-5-3-jailbreak",
-        "glm-5-3-uncensored",
-        "glm-5-3-uncensored-api",
-        "jailbreak-prompts",
-        "llm-jailbreak",
-        "openai-compatible",
-        "uncensored",
-        "uncensored-ai",
-        "uncensored-ai-model",
-        "zhipu"
-      ],
-      "created_at": "2026-10-22T16:07:16Z",
-      "updated_at": "2026-10-24T10:33:55Z",
-      "pushed_at": "2026-10-23T06:24:13Z"
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-20T18:04:37Z",
+      "updated_at": "2026-10-24T16:43:49Z",
+      "pushed_at": "2026-10-24T05:58:22Z"
     },
     {
       "id": 1382304020,
@@ -3235,19 +3300,34 @@
       "pushed_at": "2026-10-17T19:09:44Z"
     },
     {
-      "id": 1427389017,
-      "name": "AutoMorph",
-      "full_name": "holjab/AutoMorph",
-      "description": "A self-hosted tool for automatically patching and distributing Android packages, built on Morphe Desktop.",
-      "html_url": "https://github.com/holjab/AutoMorph",
+      "id": 1429010697,
+      "name": "php2shell",
+      "full_name": "devploit/php2shell",
+      "description": "PHP2Shell: version-aware research toolkit for CVE-2026-109618 / CVE-2026-109619 — pre-auth RCE in PHP session.upload_progress (mod_php). Build profiles, labs, heap calibration and detection guidance for authorized security testing.",
+      "html_url": "https://github.com/devploit/php2shell",
       "homepage": null,
       "stars": 152,
-      "forks": 8,
+      "forks": 49,
       "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-20T18:04:37Z",
-      "updated_at": "2026-10-24T11:41:01Z",
-      "pushed_at": "2026-10-24T05:58:22Z"
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "exploit",
+        "mod-php",
+        "penetration-testing",
+        "php",
+        "php-security",
+        "php2shell",
+        "poc",
+        "rce",
+        "red-team",
+        "security-research",
+        "session-upload-progress",
+        "vulnerability-research"
+      ],
+      "created_at": "2026-10-21T22:53:01Z",
+      "updated_at": "2026-10-24T16:23:52Z",
+      "pushed_at": "2026-10-22T11:43:17Z"
     },
     {
       "id": 1423657988,
@@ -3296,6 +3376,21 @@
       "pushed_at": "2026-10-17T19:10:11Z"
     },
     {
+      "id": 1427877411,
+      "name": "rl-env-use",
+      "full_name": "browser-use/rl-env-use",
+      "description": "Build RL environments for any domain from real cases that Browser Use agents mine from the web",
+      "html_url": "https://github.com/browser-use/rl-env-use",
+      "homepage": null,
+      "stars": 151,
+      "forks": 10,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-21T04:31:55Z",
+      "updated_at": "2026-10-24T16:40:24Z",
+      "pushed_at": "2026-10-21T04:32:02Z"
+    },
+    {
       "id": 1418592001,
       "name": "ComfyUI-MangaScreen",
       "full_name": "ashukae/ComfyUI-MangaScreen",
@@ -3329,72 +3424,12 @@
       "html_url": "https://github.com/sintaxerrorpvtltd/Open-Tangerine",
       "homepage": "https://sintaxerrorpvtltd.github.io/Open-Tangerine/",
       "stars": 149,
-      "forks": 24,
+      "forks": 25,
       "language": "Swift",
       "topics": [],
       "created_at": "2026-10-18T18:32:15Z",
       "updated_at": "2026-10-24T11:18:18Z",
       "pushed_at": "2026-10-22T11:59:39Z"
-    },
-    {
-      "id": 1429010697,
-      "name": "php2shell",
-      "full_name": "devploit/php2shell",
-      "description": "PHP2Shell: version-aware research toolkit for CVE-2026-109618 / CVE-2026-109619 — pre-auth RCE in PHP session.upload_progress (mod_php). Build profiles, labs, heap calibration and detection guidance for authorized security testing.",
-      "html_url": "https://github.com/devploit/php2shell",
-      "homepage": null,
-      "stars": 149,
-      "forks": 45,
-      "language": "Python",
-      "topics": [
-        "cve-2026-109618",
-        "cve-2026-109619",
-        "exploit",
-        "mod-php",
-        "penetration-testing",
-        "php",
-        "php-security",
-        "php2shell",
-        "poc",
-        "rce",
-        "red-team",
-        "security-research",
-        "session-upload-progress",
-        "vulnerability-research"
-      ],
-      "created_at": "2026-10-21T22:53:01Z",
-      "updated_at": "2026-10-24T09:07:45Z",
-      "pushed_at": "2026-10-22T11:43:17Z"
-    },
-    {
-      "id": 1424601929,
-      "name": "Bursar",
-      "full_name": "Samsara-1999/Bursar",
-      "description": "Accounts and quotas for a shared GPU cluster.",
-      "html_url": "https://github.com/Samsara-1999/Bursar",
-      "homepage": null,
-      "stars": 146,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-18T16:51:55Z",
-      "updated_at": "2026-10-22T14:02:24Z",
-      "pushed_at": "2026-10-16T22:07:43Z"
-    },
-    {
-      "id": 1427877411,
-      "name": "rl-env-use",
-      "full_name": "browser-use/rl-env-use",
-      "description": "Build RL environments for any domain from real cases that Browser Use agents mine from the web",
-      "html_url": "https://github.com/browser-use/rl-env-use",
-      "homepage": null,
-      "stars": 146,
-      "forks": 9,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-21T04:31:55Z",
-      "updated_at": "2026-10-22T23:48:23Z",
-      "pushed_at": "2026-10-21T04:32:02Z"
     },
     {
       "id": 1410815894,
@@ -3532,6 +3567,31 @@
       "pushed_at": "2026-10-13T11:09:28Z"
     },
     {
+      "id": 1427871238,
+      "name": "simple-reviewer-v1",
+      "full_name": "Monopoly0024/simple-reviewer-v1",
+      "description": "Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。",
+      "html_url": "https://github.com/Monopoly0024/simple-reviewer-v1",
+      "homepage": null,
+      "stars": 138,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-assisted-coding",
+        "code-explanation",
+        "code-quality",
+        "code-review",
+        "codex",
+        "codex-skill",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "created_at": "2026-10-21T04:22:59Z",
+      "updated_at": "2026-10-24T13:28:58Z",
+      "pushed_at": "2026-10-23T09:26:21Z"
+    },
+    {
       "id": 1403448265,
       "name": "short-video-generator",
       "full_name": "dakukibana/short-video-generator",
@@ -3553,31 +3613,6 @@
       "created_at": "2026-10-03T17:10:43Z",
       "updated_at": "2026-10-05T02:37:53Z",
       "pushed_at": "2026-10-03T17:16:17Z"
-    },
-    {
-      "id": 1427871238,
-      "name": "simple-reviewer-v1",
-      "full_name": "Monopoly0024/simple-reviewer-v1",
-      "description": "Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。",
-      "html_url": "https://github.com/Monopoly0024/simple-reviewer-v1",
-      "homepage": null,
-      "stars": 137,
-      "forks": 9,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "ai-assisted-coding",
-        "code-explanation",
-        "code-quality",
-        "code-review",
-        "codex",
-        "codex-skill",
-        "vibe-coding",
-        "vibecoding"
-      ],
-      "created_at": "2026-10-21T04:22:59Z",
-      "updated_at": "2026-10-24T01:29:02Z",
-      "pushed_at": "2026-10-23T09:26:21Z"
     },
     {
       "id": 1390688516,
@@ -3697,6 +3732,21 @@
       "pushed_at": "2026-10-09T10:13:23Z"
     },
     {
+      "id": 1424456679,
+      "name": "SignalScope",
+      "full_name": "lwh0630/SignalScope",
+      "description": "SignalScope — An Android network-signal inspector built with Flutter and Kotlin. SIM, LTE/5G, Wi-Fi, GNSS, and latency tests.",
+      "html_url": "https://github.com/lwh0630/SignalScope",
+      "homepage": null,
+      "stars": 132,
+      "forks": 10,
+      "language": "Dart",
+      "topics": [],
+      "created_at": "2026-10-18T14:22:44Z",
+      "updated_at": "2026-10-24T16:00:49Z",
+      "pushed_at": "2026-10-20T08:58:38Z"
+    },
+    {
       "id": 1414942519,
       "name": "EdenLive",
       "full_name": "VAST-AI-Research/EdenLive",
@@ -3714,21 +3764,6 @@
       "created_at": "2026-10-12T01:57:33Z",
       "updated_at": "2026-10-18T19:01:13Z",
       "pushed_at": "2026-10-18T10:54:15Z"
-    },
-    {
-      "id": 1424456679,
-      "name": "SignalScope",
-      "full_name": "lwh0630/SignalScope",
-      "description": "SignalScope — An Android network-signal inspector built with Flutter and Kotlin. SIM, LTE/5G, Wi-Fi, GNSS, and latency tests.",
-      "html_url": "https://github.com/lwh0630/SignalScope",
-      "homepage": null,
-      "stars": 131,
-      "forks": 10,
-      "language": "Dart",
-      "topics": [],
-      "created_at": "2026-10-18T14:22:44Z",
-      "updated_at": "2026-10-22T15:06:18Z",
-      "pushed_at": "2026-10-20T08:58:38Z"
     },
     {
       "id": 1385750356,
@@ -3754,41 +3789,6 @@
       "created_at": "2026-09-24T15:00:59Z",
       "updated_at": "2026-09-30T10:15:14Z",
       "pushed_at": "2026-09-24T15:02:21Z"
-    },
-    {
-      "id": 1430297568,
-      "name": "DLSS5-Unlocker",
-      "full_name": "SmokeProduction/DLSS5-Unlocker",
-      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
-      "html_url": "https://github.com/SmokeProduction/DLSS5-Unlocker",
-      "homepage": null,
-      "stars": 127,
-      "forks": 14,
-      "language": null,
-      "topics": [
-        "amd",
-        "amd-gpu",
-        "dlss",
-        "dlss-5",
-        "dlss-5-mod",
-        "dlss5",
-        "dlss5-optiscaler",
-        "dlss5-swapper",
-        "dlss5-universal",
-        "fps-booster-no-lag",
-        "frame-generation",
-        "fsr",
-        "mod-manager",
-        "modding",
-        "nvidia",
-        "nvidia-gpu",
-        "pc-gaming",
-        "radeon",
-        "super-resolution"
-      ],
-      "created_at": "2026-10-22T21:35:38Z",
-      "updated_at": "2026-10-24T11:20:41Z",
-      "pushed_at": "2026-10-24T11:20:37Z"
     },
     {
       "id": 1426197381,
@@ -3942,6 +3942,21 @@
       "pushed_at": "2026-10-19T14:47:10Z"
     },
     {
+      "id": 1429011384,
+      "name": "correlation",
+      "full_name": "bhoult/correlation",
+      "description": "Do stock correlations predict the market? 66 pre-registered tests, the data, and a triple pendulum that explains why not.  If you have an idea you want me to try, submit it as a PR and I will test it and get back to you.",
+      "html_url": "https://github.com/bhoult/correlation",
+      "homepage": null,
+      "stars": 123,
+      "forks": 21,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-21T22:54:00Z",
+      "updated_at": "2026-10-24T17:11:06Z",
+      "pushed_at": "2026-10-21T23:16:55Z"
+    },
+    {
       "id": 1414327429,
       "name": "awesome-iran-mcp",
       "full_name": "sepehr071/awesome-iran-mcp",
@@ -4020,6 +4035,21 @@
       "created_at": "2026-10-19T22:21:30Z",
       "updated_at": "2026-10-22T23:03:24Z",
       "pushed_at": "2026-10-19T22:21:50Z"
+    },
+    {
+      "id": 1427294192,
+      "name": "Haiou-workshop",
+      "full_name": "haiou-666/Haiou-workshop",
+      "description": "海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。",
+      "html_url": "https://github.com/haiou-666/Haiou-workshop",
+      "homepage": null,
+      "stars": 121,
+      "forks": 60,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-20T16:38:05Z",
+      "updated_at": "2026-10-24T16:02:12Z",
+      "pushed_at": "2026-10-21T12:19:33Z"
     },
     {
       "id": 1417978332,
@@ -4103,28 +4133,13 @@
       "pushed_at": "2026-10-12T10:11:18Z"
     },
     {
-      "id": 1427294192,
-      "name": "Haiou-workshop",
-      "full_name": "haiou-666/Haiou-workshop",
-      "description": "海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。",
-      "html_url": "https://github.com/haiou-666/Haiou-workshop",
-      "homepage": null,
-      "stars": 119,
-      "forks": 58,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-20T16:38:05Z",
-      "updated_at": "2026-10-24T11:58:06Z",
-      "pushed_at": "2026-10-21T12:19:33Z"
-    },
-    {
       "id": 1429468579,
       "name": "rom-cli",
       "full_name": "danisiber/rom-cli",
       "description": "Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.",
       "html_url": "https://github.com/danisiber/rom-cli",
       "homepage": "https://github.com/danisiber/rom-cli",
-      "stars": 118,
+      "stars": 119,
       "forks": 27,
       "language": "Python",
       "topics": [
@@ -4138,7 +4153,7 @@
         "textual"
       ],
       "created_at": "2026-10-22T08:38:38Z",
-      "updated_at": "2026-10-24T03:52:52Z",
+      "updated_at": "2026-10-24T15:51:24Z",
       "pushed_at": "2026-10-22T08:55:27Z"
     },
     {
@@ -4160,6 +4175,37 @@
       "created_at": "2026-10-10T02:48:39Z",
       "updated_at": "2026-10-16T01:30:39Z",
       "pushed_at": "2026-10-10T03:10:04Z"
+    },
+    {
+      "id": 1428439343,
+      "name": "esp-labs-web",
+      "full_name": "agharsallah/esp-labs-web",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
+      "html_url": "https://github.com/agharsallah/esp-labs-web",
+      "homepage": "https://esp-labs-web.vercel.app",
+      "stars": 117,
+      "forks": 15,
+      "language": "TypeScript",
+      "topics": [
+        "education",
+        "electronics",
+        "embedded",
+        "esp32",
+        "esp32-s3",
+        "i18n",
+        "interactive-learning",
+        "pinout",
+        "react",
+        "react-router",
+        "rtl",
+        "simulator",
+        "tanstack-query",
+        "typescript",
+        "vite"
+      ],
+      "created_at": "2026-10-21T13:40:04Z",
+      "updated_at": "2026-10-24T17:12:39Z",
+      "pushed_at": "2026-10-24T15:58:51Z"
     },
     {
       "id": 1404682975,
@@ -4342,6 +4388,31 @@
       "pushed_at": "2026-09-26T15:32:59Z"
     },
     {
+      "id": 1427856225,
+      "name": "php2shell-protection",
+      "full_name": "syhunt/php2shell-protection",
+      "description": "Defensive mitigation and testing toolkit for PHP security vulnerabilities (CVE-2026-109618, CVE-2026-109619, CVE-2026-115560), including Apache protections and PHP hardening guidance",
+      "html_url": "https://github.com/syhunt/php2shell-protection",
+      "homepage": null,
+      "stars": 111,
+      "forks": 11,
+      "language": "PHP",
+      "topics": [
+        "apache",
+        "application-security",
+        "appsec",
+        "cybersecurity",
+        "defenses",
+        "mitigation",
+        "patches",
+        "php",
+        "php-security"
+      ],
+      "created_at": "2026-10-21T04:01:24Z",
+      "updated_at": "2026-10-24T17:09:32Z",
+      "pushed_at": "2026-10-23T11:59:53Z"
+    },
+    {
       "id": 1379139682,
       "name": "polytech-tree",
       "full_name": "secwind7/polytech-tree",
@@ -4406,21 +4477,6 @@
       "created_at": "2026-10-15T00:27:59Z",
       "updated_at": "2026-10-21T21:54:14Z",
       "pushed_at": "2026-10-17T21:31:12Z"
-    },
-    {
-      "id": 1429011384,
-      "name": "correlation",
-      "full_name": "bhoult/correlation",
-      "description": "Do stock correlations predict the market? 66 pre-registered tests, the data, and a triple pendulum that explains why not.  If you have an idea you want me to try, submit it as a PR and I will test it and get back to you.",
-      "html_url": "https://github.com/bhoult/correlation",
-      "homepage": null,
-      "stars": 110,
-      "forks": 20,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-21T22:54:00Z",
-      "updated_at": "2026-10-24T12:27:44Z",
-      "pushed_at": "2026-10-21T23:16:55Z"
     },
     {
       "id": 1387885716,
@@ -4734,31 +4790,6 @@
       "pushed_at": "2026-10-14T09:14:29Z"
     },
     {
-      "id": 1427856225,
-      "name": "php2shell-protection",
-      "full_name": "syhunt/php2shell-protection",
-      "description": "Defensive mitigation and testing toolkit for PHP security vulnerabilities (CVE-2026-109618, CVE-2026-109619, CVE-2026-115560), including Apache protections and PHP hardening guidance",
-      "html_url": "https://github.com/syhunt/php2shell-protection",
-      "homepage": null,
-      "stars": 107,
-      "forks": 10,
-      "language": "PHP",
-      "topics": [
-        "apache",
-        "application-security",
-        "appsec",
-        "cybersecurity",
-        "defenses",
-        "mitigation",
-        "patches",
-        "php",
-        "php-security"
-      ],
-      "created_at": "2026-10-21T04:01:24Z",
-      "updated_at": "2026-10-24T10:24:32Z",
-      "pushed_at": "2026-10-23T11:59:53Z"
-    },
-    {
       "id": 1377007152,
       "name": "ritridata",
       "full_name": "reco-tools/ritridata",
@@ -4830,6 +4861,21 @@
       "pushed_at": "2026-10-19T13:05:33Z"
     },
     {
+      "id": 1427813091,
+      "name": "Hy-Nomas",
+      "full_name": "Tencent-Hunyuan/Hy-Nomas",
+      "description": "Hy-Nomas: Towards Free-form Interactive World Generation",
+      "html_url": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
+      "homepage": null,
+      "stars": 106,
+      "forks": 12,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-21T03:04:54Z",
+      "updated_at": "2026-10-24T17:09:00Z",
+      "pushed_at": "2026-10-24T08:09:41Z"
+    },
+    {
       "id": 1395984333,
       "name": "kantor-ai",
       "full_name": "kangkungmozzarella/kantor-ai",
@@ -4858,6 +4904,26 @@
       "created_at": "2026-10-19T12:38:45Z",
       "updated_at": "2026-10-19T13:00:57Z",
       "pushed_at": "2026-10-19T12:38:51Z"
+    },
+    {
+      "id": 1428303251,
+      "name": "cleanyourtv-WebOS",
+      "full_name": "lasharor/cleanyourtv-WebOS",
+      "description": "A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.",
+      "html_url": "https://github.com/lasharor/cleanyourtv-WebOS",
+      "homepage": null,
+      "stars": 105,
+      "forks": 16,
+      "language": "HTML",
+      "topics": [
+        "homescreen",
+        "lg",
+        "rootmytv",
+        "webos"
+      ],
+      "created_at": "2026-10-21T11:43:47Z",
+      "updated_at": "2026-10-24T17:01:43Z",
+      "pushed_at": "2026-10-24T16:59:22Z"
     },
     {
       "id": 1387522551,
@@ -5897,6 +5963,31 @@
       "pushed_at": "2026-10-18T05:21:50Z"
     },
     {
+      "id": 1424690602,
+      "name": "PicoLab",
+      "full_name": "CoretechR/PicoLab",
+      "description": "Web-GUI Embedded Multitool",
+      "html_url": "https://github.com/CoretechR/PicoLab",
+      "homepage": "https://hackaday.io/project/207129",
+      "stars": 89,
+      "forks": 12,
+      "language": "C",
+      "topics": [
+        "3d-printing",
+        "debug",
+        "embedded",
+        "interface",
+        "multitools",
+        "raspberry-pi",
+        "raspberry-pi-pico",
+        "tool",
+        "user"
+      ],
+      "created_at": "2026-10-18T18:32:01Z",
+      "updated_at": "2026-10-24T16:11:49Z",
+      "pushed_at": "2026-10-21T16:08:47Z"
+    },
+    {
       "id": 1375760472,
       "name": "Crypto-Checker",
       "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
@@ -5933,24 +6024,35 @@
       "pushed_at": "2026-09-18T11:35:53Z"
     },
     {
-      "id": 1428303251,
-      "name": "cleanyourtv-WebOS",
-      "full_name": "lasharor/cleanyourtv-WebOS",
-      "description": "A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.",
-      "html_url": "https://github.com/lasharor/cleanyourtv-WebOS",
+      "id": 1427833144,
+      "name": "open-sesame",
+      "full_name": "hassan-algo/open-sesame",
+      "description": "🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF).",
+      "html_url": "https://github.com/hassan-algo/open-sesame",
       "homepage": null,
       "stars": 88,
       "forks": 14,
       "language": "HTML",
       "topics": [
-        "homescreen",
-        "lg",
-        "rootmytv",
-        "webos"
+        "ai-agents",
+        "anthropic",
+        "appsec",
+        "claude",
+        "claude-code",
+        "ethical-hacking",
+        "infosec",
+        "owasp",
+        "owasp-wstg",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "vulnerability-assessment",
+        "web-security"
       ],
-      "created_at": "2026-10-21T11:43:47Z",
-      "updated_at": "2026-10-24T12:16:25Z",
-      "pushed_at": "2026-10-24T12:28:25Z"
+      "created_at": "2026-10-21T03:31:18Z",
+      "updated_at": "2026-10-24T14:56:14Z",
+      "pushed_at": "2026-10-22T18:23:41Z"
     },
     {
       "id": 1402924075,
@@ -5971,37 +6073,6 @@
       "created_at": "2026-10-03T09:02:14Z",
       "updated_at": "2026-10-08T06:33:32Z",
       "pushed_at": "2026-10-03T19:59:55Z"
-    },
-    {
-      "id": 1427833144,
-      "name": "open-sesame",
-      "full_name": "hassan-algo/open-sesame",
-      "description": "🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF).",
-      "html_url": "https://github.com/hassan-algo/open-sesame",
-      "homepage": null,
-      "stars": 87,
-      "forks": 13,
-      "language": "HTML",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "appsec",
-        "claude",
-        "claude-code",
-        "ethical-hacking",
-        "infosec",
-        "owasp",
-        "owasp-wstg",
-        "penetration-testing",
-        "pentesting",
-        "security",
-        "security-tools",
-        "vulnerability-assessment",
-        "web-security"
-      ],
-      "created_at": "2026-10-21T03:31:18Z",
-      "updated_at": "2026-10-24T11:14:32Z",
-      "pushed_at": "2026-10-22T18:23:41Z"
     },
     {
       "id": 1405691280,
@@ -6291,29 +6362,50 @@
       "pushed_at": "2026-10-10T12:51:22Z"
     },
     {
-      "id": 1424690602,
-      "name": "PicoLab",
-      "full_name": "CoretechR/PicoLab",
-      "description": "Web-GUI Embedded Multitool",
-      "html_url": "https://github.com/CoretechR/PicoLab",
-      "homepage": "https://hackaday.io/project/207129",
+      "id": 1426514073,
+      "name": "ComfyUI-CharacterCardStudio",
+      "full_name": "JGRFW/ComfyUI-CharacterCardStudio",
+      "description": "ComfyUI custom node: one-click character reference sheet (character card) generation, auto slice & recomposition for Qwen-Image 2.1",
+      "html_url": "https://github.com/JGRFW/ComfyUI-CharacterCardStudio",
+      "homepage": null,
       "stars": 81,
-      "forks": 11,
-      "language": "C",
+      "forks": 10,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-20T04:53:55Z",
+      "updated_at": "2026-10-24T17:04:49Z",
+      "pushed_at": "2026-10-22T13:05:23Z"
+    },
+    {
+      "id": 1423852275,
+      "name": "traydex",
+      "full_name": "ipavlin98/traydex",
+      "description": "Native drag-and-drop shelf for Windows. Drag a file and it slides in: keep files, images, text and links at hand, or drop them on tiles to zip, convert, compress, OCR and upload. Rust + GPUI, no Electron or web engine.",
+      "html_url": "https://github.com/ipavlin98/traydex",
+      "homepage": "https://github.com/ipavlin98/traydex/releases",
+      "stars": 81,
+      "forks": 0,
+      "language": "Rust",
       "topics": [
-        "3d-printing",
-        "debug",
-        "embedded",
-        "interface",
-        "multitools",
-        "raspberry-pi",
-        "raspberry-pi-pico",
-        "tool",
-        "user"
+        "clipboard",
+        "desktop-app",
+        "drag-and-drop",
+        "file-manager",
+        "gpui",
+        "native",
+        "ocr",
+        "productivity",
+        "rust",
+        "shelf",
+        "tray",
+        "utility",
+        "windows",
+        "windows-10",
+        "windows-11"
       ],
-      "created_at": "2026-10-18T18:32:01Z",
-      "updated_at": "2026-10-24T12:25:19Z",
-      "pushed_at": "2026-10-21T16:08:47Z"
+      "created_at": "2026-10-18T00:05:42Z",
+      "updated_at": "2026-10-24T16:12:23Z",
+      "pushed_at": "2026-10-22T20:31:13Z"
     },
     {
       "id": 1386777688,
@@ -6966,50 +7058,6 @@
       "pushed_at": "2026-10-22T01:26:00Z"
     },
     {
-      "id": 1426514073,
-      "name": "ComfyUI-CharacterCardStudio",
-      "full_name": "JGRFW/ComfyUI-CharacterCardStudio",
-      "description": "ComfyUI custom node: one-click character reference sheet (character card) generation, auto slice & recomposition for Qwen-Image 2.1",
-      "html_url": "https://github.com/JGRFW/ComfyUI-CharacterCardStudio",
-      "homepage": null,
-      "stars": 69,
-      "forks": 9,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-20T04:53:55Z",
-      "updated_at": "2026-10-24T11:40:27Z",
-      "pushed_at": "2026-10-22T13:05:23Z"
-    },
-    {
-      "id": 1428439343,
-      "name": "esp-labs-web",
-      "full_name": "agharsallah/esp-labs-web",
-      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons for every track with interactive simulators, a code reader for the esp-labs firmware, and the bench log.",
-      "html_url": "https://github.com/agharsallah/esp-labs-web",
-      "homepage": null,
-      "stars": 69,
-      "forks": 10,
-      "language": "TypeScript",
-      "topics": [
-        "education",
-        "electronics",
-        "embedded",
-        "esp32",
-        "esp32-s3",
-        "interactive-learning",
-        "pinout",
-        "react",
-        "react-router",
-        "simulator",
-        "tanstack-query",
-        "typescript",
-        "vite"
-      ],
-      "created_at": "2026-10-21T13:40:04Z",
-      "updated_at": "2026-10-24T12:28:40Z",
-      "pushed_at": "2026-10-21T13:40:10Z"
-    },
-    {
       "id": 1396348192,
       "name": "compress",
       "full_name": "spenmcke/compress",
@@ -7130,8 +7178,8 @@
         "zefoy"
       ],
       "created_at": "2026-10-22T11:43:08Z",
-      "updated_at": "2026-10-23T17:48:03Z",
-      "pushed_at": "2026-10-23T17:47:58Z"
+      "updated_at": "2026-10-24T16:28:55Z",
+      "pushed_at": "2026-10-24T16:28:51Z"
     },
     {
       "id": 1375694442,
@@ -10976,6 +11024,21 @@
       "pushed_at": "2026-10-15T16:41:16Z"
     },
     {
+      "id": 1427205041,
+      "name": "FastStrata",
+      "full_name": "Jarson1408/FastStrata",
+      "description": "Run Qwen3.6-35B-A3B and Ornith 1.5, 35B MoE coding models, on a gaming PC with a 6 GB NVIDIA RTX card: 144K context, 49-72 tok/s on an RTX 3060 laptop. One installer sets up the model, a ready-made engine and its own gateway for OpenCode. Fork of PolyStrata.",
+      "html_url": "https://github.com/Jarson1408/FastStrata",
+      "homepage": null,
+      "stars": 23,
+      "forks": 1,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-20T15:21:41Z",
+      "updated_at": "2026-10-24T13:18:17Z",
+      "pushed_at": "2026-10-24T06:47:18Z"
+    },
+    {
       "id": 1413789740,
       "name": "TacHen",
       "full_name": "GronedWaffel/TacHen",
@@ -11094,19 +11157,32 @@
       "pushed_at": "2026-10-18T11:19:57Z"
     },
     {
-      "id": 1427205041,
-      "name": "FastStrata",
-      "full_name": "Jarson1408/FastStrata",
-      "description": "Run Qwen3.6-35B-A3B and Ornith 1.5, 35B MoE coding models, on a gaming PC with a 6 GB NVIDIA RTX card: 144K context, 49-72 tok/s on an RTX 3060 laptop. One installer sets up the model, a ready-made engine and its own gateway for OpenCode. Fork of PolyStrata.",
-      "html_url": "https://github.com/Jarson1408/FastStrata",
-      "homepage": null,
+      "id": 1430276458,
+      "name": "dsh-nekowhale-stickers",
+      "full_name": "Loping151/dsh-nekowhale-stickers",
+      "description": "大肥鱼 / GPT娘 sticker knowledge kit for DeepSeek Harness (dsh), MCP and any chat bot · 大肥鱼表情包知识库",
+      "html_url": "https://github.com/Loping151/dsh-nekowhale-stickers",
+      "homepage": "https://www.npmjs.com/package/dsh-nekowhale-stickers",
       "stars": 22,
       "forks": 1,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-20T15:21:41Z",
-      "updated_at": "2026-10-24T06:47:22Z",
-      "pushed_at": "2026-10-24T06:47:18Z"
+      "language": "TypeScript",
+      "topics": [
+        "chatbot",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "emoji",
+        "live2d",
+        "mcp",
+        "mcp-server",
+        "meme",
+        "qqbot",
+        "stickers"
+      ],
+      "created_at": "2026-10-22T21:08:41Z",
+      "updated_at": "2026-10-24T15:32:15Z",
+      "pushed_at": "2026-10-23T11:42:39Z"
     },
     {
       "id": 1394505594,
@@ -11403,34 +11479,6 @@
       "pushed_at": "2026-10-20T10:53:30Z"
     },
     {
-      "id": 1430276458,
-      "name": "dsh-nekowhale-stickers",
-      "full_name": "Loping151/dsh-nekowhale-stickers",
-      "description": "大肥鱼 / GPT娘 sticker knowledge kit for DeepSeek Harness (dsh), MCP and any chat bot · 大肥鱼表情包知识库",
-      "html_url": "https://github.com/Loping151/dsh-nekowhale-stickers",
-      "homepage": "https://www.npmjs.com/package/dsh-nekowhale-stickers",
-      "stars": 20,
-      "forks": 1,
-      "language": "TypeScript",
-      "topics": [
-        "chatbot",
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "emoji",
-        "live2d",
-        "mcp",
-        "mcp-server",
-        "meme",
-        "qqbot",
-        "stickers"
-      ],
-      "created_at": "2026-10-22T21:08:41Z",
-      "updated_at": "2026-10-24T11:40:04Z",
-      "pushed_at": "2026-10-23T11:42:39Z"
-    },
-    {
       "id": 1409514013,
       "name": "weasley-clock-card",
       "full_name": "Nite01007/weasley-clock-card",
@@ -11593,6 +11641,30 @@
       "created_at": "2026-10-15T11:28:45Z",
       "updated_at": "2026-10-21T22:20:14Z",
       "pushed_at": "2026-10-16T16:19:31Z"
+    },
+    {
+      "id": 1430793055,
+      "name": "CyberUI.koplugin",
+      "full_name": "EmirErtorer/CyberUI.koplugin",
+      "description": "A fast cyberpunk home screen for KOReader: ASCII covers, neon themes, a library browser and KOReader's menu restyled, built for e-ink.",
+      "html_url": "https://github.com/EmirErtorer/CyberUI.koplugin",
+      "homepage": null,
+      "stars": 18,
+      "forks": 0,
+      "language": "Lua",
+      "topics": [
+        "ascii-art",
+        "cyberpunk",
+        "e-ink",
+        "home-screen",
+        "kindle",
+        "kobo",
+        "koreader",
+        "koreader-plugin"
+      ],
+      "created_at": "2026-10-23T08:42:35Z",
+      "updated_at": "2026-10-24T16:50:03Z",
+      "pushed_at": "2026-10-24T15:19:39Z"
     },
     {
       "id": 1386745578,
@@ -11891,6 +11963,59 @@
       "pushed_at": "2026-10-24T03:46:19Z"
     },
     {
+      "id": 1429295201,
+      "name": "TizenAmbilight",
+      "full_name": "RitwickVerma/TizenAmbilight",
+      "description": "Real-frame ambilight for Samsung Tizen TVs — reads the TV's own decoded video plane, drives a WLED strip over UDP, no capture card",
+      "html_url": "https://github.com/RitwickVerma/TizenAmbilight",
+      "homepage": null,
+      "stars": 16,
+      "forks": 1,
+      "language": "C#",
+      "topics": [
+        "ambilight",
+        "dotnet",
+        "home-automation",
+        "led-strip",
+        "samsung-tizen",
+        "smart-tv",
+        "tizen",
+        "wled"
+      ],
+      "created_at": "2026-10-22T05:40:58Z",
+      "updated_at": "2026-10-24T14:17:46Z",
+      "pushed_at": "2026-10-22T23:06:13Z"
+    },
+    {
+      "id": 1425583257,
+      "name": "heatpump-hydraulic-card",
+      "full_name": "Sturmi77/heatpump-hydraulic-card",
+      "description": "Animated hydraulic schematic card for heat pumps in Home Assistant – power sources, diverter valve, tanks, heating circuit. Zero-config presets for Lambda, Viessmann, Vaillant, Bosch/Buderus (EMS-ESP) and Panasonic Aquarea.",
+      "html_url": "https://github.com/Sturmi77/heatpump-hydraulic-card",
+      "homepage": "https://sturmi77.github.io/heatpump-hydraulic-card/",
+      "stars": 16,
+      "forks": 1,
+      "language": "HTML",
+      "topics": [
+        "buderus",
+        "custom-card",
+        "dashboard",
+        "hacs",
+        "heat-pump",
+        "heatpump",
+        "home-assistant",
+        "lambda",
+        "lovelace",
+        "lovelace-card",
+        "panasonic-aquarea",
+        "vaillant",
+        "viessmann"
+      ],
+      "created_at": "2026-10-19T12:29:06Z",
+      "updated_at": "2026-10-24T16:45:03Z",
+      "pushed_at": "2026-10-24T16:45:00Z"
+    },
+    {
       "id": 1430113995,
       "name": "firered-ai-switch",
       "full_name": "xhinzz/firered-ai-switch",
@@ -12100,30 +12225,6 @@
       "created_at": "2026-10-18T20:43:50Z",
       "updated_at": "2026-10-22T19:00:30Z",
       "pushed_at": "2026-10-18T20:55:15Z"
-    },
-    {
-      "id": 1429295201,
-      "name": "TizenAmbilight",
-      "full_name": "RitwickVerma/TizenAmbilight",
-      "description": "Real-frame ambilight for Samsung Tizen TVs — reads the TV's own decoded video plane, drives a WLED strip over UDP, no capture card",
-      "html_url": "https://github.com/RitwickVerma/TizenAmbilight",
-      "homepage": null,
-      "stars": 15,
-      "forks": 1,
-      "language": "C#",
-      "topics": [
-        "ambilight",
-        "dotnet",
-        "home-automation",
-        "led-strip",
-        "samsung-tizen",
-        "smart-tv",
-        "tizen",
-        "wled"
-      ],
-      "created_at": "2026-10-22T05:40:58Z",
-      "updated_at": "2026-10-24T03:03:57Z",
-      "pushed_at": "2026-10-22T23:06:13Z"
     },
     {
       "id": 1379723846,
