@@ -1,6 +1,6 @@
 # 🎯 NewTrend AI 新词与飙升雷达研报（带【gpts】绝对量级标尺）
 
-> **生成时间**：2026/10/25 17:33:45
+> **生成时间**：2026/10/25 20:39:35
 > **对比标尺（Benchmark）**：`gpts`（全球月搜约 10 万+ 的大盘基准）
 > **方法论参考**：[📘 新词极速变现标准指南 (Playbook)](file:///g:/1.旅行携带资料/TrendSpy/docs/NEW_TREND_MONETIZATION_PLAYBOOK.md)
 > **降噪策略**：已启用【商业意图过滤器】、【GEO 8大推荐规范】与【语义聚类去重】。
@@ -13,12 +13,12 @@
 
 | # | 目标新词 | 交付物形态 | 标尺热度 | 变现模式 | 💡 建议 GEO 落地 H1 标语 | 🚀 验证 |
 |---|---|---|---|---|---|---|
-| 1 | **chuttamalle song** | `AI 歌曲与歌词排版` | GPTs×1.693 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=chuttamalle%20song,gpts) \| [🔍 SERP](https://www.google.com/search?q=chuttamalle%20song) |
+| 1 | **chuttamalle song** | `AI 歌曲与歌词排版` | GPTs×1.672 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=chuttamalle%20song,gpts) \| [🔍 SERP](https://www.google.com/search?q=chuttamalle%20song) |
 | 2 | **sora ai video generator** | `AI 双人/动作运镜视频` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Two photos. One sora ai video generator video.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=sora%20ai%20video%20generator,gpts) \| [🔍 SERP](https://www.google.com/search?q=sora%20ai%20video%20generator) |
-| 3 | **devara ai song** | `AI 歌曲与歌词排版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=devara%20ai%20song,gpts) \| [🔍 SERP](https://www.google.com/search?q=devara%20ai%20song) |
-| 4 | **janhvi kapoor chuttamalle song ai video** | `AI 歌曲与歌词排版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=janhvi%20kapoor%20chuttamalle%20song%20ai%20video,gpts) \| [🔍 SERP](https://www.google.com/search?q=janhvi%20kapoor%20chuttamalle%20song%20ai%20video) |
-| 5 | **apple music replay** | `AI 歌曲与歌词排版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=apple%20music%20replay,gpts) \| [🔍 SERP](https://www.google.com/search?q=apple%20music%20replay) |
-| 6 | **dessa ai voice** | `AI 声音与配音克隆` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Clone voice and generate speech in seconds.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=dessa%20ai%20voice,gpts) \| [🔍 SERP](https://www.google.com/search?q=dessa%20ai%20voice) |
+| 3 | **dessa ai voice** | `AI 声音与配音克隆` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Clone voice and generate speech in seconds.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=dessa%20ai%20voice,gpts) \| [🔍 SERP](https://www.google.com/search?q=dessa%20ai%20voice) |
+| 4 | **devara ai song** | `AI 歌曲与歌词排版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=devara%20ai%20song,gpts) \| [🔍 SERP](https://www.google.com/search?q=devara%20ai%20song) |
+| 5 | **janhvi kapoor chuttamalle song ai video** | `AI 歌曲与歌词排版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=janhvi%20kapoor%20chuttamalle%20song%20ai%20video,gpts) \| [🔍 SERP](https://www.google.com/search?q=janhvi%20kapoor%20chuttamalle%20song%20ai%20video) |
+| 6 | **apple music replay** | `AI 歌曲与歌词排版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Generate full track with lyrics instantly.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=apple%20music%20replay,gpts) \| [🔍 SERP](https://www.google.com/search?q=apple%20music%20replay) |
 | 7 | **receiptify template** | `AI 视频/模版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Two inputs. One receiptify template result.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20template,gpts) \| [🔍 SERP](https://www.google.com/search?q=receiptify%20template) |
 | 8 | **openai model plays world of warcraft** | `AI 视频/模版` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Two inputs. One openai model plays world of warcraft result.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20model%20plays%20world%20of%20warcraft,gpts) \| [🔍 SERP](https://www.google.com/search?q=openai%20model%20plays%20world%20of%20warcraft) |
 | 9 | **hotel lobby ai filter** | `AI 特效与自传播滤镜` | GPTs×0.050 | **一次性积分包 ($5.99)**<br>送极小试用预览 | `Turn your photo into hotel lobby ai filter in 3 seconds.` | [📈 Trends](https://trends.google.com/trends/explore?date=today%201-m&q=hotel%20lobby%20ai%20filter,gpts) \| [🔍 SERP](https://www.google.com/search?q=hotel%20lobby%20ai%20filter) |
@@ -32,26 +32,26 @@
 
 | # | 关键词 | 归属实体 | 爆发时间 | 相对 GPTs 倍率 | 当前动量 | 💡 落地与套利建议 | 🚀 验证链接 |
 |---|---|---|---|---|---|---|---|
-| 1 | **qwen 2.1** | `qwen` | Sep 20 爆发 | **GPTs×1.446** | 高位维持 | Qwen 开源模型 WebUI 部署助手与 Prompts 库 | [📈 Trends 对比](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%202.1,gpts) \| [🔍 SERP](https://www.google.com/search?q=qwen%202.1) |
-| 2 | **deepseek v4.1** | `deepseek` | Sep 9 爆发 | **GPTs×1.838** | 回落中 | DeepSeek API 价格计算器 / 格式转换中间件 | [📈 Trends 对比](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20v4.1,gpts) \| [🔍 SERP](https://www.google.com/search?q=deepseek%20v4.1) |
-| 3 | **deepseek flash v4.1** | `deepseek` | 10/8 爆发 | **GPTs×1.442** | 回落中 | DeepSeek API 价格计算器 / 格式转换中间件 | [📈 Trends 对比](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20flash%20v4.1,gpts) \| [🔍 SERP](https://www.google.com/search?q=deepseek%20flash%20v4.1) |
+| 1 | **qwen 2.1** | `qwen` | Sep 20 爆发 | **GPTs×1.453** | 高位维持 | Qwen 开源模型 WebUI 部署助手与 Prompts 库 | [📈 Trends 对比](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%202.1,gpts) \| [🔍 SERP](https://www.google.com/search?q=qwen%202.1) |
+| 2 | **deepseek v4.1** | `deepseek` | Sep 9 爆发 | **GPTs×1.831** | 回落中 | DeepSeek API 价格计算器 / 格式转换中间件 | [📈 Trends 对比](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20v4.1,gpts) \| [🔍 SERP](https://www.google.com/search?q=deepseek%20v4.1) |
+| 3 | **deepseek flash v4.1** | `deepseek` | 10/8 爆发 | **GPTs×1.433** | 回落中 | DeepSeek API 价格计算器 / 格式转换中间件 | [📈 Trends 对比](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20flash%20v4.1,gpts) \| [🔍 SERP](https://www.google.com/search?q=deepseek%20flash%20v4.1) |
 
 ## 📈 四、 高涨幅上升词全景榜单（≥1000% 或飙升）
 
 | # | 关键词 | 涨幅状态 | 归属实体 | 赛道类型 | 标尺热度 | 商业属性 | 快速验证 |
 |---|---|---|---|---|---|---|---|
-| 01 | **qwen 2.1** | `飙升` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×1.446 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%202.1,gpts) |
-| 02 | **deepseek v4.1** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×1.838 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20v4.1,gpts) |
-| 03 | **chuttamalle song** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×1.693 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=chuttamalle%20song,gpts) |
-| 04 | **le chat** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×14.070 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=le%20chat,gpts) |
-| 05 | **deepseek flash v4.1** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×1.442 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20flash%20v4.1,gpts) |
+| 01 | **qwen 2.1** | `飙升` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×1.453 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%202.1,gpts) |
+| 02 | **deepseek v4.1** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×1.831 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20v4.1,gpts) |
+| 03 | **chuttamalle song** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×1.672 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=chuttamalle%20song,gpts) |
+| 04 | **le chat** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×14.141 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=le%20chat,gpts) |
+| 05 | **deepseek flash v4.1** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×1.433 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20flash%20v4.1,gpts) |
 | 06 | **mistral large 4** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.432 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20large%204,gpts) |
 | 07 | **openai dots** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×2.225 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20dots,gpts) |
-| 08 | **quad ed** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.454 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=quad%20ed,gpts) |
-| 09 | **spotify receipt** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.229 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=spotify%20receipt,gpts) |
-| 10 | **mistral ai login** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.010 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ai%20login,gpts) |
+| 08 | **quad ed** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.455 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=quad%20ed,gpts) |
+| 09 | **spotify receipt** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.228 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=spotify%20receipt,gpts) |
+| 10 | **mistral ai login** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.009 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ai%20login,gpts) |
 | 11 | **le chonk** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.246 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=le%20chonk,gpts) |
-| 12 | **douyin** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×7.097 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=douyin,gpts) |
+| 12 | **douyin** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×7.111 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=douyin,gpts) |
 | 13 | **doubao 输入 法** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=doubao%20%E8%BE%93%E5%85%A5%20%E6%B3%95,gpts) |
 | 14 | **minimax** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax,gpts) |
 | 15 | **1688** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=1688,gpts) |
@@ -100,25 +100,25 @@
 | 58 | **reflection ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=reflection%20ai,gpts) |
 | 59 | **muse ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=muse%20ai,gpts) |
 | 60 | **google ai studio** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20ai%20studio,gpts) |
-| 61 | **dola ai** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dola%20ai,gpts) |
-| 62 | **receiptify app** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20app,gpts) |
-| 63 | **groq api key** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=groq%20api%20key,gpts) |
-| 64 | **minimax m3.1 flash** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20m3.1%20flash,gpts) |
+| 61 | **minimax m3.1 flash** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20m3.1%20flash,gpts) |
+| 62 | **dola ai** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dola%20ai,gpts) |
+| 63 | **receiptify app** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20app,gpts) |
+| 64 | **groq api key** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=groq%20api%20key,gpts) |
 | 65 | **bilibili** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=bilibili,gpts) |
 | 66 | **arthur mensch** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=arthur%20mensch,gpts) |
 | 67 | **nordvpn discount** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=nordvpn%20discount,gpts) |
 | 68 | **colonbroom** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=colonbroom,gpts) |
 | 69 | **when does spotify wrapped come out** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=when%20does%20spotify%20wrapped%20come%20out,gpts) |
 | 70 | **copilot ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=copilot%20ai,gpts) |
-| 71 | **workbuddy** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=workbuddy,gpts) |
-| 72 | **libtv** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=libtv,gpts) |
-| 73 | **duck ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=duck%20ai,gpts) |
-| 74 | **kimi ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20ai,gpts) |
-| 75 | **best pizza near me** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=best%20pizza%20near%20me,gpts) |
-| 76 | **vidu q4** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20q4,gpts) |
-| 77 | **runway gen 3** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=runway%20gen%203,gpts) |
-| 78 | **codex** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=codex,gpts) |
-| 79 | **deepseek 1017** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%201017,gpts) |
+| 71 | **deepseek 1017** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%201017,gpts) |
+| 72 | **workbuddy** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=workbuddy,gpts) |
+| 73 | **libtv** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=libtv,gpts) |
+| 74 | **duck ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=duck%20ai,gpts) |
+| 75 | **kimi ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20ai,gpts) |
+| 76 | **best pizza near me** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=best%20pizza%20near%20me,gpts) |
+| 77 | **vidu q4** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20q4,gpts) |
+| 78 | **runway gen 3** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=runway%20gen%203,gpts) |
+| 79 | **codex** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=codex,gpts) |
 | 80 | **mistral ai ceo** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ai%20ceo,gpts) |
 | 81 | **together ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=together%20ai,gpts) |
 | 82 | **cheapest flights to tokyo** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cheapest%20flights%20to%20tokyo,gpts) |
@@ -150,12 +150,12 @@
 | 108 | **what is medvi** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20medvi,gpts) |
 | 109 | **last fm** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=last%20fm,gpts) |
 | 110 | **cursor bench** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cursor%20bench,gpts) |
-| 111 | **invideo ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=invideo%20ai,gpts) |
-| 112 | **betmgm bonus** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=betmgm%20bonus,gpts) |
-| 113 | **linkedin** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=linkedin,gpts) |
-| 114 | **etsy coupon** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=etsy%20coupon,gpts) |
-| 115 | **mistral document ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20document%20ai,gpts) |
-| 116 | **mistral vs claude** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20vs%20claude,gpts) |
+| 111 | **mistral vs claude** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20vs%20claude,gpts) |
+| 112 | **invideo ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=invideo%20ai,gpts) |
+| 113 | **betmgm bonus** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=betmgm%20bonus,gpts) |
+| 114 | **linkedin** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=linkedin,gpts) |
+| 115 | **etsy coupon** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=etsy%20coupon,gpts) |
+| 116 | **mistral document ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20document%20ai,gpts) |
 | 117 | **openrouter** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openrouter,gpts) |
 | 118 | **huggingchat** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=huggingchat,gpts) |
 | 119 | **doubao adventure** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=doubao%20adventure,gpts) |
@@ -197,16 +197,16 @@
 | 155 | **anime zero codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anime%20zero%20codes,gpts) |
 | 156 | **obscurify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=obscurify,gpts) |
 | 157 | **moonshot ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=moonshot%20ai,gpts) |
-| 158 | **qwen ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%20ai,gpts) |
-| 159 | **haiper ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=haiper%20ai,gpts) |
-| 160 | **grokbot** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=grokbot,gpts) |
-| 161 | **is receiptify safe** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=is%20receiptify%20safe,gpts) |
-| 162 | **september receiptify spotify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=september%20receiptify%20spotify,gpts) |
-| 163 | **mistral small 4** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20small%204,gpts) |
-| 164 | **new york times** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=new%20york%20times,gpts) |
-| 165 | **sora ai video generator** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sora%20ai%20video%20generator,gpts) |
-| 166 | **veo3** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=veo3,gpts) |
-| 167 | **king ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=king%20ai,gpts) |
+| 158 | **king ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=king%20ai,gpts) |
+| 159 | **qwen ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%20ai,gpts) |
+| 160 | **haiper ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=haiper%20ai,gpts) |
+| 161 | **grokbot** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=grokbot,gpts) |
+| 162 | **is receiptify safe** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=is%20receiptify%20safe,gpts) |
+| 163 | **september receiptify spotify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=september%20receiptify%20spotify,gpts) |
+| 164 | **mistral small 4** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20small%204,gpts) |
+| 165 | **new york times** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=new%20york%20times,gpts) |
+| 166 | **sora ai video generator** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sora%20ai%20video%20generator,gpts) |
+| 167 | **veo3** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=veo3,gpts) |
 | 168 | **nvidia nim** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=nvidia%20nim,gpts) |
 | 169 | **grok bot pricing** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=grok%20bot%20pricing,gpts) |
 | 170 | **roast my spotify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=roast%20my%20spotify,gpts) |
@@ -226,74 +226,74 @@
 | 184 | **flared leggings** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flared%20leggings,gpts) |
 | 185 | **receipty** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receipty,gpts) |
 | 186 | **pocketpair palworld future updates** | `飙升` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pocketpair%20palworld%20future%20updates,gpts) |
-| 187 | **cider coupon** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cider%20coupon,gpts) |
-| 188 | **devara ai song** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=devara%20ai%20song,gpts) |
-| 189 | **meta ai charm** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ai%20charm,gpts) |
-| 190 | **lm studio** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lm%20studio,gpts) |
-| 191 | **vanta** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vanta,gpts) |
-| 192 | **chinaside tycoon** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=chinaside%20tycoon,gpts) |
-| 193 | **vllm** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vllm,gpts) |
-| 194 | **aider** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=aider,gpts) |
-| 195 | **viggle ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=viggle%20ai,gpts) |
-| 196 | **grok ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=grok%20ai,gpts) |
-| 197 | **openai mathematical research impact** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20mathematical%20research%20impact,gpts) |
-| 198 | **meta vr glasses** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20vr%20glasses,gpts) |
-| 199 | **receptify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receptify,gpts) |
-| 200 | **vidu q4 preview** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20q4%20preview,gpts) |
-| 201 | **janhvi kapoor chuttamalle song ai video** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=janhvi%20kapoor%20chuttamalle%20song%20ai%20video,gpts) |
-| 202 | **recitify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=recitify,gpts) |
-| 203 | **cursor logo** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cursor%20logo,gpts) |
-| 204 | **davinci resolve** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=davinci%20resolve,gpts) |
-| 205 | **hugging face** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hugging%20face,gpts) |
-| 206 | **stable diffusion** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=stable%20diffusion,gpts) |
-| 207 | **openai jev** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20jev,gpts) |
-| 208 | **spotistats** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=spotistats,gpts) |
-| 209 | **datadog** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=datadog,gpts) |
-| 210 | **rtx 3090 qwen 27b token generation** | `飙升` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rtx%203090%20qwen%2027b%20token%20generation,gpts) |
-| 211 | **receiptify adalah** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20adalah,gpts) |
-| 212 | **anthropic whistleblower** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20whistleblower,gpts) |
-| 213 | **luma dream machine** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=luma%20dream%20machine,gpts) |
-| 214 | **nano banana** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=nano%20banana,gpts) |
-| 215 | **loot to forge codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=loot%20to%20forge%20codes,gpts) |
-| 216 | **hotel lobby ai** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hotel%20lobby%20ai,gpts) |
-| 217 | **receiptify login** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20login,gpts) |
-| 218 | **my9albums** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=my9albums,gpts) |
-| 219 | **apple music replay** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=apple%20music%20replay,gpts) |
-| 220 | **flux 3 max** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux%203%20max,gpts) |
-| 221 | **decisions api** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=decisions%20api,gpts) |
-| 222 | **qwen 4 release date** | `飙升` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%204%20release%20date,gpts) |
-| 223 | **kabuki codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kabuki%20codes,gpts) |
-| 224 | **vadu** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vadu,gpts) |
-| 225 | **oil tycoon secrets** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=oil%20tycoon%20secrets,gpts) |
-| 226 | **instinct ai** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=instinct%20ai,gpts) |
-| 227 | **anthropic duet** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20duet,gpts) |
-| 228 | **shigaku codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=shigaku%20codes,gpts) |
-| 229 | **vidu ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20ai,gpts) |
-| 230 | **meshy ai** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meshy%20ai,gpts) |
-| 231 | **muse charm** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=muse%20charm,gpts) |
-| 232 | **scion anthropic** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=scion%20anthropic,gpts) |
-| 233 | **ai detector** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20detector,gpts) |
-| 234 | **everygen ai** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=everygen%20ai,gpts) |
-| 235 | **receiptify herokuapp** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20herokuapp,gpts) |
-| 236 | **capafy ai** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=capafy%20ai,gpts) |
-| 237 | **minimax h3** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20h3,gpts) |
-| 238 | **instafest** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=instafest,gpts) |
-| 239 | **ai benchmarks** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20benchmarks,gpts) |
-| 240 | **suno ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20ai,gpts) |
-| 241 | **musicgpt** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=musicgpt,gpts) |
-| 242 | **google vids** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20vids,gpts) |
-| 243 | **dream car collection roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dream%20car%20collection%20roblox%20codes,gpts) |
-| 244 | **loremotion** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=loremotion,gpts) |
-| 245 | **google receiptify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20receiptify,gpts) |
-| 246 | **dubao** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dubao,gpts) |
-| 247 | **hermes agent** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hermes%20agent,gpts) |
-| 248 | **sonauto ai** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sonauto%20ai,gpts) |
-| 249 | **planet zoo 2** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=planet%20zoo%202,gpts) |
-| 250 | **deep seek** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deep%20seek,gpts) |
-| 251 | **minimax 3.1 flash** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%203.1%20flash,gpts) |
-| 252 | **deepseek deepinfer** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20deepinfer,gpts) |
-| 253 | **krea ai** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=krea%20ai,gpts) |
-| 254 | **dessa ai voice** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dessa%20ai%20voice,gpts) |
+| 187 | **dessa ai voice** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dessa%20ai%20voice,gpts) |
+| 188 | **cider coupon** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cider%20coupon,gpts) |
+| 189 | **devara ai song** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=devara%20ai%20song,gpts) |
+| 190 | **meta ai charm** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ai%20charm,gpts) |
+| 191 | **lm studio** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lm%20studio,gpts) |
+| 192 | **vanta** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vanta,gpts) |
+| 193 | **chinaside tycoon** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=chinaside%20tycoon,gpts) |
+| 194 | **vllm** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vllm,gpts) |
+| 195 | **aider** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=aider,gpts) |
+| 196 | **viggle ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=viggle%20ai,gpts) |
+| 197 | **grok ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=grok%20ai,gpts) |
+| 198 | **openai mathematical research impact** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20mathematical%20research%20impact,gpts) |
+| 199 | **meta vr glasses** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20vr%20glasses,gpts) |
+| 200 | **receptify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receptify,gpts) |
+| 201 | **vidu q4 preview** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20q4%20preview,gpts) |
+| 202 | **janhvi kapoor chuttamalle song ai video** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=janhvi%20kapoor%20chuttamalle%20song%20ai%20video,gpts) |
+| 203 | **recitify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=recitify,gpts) |
+| 204 | **cursor logo** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cursor%20logo,gpts) |
+| 205 | **davinci resolve** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=davinci%20resolve,gpts) |
+| 206 | **hugging face** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hugging%20face,gpts) |
+| 207 | **stable diffusion** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=stable%20diffusion,gpts) |
+| 208 | **openai jev** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20jev,gpts) |
+| 209 | **spotistats** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=spotistats,gpts) |
+| 210 | **datadog** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=datadog,gpts) |
+| 211 | **rtx 3090 qwen 27b token generation** | `飙升` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rtx%203090%20qwen%2027b%20token%20generation,gpts) |
+| 212 | **anthropic duet** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20duet,gpts) |
+| 213 | **receiptify adalah** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20adalah,gpts) |
+| 214 | **anthropic whistleblower** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20whistleblower,gpts) |
+| 215 | **luma dream machine** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=luma%20dream%20machine,gpts) |
+| 216 | **nano banana** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=nano%20banana,gpts) |
+| 217 | **loot to forge codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=loot%20to%20forge%20codes,gpts) |
+| 218 | **hotel lobby ai** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hotel%20lobby%20ai,gpts) |
+| 219 | **receiptify login** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20login,gpts) |
+| 220 | **my9albums** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=my9albums,gpts) |
+| 221 | **apple music replay** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=apple%20music%20replay,gpts) |
+| 222 | **flux 3 max** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux%203%20max,gpts) |
+| 223 | **decisions api** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=decisions%20api,gpts) |
+| 224 | **qwen 4 release date** | `飙升` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%204%20release%20date,gpts) |
+| 225 | **kabuki codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kabuki%20codes,gpts) |
+| 226 | **vadu** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vadu,gpts) |
+| 227 | **oil tycoon secrets** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=oil%20tycoon%20secrets,gpts) |
+| 228 | **instinct ai** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=instinct%20ai,gpts) |
+| 229 | **shigaku codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=shigaku%20codes,gpts) |
+| 230 | **vidu ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20ai,gpts) |
+| 231 | **meshy ai** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meshy%20ai,gpts) |
+| 232 | **muse charm** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=muse%20charm,gpts) |
+| 233 | **scion anthropic** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=scion%20anthropic,gpts) |
+| 234 | **ai detector** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20detector,gpts) |
+| 235 | **everygen ai** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=everygen%20ai,gpts) |
+| 236 | **receiptify herokuapp** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20herokuapp,gpts) |
+| 237 | **capafy ai** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=capafy%20ai,gpts) |
+| 238 | **minimax h3** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20h3,gpts) |
+| 239 | **instafest** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=instafest,gpts) |
+| 240 | **ai benchmarks** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20benchmarks,gpts) |
+| 241 | **suno ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20ai,gpts) |
+| 242 | **musicgpt** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=musicgpt,gpts) |
+| 243 | **google vids** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20vids,gpts) |
+| 244 | **dream car collection roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dream%20car%20collection%20roblox%20codes,gpts) |
+| 245 | **loremotion** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=loremotion,gpts) |
+| 246 | **google receiptify** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20receiptify,gpts) |
+| 247 | **dubao** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dubao,gpts) |
+| 248 | **hermes agent** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hermes%20agent,gpts) |
+| 249 | **sonauto ai** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sonauto%20ai,gpts) |
+| 250 | **planet zoo 2** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=planet%20zoo%202,gpts) |
+| 251 | **deep seek** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deep%20seek,gpts) |
+| 252 | **minimax 3.1 flash** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%203.1%20flash,gpts) |
+| 253 | **deepseek deepinfer** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20deepinfer,gpts) |
+| 254 | **krea ai** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=krea%20ai,gpts) |
 | 255 | **one dropper tycoon codes** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=one%20dropper%20tycoon%20codes,gpts) |
 | 256 | **posthog careers** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=posthog%20careers,gpts) |
 | 257 | **slayer 2 codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=slayer%202%20codes,gpts) |
@@ -311,13 +311,13 @@
 | 269 | **kimi anderson** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20anderson,gpts) |
 | 270 | **udio.com** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=udio.com,gpts) |
 | 271 | **ernie bot** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ernie%20bot,gpts) |
-| 272 | **dreamina ai** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dreamina%20ai,gpts) |
-| 273 | **rece** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rece,gpts) |
-| 274 | **pix verse** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pix%20verse,gpts) |
-| 275 | **duobao** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=duobao,gpts) |
-| 276 | **chatgpt dots** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=chatgpt%20dots,gpts) |
-| 277 | **minimax m3 1 flash** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20m3%201%20flash,gpts) |
-| 278 | **kimi 3.1 pro** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%203.1%20pro,gpts) |
+| 272 | **kimi 3.1 pro** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%203.1%20pro,gpts) |
+| 273 | **dreamina ai** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dreamina%20ai,gpts) |
+| 274 | **rece** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rece,gpts) |
+| 275 | **pix verse** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pix%20verse,gpts) |
+| 276 | **duobao** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=duobao,gpts) |
+| 277 | **chatgpt dots** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=chatgpt%20dots,gpts) |
+| 278 | **minimax m3 1 flash** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20m3%201%20flash,gpts) |
 | 279 | **pi ai** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pi%20ai,gpts) |
 | 280 | **alexandr wang** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=alexandr%20wang,gpts) |
 | 281 | **higgsfield hotel lobby** | `飙升` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20hotel%20lobby,gpts) |
@@ -371,15 +371,15 @@
 | 329 | **openai mathematics breakthrough navier stokes** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20mathematics%20breakthrough%20navier%20stokes,gpts) |
 | 330 | **higgsfield katana** | `飙升` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20katana,gpts) |
 | 331 | **hotel lobby ai filter** | `飙升` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hotel%20lobby%20ai%20filter,gpts) |
-| 332 | **amd stock** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=amd%20stock,gpts) |
-| 333 | **bizarre roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=bizarre%20roblox%20codes,gpts) |
-| 334 | **hugging face spaces** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hugging%20face%20spaces,gpts) |
+| 332 | **hugging face spaces** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hugging%20face%20spaces,gpts) |
+| 333 | **amd stock** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=amd%20stock,gpts) |
+| 334 | **bizarre roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=bizarre%20roblox%20codes,gpts) |
 | 335 | **openai math github** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20math%20github,gpts) |
 | 336 | **survive the night roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=survive%20the%20night%20roblox%20codes,gpts) |
 | 337 | **pixverse ai** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pixverse%20ai,gpts) |
 | 338 | **ia gratuite** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ia%20gratuite,gpts) |
-| 339 | **anthropic investor day** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20investor%20day,gpts) |
-| 340 | **arasaka academy codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=arasaka%20academy%20codes,gpts) |
+| 339 | **arasaka academy codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=arasaka%20academy%20codes,gpts) |
+| 340 | **anthropic investor day** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20investor%20day,gpts) |
 | 341 | **llama 3** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=llama%203,gpts) |
 | 342 | **openai decision api** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20decision%20api,gpts) |
 | 343 | **notebookllm** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=notebookllm,gpts) |
@@ -470,8 +470,8 @@
 | 428 | **drive a kukirin roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=drive%20a%20kukirin%20roblox%20codes,gpts) |
 | 429 | **meta applied ai department staffing** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20applied%20ai%20department%20staffing,gpts) |
 | 430 | **remaker ai** | `飙升` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=remaker%20ai,gpts) |
-| 431 | **arena ai** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=arena%20ai,gpts) |
-| 432 | **meta global ai developer hackathon** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20global%20ai%20developer%20hackathon,gpts) |
+| 431 | **meta global ai developer hackathon** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20global%20ai%20developer%20hackathon,gpts) |
+| 432 | **arena ai** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=arena%20ai,gpts) |
 | 433 | **beanbag adventures** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=beanbag%20adventures,gpts) |
 | 434 | **meta ai infrastructure tax savings** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ai%20infrastructure%20tax%20savings,gpts) |
 | 435 | **ltx studio** | `飙升` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ltx%20studio,gpts) |
@@ -495,8 +495,8 @@
 | 453 | **receiptify for apple** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20for%20apple,gpts) |
 | 454 | **doubao-seed-2.0 benchmark** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=doubao-seed-2.0%20benchmark,gpts) |
 | 455 | **roblox codes build** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=roblox%20codes%20build,gpts) |
-| 456 | **receiptify youtube** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20youtube,gpts) |
-| 457 | **runway gen-3 luma dream machine** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=runway%20gen-3%20luma%20dream%20machine,gpts) |
+| 456 | **runway gen-3 luma dream machine** | `飙升` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=runway%20gen-3%20luma%20dream%20machine,gpts) |
+| 457 | **receiptify youtube** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20youtube,gpts) |
 | 458 | **flux ai image** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux%20ai%20image,gpts) |
 | 459 | **tycoon generator roblox** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tycoon%20generator%20roblox,gpts) |
 | 460 | **tycoon but one dropper** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tycoon%20but%20one%20dropper,gpts) |
@@ -3116,32 +3116,32 @@
 | 3074 | **blueberries and older adult mood** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=blueberries%20and%20older%20adult%20mood,gpts) |
 | 3075 | **airbuds fm** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=airbuds%20fm,gpts) |
 | 3076 | **palworld fan poll winner sekhmet** | `飙升` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20fan%20poll%20winner%20sekhmet,gpts) |
-| 3077 | **databricks** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=databricks,gpts) |
-| 3078 | **anthropic ai botnet swarm forecast** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20ai%20botnet%20swarm%20forecast,gpts) |
-| 3079 | **anthropic startup program** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20startup%20program,gpts) |
-| 3080 | **suni** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suni,gpts) |
-| 3081 | **minimax h3 refmod** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20h3%20refmod,gpts) |
-| 3082 | **flux3** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux3,gpts) |
-| 3083 | **alfozan openai** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=alfozan%20openai,gpts) |
-| 3084 | **fable 5.5** | `飙升` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=fable%205.5,gpts) |
-| 3085 | **renderforest** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=renderforest,gpts) |
-| 3086 | **perplexity careers** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=perplexity%20careers,gpts) |
-| 3087 | **maseni udio** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=maseni%20udio,gpts) |
-| 3088 | **xiaomi mimo** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=xiaomi%20mimo,gpts) |
-| 3089 | **kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20no%20koto%20ga%20daidaidaidaidaisuki%20na%20100-nin%20no%20kanojo,gpts) |
-| 3090 | **visual studio code** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=visual%20studio%20code,gpts) |
-| 3091 | **1980s photo prompt chatgpt** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=1980s%20photo%20prompt%20chatgpt,gpts) |
-| 3092 | **headway careers** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=headway%20careers,gpts) |
-| 3093 | **studyfetch** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=studyfetch,gpts) |
-| 3094 | **shake it dance tutorial** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=shake%20it%20dance%20tutorial,gpts) |
-| 3095 | **max verstappen height** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=max%20verstappen%20height,gpts) |
-| 3096 | **eternal tycoon** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=eternal%20tycoon,gpts) |
-| 3097 | **telegram** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=telegram,gpts) |
-| 3098 | **notebook.lm** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=notebook.lm,gpts) |
-| 3099 | **idio** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=idio,gpts) |
-| 3100 | **lush life dance** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lush%20life%20dance,gpts) |
-| 3101 | **my location** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=my%20location,gpts) |
-| 3102 | **qianwen ai** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qianwen%20ai,gpts) |
+| 3077 | **qianwen ai** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qianwen%20ai,gpts) |
+| 3078 | **databricks** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=databricks,gpts) |
+| 3079 | **anthropic ai botnet swarm forecast** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20ai%20botnet%20swarm%20forecast,gpts) |
+| 3080 | **anthropic startup program** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20startup%20program,gpts) |
+| 3081 | **suni** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suni,gpts) |
+| 3082 | **minimax h3 refmod** | `飙升` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20h3%20refmod,gpts) |
+| 3083 | **flux3** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux3,gpts) |
+| 3084 | **alfozan openai** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=alfozan%20openai,gpts) |
+| 3085 | **fable 5.5** | `飙升` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=fable%205.5,gpts) |
+| 3086 | **renderforest** | `飙升` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=renderforest,gpts) |
+| 3087 | **perplexity careers** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=perplexity%20careers,gpts) |
+| 3088 | **maseni udio** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=maseni%20udio,gpts) |
+| 3089 | **xiaomi mimo** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=xiaomi%20mimo,gpts) |
+| 3090 | **kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20no%20koto%20ga%20daidaidaidaidaisuki%20na%20100-nin%20no%20kanojo,gpts) |
+| 3091 | **visual studio code** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=visual%20studio%20code,gpts) |
+| 3092 | **1980s photo prompt chatgpt** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=1980s%20photo%20prompt%20chatgpt,gpts) |
+| 3093 | **headway careers** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=headway%20careers,gpts) |
+| 3094 | **studyfetch** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=studyfetch,gpts) |
+| 3095 | **shake it dance tutorial** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=shake%20it%20dance%20tutorial,gpts) |
+| 3096 | **max verstappen height** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=max%20verstappen%20height,gpts) |
+| 3097 | **eternal tycoon** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=eternal%20tycoon,gpts) |
+| 3098 | **telegram** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=telegram,gpts) |
+| 3099 | **notebook.lm** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=notebook.lm,gpts) |
+| 3100 | **idio** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=idio,gpts) |
+| 3101 | **lush life dance** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lush%20life%20dance,gpts) |
+| 3102 | **my location** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=my%20location,gpts) |
 | 3103 | **what does kimi need to do to win the championship** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20does%20kimi%20need%20to%20do%20to%20win%20the%20championship,gpts) |
 | 3104 | **datadog careers** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=datadog%20careers,gpts) |
 | 3105 | **pexels** | `飙升` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pexels,gpts) |
@@ -3243,40 +3243,40 @@
 | 3201 | **the dublin deluge** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=the%20dublin%20deluge,gpts) |
 | 3202 | **openai artificial intelligence math proof review** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20artificial%20intelligence%20math%20proof%20review,gpts) |
 | 3203 | **companies reducing artificial intelligence spending** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=companies%20reducing%20artificial%20intelligence%20spending,gpts) |
-| 3204 | **noteb** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=noteb,gpts) |
-| 3205 | **openai intelligent ui** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20intelligent%20ui,gpts) |
-| 3206 | **99nt site roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=99nt%20site%20roblox%20codes,gpts) |
-| 3207 | **metaai** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=metaai,gpts) |
-| 3208 | **darlink ai** | `飙升` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=darlink%20ai,gpts) |
-| 3209 | **ship master eudora** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ship%20master%20eudora,gpts) |
-| 3210 | **hc andersen født** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hc%20andersen%20f%C3%B8dt,gpts) |
+| 3204 | **hc andersen født** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hc%20andersen%20f%C3%B8dt,gpts) |
+| 3205 | **noteb** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=noteb,gpts) |
+| 3206 | **openai intelligent ui** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20intelligent%20ui,gpts) |
+| 3207 | **99nt site roblox codes** | `飙升` | **Roblox 兑换码生态 (Codes)** (`roblox codes`) | `小游戏与泛娱乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=99nt%20site%20roblox%20codes,gpts) |
+| 3208 | **metaai** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=metaai,gpts) |
+| 3209 | **darlink ai** | `飙升` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=darlink%20ai,gpts) |
+| 3210 | **ship master eudora** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ship%20master%20eudora,gpts) |
 | 3211 | **muah ai** | `飙升` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=muah%20ai,gpts) |
 | 3212 | **godrej 7 kg 5 star ai powered fabrisafe steel drum magic lint filter** | `飙升` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=godrej%207%20kg%205%20star%20ai%20powered%20fabrisafe%20steel%20drum%20magic%20lint%20filter,gpts) |
 | 3213 | **redesigning source control at anthropic** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=redesigning%20source%20control%20at%20anthropic,gpts) |
 | 3214 | **notelm** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=notelm,gpts) |
-| 3215 | **yuki tsunoda height** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=yuki%20tsunoda%20height,gpts) |
-| 3216 | **ai executives crisis planning anthropic openai** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20executives%20crisis%20planning%20anthropic%20openai,gpts) |
-| 3217 | **deviantart** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deviantart,gpts) |
-| 3218 | **what is zumba dance** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20zumba%20dance,gpts) |
-| 3219 | **mother son wedding dance** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mother%20son%20wedding%20dance,gpts) |
-| 3220 | **taylor swift singapore** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=taylor%20swift%20singapore,gpts) |
-| 3221 | **谷歌 邮箱** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E8%B0%B7%E6%AD%8C%20%E9%82%AE%E7%AE%B1,gpts) |
-| 3222 | **anthropic workforce changes ai report** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20workforce%20changes%20ai%20report,gpts) |
-| 3223 | **anthropic ai hidden message study** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20ai%20hidden%20message%20study,gpts) |
-| 3224 | **email marketing for restaurants** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=email%20marketing%20for%20restaurants,gpts) |
+| 3215 | **email marketing for restaurants** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=email%20marketing%20for%20restaurants,gpts) |
+| 3216 | **yuki tsunoda height** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=yuki%20tsunoda%20height,gpts) |
+| 3217 | **ai executives crisis planning anthropic openai** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20executives%20crisis%20planning%20anthropic%20openai,gpts) |
+| 3218 | **deviantart** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deviantart,gpts) |
+| 3219 | **what is zumba dance** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20zumba%20dance,gpts) |
+| 3220 | **mother son wedding dance** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mother%20son%20wedding%20dance,gpts) |
+| 3221 | **taylor swift singapore** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=taylor%20swift%20singapore,gpts) |
+| 3222 | **谷歌 邮箱** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E8%B0%B7%E6%AD%8C%20%E9%82%AE%E7%AE%B1,gpts) |
+| 3223 | **anthropic workforce changes ai report** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20workforce%20changes%20ai%20report,gpts) |
+| 3224 | **anthropic ai hidden message study** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20ai%20hidden%20message%20study,gpts) |
 | 3225 | **miageru to kimi wa** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=miageru%20to%20kimi%20wa,gpts) |
-| 3226 | **orcl stock** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=orcl%20stock,gpts) |
-| 3227 | **kimi to koete koi ni naru** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20to%20koete%20koi%20ni%20naru,gpts) |
-| 3228 | **does character ai still have a filter** | `飙升` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=does%20character%20ai%20still%20have%20a%20filter,gpts) |
-| 3229 | **best budget smartphone** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=best%20budget%20smartphone,gpts) |
-| 3230 | **just dance michael jackson songs** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=just%20dance%20michael%20jackson%20songs,gpts) |
-| 3231 | **whatsapp 网页 版** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=whatsapp%20%E7%BD%91%E9%A1%B5%20%E7%89%88,gpts) |
-| 3232 | **fadr** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=fadr,gpts) |
-| 3233 | **tejal openai** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tejal%20openai,gpts) |
-| 3234 | **jesse eisenberg** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=jesse%20eisenberg,gpts) |
-| 3235 | **goog stock** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=goog%20stock,gpts) |
-| 3236 | **note book lm** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=note%20book%20lm,gpts) |
-| 3237 | **v6 engine** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=v6%20engine,gpts) |
+| 3226 | **v6 engine** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=v6%20engine,gpts) |
+| 3227 | **orcl stock** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=orcl%20stock,gpts) |
+| 3228 | **kimi to koete koi ni naru** | `飙升` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20to%20koete%20koi%20ni%20naru,gpts) |
+| 3229 | **does character ai still have a filter** | `飙升` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=does%20character%20ai%20still%20have%20a%20filter,gpts) |
+| 3230 | **best budget smartphone** | `飙升` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=best%20budget%20smartphone,gpts) |
+| 3231 | **just dance michael jackson songs** | `飙升` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=just%20dance%20michael%20jackson%20songs,gpts) |
+| 3232 | **whatsapp 网页 版** | `飙升` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=whatsapp%20%E7%BD%91%E9%A1%B5%20%E7%89%88,gpts) |
+| 3233 | **fadr** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=fadr,gpts) |
+| 3234 | **tejal openai** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tejal%20openai,gpts) |
+| 3235 | **jesse eisenberg** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=jesse%20eisenberg,gpts) |
+| 3236 | **goog stock** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=goog%20stock,gpts) |
+| 3237 | **note book lm** | `飙升` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=note%20book%20lm,gpts) |
 | 3238 | **6.1 sol** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=6.1%20sol,gpts) |
 | 3239 | **warfare tycoon codes** | `飙升` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=warfare%20tycoon%20codes,gpts) |
 | 3240 | **kerala lottery karunya kr 770** | `飙升` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kerala%20lottery%20karunya%20kr%20770,gpts) |
@@ -3603,45 +3603,45 @@
 | 3561 | **flux.1** | `+170%` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux.1,gpts) |
 | 3562 | **cursor subscription** | `+170%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cursor%20subscription,gpts) |
 | 3563 | **e.l.f halo glow liquid filter** | `+170%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=e.l.f%20halo%20glow%20liquid%20filter,gpts) |
-| 3564 | **lechat mistral ai** | `+160%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lechat%20mistral%20ai,gpts) |
-| 3565 | **kimi f1** | `+160%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20f1,gpts) |
-| 3566 | **knowunity** | `+160%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=knowunity,gpts) |
-| 3567 | **notebooklm sign in** | `+160%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=notebooklm%20sign%20in,gpts) |
-| 3568 | **character ai without filter** | `+160%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=character%20ai%20without%20filter,gpts) |
-| 3569 | **dealseek** | `+160%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dealseek,gpts) |
-| 3570 | **ia francaise** | `+160%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ia%20francaise,gpts) |
-| 3571 | **claude giraud** | `+160%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20giraud,gpts) |
-| 3572 | **claude 检测** | `+160%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20%E6%A3%80%E6%B5%8B,gpts) |
-| 3573 | **minimax prijava** | `+160%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20prijava,gpts) |
-| 3574 | **playground ai** | `+160%` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=playground%20ai,gpts) |
-| 3575 | **vbee ai voice** | `+150%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vbee%20ai%20voice,gpts) |
-| 3576 | **george russell** | `+150%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=george%20russell,gpts) |
-| 3577 | **zsky ai** | `+150%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=zsky%20ai,gpts) |
-| 3578 | **kimi räikkönen** | `+150%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20r%C3%A4ikk%C3%B6nen,gpts) |
-| 3579 | **ai video maker** | `+150%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20video%20maker,gpts) |
-| 3580 | **шедеврум** | `+150%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%D1%88%D0%B5%D0%B4%D0%B5%D0%B2%D1%80%D1%83%D0%BC,gpts) |
-| 3581 | **samsung q8f 4k qled vision ai smart tv** | `+150%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=samsung%20q8f%204k%20qled%20vision%20ai%20smart%20tv,gpts) |
-| 3582 | **pika ia** | `+150%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pika%20ia,gpts) |
-| 3583 | **baixar musica suno** | `+140%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=baixar%20musica%20suno,gpts) |
-| 3584 | **polycam** | `+140%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=polycam,gpts) |
-| 3585 | **mp4 to mp3** | `+140%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mp4%20to%20mp3,gpts) |
-| 3586 | **minimax paarl** | `+140%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20paarl,gpts) |
-| 3587 | **ideogram ai** | `+140%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ideogram%20ai,gpts) |
-| 3588 | **qwen 3 vl** | `+140%` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%203%20vl,gpts) |
-| 3589 | **qwen3.5** | `+140%` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen3.5,gpts) |
-| 3590 | **flow music** | `+140%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flow%20music,gpts) |
-| 3591 | **quizlet** | `+140%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=quizlet,gpts) |
-| 3592 | **sushi** | `+140%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sushi,gpts) |
-| 3593 | **suno criar música com ia** | `+140%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20criar%20m%C3%BAsica%20com%20ia,gpts) |
-| 3594 | **kandinsky** | `+140%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kandinsky,gpts) |
-| 3595 | **claude ultracode** | `+140%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20ultracode,gpts) |
-| 3596 | **ai humanizer** | `+140%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20humanizer,gpts) |
-| 3597 | **tripo3d** | `+140%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tripo3d,gpts) |
-| 3598 | **oliver bearman** | `+140%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=oliver%20bearman,gpts) |
-| 3599 | **yt studio** | `+140%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=yt%20studio,gpts) |
-| 3600 | **claude giroux** | `+140%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20giroux,gpts) |
-| 3601 | **미드 저니** | `+140%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%EB%AF%B8%EB%93%9C%20%EC%A0%80%EB%8B%88,gpts) |
-| 3602 | **byte dance** | `+140%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=byte%20dance,gpts) |
+| 3564 | **playground ai** | `+170%` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=playground%20ai,gpts) |
+| 3565 | **lechat mistral ai** | `+160%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lechat%20mistral%20ai,gpts) |
+| 3566 | **kimi f1** | `+160%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20f1,gpts) |
+| 3567 | **knowunity** | `+160%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=knowunity,gpts) |
+| 3568 | **notebooklm sign in** | `+160%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=notebooklm%20sign%20in,gpts) |
+| 3569 | **character ai without filter** | `+160%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=character%20ai%20without%20filter,gpts) |
+| 3570 | **dealseek** | `+160%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dealseek,gpts) |
+| 3571 | **ia francaise** | `+160%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ia%20francaise,gpts) |
+| 3572 | **claude giraud** | `+160%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20giraud,gpts) |
+| 3573 | **claude 检测** | `+160%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20%E6%A3%80%E6%B5%8B,gpts) |
+| 3574 | **minimax prijava** | `+160%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20prijava,gpts) |
+| 3575 | **pika ia** | `+160%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pika%20ia,gpts) |
+| 3576 | **vbee ai voice** | `+150%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vbee%20ai%20voice,gpts) |
+| 3577 | **george russell** | `+150%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=george%20russell,gpts) |
+| 3578 | **zsky ai** | `+150%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=zsky%20ai,gpts) |
+| 3579 | **kimi räikkönen** | `+150%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20r%C3%A4ikk%C3%B6nen,gpts) |
+| 3580 | **ai video maker** | `+150%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20video%20maker,gpts) |
+| 3581 | **шедеврум** | `+150%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%D1%88%D0%B5%D0%B4%D0%B5%D0%B2%D1%80%D1%83%D0%BC,gpts) |
+| 3582 | **samsung q8f 4k qled vision ai smart tv** | `+150%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=samsung%20q8f%204k%20qled%20vision%20ai%20smart%20tv,gpts) |
+| 3583 | **byte dance** | `+150%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=byte%20dance,gpts) |
+| 3584 | **baixar musica suno** | `+140%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=baixar%20musica%20suno,gpts) |
+| 3585 | **polycam** | `+140%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=polycam,gpts) |
+| 3586 | **mp4 to mp3** | `+140%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mp4%20to%20mp3,gpts) |
+| 3587 | **minimax paarl** | `+140%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20paarl,gpts) |
+| 3588 | **ideogram ai** | `+140%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ideogram%20ai,gpts) |
+| 3589 | **qwen 3 vl** | `+140%` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen%203%20vl,gpts) |
+| 3590 | **qwen3.5** | `+140%` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qwen3.5,gpts) |
+| 3591 | **flow music** | `+140%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flow%20music,gpts) |
+| 3592 | **quizlet** | `+140%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=quizlet,gpts) |
+| 3593 | **sushi** | `+140%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sushi,gpts) |
+| 3594 | **suno criar música com ia** | `+140%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20criar%20m%C3%BAsica%20com%20ia,gpts) |
+| 3595 | **kandinsky** | `+140%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kandinsky,gpts) |
+| 3596 | **claude ultracode** | `+140%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20ultracode,gpts) |
+| 3597 | **ai humanizer** | `+140%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20humanizer,gpts) |
+| 3598 | **tripo3d** | `+140%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tripo3d,gpts) |
+| 3599 | **oliver bearman** | `+140%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=oliver%20bearman,gpts) |
+| 3600 | **yt studio** | `+140%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=yt%20studio,gpts) |
+| 3601 | **claude giroux** | `+140%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20giroux,gpts) |
+| 3602 | **미드 저니** | `+140%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%EB%AF%B8%EB%93%9C%20%EC%A0%80%EB%8B%88,gpts) |
 | 3603 | **capcut ai** | `+140%` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=capcut%20ai,gpts) |
 | 3604 | **download lagu suno** | `+130%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=download%20lagu%20suno,gpts) |
 | 3605 | **deepseek v5** | `+130%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20v5,gpts) |
@@ -3724,36 +3724,36 @@
 | 3682 | **суно** | `+100%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%D1%81%D1%83%D0%BD%D0%BE,gpts) |
 | 3683 | **ace studio** | `+100%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ace%20studio,gpts) |
 | 3684 | **luma ia** | `+100%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=luma%20ia,gpts) |
-| 3685 | **kimi no todoke** | `+90%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20no%20todoke,gpts) |
-| 3686 | **google lyria** | `+90%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20lyria,gpts) |
-| 3687 | **pika art** | `+90%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pika%20art,gpts) |
-| 3688 | **mistral ai vs chatgpt** | `+90%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ai%20vs%20chatgpt,gpts) |
-| 3689 | **highfield ai** | `+90%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=highfield%20ai,gpts) |
-| 3690 | **google cloud text-to-speech** | `+90%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20cloud%20text-to-speech,gpts) |
-| 3691 | **mammouth ai** | `+90%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mammouth%20ai,gpts) |
-| 3692 | **evenlabs** | `+90%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=evenlabs,gpts) |
-| 3693 | **deepl** | `+90%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepl,gpts) |
-| 3694 | **charles leclerc** | `+90%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=charles%20leclerc,gpts) |
-| 3695 | **vscode** | `+90%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vscode,gpts) |
-| 3696 | **openart** | `+90%` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openart,gpts) |
-| 3697 | **lumi ai** | `+90%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lumi%20ai,gpts) |
-| 3698 | **dola seedance 2.5** | `+90%` | **即梦 (Seedance / Dreamina)** (`seedance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dola%20seedance%202.5,gpts) |
-| 3699 | **iman gadzhi** | `+90%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=iman%20gadzhi,gpts) |
-| 3700 | **lovander palworld** | `+90%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lovander%20palworld,gpts) |
-| 3701 | **minimax cn** | `+90%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20cn,gpts) |
-| 3702 | **nanobanana** | `+90%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=nanobanana,gpts) |
-| 3703 | **anthropic fellows program** | `+90%` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20fellows%20program,gpts) |
-| 3704 | **deepinfra** | `+90%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepinfra,gpts) |
-| 3705 | **minmax** | `+90%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minmax,gpts) |
-| 3706 | **kimi yoon** | `+90%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20yoon,gpts) |
-| 3707 | **pikachu** | `+90%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pikachu,gpts) |
-| 3708 | **flux dev** | `+80%` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux%20dev,gpts) |
-| 3709 | **claude françois** | `+80%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20fran%C3%A7ois,gpts) |
-| 3710 | **flow ai** | `+80%` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flow%20ai,gpts) |
-| 3711 | **lumo ai** | `+80%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lumo%20ai,gpts) |
-| 3712 | **mia khalifa song** | `+80%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mia%20khalifa%20song,gpts) |
-| 3713 | **palworld dawn of palpagos booster box** | `+80%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20dawn%20of%20palpagos%20booster%20box,gpts) |
-| 3714 | **cantina** | `+80%` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cantina,gpts) |
+| 3685 | **cantina** | `+100%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cantina,gpts) |
+| 3686 | **kimi no todoke** | `+90%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20no%20todoke,gpts) |
+| 3687 | **google lyria** | `+90%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20lyria,gpts) |
+| 3688 | **pika art** | `+90%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pika%20art,gpts) |
+| 3689 | **mistral ai vs chatgpt** | `+90%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ai%20vs%20chatgpt,gpts) |
+| 3690 | **highfield ai** | `+90%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=highfield%20ai,gpts) |
+| 3691 | **google cloud text-to-speech** | `+90%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=google%20cloud%20text-to-speech,gpts) |
+| 3692 | **mammouth ai** | `+90%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mammouth%20ai,gpts) |
+| 3693 | **evenlabs** | `+90%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=evenlabs,gpts) |
+| 3694 | **deepl** | `+90%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepl,gpts) |
+| 3695 | **charles leclerc** | `+90%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=charles%20leclerc,gpts) |
+| 3696 | **vscode** | `+90%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vscode,gpts) |
+| 3697 | **openart** | `+90%` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openart,gpts) |
+| 3698 | **lumi ai** | `+90%` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lumi%20ai,gpts) |
+| 3699 | **dola seedance 2.5** | `+90%` | **即梦 (Seedance / Dreamina)** (`seedance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dola%20seedance%202.5,gpts) |
+| 3700 | **iman gadzhi** | `+90%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=iman%20gadzhi,gpts) |
+| 3701 | **lovander palworld** | `+90%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lovander%20palworld,gpts) |
+| 3702 | **minimax cn** | `+90%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20cn,gpts) |
+| 3703 | **nanobanana** | `+90%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=nanobanana,gpts) |
+| 3704 | **anthropic fellows program** | `+90%` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20fellows%20program,gpts) |
+| 3705 | **deepinfra** | `+90%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepinfra,gpts) |
+| 3706 | **minmax** | `+90%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minmax,gpts) |
+| 3707 | **kimi yoon** | `+90%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20yoon,gpts) |
+| 3708 | **pikachu** | `+90%` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pikachu,gpts) |
+| 3709 | **flux dev** | `+80%` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flux%20dev,gpts) |
+| 3710 | **claude françois** | `+80%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20fran%C3%A7ois,gpts) |
+| 3711 | **flow ai** | `+80%` | **Runway Gen-3** (`runway gen-3`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=flow%20ai,gpts) |
+| 3712 | **lumo ai** | `+80%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lumo%20ai,gpts) |
+| 3713 | **mia khalifa song** | `+80%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mia%20khalifa%20song,gpts) |
+| 3714 | **palworld dawn of palpagos booster box** | `+80%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20dawn%20of%20palpagos%20booster%20box,gpts) |
 | 3715 | **verity song** | `+80%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=verity%20song,gpts) |
 | 3716 | **taylor swift ai song** | `+80%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=taylor%20swift%20ai%20song,gpts) |
 | 3717 | **mistral ai gratuit** | `+80%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ai%20gratuit,gpts) |
@@ -3868,135 +3868,136 @@
 | 3826 | **cursor ai download for windows** | `+60%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cursor%20ai%20download%20for%20windows,gpts) |
 | 3827 | **vidu ia** | `+60%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20ia,gpts) |
 | 3828 | **higgsfield earn** | `+60%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20earn,gpts) |
-| 3829 | **what is openai** | `+50%` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20openai,gpts) |
-| 3830 | **cursor vs claude** | `+50%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cursor%20vs%20claude,gpts) |
-| 3831 | **kling ai mod** | `+50%` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kling%20ai%20mod,gpts) |
-| 3832 | **what is midjourney** | `+50%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20midjourney,gpts) |
-| 3833 | **ai photo filter** | `+50%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20photo%20filter,gpts) |
-| 3834 | **deepseek 服务器** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20%E6%9C%8D%E5%8A%A1%E5%99%A8,gpts) |
-| 3835 | **palworld steam** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20steam,gpts) |
-| 3836 | **higgsfield plugin** | `+50%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20plugin,gpts) |
-| 3837 | **suno download** | `+50%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20download,gpts) |
-| 3838 | **openclaw** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openclaw,gpts) |
-| 3839 | **youtube to transcript** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=youtube%20to%20transcript,gpts) |
-| 3840 | **elevenlabs mod apk** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=elevenlabs%20mod%20apk,gpts) |
-| 3841 | **recraft** | `+50%` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=recraft,gpts) |
-| 3842 | **what is elevenlabs** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20elevenlabs,gpts) |
-| 3843 | **duno** | `+50%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=duno,gpts) |
-| 3844 | **lyria** | `+50%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lyria,gpts) |
-| 3845 | **higgsfield al** | `+50%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20al,gpts) |
-| 3846 | **deepseek на русском** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC,gpts) |
-| 3847 | **claude docs** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20docs,gpts) |
-| 3848 | **asml** | `+50%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=asml,gpts) |
-| 3849 | **luvvoice** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=luvvoice,gpts) |
-| 3850 | **elevanlabs** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=elevanlabs,gpts) |
-| 3851 | **surfent palworld** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=surfent%20palworld,gpts) |
-| 3852 | **deepseek r1** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20r1,gpts) |
-| 3853 | **minimax io** | `+50%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20io,gpts) |
-| 3854 | **fastest flying mounts palworld** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=fastest%20flying%20mounts%20palworld,gpts) |
-| 3855 | **palworld element chart** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20element%20chart,gpts) |
-| 3856 | **claude projects** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20projects,gpts) |
-| 3857 | **vidu com** | `+50%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20com,gpts) |
-| 3858 | **海螺 ai** | `+50%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E6%B5%B7%E8%9E%BA%20ai,gpts) |
-| 3859 | **midjourney alpha** | `+50%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=midjourney%20alpha,gpts) |
-| 3860 | **elevenlabs عربي مجاني** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=elevenlabs%20%D8%B9%D8%B1%D8%A8%D9%8A%20%D9%85%D8%AC%D8%A7%D9%86%D9%8A,gpts) |
-| 3861 | **is palworld crossplay** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=is%20palworld%20crossplay,gpts) |
-| 3862 | **rabbi jacob** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rabbi%20jacob,gpts) |
-| 3863 | **mistral ia** | `+50%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ia,gpts) |
-| 3864 | **gardening** | `+50%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=gardening,gpts) |
-| 3865 | **palworld legends awaken** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20legends%20awaken,gpts) |
-| 3866 | **palworld popularity poll** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20popularity%20poll,gpts) |
-| 3867 | **meta ai gratis** | `+50%` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ai%20gratis,gpts) |
-| 3868 | **minimaxh3** | `+50%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimaxh3,gpts) |
-| 3869 | **palworld final boss** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20final%20boss,gpts) |
-| 3870 | **ai voice remover** | `+50%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20voice%20remover,gpts) |
-| 3871 | **meta ai chat** | `+50%` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ai%20chat,gpts) |
-| 3872 | **free ai video generator** | `+50%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=free%20ai%20video%20generator,gpts) |
-| 3873 | **udio ia** | `+50%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=udio%20ia,gpts) |
-| 3874 | **hexolite quartz palworld** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hexolite%20quartz%20palworld,gpts) |
-| 3875 | **claude rains** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20rains,gpts) |
-| 3876 | **dance ai generator** | `+50%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dance%20ai%20generator,gpts) |
-| 3877 | **kling motion control** | `+40%` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kling%20motion%20control,gpts) |
-| 3878 | **stable diffusion ai** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=stable%20diffusion%20ai,gpts) |
-| 3879 | **viggle ai dance** | `+40%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=viggle%20ai%20dance,gpts) |
-| 3880 | **military tycoon** | `+40%` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=military%20tycoon,gpts) |
-| 3881 | **claude dashboard** | `+40%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20dashboard,gpts) |
-| 3882 | **make ai song** | `+40%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=make%20ai%20song,gpts) |
-| 3883 | **meta ads** | `+40%` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ads,gpts) |
-| 3884 | **ideogram** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ideogram,gpts) |
-| 3885 | **claude 503** | `+40%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20503,gpts) |
-| 3886 | **deepseek desktop** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20desktop,gpts) |
-| 3887 | **palworld ps4** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20ps4,gpts) |
-| 3888 | **ia mistral** | `+40%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ia%20mistral,gpts) |
-| 3889 | **midjourney gratuit** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=midjourney%20gratuit,gpts) |
-| 3890 | **mubert** | `+40%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mubert,gpts) |
-| 3891 | **dall e 3** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dall%20e%203,gpts) |
-| 3892 | **how to make an ai song** | `+40%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=how%20to%20make%20an%20ai%20song,gpts) |
-| 3893 | **is deepseek chinese** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=is%20deepseek%20chinese,gpts) |
-| 3894 | **kimi f1 driver** | `+40%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20f1%20driver,gpts) |
-| 3895 | **palworld electric organ** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20electric%20organ,gpts) |
-| 3896 | **receiptify all time** | `+40%` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20all%20time,gpts) |
-| 3897 | **ai** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai,gpts) |
-| 3898 | **palworld booster box** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20booster%20box,gpts) |
-| 3899 | **dalle ai** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dalle%20ai,gpts) |
-| 3900 | **deepseek 官网** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20%E5%AE%98%E7%BD%91,gpts) |
-| 3901 | **pizza** | `+40%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pizza,gpts) |
-| 3902 | **palworld player count** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20player%20count,gpts) |
-| 3903 | **high quality pal oil palworld** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=high%20quality%20pal%20oil%20palworld,gpts) |
-| 3904 | **palworld orserk breeding** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20orserk%20breeding,gpts) |
-| 3905 | **free ai voice generator** | `+40%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=free%20ai%20voice%20generator,gpts) |
-| 3906 | **higgsfield ia** | `+40%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20ia,gpts) |
-| 3907 | **vidu ai login** | `+40%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20ai%20login,gpts) |
-| 3908 | **highsfield** | `+40%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=highsfield,gpts) |
-| 3909 | **deepseek news** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20news,gpts) |
-| 3910 | **tirtir ai filter cushion** | `+40%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tirtir%20ai%20filter%20cushion,gpts) |
-| 3911 | **bidu** | `+40%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=bidu,gpts) |
+| 3829 | **bidu** | `+60%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=bidu,gpts) |
+| 3830 | **what is openai** | `+50%` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20openai,gpts) |
+| 3831 | **cursor vs claude** | `+50%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cursor%20vs%20claude,gpts) |
+| 3832 | **kling ai mod** | `+50%` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kling%20ai%20mod,gpts) |
+| 3833 | **what is midjourney** | `+50%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20midjourney,gpts) |
+| 3834 | **ai photo filter** | `+50%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20photo%20filter,gpts) |
+| 3835 | **deepseek 服务器** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20%E6%9C%8D%E5%8A%A1%E5%99%A8,gpts) |
+| 3836 | **palworld steam** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20steam,gpts) |
+| 3837 | **higgsfield plugin** | `+50%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20plugin,gpts) |
+| 3838 | **suno download** | `+50%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20download,gpts) |
+| 3839 | **openclaw** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openclaw,gpts) |
+| 3840 | **youtube to transcript** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=youtube%20to%20transcript,gpts) |
+| 3841 | **elevenlabs mod apk** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=elevenlabs%20mod%20apk,gpts) |
+| 3842 | **recraft** | `+50%` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=recraft,gpts) |
+| 3843 | **what is elevenlabs** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=what%20is%20elevenlabs,gpts) |
+| 3844 | **duno** | `+50%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=duno,gpts) |
+| 3845 | **lyria** | `+50%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=lyria,gpts) |
+| 3846 | **higgsfield al** | `+50%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20al,gpts) |
+| 3847 | **deepseek на русском** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC,gpts) |
+| 3848 | **claude docs** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20docs,gpts) |
+| 3849 | **asml** | `+50%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=asml,gpts) |
+| 3850 | **luvvoice** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=luvvoice,gpts) |
+| 3851 | **elevanlabs** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=elevanlabs,gpts) |
+| 3852 | **surfent palworld** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=surfent%20palworld,gpts) |
+| 3853 | **deepseek r1** | `+50%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20r1,gpts) |
+| 3854 | **minimax io** | `+50%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimax%20io,gpts) |
+| 3855 | **fastest flying mounts palworld** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=fastest%20flying%20mounts%20palworld,gpts) |
+| 3856 | **palworld element chart** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20element%20chart,gpts) |
+| 3857 | **claude projects** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20projects,gpts) |
+| 3858 | **vidu com** | `+50%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20com,gpts) |
+| 3859 | **海螺 ai** | `+50%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E6%B5%B7%E8%9E%BA%20ai,gpts) |
+| 3860 | **midjourney alpha** | `+50%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=midjourney%20alpha,gpts) |
+| 3861 | **elevenlabs عربي مجاني** | `+50%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=elevenlabs%20%D8%B9%D8%B1%D8%A8%D9%8A%20%D9%85%D8%AC%D8%A7%D9%86%D9%8A,gpts) |
+| 3862 | **is palworld crossplay** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=is%20palworld%20crossplay,gpts) |
+| 3863 | **rabbi jacob** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rabbi%20jacob,gpts) |
+| 3864 | **mistral ia** | `+50%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20ia,gpts) |
+| 3865 | **gardening** | `+50%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=gardening,gpts) |
+| 3866 | **palworld legends awaken** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20legends%20awaken,gpts) |
+| 3867 | **palworld popularity poll** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20popularity%20poll,gpts) |
+| 3868 | **meta ai gratis** | `+50%` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ai%20gratis,gpts) |
+| 3869 | **minimaxh3** | `+50%` | **MiniMax (海螺AI)** (`minimax`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=minimaxh3,gpts) |
+| 3870 | **palworld final boss** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20final%20boss,gpts) |
+| 3871 | **ai voice remover** | `+50%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai%20voice%20remover,gpts) |
+| 3872 | **meta ai chat** | `+50%` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ai%20chat,gpts) |
+| 3873 | **free ai video generator** | `+50%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=free%20ai%20video%20generator,gpts) |
+| 3874 | **udio ia** | `+50%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=udio%20ia,gpts) |
+| 3875 | **hexolite quartz palworld** | `+50%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hexolite%20quartz%20palworld,gpts) |
+| 3876 | **claude rains** | `+50%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20rains,gpts) |
+| 3877 | **dance ai generator** | `+50%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dance%20ai%20generator,gpts) |
+| 3878 | **kling motion control** | `+40%` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kling%20motion%20control,gpts) |
+| 3879 | **stable diffusion ai** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=stable%20diffusion%20ai,gpts) |
+| 3880 | **viggle ai dance** | `+40%` | **AI 舞蹈与动作驱动** (`ai dance`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=viggle%20ai%20dance,gpts) |
+| 3881 | **military tycoon** | `+40%` | **Roblox 经营模拟 (Tycoon)** (`tycoon`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=military%20tycoon,gpts) |
+| 3882 | **claude dashboard** | `+40%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20dashboard,gpts) |
+| 3883 | **make ai song** | `+40%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=make%20ai%20song,gpts) |
+| 3884 | **meta ads** | `+40%` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta%20ads,gpts) |
+| 3885 | **ideogram** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ideogram,gpts) |
+| 3886 | **claude 503** | `+40%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=claude%20503,gpts) |
+| 3887 | **deepseek desktop** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20desktop,gpts) |
+| 3888 | **palworld ps4** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20ps4,gpts) |
+| 3889 | **ia mistral** | `+40%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ia%20mistral,gpts) |
+| 3890 | **midjourney gratuit** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=midjourney%20gratuit,gpts) |
+| 3891 | **mubert** | `+40%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mubert,gpts) |
+| 3892 | **dall e 3** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dall%20e%203,gpts) |
+| 3893 | **how to make an ai song** | `+40%` | **AI 音乐与歌曲生成** (`ai song`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=how%20to%20make%20an%20ai%20song,gpts) |
+| 3894 | **is deepseek chinese** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=is%20deepseek%20chinese,gpts) |
+| 3895 | **kimi f1 driver** | `+40%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=kimi%20f1%20driver,gpts) |
+| 3896 | **palworld electric organ** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20electric%20organ,gpts) |
+| 3897 | **receiptify all time** | `+40%` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=receiptify%20all%20time,gpts) |
+| 3898 | **ai** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ai,gpts) |
+| 3899 | **palworld booster box** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20booster%20box,gpts) |
+| 3900 | **dalle ai** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=dalle%20ai,gpts) |
+| 3901 | **deepseek 官网** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20%E5%AE%98%E7%BD%91,gpts) |
+| 3902 | **pizza** | `+40%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pizza,gpts) |
+| 3903 | **palworld player count** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20player%20count,gpts) |
+| 3904 | **high quality pal oil palworld** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=high%20quality%20pal%20oil%20palworld,gpts) |
+| 3905 | **palworld orserk breeding** | `+40%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20orserk%20breeding,gpts) |
+| 3906 | **free ai voice generator** | `+40%` | **AI 声音与配音克隆** (`ai voice`) | `AI音频与音乐` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=free%20ai%20voice%20generator,gpts) |
+| 3907 | **higgsfield ia** | `+40%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=higgsfield%20ia,gpts) |
+| 3908 | **vidu ai login** | `+40%` | **生数科技 Vidu AI** (`vidu`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=vidu%20ai%20login,gpts) |
+| 3909 | **highsfield** | `+40%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=highsfield,gpts) |
+| 3910 | **deepseek news** | `+40%` | **DeepSeek** (`deepseek`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=deepseek%20news,gpts) |
+| 3911 | **tirtir ai filter cushion** | `+40%` | **AI 滤镜与特效** (`ai filter`) | `AI视频与生图` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=tirtir%20ai%20filter%20cushion,gpts) |
 | 3912 | **base44** | `+40%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=base44,gpts) |
-| 3913 | **shop lc** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=shop%20lc,gpts) |
-| 3914 | **元宝** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E5%85%83%E5%AE%9D,gpts) |
-| 3915 | **gpt** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=gpt,gpts) |
-| 3916 | **ugo nwune quits meta ai** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ugo%20nwune%20quits%20meta%20ai,gpts) |
-| 3917 | **jacob coxon** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=jacob%20coxon,gpts) |
-| 3918 | **翻译** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E7%BF%BB%E8%AF%91,gpts) |
-| 3919 | **qq** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qq,gpts) |
-| 3920 | **adidas flux women** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=adidas%20flux%20women,gpts) |
-| 3921 | **xai** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=xai,gpts) |
-| 3922 | **womens adidas flux** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=womens%20adidas%20flux,gpts) |
-| 3923 | **wps** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=wps,gpts) |
-| 3924 | **n8n** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=n8n,gpts) |
-| 3925 | **samsonite flux spinner** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=samsonite%20flux%20spinner,gpts) |
-| 3926 | **unit of light flux** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=unit%20of%20light%20flux,gpts) |
-| 3927 | **palworld developer steam data critique** | `飙升` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20developer%20steam%20data%20critique,gpts) |
-| 3928 | **udo** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=udo,gpts) |
-| 3929 | **rec** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rec,gpts) |
-| 3930 | **anthropic employee quits** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20employee%20quits,gpts) |
-| 3931 | **百度** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E7%99%BE%E5%BA%A6,gpts) |
-| 3932 | **ambient ai salary** | `飙升` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ambient%20ai%20salary,gpts) |
-| 3933 | **suno lawsuit** | `飙升` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20lawsuit,gpts) |
-| 3934 | **luma ai salary** | `飙升` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=luma%20ai%20salary,gpts) |
-| 3935 | **pika ai salary** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pika%20ai%20salary,gpts) |
-| 3936 | **mistral buffet food warmer** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20buffet%20food%20warmer,gpts) |
-| 3937 | **rea** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rea,gpts) |
-| 3938 | **openai employee arrested** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20employee%20arrested,gpts) |
-| 3939 | **openai robotics engineer salary** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20robotics%20engineer%20salary,gpts) |
-| 3940 | **jason isbell suno lawsuit** | `飙升` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=jason%20isbell%20suno%20lawsuit,gpts) |
-| 3941 | **openai engineer arrested** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20engineer%20arrested,gpts) |
-| 3942 | **sam altman openai anthropic regulation** | `+2,850%` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sam%20altman%20openai%20anthropic%20regulation,gpts) |
-| 3943 | **sony universal legal action suno** | `+2,350%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sony%20universal%20legal%20action%20suno,gpts) |
-| 3944 | **palworld lawsuit** | `+180%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20lawsuit,gpts) |
-| 3945 | **f1** | `+170%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=f1,gpts) |
-| 3946 | **豆包** | `+160%` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E8%B1%86%E5%8C%85,gpts) |
-| 3947 | **udi** | `+160%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=udi,gpts) |
-| 3948 | **zed** | `+150%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=zed,gpts) |
-| 3949 | **sam altman** | `+130%` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sam%20altman,gpts) |
-| 3950 | **qw** | `+110%` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qw,gpts) |
-| 3951 | **hig** | `+70%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hig,gpts) |
-| 3952 | **ele** | `+60%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ele,gpts) |
-| 3953 | **ia** | `+50%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ia,gpts) |
-| 3954 | **ии** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%D0%B8%D0%B8,gpts) |
-| 3955 | **cl** | `+40%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cl,gpts) |
-| 3956 | **doc** | `+40%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=doc,gpts) |
-| 3957 | **mj** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mj,gpts) |
+| 3913 | **meta.ai** | `+40%` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | ✅ 工具/产品 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=meta.ai,gpts) |
+| 3914 | **shop lc** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=shop%20lc,gpts) |
+| 3915 | **元宝** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E5%85%83%E5%AE%9D,gpts) |
+| 3916 | **gpt** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=gpt,gpts) |
+| 3917 | **ugo nwune quits meta ai** | `飙升` | **Meta AI 生态** (`meta ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ugo%20nwune%20quits%20meta%20ai,gpts) |
+| 3918 | **jacob coxon** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=jacob%20coxon,gpts) |
+| 3919 | **翻译** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E7%BF%BB%E8%AF%91,gpts) |
+| 3920 | **qq** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qq,gpts) |
+| 3921 | **adidas flux women** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=adidas%20flux%20women,gpts) |
+| 3922 | **xai** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=xai,gpts) |
+| 3923 | **womens adidas flux** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=womens%20adidas%20flux,gpts) |
+| 3924 | **wps** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=wps,gpts) |
+| 3925 | **n8n** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=n8n,gpts) |
+| 3926 | **samsonite flux spinner** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=samsonite%20flux%20spinner,gpts) |
+| 3927 | **unit of light flux** | `飙升` | **Flux.1** (`flux ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=unit%20of%20light%20flux,gpts) |
+| 3928 | **palworld developer steam data critique** | `飙升` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20developer%20steam%20data%20critique,gpts) |
+| 3929 | **udo** | `飙升` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=udo,gpts) |
+| 3930 | **rec** | `飙升` | **Receiptify** (`receiptify`) | `出海B2C与社媒神器` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rec,gpts) |
+| 3931 | **anthropic employee quits** | `飙升` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=anthropic%20employee%20quits,gpts) |
+| 3932 | **百度** | `飙升` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E7%99%BE%E5%BA%A6,gpts) |
+| 3933 | **ambient ai salary** | `飙升` | **快手可灵 (Kling AI)** (`kling ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ambient%20ai%20salary,gpts) |
+| 3934 | **suno lawsuit** | `飙升` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=suno%20lawsuit,gpts) |
+| 3935 | **luma ai salary** | `飙升` | **Luma Dream Machine** (`luma ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=luma%20ai%20salary,gpts) |
+| 3936 | **pika ai salary** | `飙升` | **Pika AI** (`pika ai`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=pika%20ai%20salary,gpts) |
+| 3937 | **mistral buffet food warmer** | `飙升` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mistral%20buffet%20food%20warmer,gpts) |
+| 3938 | **rea** | `飙升` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=rea,gpts) |
+| 3939 | **openai employee arrested** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20employee%20arrested,gpts) |
+| 3940 | **openai robotics engineer salary** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20robotics%20engineer%20salary,gpts) |
+| 3941 | **jason isbell suno lawsuit** | `飙升` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=jason%20isbell%20suno%20lawsuit,gpts) |
+| 3942 | **openai engineer arrested** | `飙升` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=openai%20engineer%20arrested,gpts) |
+| 3943 | **sam altman openai anthropic regulation** | `+2,850%` | **OpenAI / ChatGPT** (`openai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sam%20altman%20openai%20anthropic%20regulation,gpts) |
+| 3944 | **sony universal legal action suno** | `+2,350%` | **Suno AI** (`suno`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sony%20universal%20legal%20action%20suno,gpts) |
+| 3945 | **palworld lawsuit** | `+180%` | **Palworld (幻兽帕鲁)** (`palworld`) | `出海B2C与社媒神器` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=palworld%20lawsuit,gpts) |
+| 3946 | **f1** | `+170%` | **月之暗面 (Kimi / Moonshot)** (`kimi`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=f1,gpts) |
+| 3947 | **豆包** | `+160%` | **字节跳动豆包 (Doubao)** (`doubao`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%E8%B1%86%E5%8C%85,gpts) |
+| 3948 | **udi** | `+160%` | **Udio AI** (`udio`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=udi,gpts) |
+| 3949 | **zed** | `+150%` | **Cursor AI** (`cursor ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=zed,gpts) |
+| 3950 | **sam altman** | `+130%` | **Anthropic / Claude** (`anthropic`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=sam%20altman,gpts) |
+| 3951 | **qw** | `+110%` | **阿里通义千问 (Qwen)** (`qwen`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=qw,gpts) |
+| 3952 | **hig** | `+70%` | **Higgsfield AI** (`higgsfield`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=hig,gpts) |
+| 3953 | **ele** | `+60%` | **ElevenLabs** (`elevenlabs`) | `AI音频与音乐` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ele,gpts) |
+| 3954 | **ia** | `+50%` | **Mistral AI** (`mistral ai`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=ia,gpts) |
+| 3955 | **ии** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=%D0%B8%D0%B8,gpts) |
+| 3956 | **cl** | `+40%` | **Claude** (`claude`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=cl,gpts) |
+| 3957 | **doc** | `+40%` | **Google NotebookLM** (`notebooklm`) | `大语言模型与代码助手` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=doc,gpts) |
+| 3958 | **mj** | `+40%` | **Midjourney** (`midjourney`) | `AI视频与生图` | GPTs×0.050 | 📰 新闻/资讯 | [📈 对比验证](https://trends.google.com/trends/explore?date=today%201-m&q=mj,gpts) |
 
 ---
 
