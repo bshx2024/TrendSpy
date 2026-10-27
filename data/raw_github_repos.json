@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/27 19:50:23",
-  "total_repos": 650,
+  "fetched_at": "2026/10/28 01:44:51",
+  "total_repos": 651,
   "repos": [
     {
       "id": 1425658028,
@@ -176,6 +176,50 @@
       "pushed_at": "2026-10-08T14:41:51Z"
     },
     {
+      "id": 1432883796,
+      "name": "agent-purge",
+      "full_name": "ZiChuanLan/agent-purge",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "html_url": "https://github.com/ZiChuanLan/agent-purge",
+      "homepage": null,
+      "stars": 578,
+      "forks": 449,
+      "language": "JavaScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "opencode",
+        "pi",
+        "system-prompt"
+      ],
+      "created_at": "2026-10-25T06:06:02Z",
+      "updated_at": "2026-10-27T17:39:35Z",
+      "pushed_at": "2026-10-27T17:39:35Z"
+    },
+    {
+      "id": 1433846971,
+      "name": "GEOInflow",
+      "full_name": "yaojingang/GEOInflow",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "html_url": "https://github.com/yaojingang/GEOInflow",
+      "homepage": null,
+      "stars": 577,
+      "forks": 157,
+      "language": "TypeScript",
+      "topics": [
+        "ai-analytics",
+        "geo",
+        "mit",
+        "postgresql",
+        "self-hosted",
+        "web-analytics"
+      ],
+      "created_at": "2026-10-26T03:12:45Z",
+      "updated_at": "2026-10-27T17:27:47Z",
+      "pushed_at": "2026-10-27T05:17:50Z"
+    },
+    {
       "id": 1403115747,
       "name": "replica-skill",
       "full_name": "Jakeschincariol/replica-skill",
@@ -312,28 +356,6 @@
       "pushed_at": "2026-10-15T02:18:56Z"
     },
     {
-      "id": 1432883796,
-      "name": "agent-purge",
-      "full_name": "ZiChuanLan/agent-purge",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "html_url": "https://github.com/ZiChuanLan/agent-purge",
-      "homepage": null,
-      "stars": 544,
-      "forks": 428,
-      "language": "JavaScript",
-      "topics": [
-        "claude-code",
-        "codex",
-        "coding-agent",
-        "opencode",
-        "pi",
-        "system-prompt"
-      ],
-      "created_at": "2026-10-25T06:06:02Z",
-      "updated_at": "2026-10-27T11:49:44Z",
-      "pushed_at": "2026-10-26T09:36:43Z"
-    },
-    {
       "id": 1377938409,
       "name": "minecraft-agent",
       "full_name": "rmalde/minecraft-agent",
@@ -384,28 +406,6 @@
       "created_at": "2026-10-07T01:07:13Z",
       "updated_at": "2026-10-13T18:26:14Z",
       "pushed_at": "2026-10-07T01:07:17Z"
-    },
-    {
-      "id": 1433846971,
-      "name": "GEOInflow",
-      "full_name": "yaojingang/GEOInflow",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "html_url": "https://github.com/yaojingang/GEOInflow",
-      "homepage": null,
-      "stars": 518,
-      "forks": 121,
-      "language": "TypeScript",
-      "topics": [
-        "ai-analytics",
-        "geo",
-        "mit",
-        "postgresql",
-        "self-hosted",
-        "web-analytics"
-      ],
-      "created_at": "2026-10-26T03:12:45Z",
-      "updated_at": "2026-10-27T11:38:48Z",
-      "pushed_at": "2026-10-27T05:17:50Z"
     },
     {
       "id": 1428519987,
@@ -512,6 +512,37 @@
       "created_at": "2026-10-12T07:11:01Z",
       "updated_at": "2026-10-12T20:33:47Z",
       "pushed_at": "2026-10-12T13:41:04Z"
+    },
+    {
+      "id": 1428439343,
+      "name": "esp-labs-web",
+      "full_name": "agharsallah/esp-labs-web",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "html_url": "https://github.com/agharsallah/esp-labs-web",
+      "homepage": "https://esp-labs-web.vercel.app",
+      "stars": 489,
+      "forks": 74,
+      "language": "TypeScript",
+      "topics": [
+        "education",
+        "electronics",
+        "embedded",
+        "esp32",
+        "esp32-s3",
+        "i18n",
+        "interactive-learning",
+        "pinout",
+        "react",
+        "react-router",
+        "rtl",
+        "simulator",
+        "tanstack-query",
+        "typescript",
+        "vite"
+      ],
+      "created_at": "2026-10-21T13:40:04Z",
+      "updated_at": "2026-10-27T17:42:30Z",
+      "pushed_at": "2026-10-26T07:38:48Z"
     },
     {
       "id": 1407997858,
@@ -687,37 +718,6 @@
       "created_at": "2026-10-17T13:39:11Z",
       "updated_at": "2026-10-19T04:29:08Z",
       "pushed_at": "2026-10-17T13:54:23Z"
-    },
-    {
-      "id": 1428439343,
-      "name": "esp-labs-web",
-      "full_name": "agharsallah/esp-labs-web",
-      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
-      "html_url": "https://github.com/agharsallah/esp-labs-web",
-      "homepage": "https://esp-labs-web.vercel.app",
-      "stars": 453,
-      "forks": 67,
-      "language": "TypeScript",
-      "topics": [
-        "education",
-        "electronics",
-        "embedded",
-        "esp32",
-        "esp32-s3",
-        "i18n",
-        "interactive-learning",
-        "pinout",
-        "react",
-        "react-router",
-        "rtl",
-        "simulator",
-        "tanstack-query",
-        "typescript",
-        "vite"
-      ],
-      "created_at": "2026-10-21T13:40:04Z",
-      "updated_at": "2026-10-27T11:13:26Z",
-      "pushed_at": "2026-10-26T07:38:48Z"
     },
     {
       "id": 1424201691,
@@ -1323,6 +1323,25 @@
       "pushed_at": "2026-09-24T03:51:47Z"
     },
     {
+      "id": 1434335249,
+      "name": "deepopen-3d-webs",
+      "full_name": "deepopen-com/deepopen-3d-webs",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "homepage": "https://www.deepopen.com",
+      "stars": 356,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "gaussian-filter",
+        "gaussian-splatting"
+      ],
+      "created_at": "2026-10-26T12:13:47Z",
+      "updated_at": "2026-10-27T17:41:18Z",
+      "pushed_at": "2026-10-27T06:48:29Z"
+    },
+    {
       "id": 1412143785,
       "name": "robot-heads",
       "full_name": "fayazara/robot-heads",
@@ -1485,12 +1504,12 @@
       "description": "Transplant all the games to the web platform",
       "html_url": "https://github.com/atbfun/ATBGamePort",
       "homepage": null,
-      "stars": 314,
-      "forks": 64,
+      "stars": 318,
+      "forks": 65,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-21T01:29:33Z",
-      "updated_at": "2026-10-27T11:29:21Z",
+      "updated_at": "2026-10-27T12:23:07Z",
       "pushed_at": "2026-10-22T23:33:10Z"
     },
     {
@@ -1908,6 +1927,26 @@
       "pushed_at": "2026-10-24T03:38:51Z"
     },
     {
+      "id": 1428303251,
+      "name": "cleanyourtv-WebOS",
+      "full_name": "lasharor/cleanyourtv-WebOS",
+      "description": "A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.",
+      "html_url": "https://github.com/lasharor/cleanyourtv-WebOS",
+      "homepage": "https://lasharor.github.io/cleanyourtv-WebOS/",
+      "stars": 263,
+      "forks": 31,
+      "language": "HTML",
+      "topics": [
+        "homescreen",
+        "lg",
+        "rootmytv",
+        "webos"
+      ],
+      "created_at": "2026-10-21T11:43:47Z",
+      "updated_at": "2026-10-27T17:15:40Z",
+      "pushed_at": "2026-10-27T15:16:15Z"
+    },
+    {
       "id": 1390994799,
       "name": "CalcKernel",
       "full_name": "luxine/CalcKernel",
@@ -1926,26 +1965,6 @@
       "created_at": "2026-09-27T14:59:35Z",
       "updated_at": "2026-10-02T22:54:55Z",
       "pushed_at": "2026-10-02T00:33:09Z"
-    },
-    {
-      "id": 1428303251,
-      "name": "cleanyourtv-WebOS",
-      "full_name": "lasharor/cleanyourtv-WebOS",
-      "description": "A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.",
-      "html_url": "https://github.com/lasharor/cleanyourtv-WebOS",
-      "homepage": "https://lasharor.github.io/cleanyourtv-WebOS/",
-      "stars": 260,
-      "forks": 30,
-      "language": "HTML",
-      "topics": [
-        "homescreen",
-        "lg",
-        "rootmytv",
-        "webos"
-      ],
-      "created_at": "2026-10-21T11:43:47Z",
-      "updated_at": "2026-10-27T10:33:56Z",
-      "pushed_at": "2026-10-27T08:06:38Z"
     },
     {
       "id": 1427813091,
@@ -2241,6 +2260,30 @@
       "created_at": "2026-10-13T12:20:04Z",
       "updated_at": "2026-10-17T01:10:12Z",
       "pushed_at": "2026-10-13T12:50:13Z"
+    },
+    {
+      "id": 1428345942,
+      "name": "haloflux",
+      "full_name": "Ryder191/haloflux",
+      "description": "Beat-driven sci-fi light-ring visualization. Pure Canvas, single HTML, zero dependencies. Noncommercial use only. RYDER CODE / Ms MAIKEBAIs CAT ｜ 节拍驱动的科幻光环数据可视化，纯原生 Canvas 单文件 HTML、零依赖，支持 Wallpaper Engine 动态壁纸。仅限非商业使用，严禁商用。",
+      "html_url": "https://github.com/Ryder191/haloflux",
+      "homepage": "https://ryder191.github.io/haloflux/",
+      "stars": 223,
+      "forks": 9,
+      "language": "HTML",
+      "topics": [
+        "canvas",
+        "generative-art",
+        "html5",
+        "live-wallpaper",
+        "sci-fi",
+        "visualization",
+        "wallpaper",
+        "wallpaper-engine"
+      ],
+      "created_at": "2026-10-21T12:21:48Z",
+      "updated_at": "2026-10-27T17:18:30Z",
+      "pushed_at": "2026-10-26T05:02:32Z"
     },
     {
       "id": 1424555473,
@@ -2543,30 +2586,6 @@
       "pushed_at": "2026-10-16T12:50:53Z"
     },
     {
-      "id": 1428345942,
-      "name": "haloflux",
-      "full_name": "Ryder191/haloflux",
-      "description": "Beat-driven sci-fi light-ring visualization. Pure Canvas, single HTML, zero dependencies. Noncommercial use only. RYDER CODE / Ms MAIKEBAIs CAT ｜ 节拍驱动的科幻光环数据可视化，纯原生 Canvas 单文件 HTML、零依赖，支持 Wallpaper Engine 动态壁纸。仅限非商业使用，严禁商用。",
-      "html_url": "https://github.com/Ryder191/haloflux",
-      "homepage": "https://ryder191.github.io/haloflux/",
-      "stars": 207,
-      "forks": 9,
-      "language": "HTML",
-      "topics": [
-        "canvas",
-        "generative-art",
-        "html5",
-        "live-wallpaper",
-        "sci-fi",
-        "visualization",
-        "wallpaper",
-        "wallpaper-engine"
-      ],
-      "created_at": "2026-10-21T12:21:48Z",
-      "updated_at": "2026-10-27T10:09:34Z",
-      "pushed_at": "2026-10-26T05:02:32Z"
-    },
-    {
       "id": 1431584051,
       "name": "adult-ai-video",
       "full_name": "wlnhnoqefoxt/adult-ai-video",
@@ -2697,6 +2716,34 @@
       "created_at": "2026-09-26T07:52:44Z",
       "updated_at": "2026-10-02T17:31:47Z",
       "pushed_at": "2026-10-02T04:15:42Z"
+    },
+    {
+      "id": 1431056935,
+      "name": "ChaosIntelligence",
+      "full_name": "Cattmonkey/ChaosIntelligence",
+      "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
+      "html_url": "https://github.com/Cattmonkey/ChaosIntelligence",
+      "homepage": null,
+      "stars": 202,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "cli",
+        "developer-tools",
+        "functional-programming",
+        "generative-ui",
+        "llm",
+        "multi-agent",
+        "programming-language",
+        "source-available",
+        "web-ide",
+        "workflow-automation"
+      ],
+      "created_at": "2026-10-23T13:04:31Z",
+      "updated_at": "2026-10-27T16:56:53Z",
+      "pushed_at": "2026-10-24T16:30:44Z"
     },
     {
       "id": 1402294171,
@@ -2858,34 +2905,6 @@
       "created_at": "2026-10-09T13:57:07Z",
       "updated_at": "2026-10-09T18:27:18Z",
       "pushed_at": "2026-10-09T13:57:13Z"
-    },
-    {
-      "id": 1431056935,
-      "name": "ChaosIntelligence",
-      "full_name": "Cattmonkey/ChaosIntelligence",
-      "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
-      "html_url": "https://github.com/Cattmonkey/ChaosIntelligence",
-      "homepage": null,
-      "stars": 200,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "cli",
-        "developer-tools",
-        "functional-programming",
-        "generative-ui",
-        "llm",
-        "multi-agent",
-        "programming-language",
-        "source-available",
-        "web-ide",
-        "workflow-automation"
-      ],
-      "created_at": "2026-10-23T13:04:31Z",
-      "updated_at": "2026-10-27T00:19:57Z",
-      "pushed_at": "2026-10-24T16:30:44Z"
     },
     {
       "id": 1411918476,
@@ -3093,25 +3112,6 @@
       "created_at": "2026-10-15T23:37:25Z",
       "updated_at": "2026-10-21T16:11:23Z",
       "pushed_at": "2026-10-16T10:03:49Z"
-    },
-    {
-      "id": 1434335249,
-      "name": "deepopen-3d-webs",
-      "full_name": "deepopen-com/deepopen-3d-webs",
-      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
-      "homepage": "https://www.deepopen.com",
-      "stars": 190,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "3d",
-        "gaussian-filter",
-        "gaussian-splatting"
-      ],
-      "created_at": "2026-10-26T12:13:47Z",
-      "updated_at": "2026-10-27T11:48:30Z",
-      "pushed_at": "2026-10-27T06:48:29Z"
     },
     {
       "id": 1375641268,
@@ -3493,6 +3493,21 @@
       "pushed_at": "2026-10-27T10:56:54Z"
     },
     {
+      "id": 1429011384,
+      "name": "correlation",
+      "full_name": "bhoult/correlation",
+      "description": "Do stock correlations predict the market? 66 pre-registered tests, the data, and a triple pendulum that explains why not.  If you have an idea you want me to try, submit it as a PR and I will test it and get back to you.",
+      "html_url": "https://github.com/bhoult/correlation",
+      "homepage": null,
+      "stars": 171,
+      "forks": 29,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-21T22:54:00Z",
+      "updated_at": "2026-10-27T15:17:27Z",
+      "pushed_at": "2026-10-26T19:59:33Z"
+    },
+    {
       "id": 1412301770,
       "name": "datasets",
       "full_name": "toddrjones/datasets",
@@ -3552,21 +3567,6 @@
       "pushed_at": "2026-10-05T18:50:02Z"
     },
     {
-      "id": 1429011384,
-      "name": "correlation",
-      "full_name": "bhoult/correlation",
-      "description": "Do stock correlations predict the market? 66 pre-registered tests, the data, and a triple pendulum that explains why not.  If you have an idea you want me to try, submit it as a PR and I will test it and get back to you.",
-      "html_url": "https://github.com/bhoult/correlation",
-      "homepage": null,
-      "stars": 166,
-      "forks": 29,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-21T22:54:00Z",
-      "updated_at": "2026-10-27T06:04:16Z",
-      "pushed_at": "2026-10-26T19:59:33Z"
-    },
-    {
       "id": 1420250493,
       "name": "OpenVLHarness",
       "full_name": "uclanlp/OpenVLHarness",
@@ -3580,6 +3580,42 @@
       "created_at": "2026-10-15T06:01:30Z",
       "updated_at": "2026-10-21T22:53:34Z",
       "pushed_at": "2026-10-20T12:45:47Z"
+    },
+    {
+      "id": 1429974885,
+      "name": "glm-5.3-abliterated",
+      "full_name": "7API/glm-5.3-abliterated",
+      "description": "GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.",
+      "html_url": "https://github.com/7API/glm-5.3-abliterated",
+      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
+      "stars": 163,
+      "forks": 32,
+      "language": null,
+      "topics": [
+        "abliterated",
+        "abliterated-models",
+        "ai-jailbreaks",
+        "anthropic-compatible",
+        "claude-code",
+        "glm",
+        "glm-5-3",
+        "glm-5-3-abliterated",
+        "glm-5-3-abliterated-api",
+        "glm-5-3-flash",
+        "glm-5-3-jailbreak",
+        "glm-5-3-uncensored",
+        "glm-5-3-uncensored-api",
+        "jailbreak-prompts",
+        "llm-jailbreak",
+        "openai-compatible",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-model",
+        "zhipu"
+      ],
+      "created_at": "2026-10-22T16:07:16Z",
+      "updated_at": "2026-10-27T17:06:43Z",
+      "pushed_at": "2026-10-23T06:24:13Z"
     },
     {
       "id": 1391423600,
@@ -3613,42 +3649,6 @@
       "created_at": "2026-09-27T21:31:26Z",
       "updated_at": "2026-10-03T21:59:13Z",
       "pushed_at": "2026-10-03T17:08:44Z"
-    },
-    {
-      "id": 1429974885,
-      "name": "glm-5.3-abliterated",
-      "full_name": "7API/glm-5.3-abliterated",
-      "description": "GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.",
-      "html_url": "https://github.com/7API/glm-5.3-abliterated",
-      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
-      "stars": 162,
-      "forks": 32,
-      "language": null,
-      "topics": [
-        "abliterated",
-        "abliterated-models",
-        "ai-jailbreaks",
-        "anthropic-compatible",
-        "claude-code",
-        "glm",
-        "glm-5-3",
-        "glm-5-3-abliterated",
-        "glm-5-3-abliterated-api",
-        "glm-5-3-flash",
-        "glm-5-3-jailbreak",
-        "glm-5-3-uncensored",
-        "glm-5-3-uncensored-api",
-        "jailbreak-prompts",
-        "llm-jailbreak",
-        "openai-compatible",
-        "uncensored",
-        "uncensored-ai",
-        "uncensored-ai-model",
-        "zhipu"
-      ],
-      "created_at": "2026-10-22T16:07:16Z",
-      "updated_at": "2026-10-27T11:23:16Z",
-      "pushed_at": "2026-10-23T06:24:13Z"
     },
     {
       "id": 1387067752,
@@ -3786,6 +3786,26 @@
       "pushed_at": "2026-09-23T22:34:48Z"
     },
     {
+      "id": 1432256203,
+      "name": "webframe",
+      "full_name": "tractordev/webframe",
+      "description": "Run a web page like a program",
+      "html_url": "https://github.com/tractordev/webframe",
+      "homepage": null,
+      "stars": 154,
+      "forks": 1,
+      "language": "Go",
+      "topics": [
+        "cross-platform",
+        "golang",
+        "headless-browser",
+        "purego"
+      ],
+      "created_at": "2026-10-24T14:18:15Z",
+      "updated_at": "2026-10-27T17:43:29Z",
+      "pushed_at": "2026-10-25T00:31:43Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -3873,6 +3893,21 @@
       "pushed_at": "2026-10-17T19:10:11Z"
     },
     {
+      "id": 1432242109,
+      "name": "code-video-showcase",
+      "full_name": "Moessif/code-video-showcase",
+      "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
+      "html_url": "https://github.com/Moessif/code-video-showcase",
+      "homepage": null,
+      "stars": 151,
+      "forks": 10,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-24T14:02:58Z",
+      "updated_at": "2026-10-27T16:58:18Z",
+      "pushed_at": "2026-10-25T01:37:18Z"
+    },
+    {
       "id": 1418592001,
       "name": "ComfyUI-MangaScreen",
       "full_name": "ashukae/ComfyUI-MangaScreen",
@@ -3927,41 +3962,6 @@
       "created_at": "2026-10-08T18:47:12Z",
       "updated_at": "2026-10-14T10:55:20Z",
       "pushed_at": "2026-10-09T05:07:24Z"
-    },
-    {
-      "id": 1432256203,
-      "name": "webframe",
-      "full_name": "tractordev/webframe",
-      "description": "Run a web page like a program",
-      "html_url": "https://github.com/tractordev/webframe",
-      "homepage": null,
-      "stars": 144,
-      "forks": 1,
-      "language": "Go",
-      "topics": [
-        "cross-platform",
-        "golang",
-        "headless-browser",
-        "purego"
-      ],
-      "created_at": "2026-10-24T14:18:15Z",
-      "updated_at": "2026-10-27T11:25:35Z",
-      "pushed_at": "2026-10-25T00:31:43Z"
-    },
-    {
-      "id": 1432242109,
-      "name": "code-video-showcase",
-      "full_name": "Moessif/code-video-showcase",
-      "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
-      "html_url": "https://github.com/Moessif/code-video-showcase",
-      "homepage": null,
-      "stars": 143,
-      "forks": 10,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-24T14:02:58Z",
-      "updated_at": "2026-10-27T11:35:11Z",
-      "pushed_at": "2026-10-25T01:37:18Z"
     },
     {
       "id": 1403810477,
@@ -4128,8 +4128,8 @@
         "vibecoding"
       ],
       "created_at": "2026-10-21T04:22:59Z",
-      "updated_at": "2026-10-27T03:36:48Z",
-      "pushed_at": "2026-10-26T11:55:46Z"
+      "updated_at": "2026-10-27T12:08:17Z",
+      "pushed_at": "2026-10-27T12:08:11Z"
     },
     {
       "id": 1432795903,
@@ -4526,38 +4526,13 @@
       "pushed_at": "2026-10-26T19:03:13Z"
     },
     {
-      "id": 1406397878,
-      "name": "Video2World",
-      "full_name": "AetherLabsAI/Video2World",
-      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
-      "html_url": "https://github.com/AetherLabsAI/Video2World",
-      "homepage": "https://aetherlabsai.github.io/Video2World/",
-      "stars": 124,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "benchmark",
-        "coding-agent",
-        "embodied-ai",
-        "foundation-models",
-        "real-to-sim",
-        "robot-learning",
-        "robotics",
-        "simulation",
-        "world-models"
-      ],
-      "created_at": "2026-10-05T21:27:56Z",
-      "updated_at": "2026-10-11T12:14:33Z",
-      "pushed_at": "2026-10-06T15:47:31Z"
-    },
-    {
       "id": 1434862232,
       "name": "glm-5.3-uncensored",
       "full_name": "Andreas698/glm-5.3-uncensored",
       "description": "GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.",
       "html_url": "https://github.com/Andreas698/glm-5.3-uncensored",
       "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-uncensored",
-      "stars": 124,
+      "stars": 125,
       "forks": 26,
       "language": "Python",
       "topics": [
@@ -4583,8 +4558,33 @@
         "uncensored-ai-model"
       ],
       "created_at": "2026-10-26T19:51:48Z",
-      "updated_at": "2026-10-27T02:04:22Z",
+      "updated_at": "2026-10-27T17:06:42Z",
       "pushed_at": "2026-10-26T19:51:56Z"
+    },
+    {
+      "id": 1406397878,
+      "name": "Video2World",
+      "full_name": "AetherLabsAI/Video2World",
+      "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
+      "html_url": "https://github.com/AetherLabsAI/Video2World",
+      "homepage": "https://aetherlabsai.github.io/Video2World/",
+      "stars": 124,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "coding-agent",
+        "embodied-ai",
+        "foundation-models",
+        "real-to-sim",
+        "robot-learning",
+        "robotics",
+        "simulation",
+        "world-models"
+      ],
+      "created_at": "2026-10-05T21:27:56Z",
+      "updated_at": "2026-10-11T12:14:33Z",
+      "pushed_at": "2026-10-06T15:47:31Z"
     },
     {
       "id": 1403848767,
@@ -4626,6 +4626,34 @@
       "created_at": "2026-10-13T23:24:12Z",
       "updated_at": "2026-10-19T22:11:05Z",
       "pushed_at": "2026-10-19T14:47:10Z"
+    },
+    {
+      "id": 1429250391,
+      "name": "clean-your-tv-lg-webos",
+      "full_name": "Razdva122/clean-your-tv-lg-webos",
+      "description": "A clean home screen for LG webOS. No root. No always-on computer. On-TV Home-button helper, a customizable app grid and dock, and a way back to LG Home.",
+      "html_url": "https://github.com/Razdva122/clean-your-tv-lg-webos",
+      "homepage": null,
+      "stars": 123,
+      "forks": 19,
+      "language": "Python",
+      "topics": [
+        "customization",
+        "home-screen",
+        "homebrew",
+        "launcher",
+        "lg-tv",
+        "lg-webos",
+        "no-root",
+        "remote-control",
+        "smart-tv",
+        "tv-launcher",
+        "webos",
+        "webos-tv"
+      ],
+      "created_at": "2026-10-22T04:43:21Z",
+      "updated_at": "2026-10-27T17:28:12Z",
+      "pushed_at": "2026-10-27T17:30:54Z"
     },
     {
       "id": 1414327429,
@@ -4995,32 +5023,19 @@
       "pushed_at": "2026-10-26T20:49:12Z"
     },
     {
-      "id": 1429250391,
-      "name": "clean-your-tv-lg-webos",
-      "full_name": "Razdva122/clean-your-tv-lg-webos",
-      "description": "A clean home screen for LG webOS. No root. No always-on computer. On-TV Home-button helper, a customizable app grid and dock, and a way back to LG Home.",
-      "html_url": "https://github.com/Razdva122/clean-your-tv-lg-webos",
+      "id": 1428674714,
+      "name": "macau-hidden-bites",
+      "full_name": "Lico124378/macau-hidden-bites",
+      "description": "A Macau food recommendation Agent built on Thompson Sampling + StackedPareto weight fusion, with a full evaluation pipeline (5-fold CV, bootstrap CIs, stress tests) on 5,000 simulated users and 100k interactions. Competition entry for the QwenPaw AI Developer Challenge.",
+      "html_url": "https://github.com/Lico124378/macau-hidden-bites",
       "homepage": null,
       "stars": 114,
-      "forks": 19,
+      "forks": 0,
       "language": "Python",
-      "topics": [
-        "customization",
-        "home-screen",
-        "homebrew",
-        "launcher",
-        "lg-tv",
-        "lg-webos",
-        "no-root",
-        "remote-control",
-        "smart-tv",
-        "tv-launcher",
-        "webos",
-        "webos-tv"
-      ],
-      "created_at": "2026-10-22T04:43:21Z",
-      "updated_at": "2026-10-27T11:42:32Z",
-      "pushed_at": "2026-10-27T11:46:46Z"
+      "topics": [],
+      "created_at": "2026-10-21T16:53:47Z",
+      "updated_at": "2026-10-27T15:55:43Z",
+      "pushed_at": "2026-10-21T16:54:13Z"
     },
     {
       "id": 1380729698,
@@ -6795,6 +6810,21 @@
       "pushed_at": "2026-10-20T21:57:34Z"
     },
     {
+      "id": 1431435671,
+      "name": "glisse",
+      "full_name": "0kzh/glisse",
+      "description": "iOS 26 Liquid Glass for the web",
+      "html_url": "https://github.com/0kzh/glisse",
+      "homepage": null,
+      "stars": 90,
+      "forks": 4,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-23T18:55:21Z",
+      "updated_at": "2026-10-27T17:00:39Z",
+      "pushed_at": "2026-10-26T19:56:29Z"
+    },
+    {
       "id": 1399029726,
       "name": "awesome-homelab",
       "full_name": "Minh141120/awesome-homelab",
@@ -7174,6 +7204,21 @@
       "pushed_at": "2026-10-13T05:44:43Z"
     },
     {
+      "id": 1427862314,
+      "name": "ShaolinMonks-Android",
+      "full_name": "RanggaCasper/ShaolinMonks-Android",
+      "description": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+      "html_url": "https://github.com/RanggaCasper/ShaolinMonks-Android",
+      "homepage": null,
+      "stars": 82,
+      "forks": 10,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-21T04:10:20Z",
+      "updated_at": "2026-10-27T17:12:29Z",
+      "pushed_at": "2026-10-22T22:27:33Z"
+    },
+    {
       "id": 1409175398,
       "name": "mcpdelta",
       "full_name": "mcpdelta/mcpdelta",
@@ -7260,21 +7305,6 @@
       "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
-      "id": 1431435671,
-      "name": "glisse",
-      "full_name": "0kzh/glisse",
-      "description": "iOS 26 Liquid Glass for the web",
-      "html_url": "https://github.com/0kzh/glisse",
-      "homepage": null,
-      "stars": 79,
-      "forks": 4,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-23T18:55:21Z",
-      "updated_at": "2026-10-27T11:25:17Z",
-      "pushed_at": "2026-10-26T19:56:29Z"
-    },
-    {
       "id": 1408229138,
       "name": "unpaired-rosetta",
       "full_name": "dominik-schnaus/unpaired-rosetta",
@@ -7325,21 +7355,6 @@
       "pushed_at": "2026-10-11T16:43:00Z"
     },
     {
-      "id": 1427862314,
-      "name": "ShaolinMonks-Android",
-      "full_name": "RanggaCasper/ShaolinMonks-Android",
-      "description": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
-      "html_url": "https://github.com/RanggaCasper/ShaolinMonks-Android",
-      "homepage": null,
-      "stars": 77,
-      "forks": 10,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-21T04:10:20Z",
-      "updated_at": "2026-10-27T10:10:24Z",
-      "pushed_at": "2026-10-22T22:27:33Z"
-    },
-    {
       "id": 1377321806,
       "name": "boris-fx-bcc-plugin-premium-2026",
       "full_name": "SandstoneAir/boris-fx-bcc-plugin-premium-2026",
@@ -7377,6 +7392,28 @@
       "created_at": "2026-09-28T18:48:03Z",
       "updated_at": "2026-10-04T07:22:06Z",
       "pushed_at": "2026-10-03T15:46:40Z"
+    },
+    {
+      "id": 1430191134,
+      "name": "awesome-webos",
+      "full_name": "tolgakurtuluss/awesome-webos",
+      "description": "A curated list of apps, launchers, homebrew repositories, rooting tools, guides, and resources for webOS TVs.",
+      "html_url": "https://github.com/tolgakurtuluss/awesome-webos",
+      "homepage": null,
+      "stars": 76,
+      "forks": 9,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lg-tv",
+        "webos",
+        "webos-tv",
+        "webostv"
+      ],
+      "created_at": "2026-10-22T19:33:03Z",
+      "updated_at": "2026-10-27T16:50:37Z",
+      "pushed_at": "2026-10-27T16:50:31Z"
     },
     {
       "id": 1410576760,
@@ -7466,28 +7503,6 @@
       "pushed_at": "2026-10-07T08:16:17Z"
     },
     {
-      "id": 1430191134,
-      "name": "awesome-webos",
-      "full_name": "tolgakurtuluss/awesome-webos",
-      "description": "A curated list of apps, launchers, homebrew repositories, rooting tools, guides, and resources for webOS TVs.",
-      "html_url": "https://github.com/tolgakurtuluss/awesome-webos",
-      "homepage": null,
-      "stars": 74,
-      "forks": 8,
-      "language": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "lg-tv",
-        "webos",
-        "webos-tv",
-        "webostv"
-      ],
-      "created_at": "2026-10-22T19:33:03Z",
-      "updated_at": "2026-10-27T07:19:45Z",
-      "pushed_at": "2026-10-27T07:19:40Z"
-    },
-    {
       "id": 1396432432,
       "name": "json-toolkit",
       "full_name": "ralf1qdev/json-toolkit",
@@ -7538,6 +7553,34 @@
       "created_at": "2026-10-17T08:35:35Z",
       "updated_at": "2026-10-23T20:56:26Z",
       "pushed_at": "2026-10-21T08:22:16Z"
+    },
+    {
+      "id": 1430276458,
+      "name": "dsh-nekowhale-stickers",
+      "full_name": "Loping151/dsh-nekowhale-stickers",
+      "description": "大肥鱼 / GPT娘 sticker knowledge kit for DeepSeek Harness (dsh), MCP and any chat bot · 大肥鱼表情包知识库",
+      "html_url": "https://github.com/Loping151/dsh-nekowhale-stickers",
+      "homepage": "https://www.npmjs.com/package/dsh-nekowhale-stickers",
+      "stars": 73,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "chatbot",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "emoji",
+        "live2d",
+        "mcp",
+        "mcp-server",
+        "meme",
+        "qqbot",
+        "stickers"
+      ],
+      "created_at": "2026-10-22T21:08:41Z",
+      "updated_at": "2026-10-27T13:46:02Z",
+      "pushed_at": "2026-10-26T21:43:26Z"
     },
     {
       "id": 1375761817,
@@ -7620,34 +7663,6 @@
       "created_at": "2026-10-08T00:17:09Z",
       "updated_at": "2026-10-14T15:20:15Z",
       "pushed_at": "2026-10-13T09:54:16Z"
-    },
-    {
-      "id": 1430276458,
-      "name": "dsh-nekowhale-stickers",
-      "full_name": "Loping151/dsh-nekowhale-stickers",
-      "description": "大肥鱼 / GPT娘 sticker knowledge kit for DeepSeek Harness (dsh), MCP and any chat bot · 大肥鱼表情包知识库",
-      "html_url": "https://github.com/Loping151/dsh-nekowhale-stickers",
-      "homepage": "https://www.npmjs.com/package/dsh-nekowhale-stickers",
-      "stars": 72,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [
-        "chatbot",
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "emoji",
-        "live2d",
-        "mcp",
-        "mcp-server",
-        "meme",
-        "qqbot",
-        "stickers"
-      ],
-      "created_at": "2026-10-22T21:08:41Z",
-      "updated_at": "2026-10-27T09:24:16Z",
-      "pushed_at": "2026-10-26T21:43:26Z"
     },
     {
       "id": 1375750028,
@@ -8062,6 +8077,35 @@
       "pushed_at": "2026-10-15T15:25:39Z"
     },
     {
+      "id": 1432418830,
+      "name": "now-bar",
+      "full_name": "nixesty/now-bar",
+      "description": "One UI's Now Bar for the Windows taskbar: a pill with what's live now (music and lyrics, timers, live football and basketball, Galaxy Buds, weather, game downloads, Claude Code) and a card that opens from it. Windows 10 and 11, Turkish and English.",
+      "html_url": "https://github.com/nixesty/now-bar",
+      "homepage": null,
+      "stars": 66,
+      "forks": 8,
+      "language": "Rust",
+      "topics": [
+        "claude-code",
+        "direct2d",
+        "galaxy-buds",
+        "lyrics",
+        "media-controls",
+        "now-bar",
+        "one-ui",
+        "rust",
+        "slint",
+        "taskbar",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-24T17:19:30Z",
+      "updated_at": "2026-10-27T13:07:16Z",
+      "pushed_at": "2026-10-26T10:19:07Z"
+    },
+    {
       "id": 1429666605,
       "name": "tiktok-view-bot",
       "full_name": "eqyvlbekmlqq/tiktok-view-bot",
@@ -8315,35 +8359,6 @@
       "pushed_at": "2026-10-12T03:31:26Z"
     },
     {
-      "id": 1432418830,
-      "name": "now-bar",
-      "full_name": "nixesty/now-bar",
-      "description": "One UI's Now Bar for the Windows taskbar: a pill with what's live now (music and lyrics, timers, live football and basketball, Galaxy Buds, weather, game downloads, Claude Code) and a card that opens from it. Windows 10 and 11, Turkish and English.",
-      "html_url": "https://github.com/nixesty/now-bar",
-      "homepage": null,
-      "stars": 64,
-      "forks": 8,
-      "language": "Rust",
-      "topics": [
-        "claude-code",
-        "direct2d",
-        "galaxy-buds",
-        "lyrics",
-        "media-controls",
-        "now-bar",
-        "one-ui",
-        "rust",
-        "slint",
-        "taskbar",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-24T17:19:30Z",
-      "updated_at": "2026-10-27T09:27:45Z",
-      "pushed_at": "2026-10-26T10:19:07Z"
-    },
-    {
       "id": 1387598614,
       "name": "fluidplan",
       "full_name": "morganhub/fluidplan",
@@ -8382,6 +8397,21 @@
       "created_at": "2026-10-01T15:40:04Z",
       "updated_at": "2026-10-01T17:24:01Z",
       "pushed_at": "2026-10-01T17:23:57Z"
+    },
+    {
+      "id": 1428867439,
+      "name": "mochiboard",
+      "full_name": "jessawolfe-ux/mochiboard",
+      "description": "A cozy planning canvas for your Mac, with Mochi (a pixel goo powered by Claude Code) inside.",
+      "html_url": "https://github.com/jessawolfe-ux/mochiboard",
+      "homepage": null,
+      "stars": 62,
+      "forks": 11,
+      "language": "CSS",
+      "topics": [],
+      "created_at": "2026-10-21T19:57:56Z",
+      "updated_at": "2026-10-27T16:04:18Z",
+      "pushed_at": "2026-10-27T15:48:28Z"
     },
     {
       "id": 1386511925,
@@ -8482,21 +8512,6 @@
       "created_at": "2026-10-21T02:56:44Z",
       "updated_at": "2026-10-25T12:45:14Z",
       "pushed_at": "2026-10-22T05:49:44Z"
-    },
-    {
-      "id": 1428867439,
-      "name": "mochiboard",
-      "full_name": "jessawolfe-ux/mochiboard",
-      "description": "A cozy planning canvas for your Mac, with Mochi (a pixel goo powered by Claude Code) inside.",
-      "html_url": "https://github.com/jessawolfe-ux/mochiboard",
-      "homepage": null,
-      "stars": 61,
-      "forks": 11,
-      "language": "CSS",
-      "topics": [],
-      "created_at": "2026-10-21T19:57:56Z",
-      "updated_at": "2026-10-27T08:15:15Z",
-      "pushed_at": "2026-10-25T18:23:06Z"
     },
     {
       "id": 1399378829,
@@ -8722,6 +8737,31 @@
       "pushed_at": "2026-10-17T23:00:32Z"
     },
     {
+      "id": 1433066562,
+      "name": "OpenSakura",
+      "full_name": "zeekk0/OpenSakura",
+      "description": "OpenSakura: MekaHime's first AI companion, open source. 3D VRoid avatar, real-time voice, emotion state, OpenRouter or Ollama brain.",
+      "html_url": "https://github.com/zeekk0/OpenSakura",
+      "homepage": "https://www.mekahime.com/sakura",
+      "stars": 59,
+      "forks": 10,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "gpt-sovits",
+        "mekahime",
+        "ollama",
+        "openrouter",
+        "speech-recognition",
+        "text-to-speech",
+        "threejs",
+        "vrm"
+      ],
+      "created_at": "2026-10-25T10:17:41Z",
+      "updated_at": "2026-10-27T16:40:28Z",
+      "pushed_at": "2026-10-25T13:37:54Z"
+    },
+    {
       "id": 1422310322,
       "name": "Sims-4-Respocket-DLC-Tool",
       "full_name": "GradeBureaucrat/Sims-4-Respocket-DLC-Tool",
@@ -8861,31 +8901,6 @@
       "created_at": "2026-10-10T20:42:05Z",
       "updated_at": "2026-10-16T21:10:47Z",
       "pushed_at": "2026-10-12T06:56:26Z"
-    },
-    {
-      "id": 1433066562,
-      "name": "OpenSakura",
-      "full_name": "zeekk0/OpenSakura",
-      "description": "OpenSakura: MekaHime's first AI companion, open source. 3D VRoid avatar, real-time voice, emotion state, OpenRouter or Ollama brain.",
-      "html_url": "https://github.com/zeekk0/OpenSakura",
-      "homepage": "https://www.mekahime.com/sakura",
-      "stars": 57,
-      "forks": 10,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "gpt-sovits",
-        "mekahime",
-        "ollama",
-        "openrouter",
-        "speech-recognition",
-        "text-to-speech",
-        "threejs",
-        "vrm"
-      ],
-      "created_at": "2026-10-25T10:17:41Z",
-      "updated_at": "2026-10-27T10:14:13Z",
-      "pushed_at": "2026-10-25T13:37:54Z"
     },
     {
       "id": 1386319785,
@@ -10416,8 +10431,8 @@
         "koreader-plugin"
       ],
       "created_at": "2026-10-23T08:42:35Z",
-      "updated_at": "2026-10-27T03:10:27Z",
-      "pushed_at": "2026-10-24T19:12:58Z"
+      "updated_at": "2026-10-27T17:05:10Z",
+      "pushed_at": "2026-10-27T17:05:05Z"
     },
     {
       "id": 1377057562,
@@ -11741,6 +11756,30 @@
       "pushed_at": "2026-10-26T20:26:26Z"
     },
     {
+      "id": 1429295201,
+      "name": "TizenAmbilight",
+      "full_name": "RitwickVerma/TizenAmbilight",
+      "description": "Real-frame ambilight for Samsung Tizen TVs — reads the TV's own decoded video plane, drives a WLED strip over UDP, no capture card",
+      "html_url": "https://github.com/RitwickVerma/TizenAmbilight",
+      "homepage": null,
+      "stars": 28,
+      "forks": 3,
+      "language": "C#",
+      "topics": [
+        "ambilight",
+        "dotnet",
+        "home-automation",
+        "led-strip",
+        "samsung-tizen",
+        "smart-tv",
+        "tizen",
+        "wled"
+      ],
+      "created_at": "2026-10-22T05:40:58Z",
+      "updated_at": "2026-10-27T12:34:58Z",
+      "pushed_at": "2026-10-25T06:56:27Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -11915,28 +11954,34 @@
       "pushed_at": "2026-10-21T04:22:54Z"
     },
     {
-      "id": 1429295201,
-      "name": "TizenAmbilight",
-      "full_name": "RitwickVerma/TizenAmbilight",
-      "description": "Real-frame ambilight for Samsung Tizen TVs — reads the TV's own decoded video plane, drives a WLED strip over UDP, no capture card",
-      "html_url": "https://github.com/RitwickVerma/TizenAmbilight",
-      "homepage": null,
+      "id": 1433923128,
+      "name": "vram-switcher",
+      "full_name": "xiaoxiao150/vram-switcher",
+      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
+      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
+      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
       "stars": 26,
-      "forks": 3,
-      "language": "C#",
+      "forks": 0,
+      "language": "Python",
       "topics": [
-        "ambilight",
-        "dotnet",
-        "home-automation",
-        "led-strip",
-        "samsung-tizen",
-        "smart-tv",
-        "tizen",
-        "wled"
+        "ai-companion",
+        "astrbot",
+        "astrbot-plugin",
+        "comfyui",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gpu",
+        "indextts",
+        "llama-cpp",
+        "python",
+        "tts",
+        "vram",
+        "windows"
       ],
-      "created_at": "2026-10-22T05:40:58Z",
-      "updated_at": "2026-10-26T22:02:40Z",
-      "pushed_at": "2026-10-25T06:56:27Z"
+      "created_at": "2026-10-26T05:00:40Z",
+      "updated_at": "2026-10-27T17:27:25Z",
+      "pushed_at": "2026-10-27T15:58:20Z"
     },
     {
       "id": 1409300261,
@@ -12191,6 +12236,69 @@
       "pushed_at": "2026-10-15T16:41:16Z"
     },
     {
+      "id": 1430301888,
+      "name": "PC5",
+      "full_name": "bornaradusin/PC5",
+      "description": "A launcher for PC games on a jailbroken PS5, built on prospero-win (Wine, DXVK, VKD3D-Proton). Install games from USB with automatic covers, pick them from a carousel, and use the DualSense: vibration, light bar, adaptive triggers. FPS counter and update check. Games that need a launcher to start are not supported.",
+      "html_url": "https://github.com/bornaradusin/PC5",
+      "homepage": null,
+      "stars": 23,
+      "forks": 3,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-22T21:41:25Z",
+      "updated_at": "2026-10-27T15:48:25Z",
+      "pushed_at": "2026-10-27T15:49:02Z"
+    },
+    {
+      "id": 1430617591,
+      "name": "live2d-halfbody-skill",
+      "full_name": "bellisji233/live2d-halfbody-skill",
+      "description": "Agent skill (Claude Code) that turns one character illustration into a half-body Live2D avatar for VTube Studio. 一张立绘做出 VTube Studio 半身 Live2D 皮套。",
+      "html_url": "https://github.com/bellisji233/live2d-halfbody-skill",
+      "homepage": null,
+      "stars": 23,
+      "forks": 4,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-skill",
+        "live2d",
+        "live2d-model",
+        "vtube-studio",
+        "vtuber"
+      ],
+      "created_at": "2026-10-23T05:30:44Z",
+      "updated_at": "2026-10-27T15:52:36Z",
+      "pushed_at": "2026-10-25T06:47:55Z"
+    },
+    {
+      "id": 1429736923,
+      "name": "SunPet",
+      "full_name": "Ganzhe2028/SunPet",
+      "description": "孙宇晨「太对了」macOS 桌面宠物（桌宠）· 28 句原声，点一下就说一句 · A macOS desktop pet that keeps agreeing with you · Swift + AppKit",
+      "html_url": "https://github.com/Ganzhe2028/SunPet",
+      "homepage": null,
+      "stars": 23,
+      "forks": 0,
+      "language": "Swift",
+      "topics": [
+        "appkit",
+        "bilibili",
+        "desktop-companion",
+        "desktop-mascot",
+        "desktop-pet",
+        "macos",
+        "meme",
+        "menubar",
+        "swift"
+      ],
+      "created_at": "2026-10-22T12:46:02Z",
+      "updated_at": "2026-10-27T14:35:14Z",
+      "pushed_at": "2026-10-25T06:35:04Z"
+    },
+    {
       "id": 1413789740,
       "name": "TacHen",
       "full_name": "GronedWaffel/TacHen",
@@ -12307,74 +12415,6 @@
       "created_at": "2026-10-18T11:18:57Z",
       "updated_at": "2026-10-23T16:01:24Z",
       "pushed_at": "2026-10-18T11:19:57Z"
-    },
-    {
-      "id": 1430301888,
-      "name": "PC5",
-      "full_name": "bornaradusin/PC5",
-      "description": "A launcher for PC games on a jailbroken PS5, built on prospero-win (Wine, DXVK, VKD3D-Proton). Install games from USB with automatic covers, pick them from a carousel, and use the DualSense: vibration, light bar, adaptive triggers. FPS counter and update check. Games that need a launcher to start are not supported.",
-      "html_url": "https://github.com/bornaradusin/PC5",
-      "homepage": null,
-      "stars": 22,
-      "forks": 3,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-22T21:41:25Z",
-      "updated_at": "2026-10-27T11:34:30Z",
-      "pushed_at": "2026-10-27T11:34:27Z"
-    },
-    {
-      "id": 1430617591,
-      "name": "live2d-halfbody-skill",
-      "full_name": "bellisji233/live2d-halfbody-skill",
-      "description": "Agent skill (Claude Code) that turns one character illustration into a half-body Live2D avatar for VTube Studio. 一张立绘做出 VTube Studio 半身 Live2D 皮套。",
-      "html_url": "https://github.com/bellisji233/live2d-halfbody-skill",
-      "homepage": null,
-      "stars": 22,
-      "forks": 4,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "claude-skill",
-        "live2d",
-        "live2d-model",
-        "vtube-studio",
-        "vtuber"
-      ],
-      "created_at": "2026-10-23T05:30:44Z",
-      "updated_at": "2026-10-27T08:06:58Z",
-      "pushed_at": "2026-10-25T06:47:55Z"
-    },
-    {
-      "id": 1433923128,
-      "name": "vram-switcher",
-      "full_name": "xiaoxiao150/vram-switcher",
-      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
-      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
-      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
-      "stars": 22,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "astrbot",
-        "astrbot-plugin",
-        "comfyui",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "gpu",
-        "indextts",
-        "llama-cpp",
-        "python",
-        "tts",
-        "vram",
-        "windows"
-      ],
-      "created_at": "2026-10-26T05:00:40Z",
-      "updated_at": "2026-10-27T11:18:59Z",
-      "pushed_at": "2026-10-26T15:45:16Z"
     },
     {
       "id": 1394505594,
@@ -12516,31 +12556,6 @@
       "created_at": "2026-10-14T00:20:09Z",
       "updated_at": "2026-10-16T02:27:23Z",
       "pushed_at": "2026-10-14T00:37:19Z"
-    },
-    {
-      "id": 1429736923,
-      "name": "SunPet",
-      "full_name": "Ganzhe2028/SunPet",
-      "description": "孙宇晨「太对了」macOS 桌面宠物（桌宠）· 28 句原声，点一下就说一句 · A macOS desktop pet that keeps agreeing with you · Swift + AppKit",
-      "html_url": "https://github.com/Ganzhe2028/SunPet",
-      "homepage": null,
-      "stars": 21,
-      "forks": 0,
-      "language": "Swift",
-      "topics": [
-        "appkit",
-        "bilibili",
-        "desktop-companion",
-        "desktop-mascot",
-        "desktop-pet",
-        "macos",
-        "meme",
-        "menubar",
-        "swift"
-      ],
-      "created_at": "2026-10-22T12:46:02Z",
-      "updated_at": "2026-10-27T07:23:06Z",
-      "pushed_at": "2026-10-25T06:35:04Z"
     },
     {
       "id": 1417445101,
