@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/28 05:58:09",
-  "total_repos": 654,
+  "fetched_at": "2026/10/28 09:09:16",
+  "total_repos": 669,
   "repos": [
     {
       "id": 1425658028,
@@ -138,6 +138,28 @@
       "pushed_at": "2026-10-18T05:37:22Z"
     },
     {
+      "id": 1432883796,
+      "name": "agent-purge",
+      "full_name": "ZiChuanLan/agent-purge",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "html_url": "https://github.com/ZiChuanLan/agent-purge",
+      "homepage": null,
+      "stars": 585,
+      "forks": 453,
+      "language": "JavaScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "opencode",
+        "pi",
+        "system-prompt"
+      ],
+      "created_at": "2026-10-25T06:06:02Z",
+      "updated_at": "2026-10-28T00:53:11Z",
+      "pushed_at": "2026-10-27T17:39:35Z"
+    },
+    {
       "id": 1403847264,
       "name": "mesh-avatar-studio",
       "full_name": "shinshin86/mesh-avatar-studio",
@@ -196,28 +218,6 @@
       "created_at": "2026-10-07T08:31:31Z",
       "updated_at": "2026-10-09T03:37:54Z",
       "pushed_at": "2026-10-08T14:41:51Z"
-    },
-    {
-      "id": 1432883796,
-      "name": "agent-purge",
-      "full_name": "ZiChuanLan/agent-purge",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "html_url": "https://github.com/ZiChuanLan/agent-purge",
-      "homepage": null,
-      "stars": 581,
-      "forks": 452,
-      "language": "JavaScript",
-      "topics": [
-        "claude-code",
-        "codex",
-        "coding-agent",
-        "opencode",
-        "pi",
-        "system-prompt"
-      ],
-      "created_at": "2026-10-25T06:06:02Z",
-      "updated_at": "2026-10-27T21:08:18Z",
-      "pushed_at": "2026-10-27T17:39:35Z"
     },
     {
       "id": 1403115747,
@@ -595,6 +595,21 @@
       "pushed_at": "2026-10-26T00:59:39Z"
     },
     {
+      "id": 1433269248,
+      "name": "OunceCake",
+      "full_name": "misshexa66/OunceCake",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "html_url": "https://github.com/misshexa66/OunceCake",
+      "homepage": null,
+      "stars": 476,
+      "forks": 56,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-25T14:12:41Z",
+      "updated_at": "2026-10-27T23:41:51Z",
+      "pushed_at": "2026-10-25T23:03:01Z"
+    },
+    {
       "id": 1415910250,
       "name": "Discord-Server-Raider",
       "full_name": "Aquafitzdisconnect/Discord-Server-Raider",
@@ -617,21 +632,6 @@
       "created_at": "2026-10-12T17:16:28Z",
       "updated_at": "2026-10-12T21:47:34Z",
       "pushed_at": "2026-10-12T17:16:34Z"
-    },
-    {
-      "id": 1433269248,
-      "name": "OunceCake",
-      "full_name": "misshexa66/OunceCake",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "html_url": "https://github.com/misshexa66/OunceCake",
-      "homepage": null,
-      "stars": 474,
-      "forks": 56,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-25T14:12:41Z",
-      "updated_at": "2026-10-27T21:42:33Z",
-      "pushed_at": "2026-10-25T23:03:01Z"
     },
     {
       "id": 1419211419,
@@ -1182,6 +1182,25 @@
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
+      "id": 1434335249,
+      "name": "deepopen-3d-webs",
+      "full_name": "deepopen-com/deepopen-3d-webs",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "homepage": "https://www.deepopen.com",
+      "stars": 386,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "gaussian-filter",
+        "gaussian-splatting"
+      ],
+      "created_at": "2026-10-26T12:13:47Z",
+      "updated_at": "2026-10-28T01:05:50Z",
+      "pushed_at": "2026-10-27T06:48:29Z"
+    },
+    {
       "id": 1406514405,
       "name": "liquid-glass",
       "full_name": "Glass-HQ/liquid-glass",
@@ -1218,25 +1237,6 @@
       "created_at": "2026-10-12T17:10:47Z",
       "updated_at": "2026-10-12T21:38:15Z",
       "pushed_at": "2026-10-12T17:10:55Z"
-    },
-    {
-      "id": 1434335249,
-      "name": "deepopen-3d-webs",
-      "full_name": "deepopen-com/deepopen-3d-webs",
-      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
-      "homepage": "https://www.deepopen.com",
-      "stars": 378,
-      "forks": 1,
-      "language": "Python",
-      "topics": [
-        "3d",
-        "gaussian-filter",
-        "gaussian-splatting"
-      ],
-      "created_at": "2026-10-26T12:13:47Z",
-      "updated_at": "2026-10-27T21:51:43Z",
-      "pushed_at": "2026-10-27T06:48:29Z"
     },
     {
       "id": 1415902555,
@@ -1370,13 +1370,28 @@
       "description": "An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool",
       "html_url": "https://github.com/x86rc/unthemidator",
       "homepage": null,
-      "stars": 335,
+      "stars": 337,
       "forks": 50,
       "language": "C++",
       "topics": [],
       "created_at": "2026-10-23T13:23:19Z",
-      "updated_at": "2026-10-27T20:26:07Z",
+      "updated_at": "2026-10-27T23:17:10Z",
       "pushed_at": "2026-10-27T20:21:37Z"
+    },
+    {
+      "id": 1432731313,
+      "name": "KohakUnlock",
+      "full_name": "KohakuBlueleaf/KohakUnlock",
+      "description": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes",
+      "html_url": "https://github.com/KohakuBlueleaf/KohakUnlock",
+      "homepage": null,
+      "stars": 328,
+      "forks": 31,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-25T01:18:54Z",
+      "updated_at": "2026-10-28T01:01:22Z",
+      "pushed_at": "2026-10-27T11:40:25Z"
     },
     {
       "id": 1414415721,
@@ -1428,21 +1443,6 @@
       "created_at": "2026-10-14T01:49:12Z",
       "updated_at": "2026-10-20T17:33:42Z",
       "pushed_at": "2026-10-16T18:45:13Z"
-    },
-    {
-      "id": 1432731313,
-      "name": "KohakUnlock",
-      "full_name": "KohakuBlueleaf/KohakUnlock",
-      "description": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes",
-      "html_url": "https://github.com/KohakuBlueleaf/KohakUnlock",
-      "homepage": null,
-      "stars": 325,
-      "forks": 30,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-25T01:18:54Z",
-      "updated_at": "2026-10-27T21:57:42Z",
-      "pushed_at": "2026-10-27T11:40:25Z"
     },
     {
       "id": 1416366647,
@@ -1526,6 +1526,37 @@
       "created_at": "2026-10-21T01:29:33Z",
       "updated_at": "2026-10-27T20:55:59Z",
       "pushed_at": "2026-10-22T23:33:10Z"
+    },
+    {
+      "id": 1431986839,
+      "name": "bama",
+      "full_name": "daveebbelaar/bama",
+      "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "html_url": "https://github.com/daveebbelaar/bama",
+      "homepage": null,
+      "stars": 317,
+      "forks": 55,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "app-clone",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "computer-use",
+        "liquid-glass",
+        "macos",
+        "macos-app",
+        "native-apps",
+        "skills",
+        "swift",
+        "swiftdata",
+        "swiftui"
+      ],
+      "created_at": "2026-10-24T08:44:36Z",
+      "updated_at": "2026-10-28T01:05:45Z",
+      "pushed_at": "2026-10-27T06:51:15Z"
     },
     {
       "id": 1381875232,
@@ -1895,37 +1926,6 @@
       "created_at": "2026-10-02T10:02:23Z",
       "updated_at": "2026-10-08T17:43:33Z",
       "pushed_at": "2026-10-08T13:21:09Z"
-    },
-    {
-      "id": 1431986839,
-      "name": "bama",
-      "full_name": "daveebbelaar/bama",
-      "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-      "html_url": "https://github.com/daveebbelaar/bama",
-      "homepage": null,
-      "stars": 274,
-      "forks": 48,
-      "language": "Swift",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "app-clone",
-        "claude-code",
-        "claude-code-plugin",
-        "codex",
-        "computer-use",
-        "liquid-glass",
-        "macos",
-        "macos-app",
-        "native-apps",
-        "skills",
-        "swift",
-        "swiftdata",
-        "swiftui"
-      ],
-      "created_at": "2026-10-24T08:44:36Z",
-      "updated_at": "2026-10-27T21:58:00Z",
-      "pushed_at": "2026-10-27T06:51:15Z"
     },
     {
       "id": 1425227613,
@@ -3541,6 +3541,41 @@
       "pushed_at": "2026-10-16T22:22:21Z"
     },
     {
+      "id": 1432682504,
+      "name": "pumpfun-source",
+      "full_name": "lalalune/pumpfun-source",
+      "description": "Reverse engineering the pump.fun smart contracts",
+      "html_url": "https://github.com/lalalune/pumpfun-source",
+      "homepage": "https://pump.fun/coin/35fWL6pdJqpconRZPrawUAQegw1QF3p2tgN7mzhTpump",
+      "stars": 170,
+      "forks": 81,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-24T23:37:50Z",
+      "updated_at": "2026-10-28T00:57:01Z",
+      "pushed_at": "2026-10-27T19:54:47Z"
+    },
+    {
+      "id": 1432256203,
+      "name": "webframe",
+      "full_name": "tractordev/webframe",
+      "description": "Run a web page like a program",
+      "html_url": "https://github.com/tractordev/webframe",
+      "homepage": null,
+      "stars": 170,
+      "forks": 1,
+      "language": "Go",
+      "topics": [
+        "cross-platform",
+        "golang",
+        "headless-browser",
+        "purego"
+      ],
+      "created_at": "2026-10-24T14:18:15Z",
+      "updated_at": "2026-10-28T00:57:17Z",
+      "pushed_at": "2026-10-25T00:31:43Z"
+    },
+    {
       "id": 1412301770,
       "name": "datasets",
       "full_name": "toddrjones/datasets",
@@ -3615,21 +3650,6 @@
       "pushed_at": "2026-10-20T12:45:47Z"
     },
     {
-      "id": 1432682504,
-      "name": "pumpfun-source",
-      "full_name": "lalalune/pumpfun-source",
-      "description": "Reverse engineering the pump.fun smart contracts",
-      "html_url": "https://github.com/lalalune/pumpfun-source",
-      "homepage": "https://pump.fun/coin/35fWL6pdJqpconRZPrawUAQegw1QF3p2tgN7mzhTpump",
-      "stars": 165,
-      "forks": 81,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-24T23:37:50Z",
-      "updated_at": "2026-10-27T19:22:17Z",
-      "pushed_at": "2026-10-27T19:54:47Z"
-    },
-    {
       "id": 1429974885,
       "name": "glm-5.3-abliterated",
       "full_name": "7API/glm-5.3-abliterated",
@@ -3697,26 +3717,6 @@
       "created_at": "2026-09-27T21:31:26Z",
       "updated_at": "2026-10-03T21:59:13Z",
       "pushed_at": "2026-10-03T17:08:44Z"
-    },
-    {
-      "id": 1432256203,
-      "name": "webframe",
-      "full_name": "tractordev/webframe",
-      "description": "Run a web page like a program",
-      "html_url": "https://github.com/tractordev/webframe",
-      "homepage": null,
-      "stars": 162,
-      "forks": 1,
-      "language": "Go",
-      "topics": [
-        "cross-platform",
-        "golang",
-        "headless-browser",
-        "purego"
-      ],
-      "created_at": "2026-10-24T14:18:15Z",
-      "updated_at": "2026-10-27T21:47:24Z",
-      "pushed_at": "2026-10-25T00:31:43Z"
     },
     {
       "id": 1387067752,
@@ -3854,6 +3854,21 @@
       "pushed_at": "2026-09-23T10:48:10Z"
     },
     {
+      "id": 1432242109,
+      "name": "code-video-showcase",
+      "full_name": "Moessif/code-video-showcase",
+      "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
+      "html_url": "https://github.com/Moessif/code-video-showcase",
+      "homepage": null,
+      "stars": 153,
+      "forks": 10,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-24T14:02:58Z",
+      "updated_at": "2026-10-28T00:55:04Z",
+      "pushed_at": "2026-10-25T01:37:18Z"
+    },
+    {
       "id": 1423657709,
       "name": "BorisFX",
       "full_name": "cloudpatrontrolley/BorisFX",
@@ -3878,21 +3893,6 @@
       "created_at": "2026-10-17T19:09:38Z",
       "updated_at": "2026-10-17T23:50:33Z",
       "pushed_at": "2026-10-17T19:09:44Z"
-    },
-    {
-      "id": 1432242109,
-      "name": "code-video-showcase",
-      "full_name": "Moessif/code-video-showcase",
-      "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
-      "html_url": "https://github.com/Moessif/code-video-showcase",
-      "homepage": null,
-      "stars": 152,
-      "forks": 10,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-24T14:02:58Z",
-      "updated_at": "2026-10-27T19:13:10Z",
-      "pushed_at": "2026-10-25T01:37:18Z"
     },
     {
       "id": 1423657988,
@@ -3988,12 +3988,12 @@
       "description": "An AI-powered interactive found phone story framework. Create your own playable phone stories with natural language.",
       "html_url": "https://github.com/keoyyo85/FoundPhone-Studio",
       "homepage": "https://keoyyo85.github.io/FoundPhone-Studio/",
-      "stars": 146,
+      "stars": 148,
       "forks": 182,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-10-25T03:29:02Z",
-      "updated_at": "2026-10-27T19:56:05Z",
+      "updated_at": "2026-10-27T23:57:50Z",
       "pushed_at": "2026-10-25T04:32:57Z"
     },
     {
@@ -4010,6 +4010,42 @@
       "created_at": "2026-10-08T18:47:12Z",
       "updated_at": "2026-10-14T10:55:20Z",
       "pushed_at": "2026-10-09T05:07:24Z"
+    },
+    {
+      "id": 1436372393,
+      "name": "Rust-Recoil-Pro",
+      "full_name": "Tunnelclabungalow/Rust-Recoil-Pro",
+      "description": "Free Rust Cheat & Hack 2026. Undetected Rust Recoil Script, Player ESP, Wallhack, aim, menu, wh, fly, Loot Filter, and EAC Bypass. Download free Rust hacks.",
+      "html_url": "https://github.com/Tunnelclabungalow/Rust-Recoil-Pro",
+      "homepage": null,
+      "stars": 142,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "rust-aim-2026",
+        "rust-aim-training",
+        "rust-cheat-2026",
+        "rust-cheat-aimbot",
+        "rust-cheat-esp",
+        "rust-cheat-loader",
+        "rust-cheats-2026",
+        "rust-cheats-no-key",
+        "rust-cheats-pc",
+        "rust-exploit",
+        "rust-external-aimbot",
+        "rust-hack-2026-free",
+        "rust-hack-aimbot-esp",
+        "rust-hack-latest",
+        "rust-hack-new",
+        "rust-hack-safe",
+        "rust-undetected-hacks",
+        "rust-undetected-tool",
+        "rust-wh-2026",
+        "rust-wh-hack"
+      ],
+      "created_at": "2026-10-27T23:06:00Z",
+      "updated_at": "2026-10-28T00:11:31Z",
+      "pushed_at": "2026-10-27T23:34:35Z"
     },
     {
       "id": 1403810477,
@@ -4237,6 +4273,30 @@
       "pushed_at": "2026-10-26T00:48:52Z"
     },
     {
+      "id": 1431620755,
+      "name": "dev-quality-gates",
+      "full_name": "mokevnin/dev-quality-gates",
+      "description": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits.",
+      "html_url": "https://github.com/mokevnin/dev-quality-gates",
+      "homepage": null,
+      "stars": 134,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "code-quality",
+        "developer-tools",
+        "git-hooks",
+        "guardrails",
+        "linters",
+        "quality-gates",
+        "static-analysis"
+      ],
+      "created_at": "2026-10-23T22:48:28Z",
+      "updated_at": "2026-10-28T01:09:12Z",
+      "pushed_at": "2026-10-28T00:56:46Z"
+    },
+    {
       "id": 1390688516,
       "name": "omarchy-rescue",
       "full_name": "crmne/omarchy-rescue",
@@ -4388,30 +4448,6 @@
       "pushed_at": "2026-10-18T10:54:15Z"
     },
     {
-      "id": 1431620755,
-      "name": "dev-quality-gates",
-      "full_name": "mokevnin/dev-quality-gates",
-      "description": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits.",
-      "html_url": "https://github.com/mokevnin/dev-quality-gates",
-      "homepage": null,
-      "stars": 131,
-      "forks": 6,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "code-quality",
-        "developer-tools",
-        "git-hooks",
-        "guardrails",
-        "linters",
-        "quality-gates",
-        "static-analysis"
-      ],
-      "created_at": "2026-10-23T22:48:28Z",
-      "updated_at": "2026-10-27T11:51:22Z",
-      "pushed_at": "2026-10-26T23:33:53Z"
-    },
-    {
       "id": 1428363516,
       "name": "Cinema-4D-Motion-Studio",
       "full_name": "chlo-hughes-87/Cinema-4D-Motion-Studio",
@@ -4473,6 +4509,70 @@
       "pushed_at": "2026-09-24T15:02:21Z"
     },
     {
+      "id": 1434862232,
+      "name": "glm-5.3-uncensored",
+      "full_name": "Andreas698/glm-5.3-uncensored",
+      "description": "GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.",
+      "html_url": "https://github.com/Andreas698/glm-5.3-uncensored",
+      "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-uncensored",
+      "stars": 127,
+      "forks": 26,
+      "language": "Python",
+      "topics": [
+        "abliterated-models",
+        "ai-api",
+        "ai-jailbreaks",
+        "anthropic-compatible",
+        "claude-code",
+        "glm",
+        "glm-5-3",
+        "glm-5-3-jailbreak",
+        "glm-5-3-uncensored",
+        "glm-5-3-uncensored-api",
+        "jailbreak-prompts",
+        "llm-api",
+        "llm-jailbreak",
+        "model-evaluation",
+        "openai-compatible",
+        "pay-per-token",
+        "prompt-research",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-model"
+      ],
+      "created_at": "2026-10-26T19:51:48Z",
+      "updated_at": "2026-10-27T23:12:04Z",
+      "pushed_at": "2026-10-26T19:51:56Z"
+    },
+    {
+      "id": 1429250391,
+      "name": "clean-your-tv-lg-webos",
+      "full_name": "Razdva122/clean-your-tv-lg-webos",
+      "description": "A clean home screen for LG webOS. No root. No always-on computer. On-TV Home-button helper, a customizable app grid and dock, and a way back to LG Home.",
+      "html_url": "https://github.com/Razdva122/clean-your-tv-lg-webos",
+      "homepage": null,
+      "stars": 127,
+      "forks": 19,
+      "language": "Python",
+      "topics": [
+        "customization",
+        "home-screen",
+        "homebrew",
+        "launcher",
+        "lg-tv",
+        "lg-webos",
+        "no-root",
+        "remote-control",
+        "smart-tv",
+        "tv-launcher",
+        "webos",
+        "webos-tv"
+      ],
+      "created_at": "2026-10-22T04:43:21Z",
+      "updated_at": "2026-10-27T23:43:50Z",
+      "pushed_at": "2026-10-27T19:14:36Z"
+    },
+    {
       "id": 1426197381,
       "name": "call-of-duty-modern-warfare-4-fps-optimizer",
       "full_name": "EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
@@ -4525,42 +4625,6 @@
       "created_at": "2026-10-19T08:36:53Z",
       "updated_at": "2026-10-25T16:34:31Z",
       "pushed_at": "2026-10-25T14:39:04Z"
-    },
-    {
-      "id": 1434862232,
-      "name": "glm-5.3-uncensored",
-      "full_name": "Andreas698/glm-5.3-uncensored",
-      "description": "GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.",
-      "html_url": "https://github.com/Andreas698/glm-5.3-uncensored",
-      "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-uncensored",
-      "stars": 126,
-      "forks": 26,
-      "language": "Python",
-      "topics": [
-        "abliterated-models",
-        "ai-api",
-        "ai-jailbreaks",
-        "anthropic-compatible",
-        "claude-code",
-        "glm",
-        "glm-5-3",
-        "glm-5-3-jailbreak",
-        "glm-5-3-uncensored",
-        "glm-5-3-uncensored-api",
-        "jailbreak-prompts",
-        "llm-api",
-        "llm-jailbreak",
-        "model-evaluation",
-        "openai-compatible",
-        "pay-per-token",
-        "prompt-research",
-        "uncensored",
-        "uncensored-ai",
-        "uncensored-ai-model"
-      ],
-      "created_at": "2026-10-26T19:51:48Z",
-      "updated_at": "2026-10-27T19:32:28Z",
-      "pushed_at": "2026-10-26T19:51:56Z"
     },
     {
       "id": 1401629577,
@@ -4643,34 +4707,6 @@
       "created_at": "2026-10-26T18:49:53Z",
       "updated_at": "2026-10-27T03:36:57Z",
       "pushed_at": "2026-10-26T19:03:13Z"
-    },
-    {
-      "id": 1429250391,
-      "name": "clean-your-tv-lg-webos",
-      "full_name": "Razdva122/clean-your-tv-lg-webos",
-      "description": "A clean home screen for LG webOS. No root. No always-on computer. On-TV Home-button helper, a customizable app grid and dock, and a way back to LG Home.",
-      "html_url": "https://github.com/Razdva122/clean-your-tv-lg-webos",
-      "homepage": null,
-      "stars": 125,
-      "forks": 19,
-      "language": "Python",
-      "topics": [
-        "customization",
-        "home-screen",
-        "homebrew",
-        "launcher",
-        "lg-tv",
-        "lg-webos",
-        "no-root",
-        "remote-control",
-        "smart-tv",
-        "tv-launcher",
-        "webos",
-        "webos-tv"
-      ],
-      "created_at": "2026-10-22T04:43:21Z",
-      "updated_at": "2026-10-27T21:26:27Z",
-      "pushed_at": "2026-10-27T19:14:36Z"
     },
     {
       "id": 1406397878,
@@ -4958,6 +4994,21 @@
       "created_at": "2026-10-26T23:55:34Z",
       "updated_at": "2026-10-27T09:19:48Z",
       "pushed_at": "2026-10-27T00:42:44Z"
+    },
+    {
+      "id": 1433391012,
+      "name": "agentloop",
+      "full_name": "smhanov/agentloop",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "html_url": "https://github.com/smhanov/agentloop",
+      "homepage": null,
+      "stars": 118,
+      "forks": 14,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-25T16:18:50Z",
+      "updated_at": "2026-10-27T20:43:08Z",
+      "pushed_at": "2026-10-27T20:43:04Z"
     },
     {
       "id": 1412679017,
@@ -5395,6 +5446,37 @@
       "pushed_at": "2026-10-26T04:21:37Z"
     },
     {
+      "id": 1433491284,
+      "name": "TAL-U-NO-Synth-Full-2026",
+      "full_name": "ConquerorPhase/TAL-U-NO-Synth-Full-2026",
+      "description": "TAL U NO Synth Full 2026 for Windows — recording, editing, and mixing tools for music and audio production on desktop.",
+      "html_url": "https://github.com/ConquerorPhase/TAL-U-NO-Synth-Full-2026",
+      "homepage": null,
+      "stars": 109,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "audio-recording",
+        "audio-software",
+        "desktop-software",
+        "install-guide",
+        "music-production",
+        "pc-software",
+        "software-install",
+        "tal-2026",
+        "tal-software",
+        "tal-u-no-synth-full-2026",
+        "tal-windows",
+        "windows-10",
+        "windows-11",
+        "windows-desktop",
+        "windows-software"
+      ],
+      "created_at": "2026-10-25T18:09:09Z",
+      "updated_at": "2026-10-27T16:10:26Z",
+      "pushed_at": "2026-10-25T18:13:27Z"
+    },
+    {
       "id": 1402302127,
       "name": "Movavi-Converter",
       "full_name": "quartzdragonjack/Movavi-Converter",
@@ -5673,6 +5755,21 @@
       "created_at": "2026-10-20T13:32:50Z",
       "updated_at": "2026-10-26T23:36:26Z",
       "pushed_at": "2026-10-24T04:40:56Z"
+    },
+    {
+      "id": 1432640160,
+      "name": "skill-diet",
+      "full_name": "nicobailon/skill-diet",
+      "description": "An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones.",
+      "html_url": "https://github.com/nicobailon/skill-diet",
+      "homepage": null,
+      "stars": 107,
+      "forks": 4,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-24T22:18:26Z",
+      "updated_at": "2026-10-28T00:02:17Z",
+      "pushed_at": "2026-10-27T06:23:31Z"
     },
     {
       "id": 1377007152,
@@ -5966,6 +6063,28 @@
       "pushed_at": "2026-10-05T01:56:08Z"
     },
     {
+      "id": 1433441201,
+      "name": "duozhi-workbench",
+      "full_name": "yy838255939/duozhi-workbench",
+      "description": "Local multi-AI desktop workspace with official website panels, shared prompts and group collaboration.",
+      "html_url": "https://github.com/yy838255939/duozhi-workbench",
+      "homepage": null,
+      "stars": 102,
+      "forks": 5,
+      "language": "TypeScript",
+      "topics": [
+        "ai-chat",
+        "chinese",
+        "desktop-app",
+        "electron",
+        "gpl-3",
+        "multi-ai"
+      ],
+      "created_at": "2026-10-25T17:12:57Z",
+      "updated_at": "2026-10-27T23:56:51Z",
+      "pushed_at": "2026-10-26T04:12:50Z"
+    },
+    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -6183,6 +6302,32 @@
       "created_at": "2026-10-20T17:30:59Z",
       "updated_at": "2026-10-26T22:37:34Z",
       "pushed_at": "2026-10-26T12:38:26Z"
+    },
+    {
+      "id": 1435651205,
+      "name": "Cinema-4d",
+      "full_name": "Stampdrusupply/Cinema-4d",
+      "description": "Complete Cinema 4D 2026 desktop installation build, fully activated with all tools ready to run.",
+      "html_url": "https://github.com/Stampdrusupply/Cinema-4d",
+      "homepage": null,
+      "stars": 100,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "c4d-plugin",
+        "cinema-4d",
+        "cinema-4d-2026",
+        "cinema-4d-free",
+        "cinema-4d-freel",
+        "cinema-4d-plugin",
+        "cinema-4d-plugin-maxon",
+        "cinema-4d-studio-pc",
+        "install-cinema-4d",
+        "maxon-cinema-pipeline"
+      ],
+      "created_at": "2026-10-27T11:42:41Z",
+      "updated_at": "2026-10-27T12:00:28Z",
+      "pushed_at": "2026-10-27T11:42:49Z"
     },
     {
       "id": 1420803717,
@@ -6410,6 +6555,21 @@
       "created_at": "2026-10-04T02:36:55Z",
       "updated_at": "2026-10-10T16:01:43Z",
       "pushed_at": "2026-10-10T11:49:34Z"
+    },
+    {
+      "id": 1431435671,
+      "name": "glisse",
+      "full_name": "0kzh/glisse",
+      "description": "iOS 26 Liquid Glass for the web",
+      "html_url": "https://github.com/0kzh/glisse",
+      "homepage": null,
+      "stars": 98,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-23T18:55:21Z",
+      "updated_at": "2026-10-28T00:29:51Z",
+      "pushed_at": "2026-10-26T19:56:29Z"
     },
     {
       "id": 1424233481,
@@ -6702,21 +6862,6 @@
       "pushed_at": "2026-10-18T14:07:04Z"
     },
     {
-      "id": 1431435671,
-      "name": "glisse",
-      "full_name": "0kzh/glisse",
-      "description": "iOS 26 Liquid Glass for the web",
-      "html_url": "https://github.com/0kzh/glisse",
-      "homepage": null,
-      "stars": 95,
-      "forks": 3,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-23T18:55:21Z",
-      "updated_at": "2026-10-27T21:51:58Z",
-      "pushed_at": "2026-10-26T19:56:29Z"
-    },
-    {
       "id": 1376436152,
       "name": "jev-chat",
       "full_name": "w3cj/jev-chat",
@@ -6979,6 +7124,21 @@
       "pushed_at": "2026-10-22T20:31:13Z"
     },
     {
+      "id": 1432442464,
+      "name": "maibot-baidu-search",
+      "full_name": "Toyaspio/maibot-baidu-search",
+      "description": "MaiBot 百度搜索插件，支持搜索命令与大模型 Tool，接入百度千帆官方 API。",
+      "html_url": "https://github.com/Toyaspio/maibot-baidu-search",
+      "homepage": null,
+      "stars": 88,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-24T17:47:29Z",
+      "updated_at": "2026-10-27T22:51:52Z",
+      "pushed_at": "2026-10-25T19:37:13Z"
+    },
+    {
       "id": 1402924075,
       "name": "DeepSeek-V4.1-Flash-Two-Sparks",
       "full_name": "0xSero/DeepSeek-V4.1-Flash-Two-Sparks",
@@ -7222,6 +7382,33 @@
       "created_at": "2026-10-14T07:15:57Z",
       "updated_at": "2026-10-20T21:08:38Z",
       "pushed_at": "2026-10-18T03:16:14Z"
+    },
+    {
+      "id": 1429973002,
+      "name": "Onimusha-Way-of-the-Sword-FPS-Optimizer",
+      "full_name": "Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer",
+      "description": "Lightweight desktop tool for Onimusha: Way of the Sword. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability in Capcom’s action-adventure title. Regularly updated",
+      "html_url": "https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer",
+      "homepage": null,
+      "stars": 84,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "fps-booster-no-lag",
+        "fps-booster-software",
+        "fps-tweak",
+        "gaming",
+        "gaming-tools",
+        "onimusha",
+        "onimusha-2026",
+        "onimusha-way-of-the-sword",
+        "optimization",
+        "optimization-tools",
+        "system-tuning"
+      ],
+      "created_at": "2026-10-22T16:05:38Z",
+      "updated_at": "2026-10-22T16:32:18Z",
+      "pushed_at": "2026-10-22T16:08:24Z"
     },
     {
       "id": 1410603031,
@@ -7576,6 +7763,32 @@
       "created_at": "2026-10-22T21:08:41Z",
       "updated_at": "2026-10-27T17:57:01Z",
       "pushed_at": "2026-10-26T21:43:26Z"
+    },
+    {
+      "id": 1429619453,
+      "name": "F-ZERO-GLINUX",
+      "full_name": "Mabec-games/F-ZERO-GLINUX",
+      "description": "F-ZERO GX on Linux & Windows: controller-friendly launcher, Full Widescreen support with AA & FXAA, Online gameplay and more!",
+      "html_url": "https://github.com/Mabec-games/F-ZERO-GLINUX",
+      "homepage": null,
+      "stars": 74,
+      "forks": 1,
+      "language": "Shell",
+      "topics": [
+        "appimage",
+        "dolphin",
+        "f-zero-gx",
+        "flatpak",
+        "gamecube",
+        "linux",
+        "mabec",
+        "online",
+        "widescreen",
+        "windows"
+      ],
+      "created_at": "2026-10-22T10:58:26Z",
+      "updated_at": "2026-10-28T01:04:36Z",
+      "pushed_at": "2026-10-25T06:22:49Z"
     },
     {
       "id": 1396432432,
@@ -8090,32 +8303,13 @@
       "pushed_at": "2026-10-24T23:08:50Z"
     },
     {
-      "id": 1425405863,
-      "name": "cleanyourtv-website",
-      "full_name": "Gathin23/cleanyourtv-website",
-      "description": "The website for tv-vibehack. One old television, seven channels.",
-      "html_url": "https://github.com/Gathin23/cleanyourtv-website",
-      "homepage": "https://cleanyour.tv",
-      "stars": 67,
-      "forks": 13,
-      "language": "TypeScript",
-      "topics": [
-        "android-tv",
-        "nextjs",
-        "website"
-      ],
-      "created_at": "2026-10-19T09:45:36Z",
-      "updated_at": "2026-10-25T23:12:34Z",
-      "pushed_at": "2026-10-25T17:38:10Z"
-    },
-    {
       "id": 1432418830,
       "name": "now-bar",
       "full_name": "nixesty/now-bar",
       "description": "One UI's Now Bar for the Windows taskbar: a pill with what's live now (music and lyrics, timers, live football and basketball, Galaxy Buds, weather, game downloads, Claude Code) and a card that opens from it. Windows 10 and 11, Turkish and English.",
       "html_url": "https://github.com/nixesty/now-bar",
       "homepage": null,
-      "stars": 67,
+      "stars": 68,
       "forks": 8,
       "language": "Rust",
       "topics": [
@@ -8134,34 +8328,27 @@
         "windows-11"
       ],
       "created_at": "2026-10-24T17:19:30Z",
-      "updated_at": "2026-10-27T21:34:24Z",
+      "updated_at": "2026-10-27T23:38:00Z",
       "pushed_at": "2026-10-26T10:19:07Z"
     },
     {
-      "id": 1429619453,
-      "name": "F-ZERO-GLINUX",
-      "full_name": "Mabec-games/F-ZERO-GLINUX",
-      "description": "F-ZERO GX on Linux & Windows: controller-friendly launcher, Full Widescreen support with AA & FXAA, Online gameplay and more!",
-      "html_url": "https://github.com/Mabec-games/F-ZERO-GLINUX",
-      "homepage": null,
+      "id": 1425405863,
+      "name": "cleanyourtv-website",
+      "full_name": "Gathin23/cleanyourtv-website",
+      "description": "The website for tv-vibehack. One old television, seven channels.",
+      "html_url": "https://github.com/Gathin23/cleanyourtv-website",
+      "homepage": "https://cleanyour.tv",
       "stars": 67,
-      "forks": 0,
-      "language": "Shell",
+      "forks": 13,
+      "language": "TypeScript",
       "topics": [
-        "appimage",
-        "dolphin",
-        "f-zero-gx",
-        "flatpak",
-        "gamecube",
-        "linux",
-        "mabec",
-        "online",
-        "widescreen",
-        "windows"
+        "android-tv",
+        "nextjs",
+        "website"
       ],
-      "created_at": "2026-10-22T10:58:26Z",
-      "updated_at": "2026-10-27T21:38:14Z",
-      "pushed_at": "2026-10-25T06:22:49Z"
+      "created_at": "2026-10-19T09:45:36Z",
+      "updated_at": "2026-10-25T23:12:34Z",
+      "pushed_at": "2026-10-25T17:38:10Z"
     },
     {
       "id": 1411919172,
@@ -8432,6 +8619,21 @@
       "pushed_at": "2026-10-12T03:31:26Z"
     },
     {
+      "id": 1429153443,
+      "name": "pdf-to-interactive-web",
+      "full_name": "ai-azhou/pdf-to-interactive-web",
+      "description": "",
+      "html_url": "https://github.com/ai-azhou/pdf-to-interactive-web",
+      "homepage": null,
+      "stars": 64,
+      "forks": 12,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-22T02:32:28Z",
+      "updated_at": "2026-10-28T00:19:13Z",
+      "pushed_at": "2026-10-22T02:34:29Z"
+    },
+    {
       "id": 1387598614,
       "name": "fluidplan",
       "full_name": "morganhub/fluidplan",
@@ -8485,6 +8687,31 @@
       "created_at": "2026-10-21T19:57:56Z",
       "updated_at": "2026-10-27T16:04:18Z",
       "pushed_at": "2026-10-27T15:48:28Z"
+    },
+    {
+      "id": 1433066562,
+      "name": "OpenSakura",
+      "full_name": "zeekk0/OpenSakura",
+      "description": "OpenSakura: MekaHime's first AI companion, open source. 3D VRoid avatar, real-time voice, emotion state, OpenRouter or Ollama brain.",
+      "html_url": "https://github.com/zeekk0/OpenSakura",
+      "homepage": "https://www.mekahime.com/sakura",
+      "stars": 62,
+      "forks": 11,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "gpt-sovits",
+        "mekahime",
+        "ollama",
+        "openrouter",
+        "speech-recognition",
+        "text-to-speech",
+        "threejs",
+        "vrm"
+      ],
+      "created_at": "2026-10-25T10:17:41Z",
+      "updated_at": "2026-10-27T23:28:42Z",
+      "pushed_at": "2026-10-25T13:37:54Z"
     },
     {
       "id": 1386511925,
@@ -8710,31 +8937,6 @@
       "pushed_at": "2026-10-23T06:40:22Z"
     },
     {
-      "id": 1433066562,
-      "name": "OpenSakura",
-      "full_name": "zeekk0/OpenSakura",
-      "description": "OpenSakura: MekaHime's first AI companion, open source. 3D VRoid avatar, real-time voice, emotion state, OpenRouter or Ollama brain.",
-      "html_url": "https://github.com/zeekk0/OpenSakura",
-      "homepage": "https://www.mekahime.com/sakura",
-      "stars": 60,
-      "forks": 10,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "gpt-sovits",
-        "mekahime",
-        "ollama",
-        "openrouter",
-        "speech-recognition",
-        "text-to-speech",
-        "threejs",
-        "vrm"
-      ],
-      "created_at": "2026-10-25T10:17:41Z",
-      "updated_at": "2026-10-27T19:03:10Z",
-      "pushed_at": "2026-10-25T13:37:54Z"
-    },
-    {
       "id": 1386575337,
       "name": "Java-KIT",
       "full_name": "avinash201199/Java-KIT",
@@ -8835,6 +9037,31 @@
       "pushed_at": "2026-10-17T23:00:32Z"
     },
     {
+      "id": 1429632447,
+      "name": "cftgwebproxy",
+      "full_name": "xinyitang3/cftgwebproxy",
+      "description": "基于 Cloudflare Pages + Worker + DNS 自动解析 的 Telegram Web Proxy 代理方案。主程序运行于 Pages 规避 Worker 直接代理易触发的 1101/522 错误，Worker 仅作转发层并承接 Pages 无法路由的优选域名，配合自动 DNS 解析，实现高可用、稳定的接入。",
+      "html_url": "https://github.com/xinyitang3/cftgwebproxy",
+      "homepage": null,
+      "stars": 59,
+      "forks": 21,
+      "language": "JavaScript",
+      "topics": [
+        "cloudflare-pages",
+        "cloudflare-workers",
+        "cron-job",
+        "mtproto",
+        "network-tools",
+        "proxy",
+        "telegram-proxy-2026",
+        "tg-proxy-windows",
+        "web-proxy"
+      ],
+      "created_at": "2026-10-22T11:10:56Z",
+      "updated_at": "2026-10-27T23:56:11Z",
+      "pushed_at": "2026-10-22T12:24:59Z"
+    },
+    {
       "id": 1422310322,
       "name": "Sims-4-Respocket-DLC-Tool",
       "full_name": "GradeBureaucrat/Sims-4-Respocket-DLC-Tool",
@@ -8924,21 +9151,6 @@
       "created_at": "2026-10-08T00:17:49Z",
       "updated_at": "2026-10-13T17:55:22Z",
       "pushed_at": "2026-10-08T00:28:44Z"
-    },
-    {
-      "id": 1429153443,
-      "name": "pdf-to-interactive-web",
-      "full_name": "ai-azhou/pdf-to-interactive-web",
-      "description": "",
-      "html_url": "https://github.com/ai-azhou/pdf-to-interactive-web",
-      "homepage": null,
-      "stars": 58,
-      "forks": 11,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-22T02:32:28Z",
-      "updated_at": "2026-10-27T02:10:23Z",
-      "pushed_at": "2026-10-22T02:34:29Z"
     },
     {
       "id": 1388724753,
@@ -9321,6 +9533,122 @@
       "created_at": "2026-10-23T07:06:19Z",
       "updated_at": "2026-10-26T13:26:29Z",
       "pushed_at": "2026-10-23T07:06:26Z"
+    },
+    {
+      "id": 1430699528,
+      "name": "Albion-Accountant-Client-resp",
+      "full_name": "Saty54854rBlood/Albion-Accountant-Client-resp",
+      "description": "Auction house accounting for Albion Online",
+      "html_url": "https://github.com/Saty54854rBlood/Albion-Accountant-Client-resp",
+      "homepage": null,
+      "stars": 54,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "albion-kit",
+        "albion-online-assistant",
+        "albion-online-data",
+        "albion-online-enhancer",
+        "albion-online-overlay",
+        "albion-online-toolkit",
+        "albion-online-tools",
+        "albion-online-utilities",
+        "auto",
+        "auto-farming",
+        "bot",
+        "computer",
+        "esp",
+        "god-mode",
+        "radar",
+        "tauri2"
+      ],
+      "created_at": "2026-10-23T07:05:47Z",
+      "updated_at": "2026-10-26T13:26:25Z",
+      "pushed_at": "2026-10-23T07:05:54Z"
+    },
+    {
+      "id": 1430699542,
+      "name": "albion-resocket-logistics",
+      "full_name": "OmiToSpeed89577/albion-resocket-logistics",
+      "description": "A desktop ERP and logistics tool for Albion Online.",
+      "html_url": "https://github.com/OmiToSpeed89577/albion-resocket-logistics",
+      "homepage": null,
+      "stars": 54,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "albion-online-tools",
+        "albion-online-utilities",
+        "crafting-calculator",
+        "desktop-app",
+        "erp",
+        "gathering",
+        "inventory-management",
+        "radar",
+        "resources",
+        "tauri",
+        "vanilla-js"
+      ],
+      "created_at": "2026-10-23T07:05:48Z",
+      "updated_at": "2026-10-26T13:26:26Z",
+      "pushed_at": "2026-10-23T07:05:56Z"
+    },
+    {
+      "id": 1430702481,
+      "name": "YimStuff-rpocket",
+      "full_name": "Fateent72510/YimStuff-rpocket",
+      "description": "SussySpt is a lua script made for YimMenu. With very many features for GTA Online.",
+      "html_url": "https://github.com/Fateent72510/YimStuff-rpocket",
+      "homepage": null,
+      "stars": 54,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "gta",
+        "gtamodding",
+        "lua",
+        "modding",
+        "yimmenu",
+        "yimmenu-script",
+        "yimmenuscript"
+      ],
+      "created_at": "2026-10-23T07:09:01Z",
+      "updated_at": "2026-10-26T13:26:44Z",
+      "pushed_at": "2026-10-23T07:09:08Z"
+    },
+    {
+      "id": 1430699556,
+      "name": "bdo-wardrobe-rpocket-team",
+      "full_name": "JourneyFortune/bdo-wardrobe-rpocket-team",
+      "description": "Gallery-first outfit viewer for Black Desert Online — 4,343 outfits, 32 classes, honest image-quality badges, zero dependencies.",
+      "html_url": "https://github.com/JourneyFortune/bdo-wardrobe-rpocket-team",
+      "homepage": null,
+      "stars": 54,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "bdo",
+        "black-desert",
+        "black-desert-online",
+        "blackdesert",
+        "blackdesertonline",
+        "blackdeserttool",
+        "crafting",
+        "fan-project",
+        "gaming",
+        "javascript",
+        "meta-injector",
+        "mod",
+        "nodejs",
+        "outfit-viewer",
+        "powershell",
+        "vanilla-javascript",
+        "webview2",
+        "windows"
+      ],
+      "created_at": "2026-10-23T07:05:48Z",
+      "updated_at": "2026-10-26T13:26:26Z",
+      "pushed_at": "2026-10-23T07:05:56Z"
     },
     {
       "id": 1388409097,
@@ -9937,6 +10265,21 @@
       "pushed_at": "2026-10-02T06:27:29Z"
     },
     {
+      "id": 1430591553,
+      "name": "dsh-mobile-maxxing",
+      "full_name": "kuraneko1/dsh-mobile-maxxing",
+      "description": "DeepSeek Harness の Web UI をスマホで使い倒す統合プラグイン: PWA・通知・モバイルUX・CJK表示",
+      "html_url": "https://github.com/kuraneko1/dsh-mobile-maxxing",
+      "homepage": null,
+      "stars": 47,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-23T04:54:55Z",
+      "updated_at": "2026-10-27T21:13:29Z",
+      "pushed_at": "2026-10-27T21:14:04Z"
+    },
+    {
       "id": 1376688549,
       "name": "weilanx-cover-skill",
       "full_name": "Azure12355/weilanx-cover-skill",
@@ -10197,6 +10540,30 @@
       "pushed_at": "2026-10-18T12:16:22Z"
     },
     {
+      "id": 1430793055,
+      "name": "CyberUI.koplugin",
+      "full_name": "EmirErtorer/CyberUI.koplugin",
+      "description": "A fast cyberpunk home screen for KOReader: ASCII covers, neon themes, a library browser and KOReader's menu restyled, built for e-ink.",
+      "html_url": "https://github.com/EmirErtorer/CyberUI.koplugin",
+      "homepage": null,
+      "stars": 45,
+      "forks": 1,
+      "language": "Lua",
+      "topics": [
+        "ascii-art",
+        "cyberpunk",
+        "e-ink",
+        "home-screen",
+        "kindle",
+        "kobo",
+        "koreader",
+        "koreader-plugin"
+      ],
+      "created_at": "2026-10-23T08:42:35Z",
+      "updated_at": "2026-10-28T00:17:44Z",
+      "pushed_at": "2026-10-27T17:05:05Z"
+    },
+    {
       "id": 1396899630,
       "name": "gleaner",
       "full_name": "ssssssanjiu/gleaner",
@@ -10370,30 +10737,6 @@
       "created_at": "2026-10-13T07:28:20Z",
       "updated_at": "2026-10-18T20:09:26Z",
       "pushed_at": "2026-10-14T04:41:26Z"
-    },
-    {
-      "id": 1430793055,
-      "name": "CyberUI.koplugin",
-      "full_name": "EmirErtorer/CyberUI.koplugin",
-      "description": "A fast cyberpunk home screen for KOReader: ASCII covers, neon themes, a library browser and KOReader's menu restyled, built for e-ink.",
-      "html_url": "https://github.com/EmirErtorer/CyberUI.koplugin",
-      "homepage": null,
-      "stars": 43,
-      "forks": 1,
-      "language": "Lua",
-      "topics": [
-        "ascii-art",
-        "cyberpunk",
-        "e-ink",
-        "home-screen",
-        "kindle",
-        "kobo",
-        "koreader",
-        "koreader-plugin"
-      ],
-      "created_at": "2026-10-23T08:42:35Z",
-      "updated_at": "2026-10-27T18:02:56Z",
-      "pushed_at": "2026-10-27T17:05:05Z"
     },
     {
       "id": 1382441164,
@@ -10712,6 +11055,24 @@
       "created_at": "2026-10-17T14:07:32Z",
       "updated_at": "2026-10-21T06:45:09Z",
       "pushed_at": "2026-10-20T23:57:15Z"
+    },
+    {
+      "id": 1429684364,
+      "name": "AgentWebUI",
+      "full_name": "HackersHostel/AgentWebUI",
+      "description": "The lightest web UI for OpenAI-compatible model APIs and ACP agents.",
+      "html_url": "https://github.com/HackersHostel/AgentWebUI",
+      "homepage": "agentwebui.hackershostel.com",
+      "stars": 40,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [
+        "hacktoberfest",
+        "hacktoberfest2026"
+      ],
+      "created_at": "2026-10-22T11:59:24Z",
+      "updated_at": "2026-10-27T17:18:12Z",
+      "pushed_at": "2026-10-25T19:04:58Z"
     },
     {
       "id": 1396835637,
@@ -12192,6 +12553,21 @@
       "pushed_at": "2026-10-24T17:00:46Z"
     },
     {
+      "id": 1430301888,
+      "name": "PC5",
+      "full_name": "bornaradusin/PC5",
+      "description": "A launcher for PC games on a jailbroken PS5, built on prospero-win (Wine, DXVK, VKD3D-Proton). Install games from USB with automatic covers, pick them from a carousel, and use the DualSense: vibration, light bar, adaptive triggers. FPS counter and update check. Games that need a launcher to start are not supported.",
+      "html_url": "https://github.com/bornaradusin/PC5",
+      "homepage": null,
+      "stars": 25,
+      "forks": 3,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-22T21:41:25Z",
+      "updated_at": "2026-10-27T22:56:27Z",
+      "pushed_at": "2026-10-27T18:50:31Z"
+    },
+    {
       "id": 1377235275,
       "name": "sigillo",
       "full_name": "29-Cu/sigillo",
@@ -12241,21 +12617,6 @@
       "created_at": "2026-10-13T07:43:09Z",
       "updated_at": "2026-10-19T13:23:24Z",
       "pushed_at": "2026-10-16T10:10:05Z"
-    },
-    {
-      "id": 1430301888,
-      "name": "PC5",
-      "full_name": "bornaradusin/PC5",
-      "description": "A launcher for PC games on a jailbroken PS5, built on prospero-win (Wine, DXVK, VKD3D-Proton). Install games from USB with automatic covers, pick them from a carousel, and use the DualSense: vibration, light bar, adaptive triggers. FPS counter and update check. Games that need a launcher to start are not supported.",
-      "html_url": "https://github.com/bornaradusin/PC5",
-      "homepage": null,
-      "stars": 24,
-      "forks": 3,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-22T21:41:25Z",
-      "updated_at": "2026-10-27T20:38:36Z",
-      "pushed_at": "2026-10-27T18:50:31Z"
     },
     {
       "id": 1378959833,
