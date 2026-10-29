@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/29 06:22:37",
-  "total_repos": 679,
+  "fetched_at": "2026/10/29 13:00:40",
+  "total_repos": 689,
   "repos": [
     {
       "id": 1425658028,
@@ -439,6 +439,21 @@
       "pushed_at": "2026-10-07T01:07:17Z"
     },
     {
+      "id": 1433269248,
+      "name": "OunceCake",
+      "full_name": "misshexa66/OunceCake",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "html_url": "https://github.com/misshexa66/OunceCake",
+      "homepage": null,
+      "stars": 508,
+      "forks": 61,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-25T14:12:41Z",
+      "updated_at": "2026-10-29T04:42:50Z",
+      "pushed_at": "2026-10-25T23:03:01Z"
+    },
+    {
       "id": 1428519987,
       "name": "ai-jailbreaks",
       "full_name": "Alejandros17487/ai-jailbreaks",
@@ -576,19 +591,23 @@
       "pushed_at": "2026-10-12T13:41:04Z"
     },
     {
-      "id": 1433269248,
-      "name": "OunceCake",
-      "full_name": "misshexa66/OunceCake",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "html_url": "https://github.com/misshexa66/OunceCake",
-      "homepage": null,
-      "stars": 497,
-      "forks": 56,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-25T14:12:41Z",
-      "updated_at": "2026-10-28T21:52:55Z",
-      "pushed_at": "2026-10-25T23:03:01Z"
+      "id": 1434335249,
+      "name": "deepopen-3d-webs",
+      "full_name": "deepopen-com/deepopen-3d-webs",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "homepage": "https://www.deepopen.com",
+      "stars": 498,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "gaussian-filter",
+        "gaussian-splatting"
+      ],
+      "created_at": "2026-10-26T12:13:47Z",
+      "updated_at": "2026-10-29T03:45:31Z",
+      "pushed_at": "2026-10-27T06:48:29Z"
     },
     {
       "id": 1407997858,
@@ -604,25 +623,6 @@
       "created_at": "2026-10-06T22:55:13Z",
       "updated_at": "2026-10-12T03:07:34Z",
       "pushed_at": "2026-10-12T01:15:52Z"
-    },
-    {
-      "id": 1434335249,
-      "name": "deepopen-3d-webs",
-      "full_name": "deepopen-com/deepopen-3d-webs",
-      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
-      "homepage": "https://www.deepopen.com",
-      "stars": 488,
-      "forks": 1,
-      "language": "Python",
-      "topics": [
-        "3d",
-        "gaussian-filter",
-        "gaussian-splatting"
-      ],
-      "created_at": "2026-10-26T12:13:47Z",
-      "updated_at": "2026-10-28T21:19:32Z",
-      "pushed_at": "2026-10-27T06:48:29Z"
     },
     {
       "id": 1430297568,
@@ -1025,7 +1025,7 @@
       "description": "GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.",
       "html_url": "https://github.com/routerhubSI/glm-5.3-abliterated",
       "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
-      "stars": 395,
+      "stars": 396,
       "forks": 5,
       "language": "Python",
       "topics": [
@@ -1051,7 +1051,7 @@
         "uncensored-ai-model"
       ],
       "created_at": "2026-10-24T13:51:36Z",
-      "updated_at": "2026-10-28T15:16:28Z",
+      "updated_at": "2026-10-29T02:23:58Z",
       "pushed_at": "2026-10-24T16:10:37Z"
     },
     {
@@ -1406,28 +1406,13 @@
       "description": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes",
       "html_url": "https://github.com/KohakuBlueleaf/KohakUnlock",
       "homepage": null,
-      "stars": 357,
-      "forks": 36,
+      "stars": 358,
+      "forks": 37,
       "language": "C",
       "topics": [],
       "created_at": "2026-10-25T01:18:54Z",
-      "updated_at": "2026-10-28T20:21:51Z",
+      "updated_at": "2026-10-29T04:01:48Z",
       "pushed_at": "2026-10-27T11:40:25Z"
-    },
-    {
-      "id": 1431077783,
-      "name": "unthemidator",
-      "full_name": "x86rc/unthemidator",
-      "description": "An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool",
-      "html_url": "https://github.com/x86rc/unthemidator",
-      "homepage": null,
-      "stars": 350,
-      "forks": 50,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-23T13:23:19Z",
-      "updated_at": "2026-10-28T22:15:17Z",
-      "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
       "id": 1436414244,
@@ -1436,8 +1421,8 @@
       "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
       "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
       "homepage": "https://watsonfind.icu",
-      "stars": 349,
-      "forks": 8,
+      "stars": 357,
+      "forks": 11,
       "language": "TypeScript",
       "topics": [
         "cybersecurity",
@@ -1462,8 +1447,23 @@
         "windows"
       ],
       "created_at": "2026-10-28T00:09:33Z",
-      "updated_at": "2026-10-28T21:51:03Z",
-      "pushed_at": "2026-10-28T00:53:34Z"
+      "updated_at": "2026-10-29T03:16:08Z",
+      "pushed_at": "2026-10-29T00:32:33Z"
+    },
+    {
+      "id": 1431077783,
+      "name": "unthemidator",
+      "full_name": "x86rc/unthemidator",
+      "description": "An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool",
+      "html_url": "https://github.com/x86rc/unthemidator",
+      "homepage": null,
+      "stars": 354,
+      "forks": 51,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-23T13:23:19Z",
+      "updated_at": "2026-10-29T04:43:10Z",
+      "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
       "id": 1412143785,
@@ -1951,6 +1951,34 @@
       "pushed_at": "2026-10-16T22:12:58Z"
     },
     {
+      "id": 1435672472,
+      "name": "floorplan",
+      "full_name": "haydenschmitty/floorplan",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "html_url": "https://github.com/haydenschmitty/floorplan",
+      "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
+      "stars": 287,
+      "forks": 25,
+      "language": "JavaScript",
+      "topics": [
+        "ai-coding",
+        "architecture-diagram",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "codebase-visualization",
+        "codex",
+        "codex-plugin",
+        "developer-tools",
+        "onboarding",
+        "openai",
+        "vibe-coding"
+      ],
+      "created_at": "2026-10-27T12:03:01Z",
+      "updated_at": "2026-10-29T04:45:39Z",
+      "pushed_at": "2026-10-29T01:54:50Z"
+    },
+    {
       "id": 1375594818,
       "name": "desktop-habitats",
       "full_name": "chaseleantj/desktop-habitats",
@@ -2434,34 +2462,6 @@
       "pushed_at": "2026-10-19T15:18:07Z"
     },
     {
-      "id": 1435672472,
-      "name": "floorplan",
-      "full_name": "haydenschmitty/floorplan",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "html_url": "https://github.com/haydenschmitty/floorplan",
-      "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
-      "stars": 216,
-      "forks": 18,
-      "language": "JavaScript",
-      "topics": [
-        "ai-coding",
-        "architecture-diagram",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "codebase-visualization",
-        "codex",
-        "codex-plugin",
-        "developer-tools",
-        "onboarding",
-        "openai",
-        "vibe-coding"
-      ],
-      "created_at": "2026-10-27T12:03:01Z",
-      "updated_at": "2026-10-28T22:19:47Z",
-      "pushed_at": "2026-10-28T20:05:44Z"
-    },
-    {
       "id": 1390509008,
       "name": "awesome-ai-motion",
       "full_name": "guanmo-ai/awesome-ai-motion",
@@ -2771,6 +2771,21 @@
       "pushed_at": "2026-10-16T12:50:53Z"
     },
     {
+      "id": 1432682504,
+      "name": "pumpfun-source",
+      "full_name": "lalalune/pumpfun-source",
+      "description": "Reverse engineering the pump.fun smart contracts",
+      "html_url": "https://github.com/lalalune/pumpfun-source",
+      "homepage": "https://pump.fun/coin/35fWL6pdJqpconRZPrawUAQegw1QF3p2tgN7mzhTpump",
+      "stars": 206,
+      "forks": 111,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-24T23:37:50Z",
+      "updated_at": "2026-10-29T04:56:04Z",
+      "pushed_at": "2026-10-29T04:55:56Z"
+    },
+    {
       "id": 1414287839,
       "name": "anima",
       "full_name": "Garinmckayl/anima",
@@ -2825,19 +2840,32 @@
       "pushed_at": "2026-10-27T19:40:19Z"
     },
     {
-      "id": 1432682504,
-      "name": "pumpfun-source",
-      "full_name": "lalalune/pumpfun-source",
-      "description": "Reverse engineering the pump.fun smart contracts",
-      "html_url": "https://github.com/lalalune/pumpfun-source",
-      "homepage": "https://pump.fun/coin/35fWL6pdJqpconRZPrawUAQegw1QF3p2tgN7mzhTpump",
+      "id": 1431056935,
+      "name": "ChaosIntelligence",
+      "full_name": "Cattmonkey/ChaosIntelligence",
+      "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
+      "html_url": "https://github.com/Cattmonkey/ChaosIntelligence",
+      "homepage": null,
       "stars": 204,
-      "forks": 106,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-24T23:37:50Z",
-      "updated_at": "2026-10-28T22:03:18Z",
-      "pushed_at": "2026-10-28T22:03:15Z"
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "cli",
+        "developer-tools",
+        "functional-programming",
+        "generative-ui",
+        "llm",
+        "multi-agent",
+        "programming-language",
+        "source-available",
+        "web-ide",
+        "workflow-automation"
+      ],
+      "created_at": "2026-10-23T13:04:31Z",
+      "updated_at": "2026-10-29T02:53:38Z",
+      "pushed_at": "2026-10-24T16:30:44Z"
     },
     {
       "id": 1423658562,
@@ -2866,34 +2894,6 @@
       "created_at": "2026-10-17T19:10:45Z",
       "updated_at": "2026-10-18T00:26:09Z",
       "pushed_at": "2026-10-17T19:10:52Z"
-    },
-    {
-      "id": 1431056935,
-      "name": "ChaosIntelligence",
-      "full_name": "Cattmonkey/ChaosIntelligence",
-      "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
-      "html_url": "https://github.com/Cattmonkey/ChaosIntelligence",
-      "homepage": null,
-      "stars": 203,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "cli",
-        "developer-tools",
-        "functional-programming",
-        "generative-ui",
-        "llm",
-        "multi-agent",
-        "programming-language",
-        "source-available",
-        "web-ide",
-        "workflow-automation"
-      ],
-      "created_at": "2026-10-23T13:04:31Z",
-      "updated_at": "2026-10-28T09:52:07Z",
-      "pushed_at": "2026-10-24T16:30:44Z"
     },
     {
       "id": 1376284519,
@@ -3409,6 +3409,26 @@
       "pushed_at": "2026-09-25T16:10:39Z"
     },
     {
+      "id": 1432256203,
+      "name": "webframe",
+      "full_name": "tractordev/webframe",
+      "description": "Run a web page like a program",
+      "html_url": "https://github.com/tractordev/webframe",
+      "homepage": null,
+      "stars": 189,
+      "forks": 2,
+      "language": "Go",
+      "topics": [
+        "cross-platform",
+        "golang",
+        "headless-browser",
+        "purego"
+      ],
+      "created_at": "2026-10-24T14:18:15Z",
+      "updated_at": "2026-10-29T04:57:29Z",
+      "pushed_at": "2026-10-29T04:57:25Z"
+    },
+    {
       "id": 1415337709,
       "name": "lucian-uxui-prompt",
       "full_name": "Seokwoooo/lucian-uxui-prompt",
@@ -3428,26 +3448,6 @@
       "created_at": "2026-10-12T09:01:47Z",
       "updated_at": "2026-10-18T20:20:12Z",
       "pushed_at": "2026-10-16T09:26:34Z"
-    },
-    {
-      "id": 1432256203,
-      "name": "webframe",
-      "full_name": "tractordev/webframe",
-      "description": "Run a web page like a program",
-      "html_url": "https://github.com/tractordev/webframe",
-      "homepage": null,
-      "stars": 187,
-      "forks": 1,
-      "language": "Go",
-      "topics": [
-        "cross-platform",
-        "golang",
-        "headless-browser",
-        "purego"
-      ],
-      "created_at": "2026-10-24T14:18:15Z",
-      "updated_at": "2026-10-28T21:11:24Z",
-      "pushed_at": "2026-10-25T00:31:43Z"
     },
     {
       "id": 1417980343,
@@ -3503,6 +3503,21 @@
       "created_at": "2026-09-25T11:48:27Z",
       "updated_at": "2026-10-01T08:18:08Z",
       "pushed_at": "2026-09-30T23:21:04Z"
+    },
+    {
+      "id": 1436420580,
+      "name": "LightPost",
+      "full_name": "brainstormity/LightPost",
+      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+      "html_url": "https://github.com/brainstormity/LightPost",
+      "homepage": null,
+      "stars": 183,
+      "forks": 42,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T00:19:12Z",
+      "updated_at": "2026-10-29T05:00:07Z",
+      "pushed_at": "2026-10-28T16:06:08Z"
     },
     {
       "id": 1415164610,
@@ -3583,6 +3598,21 @@
       "created_at": "2026-10-23T22:15:04Z",
       "updated_at": "2026-10-28T19:20:32Z",
       "pushed_at": "2026-10-28T19:20:28Z"
+    },
+    {
+      "id": 1432242109,
+      "name": "code-video-showcase",
+      "full_name": "Moessif/code-video-showcase",
+      "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
+      "html_url": "https://github.com/Moessif/code-video-showcase",
+      "homepage": null,
+      "stars": 179,
+      "forks": 10,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-24T14:02:58Z",
+      "updated_at": "2026-10-29T04:50:39Z",
+      "pushed_at": "2026-10-28T06:20:54Z"
     },
     {
       "id": 1415913339,
@@ -3678,21 +3708,6 @@
       "created_at": "2026-10-12T17:23:33Z",
       "updated_at": "2026-10-12T20:47:57Z",
       "pushed_at": "2026-10-12T17:23:39Z"
-    },
-    {
-      "id": 1432242109,
-      "name": "code-video-showcase",
-      "full_name": "Moessif/code-video-showcase",
-      "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
-      "html_url": "https://github.com/Moessif/code-video-showcase",
-      "homepage": null,
-      "stars": 174,
-      "forks": 10,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-24T14:02:58Z",
-      "updated_at": "2026-10-28T18:02:53Z",
-      "pushed_at": "2026-10-28T06:20:54Z"
     },
     {
       "id": 1422491888,
@@ -3820,6 +3835,21 @@
       "pushed_at": "2026-10-20T12:45:47Z"
     },
     {
+      "id": 1432795903,
+      "name": "FoundPhone-Studio",
+      "full_name": "keoyyo85/FoundPhone-Studio",
+      "description": "An AI-powered interactive found phone story framework. Create your own playable phone stories with natural language.",
+      "html_url": "https://github.com/keoyyo85/FoundPhone-Studio",
+      "homepage": "https://keoyyo85.github.io/FoundPhone-Studio/",
+      "stars": 165,
+      "forks": 205,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-25T03:29:02Z",
+      "updated_at": "2026-10-29T02:01:22Z",
+      "pushed_at": "2026-10-25T04:32:57Z"
+    },
+    {
       "id": 1429974885,
       "name": "glm-5.3-abliterated",
       "full_name": "7API/glm-5.3-abliterated",
@@ -3854,21 +3884,6 @@
       "created_at": "2026-10-22T16:07:16Z",
       "updated_at": "2026-10-27T19:37:17Z",
       "pushed_at": "2026-10-23T06:24:13Z"
-    },
-    {
-      "id": 1432795903,
-      "name": "FoundPhone-Studio",
-      "full_name": "keoyyo85/FoundPhone-Studio",
-      "description": "An AI-powered interactive found phone story framework. Create your own playable phone stories with natural language.",
-      "html_url": "https://github.com/keoyyo85/FoundPhone-Studio",
-      "homepage": "https://keoyyo85.github.io/FoundPhone-Studio/",
-      "stars": 163,
-      "forks": 202,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-25T03:29:02Z",
-      "updated_at": "2026-10-28T19:46:09Z",
-      "pushed_at": "2026-10-25T04:32:57Z"
     },
     {
       "id": 1391423600,
@@ -4576,6 +4591,21 @@
       "pushed_at": "2026-10-20T08:58:38Z"
     },
     {
+      "id": 1432640160,
+      "name": "skill-diet",
+      "full_name": "nicobailon/skill-diet",
+      "description": "An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones.",
+      "html_url": "https://github.com/nicobailon/skill-diet",
+      "homepage": null,
+      "stars": 132,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-24T22:18:26Z",
+      "updated_at": "2026-10-29T03:22:53Z",
+      "pushed_at": "2026-10-27T06:23:31Z"
+    },
+    {
       "id": 1414942519,
       "name": "EdenLive",
       "full_name": "VAST-AI-Research/EdenLive",
@@ -4631,53 +4661,13 @@
       "pushed_at": "2026-10-21T12:41:25Z"
     },
     {
-      "id": 1432640160,
-      "name": "skill-diet",
-      "full_name": "nicobailon/skill-diet",
-      "description": "An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones.",
-      "html_url": "https://github.com/nicobailon/skill-diet",
-      "homepage": null,
-      "stars": 129,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-24T22:18:26Z",
-      "updated_at": "2026-10-28T17:17:46Z",
-      "pushed_at": "2026-10-27T06:23:31Z"
-    },
-    {
-      "id": 1385750356,
-      "name": "paperclip-guide",
-      "full_name": "theNetworkChuck/paperclip-guide",
-      "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
-      "html_url": "https://github.com/theNetworkChuck/paperclip-guide",
-      "homepage": "https://youtu.be/7RVf25Rg0Mc",
-      "stars": 128,
-      "forks": 18,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "ai-company",
-        "claude-code",
-        "codex",
-        "flare",
-        "hermes",
-        "homelab",
-        "networkchuck",
-        "paperclip"
-      ],
-      "created_at": "2026-09-24T15:00:59Z",
-      "updated_at": "2026-09-30T10:15:14Z",
-      "pushed_at": "2026-09-24T15:02:21Z"
-    },
-    {
       "id": 1434862232,
       "name": "glm-5.3-uncensored",
       "full_name": "Andreas698/glm-5.3-uncensored",
       "description": "GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.",
       "html_url": "https://github.com/Andreas698/glm-5.3-uncensored",
       "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-uncensored",
-      "stars": 128,
+      "stars": 129,
       "forks": 26,
       "language": "Python",
       "topics": [
@@ -4703,8 +4693,33 @@
         "uncensored-ai-model"
       ],
       "created_at": "2026-10-26T19:51:48Z",
-      "updated_at": "2026-10-28T20:23:35Z",
+      "updated_at": "2026-10-29T01:38:26Z",
       "pushed_at": "2026-10-26T19:51:56Z"
+    },
+    {
+      "id": 1385750356,
+      "name": "paperclip-guide",
+      "full_name": "theNetworkChuck/paperclip-guide",
+      "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+      "html_url": "https://github.com/theNetworkChuck/paperclip-guide",
+      "homepage": "https://youtu.be/7RVf25Rg0Mc",
+      "stars": 128,
+      "forks": 18,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-company",
+        "claude-code",
+        "codex",
+        "flare",
+        "hermes",
+        "homelab",
+        "networkchuck",
+        "paperclip"
+      ],
+      "created_at": "2026-09-24T15:00:59Z",
+      "updated_at": "2026-09-30T10:15:14Z",
+      "pushed_at": "2026-09-24T15:02:21Z"
     },
     {
       "id": 1426197381,
@@ -5004,6 +5019,43 @@
       "pushed_at": "2026-10-19T22:21:50Z"
     },
     {
+      "id": 1431435671,
+      "name": "glisse",
+      "full_name": "0kzh/glisse",
+      "description": "iOS 26 Liquid Glass for the web",
+      "html_url": "https://github.com/0kzh/glisse",
+      "homepage": null,
+      "stars": 122,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-23T18:55:21Z",
+      "updated_at": "2026-10-29T03:44:01Z",
+      "pushed_at": "2026-10-26T19:56:29Z"
+    },
+    {
+      "id": 1433441201,
+      "name": "duozhi-workbench",
+      "full_name": "yy838255939/duozhi-workbench",
+      "description": "Local multi-AI desktop workspace with official website panels, shared prompts and group collaboration.",
+      "html_url": "https://github.com/yy838255939/duozhi-workbench",
+      "homepage": null,
+      "stars": 122,
+      "forks": 5,
+      "language": "TypeScript",
+      "topics": [
+        "ai-chat",
+        "chinese",
+        "desktop-app",
+        "electron",
+        "gpl-3",
+        "multi-ai"
+      ],
+      "created_at": "2026-10-25T17:12:57Z",
+      "updated_at": "2026-10-29T01:28:15Z",
+      "pushed_at": "2026-10-26T04:12:50Z"
+    },
+    {
       "id": 1429468579,
       "name": "rom-cli",
       "full_name": "danisiber/rom-cli",
@@ -5026,6 +5078,32 @@
       "created_at": "2026-10-22T08:38:38Z",
       "updated_at": "2026-10-27T18:40:15Z",
       "pushed_at": "2026-10-22T08:55:27Z"
+    },
+    {
+      "id": 1434973188,
+      "name": "dsh-video-storyboard",
+      "full_name": "SAOS-3624/dsh-video-storyboard",
+      "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.",
+      "html_url": "https://github.com/SAOS-3624/dsh-video-storyboard",
+      "homepage": "https://github.com/SAOS-3624/dsh-video-storyboard",
+      "stars": 121,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [
+        "asr",
+        "contact-sheet",
+        "deepseek-harness",
+        "dsh-plugin",
+        "ffmpeg",
+        "llm-agent",
+        "multimodal",
+        "storyboard",
+        "video",
+        "video-understanding"
+      ],
+      "created_at": "2026-10-26T22:00:04Z",
+      "updated_at": "2026-10-29T04:58:18Z",
+      "pushed_at": "2026-10-29T04:53:00Z"
     },
     {
       "id": 1417978332,
@@ -5082,21 +5160,6 @@
       "created_at": "2026-10-07T09:27:35Z",
       "updated_at": "2026-10-13T15:45:26Z",
       "pushed_at": "2026-10-12T10:11:18Z"
-    },
-    {
-      "id": 1436420580,
-      "name": "LightPost",
-      "full_name": "brainstormity/LightPost",
-      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
-      "html_url": "https://github.com/brainstormity/LightPost",
-      "homepage": null,
-      "stars": 119,
-      "forks": 29,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-28T00:19:12Z",
-      "updated_at": "2026-10-28T22:06:17Z",
-      "pushed_at": "2026-10-28T16:06:08Z"
     },
     {
       "id": 1427856225,
@@ -5207,21 +5270,6 @@
       "pushed_at": "2026-10-27T19:57:14Z"
     },
     {
-      "id": 1431435671,
-      "name": "glisse",
-      "full_name": "0kzh/glisse",
-      "description": "iOS 26 Liquid Glass for the web",
-      "html_url": "https://github.com/0kzh/glisse",
-      "homepage": null,
-      "stars": 117,
-      "forks": 3,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-23T18:55:21Z",
-      "updated_at": "2026-10-28T21:38:27Z",
-      "pushed_at": "2026-10-26T19:56:29Z"
-    },
-    {
       "id": 1404682975,
       "name": "VB6",
       "full_name": "wieslawsoltes/VB6",
@@ -5251,28 +5299,6 @@
       "created_at": "2026-10-04T17:40:27Z",
       "updated_at": "2026-10-10T14:04:09Z",
       "pushed_at": "2026-10-09T22:37:48Z"
-    },
-    {
-      "id": 1433441201,
-      "name": "duozhi-workbench",
-      "full_name": "yy838255939/duozhi-workbench",
-      "description": "Local multi-AI desktop workspace with official website panels, shared prompts and group collaboration.",
-      "html_url": "https://github.com/yy838255939/duozhi-workbench",
-      "homepage": null,
-      "stars": 115,
-      "forks": 5,
-      "language": "TypeScript",
-      "topics": [
-        "ai-chat",
-        "chinese",
-        "desktop-app",
-        "electron",
-        "gpl-3",
-        "multi-ai"
-      ],
-      "created_at": "2026-10-25T17:12:57Z",
-      "updated_at": "2026-10-28T21:11:44Z",
-      "pushed_at": "2026-10-26T04:12:50Z"
     },
     {
       "id": 1428525040,
@@ -6178,6 +6204,21 @@
       "created_at": "2026-09-27T13:05:42Z",
       "updated_at": "2026-10-03T14:52:18Z",
       "pushed_at": "2026-10-03T14:39:31Z"
+    },
+    {
+      "id": 1432442464,
+      "name": "maibot-baidu-search",
+      "full_name": "Toyaspio/maibot-baidu-search",
+      "description": "MaiBot 百度搜索插件，支持搜索命令与大模型 Tool，接入百度千帆官方 API。",
+      "html_url": "https://github.com/Toyaspio/maibot-baidu-search",
+      "homepage": null,
+      "stars": 103,
+      "forks": 3,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-24T17:47:29Z",
+      "updated_at": "2026-10-29T00:52:13Z",
+      "pushed_at": "2026-10-25T19:37:13Z"
     },
     {
       "id": 1377581532,
@@ -7127,21 +7168,6 @@
       "pushed_at": "2026-10-21T16:08:47Z"
     },
     {
-      "id": 1432442464,
-      "name": "maibot-baidu-search",
-      "full_name": "Toyaspio/maibot-baidu-search",
-      "description": "MaiBot 百度搜索插件，支持搜索命令与大模型 Tool，接入百度千帆官方 API。",
-      "html_url": "https://github.com/Toyaspio/maibot-baidu-search",
-      "homepage": null,
-      "stars": 92,
-      "forks": 2,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-24T17:47:29Z",
-      "updated_at": "2026-10-28T14:30:04Z",
-      "pushed_at": "2026-10-25T19:37:13Z"
-    },
-    {
       "id": 1429619453,
       "name": "F-ZERO-GLINUX",
       "full_name": "Mabec-games/F-ZERO-GLINUX",
@@ -7977,6 +8003,21 @@
       "pushed_at": "2026-10-21T08:22:16Z"
     },
     {
+      "id": 1434692695,
+      "name": "gguf-neuron-explorer",
+      "full_name": "balaena01/gguf-neuron-explorer",
+      "description": "Find, rank and steer MLP neurons of GGUF models on llama.cpp; export control vectors; 3D web UI and MCP server",
+      "html_url": "https://github.com/balaena01/gguf-neuron-explorer",
+      "homepage": null,
+      "stars": 73,
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-26T17:11:14Z",
+      "updated_at": "2026-10-29T04:16:11Z",
+      "pushed_at": "2026-10-29T04:16:07Z"
+    },
+    {
       "id": 1375761817,
       "name": "jevcache",
       "full_name": "hyperspaceai/jevcache",
@@ -8282,6 +8323,35 @@
       "pushed_at": "2026-10-10T18:50:39Z"
     },
     {
+      "id": 1432418830,
+      "name": "now-bar",
+      "full_name": "nixesty/now-bar",
+      "description": "One UI's Now Bar for the Windows taskbar: a pill with what's live now (music and lyrics, timers, live football and basketball, Galaxy Buds, weather, game downloads, Claude Code) and a card that opens from it. Windows 10 and 11, Turkish and English.",
+      "html_url": "https://github.com/nixesty/now-bar",
+      "homepage": null,
+      "stars": 70,
+      "forks": 8,
+      "language": "Rust",
+      "topics": [
+        "claude-code",
+        "direct2d",
+        "galaxy-buds",
+        "lyrics",
+        "media-controls",
+        "now-bar",
+        "one-ui",
+        "rust",
+        "slint",
+        "taskbar",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-24T17:19:30Z",
+      "updated_at": "2026-10-28T22:47:50Z",
+      "pushed_at": "2026-10-28T21:59:08Z"
+    },
+    {
       "id": 1399838098,
       "name": "ai-agent-gateway",
       "full_name": "Tuskira/ai-agent-gateway",
@@ -8346,35 +8416,6 @@
       "created_at": "2026-10-14T06:20:15Z",
       "updated_at": "2026-10-20T05:53:47Z",
       "pushed_at": "2026-10-15T07:38:02Z"
-    },
-    {
-      "id": 1432418830,
-      "name": "now-bar",
-      "full_name": "nixesty/now-bar",
-      "description": "One UI's Now Bar for the Windows taskbar: a pill with what's live now (music and lyrics, timers, live football and basketball, Galaxy Buds, weather, game downloads, Claude Code) and a card that opens from it. Windows 10 and 11, Turkish and English.",
-      "html_url": "https://github.com/nixesty/now-bar",
-      "homepage": null,
-      "stars": 69,
-      "forks": 8,
-      "language": "Rust",
-      "topics": [
-        "claude-code",
-        "direct2d",
-        "galaxy-buds",
-        "lyrics",
-        "media-controls",
-        "now-bar",
-        "one-ui",
-        "rust",
-        "slint",
-        "taskbar",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-24T17:19:30Z",
-      "updated_at": "2026-10-28T21:59:12Z",
-      "pushed_at": "2026-10-28T21:59:08Z"
     },
     {
       "id": 1396348192,
@@ -8515,21 +8556,6 @@
       "pushed_at": "2026-10-15T15:25:39Z"
     },
     {
-      "id": 1434692695,
-      "name": "gguf-neuron-explorer",
-      "full_name": "balaena01/gguf-neuron-explorer",
-      "description": "Find, rank and steer MLP neurons of GGUF models on llama.cpp; export control vectors; 3D web UI and MCP server",
-      "html_url": "https://github.com/balaena01/gguf-neuron-explorer",
-      "homepage": null,
-      "stars": 66,
-      "forks": 4,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-26T17:11:14Z",
-      "updated_at": "2026-10-28T22:20:21Z",
-      "pushed_at": "2026-10-28T18:17:41Z"
-    },
-    {
       "id": 1429666605,
       "name": "tiktok-view-bot",
       "full_name": "eqyvlbekmlqq/tiktok-view-bot",
@@ -8643,6 +8669,21 @@
       "created_at": "2026-10-16T15:03:46Z",
       "updated_at": "2026-10-16T19:22:06Z",
       "pushed_at": "2026-10-16T15:03:57Z"
+    },
+    {
+      "id": 1430591553,
+      "name": "dsh-mobile-maxxing",
+      "full_name": "kuraneko1/dsh-mobile-maxxing",
+      "description": "DeepSeek Harness の Web UI をスマホで使い倒す統合プラグイン: PWA・通知・モバイルUX・CJK表示",
+      "html_url": "https://github.com/kuraneko1/dsh-mobile-maxxing",
+      "homepage": null,
+      "stars": 65,
+      "forks": 6,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-23T04:54:55Z",
+      "updated_at": "2026-10-29T04:51:59Z",
+      "pushed_at": "2026-10-29T04:31:09Z"
     },
     {
       "id": 1388637178,
@@ -8888,6 +8929,21 @@
       "pushed_at": "2026-10-27T15:48:28Z"
     },
     {
+      "id": 1434781902,
+      "name": "Blue-Knight-Proxy-BotHosting",
+      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
+      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "homepage": null,
+      "stars": 62,
+      "forks": 104,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-26T18:31:20Z",
+      "updated_at": "2026-10-29T00:30:11Z",
+      "pushed_at": "2026-10-27T18:25:43Z"
+    },
+    {
       "id": 1386511925,
       "name": "Comment2Shell",
       "full_name": "DeathShotXD/Comment2Shell",
@@ -9109,21 +9165,6 @@
       "created_at": "2026-10-19T12:43:47Z",
       "updated_at": "2026-10-23T13:58:38Z",
       "pushed_at": "2026-10-23T06:40:22Z"
-    },
-    {
-      "id": 1434781902,
-      "name": "Blue-Knight-Proxy-BotHosting",
-      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
-      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "homepage": null,
-      "stars": 60,
-      "forks": 100,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-26T18:31:20Z",
-      "updated_at": "2026-10-28T19:44:47Z",
-      "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
       "id": 1386575337,
@@ -9350,21 +9391,6 @@
       "created_at": "2026-10-10T20:42:05Z",
       "updated_at": "2026-10-16T21:10:47Z",
       "pushed_at": "2026-10-12T06:56:26Z"
-    },
-    {
-      "id": 1430591553,
-      "name": "dsh-mobile-maxxing",
-      "full_name": "kuraneko1/dsh-mobile-maxxing",
-      "description": "DeepSeek Harness の Web UI をスマホで使い倒す統合プラグイン: PWA・通知・モバイルUX・CJK表示",
-      "html_url": "https://github.com/kuraneko1/dsh-mobile-maxxing",
-      "homepage": null,
-      "stars": 57,
-      "forks": 6,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-23T04:54:55Z",
-      "updated_at": "2026-10-28T20:00:34Z",
-      "pushed_at": "2026-10-28T13:45:51Z"
     },
     {
       "id": 1386319785,
@@ -10588,6 +10614,21 @@
       "pushed_at": "2026-10-18T19:53:16Z"
     },
     {
+      "id": 1436559096,
+      "name": "video-director",
+      "full_name": "win4r/video-director",
+      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
+      "html_url": "https://github.com/win4r/video-director",
+      "homepage": null,
+      "stars": 46,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T03:35:27Z",
+      "updated_at": "2026-10-29T04:44:08Z",
+      "pushed_at": "2026-10-28T04:01:00Z"
+    },
+    {
       "id": 1376092823,
       "name": "EdgeSSH",
       "full_name": "aozorae/EdgeSSH",
@@ -10744,6 +10785,21 @@
       "created_at": "2026-10-22T11:59:24Z",
       "updated_at": "2026-10-28T05:24:47Z",
       "pushed_at": "2026-10-25T19:04:58Z"
+    },
+    {
+      "id": 1433107802,
+      "name": "ComfyUI-Local-Infinite-Canvas",
+      "full_name": "1314521gjy/ComfyUI-Local-Infinite-Canvas",
+      "description": "ComfyUI-本地无限画布：本地 Infinite Canvas × ComfyUI 集成（基于 basketikun/infinite-canvas, MIT）",
+      "html_url": "https://github.com/1314521gjy/ComfyUI-Local-Infinite-Canvas",
+      "homepage": null,
+      "stars": 45,
+      "forks": 4,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-25T11:09:22Z",
+      "updated_at": "2026-10-29T04:49:27Z",
+      "pushed_at": "2026-10-29T03:51:02Z"
     },
     {
       "id": 1396899630,
@@ -11033,6 +11089,51 @@
       "pushed_at": "2026-10-21T00:20:08Z"
     },
     {
+      "id": 1433923128,
+      "name": "vram-switcher",
+      "full_name": "xiaoxiao150/vram-switcher",
+      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
+      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
+      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
+      "stars": 42,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "astrbot",
+        "astrbot-plugin",
+        "comfyui",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gpu",
+        "indextts",
+        "llama-cpp",
+        "python",
+        "tts",
+        "vram",
+        "windows"
+      ],
+      "created_at": "2026-10-26T05:00:40Z",
+      "updated_at": "2026-10-29T03:10:49Z",
+      "pushed_at": "2026-10-27T15:58:20Z"
+    },
+    {
+      "id": 1436629594,
+      "name": "RabbitWall",
+      "full_name": "ysuito/RabbitWall",
+      "description": "RabbitWall is a web console for a Linux gateway that lets you observe traffic from an AI network and switch its Internet access on or off.",
+      "html_url": "https://github.com/ysuito/RabbitWall",
+      "homepage": null,
+      "stars": 42,
+      "forks": 3,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T05:12:30Z",
+      "updated_at": "2026-10-29T04:58:20Z",
+      "pushed_at": "2026-10-28T13:14:45Z"
+    },
+    {
       "id": 1377057562,
       "name": "crayfish",
       "full_name": "skydoves/crayfish",
@@ -11151,6 +11252,28 @@
       "created_at": "2026-10-17T17:30:55Z",
       "updated_at": "2026-10-22T02:18:36Z",
       "pushed_at": "2026-10-22T02:18:35Z"
+    },
+    {
+      "id": 1432689157,
+      "name": "yandex-station-web",
+      "full_name": "dimap/yandex-station-web",
+      "description": "Веб-панель для Яндекс Станций (Лайт 2, Мини 3, Мини 3 Про, Станция 2) с root-доступом по adb: плеер, будильник без интернета, заставка, подсветка, Bluetooth, графики, консоль",
+      "html_url": "https://github.com/dimap/yandex-station-web",
+      "homepage": null,
+      "stars": 41,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "adb",
+        "alice",
+        "docker",
+        "quasar",
+        "web-panel",
+        "yandex-station"
+      ],
+      "created_at": "2026-10-24T23:51:21Z",
+      "updated_at": "2026-10-29T03:49:49Z",
+      "pushed_at": "2026-10-28T20:26:50Z"
     },
     {
       "id": 1378383465,
@@ -11301,36 +11424,6 @@
       "pushed_at": "2026-10-15T18:44:37Z"
     },
     {
-      "id": 1433923128,
-      "name": "vram-switcher",
-      "full_name": "xiaoxiao150/vram-switcher",
-      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
-      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
-      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
-      "stars": 39,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "astrbot",
-        "astrbot-plugin",
-        "comfyui",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "gpu",
-        "indextts",
-        "llama-cpp",
-        "python",
-        "tts",
-        "vram",
-        "windows"
-      ],
-      "created_at": "2026-10-26T05:00:40Z",
-      "updated_at": "2026-10-28T20:00:17Z",
-      "pushed_at": "2026-10-27T15:58:20Z"
-    },
-    {
       "id": 1382790500,
       "name": "laya-server",
       "full_name": "1Panel-dev/laya-server",
@@ -11468,6 +11561,21 @@
       "pushed_at": "2026-10-23T06:38:56Z"
     },
     {
+      "id": 1433621977,
+      "name": "MushroomMakerRecomp",
+      "full_name": "Apolinario-coder/MushroomMakerRecomp",
+      "description": "An experimental native PC recompilation of Super Mario Maker 2",
+      "html_url": "https://github.com/Apolinario-coder/MushroomMakerRecomp",
+      "homepage": null,
+      "stars": 36,
+      "forks": 2,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-25T21:00:22Z",
+      "updated_at": "2026-10-29T01:33:53Z",
+      "pushed_at": "2026-10-26T03:18:14Z"
+    },
+    {
       "id": 1395203963,
       "name": "duckapi",
       "full_name": "hirotomasato/duckapi",
@@ -11530,21 +11638,6 @@
       "created_at": "2026-10-06T06:03:48Z",
       "updated_at": "2026-10-06T19:56:31Z",
       "pushed_at": "2026-10-06T06:51:59Z"
-    },
-    {
-      "id": 1433621977,
-      "name": "MushroomMakerRecomp",
-      "full_name": "Apolinario-coder/MushroomMakerRecomp",
-      "description": "An experimental native PC recompilation of Super Mario Maker 2",
-      "html_url": "https://github.com/Apolinario-coder/MushroomMakerRecomp",
-      "homepage": null,
-      "stars": 35,
-      "forks": 2,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-25T21:00:22Z",
-      "updated_at": "2026-10-28T19:14:16Z",
-      "pushed_at": "2026-10-26T03:18:14Z"
     },
     {
       "id": 1393673886,
@@ -13051,6 +13144,30 @@
       "pushed_at": "2026-10-18T11:19:57Z"
     },
     {
+      "id": 1433015536,
+      "name": "wake-and-break",
+      "full_name": "blasty/wake-and-break",
+      "description": "Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that makes the card accept unsigned IP firmware. Not persistent: a cold power cycle restores stock.",
+      "html_url": "https://github.com/blasty/wake-and-break",
+      "homepage": null,
+      "stars": 22,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "amd",
+        "exploit",
+        "firmware",
+        "gpu",
+        "navi31",
+        "psp",
+        "radeon",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-25T09:13:01Z",
+      "updated_at": "2026-10-28T19:52:38Z",
+      "pushed_at": "2026-10-26T22:35:07Z"
+    },
+    {
       "id": 1394505594,
       "name": "REcall",
       "full_name": "surya-3699/REcall",
@@ -13203,8 +13320,48 @@
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-27T11:22:56Z",
-      "updated_at": "2026-10-28T15:39:05Z",
-      "pushed_at": "2026-10-28T10:18:26Z"
+      "updated_at": "2026-10-28T21:21:39Z",
+      "pushed_at": "2026-10-28T21:21:34Z"
+    },
+    {
+      "id": 1433207200,
+      "name": "bsgen",
+      "full_name": "cata02222/bsgen",
+      "description": "An experimental Beat Saber map generator: maps from any song, and a model that plays them.",
+      "html_url": "https://github.com/cata02222/bsgen",
+      "homepage": null,
+      "stars": 21,
+      "forks": 2,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-25T13:05:48Z",
+      "updated_at": "2026-10-28T09:40:24Z",
+      "pushed_at": "2026-10-26T22:42:10Z"
+    },
+    {
+      "id": 1432461102,
+      "name": "echopod",
+      "full_name": "BasilSkyWalk/echopod",
+      "description": "Replacement firmware for the Snowsky Echo Mini 8 GB music player: Cover Flow, a library built on the player, favorites, playlists and Up Next",
+      "html_url": "https://github.com/BasilSkyWalk/echopod",
+      "homepage": null,
+      "stars": 21,
+      "forks": 1,
+      "language": "C",
+      "topics": [
+        "cover-flow",
+        "custom-firmware",
+        "dap",
+        "echo-mini",
+        "fiio",
+        "firmware",
+        "music-player",
+        "rockchip",
+        "snowsky"
+      ],
+      "created_at": "2026-10-24T18:09:34Z",
+      "updated_at": "2026-10-28T22:48:28Z",
+      "pushed_at": "2026-10-28T15:09:00Z"
     },
     {
       "id": 1417445101,
@@ -13358,21 +13515,6 @@
       "created_at": "2026-10-17T11:02:10Z",
       "updated_at": "2026-10-21T08:48:31Z",
       "pushed_at": "2026-10-20T10:53:30Z"
-    },
-    {
-      "id": 1433207200,
-      "name": "bsgen",
-      "full_name": "cata02222/bsgen",
-      "description": "An experimental Beat Saber map generator: maps from any song, and a model that plays them.",
-      "html_url": "https://github.com/cata02222/bsgen",
-      "homepage": null,
-      "stars": 20,
-      "forks": 1,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-25T13:05:48Z",
-      "updated_at": "2026-10-27T11:39:38Z",
-      "pushed_at": "2026-10-26T22:42:10Z"
     },
     {
       "id": 1409514013,
@@ -13885,6 +14027,21 @@
       "pushed_at": "2026-10-21T14:56:54Z"
     },
     {
+      "id": 1435533356,
+      "name": "CVE-2026-112611-cg-shading",
+      "full_name": "Ping-2o/CVE-2026-112611-cg-shading",
+      "description": "CVE-2026-112611/112610: CoreGraphics PDF out-of-bounds writes (fixed in iOS 27.2) — fix-diff analysis, on-device proof, methodology, and PoC generator scripts. No prebuilt PoCs, no crash reports.",
+      "html_url": "https://github.com/Ping-2o/CVE-2026-112611-cg-shading",
+      "homepage": null,
+      "stars": 16,
+      "forks": 3,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-27T09:46:42Z",
+      "updated_at": "2026-10-29T04:28:00Z",
+      "pushed_at": "2026-10-27T09:46:48Z"
+    },
+    {
       "id": 1430113995,
       "name": "firered-ai-switch",
       "full_name": "xhinzz/firered-ai-switch",
@@ -14094,6 +14251,61 @@
       "created_at": "2026-10-18T20:43:50Z",
       "updated_at": "2026-10-22T19:00:30Z",
       "pushed_at": "2026-10-18T20:55:15Z"
+    },
+    {
+      "id": 1433481498,
+      "name": "lumina-homeassistant-theme",
+      "full_name": "kjanko/lumina-homeassistant-theme",
+      "description": "Lumina: a dark glass theme for Home Assistant dashboards built with Bubble Card",
+      "html_url": "https://github.com/kjanko/lumina-homeassistant-theme",
+      "homepage": null,
+      "stars": 15,
+      "forks": 1,
+      "language": null,
+      "topics": [
+        "bubble-card",
+        "card-mod",
+        "hacs",
+        "hacs-theme",
+        "home-assistant",
+        "homeassistant",
+        "theme"
+      ],
+      "created_at": "2026-10-25T17:58:08Z",
+      "updated_at": "2026-10-29T03:25:12Z",
+      "pushed_at": "2026-10-26T13:23:58Z"
+    },
+    {
+      "id": 1433544752,
+      "name": "Kinoloom",
+      "full_name": "harlixay7/Kinoloom",
+      "description": "A local AI film studio for one Windows PC with an 8 GB NVIDIA card. Write the story, cast the people and render the shots with LTX-2.5, MiniMax H3 (bring your own weights) and Qwen-Image 2.1. It joins short clips into long takes inside the model. Built on ComfyUI.",
+      "html_url": "https://github.com/harlixay7/Kinoloom",
+      "homepage": null,
+      "stars": 15,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "comfyui",
+        "diffusion-models",
+        "fastapi",
+        "filmmaking",
+        "generative-ai",
+        "image-to-video",
+        "local-ai",
+        "low-vram",
+        "ltx-video",
+        "minimax",
+        "python",
+        "qwen-image",
+        "text-to-video",
+        "video-generation",
+        "windows"
+      ],
+      "created_at": "2026-10-25T19:14:21Z",
+      "updated_at": "2026-10-28T06:54:40Z",
+      "pushed_at": "2026-10-25T21:15:03Z"
     },
     {
       "id": 1379723846,
