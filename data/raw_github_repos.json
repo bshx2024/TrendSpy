@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/30 13:00:15",
-  "total_repos": 717,
+  "fetched_at": "2026/10/30 20:26:05",
+  "total_repos": 728,
   "repos": [
     {
       "id": 1425658028,
@@ -406,6 +406,21 @@
       "pushed_at": "2026-10-15T02:18:56Z"
     },
     {
+      "id": 1433269248,
+      "name": "OunceCake",
+      "full_name": "misshexa66/OunceCake",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "html_url": "https://github.com/misshexa66/OunceCake",
+      "homepage": null,
+      "stars": 534,
+      "forks": 63,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-25T14:12:41Z",
+      "updated_at": "2026-10-30T07:54:53Z",
+      "pushed_at": "2026-10-25T23:03:01Z"
+    },
+    {
       "id": 1377938409,
       "name": "minecraft-agent",
       "full_name": "rmalde/minecraft-agent",
@@ -434,21 +449,6 @@
       "created_at": "2026-10-08T16:38:51Z",
       "updated_at": "2026-10-09T17:41:39Z",
       "pushed_at": "2026-10-08T17:19:51Z"
-    },
-    {
-      "id": 1433269248,
-      "name": "OunceCake",
-      "full_name": "misshexa66/OunceCake",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "html_url": "https://github.com/misshexa66/OunceCake",
-      "homepage": null,
-      "stars": 530,
-      "forks": 63,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-25T14:12:41Z",
-      "updated_at": "2026-10-30T04:08:45Z",
-      "pushed_at": "2026-10-25T23:03:01Z"
     },
     {
       "id": 1408082051,
@@ -837,6 +837,34 @@
       "pushed_at": "2026-10-18T06:48:08Z"
     },
     {
+      "id": 1435672472,
+      "name": "floorplan",
+      "full_name": "haydenschmitty/floorplan",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "html_url": "https://github.com/haydenschmitty/floorplan",
+      "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
+      "stars": 427,
+      "forks": 37,
+      "language": "JavaScript",
+      "topics": [
+        "ai-coding",
+        "architecture-diagram",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "codebase-visualization",
+        "codex",
+        "codex-plugin",
+        "developer-tools",
+        "onboarding",
+        "openai",
+        "vibe-coding"
+      ],
+      "created_at": "2026-10-27T12:03:01Z",
+      "updated_at": "2026-10-30T11:55:36Z",
+      "pushed_at": "2026-10-29T19:06:14Z"
+    },
+    {
       "id": 1425938162,
       "name": "ai-jailbreaks",
       "full_name": "AndreSzymanski15/ai-jailbreaks",
@@ -1019,41 +1047,13 @@
       "pushed_at": "2026-10-22T12:52:53Z"
     },
     {
-      "id": 1435672472,
-      "name": "floorplan",
-      "full_name": "haydenschmitty/floorplan",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "html_url": "https://github.com/haydenschmitty/floorplan",
-      "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
-      "stars": 398,
-      "forks": 36,
-      "language": "JavaScript",
-      "topics": [
-        "ai-coding",
-        "architecture-diagram",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "codebase-visualization",
-        "codex",
-        "codex-plugin",
-        "developer-tools",
-        "onboarding",
-        "openai",
-        "vibe-coding"
-      ],
-      "created_at": "2026-10-27T12:03:01Z",
-      "updated_at": "2026-10-30T04:53:03Z",
-      "pushed_at": "2026-10-29T19:06:14Z"
-    },
-    {
       "id": 1432231624,
       "name": "glm-5.3-abliterated",
       "full_name": "routerhubSI/glm-5.3-abliterated",
       "description": "GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.",
       "html_url": "https://github.com/routerhubSI/glm-5.3-abliterated",
       "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
-      "stars": 396,
+      "stars": 394,
       "forks": 5,
       "language": "Python",
       "topics": [
@@ -1079,7 +1079,7 @@
         "uncensored-ai-model"
       ],
       "created_at": "2026-10-24T13:51:36Z",
-      "updated_at": "2026-10-29T02:23:58Z",
+      "updated_at": "2026-10-30T09:16:25Z",
       "pushed_at": "2026-10-24T16:10:37Z"
     },
     {
@@ -1380,6 +1380,21 @@
       "pushed_at": "2026-10-12T17:43:56Z"
     },
     {
+      "id": 1432731313,
+      "name": "KohakUnlock",
+      "full_name": "KohakuBlueleaf/KohakUnlock",
+      "description": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes",
+      "html_url": "https://github.com/KohakuBlueleaf/KohakUnlock",
+      "homepage": null,
+      "stars": 372,
+      "forks": 37,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-25T01:18:54Z",
+      "updated_at": "2026-10-30T11:43:41Z",
+      "pushed_at": "2026-10-27T11:40:25Z"
+    },
+    {
       "id": 1415972784,
       "name": "darling-lol",
       "full_name": "lucannez64/darling-lol",
@@ -1393,21 +1408,6 @@
       "created_at": "2026-10-12T18:15:56Z",
       "updated_at": "2026-10-18T20:03:51Z",
       "pushed_at": "2026-10-18T18:57:02Z"
-    },
-    {
-      "id": 1432731313,
-      "name": "KohakUnlock",
-      "full_name": "KohakuBlueleaf/KohakUnlock",
-      "description": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes",
-      "html_url": "https://github.com/KohakuBlueleaf/KohakUnlock",
-      "homepage": null,
-      "stars": 367,
-      "forks": 37,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-25T01:18:54Z",
-      "updated_at": "2026-10-30T00:15:49Z",
-      "pushed_at": "2026-10-27T11:40:25Z"
     },
     {
       "id": 1425306307,
@@ -1456,6 +1456,30 @@
       "created_at": "2026-10-23T13:23:19Z",
       "updated_at": "2026-10-29T20:16:27Z",
       "pushed_at": "2026-10-28T10:56:39Z"
+    },
+    {
+      "id": 1438540053,
+      "name": "Mika",
+      "full_name": "wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "html_url": "https://github.com/wangzan101/Mika",
+      "homepage": null,
+      "stars": 352,
+      "forks": 57,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "created_at": "2026-10-29T14:34:07Z",
+      "updated_at": "2026-10-30T12:18:54Z",
+      "pushed_at": "2026-10-30T11:04:26Z"
     },
     {
       "id": 1412143785,
@@ -1599,6 +1623,42 @@
       "pushed_at": "2026-10-10T15:34:08Z"
     },
     {
+      "id": 1436414244,
+      "name": "watson-AI-osint-all-in-one",
+      "full_name": "vaishantsah/watson-AI-osint-all-in-one",
+      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "homepage": "https://watsonfind.icu",
+      "stars": 320,
+      "forks": 17,
+      "language": "TypeScript",
+      "topics": [
+        "cybersecurity",
+        "desktop-app",
+        "digital-footprint",
+        "electron",
+        "free",
+        "infosec",
+        "intelligence",
+        "investigation",
+        "open-source-intelligence",
+        "osint",
+        "people-search",
+        "privacy",
+        "react",
+        "security-tools",
+        "social-media-search",
+        "tailwindcss",
+        "typescript",
+        "username-check",
+        "vite",
+        "windows"
+      ],
+      "created_at": "2026-10-28T00:09:33Z",
+      "updated_at": "2026-10-30T12:18:22Z",
+      "pushed_at": "2026-10-29T00:32:33Z"
+    },
+    {
       "id": 1427744908,
       "name": "ATBGamePort",
       "full_name": "atbfun/ATBGamePort",
@@ -1633,42 +1693,6 @@
       "created_at": "2026-09-22T15:56:39Z",
       "updated_at": "2026-09-24T04:06:45Z",
       "pushed_at": "2026-09-22T16:32:10Z"
-    },
-    {
-      "id": 1436414244,
-      "name": "watson-AI-osint-all-in-one",
-      "full_name": "vaishantsah/watson-AI-osint-all-in-one",
-      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
-      "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
-      "homepage": "https://watsonfind.icu",
-      "stars": 313,
-      "forks": 16,
-      "language": "TypeScript",
-      "topics": [
-        "cybersecurity",
-        "desktop-app",
-        "digital-footprint",
-        "electron",
-        "free",
-        "infosec",
-        "intelligence",
-        "investigation",
-        "open-source-intelligence",
-        "osint",
-        "people-search",
-        "privacy",
-        "react",
-        "security-tools",
-        "social-media-search",
-        "tailwindcss",
-        "typescript",
-        "username-check",
-        "vite",
-        "windows"
-      ],
-      "created_at": "2026-10-28T00:09:33Z",
-      "updated_at": "2026-10-30T04:18:52Z",
-      "pushed_at": "2026-10-29T00:32:33Z"
     },
     {
       "id": 1406548400,
@@ -1985,12 +2009,12 @@
       "description": "A lightweight system to automate posting to all of your socials from one dashboard",
       "html_url": "https://github.com/brainstormity/LightPost",
       "homepage": null,
-      "stars": 279,
-      "forks": 59,
+      "stars": 280,
+      "forks": 61,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T00:19:12Z",
-      "updated_at": "2026-10-30T04:25:45Z",
+      "updated_at": "2026-10-30T07:48:13Z",
       "pushed_at": "2026-10-28T16:06:08Z"
     },
     {
@@ -2040,7 +2064,7 @@
       "description": "The data transformation tool the open-source community deserves.",
       "html_url": "https://github.com/hugues31/duckpad",
       "homepage": "https://hugues31.github.io/duckpad/",
-      "stars": 269,
+      "stars": 268,
       "forks": 2,
       "language": "Python",
       "topics": [
@@ -2048,8 +2072,8 @@
         "duckdb"
       ],
       "created_at": "2026-10-25T07:57:16Z",
-      "updated_at": "2026-10-30T02:43:08Z",
-      "pushed_at": "2026-10-29T21:57:23Z"
+      "updated_at": "2026-10-30T12:07:33Z",
+      "pushed_at": "2026-10-30T12:07:59Z"
     },
     {
       "id": 1425227613,
@@ -2297,6 +2321,47 @@
       "pushed_at": "2026-10-17T19:14:32Z"
     },
     {
+      "id": 1432682504,
+      "name": "pumpfun-source",
+      "full_name": "lalalune/pumpfun-source",
+      "description": "Reverse engineering the pump.fun smart contracts",
+      "html_url": "https://github.com/lalalune/pumpfun-source",
+      "homepage": "https://pump.fun/coin/35fWL6pdJqpconRZPrawUAQegw1QF3p2tgN7mzhTpump",
+      "stars": 248,
+      "forks": 186,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-24T23:37:50Z",
+      "updated_at": "2026-10-30T12:25:06Z",
+      "pushed_at": "2026-10-30T12:25:48Z"
+    },
+    {
+      "id": 1434973188,
+      "name": "dsh-video-storyboard",
+      "full_name": "SAOS-3624/dsh-video-storyboard",
+      "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.",
+      "html_url": "https://github.com/SAOS-3624/dsh-video-storyboard",
+      "homepage": "https://github.com/SAOS-3624/dsh-video-storyboard",
+      "stars": 248,
+      "forks": 16,
+      "language": "JavaScript",
+      "topics": [
+        "asr",
+        "contact-sheet",
+        "deepseek-harness",
+        "dsh-plugin",
+        "ffmpeg",
+        "llm-agent",
+        "multimodal",
+        "storyboard",
+        "video",
+        "video-understanding"
+      ],
+      "created_at": "2026-10-26T22:00:04Z",
+      "updated_at": "2026-10-30T12:23:17Z",
+      "pushed_at": "2026-10-30T12:15:22Z"
+    },
+    {
       "id": 1433297111,
       "name": "Zero-Breach-Toolkit",
       "full_name": "interplains/Zero-Breach-Toolkit",
@@ -2310,21 +2375,6 @@
       "created_at": "2026-10-25T14:41:34Z",
       "updated_at": "2026-10-27T21:57:43Z",
       "pushed_at": "2026-10-27T21:45:00Z"
-    },
-    {
-      "id": 1432682504,
-      "name": "pumpfun-source",
-      "full_name": "lalalune/pumpfun-source",
-      "description": "Reverse engineering the pump.fun smart contracts",
-      "html_url": "https://github.com/lalalune/pumpfun-source",
-      "homepage": "https://pump.fun/coin/35fWL6pdJqpconRZPrawUAQegw1QF3p2tgN7mzhTpump",
-      "stars": 241,
-      "forks": 176,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-24T23:37:50Z",
-      "updated_at": "2026-10-30T04:58:13Z",
-      "pushed_at": "2026-10-30T04:59:08Z"
     },
     {
       "id": 1438077268,
@@ -2503,12 +2553,12 @@
       "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
       "html_url": "https://github.com/Moessif/code-video-showcase",
       "homepage": null,
-      "stars": 219,
-      "forks": 12,
+      "stars": 226,
+      "forks": 14,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-24T14:02:58Z",
-      "updated_at": "2026-10-30T03:59:00Z",
+      "updated_at": "2026-10-30T11:46:07Z",
       "pushed_at": "2026-10-28T06:20:54Z"
     },
     {
@@ -2518,7 +2568,7 @@
       "description": "Run a web page like a program",
       "html_url": "https://github.com/tractordev/webframe",
       "homepage": null,
-      "stars": 218,
+      "stars": 219,
       "forks": 3,
       "language": "Go",
       "topics": [
@@ -2528,7 +2578,7 @@
         "purego"
       ],
       "created_at": "2026-10-24T14:18:15Z",
-      "updated_at": "2026-10-30T04:16:39Z",
+      "updated_at": "2026-10-30T08:59:43Z",
       "pushed_at": "2026-10-30T03:19:56Z"
     },
     {
@@ -2626,32 +2676,6 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
-    },
-    {
-      "id": 1434973188,
-      "name": "dsh-video-storyboard",
-      "full_name": "SAOS-3624/dsh-video-storyboard",
-      "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.",
-      "html_url": "https://github.com/SAOS-3624/dsh-video-storyboard",
-      "homepage": "https://github.com/SAOS-3624/dsh-video-storyboard",
-      "stars": 212,
-      "forks": 16,
-      "language": "JavaScript",
-      "topics": [
-        "asr",
-        "contact-sheet",
-        "deepseek-harness",
-        "dsh-plugin",
-        "ffmpeg",
-        "llm-agent",
-        "multimodal",
-        "storyboard",
-        "video",
-        "video-understanding"
-      ],
-      "created_at": "2026-10-26T22:00:04Z",
-      "updated_at": "2026-10-30T04:58:29Z",
-      "pushed_at": "2026-10-29T21:53:53Z"
     },
     {
       "id": 1423658114,
@@ -3137,25 +3161,6 @@
       "pushed_at": "2026-10-16T22:07:43Z"
     },
     {
-      "id": 1438082267,
-      "name": "Robux-Generator",
-      "full_name": "Barbpouncouple/Robux-Generator",
-      "description": "Robux Generator 2026: Full working installer, complete standalone setup with all features activated for immediate use.",
-      "html_url": "https://github.com/Barbpouncouple/Robux-Generator",
-      "homepage": null,
-      "stars": 201,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "rbxdev",
-        "robux",
-        "robux-generator"
-      ],
-      "created_at": "2026-10-29T07:22:18Z",
-      "updated_at": "2026-10-30T02:29:03Z",
-      "pushed_at": "2026-10-29T07:22:26Z"
-    },
-    {
       "id": 1405554378,
       "name": "Autodesk-CFD",
       "full_name": "fuchsiaravengrade/Autodesk-CFD",
@@ -3619,6 +3624,21 @@
       "pushed_at": "2026-09-30T23:21:04Z"
     },
     {
+      "id": 1432795903,
+      "name": "FoundPhone-Studio",
+      "full_name": "keoyyo85/FoundPhone-Studio",
+      "description": "An AI-powered interactive found phone story framework. Create your own playable phone stories with natural language.",
+      "html_url": "https://github.com/keoyyo85/FoundPhone-Studio",
+      "homepage": "https://keoyyo85.github.io/FoundPhone-Studio/",
+      "stars": 182,
+      "forks": 235,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-25T03:29:02Z",
+      "updated_at": "2026-10-30T09:19:36Z",
+      "pushed_at": "2026-10-25T04:32:57Z"
+    },
+    {
       "id": 1415164610,
       "name": "robosimstudio",
       "full_name": "robosimstudio/robosimstudio",
@@ -3770,21 +3790,6 @@
       "pushed_at": "2026-10-26T19:59:33Z"
     },
     {
-      "id": 1432795903,
-      "name": "FoundPhone-Studio",
-      "full_name": "keoyyo85/FoundPhone-Studio",
-      "description": "An AI-powered interactive found phone story framework. Create your own playable phone stories with natural language.",
-      "html_url": "https://github.com/keoyyo85/FoundPhone-Studio",
-      "homepage": "https://keoyyo85.github.io/FoundPhone-Studio/",
-      "stars": 175,
-      "forks": 223,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-25T03:29:02Z",
-      "updated_at": "2026-10-30T04:32:29Z",
-      "pushed_at": "2026-10-25T04:32:57Z"
-    },
-    {
       "id": 1415917854,
       "name": "SlideShow-Video-Maker",
       "full_name": "HighwayGeneralEngine/SlideShow-Video-Maker",
@@ -3833,6 +3838,21 @@
       "created_at": "2026-10-16T17:51:21Z",
       "updated_at": "2026-10-22T18:32:30Z",
       "pushed_at": "2026-10-18T14:57:56Z"
+    },
+    {
+      "id": 1436559096,
+      "name": "video-director",
+      "full_name": "win4r/video-director",
+      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
+      "html_url": "https://github.com/win4r/video-director",
+      "homepage": null,
+      "stars": 173,
+      "forks": 11,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T03:35:27Z",
+      "updated_at": "2026-10-30T11:59:06Z",
+      "pushed_at": "2026-10-30T06:04:14Z"
     },
     {
       "id": 1413230318,
@@ -4138,6 +4158,28 @@
       "pushed_at": "2026-10-20T21:15:59Z"
     },
     {
+      "id": 1433441201,
+      "name": "duozhi-workbench",
+      "full_name": "yy838255939/duozhi-workbench",
+      "description": "Local multi-AI desktop workspace with official website panels, shared prompts and group collaboration.",
+      "html_url": "https://github.com/yy838255939/duozhi-workbench",
+      "homepage": null,
+      "stars": 157,
+      "forks": 8,
+      "language": "TypeScript",
+      "topics": [
+        "ai-chat",
+        "chinese",
+        "desktop-app",
+        "electron",
+        "gpl-3",
+        "multi-ai"
+      ],
+      "created_at": "2026-10-25T17:12:57Z",
+      "updated_at": "2026-10-30T06:07:10Z",
+      "pushed_at": "2026-10-26T04:12:50Z"
+    },
+    {
       "id": 1382304020,
       "name": "riso-windowseat",
       "full_name": "sevenevesai/riso-windowseat",
@@ -4157,28 +4199,6 @@
       "created_at": "2026-09-22T20:14:59Z",
       "updated_at": "2026-09-24T04:24:54Z",
       "pushed_at": "2026-09-23T22:34:48Z"
-    },
-    {
-      "id": 1433441201,
-      "name": "duozhi-workbench",
-      "full_name": "yy838255939/duozhi-workbench",
-      "description": "Local multi-AI desktop workspace with official website panels, shared prompts and group collaboration.",
-      "html_url": "https://github.com/yy838255939/duozhi-workbench",
-      "homepage": null,
-      "stars": 156,
-      "forks": 8,
-      "language": "TypeScript",
-      "topics": [
-        "ai-chat",
-        "chinese",
-        "desktop-app",
-        "electron",
-        "gpl-3",
-        "multi-ai"
-      ],
-      "created_at": "2026-10-25T17:12:57Z",
-      "updated_at": "2026-10-30T04:32:15Z",
-      "pushed_at": "2026-10-26T04:12:50Z"
     },
     {
       "id": 1375327232,
@@ -4309,6 +4329,21 @@
       "pushed_at": "2026-10-22T11:59:39Z"
     },
     {
+      "id": 1432640160,
+      "name": "skill-diet",
+      "full_name": "nicobailon/skill-diet",
+      "description": "An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones.",
+      "html_url": "https://github.com/nicobailon/skill-diet",
+      "homepage": null,
+      "stars": 148,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-24T22:18:26Z",
+      "updated_at": "2026-10-30T10:02:08Z",
+      "pushed_at": "2026-10-27T06:23:31Z"
+    },
+    {
       "id": 1431620755,
       "name": "dev-quality-gates",
       "full_name": "mokevnin/dev-quality-gates",
@@ -4331,45 +4366,6 @@
       "created_at": "2026-10-23T22:48:28Z",
       "updated_at": "2026-10-29T17:18:25Z",
       "pushed_at": "2026-10-28T00:56:46Z"
-    },
-    {
-      "id": 1438540053,
-      "name": "Mika",
-      "full_name": "wangzan101/Mika",
-      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "html_url": "https://github.com/wangzan101/Mika",
-      "homepage": null,
-      "stars": 146,
-      "forks": 27,
-      "language": "Kotlin",
-      "topics": [
-        "accessibility",
-        "ai-agent",
-        "android",
-        "automation",
-        "jetpack-compose",
-        "kotlin",
-        "llm",
-        "mobile-agent"
-      ],
-      "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-10-30T05:00:06Z",
-      "pushed_at": "2026-10-30T04:35:56Z"
-    },
-    {
-      "id": 1432640160,
-      "name": "skill-diet",
-      "full_name": "nicobailon/skill-diet",
-      "description": "An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones.",
-      "html_url": "https://github.com/nicobailon/skill-diet",
-      "homepage": null,
-      "stars": 145,
-      "forks": 5,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-24T22:18:26Z",
-      "updated_at": "2026-10-30T01:30:23Z",
-      "pushed_at": "2026-10-27T06:23:31Z"
     },
     {
       "id": 1410815894,
@@ -4973,21 +4969,6 @@
       "pushed_at": "2026-10-20T08:58:38Z"
     },
     {
-      "id": 1436559096,
-      "name": "video-director",
-      "full_name": "win4r/video-director",
-      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
-      "html_url": "https://github.com/win4r/video-director",
-      "homepage": null,
-      "stars": 132,
-      "forks": 7,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-28T03:35:27Z",
-      "updated_at": "2026-10-30T04:40:20Z",
-      "pushed_at": "2026-10-28T04:01:00Z"
-    },
-    {
       "id": 1414942519,
       "name": "EdenLive",
       "full_name": "VAST-AI-Research/EdenLive",
@@ -5117,6 +5098,21 @@
       "created_at": "2026-10-23T18:55:21Z",
       "updated_at": "2026-10-29T22:47:12Z",
       "pushed_at": "2026-10-29T22:47:09Z"
+    },
+    {
+      "id": 1433391012,
+      "name": "agentloop",
+      "full_name": "smhanov/agentloop",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "html_url": "https://github.com/smhanov/agentloop",
+      "homepage": null,
+      "stars": 127,
+      "forks": 15,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-25T16:18:50Z",
+      "updated_at": "2026-10-30T02:36:16Z",
+      "pushed_at": "2026-10-27T20:43:04Z"
     },
     {
       "id": 1426197381,
@@ -5255,19 +5251,27 @@
       "pushed_at": "2026-10-26T19:03:13Z"
     },
     {
-      "id": 1433391012,
-      "name": "agentloop",
-      "full_name": "smhanov/agentloop",
-      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "html_url": "https://github.com/smhanov/agentloop",
+      "id": 1431868668,
+      "name": "Ghost-Night",
+      "full_name": "sanjayadanushka712/Ghost-Night",
+      "description": "Local-only browser fingerprint & identity rotation toolkit for authorized security testing. Tor/obfs4, coherent profiles, WebRTC/DNS leak protection.",
+      "html_url": "https://github.com/sanjayadanushka712/Ghost-Night",
       "homepage": null,
       "stars": 125,
-      "forks": 15,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-10-25T16:18:50Z",
-      "updated_at": "2026-10-28T21:14:40Z",
-      "pushed_at": "2026-10-27T20:43:04Z"
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "browser-privacy",
+        "cli",
+        "fingerprinting",
+        "identity-rotation",
+        "obfs4",
+        "security-testing",
+        "tor"
+      ],
+      "created_at": "2026-10-24T06:02:19Z",
+      "updated_at": "2026-10-30T11:47:59Z",
+      "pushed_at": "2026-10-24T06:03:36Z"
     },
     {
       "id": 1406397878,
@@ -5496,6 +5500,39 @@
       "pushed_at": "2026-10-12T10:11:18Z"
     },
     {
+      "id": 1437812726,
+      "name": "shisei",
+      "full_name": "wquguru/shisei",
+      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+      "html_url": "https://github.com/wquguru/shisei",
+      "homepage": "https://shisei.indaloop.app",
+      "stars": 119,
+      "forks": 37,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "art-reference",
+        "cc0",
+        "comfyui",
+        "controlnet",
+        "dataset",
+        "drawing-reference",
+        "figure-drawing",
+        "line-art",
+        "mannequin",
+        "midjourney",
+        "multilingual",
+        "nano-banana",
+        "pose-reference",
+        "reference-images",
+        "stable-diffusion"
+      ],
+      "created_at": "2026-10-29T01:23:06Z",
+      "updated_at": "2026-10-30T12:14:22Z",
+      "pushed_at": "2026-10-30T06:47:03Z"
+    },
+    {
       "id": 1427856225,
       "name": "php2shell-protection",
       "full_name": "syhunt/php2shell-protection",
@@ -5521,6 +5558,33 @@
       "pushed_at": "2026-10-24T23:12:59Z"
     },
     {
+      "id": 1433588727,
+      "name": "canvas-mcp",
+      "full_name": "boyuchengz/canvas-mcp",
+      "description": "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.",
+      "html_url": "https://github.com/boyuchengz/canvas-mcp",
+      "homepage": null,
+      "stars": 118,
+      "forks": 29,
+      "language": "JavaScript",
+      "topics": [
+        "canvas",
+        "canvas-lms",
+        "chatgpt",
+        "claude",
+        "education",
+        "instructure",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "nodejs",
+        "students"
+      ],
+      "created_at": "2026-10-25T20:12:43Z",
+      "updated_at": "2026-10-30T08:42:35Z",
+      "pushed_at": "2026-10-27T19:57:14Z"
+    },
+    {
       "id": 1412679017,
       "name": "qiaomu-cover-fonts",
       "full_name": "joeseesun/qiaomu-cover-fonts",
@@ -5539,33 +5603,6 @@
       "created_at": "2026-10-10T02:48:39Z",
       "updated_at": "2026-10-16T01:30:39Z",
       "pushed_at": "2026-10-10T03:10:04Z"
-    },
-    {
-      "id": 1433588727,
-      "name": "canvas-mcp",
-      "full_name": "boyuchengz/canvas-mcp",
-      "description": "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.",
-      "html_url": "https://github.com/boyuchengz/canvas-mcp",
-      "homepage": null,
-      "stars": 117,
-      "forks": 29,
-      "language": "JavaScript",
-      "topics": [
-        "canvas",
-        "canvas-lms",
-        "chatgpt",
-        "claude",
-        "education",
-        "instructure",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "nodejs",
-        "students"
-      ],
-      "created_at": "2026-10-25T20:12:43Z",
-      "updated_at": "2026-10-28T10:17:28Z",
-      "pushed_at": "2026-10-27T19:57:14Z"
     },
     {
       "id": 1404682975,
@@ -5644,6 +5681,21 @@
       "created_at": "2026-10-21T16:53:47Z",
       "updated_at": "2026-10-27T15:55:43Z",
       "pushed_at": "2026-10-21T16:54:13Z"
+    },
+    {
+      "id": 1432442464,
+      "name": "maibot-baidu-search",
+      "full_name": "Toyaspio/maibot-baidu-search",
+      "description": "MaiBot 百度搜索插件，支持搜索命令与大模型 Tool，接入百度千帆官方 API。",
+      "html_url": "https://github.com/Toyaspio/maibot-baidu-search",
+      "homepage": null,
+      "stars": 114,
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-24T17:47:29Z",
+      "updated_at": "2026-10-30T04:21:57Z",
+      "pushed_at": "2026-10-25T19:37:13Z"
     },
     {
       "id": 1380729698,
@@ -6267,6 +6319,21 @@
       "pushed_at": "2026-10-24T04:40:56Z"
     },
     {
+      "id": 1434890202,
+      "name": "noalloc",
+      "full_name": "theconsensuslabs/noalloc",
+      "description": "Tooling and libraries to enforce zero heap allocations in Golang",
+      "html_url": "https://github.com/theconsensuslabs/noalloc",
+      "homepage": null,
+      "stars": 107,
+      "forks": 1,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-26T20:21:22Z",
+      "updated_at": "2026-10-30T10:32:54Z",
+      "pushed_at": "2026-10-29T16:11:36Z"
+    },
+    {
       "id": 1377007152,
       "name": "ritridata",
       "full_name": "reco-tools/ritridata",
@@ -6504,21 +6571,6 @@
       "pushed_at": "2026-10-03T14:39:31Z"
     },
     {
-      "id": 1432442464,
-      "name": "maibot-baidu-search",
-      "full_name": "Toyaspio/maibot-baidu-search",
-      "description": "MaiBot 百度搜索插件，支持搜索命令与大模型 Tool，接入百度千帆官方 API。",
-      "html_url": "https://github.com/Toyaspio/maibot-baidu-search",
-      "homepage": null,
-      "stars": 103,
-      "forks": 3,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-24T17:47:29Z",
-      "updated_at": "2026-10-29T00:52:13Z",
-      "pushed_at": "2026-10-25T19:37:13Z"
-    },
-    {
       "id": 1377581532,
       "name": "card-design-generator",
       "full_name": "Susie-Meow/card-design-generator",
@@ -6571,6 +6623,21 @@
       "created_at": "2026-10-02T00:54:32Z",
       "updated_at": "2026-10-08T15:25:26Z",
       "pushed_at": "2026-10-05T01:56:08Z"
+    },
+    {
+      "id": 1434751357,
+      "name": "Droy",
+      "full_name": "moonoops/Droy",
+      "description": "An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.",
+      "html_url": "https://github.com/moonoops/Droy",
+      "homepage": null,
+      "stars": 102,
+      "forks": 2,
+      "language": "Java",
+      "topics": [],
+      "created_at": "2026-10-26T18:03:20Z",
+      "updated_at": "2026-10-30T12:02:54Z",
+      "pushed_at": "2026-10-27T15:47:40Z"
     },
     {
       "id": 1385781283,
@@ -6838,7 +6905,7 @@
         "movavi-video-suite-media-management"
       ],
       "created_at": "2026-10-29T07:20:41Z",
-      "updated_at": "2026-10-29T18:15:11Z",
+      "updated_at": "2026-10-30T12:03:00Z",
       "pushed_at": "2026-10-29T07:20:50Z"
     },
     {
@@ -6894,6 +6961,25 @@
       "created_at": "2026-10-30T04:41:57Z",
       "updated_at": "2026-10-30T04:44:57Z",
       "pushed_at": "2026-10-30T04:42:03Z"
+    },
+    {
+      "id": 1438082267,
+      "name": "Robux-Generator",
+      "full_name": "Barbpouncouple/Robux-Generator",
+      "description": "Robux Generator 2026: Full working installer, complete standalone setup with all features activated for immediate use.",
+      "html_url": "https://github.com/Barbpouncouple/Robux-Generator",
+      "homepage": null,
+      "stars": 99,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "rbxdev",
+        "robux",
+        "robux-generator"
+      ],
+      "created_at": "2026-10-29T07:22:18Z",
+      "updated_at": "2026-10-30T12:24:55Z",
+      "pushed_at": "2026-10-29T07:22:26Z"
     },
     {
       "id": 1420803717,
@@ -7822,6 +7908,21 @@
       "pushed_at": "2026-10-27T18:24:37Z"
     },
     {
+      "id": 1433107802,
+      "name": "ComfyUI-Local-Infinite-Canvas",
+      "full_name": "1314521gjy/ComfyUI-Local-Infinite-Canvas",
+      "description": "ComfyUI-本地无限画布：本地 Infinite Canvas × ComfyUI 集成（基于 basketikun/infinite-canvas, MIT）",
+      "html_url": "https://github.com/1314521gjy/ComfyUI-Local-Infinite-Canvas",
+      "homepage": null,
+      "stars": 86,
+      "forks": 15,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-25T11:09:22Z",
+      "updated_at": "2026-10-30T12:09:39Z",
+      "pushed_at": "2026-10-30T12:09:34Z"
+    },
+    {
       "id": 1405691280,
       "name": "photocraft-corpus",
       "full_name": "storytold/photocraft-corpus",
@@ -8274,12 +8375,12 @@
       "description": "Find, rank and steer MLP neurons of GGUF models on llama.cpp; export control vectors; 3D web UI and MCP server",
       "html_url": "https://github.com/balaena01/gguf-neuron-explorer",
       "homepage": null,
-      "stars": 82,
-      "forks": 7,
+      "stars": 83,
+      "forks": 8,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-26T17:11:14Z",
-      "updated_at": "2026-10-30T01:50:36Z",
+      "updated_at": "2026-10-30T07:25:13Z",
       "pushed_at": "2026-10-30T01:50:32Z"
     },
     {
@@ -8352,21 +8453,6 @@
       "created_at": "2026-09-25T04:49:37Z",
       "updated_at": "2026-09-30T15:47:34Z",
       "pushed_at": "2026-09-30T15:47:30Z"
-    },
-    {
-      "id": 1433107802,
-      "name": "ComfyUI-Local-Infinite-Canvas",
-      "full_name": "1314521gjy/ComfyUI-Local-Infinite-Canvas",
-      "description": "ComfyUI-本地无限画布：本地 Infinite Canvas × ComfyUI 集成（基于 basketikun/infinite-canvas, MIT）",
-      "html_url": "https://github.com/1314521gjy/ComfyUI-Local-Infinite-Canvas",
-      "homepage": null,
-      "stars": 80,
-      "forks": 12,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-25T11:09:22Z",
-      "updated_at": "2026-10-30T04:54:29Z",
-      "pushed_at": "2026-10-30T04:54:24Z"
     },
     {
       "id": 1408229138,
@@ -8492,6 +8578,21 @@
       "created_at": "2026-10-14T22:51:52Z",
       "updated_at": "2026-10-17T08:45:15Z",
       "pushed_at": "2026-10-15T12:28:02Z"
+    },
+    {
+      "id": 1434781902,
+      "name": "Blue-Knight-Proxy-BotHosting",
+      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
+      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "homepage": null,
+      "stars": 75,
+      "forks": 127,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-26T18:31:20Z",
+      "updated_at": "2026-10-30T10:29:36Z",
+      "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
       "id": 1398599398,
@@ -8721,21 +8822,6 @@
       "created_at": "2026-10-24T17:19:30Z",
       "updated_at": "2026-10-29T19:58:26Z",
       "pushed_at": "2026-10-28T21:59:08Z"
-    },
-    {
-      "id": 1434781902,
-      "name": "Blue-Knight-Proxy-BotHosting",
-      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
-      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "homepage": null,
-      "stars": 72,
-      "forks": 124,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-26T18:31:20Z",
-      "updated_at": "2026-10-30T04:56:07Z",
-      "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
       "id": 1375750028,
@@ -9468,42 +9554,6 @@
       "pushed_at": "2026-10-22T12:24:59Z"
     },
     {
-      "id": 1434015419,
-      "name": "DLSS5-Unlocker-rpocket-team",
-      "full_name": "NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
-      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
-      "html_url": "https://github.com/NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
-      "homepage": null,
-      "stars": 64,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "amd",
-        "amd-gpu",
-        "cs2-stutter-fix",
-        "dlss",
-        "dlss-5",
-        "dlss-5-mod",
-        "dlss5",
-        "dlss5-optiscaler",
-        "dlss5-swapper",
-        "dlss5-universal",
-        "fps-booster-no-lag",
-        "frame-generation",
-        "fsr",
-        "mod-manager",
-        "modding",
-        "nvidia",
-        "nvidia-gpu",
-        "pc-gaming",
-        "radeon",
-        "super-resolution"
-      ],
-      "created_at": "2026-10-26T06:56:44Z",
-      "updated_at": "2026-10-29T15:48:49Z",
-      "pushed_at": "2026-10-26T06:56:52Z"
-    },
-    {
       "id": 1434014542,
       "name": "albion-resocket-logistics",
       "full_name": "GValkyrie87087/albion-resocket-logistics",
@@ -9529,28 +9579,6 @@
       "created_at": "2026-10-26T06:55:46Z",
       "updated_at": "2026-10-29T15:48:44Z",
       "pushed_at": "2026-10-26T06:55:54Z"
-    },
-    {
-      "id": 1434014666,
-      "name": "BDO_Enhancement_rpocket_Tool",
-      "full_name": "LoyaltyInTitan/BDO_Enhancement_rpocket_Tool",
-      "description": "Open source tool for planning fail stacks and enhancement priority in Black Desert Online",
-      "html_url": "https://github.com/LoyaltyInTitan/BDO_Enhancement_rpocket_Tool",
-      "homepage": null,
-      "stars": 64,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "black-desert",
-        "blackdesertonline",
-        "calculator",
-        "gear",
-        "planner",
-        "python"
-      ],
-      "created_at": "2026-10-26T06:55:53Z",
-      "updated_at": "2026-10-29T15:48:45Z",
-      "pushed_at": "2026-10-26T06:56:01Z"
     },
     {
       "id": 1436629594,
@@ -9583,38 +9611,6 @@
       "pushed_at": "2026-09-26T13:37:48Z"
     },
     {
-      "id": 1434014577,
-      "name": "Albion-Accountant-Client-resp",
-      "full_name": "LUSchin/Albion-Accountant-Client-resp",
-      "description": "Auction house accounting for Albion Online",
-      "html_url": "https://github.com/LUSchin/Albion-Accountant-Client-resp",
-      "homepage": null,
-      "stars": 63,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "albion-kit",
-        "albion-online-assistant",
-        "albion-online-data",
-        "albion-online-enhancer",
-        "albion-online-overlay",
-        "albion-online-toolkit",
-        "albion-online-tools",
-        "albion-online-utilities",
-        "auto",
-        "auto-farming",
-        "bot",
-        "computer",
-        "esp",
-        "god-mode",
-        "radar",
-        "tauri2"
-      ],
-      "created_at": "2026-10-26T06:55:48Z",
-      "updated_at": "2026-10-29T15:48:44Z",
-      "pushed_at": "2026-10-26T06:55:57Z"
-    },
-    {
       "id": 1434039422,
       "name": "YimStuff-rpocket",
       "full_name": "Fortuneviper/YimStuff-rpocket",
@@ -9636,40 +9632,6 @@
       "created_at": "2026-10-26T07:22:52Z",
       "updated_at": "2026-10-29T15:49:06Z",
       "pushed_at": "2026-10-26T07:23:00Z"
-    },
-    {
-      "id": 1434014736,
-      "name": "bdo-wardrobe-rpocket-team",
-      "full_name": "LeafOrder39005/bdo-wardrobe-rpocket-team",
-      "description": "Gallery-first outfit viewer for Black Desert Online — 4,343 outfits, 32 classes, honest image-quality badges, zero dependencies.",
-      "html_url": "https://github.com/LeafOrder39005/bdo-wardrobe-rpocket-team",
-      "homepage": null,
-      "stars": 63,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "bdo",
-        "black-desert",
-        "black-desert-online",
-        "blackdesert",
-        "blackdesertonline",
-        "blackdeserttool",
-        "crafting",
-        "fan-project",
-        "gaming",
-        "javascript",
-        "meta-injector",
-        "mod",
-        "nodejs",
-        "outfit-viewer",
-        "powershell",
-        "vanilla-javascript",
-        "webview2",
-        "windows"
-      ],
-      "created_at": "2026-10-26T06:55:57Z",
-      "updated_at": "2026-10-29T15:48:46Z",
-      "pushed_at": "2026-10-26T06:56:11Z"
     },
     {
       "id": 1400269105,
@@ -10161,6 +10123,64 @@
       "pushed_at": "2026-10-12T06:56:26Z"
     },
     {
+      "id": 1434015419,
+      "name": "DLSS5-Unlocker-rpocket-team",
+      "full_name": "NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
+      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
+      "html_url": "https://github.com/NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
+      "homepage": null,
+      "stars": 56,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "amd",
+        "amd-gpu",
+        "cs2-stutter-fix",
+        "dlss",
+        "dlss-5",
+        "dlss-5-mod",
+        "dlss5",
+        "dlss5-optiscaler",
+        "dlss5-swapper",
+        "dlss5-universal",
+        "fps-booster-no-lag",
+        "frame-generation",
+        "fsr",
+        "mod-manager",
+        "modding",
+        "nvidia",
+        "nvidia-gpu",
+        "pc-gaming",
+        "radeon",
+        "super-resolution"
+      ],
+      "created_at": "2026-10-26T06:56:44Z",
+      "updated_at": "2026-10-30T11:21:27Z",
+      "pushed_at": "2026-10-26T06:56:52Z"
+    },
+    {
+      "id": 1434014666,
+      "name": "BDO_Enhancement_rpocket_Tool",
+      "full_name": "LoyaltyInTitan/BDO_Enhancement_rpocket_Tool",
+      "description": "Open source tool for planning fail stacks and enhancement priority in Black Desert Online",
+      "html_url": "https://github.com/LoyaltyInTitan/BDO_Enhancement_rpocket_Tool",
+      "homepage": null,
+      "stars": 56,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "black-desert",
+        "blackdesertonline",
+        "calculator",
+        "gear",
+        "planner",
+        "python"
+      ],
+      "created_at": "2026-10-26T06:55:53Z",
+      "updated_at": "2026-10-30T11:21:24Z",
+      "pushed_at": "2026-10-26T06:56:01Z"
+    },
+    {
       "id": 1386319785,
       "name": "Fb-Report",
       "full_name": "lward4/Fb-Report",
@@ -10329,6 +10349,72 @@
       "created_at": "2026-10-17T15:36:35Z",
       "updated_at": "2026-10-23T20:17:31Z",
       "pushed_at": "2026-10-21T18:42:34Z"
+    },
+    {
+      "id": 1434014577,
+      "name": "Albion-Accountant-Client-resp",
+      "full_name": "LUSchin/Albion-Accountant-Client-resp",
+      "description": "Auction house accounting for Albion Online",
+      "html_url": "https://github.com/LUSchin/Albion-Accountant-Client-resp",
+      "homepage": null,
+      "stars": 55,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "albion-kit",
+        "albion-online-assistant",
+        "albion-online-data",
+        "albion-online-enhancer",
+        "albion-online-overlay",
+        "albion-online-toolkit",
+        "albion-online-tools",
+        "albion-online-utilities",
+        "auto",
+        "auto-farming",
+        "bot",
+        "computer",
+        "esp",
+        "god-mode",
+        "radar",
+        "tauri2"
+      ],
+      "created_at": "2026-10-26T06:55:48Z",
+      "updated_at": "2026-10-30T11:21:22Z",
+      "pushed_at": "2026-10-26T06:55:57Z"
+    },
+    {
+      "id": 1434014736,
+      "name": "bdo-wardrobe-rpocket-team",
+      "full_name": "LeafOrder39005/bdo-wardrobe-rpocket-team",
+      "description": "Gallery-first outfit viewer for Black Desert Online — 4,343 outfits, 32 classes, honest image-quality badges, zero dependencies.",
+      "html_url": "https://github.com/LeafOrder39005/bdo-wardrobe-rpocket-team",
+      "homepage": null,
+      "stars": 55,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "bdo",
+        "black-desert",
+        "black-desert-online",
+        "blackdesert",
+        "blackdesertonline",
+        "blackdeserttool",
+        "crafting",
+        "fan-project",
+        "gaming",
+        "javascript",
+        "meta-injector",
+        "mod",
+        "nodejs",
+        "outfit-viewer",
+        "powershell",
+        "vanilla-javascript",
+        "webview2",
+        "windows"
+      ],
+      "created_at": "2026-10-26T06:55:57Z",
+      "updated_at": "2026-10-30T11:21:24Z",
+      "pushed_at": "2026-10-26T06:56:11Z"
     },
     {
       "id": 1391635046,
@@ -10632,7 +10718,7 @@
       "description": "Filee alternative: NextFilee is a faster, lightweight, and fully offline drag-and-drop file converter.",
       "html_url": "https://github.com/giantbitmonitor/NextFilee",
       "homepage": null,
-      "stars": 52,
+      "stars": 53,
       "forks": 43,
       "language": null,
       "topics": [
@@ -10658,7 +10744,7 @@
         "videos"
       ],
       "created_at": "2026-10-26T23:55:34Z",
-      "updated_at": "2026-10-29T13:36:38Z",
+      "updated_at": "2026-10-30T07:48:51Z",
       "pushed_at": "2026-10-27T00:42:44Z"
     },
     {
@@ -10697,6 +10783,28 @@
       "created_at": "2026-10-15T17:13:48Z",
       "updated_at": "2026-10-19T06:21:04Z",
       "pushed_at": "2026-10-15T17:37:56Z"
+    },
+    {
+      "id": 1432689157,
+      "name": "yapanel-web",
+      "full_name": "dimap/yapanel-web",
+      "description": "Веб-панель для Яндекс Станций (Лайт 2, Мини 3, Мини 3 Про, Станция 2) с root-доступом по adb: плеер, будильник без интернета, заставка, подсветка, Bluetooth, графики, консоль",
+      "html_url": "https://github.com/dimap/yapanel-web",
+      "homepage": null,
+      "stars": 52,
+      "forks": 12,
+      "language": "Python",
+      "topics": [
+        "adb",
+        "alice",
+        "docker",
+        "quasar",
+        "web-panel",
+        "yandex-station"
+      ],
+      "created_at": "2026-10-24T23:51:21Z",
+      "updated_at": "2026-10-30T07:29:26Z",
+      "pushed_at": "2026-10-29T21:09:24Z"
     },
     {
       "id": 1379547345,
@@ -10791,26 +10899,34 @@
       "pushed_at": "2026-10-20T09:39:56Z"
     },
     {
-      "id": 1432689157,
-      "name": "yapanel-web",
-      "full_name": "dimap/yapanel-web",
-      "description": "Веб-панель для Яндекс Станций (Лайт 2, Мини 3, Мини 3 Про, Станция 2) с root-доступом по adb: плеер, будильник без интернета, заставка, подсветка, Bluetooth, графики, консоль",
-      "html_url": "https://github.com/dimap/yapanel-web",
-      "homepage": null,
+      "id": 1433923128,
+      "name": "vram-switcher",
+      "full_name": "xiaoxiao150/vram-switcher",
+      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
+      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
+      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
       "stars": 51,
-      "forks": 12,
+      "forks": 0,
       "language": "Python",
       "topics": [
-        "adb",
-        "alice",
-        "docker",
-        "quasar",
-        "web-panel",
-        "yandex-station"
+        "ai-companion",
+        "astrbot",
+        "astrbot-plugin",
+        "comfyui",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gpu",
+        "indextts",
+        "llama-cpp",
+        "python",
+        "tts",
+        "vram",
+        "windows"
       ],
-      "created_at": "2026-10-24T23:51:21Z",
-      "updated_at": "2026-10-30T03:43:16Z",
-      "pushed_at": "2026-10-29T21:09:24Z"
+      "created_at": "2026-10-26T05:00:40Z",
+      "updated_at": "2026-10-30T10:13:30Z",
+      "pushed_at": "2026-10-29T14:28:21Z"
     },
     {
       "id": 1393286718,
@@ -10927,34 +11043,33 @@
       "pushed_at": "2026-10-25T21:55:19Z"
     },
     {
-      "id": 1433923128,
-      "name": "vram-switcher",
-      "full_name": "xiaoxiao150/vram-switcher",
-      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
-      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
-      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
+      "id": 1437443646,
+      "name": "ps2-native-recomp",
+      "full_name": "exoteric33/ps2-native-recomp",
+      "description": "Turns a PS2 disc image into a native PC program by static recompilation; builds on ps2-web-recomp (MIT). Work in progress. Bring your own disc.",
+      "html_url": "https://github.com/exoteric33/ps2-native-recomp",
+      "homepage": null,
       "stars": 50,
-      "forks": 0,
-      "language": "Python",
+      "forks": 5,
+      "language": "C++",
       "topics": [
-        "ai-companion",
-        "astrbot",
-        "astrbot-plugin",
-        "comfyui",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "gpu",
-        "indextts",
-        "llama-cpp",
-        "python",
-        "tts",
-        "vram",
+        "cpp",
+        "emulation",
+        "linux",
+        "playstation-2",
+        "playstation2",
+        "ps2",
+        "recompilation",
+        "recompiler",
+        "retro-gaming",
+        "static-recompilation",
+        "webgpu",
+        "wgpu",
         "windows"
       ],
-      "created_at": "2026-10-26T05:00:40Z",
-      "updated_at": "2026-10-30T03:04:26Z",
-      "pushed_at": "2026-10-29T14:28:21Z"
+      "created_at": "2026-10-28T17:55:58Z",
+      "updated_at": "2026-10-30T11:58:16Z",
+      "pushed_at": "2026-10-29T21:26:55Z"
     },
     {
       "id": 1392926487,
@@ -11021,6 +11136,38 @@
       "created_at": "2026-10-12T09:12:03Z",
       "updated_at": "2026-10-18T20:10:09Z",
       "pushed_at": "2026-10-18T20:10:05Z"
+    },
+    {
+      "id": 1438384801,
+      "name": "probably-stolen-water-purifier-troubleshooting",
+      "full_name": "RadiusCommissioner6/probably-stolen-water-purifier-troubleshooting",
+      "description": "Probably Stolen Water Purifier guide: understand the revised 1.0.0.2 logic, filters, water quality and purification workflow.",
+      "html_url": "https://github.com/RadiusCommissioner6/probably-stolen-water-purifier-troubleshooting",
+      "homepage": null,
+      "stars": 49,
+      "forks": 12,
+      "language": null,
+      "topics": [
+        "crafting",
+        "game-guide",
+        "game-mechanics",
+        "gameplay-guide",
+        "patch-notes",
+        "pc-gaming",
+        "probably-stolen",
+        "purification",
+        "shopkeeper-sim",
+        "simulation-game",
+        "steam-games",
+        "troubleshooting",
+        "water-filter",
+        "water-purifier",
+        "water-quality",
+        "water-system"
+      ],
+      "created_at": "2026-10-29T12:23:49Z",
+      "updated_at": "2026-10-29T12:26:52Z",
+      "pushed_at": "2026-10-29T12:24:01Z"
     },
     {
       "id": 1412855958,
@@ -12298,6 +12445,34 @@
       "pushed_at": "2026-10-12T23:24:48Z"
     },
     {
+      "id": 1435511404,
+      "name": "soulgent",
+      "full_name": "Ericcc0321/soulgent",
+      "description": "Give your agents a soul. Soulgent turns every Claude Code, Codex and WorkBuddy session on your Mac into a character you can see: who is working, who is done, who is waiting for you. Native macOS app + Soulgent App, a phone web app to reply from your iPhone.",
+      "html_url": "https://github.com/Ericcc0321/soulgent",
+      "homepage": null,
+      "stars": 34,
+      "forks": 2,
+      "language": "Swift",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "macos",
+        "menu-bar-app",
+        "multi-agent",
+        "productivity",
+        "pwa",
+        "swiftui",
+        "web-push"
+      ],
+      "created_at": "2026-10-27T09:25:47Z",
+      "updated_at": "2026-10-28T05:38:14Z",
+      "pushed_at": "2026-10-27T09:44:08Z"
+    },
+    {
       "id": 1377573287,
       "name": "jev-recall",
       "full_name": "samdotmak/jev-recall",
@@ -12387,6 +12562,26 @@
       "created_at": "2026-10-12T05:35:13Z",
       "updated_at": "2026-10-15T17:12:07Z",
       "pushed_at": "2026-10-15T17:12:03Z"
+    },
+    {
+      "id": 1434226284,
+      "name": "openwrt-luci-themes",
+      "full_name": "vistrocity/openwrt-luci-themes",
+      "description": "Custom themes for the OpenWrt LuCI web interface, with new ones every Friday. Install any of them on a router with one line.",
+      "html_url": "https://github.com/vistrocity/openwrt-luci-themes",
+      "homepage": null,
+      "stars": 33,
+      "forks": 0,
+      "language": "CSS",
+      "topics": [
+        "openwrt",
+        "router",
+        "theme",
+        "themes"
+      ],
+      "created_at": "2026-10-26T10:26:19Z",
+      "updated_at": "2026-10-30T07:44:53Z",
+      "pushed_at": "2026-10-30T07:57:22Z"
     },
     {
       "id": 1386746644,
@@ -13274,6 +13469,42 @@
       "pushed_at": "2026-10-26T20:26:26Z"
     },
     {
+      "id": 1434534275,
+      "name": "deepseek-v4.1-flash-1017-abliterated",
+      "full_name": "7API/deepseek-v4.1-flash-1017-abliterated",
+      "description": "DeepSeek V4.1 Flash 1017 Abliterated or Uncensored AI model — DeepSeek prompt, 34-file prompt collection, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, GLM and Kimi.",
+      "html_url": "https://github.com/7API/deepseek-v4.1-flash-1017-abliterated",
+      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=deepseek-v4.1-flash-1017-abliterated",
+      "stars": 28,
+      "forks": 7,
+      "language": null,
+      "topics": [
+        "abliterated",
+        "abliterated-models",
+        "ai-jailbreaks",
+        "anthropic-compatible",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-v4-1",
+        "deepseek-v4-1-abliterated",
+        "deepseek-v4-1-flash",
+        "deepseek-v4-1-flash-1017",
+        "deepseek-v4-1-flash-abliterated",
+        "deepseek-v4-1-flash-jailbreak",
+        "deepseek-v4-1-flash-uncensored",
+        "deepseek-v4-1-uncensored",
+        "jailbreak-prompts",
+        "llm-jailbreak",
+        "openai-compatible",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-model"
+      ],
+      "created_at": "2026-10-26T14:58:24Z",
+      "updated_at": "2026-10-30T08:59:27Z",
+      "pushed_at": "2026-10-26T15:18:35Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -13331,42 +13562,6 @@
       "created_at": "2026-10-04T04:48:55Z",
       "updated_at": "2026-10-06T15:33:16Z",
       "pushed_at": "2026-10-04T06:32:32Z"
-    },
-    {
-      "id": 1434534275,
-      "name": "deepseek-v4.1-flash-1017-abliterated",
-      "full_name": "7API/deepseek-v4.1-flash-1017-abliterated",
-      "description": "DeepSeek V4.1 Flash 1017 Abliterated or Uncensored AI model — DeepSeek prompt, 34-file prompt collection, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, GLM and Kimi.",
-      "html_url": "https://github.com/7API/deepseek-v4.1-flash-1017-abliterated",
-      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=deepseek-v4.1-flash-1017-abliterated",
-      "stars": 27,
-      "forks": 7,
-      "language": null,
-      "topics": [
-        "abliterated",
-        "abliterated-models",
-        "ai-jailbreaks",
-        "anthropic-compatible",
-        "deepseek",
-        "deepseek-ai",
-        "deepseek-v4-1",
-        "deepseek-v4-1-abliterated",
-        "deepseek-v4-1-flash",
-        "deepseek-v4-1-flash-1017",
-        "deepseek-v4-1-flash-abliterated",
-        "deepseek-v4-1-flash-jailbreak",
-        "deepseek-v4-1-flash-uncensored",
-        "deepseek-v4-1-uncensored",
-        "jailbreak-prompts",
-        "llm-jailbreak",
-        "openai-compatible",
-        "uncensored",
-        "uncensored-ai",
-        "uncensored-ai-model"
-      ],
-      "created_at": "2026-10-26T14:58:24Z",
-      "updated_at": "2026-10-29T15:45:13Z",
-      "pushed_at": "2026-10-26T15:18:35Z"
     },
     {
       "id": 1387743071,
@@ -13712,6 +13907,31 @@
       "pushed_at": "2026-10-16T10:10:05Z"
     },
     {
+      "id": 1432461102,
+      "name": "echopod",
+      "full_name": "BasilSkyWalk/echopod",
+      "description": "Replacement firmware for the Snowsky Echo Mini 8 GB music player: Cover Flow, a library built on the player, favorites, playlists and Up Next",
+      "html_url": "https://github.com/BasilSkyWalk/echopod",
+      "homepage": null,
+      "stars": 24,
+      "forks": 2,
+      "language": "C",
+      "topics": [
+        "cover-flow",
+        "custom-firmware",
+        "dap",
+        "echo-mini",
+        "fiio",
+        "firmware",
+        "music-player",
+        "rockchip",
+        "snowsky"
+      ],
+      "created_at": "2026-10-24T18:09:34Z",
+      "updated_at": "2026-10-30T09:21:37Z",
+      "pushed_at": "2026-10-29T17:05:53Z"
+    },
+    {
       "id": 1378959833,
       "name": "jev-design-test",
       "full_name": "bhaiG-de/jev-design-test",
@@ -13800,31 +14020,6 @@
       "created_at": "2026-10-25T09:13:01Z",
       "updated_at": "2026-10-29T17:46:34Z",
       "pushed_at": "2026-10-26T22:35:07Z"
-    },
-    {
-      "id": 1432461102,
-      "name": "echopod",
-      "full_name": "BasilSkyWalk/echopod",
-      "description": "Replacement firmware for the Snowsky Echo Mini 8 GB music player: Cover Flow, a library built on the player, favorites, playlists and Up Next",
-      "html_url": "https://github.com/BasilSkyWalk/echopod",
-      "homepage": null,
-      "stars": 23,
-      "forks": 2,
-      "language": "C",
-      "topics": [
-        "cover-flow",
-        "custom-firmware",
-        "dap",
-        "echo-mini",
-        "fiio",
-        "firmware",
-        "music-player",
-        "rockchip",
-        "snowsky"
-      ],
-      "created_at": "2026-10-24T18:09:34Z",
-      "updated_at": "2026-10-29T15:49:03Z",
-      "pushed_at": "2026-10-29T17:05:53Z"
     },
     {
       "id": 1413789740,
@@ -14376,6 +14571,38 @@
       "pushed_at": "2026-10-15T22:18:12Z"
     },
     {
+      "id": 1433544752,
+      "name": "Kinoloom",
+      "full_name": "harlixay7/Kinoloom",
+      "description": "A local AI film studio for one Windows PC with an 8 GB NVIDIA card. Write the story, cast the people and render the shots with LTX-2.5, MiniMax H3 (bring your own weights) and Qwen-Image 2.1. It joins short clips into long takes inside the model. Built on ComfyUI.",
+      "html_url": "https://github.com/harlixay7/Kinoloom",
+      "homepage": null,
+      "stars": 19,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "comfyui",
+        "diffusion-models",
+        "fastapi",
+        "filmmaking",
+        "generative-ai",
+        "image-to-video",
+        "local-ai",
+        "low-vram",
+        "ltx-video",
+        "minimax",
+        "python",
+        "qwen-image",
+        "text-to-video",
+        "video-generation",
+        "windows"
+      ],
+      "created_at": "2026-10-25T19:14:21Z",
+      "updated_at": "2026-10-30T04:06:28Z",
+      "pushed_at": "2026-10-29T12:12:03Z"
+    },
+    {
       "id": 1387292246,
       "name": "ClickMyPayload",
       "full_name": "shaheeryasirofficial/ClickMyPayload",
@@ -14786,12 +15013,63 @@
       "html_url": "https://github.com/Ping-2o/CVE-2026-112611-cg-shading",
       "homepage": null,
       "stars": 16,
-      "forks": 3,
+      "forks": 4,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-27T09:46:42Z",
       "updated_at": "2026-10-29T04:28:00Z",
       "pushed_at": "2026-10-27T09:46:48Z"
+    },
+    {
+      "id": 1437416208,
+      "name": "pxxl-xray-ws-tls-skill",
+      "full_name": "free-dam-man/pxxl-xray-ws-tls-skill",
+      "description": "Pxxl Free zero-card VLESS+WS+TLS one-line skill (Node wrapper, MIT)",
+      "html_url": "https://github.com/free-dam-man/pxxl-xray-ws-tls-skill",
+      "homepage": null,
+      "stars": 16,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-28T17:31:04Z",
+      "updated_at": "2026-10-29T22:51:45Z",
+      "pushed_at": "2026-10-28T17:31:15Z"
+    },
+    {
+      "id": 1433339138,
+      "name": "moonreel",
+      "full_name": "siri2moon/moonreel",
+      "description": "Open-source Meta Muse video generator: no Muse video API yet, so MoonReel automates muse.ai for you. One idea in, a scripted, subtitled short video out for TikTok, Reels, Shorts and YouTube.",
+      "html_url": "https://github.com/siri2moon/moonreel",
+      "homepage": "https://siri2moon.com/posts/meta-muse-video-api-open-source-moonreel",
+      "stars": 16,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-video",
+        "ai-video-generator",
+        "faceless-video",
+        "ffmpeg",
+        "generative-ai",
+        "image-to-video",
+        "instagram-reels",
+        "meta-muse",
+        "muse-ai",
+        "muse-api",
+        "muse-video-api",
+        "muse2api",
+        "nextjs",
+        "open-source",
+        "short-video",
+        "text-to-video",
+        "tiktok",
+        "video-automation",
+        "video-generation",
+        "youtube-shorts"
+      ],
+      "created_at": "2026-10-25T15:24:44Z",
+      "updated_at": "2026-10-30T11:30:03Z",
+      "pushed_at": "2026-10-30T11:30:20Z"
     },
     {
       "id": 1430113995,
@@ -15028,36 +15306,19 @@
       "pushed_at": "2026-10-26T13:23:58Z"
     },
     {
-      "id": 1433544752,
-      "name": "Kinoloom",
-      "full_name": "harlixay7/Kinoloom",
-      "description": "A local AI film studio for one Windows PC with an 8 GB NVIDIA card. Write the story, cast the people and render the shots with LTX-2.5, MiniMax H3 (bring your own weights) and Qwen-Image 2.1. It joins short clips into long takes inside the model. Built on ComfyUI.",
-      "html_url": "https://github.com/harlixay7/Kinoloom",
+      "id": 1438445974,
+      "name": "meme_sound_extension",
+      "full_name": "Davio-2002/meme_sound_extension",
+      "description": "",
+      "html_url": "https://github.com/Davio-2002/meme_sound_extension",
       "homepage": null,
       "stars": 15,
-      "forks": 2,
-      "language": "Python",
-      "topics": [
-        "ai-video",
-        "comfyui",
-        "diffusion-models",
-        "fastapi",
-        "filmmaking",
-        "generative-ai",
-        "image-to-video",
-        "local-ai",
-        "low-vram",
-        "ltx-video",
-        "minimax",
-        "python",
-        "qwen-image",
-        "text-to-video",
-        "video-generation",
-        "windows"
-      ],
-      "created_at": "2026-10-25T19:14:21Z",
-      "updated_at": "2026-10-28T06:54:40Z",
-      "pushed_at": "2026-10-25T21:15:03Z"
+      "forks": 0,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-29T13:17:24Z",
+      "updated_at": "2026-10-30T06:51:02Z",
+      "pushed_at": "2026-10-29T22:01:12Z"
     },
     {
       "id": 1379723846,
