@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/10/31 12:48:51",
-  "total_repos": 753,
+  "fetched_at": "2026/10/31 19:55:30",
+  "total_repos": 767,
   "repos": [
     {
       "id": 1425658028,
@@ -370,6 +370,21 @@
       "pushed_at": "2026-10-27T06:48:29Z"
     },
     {
+      "id": 1433269248,
+      "name": "OunceCake",
+      "full_name": "misshexa66/OunceCake",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "html_url": "https://github.com/misshexa66/OunceCake",
+      "homepage": null,
+      "stars": 546,
+      "forks": 64,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-25T14:12:41Z",
+      "updated_at": "2026-10-31T09:47:27Z",
+      "pushed_at": "2026-10-25T23:03:01Z"
+    },
+    {
       "id": 1412022658,
       "name": "awesome-reverse-engineering",
       "full_name": "morluto/awesome-reverse-engineering",
@@ -404,21 +419,6 @@
       "created_at": "2026-10-09T14:58:20Z",
       "updated_at": "2026-10-15T15:48:25Z",
       "pushed_at": "2026-10-15T02:18:56Z"
-    },
-    {
-      "id": 1433269248,
-      "name": "OunceCake",
-      "full_name": "misshexa66/OunceCake",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "html_url": "https://github.com/misshexa66/OunceCake",
-      "homepage": null,
-      "stars": 543,
-      "forks": 63,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-25T14:12:41Z",
-      "updated_at": "2026-10-31T04:36:57Z",
-      "pushed_at": "2026-10-25T23:03:01Z"
     },
     {
       "id": 1377938409,
@@ -471,6 +471,34 @@
       "created_at": "2026-10-07T01:07:13Z",
       "updated_at": "2026-10-13T18:26:14Z",
       "pushed_at": "2026-10-07T01:07:17Z"
+    },
+    {
+      "id": 1435672472,
+      "name": "floorplan",
+      "full_name": "haydenschmitty/floorplan",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "html_url": "https://github.com/haydenschmitty/floorplan",
+      "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
+      "stars": 515,
+      "forks": 43,
+      "language": "JavaScript",
+      "topics": [
+        "ai-coding",
+        "architecture-diagram",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "codebase-visualization",
+        "codex",
+        "codex-plugin",
+        "developer-tools",
+        "onboarding",
+        "openai",
+        "vibe-coding"
+      ],
+      "created_at": "2026-10-27T12:03:01Z",
+      "updated_at": "2026-10-31T11:50:21Z",
+      "pushed_at": "2026-10-31T11:10:57Z"
     },
     {
       "id": 1428519987,
@@ -608,34 +636,6 @@
       "created_at": "2026-10-12T07:11:01Z",
       "updated_at": "2026-10-12T20:33:47Z",
       "pushed_at": "2026-10-12T13:41:04Z"
-    },
-    {
-      "id": 1435672472,
-      "name": "floorplan",
-      "full_name": "haydenschmitty/floorplan",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "html_url": "https://github.com/haydenschmitty/floorplan",
-      "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
-      "stars": 494,
-      "forks": 42,
-      "language": "JavaScript",
-      "topics": [
-        "ai-coding",
-        "architecture-diagram",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "codebase-visualization",
-        "codex",
-        "codex-plugin",
-        "developer-tools",
-        "onboarding",
-        "openai",
-        "vibe-coding"
-      ],
-      "created_at": "2026-10-27T12:03:01Z",
-      "updated_at": "2026-10-31T04:38:56Z",
-      "pushed_at": "2026-10-30T18:44:56Z"
     },
     {
       "id": 1407997858,
@@ -1458,38 +1458,14 @@
       "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
-      "id": 1438540053,
-      "name": "Mika",
-      "full_name": "wangzan101/Mika",
-      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "html_url": "https://github.com/wangzan101/Mika",
-      "homepage": null,
-      "stars": 352,
-      "forks": 57,
-      "language": "Kotlin",
-      "topics": [
-        "accessibility",
-        "ai-agent",
-        "android",
-        "automation",
-        "jetpack-compose",
-        "kotlin",
-        "llm",
-        "mobile-agent"
-      ],
-      "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-10-30T12:18:54Z",
-      "pushed_at": "2026-10-30T11:04:26Z"
-    },
-    {
       "id": 1436414244,
       "name": "watson-AI-osint-all-in-one",
       "full_name": "vaishantsah/watson-AI-osint-all-in-one",
       "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
       "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
       "homepage": "https://watsonfind.icu",
-      "stars": 352,
-      "forks": 20,
+      "stars": 353,
+      "forks": 22,
       "language": "TypeScript",
       "topics": [
         "cybersecurity",
@@ -1514,8 +1490,32 @@
         "windows"
       ],
       "created_at": "2026-10-28T00:09:33Z",
-      "updated_at": "2026-10-31T00:04:31Z",
+      "updated_at": "2026-10-31T05:44:53Z",
       "pushed_at": "2026-10-29T00:32:33Z"
+    },
+    {
+      "id": 1438540053,
+      "name": "Mika",
+      "full_name": "wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "html_url": "https://github.com/wangzan101/Mika",
+      "homepage": null,
+      "stars": 352,
+      "forks": 57,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "created_at": "2026-10-29T14:34:07Z",
+      "updated_at": "2026-10-30T12:18:54Z",
+      "pushed_at": "2026-10-30T11:04:26Z"
     },
     {
       "id": 1412143785,
@@ -1822,6 +1822,32 @@
       "pushed_at": "2026-10-13T16:21:53Z"
     },
     {
+      "id": 1434973188,
+      "name": "dsh-video-storyboard",
+      "full_name": "SAOS-3624/dsh-video-storyboard",
+      "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.",
+      "html_url": "https://github.com/SAOS-3624/dsh-video-storyboard",
+      "homepage": "https://github.com/SAOS-3624/dsh-video-storyboard",
+      "stars": 303,
+      "forks": 21,
+      "language": "JavaScript",
+      "topics": [
+        "asr",
+        "contact-sheet",
+        "deepseek-harness",
+        "dsh-plugin",
+        "ffmpeg",
+        "llm-agent",
+        "multimodal",
+        "storyboard",
+        "video",
+        "video-understanding"
+      ],
+      "created_at": "2026-10-26T22:00:04Z",
+      "updated_at": "2026-10-31T11:19:40Z",
+      "pushed_at": "2026-10-31T06:10:25Z"
+    },
+    {
       "id": 1425296336,
       "name": "ascii-magic-art",
       "full_name": "kailashsr38/ascii-magic-art",
@@ -1929,7 +1955,7 @@
       "html_url": "https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
       "homepage": null,
       "stars": 300,
-      "forks": 24,
+      "forks": 62,
       "language": "Python",
       "topics": [
         "2026",
@@ -1943,8 +1969,31 @@
         "session-manager"
       ],
       "created_at": "2026-10-31T02:54:13Z",
-      "updated_at": "2026-10-31T04:46:00Z",
+      "updated_at": "2026-10-31T11:07:20Z",
       "pushed_at": "2026-10-31T02:54:41Z"
+    },
+    {
+      "id": 1440783616,
+      "name": "Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+      "full_name": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+      "description": "Advanced Bunny Hop script with smooth auto-bhop and movement assistance. Fully configurable, clean interface, easy setup. Regularly updated.",
+      "html_url": "https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+      "homepage": null,
+      "stars": 300,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "2026",
+        "bhop",
+        "bunny-hop",
+        "configuration",
+        "movement-script",
+        "open-source",
+        "script"
+      ],
+      "created_at": "2026-10-31T11:19:19Z",
+      "updated_at": "2026-10-31T11:54:05Z",
+      "pushed_at": "2026-10-31T11:19:37Z"
     },
     {
       "id": 1436420580,
@@ -1953,13 +2002,13 @@
       "description": "A lightweight system to automate posting to all of your socials from one dashboard",
       "html_url": "https://github.com/brainstormity/LightPost",
       "homepage": null,
-      "stars": 294,
+      "stars": 299,
       "forks": 62,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T00:19:12Z",
-      "updated_at": "2026-10-31T03:37:06Z",
-      "pushed_at": "2026-10-28T16:06:08Z"
+      "updated_at": "2026-10-31T11:20:10Z",
+      "pushed_at": "2026-10-31T11:12:44Z"
     },
     {
       "id": 1406229181,
@@ -2026,32 +2075,6 @@
       "pushed_at": "2026-10-25T23:24:13Z"
     },
     {
-      "id": 1434973188,
-      "name": "dsh-video-storyboard",
-      "full_name": "SAOS-3624/dsh-video-storyboard",
-      "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.",
-      "html_url": "https://github.com/SAOS-3624/dsh-video-storyboard",
-      "homepage": "https://github.com/SAOS-3624/dsh-video-storyboard",
-      "stars": 288,
-      "forks": 20,
-      "language": "JavaScript",
-      "topics": [
-        "asr",
-        "contact-sheet",
-        "deepseek-harness",
-        "dsh-plugin",
-        "ffmpeg",
-        "llm-agent",
-        "multimodal",
-        "storyboard",
-        "video",
-        "video-understanding"
-      ],
-      "created_at": "2026-10-26T22:00:04Z",
-      "updated_at": "2026-10-31T04:46:23Z",
-      "pushed_at": "2026-10-30T19:02:14Z"
-    },
-    {
       "id": 1415636770,
       "name": "Grand-V",
       "full_name": "SebasKitten/Grand-V",
@@ -2067,6 +2090,29 @@
       "created_at": "2026-10-12T13:24:03Z",
       "updated_at": "2026-10-18T13:35:48Z",
       "pushed_at": "2026-10-16T22:12:58Z"
+    },
+    {
+      "id": 1439885901,
+      "name": "sapper-v2",
+      "full_name": "N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "html_url": "https://github.com/N1nEmAn/sapper-v2",
+      "homepage": null,
+      "stars": 284,
+      "forks": 256,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm",
+        "multi-agent",
+        "pentest"
+      ],
+      "created_at": "2026-10-30T15:12:35Z",
+      "updated_at": "2026-10-31T11:51:01Z",
+      "pushed_at": "2026-10-30T15:13:01Z"
     },
     {
       "id": 1375594818,
@@ -2123,8 +2169,8 @@
         "duckdb"
       ],
       "created_at": "2026-10-25T07:57:16Z",
-      "updated_at": "2026-10-31T03:20:31Z",
-      "pushed_at": "2026-10-30T22:35:12Z"
+      "updated_at": "2026-10-31T11:36:02Z",
+      "pushed_at": "2026-10-31T11:43:57Z"
     },
     {
       "id": 1425227613,
@@ -3186,6 +3232,78 @@
       "pushed_at": "2026-10-16T22:07:43Z"
     },
     {
+      "id": 1440613136,
+      "name": "CCleaner-Pro",
+      "full_name": "CatbirdStaple/CCleaner-Pro",
+      "description": "Professional Ccleaner Pro 2026 full working installer. Ready-to-run desktop configuration with all tools pre-activated.",
+      "html_url": "https://github.com/CatbirdStaple/CCleaner-Pro",
+      "homepage": null,
+      "stars": 201,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "ccleaner-advanced-features",
+        "ccleaner-computer-maintenance",
+        "ccleaner-cracked-2026",
+        "ccleaner-free-2026",
+        "ccleaner-plus-2026",
+        "ccleaner-pro-automation-support",
+        "ccleaner-pro-for-windows",
+        "ccleaner-pro-junk-file-cleaner",
+        "ccleaner-pro-pc-optimization",
+        "ccleaner-pro-registry-cleanup",
+        "ccleaner-pro-storage-management",
+        "ccleaner-pro-system-performance",
+        "ccleaner-professional-pc-optimizer-full",
+        "ccleaner7",
+        "cleaner-script",
+        "developer-tools",
+        "open-source",
+        "python",
+        "software-engineering",
+        "temporary-file-removal-windows"
+      ],
+      "created_at": "2026-10-31T07:21:19Z",
+      "updated_at": "2026-10-31T11:51:02Z",
+      "pushed_at": "2026-10-31T07:21:25Z"
+    },
+    {
+      "id": 1440613074,
+      "name": "CapCut-for-Windows",
+      "full_name": "breezeswiftbasin/CapCut-for-Windows",
+      "description": "Capcut For Windows 2023: Full working installer with advanced video editing, screen recording, and VFX tools. Ready-to-use desktop application.",
+      "html_url": "https://github.com/breezeswiftbasin/CapCut-for-Windows",
+      "homepage": null,
+      "stars": 201,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "capcut-activated",
+        "capcut-crack-2026",
+        "capcut-cracked-2026",
+        "capcut-exe",
+        "capcut-for-free",
+        "capcut-free-2026",
+        "capcut-tiktok",
+        "capcut-videocreator",
+        "capcut-videoeditor",
+        "capcut-windows10",
+        "capcut-windows11",
+        "developer-tools",
+        "effectrs-library",
+        "open-source",
+        "premium-enabler",
+        "python",
+        "scripts",
+        "software-engineering",
+        "video-capcut"
+      ],
+      "created_at": "2026-10-31T07:21:14Z",
+      "updated_at": "2026-10-31T11:50:00Z",
+      "pushed_at": "2026-10-31T07:21:20Z"
+    },
+    {
       "id": 1405554378,
       "name": "Autodesk-CFD",
       "full_name": "fuchsiaravengrade/Autodesk-CFD",
@@ -3308,6 +3426,98 @@
       "pushed_at": "2026-10-29T07:22:49Z"
     },
     {
+      "id": 1440612598,
+      "name": "Autodesk-CFD",
+      "full_name": "Vanquisherplubegin/Autodesk-CFD",
+      "description": "Autodesk Cfd 2026: Complete standalone setup with all tools ready to run.",
+      "html_url": "https://github.com/Vanquisherplubegin/Autodesk-CFD",
+      "homepage": null,
+      "stars": 200,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "cfd-simulation",
+        "cfd-toolbox",
+        "cfdtool-toolbox",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:20:38Z",
+      "updated_at": "2026-10-31T11:32:15Z",
+      "pushed_at": "2026-10-31T07:20:44Z"
+    },
+    {
+      "id": 1440612573,
+      "name": "AutoCad",
+      "full_name": "ImageTellerDart96/AutoCad",
+      "description": "Autocad 2026: Full working installer with all tools and features activated, ready for professional desktop use.",
+      "html_url": "https://github.com/ImageTellerDart96/AutoCad",
+      "homepage": null,
+      "stars": 200,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "autocad",
+        "autocad-for-win",
+        "autocad-for-windows-2026",
+        "autocad-for-windows-crack",
+        "autocad-for-windows-download",
+        "autocad-for-windows-free",
+        "automation",
+        "cad-automation",
+        "desktop",
+        "developer-tools",
+        "fsharp-interactive",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:20:36Z",
+      "updated_at": "2026-10-31T11:30:00Z",
+      "pushed_at": "2026-10-31T07:20:41Z"
+    },
+    {
+      "id": 1440612318,
+      "name": "Ashampoo-Uninstaller",
+      "full_name": "ChauffeurLast/Ashampoo-Uninstaller",
+      "description": "Ashampoo Uninstaller 2026: Complete standalone setup, ready-to-run desktop installation with all tools and features pre-activated.",
+      "html_url": "https://github.com/ChauffeurLast/Ashampoo-Uninstaller",
+      "homepage": null,
+      "stars": 200,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "ashampoo-gmbh",
+        "ashampoo-uninstaller-install-setup-windows-2026",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "uninstall-utility",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:20:13Z",
+      "updated_at": "2026-10-31T11:27:45Z",
+      "pushed_at": "2026-10-31T07:20:20Z"
+    },
+    {
       "id": 1437373656,
       "name": "SketchUp-Pro",
       "full_name": "ScalarGrouse/SketchUp-Pro",
@@ -3334,6 +3544,41 @@
       "created_at": "2026-10-28T16:53:42Z",
       "updated_at": "2026-10-28T20:18:44Z",
       "pushed_at": "2026-10-28T16:53:49Z"
+    },
+    {
+      "id": 1440613271,
+      "name": "Cellebrite-UFED",
+      "full_name": "KnotSteersmanAtrium/Cellebrite-UFED",
+      "description": "Complete standalone setup for Cellebrite UFED 2026, ready to run with full hardware validation and secure data extraction tools.",
+      "html_url": "https://github.com/KnotSteersmanAtrium/Cellebrite-UFED",
+      "homepage": null,
+      "stars": 199,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "cellebrite",
+        "cellebrite-2026",
+        "cellebrite-crack",
+        "cellebrite-free",
+        "cellebrite-setup",
+        "cellebrite-ufed",
+        "cellebrite-ufed-2026",
+        "cellebrite-ufed-cracked",
+        "cellebrite-ufed-free",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:21:30Z",
+      "updated_at": "2026-10-31T11:54:09Z",
+      "pushed_at": "2026-10-31T07:21:36Z"
     },
     {
       "id": 1411918476,
@@ -3490,12 +3735,12 @@
       "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
       "html_url": "https://github.com/win4r/video-director",
       "homepage": null,
-      "stars": 194,
+      "stars": 195,
       "forks": 15,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T03:35:27Z",
-      "updated_at": "2026-10-31T02:26:08Z",
+      "updated_at": "2026-10-31T10:20:22Z",
       "pushed_at": "2026-10-30T06:04:14Z"
     },
     {
@@ -3505,12 +3750,12 @@
       "description": "An AI-powered interactive found phone story framework. Create your own playable phone stories with natural language.",
       "html_url": "https://github.com/keoyyo85/FoundPhone-Studio",
       "homepage": "https://keoyyo85.github.io/FoundPhone-Studio/",
-      "stars": 191,
-      "forks": 249,
+      "stars": 194,
+      "forks": 253,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-10-25T03:29:02Z",
-      "updated_at": "2026-10-31T03:41:18Z",
+      "updated_at": "2026-10-31T09:25:29Z",
       "pushed_at": "2026-10-25T04:32:57Z"
     },
     {
@@ -3603,29 +3848,6 @@
       "pushed_at": "2026-09-25T16:10:39Z"
     },
     {
-      "id": 1439885901,
-      "name": "sapper-v2",
-      "full_name": "N1nEmAn/sapper-v2",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "html_url": "https://github.com/N1nEmAn/sapper-v2",
-      "homepage": null,
-      "stars": 189,
-      "forks": 165,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "autonomous-agents",
-        "claude-code",
-        "ctf",
-        "llm",
-        "multi-agent",
-        "pentest"
-      ],
-      "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-10-31T04:45:28Z",
-      "pushed_at": "2026-10-30T15:13:01Z"
-    },
-    {
       "id": 1415337709,
       "name": "lucian-uxui-prompt",
       "full_name": "Seokwoooo/lucian-uxui-prompt",
@@ -3645,6 +3867,21 @@
       "created_at": "2026-10-12T09:01:47Z",
       "updated_at": "2026-10-18T20:20:12Z",
       "pushed_at": "2026-10-16T09:26:34Z"
+    },
+    {
+      "id": 1437714204,
+      "name": "atlas-of-physics",
+      "full_name": "nathanliow/atlas-of-physics",
+      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
+      "html_url": "https://github.com/nathanliow/atlas-of-physics",
+      "homepage": "https://atlas-of-physics.vercel.app",
+      "stars": 187,
+      "forks": 49,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-28T22:54:22Z",
+      "updated_at": "2026-10-31T11:20:06Z",
+      "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
       "id": 1417980343,
@@ -3700,6 +3937,38 @@
       "created_at": "2026-09-25T11:48:27Z",
       "updated_at": "2026-10-01T08:18:08Z",
       "pushed_at": "2026-09-30T23:21:04Z"
+    },
+    {
+      "id": 1440613357,
+      "name": "Clion",
+      "full_name": "Creekkreswitch/Clion",
+      "description": "Clion 2026: Full working installer with enhanced performance and new debugging tools. Ready to run on your desktop.",
+      "html_url": "https://github.com/Creekkreswitch/Clion",
+      "homepage": null,
+      "stars": 183,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "clion-2026",
+        "clion-download-windows",
+        "cmake-ide",
+        "cpp-ide",
+        "desktop",
+        "developer-tools",
+        "jetbrains-clion",
+        "jetbrains-clion-install-setup-2026",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:21:36Z",
+      "updated_at": "2026-10-31T11:55:28Z",
+      "pushed_at": "2026-10-31T07:21:42Z"
     },
     {
       "id": 1415164610,
@@ -3853,6 +4122,39 @@
       "pushed_at": "2026-10-26T19:59:33Z"
     },
     {
+      "id": 1437812726,
+      "name": "shisei",
+      "full_name": "wquguru/shisei",
+      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+      "html_url": "https://github.com/wquguru/shisei",
+      "homepage": "https://shisei.indaloop.app",
+      "stars": 175,
+      "forks": 47,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "art-reference",
+        "cc0",
+        "comfyui",
+        "controlnet",
+        "dataset",
+        "drawing-reference",
+        "figure-drawing",
+        "line-art",
+        "mannequin",
+        "midjourney",
+        "multilingual",
+        "nano-banana",
+        "pose-reference",
+        "reference-images",
+        "stable-diffusion"
+      ],
+      "created_at": "2026-10-29T01:23:06Z",
+      "updated_at": "2026-10-31T11:23:50Z",
+      "pushed_at": "2026-10-30T15:35:17Z"
+    },
+    {
       "id": 1415917854,
       "name": "SlideShow-Video-Maker",
       "full_name": "HighwayGeneralEngine/SlideShow-Video-Maker",
@@ -3985,21 +4287,6 @@
       "created_at": "2026-10-01T18:39:44Z",
       "updated_at": "2026-10-07T14:17:12Z",
       "pushed_at": "2026-10-05T18:50:02Z"
-    },
-    {
-      "id": 1437714204,
-      "name": "atlas-of-physics",
-      "full_name": "nathanliow/atlas-of-physics",
-      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
-      "html_url": "https://github.com/nathanliow/atlas-of-physics",
-      "homepage": "https://atlas-of-physics.vercel.app",
-      "stars": 166,
-      "forks": 43,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-28T22:54:22Z",
-      "updated_at": "2026-10-31T04:42:49Z",
-      "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
       "id": 1420250493,
@@ -4202,39 +4489,6 @@
       "created_at": "2026-10-20T16:38:05Z",
       "updated_at": "2026-10-26T14:30:14Z",
       "pushed_at": "2026-10-25T05:32:25Z"
-    },
-    {
-      "id": 1437812726,
-      "name": "shisei",
-      "full_name": "wquguru/shisei",
-      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
-      "html_url": "https://github.com/wquguru/shisei",
-      "homepage": "https://shisei.indaloop.app",
-      "stars": 160,
-      "forks": 46,
-      "language": "Python",
-      "topics": [
-        "ai-art",
-        "ai-image-generation",
-        "art-reference",
-        "cc0",
-        "comfyui",
-        "controlnet",
-        "dataset",
-        "drawing-reference",
-        "figure-drawing",
-        "line-art",
-        "mannequin",
-        "midjourney",
-        "multilingual",
-        "nano-banana",
-        "pose-reference",
-        "reference-images",
-        "stable-diffusion"
-      ],
-      "created_at": "2026-10-29T01:23:06Z",
-      "updated_at": "2026-10-31T04:00:51Z",
-      "pushed_at": "2026-10-30T15:35:17Z"
     },
     {
       "id": 1432640160,
@@ -6438,6 +6692,21 @@
       "pushed_at": "2026-10-24T04:40:56Z"
     },
     {
+      "id": 1433107802,
+      "name": "ComfyUI-Local-Infinite-Canvas",
+      "full_name": "1314521gjy/ComfyUI-Local-Infinite-Canvas",
+      "description": "ComfyUI-本地无限画布：本地 Infinite Canvas × ComfyUI 集成（基于 basketikun/infinite-canvas, MIT）",
+      "html_url": "https://github.com/1314521gjy/ComfyUI-Local-Infinite-Canvas",
+      "homepage": null,
+      "stars": 107,
+      "forks": 19,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-25T11:09:22Z",
+      "updated_at": "2026-10-31T11:13:11Z",
+      "pushed_at": "2026-10-30T14:58:33Z"
+    },
+    {
       "id": 1377007152,
       "name": "ritridata",
       "full_name": "reco-tools/ritridata",
@@ -6537,6 +6806,21 @@
       "created_at": "2026-10-19T12:38:45Z",
       "updated_at": "2026-10-19T13:00:57Z",
       "pushed_at": "2026-10-19T12:38:51Z"
+    },
+    {
+      "id": 1434781902,
+      "name": "Blue-Knight-Proxy-BotHosting",
+      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
+      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "homepage": null,
+      "stars": 105,
+      "forks": 175,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-26T18:31:20Z",
+      "updated_at": "2026-10-31T11:38:25Z",
+      "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
       "id": 1387522551,
@@ -6660,6 +6944,35 @@
       "pushed_at": "2026-10-20T08:09:56Z"
     },
     {
+      "id": 1440616650,
+      "name": "Robux-Generator",
+      "full_name": "KnotCicadaSpout/Robux-Generator",
+      "description": "Robux Generator 2026: Complete standalone setup with full working installer, ready to run on your desktop.",
+      "html_url": "https://github.com/KnotCicadaSpout/Robux-Generator",
+      "homepage": null,
+      "stars": 104,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "rbxdev",
+        "robux",
+        "robux-generator",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:26:14Z",
+      "updated_at": "2026-10-31T10:40:32Z",
+      "pushed_at": "2026-10-31T07:26:20Z"
+    },
+    {
       "id": 1390845863,
       "name": "Refract",
       "full_name": "MIXIDtheSilly/Refract",
@@ -6673,21 +6986,6 @@
       "created_at": "2026-09-27T13:05:42Z",
       "updated_at": "2026-10-03T14:52:18Z",
       "pushed_at": "2026-10-03T14:39:31Z"
-    },
-    {
-      "id": 1433107802,
-      "name": "ComfyUI-Local-Infinite-Canvas",
-      "full_name": "1314521gjy/ComfyUI-Local-Infinite-Canvas",
-      "description": "ComfyUI-本地无限画布：本地 Infinite Canvas × ComfyUI 集成（基于 basketikun/infinite-canvas, MIT）",
-      "html_url": "https://github.com/1314521gjy/ComfyUI-Local-Infinite-Canvas",
-      "homepage": null,
-      "stars": 103,
-      "forks": 18,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-25T11:09:22Z",
-      "updated_at": "2026-10-31T04:10:56Z",
-      "pushed_at": "2026-10-30T14:58:33Z"
     },
     {
       "id": 1377581532,
@@ -7316,6 +7614,140 @@
       "pushed_at": "2026-10-30T17:28:46Z"
     },
     {
+      "id": 1440616970,
+      "name": "SlideShow-Video-Maker",
+      "full_name": "BattalionAlchemist/SlideShow-Video-Maker",
+      "description": "Slideshow Video Maker 2026 - Full working installer, ready-to-run desktop edition with all features pre-activated.",
+      "html_url": "https://github.com/BattalionAlchemist/SlideShow-Video-Maker",
+      "homepage": null,
+      "stars": 100,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "beat-creator",
+        "beginner-daw",
+        "desktop",
+        "developer-tools",
+        "loop-music-maker",
+        "magix-free",
+        "magix-github",
+        "magix-music-maker",
+        "magix-setup",
+        "music-maker-premium",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:26:39Z",
+      "updated_at": "2026-10-31T10:52:10Z",
+      "pushed_at": "2026-10-31T07:26:46Z"
+    },
+    {
+      "id": 1440614459,
+      "name": "Flash-Crypto-Generator",
+      "full_name": "LusterLovebird/Flash-Crypto-Generator",
+      "description": "Flash Crypto Generator 2026: Full working installer with enhanced encryption algorithms and user-friendly interface.",
+      "html_url": "https://github.com/LusterLovebird/Flash-Crypto-Generator",
+      "homepage": null,
+      "stars": 100,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "bitcoin-transaction-tool",
+        "bnb-flash-software-2025",
+        "desktop",
+        "developer-tools",
+        "erc20-generator",
+        "exodus-sol-flasher",
+        "ledger-api",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:23:03Z",
+      "updated_at": "2026-10-31T09:30:32Z",
+      "pushed_at": "2026-10-31T07:23:10Z"
+    },
+    {
+      "id": 1440616849,
+      "name": "SeedPhraseGenerator",
+      "full_name": "QuakeAnemoneGaze/SeedPhraseGenerator",
+      "description": "Seedphrase Generator 2026: Full working installer, ready-to-run desktop utility for secure seed phrase management.",
+      "html_url": "https://github.com/QuakeAnemoneGaze/SeedPhraseGenerator",
+      "homepage": null,
+      "stars": 100,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "crypto-checker-tool",
+        "desktop",
+        "developer-tools",
+        "ethereum-checker",
+        "mnemonic-phrase",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "recovery-crypto",
+        "scripts",
+        "seed-generator",
+        "seed-phase-checker",
+        "seed-phrases-generate",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:26:30Z",
+      "updated_at": "2026-10-31T10:47:53Z",
+      "pushed_at": "2026-10-31T07:26:36Z"
+    },
+    {
+      "id": 1440615701,
+      "name": "Movavi-Converter",
+      "full_name": "weldmartinpop/Movavi-Converter",
+      "description": "Complete Movavi Converter 2026 standalone installation build, fully activated and ready to run on your desktop.",
+      "html_url": "https://github.com/weldmartinpop/Movavi-Converter",
+      "homepage": null,
+      "stars": 100,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "chroma-key-windows-editor",
+        "desktop",
+        "developer-tools",
+        "media-management-windows-system",
+        "movavi-suite-audio-editing",
+        "movavi-suite-screen-recording",
+        "movavi-suite-voiceover-feature",
+        "movavi-video-editor-mac",
+        "movavi-video-suite-15",
+        "movavi-video-suite-media-management",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-10-31T07:24:53Z",
+      "updated_at": "2026-10-31T10:13:44Z",
+      "pushed_at": "2026-10-31T07:24:58Z"
+    },
+    {
       "id": 1438082267,
       "name": "Robux-Generator",
       "full_name": "Barbpouncouple/Robux-Generator",
@@ -7867,21 +8299,6 @@
       "pushed_at": "2026-09-18T21:16:11Z"
     },
     {
-      "id": 1434781902,
-      "name": "Blue-Knight-Proxy-BotHosting",
-      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
-      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "homepage": null,
-      "stars": 94,
-      "forks": 158,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-26T18:31:20Z",
-      "updated_at": "2026-10-30T23:53:17Z",
-      "pushed_at": "2026-10-27T18:25:43Z"
-    },
-    {
       "id": 1436043653,
       "name": "Cisco-Webex-Download",
       "full_name": "wbx-tools/Cisco-Webex-Download",
@@ -8276,6 +8693,21 @@
       "pushed_at": "2026-10-27T18:24:37Z"
     },
     {
+      "id": 1434692695,
+      "name": "gguf-neuron-explorer",
+      "full_name": "balaena01/gguf-neuron-explorer",
+      "description": "Find, rank and steer MLP neurons of GGUF models on llama.cpp; export control vectors; 3D web UI and MCP server",
+      "html_url": "https://github.com/balaena01/gguf-neuron-explorer",
+      "homepage": null,
+      "stars": 86,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-26T17:11:14Z",
+      "updated_at": "2026-10-31T11:12:38Z",
+      "pushed_at": "2026-10-30T15:50:21Z"
+    },
+    {
       "id": 1405691280,
       "name": "photocraft-corpus",
       "full_name": "storytold/photocraft-corpus",
@@ -8415,21 +8847,6 @@
       "created_at": "2026-10-13T06:48:51Z",
       "updated_at": "2026-10-19T07:25:26Z",
       "pushed_at": "2026-10-17T07:57:17Z"
-    },
-    {
-      "id": 1434692695,
-      "name": "gguf-neuron-explorer",
-      "full_name": "balaena01/gguf-neuron-explorer",
-      "description": "Find, rank and steer MLP neurons of GGUF models on llama.cpp; export control vectors; 3D web UI and MCP server",
-      "html_url": "https://github.com/balaena01/gguf-neuron-explorer",
-      "homepage": null,
-      "stars": 85,
-      "forks": 8,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-26T17:11:14Z",
-      "updated_at": "2026-10-30T22:44:55Z",
-      "pushed_at": "2026-10-30T15:50:21Z"
     },
     {
       "id": 1407351931,
@@ -8753,8 +9170,8 @@
         "windows11"
       ],
       "created_at": "2026-10-29T16:46:11Z",
-      "updated_at": "2026-10-31T02:58:35Z",
-      "pushed_at": "2026-10-31T02:58:32Z"
+      "updated_at": "2026-10-31T09:16:14Z",
+      "pushed_at": "2026-10-31T09:16:10Z"
     },
     {
       "id": 1438706740,
@@ -8781,8 +9198,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:53:33Z",
-      "updated_at": "2026-10-31T02:55:31Z",
-      "pushed_at": "2026-10-31T02:55:28Z"
+      "updated_at": "2026-10-31T09:00:45Z",
+      "pushed_at": "2026-10-31T09:00:41Z"
     },
     {
       "id": 1438667386,
@@ -8809,8 +9226,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:19:41Z",
-      "updated_at": "2026-10-31T00:24:41Z",
-      "pushed_at": "2026-10-31T00:24:38Z"
+      "updated_at": "2026-10-31T06:39:26Z",
+      "pushed_at": "2026-10-31T06:39:22Z"
     },
     {
       "id": 1438731064,
@@ -8837,8 +9254,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T17:14:54Z",
-      "updated_at": "2026-10-31T01:16:07Z",
-      "pushed_at": "2026-10-31T01:16:03Z"
+      "updated_at": "2026-10-31T07:46:29Z",
+      "pushed_at": "2026-10-31T07:46:26Z"
     },
     {
       "id": 1438690910,
@@ -8865,8 +9282,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:39:59Z",
-      "updated_at": "2026-10-31T03:40:28Z",
-      "pushed_at": "2026-10-31T03:40:25Z"
+      "updated_at": "2026-10-31T10:06:40Z",
+      "pushed_at": "2026-10-31T10:06:37Z"
     },
     {
       "id": 1438680912,
@@ -8893,8 +9310,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:31:10Z",
-      "updated_at": "2026-10-31T00:33:18Z",
-      "pushed_at": "2026-10-31T00:33:14Z"
+      "updated_at": "2026-10-31T06:47:05Z",
+      "pushed_at": "2026-10-31T06:47:01Z"
     },
     {
       "id": 1438683823,
@@ -8921,8 +9338,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:33:44Z",
-      "updated_at": "2026-10-31T03:37:18Z",
-      "pushed_at": "2026-10-31T03:37:14Z"
+      "updated_at": "2026-10-31T10:06:31Z",
+      "pushed_at": "2026-10-31T10:06:28Z"
     },
     {
       "id": 1438683779,
@@ -8949,8 +9366,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:33:41Z",
-      "updated_at": "2026-10-31T02:50:04Z",
-      "pushed_at": "2026-10-31T02:49:59Z"
+      "updated_at": "2026-10-31T08:59:06Z",
+      "pushed_at": "2026-10-31T08:59:03Z"
     },
     {
       "id": 1438679350,
@@ -8977,8 +9394,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:29:47Z",
-      "updated_at": "2026-10-31T03:53:11Z",
-      "pushed_at": "2026-10-31T03:53:08Z"
+      "updated_at": "2026-10-31T10:10:36Z",
+      "pushed_at": "2026-10-31T10:10:33Z"
     },
     {
       "id": 1438681596,
@@ -9005,8 +9422,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:31:45Z",
-      "updated_at": "2026-10-31T03:36:58Z",
-      "pushed_at": "2026-10-31T03:36:55Z"
+      "updated_at": "2026-10-31T10:06:32Z",
+      "pushed_at": "2026-10-31T10:06:29Z"
     },
     {
       "id": 1438716018,
@@ -9288,6 +9705,30 @@
       "created_at": "2026-10-14T22:51:52Z",
       "updated_at": "2026-10-17T08:45:15Z",
       "pushed_at": "2026-10-15T12:28:02Z"
+    },
+    {
+      "id": 1440268480,
+      "name": "osint-people-checker",
+      "full_name": "ArcSwordKiln/osint-people-checker",
+      "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
+      "html_url": "https://github.com/ArcSwordKiln/osint-people-checker",
+      "homepage": null,
+      "stars": 75,
+      "forks": 7,
+      "language": "JavaScript",
+      "topics": [
+        "desktop",
+        "email-lookup",
+        "osint",
+        "phone-lookup",
+        "privacy",
+        "rust",
+        "scam-check",
+        "username-search"
+      ],
+      "created_at": "2026-10-30T21:57:37Z",
+      "updated_at": "2026-10-31T11:54:02Z",
+      "pushed_at": "2026-10-30T21:59:23Z"
     },
     {
       "id": 1398599398,
@@ -10754,6 +11195,36 @@
       "pushed_at": "2026-10-08T00:28:44Z"
     },
     {
+      "id": 1433923128,
+      "name": "vram-switcher",
+      "full_name": "xiaoxiao150/vram-switcher",
+      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
+      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
+      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
+      "stars": 58,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "astrbot",
+        "astrbot-plugin",
+        "comfyui",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gpu",
+        "indextts",
+        "llama-cpp",
+        "python",
+        "tts",
+        "vram",
+        "windows"
+      ],
+      "created_at": "2026-10-26T05:00:40Z",
+      "updated_at": "2026-10-31T07:17:17Z",
+      "pushed_at": "2026-10-29T14:28:21Z"
+    },
+    {
       "id": 1388724753,
       "name": "websitegenerator",
       "full_name": "albertshiney/websitegenerator",
@@ -11015,36 +11486,6 @@
       "created_at": "2026-10-17T15:36:35Z",
       "updated_at": "2026-10-23T20:17:31Z",
       "pushed_at": "2026-10-21T18:42:34Z"
-    },
-    {
-      "id": 1433923128,
-      "name": "vram-switcher",
-      "full_name": "xiaoxiao150/vram-switcher",
-      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
-      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
-      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
-      "stars": 56,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "astrbot",
-        "astrbot-plugin",
-        "comfyui",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "gpu",
-        "indextts",
-        "llama-cpp",
-        "python",
-        "tts",
-        "vram",
-        "windows"
-      ],
-      "created_at": "2026-10-26T05:00:40Z",
-      "updated_at": "2026-10-30T23:39:58Z",
-      "pushed_at": "2026-10-29T14:28:21Z"
     },
     {
       "id": 1434014577,
@@ -12881,6 +13322,21 @@
       "pushed_at": "2026-09-20T17:33:37Z"
     },
     {
+      "id": 1433621977,
+      "name": "MushroomMakerRecomp",
+      "full_name": "Apolinario-coder/MushroomMakerRecomp",
+      "description": "An experimental native PC recompilation of Super Mario Maker 2",
+      "html_url": "https://github.com/Apolinario-coder/MushroomMakerRecomp",
+      "homepage": null,
+      "stars": 38,
+      "forks": 2,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-10-25T21:00:22Z",
+      "updated_at": "2026-10-31T07:43:22Z",
+      "pushed_at": "2026-10-26T03:18:14Z"
+    },
+    {
       "id": 1377304402,
       "name": "tmon",
       "full_name": "khangzxrr/tmon",
@@ -12894,21 +13350,6 @@
       "created_at": "2026-09-19T15:16:41Z",
       "updated_at": "2026-09-23T00:30:12Z",
       "pushed_at": "2026-09-19T17:40:42Z"
-    },
-    {
-      "id": 1433621977,
-      "name": "MushroomMakerRecomp",
-      "full_name": "Apolinario-coder/MushroomMakerRecomp",
-      "description": "An experimental native PC recompilation of Super Mario Maker 2",
-      "html_url": "https://github.com/Apolinario-coder/MushroomMakerRecomp",
-      "homepage": null,
-      "stars": 37,
-      "forks": 2,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-10-25T21:00:22Z",
-      "updated_at": "2026-10-31T03:14:42Z",
-      "pushed_at": "2026-10-26T03:18:14Z"
     },
     {
       "id": 1395215215,
@@ -14266,8 +14707,8 @@
       "language": null,
       "topics": [],
       "created_at": "2026-10-27T17:32:05Z",
-      "updated_at": "2026-10-31T04:09:36Z",
-      "pushed_at": "2026-10-27T18:23:54Z"
+      "updated_at": "2026-10-31T08:48:02Z",
+      "pushed_at": "2026-10-31T08:47:59Z"
     },
     {
       "id": 1387743071,
@@ -14622,6 +15063,21 @@
       "pushed_at": "2026-10-16T10:10:05Z"
     },
     {
+      "id": 1438821374,
+      "name": "hft-for-dummies",
+      "full_name": "bulletxyz/hft-for-dummies",
+      "description": "Companion code for the HFT for dummies series: a SOL-USD market maker on Bullet, built up one post at a time",
+      "html_url": "https://github.com/bulletxyz/hft-for-dummies",
+      "homepage": "https://app.bullet.xyz/trade?r=HFT4DUMMIES",
+      "stars": 24,
+      "forks": 8,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-29T18:39:56Z",
+      "updated_at": "2026-10-31T11:23:37Z",
+      "pushed_at": "2026-10-31T11:23:46Z"
+    },
+    {
       "id": 1378959833,
       "name": "jev-design-test",
       "full_name": "bhaiG-de/jev-design-test",
@@ -14834,21 +15290,6 @@
       "created_at": "2026-10-27T11:22:56Z",
       "updated_at": "2026-10-29T14:32:29Z",
       "pushed_at": "2026-10-29T06:29:35Z"
-    },
-    {
-      "id": 1438821374,
-      "name": "hft-for-dummies",
-      "full_name": "bulletxyz/hft-for-dummies",
-      "description": "Companion code for the HFT for dummies series: a SOL-USD market maker on Bullet, built up one post at a time",
-      "html_url": "https://github.com/bulletxyz/hft-for-dummies",
-      "homepage": "https://app.bullet.xyz/trade?r=HFT4DUMMIES",
-      "stars": 22,
-      "forks": 8,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-29T18:39:56Z",
-      "updated_at": "2026-10-31T00:53:27Z",
-      "pushed_at": "2026-10-30T18:25:54Z"
     },
     {
       "id": 1394505594,
