@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/2 00:40:15",
-  "total_repos": 790,
+  "fetched_at": "2026/11/2 05:51:13",
+  "total_repos": 792,
   "repos": [
     {
       "id": 1425658028,
@@ -825,6 +825,21 @@
       "pushed_at": "2026-10-28T11:35:35Z"
     },
     {
+      "id": 1440340634,
+      "name": "icloud-s3",
+      "full_name": "ashayas/icloud-s3",
+      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+      "html_url": "https://github.com/ashayas/icloud-s3",
+      "homepage": null,
+      "stars": 437,
+      "forks": 30,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-30T23:54:20Z",
+      "updated_at": "2026-11-01T21:36:04Z",
+      "pushed_at": "2026-10-31T01:34:42Z"
+    },
+    {
       "id": 1424201691,
       "name": "nanoui",
       "full_name": "justrach/nanoui",
@@ -838,6 +853,29 @@
       "created_at": "2026-10-18T09:27:46Z",
       "updated_at": "2026-10-24T19:39:55Z",
       "pushed_at": "2026-10-24T14:38:11Z"
+    },
+    {
+      "id": 1439885901,
+      "name": "sapper-v2",
+      "full_name": "N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "html_url": "https://github.com/N1nEmAn/sapper-v2",
+      "homepage": null,
+      "stars": 432,
+      "forks": 378,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm",
+        "multi-agent",
+        "pentest"
+      ],
+      "created_at": "2026-10-30T15:12:35Z",
+      "updated_at": "2026-11-01T18:27:46Z",
+      "pushed_at": "2026-11-01T15:48:49Z"
     },
     {
       "id": 1416828644,
@@ -863,29 +901,6 @@
       "created_at": "2026-10-13T10:13:21Z",
       "updated_at": "2026-10-19T23:07:04Z",
       "pushed_at": "2026-10-18T06:48:08Z"
-    },
-    {
-      "id": 1439885901,
-      "name": "sapper-v2",
-      "full_name": "N1nEmAn/sapper-v2",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "html_url": "https://github.com/N1nEmAn/sapper-v2",
-      "homepage": null,
-      "stars": 428,
-      "forks": 376,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "autonomous-agents",
-        "claude-code",
-        "ctf",
-        "llm",
-        "multi-agent",
-        "pentest"
-      ],
-      "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-01T16:35:29Z",
-      "pushed_at": "2026-11-01T15:48:49Z"
     },
     {
       "id": 1425938162,
@@ -978,21 +993,6 @@
       "created_at": "2026-10-04T11:37:45Z",
       "updated_at": "2026-10-04T11:50:18Z",
       "pushed_at": "2026-10-04T11:37:50Z"
-    },
-    {
-      "id": 1440340634,
-      "name": "icloud-s3",
-      "full_name": "ashayas/icloud-s3",
-      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-      "html_url": "https://github.com/ashayas/icloud-s3",
-      "homepage": null,
-      "stars": 405,
-      "forks": 28,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-30T23:54:20Z",
-      "updated_at": "2026-11-01T16:33:31Z",
-      "pushed_at": "2026-10-31T01:34:42Z"
     },
     {
       "id": 1411923855,
@@ -1502,8 +1502,8 @@
       "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
       "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
       "homepage": "https://watsonfind.icu",
-      "stars": 363,
-      "forks": 22,
+      "stars": 358,
+      "forks": 24,
       "language": "TypeScript",
       "topics": [
         "cybersecurity",
@@ -1528,7 +1528,7 @@
         "windows"
       ],
       "created_at": "2026-10-28T00:09:33Z",
-      "updated_at": "2026-11-01T15:41:29Z",
+      "updated_at": "2026-11-01T19:19:10Z",
       "pushed_at": "2026-11-01T02:17:03Z"
     },
     {
@@ -1562,7 +1562,7 @@
       "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.",
       "html_url": "https://github.com/SAOS-3624/dsh-video-storyboard",
       "homepage": "https://github.com/SAOS-3624/dsh-video-storyboard",
-      "stars": 346,
+      "stars": 350,
       "forks": 25,
       "language": "JavaScript",
       "topics": [
@@ -1578,7 +1578,7 @@
         "video-understanding"
       ],
       "created_at": "2026-10-26T22:00:04Z",
-      "updated_at": "2026-11-01T15:36:53Z",
+      "updated_at": "2026-11-01T20:07:22Z",
       "pushed_at": "2026-11-01T15:28:35Z"
     },
     {
@@ -1604,6 +1604,21 @@
       "pushed_at": "2026-10-10T05:18:23Z"
     },
     {
+      "id": 1436420580,
+      "name": "LightPost",
+      "full_name": "brainstormity/LightPost",
+      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+      "html_url": "https://github.com/brainstormity/LightPost",
+      "homepage": null,
+      "stars": 333,
+      "forks": 65,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T00:19:12Z",
+      "updated_at": "2026-11-01T20:58:12Z",
+      "pushed_at": "2026-10-31T11:12:44Z"
+    },
+    {
       "id": 1414415721,
       "name": "xrevive",
       "full_name": "Teraflopping/xrevive",
@@ -1617,21 +1632,6 @@
       "created_at": "2026-10-11T14:17:34Z",
       "updated_at": "2026-10-17T23:13:59Z",
       "pushed_at": "2026-10-17T17:11:11Z"
-    },
-    {
-      "id": 1436420580,
-      "name": "LightPost",
-      "full_name": "brainstormity/LightPost",
-      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
-      "html_url": "https://github.com/brainstormity/LightPost",
-      "homepage": null,
-      "stars": 327,
-      "forks": 65,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-28T00:19:12Z",
-      "updated_at": "2026-11-01T15:48:27Z",
-      "pushed_at": "2026-10-31T11:12:44Z"
     },
     {
       "id": 1418226869,
@@ -1753,6 +1753,21 @@
       "pushed_at": "2026-10-22T23:33:10Z"
     },
     {
+      "id": 1437714204,
+      "name": "atlas-of-physics",
+      "full_name": "nathanliow/atlas-of-physics",
+      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
+      "html_url": "https://github.com/nathanliow/atlas-of-physics",
+      "homepage": "https://atlas-of-physics.vercel.app",
+      "stars": 317,
+      "forks": 93,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-28T22:54:22Z",
+      "updated_at": "2026-11-01T20:20:40Z",
+      "pushed_at": "2026-10-30T20:47:47Z"
+    },
+    {
       "id": 1381875232,
       "name": "corz-client",
       "full_name": "zeldaboyzlix/corz-client",
@@ -1853,21 +1868,6 @@
       "created_at": "2026-11-01T10:14:47Z",
       "updated_at": "2026-11-01T14:24:15Z",
       "pushed_at": "2026-11-01T10:14:53Z"
-    },
-    {
-      "id": 1437714204,
-      "name": "atlas-of-physics",
-      "full_name": "nathanliow/atlas-of-physics",
-      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
-      "html_url": "https://github.com/nathanliow/atlas-of-physics",
-      "homepage": "https://atlas-of-physics.vercel.app",
-      "stars": 306,
-      "forks": 92,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-28T22:54:22Z",
-      "updated_at": "2026-11-01T16:37:31Z",
-      "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
       "id": 1411929925,
@@ -2915,13 +2915,46 @@
       "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
       "html_url": "https://github.com/win4r/video-director",
       "homepage": null,
-      "stars": 219,
-      "forks": 16,
+      "stars": 220,
+      "forks": 17,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T03:35:27Z",
-      "updated_at": "2026-11-01T16:37:43Z",
+      "updated_at": "2026-11-01T21:25:28Z",
       "pushed_at": "2026-10-30T06:04:14Z"
+    },
+    {
+      "id": 1437812726,
+      "name": "shisei",
+      "full_name": "wquguru/shisei",
+      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+      "html_url": "https://github.com/wquguru/shisei",
+      "homepage": "https://shisei.indaloop.app",
+      "stars": 219,
+      "forks": 49,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "art-reference",
+        "cc0",
+        "comfyui",
+        "controlnet",
+        "dataset",
+        "drawing-reference",
+        "figure-drawing",
+        "line-art",
+        "mannequin",
+        "midjourney",
+        "multilingual",
+        "nano-banana",
+        "pose-reference",
+        "reference-images",
+        "stable-diffusion"
+      ],
+      "created_at": "2026-10-29T01:23:06Z",
+      "updated_at": "2026-11-01T21:22:40Z",
+      "pushed_at": "2026-11-01T15:08:55Z"
     },
     {
       "id": 1424555473,
@@ -3018,39 +3051,6 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
-    },
-    {
-      "id": 1437812726,
-      "name": "shisei",
-      "full_name": "wquguru/shisei",
-      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
-      "html_url": "https://github.com/wquguru/shisei",
-      "homepage": "https://shisei.indaloop.app",
-      "stars": 212,
-      "forks": 49,
-      "language": "Python",
-      "topics": [
-        "ai-art",
-        "ai-image-generation",
-        "art-reference",
-        "cc0",
-        "comfyui",
-        "controlnet",
-        "dataset",
-        "drawing-reference",
-        "figure-drawing",
-        "line-art",
-        "mannequin",
-        "midjourney",
-        "multilingual",
-        "nano-banana",
-        "pose-reference",
-        "reference-images",
-        "stable-diffusion"
-      ],
-      "created_at": "2026-10-29T01:23:06Z",
-      "updated_at": "2026-11-01T15:14:42Z",
-      "pushed_at": "2026-11-01T15:08:55Z"
     },
     {
       "id": 1423658114,
@@ -3463,7 +3463,7 @@
         "windows-app"
       ],
       "created_at": "2026-10-31T07:21:36Z",
-      "updated_at": "2026-11-01T15:15:30Z",
+      "updated_at": "2026-11-01T17:59:42Z",
       "pushed_at": "2026-10-31T07:21:43Z"
     },
     {
@@ -4770,6 +4770,21 @@
       "pushed_at": "2026-10-16T22:22:21Z"
     },
     {
+      "id": 1440766826,
+      "name": "tiktok-live-temple-rpc",
+      "full_name": "zane-tv/tiktok-live-temple-rpc",
+      "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
+      "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
+      "homepage": null,
+      "stars": 169,
+      "forks": 254,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-31T10:56:27Z",
+      "updated_at": "2026-11-01T20:27:39Z",
+      "pushed_at": "2026-10-31T16:29:11Z"
+    },
+    {
       "id": 1412301770,
       "name": "datasets",
       "full_name": "toddrjones/datasets",
@@ -4842,21 +4857,6 @@
       "created_at": "2026-10-15T06:01:30Z",
       "updated_at": "2026-10-21T22:53:34Z",
       "pushed_at": "2026-10-20T12:45:47Z"
-    },
-    {
-      "id": 1440766826,
-      "name": "tiktok-live-temple-rpc",
-      "full_name": "zane-tv/tiktok-live-temple-rpc",
-      "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
-      "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
-      "homepage": null,
-      "stars": 165,
-      "forks": 251,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-31T10:56:27Z",
-      "updated_at": "2026-11-01T16:34:51Z",
-      "pushed_at": "2026-10-31T16:29:11Z"
     },
     {
       "id": 1429974885,
@@ -5273,28 +5273,13 @@
       "pushed_at": "2026-10-28T00:56:46Z"
     },
     {
-      "id": 1410815894,
-      "name": "autonomous-pentest-agent",
-      "full_name": "kutukam/autonomous-pentest-agent",
-      "description": "Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
-      "html_url": "https://github.com/kutukam/autonomous-pentest-agent",
-      "homepage": null,
-      "stars": 144,
-      "forks": 305,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-10-08T18:47:12Z",
-      "updated_at": "2026-10-14T10:55:20Z",
-      "pushed_at": "2026-10-09T05:07:24Z"
-    },
-    {
       "id": 1440268480,
       "name": "osint-people-checker",
       "full_name": "ArcSwordKiln/osint-people-checker",
       "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
       "html_url": "https://github.com/ArcSwordKiln/osint-people-checker",
       "homepage": null,
-      "stars": 144,
+      "stars": 146,
       "forks": 12,
       "language": "JavaScript",
       "topics": [
@@ -5308,8 +5293,51 @@
         "username-search"
       ],
       "created_at": "2026-10-30T21:57:37Z",
-      "updated_at": "2026-11-01T15:57:42Z",
+      "updated_at": "2026-11-01T19:30:52Z",
       "pushed_at": "2026-10-30T21:59:23Z"
+    },
+    {
+      "id": 1436739802,
+      "name": "ai-design-check",
+      "full_name": "enmerasoftware/ai-design-check",
+      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
+      "html_url": "https://github.com/enmerasoftware/ai-design-check",
+      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
+      "stars": 145,
+      "forks": 8,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "android",
+        "claude-code",
+        "design-rules",
+        "design-system",
+        "ios",
+        "jetpack-compose",
+        "lint",
+        "swiftui",
+        "tailwindcss",
+        "ui"
+      ],
+      "created_at": "2026-10-28T07:20:59Z",
+      "updated_at": "2026-11-01T21:46:49Z",
+      "pushed_at": "2026-11-01T20:03:23Z"
+    },
+    {
+      "id": 1410815894,
+      "name": "autonomous-pentest-agent",
+      "full_name": "kutukam/autonomous-pentest-agent",
+      "description": "Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+      "html_url": "https://github.com/kutukam/autonomous-pentest-agent",
+      "homepage": null,
+      "stars": 144,
+      "forks": 305,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-08T18:47:12Z",
+      "updated_at": "2026-10-14T10:55:20Z",
+      "pushed_at": "2026-10-09T05:07:24Z"
     },
     {
       "id": 1429250391,
@@ -5939,6 +5967,21 @@
       "pushed_at": "2026-10-29T22:00:06Z"
     },
     {
+      "id": 1440797906,
+      "name": "chanh-dien-online",
+      "full_name": "kentjuno/chanh-dien-online",
+      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
+      "html_url": "https://github.com/kentjuno/chanh-dien-online",
+      "homepage": null,
+      "stars": 132,
+      "forks": 219,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-31T11:38:45Z",
+      "updated_at": "2026-11-01T21:19:37Z",
+      "pushed_at": "2026-10-31T12:05:39Z"
+    },
+    {
       "id": 1414942519,
       "name": "EdenLive",
       "full_name": "VAST-AI-Research/EdenLive",
@@ -6259,21 +6302,6 @@
       "pushed_at": "2026-10-19T14:47:10Z"
     },
     {
-      "id": 1440797906,
-      "name": "chanh-dien-online",
-      "full_name": "kentjuno/chanh-dien-online",
-      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
-      "html_url": "https://github.com/kentjuno/chanh-dien-online",
-      "homepage": null,
-      "stars": 123,
-      "forks": 208,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-31T11:38:45Z",
-      "updated_at": "2026-11-01T16:29:29Z",
-      "pushed_at": "2026-10-31T12:05:39Z"
-    },
-    {
       "id": 1414327429,
       "name": "awesome-iran-mcp",
       "full_name": "sepehr071/awesome-iran-mcp",
@@ -6378,6 +6406,21 @@
       "pushed_at": "2026-10-22T08:55:27Z"
     },
     {
+      "id": 1434781902,
+      "name": "Blue-Knight-Proxy-BotHosting",
+      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
+      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
+      "homepage": null,
+      "stars": 121,
+      "forks": 197,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-26T18:31:20Z",
+      "updated_at": "2026-11-01T19:24:11Z",
+      "pushed_at": "2026-10-27T18:25:43Z"
+    },
+    {
       "id": 1417978332,
       "name": "hwid-spoofer-toolkit",
       "full_name": "GladiatorSplit/hwid-spoofer-toolkit",
@@ -6459,21 +6502,6 @@
       "created_at": "2026-10-25T20:12:43Z",
       "updated_at": "2026-10-30T22:14:24Z",
       "pushed_at": "2026-10-27T19:57:14Z"
-    },
-    {
-      "id": 1434781902,
-      "name": "Blue-Knight-Proxy-BotHosting",
-      "full_name": "BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "description": "Telegram proxy and owner panel for Bot-Hosting, with a standalone Cloudflare WEB bridge.",
-      "html_url": "https://github.com/BlueKnightNet/Blue-Knight-Proxy-BotHosting",
-      "homepage": null,
-      "stars": 119,
-      "forks": 194,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-26T18:31:20Z",
-      "updated_at": "2026-11-01T16:17:21Z",
-      "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
       "id": 1427856225,
@@ -7089,34 +7117,6 @@
       "pushed_at": "2026-10-23T03:42:24Z"
     },
     {
-      "id": 1436739802,
-      "name": "ai-design-check",
-      "full_name": "enmerasoftware/ai-design-check",
-      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
-      "html_url": "https://github.com/enmerasoftware/ai-design-check",
-      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
-      "stars": 108,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skill",
-        "ai",
-        "android",
-        "claude-code",
-        "design-rules",
-        "design-system",
-        "ios",
-        "jetpack-compose",
-        "lint",
-        "swiftui",
-        "tailwindcss",
-        "ui"
-      ],
-      "created_at": "2026-10-28T07:20:59Z",
-      "updated_at": "2026-11-01T16:31:25Z",
-      "pushed_at": "2026-11-01T10:38:47Z"
-    },
-    {
       "id": 1387850278,
       "name": "simfleet",
       "full_name": "entropyconquers/simfleet",
@@ -7685,6 +7685,30 @@
       "created_at": "2026-10-05T10:27:43Z",
       "updated_at": "2026-10-05T20:45:40Z",
       "pushed_at": "2026-10-05T10:27:49Z"
+    },
+    {
+      "id": 1439548693,
+      "name": "fy-code-animation",
+      "full_name": "Akillll-DuoHe/fy-code-animation",
+      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
+      "stars": 101,
+      "forks": 13,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "chinese",
+        "code-animation",
+        "deepseek-harness",
+        "dsh-skill",
+        "motion-design",
+        "remotion",
+        "skill"
+      ],
+      "created_at": "2026-10-30T09:55:43Z",
+      "updated_at": "2026-11-01T20:53:30Z",
+      "pushed_at": "2026-10-30T09:56:05Z"
     },
     {
       "id": 1405556648,
@@ -8479,30 +8503,6 @@
       "pushed_at": "2026-10-18T10:06:21Z"
     },
     {
-      "id": 1439548693,
-      "name": "fy-code-animation",
-      "full_name": "Akillll-DuoHe/fy-code-animation",
-      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
-      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
-      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
-      "stars": 97,
-      "forks": 12,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "chinese",
-        "code-animation",
-        "deepseek-harness",
-        "dsh-skill",
-        "motion-design",
-        "remotion",
-        "skill"
-      ],
-      "created_at": "2026-10-30T09:55:43Z",
-      "updated_at": "2026-11-01T16:40:12Z",
-      "pushed_at": "2026-10-30T09:56:05Z"
-    },
-    {
       "id": 1386267511,
       "name": "0audit.com",
       "full_name": "defitier-sdk/0audit.com",
@@ -9213,42 +9213,6 @@
       "pushed_at": "2026-10-26T06:56:01Z"
     },
     {
-      "id": 1434015419,
-      "name": "DLSS5-Unlocker-rpocket-team",
-      "full_name": "NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
-      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
-      "html_url": "https://github.com/NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
-      "homepage": null,
-      "stars": 85,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "amd",
-        "amd-gpu",
-        "cs2-stutter-fix",
-        "dlss",
-        "dlss-5",
-        "dlss-5-mod",
-        "dlss5",
-        "dlss5-optiscaler",
-        "dlss5-swapper",
-        "dlss5-universal",
-        "fps-booster-no-lag",
-        "frame-generation",
-        "fsr",
-        "mod-manager",
-        "modding",
-        "nvidia",
-        "nvidia-gpu",
-        "pc-gaming",
-        "radeon",
-        "super-resolution"
-      ],
-      "created_at": "2026-10-26T06:56:44Z",
-      "updated_at": "2026-11-01T16:00:16Z",
-      "pushed_at": "2026-10-26T06:56:52Z"
-    },
-    {
       "id": 1405691280,
       "name": "photocraft-corpus",
       "full_name": "storytold/photocraft-corpus",
@@ -9759,166 +9723,6 @@
       "created_at": "2026-10-23T07:05:48Z",
       "updated_at": "2026-10-29T15:48:32Z",
       "pushed_at": "2026-10-23T07:05:56Z"
-    },
-    {
-      "id": 1438583991,
-      "name": "win-activation-toolkit",
-      "full_name": "memoXX19/win-activation-toolkit",
-      "description": "Open-source Windows and Office setup suite with HWID, Ohook, TSforge, and Online KMS methods",
-      "html_url": "https://github.com/memoXX19/win-activation-toolkit",
-      "homepage": null,
-      "stars": 83,
-      "forks": 0,
-      "language": "Java",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-29T15:09:39Z",
-      "updated_at": "2026-11-01T09:59:58Z",
-      "pushed_at": "2026-11-01T09:59:54Z"
-    },
-    {
-      "id": 1438698229,
-      "name": "win11-activation-scripts",
-      "full_name": "obnsiah/win11-activation-scripts",
-      "description": "Script-based Microsoft product setup via HWID, KMS38, and online methods",
-      "html_url": "https://github.com/obnsiah/win11-activation-scripts",
-      "homepage": null,
-      "stars": 82,
-      "forks": 0,
-      "language": "Go",
-      "topics": [
-        "activator",
-        "scripts",
-        "windows",
-        "windows11"
-      ],
-      "created_at": "2026-10-29T16:46:11Z",
-      "updated_at": "2026-11-01T15:32:08Z",
-      "pushed_at": "2026-11-01T15:32:04Z"
-    },
-    {
-      "id": 1438706740,
-      "name": "win-office-activation-toolkit",
-      "full_name": "Muwanga6/win-office-activation-toolkit",
-      "description": "Windows setup Suite: Open-Source HWID, Ohook, TSforge, and Online KMS Methods",
-      "html_url": "https://github.com/Muwanga6/win-office-activation-toolkit",
-      "homepage": null,
-      "stars": 82,
-      "forks": 0,
-      "language": "Go",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-29T16:53:33Z",
-      "updated_at": "2026-11-01T15:32:05Z",
-      "pushed_at": "2026-11-01T15:32:01Z"
-    },
-    {
-      "id": 1438667386,
-      "name": "windows-activation-suite",
-      "full_name": "josemanuelzaca/windows-activation-suite",
-      "description": "Open-Source Windows and Office setup Suite with HWID, Ohook, TSforge, and Online KMS",
-      "html_url": "https://github.com/josemanuelzaca/windows-activation-suite",
-      "homepage": null,
-      "stars": 82,
-      "forks": 0,
-      "language": "Java",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-29T16:19:41Z",
-      "updated_at": "2026-11-01T15:46:32Z",
-      "pushed_at": "2026-11-01T15:46:28Z"
-    },
-    {
-      "id": 1438731064,
-      "name": "windows-activation-suite",
-      "full_name": "AYOMIDE339/windows-activation-suite",
-      "description": "Windows-setup-Suite: HWID, Ohook, TSforge, and Online KMS methods for Windows and Office",
-      "html_url": "https://github.com/AYOMIDE339/windows-activation-suite",
-      "homepage": null,
-      "stars": 82,
-      "forks": 0,
-      "language": "Java",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-29T17:14:54Z",
-      "updated_at": "2026-11-01T09:27:28Z",
-      "pushed_at": "2026-11-01T09:27:24Z"
-    },
-    {
-      "id": 1438690910,
-      "name": "windows-activation-suite",
-      "full_name": "hamlaraid39-maker/windows-activation-suite",
-      "description": "Open-source HWID, Ohook, TSforge and Online KMS setup suite for Windows and Office",
-      "html_url": "https://github.com/hamlaraid39-maker/windows-activation-suite",
-      "homepage": null,
-      "stars": 82,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-29T16:39:59Z",
-      "updated_at": "2026-11-01T09:50:39Z",
-      "pushed_at": "2026-11-01T09:50:36Z"
     },
     {
       "id": 1438680912,
@@ -10514,6 +10318,30 @@
       "pushed_at": "2026-10-29T04:31:09Z"
     },
     {
+      "id": 1435953741,
+      "name": "fush-vue-mcp",
+      "full_name": "fush520/fush-vue-mcp",
+      "description": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
+      "html_url": "https://github.com/fush520/fush-vue-mcp",
+      "homepage": null,
+      "stars": 72,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anti-debug",
+        "chrome-extension",
+        "mcp",
+        "pentesting",
+        "reverse-engineering-tools",
+        "security-tools",
+        "vue"
+      ],
+      "created_at": "2026-10-27T15:56:51Z",
+      "updated_at": "2026-11-01T19:19:15Z",
+      "pushed_at": "2026-11-01T16:39:25Z"
+    },
+    {
       "id": 1375750028,
       "name": "jgrep",
       "full_name": "keltokhy/jgrep",
@@ -10737,6 +10565,34 @@
       "pushed_at": "2026-10-10T18:50:39Z"
     },
     {
+      "id": 1438583991,
+      "name": "win-activation-toolkit",
+      "full_name": "memoXX19/win-activation-toolkit",
+      "description": "Open-source Windows and Office setup suite with HWID, Ohook, TSforge, and Online KMS methods",
+      "html_url": "https://github.com/memoXX19/win-activation-toolkit",
+      "homepage": null,
+      "stars": 69,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-29T15:09:39Z",
+      "updated_at": "2026-11-01T20:56:53Z",
+      "pushed_at": "2026-11-01T20:56:49Z"
+    },
+    {
       "id": 1399838098,
       "name": "ai-agent-gateway",
       "full_name": "Tuskira/ai-agent-gateway",
@@ -10801,6 +10657,138 @@
       "created_at": "2026-10-14T06:20:15Z",
       "updated_at": "2026-10-20T05:53:47Z",
       "pushed_at": "2026-10-15T07:38:02Z"
+    },
+    {
+      "id": 1438698229,
+      "name": "win11-activation-scripts",
+      "full_name": "obnsiah/win11-activation-scripts",
+      "description": "Script-based Microsoft product setup via HWID, KMS38, and online methods",
+      "html_url": "https://github.com/obnsiah/win11-activation-scripts",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": "Go",
+      "topics": [
+        "activator",
+        "scripts",
+        "windows",
+        "windows11"
+      ],
+      "created_at": "2026-10-29T16:46:11Z",
+      "updated_at": "2026-11-01T19:56:41Z",
+      "pushed_at": "2026-11-01T19:56:38Z"
+    },
+    {
+      "id": 1438706740,
+      "name": "win-office-activation-toolkit",
+      "full_name": "Muwanga6/win-office-activation-toolkit",
+      "description": "Windows setup Suite: Open-Source HWID, Ohook, TSforge, and Online KMS Methods",
+      "html_url": "https://github.com/Muwanga6/win-office-activation-toolkit",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": "Go",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-29T16:53:33Z",
+      "updated_at": "2026-11-01T19:55:55Z",
+      "pushed_at": "2026-11-01T19:55:51Z"
+    },
+    {
+      "id": 1438667386,
+      "name": "windows-activation-suite",
+      "full_name": "josemanuelzaca/windows-activation-suite",
+      "description": "Open-Source Windows and Office setup Suite with HWID, Ohook, TSforge, and Online KMS",
+      "html_url": "https://github.com/josemanuelzaca/windows-activation-suite",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-29T16:19:41Z",
+      "updated_at": "2026-11-01T20:13:12Z",
+      "pushed_at": "2026-11-01T20:13:08Z"
+    },
+    {
+      "id": 1438731064,
+      "name": "windows-activation-suite",
+      "full_name": "AYOMIDE339/windows-activation-suite",
+      "description": "Windows-setup-Suite: HWID, Ohook, TSforge, and Online KMS methods for Windows and Office",
+      "html_url": "https://github.com/AYOMIDE339/windows-activation-suite",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-29T17:14:54Z",
+      "updated_at": "2026-11-01T19:59:36Z",
+      "pushed_at": "2026-11-01T19:59:33Z"
+    },
+    {
+      "id": 1438690910,
+      "name": "windows-activation-suite",
+      "full_name": "hamlaraid39-maker/windows-activation-suite",
+      "description": "Open-source HWID, Ohook, TSforge and Online KMS setup suite for Windows and Office",
+      "html_url": "https://github.com/hamlaraid39-maker/windows-activation-suite",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-29T16:39:59Z",
+      "updated_at": "2026-11-01T20:03:45Z",
+      "pushed_at": "2026-11-01T20:03:42Z"
     },
     {
       "id": 1396348192,
@@ -11286,6 +11274,36 @@
       "pushed_at": "2026-10-29T13:04:39Z"
     },
     {
+      "id": 1433923128,
+      "name": "vram-switcher",
+      "full_name": "xiaoxiao150/vram-switcher",
+      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
+      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
+      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
+      "stars": 64,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "astrbot",
+        "astrbot-plugin",
+        "comfyui",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gpu",
+        "indextts",
+        "llama-cpp",
+        "python",
+        "tts",
+        "vram",
+        "windows"
+      ],
+      "created_at": "2026-10-26T05:00:40Z",
+      "updated_at": "2026-11-01T18:44:39Z",
+      "pushed_at": "2026-10-29T14:28:21Z"
+    },
+    {
       "id": 1387598614,
       "name": "fluidplan",
       "full_name": "morganhub/fluidplan",
@@ -11322,36 +11340,6 @@
       "created_at": "2026-10-26T07:22:52Z",
       "updated_at": "2026-10-29T15:49:06Z",
       "pushed_at": "2026-10-26T07:23:00Z"
-    },
-    {
-      "id": 1433923128,
-      "name": "vram-switcher",
-      "full_name": "xiaoxiao150/vram-switcher",
-      "description": "GPU coordination for local AI companions on AstrBot / DeepSeek Harness: persona LLM, IndexTTS voice and ComfyUI selfies take turns on one 12 GB card. No proxy.",
-      "html_url": "https://github.com/xiaoxiao150/vram-switcher",
-      "homepage": "https://github.com/xiaoxiao150/vram-switcher#readme",
-      "stars": 63,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "astrbot",
-        "astrbot-plugin",
-        "comfyui",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "gpu",
-        "indextts",
-        "llama-cpp",
-        "python",
-        "tts",
-        "vram",
-        "windows"
-      ],
-      "created_at": "2026-10-26T05:00:40Z",
-      "updated_at": "2026-11-01T12:32:53Z",
-      "pushed_at": "2026-10-29T14:28:21Z"
     },
     {
       "id": 1400269105,
@@ -11715,62 +11703,6 @@
       "created_at": "2026-10-11T04:38:04Z",
       "updated_at": "2026-10-17T18:25:20Z",
       "pushed_at": "2026-10-17T23:00:32Z"
-    },
-    {
-      "id": 1437329506,
-      "name": "content-machine-respocket",
-      "full_name": "SolarUponSpeed/content-machine-respocket",
-      "description": "CLI-first automated short-form video generator for TikTok, Reels, and Shorts (npm: @45ck/content-machine)",
-      "html_url": "https://github.com/SolarUponSpeed/content-machine-respocket",
-      "homepage": null,
-      "stars": 58,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "comment-bot",
-        "engagement-bot",
-        "multi-threading",
-        "proxy-support",
-        "remotion",
-        "short-form-video",
-        "shorts",
-        "shorts-automation",
-        "social-media-automation",
-        "video-analysis",
-        "video-automation-ai",
-        "video-editing"
-      ],
-      "created_at": "2026-10-28T16:15:40Z",
-      "updated_at": "2026-11-01T16:00:28Z",
-      "pushed_at": "2026-10-28T16:15:49Z"
-    },
-    {
-      "id": 1437331584,
-      "name": "JennyModMinecraft-rpocket-team",
-      "full_name": "Quartzirace23178/JennyModMinecraft-rpocket-team",
-      "description": "Jenny Mod Minecraft v2.1.0 binds jenny mod minecraft on Forge 1.20.1 plus jenny mod 1.21.1. jenny mod minecraft bedrock and jenny mod apk cover PE. curseforge jenny mod, Java edition skins.",
-      "html_url": "https://github.com/Quartzirace23178/JennyModMinecraft-rpocket-team",
-      "homepage": null,
-      "stars": 58,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "all-the-mods-11",
-        "curseforge-jenny-mod",
-        "jenny",
-        "jenny-mod",
-        "jenny-mod-2026",
-        "jenny-mod-all-versions",
-        "jenny-mod-video",
-        "jennymod",
-        "jennymod-2026",
-        "mcserver",
-        "minecraft-launcher-open-source-gplv3",
-        "mod-development"
-      ],
-      "created_at": "2026-10-28T16:17:22Z",
-      "updated_at": "2026-11-01T16:00:29Z",
-      "pushed_at": "2026-10-28T16:17:31Z"
     },
     {
       "id": 1422310322,
@@ -12400,6 +12332,42 @@
       "pushed_at": "2026-10-27T00:42:44Z"
     },
     {
+      "id": 1434015419,
+      "name": "DLSS5-Unlocker-rpocket-team",
+      "full_name": "NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
+      "description": "Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.",
+      "html_url": "https://github.com/NoobUnderTreant/DLSS5-Unlocker-rpocket-team",
+      "homepage": null,
+      "stars": 52,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "amd",
+        "amd-gpu",
+        "cs2-stutter-fix",
+        "dlss",
+        "dlss-5",
+        "dlss-5-mod",
+        "dlss5",
+        "dlss5-optiscaler",
+        "dlss5-swapper",
+        "dlss5-universal",
+        "fps-booster-no-lag",
+        "frame-generation",
+        "fsr",
+        "mod-manager",
+        "modding",
+        "nvidia",
+        "nvidia-gpu",
+        "pc-gaming",
+        "radeon",
+        "super-resolution"
+      ],
+      "created_at": "2026-10-26T06:56:44Z",
+      "updated_at": "2026-11-01T19:48:14Z",
+      "pushed_at": "2026-10-26T06:56:52Z"
+    },
+    {
       "id": 1402430099,
       "name": "daily-team",
       "full_name": "isas1/daily-team",
@@ -12790,6 +12758,21 @@
       "created_at": "2026-10-29T12:23:49Z",
       "updated_at": "2026-10-29T12:26:52Z",
       "pushed_at": "2026-10-29T12:24:01Z"
+    },
+    {
+      "id": 1434680801,
+      "name": "PandaOrchestrator",
+      "full_name": "aicodeking/PandaOrchestrator",
+      "description": "Local LLM router: a 31 MB task profiler + model-card matcher that picks the cheapest model likely to succeed. HTTP, CLI, Python and MCP.",
+      "html_url": "https://github.com/aicodeking/PandaOrchestrator",
+      "homepage": null,
+      "stars": 49,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-26T17:00:55Z",
+      "updated_at": "2026-11-01T21:45:41Z",
+      "pushed_at": "2026-10-27T09:47:28Z"
     },
     {
       "id": 1412855958,
@@ -13558,21 +13541,6 @@
       "created_at": "2026-10-31T13:32:56Z",
       "updated_at": "2026-10-31T18:25:32Z",
       "pushed_at": "2026-10-31T13:33:10Z"
-    },
-    {
-      "id": 1434680801,
-      "name": "PandaOrchestrator",
-      "full_name": "aicodeking/PandaOrchestrator",
-      "description": "Local LLM router: a 31 MB task profiler + model-card matcher that picks the cheapest model likely to succeed. HTTP, CLI, Python and MCP.",
-      "html_url": "https://github.com/aicodeking/PandaOrchestrator",
-      "homepage": null,
-      "stars": 42,
-      "forks": 7,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-26T17:00:55Z",
-      "updated_at": "2026-11-01T16:30:17Z",
-      "pushed_at": "2026-10-27T09:47:28Z"
     },
     {
       "id": 1377057562,
@@ -14742,6 +14710,42 @@
       "pushed_at": "2026-10-22T06:48:28Z"
     },
     {
+      "id": 1434534275,
+      "name": "deepseek-v4.1-flash-1017-abliterated",
+      "full_name": "7API/deepseek-v4.1-flash-1017-abliterated",
+      "description": "DeepSeek V4.1 Flash 1017 Abliterated or Uncensored AI model — DeepSeek prompt, 34-file prompt collection, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, GLM and Kimi.",
+      "html_url": "https://github.com/7API/deepseek-v4.1-flash-1017-abliterated",
+      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=deepseek-v4.1-flash-1017-abliterated",
+      "stars": 31,
+      "forks": 6,
+      "language": null,
+      "topics": [
+        "abliterated",
+        "abliterated-models",
+        "ai-jailbreaks",
+        "anthropic-compatible",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-v4-1",
+        "deepseek-v4-1-abliterated",
+        "deepseek-v4-1-flash",
+        "deepseek-v4-1-flash-1017",
+        "deepseek-v4-1-flash-abliterated",
+        "deepseek-v4-1-flash-jailbreak",
+        "deepseek-v4-1-flash-uncensored",
+        "deepseek-v4-1-uncensored",
+        "jailbreak-prompts",
+        "llm-jailbreak",
+        "openai-compatible",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-model"
+      ],
+      "created_at": "2026-10-26T14:58:24Z",
+      "updated_at": "2026-11-01T09:48:18Z",
+      "pushed_at": "2026-10-26T15:18:35Z"
+    },
+    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -14938,42 +14942,6 @@
       "created_at": "2026-10-22T05:40:58Z",
       "updated_at": "2026-10-28T19:02:21Z",
       "pushed_at": "2026-10-25T06:56:27Z"
-    },
-    {
-      "id": 1434534275,
-      "name": "deepseek-v4.1-flash-1017-abliterated",
-      "full_name": "7API/deepseek-v4.1-flash-1017-abliterated",
-      "description": "DeepSeek V4.1 Flash 1017 Abliterated or Uncensored AI model — DeepSeek prompt, 34-file prompt collection, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, GLM and Kimi.",
-      "html_url": "https://github.com/7API/deepseek-v4.1-flash-1017-abliterated",
-      "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=deepseek-v4.1-flash-1017-abliterated",
-      "stars": 30,
-      "forks": 7,
-      "language": null,
-      "topics": [
-        "abliterated",
-        "abliterated-models",
-        "ai-jailbreaks",
-        "anthropic-compatible",
-        "deepseek",
-        "deepseek-ai",
-        "deepseek-v4-1",
-        "deepseek-v4-1-abliterated",
-        "deepseek-v4-1-flash",
-        "deepseek-v4-1-flash-1017",
-        "deepseek-v4-1-flash-abliterated",
-        "deepseek-v4-1-flash-jailbreak",
-        "deepseek-v4-1-flash-uncensored",
-        "deepseek-v4-1-uncensored",
-        "jailbreak-prompts",
-        "llm-jailbreak",
-        "openai-compatible",
-        "uncensored",
-        "uncensored-ai",
-        "uncensored-ai-model"
-      ],
-      "created_at": "2026-10-26T14:58:24Z",
-      "updated_at": "2026-10-30T17:48:14Z",
-      "pushed_at": "2026-10-26T15:18:35Z"
     },
     {
       "id": 1375795989,
@@ -15271,6 +15239,21 @@
       "pushed_at": "2026-10-26T20:26:26Z"
     },
     {
+      "id": 1436064384,
+      "name": "performatively-releases",
+      "full_name": "bunsoootchi/performatively-releases",
+      "description": "Performatively: a free e-reader for the Galaxy Z Fold 8 that shows your book cover on the cover screen. Downloads here.",
+      "html_url": "https://github.com/bunsoootchi/performatively-releases",
+      "homepage": null,
+      "stars": 28,
+      "forks": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-27T17:32:05Z",
+      "updated_at": "2026-11-01T13:22:30Z",
+      "pushed_at": "2026-10-31T08:47:59Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -15330,19 +15313,32 @@
       "pushed_at": "2026-10-04T06:32:32Z"
     },
     {
-      "id": 1436064384,
-      "name": "performatively-releases",
-      "full_name": "bunsoootchi/performatively-releases",
-      "description": "Performatively: a free e-reader for the Galaxy Z Fold 8 that shows your book cover on the cover screen. Downloads here.",
-      "html_url": "https://github.com/bunsoootchi/performatively-releases",
+      "id": 1437331584,
+      "name": "JennyModMinecraft-rpocket-team",
+      "full_name": "Quartzirace23178/JennyModMinecraft-rpocket-team",
+      "description": "Jenny Mod Minecraft v2.1.0 binds jenny mod minecraft on Forge 1.20.1 plus jenny mod 1.21.1. jenny mod minecraft bedrock and jenny mod apk cover PE. curseforge jenny mod, Java edition skins.",
+      "html_url": "https://github.com/Quartzirace23178/JennyModMinecraft-rpocket-team",
       "homepage": null,
-      "stars": 27,
-      "forks": 1,
-      "language": null,
-      "topics": [],
-      "created_at": "2026-10-27T17:32:05Z",
-      "updated_at": "2026-10-31T08:48:02Z",
-      "pushed_at": "2026-10-31T08:47:59Z"
+      "stars": 26,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "all-the-mods-11",
+        "curseforge-jenny-mod",
+        "jenny",
+        "jenny-mod",
+        "jenny-mod-2026",
+        "jenny-mod-all-versions",
+        "jenny-mod-video",
+        "jennymod",
+        "jennymod-2026",
+        "mcserver",
+        "minecraft-launcher-open-source-gplv3",
+        "mod-development"
+      ],
+      "created_at": "2026-10-28T16:17:22Z",
+      "updated_at": "2026-11-01T19:48:40Z",
+      "pushed_at": "2026-10-28T16:17:31Z"
     },
     {
       "id": 1387743071,
@@ -15498,6 +15494,34 @@
       "pushed_at": "2026-10-29T10:30:43Z"
     },
     {
+      "id": 1437329506,
+      "name": "content-machine-respocket",
+      "full_name": "SolarUponSpeed/content-machine-respocket",
+      "description": "CLI-first automated short-form video generator for TikTok, Reels, and Shorts (npm: @45ck/content-machine)",
+      "html_url": "https://github.com/SolarUponSpeed/content-machine-respocket",
+      "homepage": null,
+      "stars": 25,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "comment-bot",
+        "engagement-bot",
+        "multi-threading",
+        "proxy-support",
+        "remotion",
+        "short-form-video",
+        "shorts",
+        "shorts-automation",
+        "social-media-automation",
+        "video-analysis",
+        "video-automation-ai",
+        "video-editing"
+      ],
+      "created_at": "2026-10-28T16:15:40Z",
+      "updated_at": "2026-11-01T19:48:36Z",
+      "pushed_at": "2026-10-28T16:15:49Z"
+    },
+    {
       "id": 1409300261,
       "name": "cardlane",
       "full_name": "Cryptoxiaoxiang/cardlane",
@@ -15646,6 +15670,21 @@
       "pushed_at": "2026-10-26T22:35:07Z"
     },
     {
+      "id": 1438821374,
+      "name": "hft-for-dummies",
+      "full_name": "bulletxyz/hft-for-dummies",
+      "description": "Companion code for the HFT for dummies series: a SOL-USD market maker on Bullet, built up one post at a time",
+      "html_url": "https://github.com/bulletxyz/hft-for-dummies",
+      "homepage": "https://app.bullet.xyz/trade?r=HFT4DUMMIES",
+      "stars": 25,
+      "forks": 9,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-29T18:39:56Z",
+      "updated_at": "2026-11-01T05:59:35Z",
+      "pushed_at": "2026-10-31T12:51:15Z"
+    },
+    {
       "id": 1377235275,
       "name": "sigillo",
       "full_name": "29-Cu/sigillo",
@@ -15695,21 +15734,6 @@
       "created_at": "2026-10-13T07:43:09Z",
       "updated_at": "2026-10-19T13:23:24Z",
       "pushed_at": "2026-10-16T10:10:05Z"
-    },
-    {
-      "id": 1438821374,
-      "name": "hft-for-dummies",
-      "full_name": "bulletxyz/hft-for-dummies",
-      "description": "Companion code for the HFT for dummies series: a SOL-USD market maker on Bullet, built up one post at a time",
-      "html_url": "https://github.com/bulletxyz/hft-for-dummies",
-      "homepage": "https://app.bullet.xyz/trade?r=HFT4DUMMIES",
-      "stars": 24,
-      "forks": 8,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-29T18:39:56Z",
-      "updated_at": "2026-10-31T12:51:12Z",
-      "pushed_at": "2026-10-31T12:51:15Z"
     },
     {
       "id": 1378959833,
@@ -15922,8 +15946,8 @@
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-27T11:22:56Z",
-      "updated_at": "2026-10-29T14:32:29Z",
-      "pushed_at": "2026-10-29T06:29:35Z"
+      "updated_at": "2026-11-01T12:32:29Z",
+      "pushed_at": "2026-11-01T12:32:25Z"
     },
     {
       "id": 1394505594,
@@ -16065,6 +16089,37 @@
       "created_at": "2026-10-14T00:20:09Z",
       "updated_at": "2026-10-16T02:27:23Z",
       "pushed_at": "2026-10-14T00:37:19Z"
+    },
+    {
+      "id": 1436416454,
+      "name": "nous-girl-stackchan",
+      "full_name": "dax8it/nous-girl-stackchan",
+      "description": "Open-source voice companion firmware for the M5Stack StackChan (CoreS3, ESP32-S3): xiaozhi-based, Hermes Agent brain, anime faces, dance, DJ and rave modes, memes and email. Beta.",
+      "html_url": "https://github.com/dax8it/nous-girl-stackchan",
+      "homepage": null,
+      "stars": 21,
+      "forks": 0,
+      "language": "C",
+      "topics": [
+        "ai-companion",
+        "cores3",
+        "esp-idf",
+        "esp32",
+        "esp32-s3",
+        "firmware",
+        "hermes-agent",
+        "lvgl",
+        "m5stack",
+        "nous-research",
+        "open-source",
+        "robot",
+        "stackchan",
+        "voice-assistant",
+        "xiaozhi"
+      ],
+      "created_at": "2026-10-28T00:12:56Z",
+      "updated_at": "2026-11-01T18:00:37Z",
+      "pushed_at": "2026-11-01T18:00:34Z"
     },
     {
       "id": 1417445101,
@@ -16417,6 +16472,21 @@
       "pushed_at": "2026-10-16T16:19:31Z"
     },
     {
+      "id": 1435533356,
+      "name": "CVE-2026-112611-cg-shading",
+      "full_name": "Ping-2o/CVE-2026-112611-cg-shading",
+      "description": "CVE-2026-112611/112610: CoreGraphics PDF out-of-bounds writes (fixed in iOS 27.2) — fix-diff analysis, on-device proof, methodology, and PoC generator scripts. No prebuilt PoCs, no crash reports.",
+      "html_url": "https://github.com/Ping-2o/CVE-2026-112611-cg-shading",
+      "homepage": null,
+      "stars": 18,
+      "forks": 4,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-27T09:46:42Z",
+      "updated_at": "2026-10-31T05:31:52Z",
+      "pushed_at": "2026-10-27T09:46:48Z"
+    },
+    {
       "id": 1386745578,
       "name": "black-wire-pinouts",
       "full_name": "valleytechsolutions/black-wire-pinouts",
@@ -16545,21 +16615,6 @@
       "created_at": "2026-10-19T01:45:23Z",
       "updated_at": "2026-10-25T23:40:11Z",
       "pushed_at": "2026-10-25T23:40:08Z"
-    },
-    {
-      "id": 1435533356,
-      "name": "CVE-2026-112611-cg-shading",
-      "full_name": "Ping-2o/CVE-2026-112611-cg-shading",
-      "description": "CVE-2026-112611/112610: CoreGraphics PDF out-of-bounds writes (fixed in iOS 27.2) — fix-diff analysis, on-device proof, methodology, and PoC generator scripts. No prebuilt PoCs, no crash reports.",
-      "html_url": "https://github.com/Ping-2o/CVE-2026-112611-cg-shading",
-      "homepage": null,
-      "stars": 17,
-      "forks": 4,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-27T09:46:42Z",
-      "updated_at": "2026-10-30T16:34:20Z",
-      "pushed_at": "2026-10-27T09:46:48Z"
     },
     {
       "id": 1433339138,
