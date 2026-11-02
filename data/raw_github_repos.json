@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/2 05:51:13",
-  "total_repos": 792,
+  "fetched_at": "2026/11/2 09:22:36",
+  "total_repos": 796,
   "repos": [
     {
       "id": 1425658028,
@@ -825,18 +825,41 @@
       "pushed_at": "2026-10-28T11:35:35Z"
     },
     {
+      "id": 1439885901,
+      "name": "sapper-v2",
+      "full_name": "N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "html_url": "https://github.com/N1nEmAn/sapper-v2",
+      "homepage": null,
+      "stars": 448,
+      "forks": 392,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm",
+        "multi-agent",
+        "pentest"
+      ],
+      "created_at": "2026-10-30T15:12:35Z",
+      "updated_at": "2026-11-02T01:12:57Z",
+      "pushed_at": "2026-11-01T15:48:49Z"
+    },
+    {
       "id": 1440340634,
       "name": "icloud-s3",
       "full_name": "ashayas/icloud-s3",
       "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "html_url": "https://github.com/ashayas/icloud-s3",
       "homepage": null,
-      "stars": 437,
+      "stars": 444,
       "forks": 30,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-30T23:54:20Z",
-      "updated_at": "2026-11-01T21:36:04Z",
+      "updated_at": "2026-11-02T00:14:57Z",
       "pushed_at": "2026-10-31T01:34:42Z"
     },
     {
@@ -853,29 +876,6 @@
       "created_at": "2026-10-18T09:27:46Z",
       "updated_at": "2026-10-24T19:39:55Z",
       "pushed_at": "2026-10-24T14:38:11Z"
-    },
-    {
-      "id": 1439885901,
-      "name": "sapper-v2",
-      "full_name": "N1nEmAn/sapper-v2",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "html_url": "https://github.com/N1nEmAn/sapper-v2",
-      "homepage": null,
-      "stars": 432,
-      "forks": 378,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "autonomous-agents",
-        "claude-code",
-        "ctf",
-        "llm",
-        "multi-agent",
-        "pentest"
-      ],
-      "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-01T18:27:46Z",
-      "pushed_at": "2026-11-01T15:48:49Z"
     },
     {
       "id": 1416828644,
@@ -1502,7 +1502,7 @@
       "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
       "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
       "homepage": "https://watsonfind.icu",
-      "stars": 358,
+      "stars": 359,
       "forks": 24,
       "language": "TypeScript",
       "topics": [
@@ -1528,8 +1528,8 @@
         "windows"
       ],
       "created_at": "2026-10-28T00:09:33Z",
-      "updated_at": "2026-11-01T19:19:10Z",
-      "pushed_at": "2026-11-01T02:17:03Z"
+      "updated_at": "2026-11-02T01:05:16Z",
+      "pushed_at": "2026-11-02T01:05:06Z"
     },
     {
       "id": 1438540053,
@@ -1582,6 +1582,21 @@
       "pushed_at": "2026-11-01T15:28:35Z"
     },
     {
+      "id": 1436420580,
+      "name": "LightPost",
+      "full_name": "brainstormity/LightPost",
+      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+      "html_url": "https://github.com/brainstormity/LightPost",
+      "homepage": null,
+      "stars": 338,
+      "forks": 65,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T00:19:12Z",
+      "updated_at": "2026-11-02T00:54:28Z",
+      "pushed_at": "2026-10-31T11:12:44Z"
+    },
+    {
       "id": 1412143785,
       "name": "robot-heads",
       "full_name": "fayazara/robot-heads",
@@ -1604,19 +1619,19 @@
       "pushed_at": "2026-10-10T05:18:23Z"
     },
     {
-      "id": 1436420580,
-      "name": "LightPost",
-      "full_name": "brainstormity/LightPost",
-      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
-      "html_url": "https://github.com/brainstormity/LightPost",
-      "homepage": null,
-      "stars": 333,
-      "forks": 65,
-      "language": "Python",
+      "id": 1437714204,
+      "name": "atlas-of-physics",
+      "full_name": "nathanliow/atlas-of-physics",
+      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
+      "html_url": "https://github.com/nathanliow/atlas-of-physics",
+      "homepage": "https://atlas-of-physics.vercel.app",
+      "stars": 330,
+      "forks": 98,
+      "language": "JavaScript",
       "topics": [],
-      "created_at": "2026-10-28T00:19:12Z",
-      "updated_at": "2026-11-01T20:58:12Z",
-      "pushed_at": "2026-10-31T11:12:44Z"
+      "created_at": "2026-10-28T22:54:22Z",
+      "updated_at": "2026-11-02T01:18:22Z",
+      "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
       "id": 1414415721,
@@ -1751,21 +1766,6 @@
       "created_at": "2026-10-21T01:29:33Z",
       "updated_at": "2026-10-27T20:55:59Z",
       "pushed_at": "2026-10-22T23:33:10Z"
-    },
-    {
-      "id": 1437714204,
-      "name": "atlas-of-physics",
-      "full_name": "nathanliow/atlas-of-physics",
-      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
-      "html_url": "https://github.com/nathanliow/atlas-of-physics",
-      "homepage": "https://atlas-of-physics.vercel.app",
-      "stars": 317,
-      "forks": 93,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-28T22:54:22Z",
-      "updated_at": "2026-11-01T20:20:40Z",
-      "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
       "id": 1381875232,
@@ -2889,6 +2889,29 @@
       "pushed_at": "2026-10-13T12:50:13Z"
     },
     {
+      "id": 1442056769,
+      "name": "uncut",
+      "full_name": "Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "html_url": "https://github.com/Balanov/uncut",
+      "homepage": null,
+      "stars": 226,
+      "forks": 0,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless",
+        "llm",
+        "local-models"
+      ],
+      "created_at": "2026-11-01T17:19:30Z",
+      "updated_at": "2026-11-02T01:09:36Z",
+      "pushed_at": "2026-11-02T00:34:07Z"
+    },
+    {
       "id": 1432256203,
       "name": "webframe",
       "full_name": "tractordev/webframe",
@@ -2915,12 +2938,12 @@
       "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
       "html_url": "https://github.com/win4r/video-director",
       "homepage": null,
-      "stars": 220,
+      "stars": 221,
       "forks": 17,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T03:35:27Z",
-      "updated_at": "2026-11-01T21:25:28Z",
+      "updated_at": "2026-11-02T00:36:23Z",
       "pushed_at": "2026-10-30T06:04:14Z"
     },
     {
@@ -2930,8 +2953,8 @@
       "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
       "html_url": "https://github.com/wquguru/shisei",
       "homepage": "https://shisei.indaloop.app",
-      "stars": 219,
-      "forks": 49,
+      "stars": 220,
+      "forks": 51,
       "language": "Python",
       "topics": [
         "ai-art",
@@ -2953,7 +2976,7 @@
         "stable-diffusion"
       ],
       "created_at": "2026-10-29T01:23:06Z",
-      "updated_at": "2026-11-01T21:22:40Z",
+      "updated_at": "2026-11-02T00:25:11Z",
       "pushed_at": "2026-11-01T15:08:55Z"
     },
     {
@@ -4776,12 +4799,12 @@
       "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
       "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
       "homepage": null,
-      "stars": 169,
+      "stars": 170,
       "forks": 254,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-31T10:56:27Z",
-      "updated_at": "2026-11-01T20:27:39Z",
+      "updated_at": "2026-11-01T22:14:49Z",
       "pushed_at": "2026-10-31T16:29:11Z"
     },
     {
@@ -5100,6 +5123,34 @@
       "pushed_at": "2026-10-20T21:15:59Z"
     },
     {
+      "id": 1436739802,
+      "name": "ai-design-check",
+      "full_name": "enmerasoftware/ai-design-check",
+      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
+      "html_url": "https://github.com/enmerasoftware/ai-design-check",
+      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
+      "stars": 157,
+      "forks": 8,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "android",
+        "claude-code",
+        "design-rules",
+        "design-system",
+        "ios",
+        "jetpack-compose",
+        "lint",
+        "swiftui",
+        "tailwindcss",
+        "ui"
+      ],
+      "created_at": "2026-10-28T07:20:59Z",
+      "updated_at": "2026-11-02T00:57:57Z",
+      "pushed_at": "2026-11-01T20:03:23Z"
+    },
+    {
       "id": 1382304020,
       "name": "riso-windowseat",
       "full_name": "sevenevesai/riso-windowseat",
@@ -5249,6 +5300,30 @@
       "pushed_at": "2026-10-22T11:59:39Z"
     },
     {
+      "id": 1440268480,
+      "name": "osint-people-checker",
+      "full_name": "ArcSwordKiln/osint-people-checker",
+      "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
+      "html_url": "https://github.com/ArcSwordKiln/osint-people-checker",
+      "homepage": null,
+      "stars": 147,
+      "forks": 12,
+      "language": "JavaScript",
+      "topics": [
+        "desktop",
+        "email-lookup",
+        "osint",
+        "phone-lookup",
+        "privacy",
+        "rust",
+        "scam-check",
+        "username-search"
+      ],
+      "created_at": "2026-10-30T21:57:37Z",
+      "updated_at": "2026-11-01T22:20:55Z",
+      "pushed_at": "2026-10-30T21:59:23Z"
+    },
+    {
       "id": 1431620755,
       "name": "dev-quality-gates",
       "full_name": "mokevnin/dev-quality-gates",
@@ -5271,58 +5346,6 @@
       "created_at": "2026-10-23T22:48:28Z",
       "updated_at": "2026-10-29T17:18:25Z",
       "pushed_at": "2026-10-28T00:56:46Z"
-    },
-    {
-      "id": 1440268480,
-      "name": "osint-people-checker",
-      "full_name": "ArcSwordKiln/osint-people-checker",
-      "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
-      "html_url": "https://github.com/ArcSwordKiln/osint-people-checker",
-      "homepage": null,
-      "stars": 146,
-      "forks": 12,
-      "language": "JavaScript",
-      "topics": [
-        "desktop",
-        "email-lookup",
-        "osint",
-        "phone-lookup",
-        "privacy",
-        "rust",
-        "scam-check",
-        "username-search"
-      ],
-      "created_at": "2026-10-30T21:57:37Z",
-      "updated_at": "2026-11-01T19:30:52Z",
-      "pushed_at": "2026-10-30T21:59:23Z"
-    },
-    {
-      "id": 1436739802,
-      "name": "ai-design-check",
-      "full_name": "enmerasoftware/ai-design-check",
-      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
-      "html_url": "https://github.com/enmerasoftware/ai-design-check",
-      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
-      "stars": 145,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skill",
-        "ai",
-        "android",
-        "claude-code",
-        "design-rules",
-        "design-system",
-        "ios",
-        "jetpack-compose",
-        "lint",
-        "swiftui",
-        "tailwindcss",
-        "ui"
-      ],
-      "created_at": "2026-10-28T07:20:59Z",
-      "updated_at": "2026-11-01T21:46:49Z",
-      "pushed_at": "2026-11-01T20:03:23Z"
     },
     {
       "id": 1410815894,
@@ -5366,6 +5389,21 @@
       "created_at": "2026-10-22T04:43:21Z",
       "updated_at": "2026-10-28T21:50:00Z",
       "pushed_at": "2026-10-28T19:31:23Z"
+    },
+    {
+      "id": 1440797906,
+      "name": "chanh-dien-online",
+      "full_name": "kentjuno/chanh-dien-online",
+      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
+      "html_url": "https://github.com/kentjuno/chanh-dien-online",
+      "homepage": null,
+      "stars": 142,
+      "forks": 222,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-31T11:38:45Z",
+      "updated_at": "2026-11-02T01:22:03Z",
+      "pushed_at": "2026-10-31T12:05:39Z"
     },
     {
       "id": 1403810477,
@@ -5965,21 +6003,6 @@
       "created_at": "2026-10-29T21:56:03Z",
       "updated_at": "2026-10-30T16:51:27Z",
       "pushed_at": "2026-10-29T22:00:06Z"
-    },
-    {
-      "id": 1440797906,
-      "name": "chanh-dien-online",
-      "full_name": "kentjuno/chanh-dien-online",
-      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
-      "html_url": "https://github.com/kentjuno/chanh-dien-online",
-      "homepage": null,
-      "stars": 132,
-      "forks": 219,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-31T11:38:45Z",
-      "updated_at": "2026-11-01T21:19:37Z",
-      "pushed_at": "2026-10-31T12:05:39Z"
     },
     {
       "id": 1414942519,
@@ -7445,6 +7468,30 @@
       "pushed_at": "2026-10-19T12:38:51Z"
     },
     {
+      "id": 1439548693,
+      "name": "fy-code-animation",
+      "full_name": "Akillll-DuoHe/fy-code-animation",
+      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
+      "stars": 105,
+      "forks": 13,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "chinese",
+        "code-animation",
+        "deepseek-harness",
+        "dsh-skill",
+        "motion-design",
+        "remotion",
+        "skill"
+      ],
+      "created_at": "2026-10-30T09:55:43Z",
+      "updated_at": "2026-11-02T01:09:26Z",
+      "pushed_at": "2026-10-30T09:56:05Z"
+    },
+    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -7685,30 +7732,6 @@
       "created_at": "2026-10-05T10:27:43Z",
       "updated_at": "2026-10-05T20:45:40Z",
       "pushed_at": "2026-10-05T10:27:49Z"
-    },
-    {
-      "id": 1439548693,
-      "name": "fy-code-animation",
-      "full_name": "Akillll-DuoHe/fy-code-animation",
-      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
-      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
-      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
-      "stars": 101,
-      "forks": 13,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "chinese",
-        "code-animation",
-        "deepseek-harness",
-        "dsh-skill",
-        "motion-design",
-        "remotion",
-        "skill"
-      ],
-      "created_at": "2026-10-30T09:55:43Z",
-      "updated_at": "2026-11-01T20:53:30Z",
-      "pushed_at": "2026-10-30T09:56:05Z"
     },
     {
       "id": 1405556648,
@@ -9725,62 +9748,6 @@
       "pushed_at": "2026-10-23T07:05:56Z"
     },
     {
-      "id": 1438680912,
-      "name": "system-activation-manager",
-      "full_name": "Uaene-code/system-activation-manager",
-      "description": "Open-source Windows and Office setup toolkit with HWID, Ohook, TSforge, and Online KMS support",
-      "html_url": "https://github.com/Uaene-code/system-activation-manager",
-      "homepage": null,
-      "stars": 82,
-      "forks": 0,
-      "language": "Rust",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-29T16:31:10Z",
-      "updated_at": "2026-11-01T01:59:04Z",
-      "pushed_at": "2026-11-01T01:59:00Z"
-    },
-    {
-      "id": 1438683823,
-      "name": "windows-activation-suite",
-      "full_name": "Ayato07/windows-activation-suite",
-      "description": "Open-source Windows and Office setup toolkit with HWID, Ohook, TSforge, and Online KMS methods",
-      "html_url": "https://github.com/Ayato07/windows-activation-suite",
-      "homepage": null,
-      "stars": 82,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-10-29T16:33:44Z",
-      "updated_at": "2026-10-31T22:58:18Z",
-      "pushed_at": "2026-10-31T22:58:15Z"
-    },
-    {
       "id": 1438683779,
       "name": "windows-activation-suite",
       "full_name": "hariiieee/windows-activation-suite",
@@ -10589,8 +10556,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T15:09:39Z",
-      "updated_at": "2026-11-01T20:56:53Z",
-      "pushed_at": "2026-11-01T20:56:49Z"
+      "updated_at": "2026-11-02T00:17:24Z",
+      "pushed_at": "2026-11-02T00:17:20Z"
     },
     {
       "id": 1399838098,
@@ -10659,6 +10626,62 @@
       "pushed_at": "2026-10-15T07:38:02Z"
     },
     {
+      "id": 1438680912,
+      "name": "system-activation-manager",
+      "full_name": "Uaene-code/system-activation-manager",
+      "description": "Open-source Windows and Office setup toolkit with HWID, Ohook, TSforge, and Online KMS support",
+      "html_url": "https://github.com/Uaene-code/system-activation-manager",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": "Rust",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-29T16:31:10Z",
+      "updated_at": "2026-11-02T00:35:20Z",
+      "pushed_at": "2026-11-02T00:35:16Z"
+    },
+    {
+      "id": 1438683823,
+      "name": "windows-activation-suite",
+      "full_name": "Ayato07/windows-activation-suite",
+      "description": "Open-source Windows and Office setup toolkit with HWID, Ohook, TSforge, and Online KMS methods",
+      "html_url": "https://github.com/Ayato07/windows-activation-suite",
+      "homepage": null,
+      "stars": 68,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-10-29T16:33:44Z",
+      "updated_at": "2026-11-02T00:07:05Z",
+      "pushed_at": "2026-11-02T00:07:02Z"
+    },
+    {
       "id": 1438698229,
       "name": "win11-activation-scripts",
       "full_name": "obnsiah/win11-activation-scripts",
@@ -10675,8 +10698,8 @@
         "windows11"
       ],
       "created_at": "2026-10-29T16:46:11Z",
-      "updated_at": "2026-11-01T19:56:41Z",
-      "pushed_at": "2026-11-01T19:56:38Z"
+      "updated_at": "2026-11-01T23:15:12Z",
+      "pushed_at": "2026-11-01T23:15:08Z"
     },
     {
       "id": 1438706740,
@@ -10703,8 +10726,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:53:33Z",
-      "updated_at": "2026-11-01T19:55:55Z",
-      "pushed_at": "2026-11-01T19:55:51Z"
+      "updated_at": "2026-11-01T23:13:29Z",
+      "pushed_at": "2026-11-01T23:13:25Z"
     },
     {
       "id": 1438667386,
@@ -10731,8 +10754,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:19:41Z",
-      "updated_at": "2026-11-01T20:13:12Z",
-      "pushed_at": "2026-11-01T20:13:08Z"
+      "updated_at": "2026-11-02T00:16:06Z",
+      "pushed_at": "2026-11-02T00:16:03Z"
     },
     {
       "id": 1438731064,
@@ -10759,8 +10782,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T17:14:54Z",
-      "updated_at": "2026-11-01T19:59:36Z",
-      "pushed_at": "2026-11-01T19:59:33Z"
+      "updated_at": "2026-11-01T23:25:28Z",
+      "pushed_at": "2026-11-01T23:25:25Z"
     },
     {
       "id": 1438690910,
@@ -10787,8 +10810,8 @@
         "windows-11"
       ],
       "created_at": "2026-10-29T16:39:59Z",
-      "updated_at": "2026-11-01T20:03:45Z",
-      "pushed_at": "2026-11-01T20:03:42Z"
+      "updated_at": "2026-11-02T00:08:08Z",
+      "pushed_at": "2026-11-02T00:08:04Z"
     },
     {
       "id": 1396348192,
@@ -16415,6 +16438,21 @@
       "pushed_at": "2026-10-29T12:12:03Z"
     },
     {
+      "id": 1435533356,
+      "name": "CVE-2026-112611-cg-shading",
+      "full_name": "Ping-2o/CVE-2026-112611-cg-shading",
+      "description": "CVE-2026-112611/112610: CoreGraphics PDF out-of-bounds writes (fixed in iOS 27.2) — fix-diff analysis, on-device proof, methodology, and PoC generator scripts. No prebuilt PoCs, no crash reports.",
+      "html_url": "https://github.com/Ping-2o/CVE-2026-112611-cg-shading",
+      "homepage": null,
+      "stars": 19,
+      "forks": 4,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-27T09:46:42Z",
+      "updated_at": "2026-11-02T01:13:43Z",
+      "pushed_at": "2026-10-27T09:46:48Z"
+    },
+    {
       "id": 1387292246,
       "name": "ClickMyPayload",
       "full_name": "shaheeryasirofficial/ClickMyPayload",
@@ -16470,21 +16508,6 @@
       "created_at": "2026-10-15T11:28:45Z",
       "updated_at": "2026-10-21T22:20:14Z",
       "pushed_at": "2026-10-16T16:19:31Z"
-    },
-    {
-      "id": 1435533356,
-      "name": "CVE-2026-112611-cg-shading",
-      "full_name": "Ping-2o/CVE-2026-112611-cg-shading",
-      "description": "CVE-2026-112611/112610: CoreGraphics PDF out-of-bounds writes (fixed in iOS 27.2) — fix-diff analysis, on-device proof, methodology, and PoC generator scripts. No prebuilt PoCs, no crash reports.",
-      "html_url": "https://github.com/Ping-2o/CVE-2026-112611-cg-shading",
-      "homepage": null,
-      "stars": 18,
-      "forks": 4,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-27T09:46:42Z",
-      "updated_at": "2026-10-31T05:31:52Z",
-      "pushed_at": "2026-10-27T09:46:48Z"
     },
     {
       "id": 1386745578,
@@ -16876,12 +16899,47 @@
       "html_url": "https://github.com/free-dam-man/pxxl-xray-ws-tls-skill",
       "homepage": null,
       "stars": 16,
-      "forks": 11,
+      "forks": 13,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-28T17:31:04Z",
       "updated_at": "2026-10-29T22:51:45Z",
       "pushed_at": "2026-10-28T17:31:15Z"
+    },
+    {
+      "id": 1441806944,
+      "name": "ha-weather-banner",
+      "full_name": "jerahmeel-sudo/ha-weather-banner",
+      "description": "Weather banner card for Home Assistant: colours and artwork change with the weather and day/night (button-card)",
+      "html_url": "https://github.com/jerahmeel-sudo/ha-weather-banner",
+      "homepage": null,
+      "stars": 16,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "button-card",
+        "home-assistant",
+        "lovelace",
+        "weather"
+      ],
+      "created_at": "2026-11-01T12:41:55Z",
+      "updated_at": "2026-11-01T23:09:40Z",
+      "pushed_at": "2026-11-01T12:42:01Z"
+    },
+    {
+      "id": 1439948386,
+      "name": "super-file-bros",
+      "full_name": "byizmysh/super-file-bros",
+      "description": "A file manager for Nintendo Switch 2. Browse console storage, transfer files, and manage your SD card through an existing FS RPC connection.",
+      "html_url": "https://github.com/byizmysh/super-file-bros",
+      "homepage": null,
+      "stars": 16,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-30T16:08:35Z",
+      "updated_at": "2026-11-01T16:49:59Z",
+      "pushed_at": "2026-10-30T17:05:22Z"
     },
     {
       "id": 1430113995,
@@ -17129,8 +17187,8 @@
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-29T13:17:24Z",
-      "updated_at": "2026-10-30T06:51:02Z",
-      "pushed_at": "2026-10-29T22:01:12Z"
+      "updated_at": "2026-10-31T12:22:51Z",
+      "pushed_at": "2026-10-31T12:22:46Z"
     },
     {
       "id": 1379723846,
@@ -17311,6 +17369,41 @@
       "created_at": "2026-10-12T21:29:28Z",
       "updated_at": "2026-10-18T19:59:06Z",
       "pushed_at": "2026-10-12T21:29:34Z"
+    },
+    {
+      "id": 1435806986,
+      "name": "btc-flash-sender",
+      "full_name": "btc-tools-new/btc-flash-sender",
+      "description": "🎯 btc-flash-sender-pc-desktop-generator-fake-crypto-bitcoin 🎯",
+      "html_url": "https://github.com/btc-tools-new/btc-flash-sender",
+      "homepage": null,
+      "stars": 14,
+      "forks": 14,
+      "language": "HTML",
+      "topics": [
+        "bitcoin-blockchain-transaction",
+        "bitcoin-flash-sender",
+        "bitcoin-network-transaction",
+        "bitcoin-payment-app",
+        "bitcoin-payment-sender",
+        "bitcoin-transaction-platform",
+        "bitcoin-transaction-sender",
+        "bitcoin-transfer-service",
+        "bitcoin-wallet-software",
+        "btc-payment-solution",
+        "btc-payment-tool",
+        "btc-transaction-processor",
+        "btc-transaction-tool",
+        "btc-transfer-software",
+        "btc-transfer-tool",
+        "btc-wallet-transfer",
+        "crypto-transfer-app",
+        "cryptocurrency-transaction-app",
+        "instant-bitcoin-transfer"
+      ],
+      "created_at": "2026-10-27T13:59:37Z",
+      "updated_at": "2026-10-31T23:08:25Z",
+      "pushed_at": "2026-10-27T14:09:09Z"
     },
     {
       "id": 1379722239,
