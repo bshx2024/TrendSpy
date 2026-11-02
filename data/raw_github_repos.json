@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/2 09:22:36",
-  "total_repos": 796,
+  "fetched_at": "2026/11/2 17:04:51",
+  "total_repos": 819,
   "repos": [
     {
       "id": 1425658028,
@@ -396,6 +396,29 @@
       "created_at": "2026-10-26T12:13:47Z",
       "updated_at": "2026-10-30T04:56:35Z",
       "pushed_at": "2026-10-27T06:48:29Z"
+    },
+    {
+      "id": 1439885901,
+      "name": "sapper-v2",
+      "full_name": "N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "html_url": "https://github.com/N1nEmAn/sapper-v2",
+      "homepage": null,
+      "stars": 553,
+      "forks": 457,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm",
+        "multi-agent",
+        "pentest"
+      ],
+      "created_at": "2026-10-30T15:12:35Z",
+      "updated_at": "2026-11-02T08:59:07Z",
+      "pushed_at": "2026-11-01T15:48:49Z"
     },
     {
       "id": 1433269248,
@@ -825,42 +848,42 @@
       "pushed_at": "2026-10-28T11:35:35Z"
     },
     {
-      "id": 1439885901,
-      "name": "sapper-v2",
-      "full_name": "N1nEmAn/sapper-v2",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "html_url": "https://github.com/N1nEmAn/sapper-v2",
-      "homepage": null,
-      "stars": 448,
-      "forks": 392,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "autonomous-agents",
-        "claude-code",
-        "ctf",
-        "llm",
-        "multi-agent",
-        "pentest"
-      ],
-      "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-02T01:12:57Z",
-      "pushed_at": "2026-11-01T15:48:49Z"
-    },
-    {
       "id": 1440340634,
       "name": "icloud-s3",
       "full_name": "ashayas/icloud-s3",
       "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "html_url": "https://github.com/ashayas/icloud-s3",
       "homepage": null,
-      "stars": 444,
+      "stars": 456,
       "forks": 30,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-30T23:54:20Z",
-      "updated_at": "2026-11-02T00:14:57Z",
+      "updated_at": "2026-11-02T08:52:02Z",
       "pushed_at": "2026-10-31T01:34:42Z"
+    },
+    {
+      "id": 1442056769,
+      "name": "uncut",
+      "full_name": "Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "html_url": "https://github.com/Balanov/uncut",
+      "homepage": null,
+      "stars": 443,
+      "forks": 2,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless",
+        "llm",
+        "local-models"
+      ],
+      "created_at": "2026-11-01T17:19:30Z",
+      "updated_at": "2026-11-02T09:02:19Z",
+      "pushed_at": "2026-11-02T00:34:07Z"
     },
     {
       "id": 1424201691,
@@ -1433,6 +1456,42 @@
       "pushed_at": "2026-10-12T17:43:56Z"
     },
     {
+      "id": 1436414244,
+      "name": "watson-AI-osint-all-in-one",
+      "full_name": "vaishantsah/watson-AI-osint-all-in-one",
+      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "homepage": "https://watsonfind.icu",
+      "stars": 376,
+      "forks": 42,
+      "language": "TypeScript",
+      "topics": [
+        "cybersecurity",
+        "desktop-app",
+        "digital-footprint",
+        "electron",
+        "free",
+        "infosec",
+        "intelligence",
+        "investigation",
+        "open-source-intelligence",
+        "osint",
+        "people-search",
+        "privacy",
+        "react",
+        "security-tools",
+        "social-media-search",
+        "tailwindcss",
+        "typescript",
+        "username-check",
+        "vite",
+        "windows"
+      ],
+      "created_at": "2026-10-28T00:09:33Z",
+      "updated_at": "2026-11-02T08:50:38Z",
+      "pushed_at": "2026-11-02T02:16:00Z"
+    },
+    {
       "id": 1415972784,
       "name": "darling-lol",
       "full_name": "lucannez64/darling-lol",
@@ -1496,40 +1555,19 @@
       "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
-      "id": 1436414244,
-      "name": "watson-AI-osint-all-in-one",
-      "full_name": "vaishantsah/watson-AI-osint-all-in-one",
-      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
-      "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
-      "homepage": "https://watsonfind.icu",
-      "stars": 359,
-      "forks": 24,
-      "language": "TypeScript",
-      "topics": [
-        "cybersecurity",
-        "desktop-app",
-        "digital-footprint",
-        "electron",
-        "free",
-        "infosec",
-        "intelligence",
-        "investigation",
-        "open-source-intelligence",
-        "osint",
-        "people-search",
-        "privacy",
-        "react",
-        "security-tools",
-        "social-media-search",
-        "tailwindcss",
-        "typescript",
-        "username-check",
-        "vite",
-        "windows"
-      ],
-      "created_at": "2026-10-28T00:09:33Z",
-      "updated_at": "2026-11-02T01:05:16Z",
-      "pushed_at": "2026-11-02T01:05:06Z"
+      "id": 1437714204,
+      "name": "atlas-of-physics",
+      "full_name": "nathanliow/atlas-of-physics",
+      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
+      "html_url": "https://github.com/nathanliow/atlas-of-physics",
+      "homepage": "https://atlas-of-physics.vercel.app",
+      "stars": 354,
+      "forks": 105,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-28T22:54:22Z",
+      "updated_at": "2026-11-02T08:49:37Z",
+      "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
       "id": 1438540053,
@@ -1588,12 +1626,12 @@
       "description": "A lightweight system to automate posting to all of your socials from one dashboard",
       "html_url": "https://github.com/brainstormity/LightPost",
       "homepage": null,
-      "stars": 338,
+      "stars": 342,
       "forks": 65,
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T00:19:12Z",
-      "updated_at": "2026-11-02T00:54:28Z",
+      "updated_at": "2026-11-02T08:37:30Z",
       "pushed_at": "2026-10-31T11:12:44Z"
     },
     {
@@ -1617,21 +1655,6 @@
       "created_at": "2026-10-09T16:28:47Z",
       "updated_at": "2026-10-15T12:29:39Z",
       "pushed_at": "2026-10-10T05:18:23Z"
-    },
-    {
-      "id": 1437714204,
-      "name": "atlas-of-physics",
-      "full_name": "nathanliow/atlas-of-physics",
-      "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
-      "html_url": "https://github.com/nathanliow/atlas-of-physics",
-      "homepage": "https://atlas-of-physics.vercel.app",
-      "stars": 330,
-      "forks": 98,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-28T22:54:22Z",
-      "updated_at": "2026-11-02T01:18:22Z",
-      "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
       "id": 1414415721,
@@ -2730,6 +2753,30 @@
       "pushed_at": "2026-10-29T07:16:51Z"
     },
     {
+      "id": 1442356805,
+      "name": "steam-stash-value-report-card",
+      "full_name": "AssassinCreator/steam-stash-value-report-card",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "homepage": null,
+      "stars": 236,
+      "forks": 16,
+      "language": "Python",
+      "topics": [
+        "cli",
+        "inventory",
+        "price-check",
+        "python",
+        "report-card",
+        "steam",
+        "steam-market",
+        "valuation"
+      ],
+      "created_at": "2026-11-02T00:40:47Z",
+      "updated_at": "2026-11-02T09:04:33Z",
+      "pushed_at": "2026-11-02T02:05:21Z"
+    },
+    {
       "id": 1426280410,
       "name": "FreeMyTvWebOS",
       "full_name": "danielthejoker18/FreeMyTvWebOS",
@@ -2889,71 +2936,13 @@
       "pushed_at": "2026-10-13T12:50:13Z"
     },
     {
-      "id": 1442056769,
-      "name": "uncut",
-      "full_name": "Balanov/uncut",
-      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "html_url": "https://github.com/Balanov/uncut",
-      "homepage": null,
-      "stars": 226,
-      "forks": 0,
-      "language": "Go",
-      "topics": [
-        "agent-harness",
-        "cli",
-        "coding-agent",
-        "go",
-        "headless",
-        "llm",
-        "local-models"
-      ],
-      "created_at": "2026-11-01T17:19:30Z",
-      "updated_at": "2026-11-02T01:09:36Z",
-      "pushed_at": "2026-11-02T00:34:07Z"
-    },
-    {
-      "id": 1432256203,
-      "name": "webframe",
-      "full_name": "tractordev/webframe",
-      "description": "Run a web page like a program",
-      "html_url": "https://github.com/tractordev/webframe",
-      "homepage": null,
-      "stars": 222,
-      "forks": 3,
-      "language": "Go",
-      "topics": [
-        "cross-platform",
-        "golang",
-        "headless-browser",
-        "purego"
-      ],
-      "created_at": "2026-10-24T14:18:15Z",
-      "updated_at": "2026-10-30T20:05:49Z",
-      "pushed_at": "2026-10-30T03:19:56Z"
-    },
-    {
-      "id": 1436559096,
-      "name": "video-director",
-      "full_name": "win4r/video-director",
-      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
-      "html_url": "https://github.com/win4r/video-director",
-      "homepage": null,
-      "stars": 221,
-      "forks": 17,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-28T03:35:27Z",
-      "updated_at": "2026-11-02T00:36:23Z",
-      "pushed_at": "2026-10-30T06:04:14Z"
-    },
-    {
       "id": 1437812726,
       "name": "shisei",
       "full_name": "wquguru/shisei",
       "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
       "html_url": "https://github.com/wquguru/shisei",
       "homepage": "https://shisei.indaloop.app",
-      "stars": 220,
+      "stars": 224,
       "forks": 51,
       "language": "Python",
       "topics": [
@@ -2976,8 +2965,43 @@
         "stable-diffusion"
       ],
       "created_at": "2026-10-29T01:23:06Z",
-      "updated_at": "2026-11-02T00:25:11Z",
+      "updated_at": "2026-11-02T07:43:55Z",
       "pushed_at": "2026-11-01T15:08:55Z"
+    },
+    {
+      "id": 1436559096,
+      "name": "video-director",
+      "full_name": "win4r/video-director",
+      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
+      "html_url": "https://github.com/win4r/video-director",
+      "homepage": null,
+      "stars": 223,
+      "forks": 17,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T03:35:27Z",
+      "updated_at": "2026-11-02T08:34:50Z",
+      "pushed_at": "2026-10-30T06:04:14Z"
+    },
+    {
+      "id": 1432256203,
+      "name": "webframe",
+      "full_name": "tractordev/webframe",
+      "description": "Run a web page like a program",
+      "html_url": "https://github.com/tractordev/webframe",
+      "homepage": null,
+      "stars": 222,
+      "forks": 3,
+      "language": "Go",
+      "topics": [
+        "cross-platform",
+        "golang",
+        "headless-browser",
+        "purego"
+      ],
+      "created_at": "2026-10-24T14:18:15Z",
+      "updated_at": "2026-10-30T20:05:49Z",
+      "pushed_at": "2026-10-30T03:19:56Z"
     },
     {
       "id": 1424555473,
@@ -3293,6 +3317,42 @@
       "created_at": "2026-10-05T04:26:14Z",
       "updated_at": "2026-10-11T16:45:45Z",
       "pushed_at": "2026-10-09T08:08:45Z"
+    },
+    {
+      "id": 1437694471,
+      "name": "cheap-ag",
+      "full_name": "muaaz9329/cheap-ag",
+      "description": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
+      "html_url": "https://github.com/muaaz9329/cheap-ag",
+      "homepage": "https://cheapag.com",
+      "stars": 208,
+      "forks": 16,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-coding",
+        "ai-agents",
+        "anthropic",
+        "cheap-llm",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "cost-optimization",
+        "deepseek",
+        "developer-tools",
+        "llm",
+        "llm-agents",
+        "mcp",
+        "mcp-server",
+        "multi-agent",
+        "opencode",
+        "opencode-go",
+        "openrouter"
+      ],
+      "created_at": "2026-10-28T22:26:18Z",
+      "updated_at": "2026-11-02T08:59:57Z",
+      "pushed_at": "2026-11-02T00:42:27Z"
     },
     {
       "id": 1415436686,
@@ -4146,39 +4206,6 @@
       "pushed_at": "2026-10-31T07:26:41Z"
     },
     {
-      "id": 1441693752,
-      "name": "SP-Flash-Tool",
-      "full_name": "Fusenamoon77/SP-Flash-Tool",
-      "description": "Sp Flash Tool 2026: Complete standalone setup with all necessary drivers and utilities for efficient firmware flashing.",
-      "html_url": "https://github.com/Fusenamoon77/SP-Flash-Tool",
-      "homepage": null,
-      "stars": 200,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "mediatek-2026",
-        "mediatek-flash",
-        "mediatek-flash-2026",
-        "mediatek-sp-flash-tool",
-        "mtk-flash-tool-windows-install",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "sp-flash-tool-download-mediatek",
-        "sp-flash-tool-scatter-file-frp-2026",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-01T10:13:24Z",
-      "updated_at": "2026-11-01T11:00:33Z",
-      "pushed_at": "2026-11-01T10:13:29Z"
-    },
-    {
       "id": 1437373656,
       "name": "SketchUp-Pro",
       "full_name": "ScalarGrouse/SketchUp-Pro",
@@ -4459,6 +4486,42 @@
       "pushed_at": "2026-09-25T16:10:39Z"
     },
     {
+      "id": 1436115082,
+      "name": "Exodus-Balance-Flasher",
+      "full_name": "turquoiseouroboros/Exodus-Balance-Flasher",
+      "description": "Wallet UI simulation tool for BTC, ETH, SOL, XRP, and 200+ assets. Customize displayed balances in a controlled demo environment with persistent visual settings and screenshot-ready previews. Designed for testing, demonstrations, and UI prototyping without altering actual blockchain balances or transactions.",
+      "html_url": "https://github.com/turquoiseouroboros/Exodus-Balance-Flasher",
+      "homepage": null,
+      "stars": 189,
+      "forks": 36,
+      "language": "Python",
+      "topics": [
+        "bitcoin-transaction-tool",
+        "browser-crypto-wallet",
+        "cryptoflash-sender-usdt",
+        "electrum-payment",
+        "exodus-balance-demo",
+        "exodus-sol-flasher",
+        "exodus-trx-flasher",
+        "exodus-wallet-clone",
+        "exodus-wallet-demo",
+        "fake-balance-flasher-exodus",
+        "flash-loan-btc",
+        "flash-method",
+        "ledger-api",
+        "ltc-flash-exodus",
+        "phantom-clone",
+        "transaction-simulation",
+        "trust-wallet",
+        "trx",
+        "trx-fake-exodus",
+        "wallet-simulator-exodus"
+      ],
+      "created_at": "2026-10-27T18:18:53Z",
+      "updated_at": "2026-11-02T08:45:03Z",
+      "pushed_at": "2026-11-02T08:45:00Z"
+    },
+    {
       "id": 1415337709,
       "name": "lucian-uxui-prompt",
       "full_name": "Seokwoooo/lucian-uxui-prompt",
@@ -4478,6 +4541,21 @@
       "created_at": "2026-10-12T09:01:47Z",
       "updated_at": "2026-10-18T20:20:12Z",
       "pushed_at": "2026-10-16T09:26:34Z"
+    },
+    {
+      "id": 1440766826,
+      "name": "tiktok-live-temple-rpc",
+      "full_name": "zane-tv/tiktok-live-temple-rpc",
+      "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
+      "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
+      "homepage": null,
+      "stars": 187,
+      "forks": 276,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-31T10:56:27Z",
+      "updated_at": "2026-11-02T08:58:15Z",
+      "pushed_at": "2026-10-31T16:29:11Z"
     },
     {
       "id": 1417980343,
@@ -4647,6 +4725,34 @@
       "pushed_at": "2026-10-28T19:20:28Z"
     },
     {
+      "id": 1436739802,
+      "name": "ai-design-check",
+      "full_name": "enmerasoftware/ai-design-check",
+      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
+      "html_url": "https://github.com/enmerasoftware/ai-design-check",
+      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
+      "stars": 179,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "android",
+        "claude-code",
+        "design-rules",
+        "design-system",
+        "ios",
+        "jetpack-compose",
+        "lint",
+        "swiftui",
+        "tailwindcss",
+        "ui"
+      ],
+      "created_at": "2026-10-28T07:20:59Z",
+      "updated_at": "2026-11-02T08:54:31Z",
+      "pushed_at": "2026-11-02T04:33:44Z"
+    },
+    {
       "id": 1415913339,
       "name": "Instagram-Liker-Bot",
       "full_name": "shellviperoscillator/Instagram-Liker-Bot",
@@ -4768,6 +4874,21 @@
       "pushed_at": "2026-10-18T14:57:56Z"
     },
     {
+      "id": 1440965926,
+      "name": "NSP-Box",
+      "full_name": "smarkyie/NSP-Box",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "html_url": "https://github.com/smarkyie/NSP-Box",
+      "homepage": null,
+      "stars": 173,
+      "forks": 14,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-31T15:00:55Z",
+      "updated_at": "2026-11-02T08:57:06Z",
+      "pushed_at": "2026-11-01T22:24:59Z"
+    },
+    {
       "id": 1413230318,
       "name": "ForzaHorizon1-ReImagined",
       "full_name": "Dyotson/ForzaHorizon1-ReImagined",
@@ -4791,21 +4912,6 @@
       "created_at": "2026-10-10T13:37:16Z",
       "updated_at": "2026-10-16T22:22:27Z",
       "pushed_at": "2026-10-16T22:22:21Z"
-    },
-    {
-      "id": 1440766826,
-      "name": "tiktok-live-temple-rpc",
-      "full_name": "zane-tv/tiktok-live-temple-rpc",
-      "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
-      "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
-      "homepage": null,
-      "stars": 170,
-      "forks": 254,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-31T10:56:27Z",
-      "updated_at": "2026-11-01T22:14:49Z",
-      "pushed_at": "2026-10-31T16:29:11Z"
     },
     {
       "id": 1412301770,
@@ -5123,34 +5229,6 @@
       "pushed_at": "2026-10-20T21:15:59Z"
     },
     {
-      "id": 1436739802,
-      "name": "ai-design-check",
-      "full_name": "enmerasoftware/ai-design-check",
-      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
-      "html_url": "https://github.com/enmerasoftware/ai-design-check",
-      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
-      "stars": 157,
-      "forks": 8,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skill",
-        "ai",
-        "android",
-        "claude-code",
-        "design-rules",
-        "design-system",
-        "ios",
-        "jetpack-compose",
-        "lint",
-        "swiftui",
-        "tailwindcss",
-        "ui"
-      ],
-      "created_at": "2026-10-28T07:20:59Z",
-      "updated_at": "2026-11-02T00:57:57Z",
-      "pushed_at": "2026-11-01T20:03:23Z"
-    },
-    {
       "id": 1382304020,
       "name": "riso-windowseat",
       "full_name": "sevenevesai/riso-windowseat",
@@ -5170,6 +5248,36 @@
       "created_at": "2026-09-22T20:14:59Z",
       "updated_at": "2026-09-24T04:24:54Z",
       "pushed_at": "2026-09-23T22:34:48Z"
+    },
+    {
+      "id": 1441751010,
+      "name": "valorant-skin-changer",
+      "full_name": "BadgeStudentShovel/valorant-skin-changer",
+      "description": "Collection of open-source tools for Valorant — ESP, wallhack, and cheat notes. For educational and single-player use only.",
+      "html_url": "https://github.com/BadgeStudentShovel/valorant-skin-changer",
+      "homepage": null,
+      "stars": 156,
+      "forks": 36,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-11-01T11:31:07Z",
+      "updated_at": "2026-11-01T21:38:10Z",
+      "pushed_at": "2026-11-01T11:32:13Z"
+    },
+    {
+      "id": 1440797906,
+      "name": "chanh-dien-online",
+      "full_name": "kentjuno/chanh-dien-online",
+      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
+      "html_url": "https://github.com/kentjuno/chanh-dien-online",
+      "homepage": null,
+      "stars": 155,
+      "forks": 244,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-31T11:38:45Z",
+      "updated_at": "2026-11-02T08:47:29Z",
+      "pushed_at": "2026-10-31T12:05:39Z"
     },
     {
       "id": 1375327232,
@@ -5307,7 +5415,7 @@
       "html_url": "https://github.com/ArcSwordKiln/osint-people-checker",
       "homepage": null,
       "stars": 147,
-      "forks": 12,
+      "forks": 13,
       "language": "JavaScript",
       "topics": [
         "desktop",
@@ -5320,8 +5428,8 @@
         "username-search"
       ],
       "created_at": "2026-10-30T21:57:37Z",
-      "updated_at": "2026-11-01T22:20:55Z",
-      "pushed_at": "2026-10-30T21:59:23Z"
+      "updated_at": "2026-11-02T01:42:18Z",
+      "pushed_at": "2026-11-02T01:42:15Z"
     },
     {
       "id": 1431620755,
@@ -5389,21 +5497,6 @@
       "created_at": "2026-10-22T04:43:21Z",
       "updated_at": "2026-10-28T21:50:00Z",
       "pushed_at": "2026-10-28T19:31:23Z"
-    },
-    {
-      "id": 1440797906,
-      "name": "chanh-dien-online",
-      "full_name": "kentjuno/chanh-dien-online",
-      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
-      "html_url": "https://github.com/kentjuno/chanh-dien-online",
-      "homepage": null,
-      "stars": 142,
-      "forks": 222,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-31T11:38:45Z",
-      "updated_at": "2026-11-02T01:22:03Z",
-      "pushed_at": "2026-10-31T12:05:39Z"
     },
     {
       "id": 1403810477,
@@ -5564,6 +5657,39 @@
       "created_at": "2026-10-29T07:16:14Z",
       "updated_at": "2026-10-29T17:56:43Z",
       "pushed_at": "2026-10-29T07:16:25Z"
+    },
+    {
+      "id": 1441693752,
+      "name": "SP-Flash-Tool",
+      "full_name": "Fusenamoon77/SP-Flash-Tool",
+      "description": "Sp Flash Tool 2026: Complete standalone setup with all necessary drivers and utilities for efficient firmware flashing.",
+      "html_url": "https://github.com/Fusenamoon77/SP-Flash-Tool",
+      "homepage": null,
+      "stars": 138,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "mediatek-2026",
+        "mediatek-flash",
+        "mediatek-flash-2026",
+        "mediatek-sp-flash-tool",
+        "mtk-flash-tool-windows-install",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "sp-flash-tool-download-mediatek",
+        "sp-flash-tool-scatter-file-frp-2026",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-01T10:13:24Z",
+      "updated_at": "2026-11-02T08:55:48Z",
+      "pushed_at": "2026-11-01T10:13:29Z"
     },
     {
       "id": 1438075150,
@@ -6060,6 +6186,42 @@
       "pushed_at": "2026-10-21T12:41:25Z"
     },
     {
+      "id": 1440631696,
+      "name": "hongguo-downloader",
+      "full_name": "parallelpan/hongguo-downloader",
+      "description": "红果短剧批量下载工具：粘贴分享链接 → 云端处理 → 按集取件，支持整剧打包、分集直链与 ZIP 下载。Hongguo short drama downloader — batch download cdrama / duanju episodes online.",
+      "html_url": "https://github.com/parallelpan/hongguo-downloader",
+      "homepage": "https://guoshi.app",
+      "stars": 130,
+      "forks": 1,
+      "language": null,
+      "topics": [
+        "batch-download",
+        "cdrama",
+        "cdrama-downloader",
+        "chinese-drama",
+        "cloud-download",
+        "download-manager",
+        "drama-downloader",
+        "duanju",
+        "duanju-downloader",
+        "episode-download",
+        "hongguo",
+        "hongguo-downloader",
+        "hongguo-duanju",
+        "hongguo-short-drama",
+        "m3u8",
+        "online-downloader",
+        "short-drama",
+        "short-drama-downloader",
+        "short-video",
+        "video-downloader"
+      ],
+      "created_at": "2026-10-31T07:48:17Z",
+      "updated_at": "2026-11-02T09:04:42Z",
+      "pushed_at": "2026-10-31T07:52:13Z"
+    },
+    {
       "id": 1385750356,
       "name": "paperclip-guide",
       "full_name": "theNetworkChuck/paperclip-guide",
@@ -6325,6 +6487,30 @@
       "pushed_at": "2026-10-19T14:47:10Z"
     },
     {
+      "id": 1439548693,
+      "name": "fy-code-animation",
+      "full_name": "Akillll-DuoHe/fy-code-animation",
+      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
+      "stars": 123,
+      "forks": 15,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "chinese",
+        "code-animation",
+        "deepseek-harness",
+        "dsh-skill",
+        "motion-design",
+        "remotion",
+        "skill"
+      ],
+      "created_at": "2026-10-30T09:55:43Z",
+      "updated_at": "2026-11-02T08:18:20Z",
+      "pushed_at": "2026-10-30T09:56:05Z"
+    },
+    {
       "id": 1414327429,
       "name": "awesome-iran-mcp",
       "full_name": "sepehr071/awesome-iran-mcp",
@@ -6403,6 +6589,31 @@
       "created_at": "2026-10-19T22:21:30Z",
       "updated_at": "2026-10-22T23:03:24Z",
       "pushed_at": "2026-10-19T22:21:50Z"
+    },
+    {
+      "id": 1436596754,
+      "name": "tucano",
+      "full_name": "eduwxyz/tucano",
+      "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+      "html_url": "https://github.com/eduwxyz/tucano",
+      "homepage": "https://tucano.sh",
+      "stars": 122,
+      "forks": 24,
+      "language": "TypeScript",
+      "topics": [
+        "agent-team",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "electron",
+        "local-first",
+        "macos",
+        "mcp",
+        "multi-agent"
+      ],
+      "created_at": "2026-10-28T04:27:38Z",
+      "updated_at": "2026-11-02T06:09:38Z",
+      "pushed_at": "2026-11-02T02:11:53Z"
     },
     {
       "id": 1429468579,
@@ -7468,30 +7679,6 @@
       "pushed_at": "2026-10-19T12:38:51Z"
     },
     {
-      "id": 1439548693,
-      "name": "fy-code-animation",
-      "full_name": "Akillll-DuoHe/fy-code-animation",
-      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
-      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
-      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
-      "stars": 105,
-      "forks": 13,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "chinese",
-        "code-animation",
-        "deepseek-harness",
-        "dsh-skill",
-        "motion-design",
-        "remotion",
-        "skill"
-      ],
-      "created_at": "2026-10-30T09:55:43Z",
-      "updated_at": "2026-11-02T01:09:26Z",
-      "pushed_at": "2026-10-30T09:56:05Z"
-    },
-    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -7682,6 +7869,27 @@
       "pushed_at": "2026-10-05T01:56:08Z"
     },
     {
+      "id": 1440436666,
+      "name": "pulse-toolkit",
+      "full_name": "lokyfordev/pulse-toolkit",
+      "description": "Published: 2026-10-31",
+      "html_url": "https://github.com/lokyfordev/pulse-toolkit",
+      "homepage": null,
+      "stars": 102,
+      "forks": 16,
+      "language": "PowerShell",
+      "topics": [
+        "fps",
+        "gaming",
+        "racing",
+        "rpg",
+        "strategy"
+      ],
+      "created_at": "2026-10-31T02:40:53Z",
+      "updated_at": "2026-10-31T21:03:34Z",
+      "pushed_at": "2026-10-31T20:40:46Z"
+    },
+    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -7732,6 +7940,21 @@
       "created_at": "2026-10-05T10:27:43Z",
       "updated_at": "2026-10-05T20:45:40Z",
       "pushed_at": "2026-10-05T10:27:49Z"
+    },
+    {
+      "id": 1440422945,
+      "name": "sideload-jiostb",
+      "full_name": "ilikechocopies/sideload-jiostb",
+      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
+      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
+      "homepage": null,
+      "stars": 101,
+      "forks": 71,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-10-31T02:17:57Z",
+      "updated_at": "2026-11-02T08:57:17Z",
+      "pushed_at": "2026-11-02T06:50:06Z"
     },
     {
       "id": 1405556648,
@@ -8252,6 +8475,28 @@
       "created_at": "2026-10-30T17:28:40Z",
       "updated_at": "2026-10-30T21:20:57Z",
       "pushed_at": "2026-10-30T17:28:46Z"
+    },
+    {
+      "id": 1437982653,
+      "name": "minecraft-agent-harness",
+      "full_name": "yc-software/minecraft-agent-harness",
+      "description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+      "html_url": "https://github.com/yc-software/minecraft-agent-harness",
+      "homepage": null,
+      "stars": 100,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [
+        "agent-harness",
+        "ai-agents",
+        "llm",
+        "minecraft",
+        "mineflayer",
+        "multi-agent"
+      ],
+      "created_at": "2026-10-29T05:21:45Z",
+      "updated_at": "2026-11-02T07:31:27Z",
+      "pushed_at": "2026-10-29T20:30:45Z"
     },
     {
       "id": 1438082267,
@@ -8869,6 +9114,30 @@
       "pushed_at": "2026-10-26T21:43:26Z"
     },
     {
+      "id": 1435953741,
+      "name": "fush-vue-mcp",
+      "full_name": "fush520/fush-vue-mcp",
+      "description": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
+      "html_url": "https://github.com/fush520/fush-vue-mcp",
+      "homepage": null,
+      "stars": 93,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anti-debug",
+        "chrome-extension",
+        "mcp",
+        "pentesting",
+        "reverse-engineering-tools",
+        "security-tools",
+        "vue"
+      ],
+      "created_at": "2026-10-27T15:56:51Z",
+      "updated_at": "2026-11-02T08:42:20Z",
+      "pushed_at": "2026-11-01T16:39:25Z"
+    },
+    {
       "id": 1377530130,
       "name": "job_search_tool",
       "full_name": "fedorchenko-juli/job_search_tool",
@@ -9182,6 +9451,21 @@
       "created_at": "2026-10-03T09:02:14Z",
       "updated_at": "2026-10-08T06:33:32Z",
       "pushed_at": "2026-10-03T19:59:55Z"
+    },
+    {
+      "id": 1439578660,
+      "name": "nekochat",
+      "full_name": "xyt-dev/nekochat",
+      "description": "Roleplay chat with customizable character cards, local GIF stickers, web search, and ChatGPT subscription support. Powered by Rust, SolidJS, and WebAssembly.",
+      "html_url": "https://github.com/xyt-dev/nekochat",
+      "homepage": null,
+      "stars": 87,
+      "forks": 1,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-30T10:25:53Z",
+      "updated_at": "2026-11-02T08:28:31Z",
+      "pushed_at": "2026-11-02T08:31:06Z"
     },
     {
       "id": 1428842369,
@@ -10285,30 +10569,6 @@
       "pushed_at": "2026-10-29T04:31:09Z"
     },
     {
-      "id": 1435953741,
-      "name": "fush-vue-mcp",
-      "full_name": "fush520/fush-vue-mcp",
-      "description": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
-      "html_url": "https://github.com/fush520/fush-vue-mcp",
-      "homepage": null,
-      "stars": 72,
-      "forks": 1,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "anti-debug",
-        "chrome-extension",
-        "mcp",
-        "pentesting",
-        "reverse-engineering-tools",
-        "security-tools",
-        "vue"
-      ],
-      "created_at": "2026-10-27T15:56:51Z",
-      "updated_at": "2026-11-01T19:19:15Z",
-      "pushed_at": "2026-11-01T16:39:25Z"
-    },
-    {
       "id": 1375750028,
       "name": "jgrep",
       "full_name": "keltokhy/jgrep",
@@ -10918,6 +11178,57 @@
       "pushed_at": "2026-10-24T23:08:50Z"
     },
     {
+      "id": 1440436637,
+      "name": "strobe",
+      "full_name": "Hona/strobe",
+      "description": "Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.",
+      "html_url": "https://github.com/Hona/strobe",
+      "homepage": null,
+      "stars": 68,
+      "forks": 3,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-31T02:40:50Z",
+      "updated_at": "2026-11-02T05:11:53Z",
+      "pushed_at": "2026-11-01T12:32:26Z"
+    },
+    {
+      "id": 1437336172,
+      "name": "PackCheck",
+      "full_name": "X1NPAR1/PackCheck",
+      "description": "Minecraft server manager for Windows: create and host Paper, Purpur, Fabric, Forge, NeoForge and Velocity servers, install plugins and mods, automate restarts and backups, play with friends online, and check plugin/mod packs before they break your server. Free, open source.",
+      "html_url": "https://github.com/X1NPAR1/PackCheck",
+      "homepage": "https://x1npar1.github.io/PackCheck/",
+      "stars": 68,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "fabric",
+        "forge",
+        "minecraft",
+        "minecraft-mods",
+        "minecraft-plugins",
+        "minecraft-server",
+        "minecraft-server-hosting",
+        "minecraft-server-launcher",
+        "minecraft-server-manager",
+        "minecraft-tools",
+        "modpack",
+        "modrinth",
+        "neoforge",
+        "papermc",
+        "port-forwarding",
+        "server-manager",
+        "spigot",
+        "velocity",
+        "windows",
+        "wpf"
+      ],
+      "created_at": "2026-10-28T16:21:19Z",
+      "updated_at": "2026-10-30T14:02:51Z",
+      "pushed_at": "2026-10-29T18:01:22Z"
+    },
+    {
       "id": 1425405863,
       "name": "cleanyourtv-website",
       "full_name": "Gathin23/cleanyourtv-website",
@@ -10935,6 +11246,35 @@
       "created_at": "2026-10-19T09:45:36Z",
       "updated_at": "2026-10-25T23:12:34Z",
       "pushed_at": "2026-10-25T17:38:10Z"
+    },
+    {
+      "id": 1437443646,
+      "name": "ps2-native-recomp",
+      "full_name": "exoteric33/ps2-native-recomp",
+      "description": "Turns a PS2 disc image into a native PC program by static recompilation; builds on ps2-web-recomp (MIT). Work in progress. Bring your own disc.",
+      "html_url": "https://github.com/exoteric33/ps2-native-recomp",
+      "homepage": null,
+      "stars": 67,
+      "forks": 8,
+      "language": "C++",
+      "topics": [
+        "cpp",
+        "emulation",
+        "linux",
+        "playstation-2",
+        "playstation2",
+        "ps2",
+        "recompilation",
+        "recompiler",
+        "retro-gaming",
+        "static-recompilation",
+        "webgpu",
+        "wgpu",
+        "windows"
+      ],
+      "created_at": "2026-10-28T17:55:58Z",
+      "updated_at": "2026-11-02T07:28:31Z",
+      "pushed_at": "2026-11-02T07:03:37Z"
     },
     {
       "id": 1411919172,
@@ -11293,8 +11633,8 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T05:12:30Z",
-      "updated_at": "2026-10-30T00:17:02Z",
-      "pushed_at": "2026-10-29T13:04:39Z"
+      "updated_at": "2026-11-01T11:05:38Z",
+      "pushed_at": "2026-11-01T11:05:35Z"
     },
     {
       "id": 1433923128,
@@ -12024,6 +12364,25 @@
       "pushed_at": "2026-10-21T18:42:34Z"
     },
     {
+      "id": 1441178568,
+      "name": "10-dark-marketplaces-web-top",
+      "full_name": "my-10-dark-marketplaces-web-top/10-dark-marketplaces-web-top",
+      "description": "10 Dark Marketplaces Web Top",
+      "html_url": "https://github.com/my-10-dark-marketplaces-web-top/10-dark-marketplaces-web-top",
+      "homepage": null,
+      "stars": 56,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "10-dark-marketplaces-web-top",
+        "culture",
+        "dev"
+      ],
+      "created_at": "2026-10-31T19:14:35Z",
+      "updated_at": "2026-10-31T20:47:52Z",
+      "pushed_at": "2026-10-31T19:15:21Z"
+    },
+    {
       "id": 1391635046,
       "name": "awesome-cloud-emulators",
       "full_name": "upgundecha/awesome-cloud-emulators",
@@ -12450,6 +12809,40 @@
       "pushed_at": "2026-10-29T21:09:24Z"
     },
     {
+      "id": 1435126278,
+      "name": "grid-dca-bot",
+      "full_name": "leftamber/grid-dca-bot",
+      "description": "Open-source Grid + DCA trading bot for crypto. Supports Binance, Bybit, OKX, Hyperliquid, dYdX, Bitget. Advanced customization, OrderBook, risk management, Web UI and backtesting.",
+      "html_url": "https://github.com/leftamber/grid-dca-bot",
+      "homepage": null,
+      "stars": 52,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "alogorithmic-trading",
+        "binance",
+        "btc",
+        "bybit",
+        "coinbase",
+        "dca-bot",
+        "dydx",
+        "dydx-v4",
+        "ethereum",
+        "grid-bot",
+        "hft",
+        "high-frequency",
+        "hyperliquid",
+        "limit-order-book",
+        "okx",
+        "orderbook",
+        "quantitative-finance",
+        "traiding"
+      ],
+      "created_at": "2026-10-27T01:46:29Z",
+      "updated_at": "2026-11-02T07:32:15Z",
+      "pushed_at": "2026-11-02T07:35:12Z"
+    },
+    {
       "id": 1379547345,
       "name": "monero-web-wallet",
       "full_name": "AMLChecker/monero-web-wallet",
@@ -12654,35 +13047,6 @@
       "created_at": "2026-10-20T21:10:03Z",
       "updated_at": "2026-10-26T01:27:16Z",
       "pushed_at": "2026-10-25T21:55:19Z"
-    },
-    {
-      "id": 1437443646,
-      "name": "ps2-native-recomp",
-      "full_name": "exoteric33/ps2-native-recomp",
-      "description": "Turns a PS2 disc image into a native PC program by static recompilation; builds on ps2-web-recomp (MIT). Work in progress. Bring your own disc.",
-      "html_url": "https://github.com/exoteric33/ps2-native-recomp",
-      "homepage": null,
-      "stars": 50,
-      "forks": 5,
-      "language": "C++",
-      "topics": [
-        "cpp",
-        "emulation",
-        "linux",
-        "playstation-2",
-        "playstation2",
-        "ps2",
-        "recompilation",
-        "recompiler",
-        "retro-gaming",
-        "static-recompilation",
-        "webgpu",
-        "wgpu",
-        "windows"
-      ],
-      "created_at": "2026-10-28T17:55:58Z",
-      "updated_at": "2026-10-30T11:58:16Z",
-      "pushed_at": "2026-10-29T21:26:55Z"
     },
     {
       "id": 1392926487,
@@ -13686,6 +14050,31 @@
       "pushed_at": "2026-10-22T02:18:35Z"
     },
     {
+      "id": 1440163195,
+      "name": "dejiny-domu-skill",
+      "full_name": "vzoha/dejiny-domu-skill",
+      "description": "Skill pro Claude Code: dějiny domu a vesnice z českých archivů a web s časovou osou (česky)",
+      "html_url": "https://github.com/vzoha/dejiny-domu-skill",
+      "homepage": null,
+      "stars": 41,
+      "forks": 5,
+      "language": "Python",
+      "topics": [
+        "ceske-archivy",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skill",
+        "czech",
+        "dejiny-domu",
+        "genealogie",
+        "historie",
+        "stary-katastr"
+      ],
+      "created_at": "2026-10-30T19:43:48Z",
+      "updated_at": "2026-11-02T08:58:25Z",
+      "pushed_at": "2026-11-02T05:49:16Z"
+    },
+    {
       "id": 1378383465,
       "name": "agent-builder-skills",
       "full_name": "minorun365/agent-builder-skills",
@@ -13770,6 +14159,30 @@
       "created_at": "2026-10-17T14:07:32Z",
       "updated_at": "2026-10-21T06:45:09Z",
       "pushed_at": "2026-10-20T23:57:15Z"
+    },
+    {
+      "id": 1440799556,
+      "name": "webos",
+      "full_name": "stremio-origin/webos",
+      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
+      "html_url": "https://github.com/stremio-origin/webos",
+      "homepage": "https://stremio-origin.github.io/webos",
+      "stars": 40,
+      "forks": 1,
+      "language": "C",
+      "topics": [
+        "addons",
+        "c",
+        "homebrew-channel",
+        "lg-tv",
+        "sdl2",
+        "smart-tv",
+        "stremio",
+        "webos"
+      ],
+      "created_at": "2026-10-31T11:41:04Z",
+      "updated_at": "2026-11-02T06:03:23Z",
+      "pushed_at": "2026-10-31T12:58:33Z"
     },
     {
       "id": 1396835637,
@@ -16676,6 +17089,21 @@
       "pushed_at": "2026-10-31T02:06:12Z"
     },
     {
+      "id": 1437416208,
+      "name": "pxxl-xray-ws-tls-skill",
+      "full_name": "free-dam-man/pxxl-xray-ws-tls-skill",
+      "description": "Pxxl Free zero-card VLESS+WS+TLS one-line skill (Node wrapper, MIT)",
+      "html_url": "https://github.com/free-dam-man/pxxl-xray-ws-tls-skill",
+      "homepage": null,
+      "stars": 17,
+      "forks": 14,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-28T17:31:04Z",
+      "updated_at": "2026-11-02T07:21:12Z",
+      "pushed_at": "2026-10-28T17:31:15Z"
+    },
+    {
       "id": 1379717308,
       "name": "heygen-mcp.github.io",
       "full_name": "heygen-mcp/heygen-mcp.github.io",
@@ -16892,21 +17320,6 @@
       "pushed_at": "2026-10-21T14:56:54Z"
     },
     {
-      "id": 1437416208,
-      "name": "pxxl-xray-ws-tls-skill",
-      "full_name": "free-dam-man/pxxl-xray-ws-tls-skill",
-      "description": "Pxxl Free zero-card VLESS+WS+TLS one-line skill (Node wrapper, MIT)",
-      "html_url": "https://github.com/free-dam-man/pxxl-xray-ws-tls-skill",
-      "homepage": null,
-      "stars": 16,
-      "forks": 13,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-28T17:31:04Z",
-      "updated_at": "2026-10-29T22:51:45Z",
-      "pushed_at": "2026-10-28T17:31:15Z"
-    },
-    {
       "id": 1441806944,
       "name": "ha-weather-banner",
       "full_name": "jerahmeel-sudo/ha-weather-banner",
@@ -16940,6 +17353,28 @@
       "created_at": "2026-10-30T16:08:35Z",
       "updated_at": "2026-11-01T16:49:59Z",
       "pushed_at": "2026-10-30T17:05:22Z"
+    },
+    {
+      "id": 1437938878,
+      "name": "FrameGen-Manager-Next",
+      "full_name": "XiaoQAQ10086/FrameGen-Manager-Next",
+      "description": "一键为RTX 20和30系显卡用户部署 DLSS 帧生成以及DLSS5工具One-click deployment of DLSS Frame Generation and DLSS 5 tools for RTX 20 and 30 series graphics card users",
+      "html_url": "https://github.com/XiaoQAQ10086/FrameGen-Manager-Next",
+      "homepage": null,
+      "stars": 16,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "dlss",
+        "dotnet",
+        "frame-generation",
+        "nvidia",
+        "windows",
+        "wpf"
+      ],
+      "created_at": "2026-10-29T04:20:31Z",
+      "updated_at": "2026-11-02T07:52:21Z",
+      "pushed_at": "2026-11-01T15:43:10Z"
     },
     {
       "id": 1430113995,
@@ -17189,6 +17624,28 @@
       "created_at": "2026-10-29T13:17:24Z",
       "updated_at": "2026-10-31T12:22:51Z",
       "pushed_at": "2026-10-31T12:22:46Z"
+    },
+    {
+      "id": 1439641228,
+      "name": "dsh-memewiki",
+      "full_name": "thawline/dsh-memewiki",
+      "description": "梗百科：内置 6668 条梗/黑话词库，自动查梗并注入上下文，让模型认得群里的梗，不硬猜。移植自 AstrBot 的 astrbot_plugin_memewiki。",
+      "html_url": "https://github.com/thawline/dsh-memewiki",
+      "homepage": "https://github.com/thawline/dsh-memewiki",
+      "stars": 15,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "astrbot",
+        "chinese",
+        "deepseek-harness",
+        "dsh-plugin",
+        "meme",
+        "meme-wiki"
+      ],
+      "created_at": "2026-10-30T11:30:31Z",
+      "updated_at": "2026-11-02T08:55:11Z",
+      "pushed_at": "2026-11-01T13:23:21Z"
     },
     {
       "id": 1379723846,
@@ -17621,6 +18078,66 @@
       "created_at": "2026-10-16T06:31:20Z",
       "updated_at": "2026-10-20T12:24:35Z",
       "pushed_at": "2026-10-16T06:32:54Z"
+    },
+    {
+      "id": 1440186276,
+      "name": "Rip-It-Card-Collector-Trainer",
+      "full_name": "chambermothexalt/Rip-It-Card-Collector-Trainer",
+      "description": "Rip It! Card Collector Trainer for Windows — collection-oriented utility layouts with binder previews, booster organization, gadget upgrades and profile presets.",
+      "html_url": "https://github.com/chambermothexalt/Rip-It-Card-Collector-Trainer",
+      "homepage": "https://bondrhythmspot.github.io/",
+      "stars": 13,
+      "forks": 1,
+      "language": "PowerShell",
+      "topics": [
+        "automation",
+        "binder-tools",
+        "card-collector",
+        "collection-dashboard",
+        "desktop-utility",
+        "gadget-presets",
+        "incremental-game",
+        "pc-trainer",
+        "rip-it-card-collector",
+        "rip-it-card-collector-trainer",
+        "windows"
+      ],
+      "created_at": "2026-10-30T20:10:44Z",
+      "updated_at": "2026-11-01T11:51:19Z",
+      "pushed_at": "2026-10-30T22:09:03Z"
+    },
+    {
+      "id": 1440910521,
+      "name": "substance-3d-painter-setup-guide",
+      "full_name": "elena-p977839/substance-3d-painter-setup-guide",
+      "description": "Adobe Substance 3D Painter paints PBR materials directly onto 3D meshes in real time. Artists layer smart materials, masks, and generators for production-ready textures on Windows.",
+      "html_url": "https://github.com/elena-p977839/substance-3d-painter-setup-guide",
+      "homepage": null,
+      "stars": 13,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "2026",
+        "3d-texturing",
+        "digital-art",
+        "export-presets",
+        "game-art",
+        "installer",
+        "material-painting",
+        "official-release",
+        "pbr-texturing",
+        "setup-guide",
+        "smart-materials",
+        "substance-3d-painter",
+        "substance-painter",
+        "texture-baking",
+        "uv-mapping",
+        "windows",
+        "windows-setup"
+      ],
+      "created_at": "2026-10-31T13:57:50Z",
+      "updated_at": "2026-11-02T08:18:03Z",
+      "pushed_at": "2026-10-31T14:06:25Z"
     },
     {
       "id": 1380788494,
@@ -18078,6 +18595,45 @@
       "created_at": "2026-10-11T14:44:55Z",
       "updated_at": "2026-10-17T08:45:20Z",
       "pushed_at": "2026-10-14T17:28:10Z"
+    },
+    {
+      "id": 1437402939,
+      "name": "Pactwright-studio",
+      "full_name": "Pactwright/Pactwright-studio",
+      "description": "The public record of Pactwright pacts: indexes them from Stellar, anchors their receipts on-chain, shows each pact's timeline, and checks receipt certificates.",
+      "html_url": "https://github.com/Pactwright/Pactwright-studio",
+      "homepage": "https://pactwright-studio-testnet.onrender.com",
+      "stars": 10,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "escrow",
+        "indexer",
+        "merkle-proof",
+        "nextjs",
+        "receipts",
+        "soroban",
+        "stellar"
+      ],
+      "created_at": "2026-10-28T17:19:14Z",
+      "updated_at": "2026-11-01T20:26:31Z",
+      "pushed_at": "2026-11-01T20:26:30Z"
+    },
+    {
+      "id": 1435817340,
+      "name": "Quadband_Card_Studio",
+      "full_name": "Hamspiced/Quadband_Card_Studio",
+      "description": "Software Companion for the Midwest Gadgets Quadband card.  Utilizes MSR X6, MSR600, ACR122, ACR1552, Piswords UHF Reader, Chameleon Ultra Readers.  Controls each reader and writes credentials.",
+      "html_url": "https://github.com/Hamspiced/Quadband_Card_Studio",
+      "homepage": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-10-27T14:07:59Z",
+      "updated_at": "2026-10-31T22:11:40Z",
+      "pushed_at": "2026-10-27T22:00:13Z"
     },
     {
       "id": 1394432370,
