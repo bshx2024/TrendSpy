@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/3 04:06:20",
-  "total_repos": 835,
+  "fetched_at": "2026/11/3 09:56:57",
+  "total_repos": 839,
   "repos": [
     {
       "id": 1425658028,
@@ -325,9 +325,9 @@
       "full_name": "Balanov/uncut",
       "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "html_url": "https://github.com/Balanov/uncut",
-      "homepage": null,
-      "stars": 570,
-      "forks": 4,
+      "homepage": "https://balanov.pro/uncut/",
+      "stars": 572,
+      "forks": 6,
       "language": "Go",
       "topics": [
         "agent-harness",
@@ -339,8 +339,8 @@
         "local-models"
       ],
       "created_at": "2026-11-01T17:19:30Z",
-      "updated_at": "2026-11-02T17:13:28Z",
-      "pushed_at": "2026-11-02T00:34:07Z"
+      "updated_at": "2026-11-03T00:50:22Z",
+      "pushed_at": "2026-11-02T20:58:19Z"
     },
     {
       "id": 1422783076,
@@ -758,6 +758,21 @@
       "pushed_at": "2026-10-26T00:59:39Z"
     },
     {
+      "id": 1440340634,
+      "name": "icloud-s3",
+      "full_name": "ashayas/icloud-s3",
+      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+      "html_url": "https://github.com/ashayas/icloud-s3",
+      "homepage": null,
+      "stars": 476,
+      "forks": 30,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-30T23:54:20Z",
+      "updated_at": "2026-11-02T22:36:09Z",
+      "pushed_at": "2026-10-31T01:34:42Z"
+    },
+    {
       "id": 1415910250,
       "name": "Discord-Server-Raider",
       "full_name": "Aquafitzdisconnect/Discord-Server-Raider",
@@ -814,21 +829,6 @@
       "created_at": "2026-10-16T17:34:55Z",
       "updated_at": "2026-10-22T23:03:20Z",
       "pushed_at": "2026-10-22T04:58:55Z"
-    },
-    {
-      "id": 1440340634,
-      "name": "icloud-s3",
-      "full_name": "ashayas/icloud-s3",
-      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-      "html_url": "https://github.com/ashayas/icloud-s3",
-      "homepage": null,
-      "stars": 466,
-      "forks": 30,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-30T23:54:20Z",
-      "updated_at": "2026-11-02T17:27:11Z",
-      "pushed_at": "2026-10-31T01:34:42Z"
     },
     {
       "id": 1423410732,
@@ -910,29 +910,14 @@
       "pushed_at": "2026-10-28T11:35:35Z"
     },
     {
-      "id": 1424201691,
-      "name": "nanoui",
-      "full_name": "justrach/nanoui",
-      "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
-      "html_url": "https://github.com/justrach/nanoui",
-      "homepage": null,
-      "stars": 435,
-      "forks": 15,
-      "language": "Zig",
-      "topics": [],
-      "created_at": "2026-10-18T09:27:46Z",
-      "updated_at": "2026-10-24T19:39:55Z",
-      "pushed_at": "2026-10-24T14:38:11Z"
-    },
-    {
       "id": 1440631696,
       "name": "hongguo-downloader",
       "full_name": "parallelpan/hongguo-downloader",
       "description": "红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no install.",
       "html_url": "https://github.com/parallelpan/hongguo-downloader",
       "homepage": "https://guoshi.app",
-      "stars": 435,
-      "forks": 1,
+      "stars": 438,
+      "forks": 51,
       "language": null,
       "topics": [
         "batch-download",
@@ -957,8 +942,23 @@
         "short-video"
       ],
       "created_at": "2026-10-31T07:48:17Z",
-      "updated_at": "2026-11-02T14:37:13Z",
+      "updated_at": "2026-11-03T00:52:46Z",
       "pushed_at": "2026-11-02T14:37:05Z"
+    },
+    {
+      "id": 1424201691,
+      "name": "nanoui",
+      "full_name": "justrach/nanoui",
+      "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
+      "html_url": "https://github.com/justrach/nanoui",
+      "homepage": null,
+      "stars": 435,
+      "forks": 15,
+      "language": "Zig",
+      "topics": [],
+      "created_at": "2026-10-18T09:27:46Z",
+      "updated_at": "2026-10-24T19:39:55Z",
+      "pushed_at": "2026-10-24T14:38:11Z"
     },
     {
       "id": 1416828644,
@@ -1573,12 +1573,12 @@
       "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
       "html_url": "https://github.com/nathanliow/atlas-of-physics",
       "homepage": "https://atlas-of-physics.vercel.app",
-      "stars": 370,
-      "forks": 108,
+      "stars": 371,
+      "forks": 110,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-28T22:54:22Z",
-      "updated_at": "2026-11-02T16:31:01Z",
+      "updated_at": "2026-11-02T23:51:16Z",
       "pushed_at": "2026-10-30T20:47:47Z"
     },
     {
@@ -1654,6 +1654,21 @@
       "pushed_at": "2026-10-30T11:04:26Z"
     },
     {
+      "id": 1436420580,
+      "name": "LightPost",
+      "full_name": "brainstormity/LightPost",
+      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+      "html_url": "https://github.com/brainstormity/LightPost",
+      "homepage": null,
+      "stars": 351,
+      "forks": 65,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-28T00:19:12Z",
+      "updated_at": "2026-11-03T01:09:17Z",
+      "pushed_at": "2026-10-31T11:12:44Z"
+    },
+    {
       "id": 1434973188,
       "name": "dsh-video-storyboard",
       "full_name": "SAOS-3624/dsh-video-storyboard",
@@ -1678,21 +1693,6 @@
       "created_at": "2026-10-26T22:00:04Z",
       "updated_at": "2026-11-01T20:07:22Z",
       "pushed_at": "2026-11-01T15:28:35Z"
-    },
-    {
-      "id": 1436420580,
-      "name": "LightPost",
-      "full_name": "brainstormity/LightPost",
-      "description": "A lightweight system to automate posting to all of your socials from one dashboard",
-      "html_url": "https://github.com/brainstormity/LightPost",
-      "homepage": null,
-      "stars": 349,
-      "forks": 65,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-28T00:19:12Z",
-      "updated_at": "2026-11-02T20:02:08Z",
-      "pushed_at": "2026-10-31T11:12:44Z"
     },
     {
       "id": 1412143785,
@@ -1809,6 +1809,21 @@
       "created_at": "2026-10-08T10:12:49Z",
       "updated_at": "2026-10-11T02:54:30Z",
       "pushed_at": "2026-10-10T15:44:30Z"
+    },
+    {
+      "id": 1440965926,
+      "name": "NSP-Box",
+      "full_name": "smarkyie/NSP-Box",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "html_url": "https://github.com/smarkyie/NSP-Box",
+      "homepage": null,
+      "stars": 322,
+      "forks": 22,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-31T15:00:55Z",
+      "updated_at": "2026-11-03T01:26:29Z",
+      "pushed_at": "2026-11-02T18:25:59Z"
     },
     {
       "id": 1403805593,
@@ -1951,6 +1966,39 @@
       "created_at": "2026-11-01T10:14:47Z",
       "updated_at": "2026-11-01T14:24:15Z",
       "pushed_at": "2026-11-01T10:14:53Z"
+    },
+    {
+      "id": 1437812726,
+      "name": "shisei",
+      "full_name": "wquguru/shisei",
+      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+      "html_url": "https://github.com/wquguru/shisei",
+      "homepage": "https://shisei.indaloop.app",
+      "stars": 308,
+      "forks": 64,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "art-reference",
+        "cc0",
+        "comfyui",
+        "controlnet",
+        "dataset",
+        "drawing-reference",
+        "figure-drawing",
+        "line-art",
+        "mannequin",
+        "midjourney",
+        "multilingual",
+        "nano-banana",
+        "pose-reference",
+        "reference-images",
+        "stable-diffusion"
+      ],
+      "created_at": "2026-10-29T01:23:06Z",
+      "updated_at": "2026-11-03T01:54:12Z",
+      "pushed_at": "2026-11-02T14:10:19Z"
     },
     {
       "id": 1411929925,
@@ -2538,21 +2586,6 @@
       "pushed_at": "2026-10-08T13:21:09Z"
     },
     {
-      "id": 1440965926,
-      "name": "NSP-Box",
-      "full_name": "smarkyie/NSP-Box",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "html_url": "https://github.com/smarkyie/NSP-Box",
-      "homepage": null,
-      "stars": 275,
-      "forks": 19,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-31T15:00:55Z",
-      "updated_at": "2026-11-02T20:02:52Z",
-      "pushed_at": "2026-11-02T18:25:59Z"
-    },
-    {
       "id": 1425227613,
       "name": "Lampline",
       "full_name": "C4rohan/Lampline",
@@ -2618,37 +2651,19 @@
       "pushed_at": "2026-10-27T21:47:03Z"
     },
     {
-      "id": 1437812726,
-      "name": "shisei",
-      "full_name": "wquguru/shisei",
-      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
-      "html_url": "https://github.com/wquguru/shisei",
-      "homepage": "https://shisei.indaloop.app",
+      "id": 1436559096,
+      "name": "video-director",
+      "full_name": "win4r/video-director",
+      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
+      "html_url": "https://github.com/win4r/video-director",
+      "homepage": null,
       "stars": 264,
-      "forks": 56,
+      "forks": 21,
       "language": "Python",
-      "topics": [
-        "ai-art",
-        "ai-image-generation",
-        "art-reference",
-        "cc0",
-        "comfyui",
-        "controlnet",
-        "dataset",
-        "drawing-reference",
-        "figure-drawing",
-        "line-art",
-        "mannequin",
-        "midjourney",
-        "multilingual",
-        "nano-banana",
-        "pose-reference",
-        "reference-images",
-        "stable-diffusion"
-      ],
-      "created_at": "2026-10-29T01:23:06Z",
-      "updated_at": "2026-11-02T19:43:44Z",
-      "pushed_at": "2026-11-02T14:10:19Z"
+      "topics": [],
+      "created_at": "2026-10-28T03:35:27Z",
+      "updated_at": "2026-11-03T01:51:40Z",
+      "pushed_at": "2026-10-30T06:04:14Z"
     },
     {
       "id": 1390994799,
@@ -2846,21 +2861,6 @@
       "pushed_at": "2026-10-17T19:14:32Z"
     },
     {
-      "id": 1436559096,
-      "name": "video-director",
-      "full_name": "win4r/video-director",
-      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
-      "html_url": "https://github.com/win4r/video-director",
-      "homepage": null,
-      "stars": 250,
-      "forks": 20,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-28T03:35:27Z",
-      "updated_at": "2026-11-02T19:51:06Z",
-      "pushed_at": "2026-10-30T06:04:14Z"
-    },
-    {
       "id": 1433297111,
       "name": "Zero-Breach-Toolkit",
       "full_name": "interplains/Zero-Breach-Toolkit",
@@ -2992,6 +2992,42 @@
       "pushed_at": "2026-10-12T22:04:00Z"
     },
     {
+      "id": 1437694471,
+      "name": "cheap-ag",
+      "full_name": "muaaz9329/cheap-ag",
+      "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
+      "html_url": "https://github.com/muaaz9329/cheap-ag",
+      "homepage": "https://cheapag.com",
+      "stars": 231,
+      "forks": 16,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-coding",
+        "ai-agents",
+        "anthropic",
+        "cheap-llm",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "cost-optimization",
+        "deepseek",
+        "developer-tools",
+        "llm",
+        "llm-agents",
+        "mcp",
+        "mcp-server",
+        "multi-agent",
+        "opencode",
+        "opencode-go",
+        "openrouter"
+      ],
+      "created_at": "2026-10-28T22:26:18Z",
+      "updated_at": "2026-11-03T01:39:54Z",
+      "pushed_at": "2026-11-02T23:39:53Z"
+    },
+    {
       "id": 1425358398,
       "name": "Hiddify-Manager",
       "full_name": "philips71017/Hiddify-Manager",
@@ -3079,42 +3115,6 @@
       "created_at": "2026-10-24T14:18:15Z",
       "updated_at": "2026-10-30T20:05:49Z",
       "pushed_at": "2026-10-30T03:19:56Z"
-    },
-    {
-      "id": 1437694471,
-      "name": "cheap-ag",
-      "full_name": "muaaz9329/cheap-ag",
-      "description": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
-      "html_url": "https://github.com/muaaz9329/cheap-ag",
-      "homepage": "https://cheapag.com",
-      "stars": 220,
-      "forks": 16,
-      "language": "TypeScript",
-      "topics": [
-        "agentic-coding",
-        "ai-agents",
-        "anthropic",
-        "cheap-llm",
-        "claude",
-        "claude-code",
-        "claude-code-hooks",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "cost-optimization",
-        "deepseek",
-        "developer-tools",
-        "llm",
-        "llm-agents",
-        "mcp",
-        "mcp-server",
-        "multi-agent",
-        "opencode",
-        "opencode-go",
-        "openrouter"
-      ],
-      "created_at": "2026-10-28T22:26:18Z",
-      "updated_at": "2026-11-02T20:05:36Z",
-      "pushed_at": "2026-11-02T20:04:58Z"
     },
     {
       "id": 1424555473,
@@ -3901,6 +3901,21 @@
       "pushed_at": "2026-10-31T07:21:36Z"
     },
     {
+      "id": 1440766826,
+      "name": "tiktok-live-temple-rpc",
+      "full_name": "zane-tv/tiktok-live-temple-rpc",
+      "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
+      "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
+      "homepage": null,
+      "stars": 201,
+      "forks": 293,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-31T10:56:27Z",
+      "updated_at": "2026-11-03T00:31:57Z",
+      "pushed_at": "2026-10-31T16:29:11Z"
+    },
+    {
       "id": 1405554378,
       "name": "Autodesk-CFD",
       "full_name": "fuchsiaravengrade/Autodesk-CFD",
@@ -4506,6 +4521,34 @@
       "pushed_at": "2026-11-02T10:10:49Z"
     },
     {
+      "id": 1436739802,
+      "name": "ai-design-check",
+      "full_name": "enmerasoftware/ai-design-check",
+      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
+      "html_url": "https://github.com/enmerasoftware/ai-design-check",
+      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
+      "stars": 200,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "android",
+        "claude-code",
+        "design-rules",
+        "design-system",
+        "ios",
+        "jetpack-compose",
+        "lint",
+        "swiftui",
+        "tailwindcss",
+        "ui"
+      ],
+      "created_at": "2026-10-28T07:20:59Z",
+      "updated_at": "2026-11-03T01:19:59Z",
+      "pushed_at": "2026-11-02T20:32:17Z"
+    },
+    {
       "id": 1437373656,
       "name": "SketchUp-Pro",
       "full_name": "ScalarGrouse/SketchUp-Pro",
@@ -4532,21 +4575,6 @@
       "created_at": "2026-10-28T16:53:42Z",
       "updated_at": "2026-10-28T20:18:44Z",
       "pushed_at": "2026-10-28T16:53:49Z"
-    },
-    {
-      "id": 1440766826,
-      "name": "tiktok-live-temple-rpc",
-      "full_name": "zane-tv/tiktok-live-temple-rpc",
-      "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
-      "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
-      "homepage": null,
-      "stars": 199,
-      "forks": 292,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-31T10:56:27Z",
-      "updated_at": "2026-11-02T17:58:34Z",
-      "pushed_at": "2026-10-31T16:29:11Z"
     },
     {
       "id": 1442805863,
@@ -4748,34 +4776,6 @@
       "pushed_at": "2026-10-25T04:32:57Z"
     },
     {
-      "id": 1436739802,
-      "name": "ai-design-check",
-      "full_name": "enmerasoftware/ai-design-check",
-      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
-      "html_url": "https://github.com/enmerasoftware/ai-design-check",
-      "homepage": "https://www.npmjs.com/package/@enmera/ai-design-check",
-      "stars": 194,
-      "forks": 10,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skill",
-        "ai",
-        "android",
-        "claude-code",
-        "design-rules",
-        "design-system",
-        "ios",
-        "jetpack-compose",
-        "lint",
-        "swiftui",
-        "tailwindcss",
-        "ui"
-      ],
-      "created_at": "2026-10-28T07:20:59Z",
-      "updated_at": "2026-11-02T19:59:10Z",
-      "pushed_at": "2026-11-02T04:33:44Z"
-    },
-    {
       "id": 1442803365,
       "name": "capcut-for-windows",
       "full_name": "Chamberonconquer/capcut-for-windows",
@@ -4810,6 +4810,21 @@
       "created_at": "2026-11-02T10:11:11Z",
       "updated_at": "2026-11-02T14:48:56Z",
       "pushed_at": "2026-11-02T10:11:16Z"
+    },
+    {
+      "id": 1440422945,
+      "name": "sideload-jiostb",
+      "full_name": "ilikechocopies/sideload-jiostb",
+      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
+      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
+      "homepage": null,
+      "stars": 193,
+      "forks": 193,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-10-31T02:17:57Z",
+      "updated_at": "2026-11-03T01:17:40Z",
+      "pushed_at": "2026-11-02T06:50:06Z"
     },
     {
       "id": 1388097438,
@@ -5345,6 +5360,21 @@
       "pushed_at": "2026-10-20T12:45:47Z"
     },
     {
+      "id": 1440797906,
+      "name": "chanh-dien-online",
+      "full_name": "kentjuno/chanh-dien-online",
+      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
+      "html_url": "https://github.com/kentjuno/chanh-dien-online",
+      "homepage": null,
+      "stars": 165,
+      "forks": 255,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-31T11:38:45Z",
+      "updated_at": "2026-11-03T01:07:15Z",
+      "pushed_at": "2026-10-31T12:05:39Z"
+    },
+    {
       "id": 1429974885,
       "name": "glm-5.3-abliterated",
       "full_name": "7API/glm-5.3-abliterated",
@@ -5415,21 +5445,6 @@
       "created_at": "2026-10-27T23:06:00Z",
       "updated_at": "2026-10-29T15:33:08Z",
       "pushed_at": "2026-10-27T23:34:35Z"
-    },
-    {
-      "id": 1440797906,
-      "name": "chanh-dien-online",
-      "full_name": "kentjuno/chanh-dien-online",
-      "description": "Chánh điện online 2.5D + bộ overlay TikTok LIVE (Node, Edge TTS). MIT.",
-      "html_url": "https://github.com/kentjuno/chanh-dien-online",
-      "homepage": null,
-      "stars": 163,
-      "forks": 253,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-10-31T11:38:45Z",
-      "updated_at": "2026-11-02T17:52:29Z",
-      "pushed_at": "2026-10-31T12:05:39Z"
     },
     {
       "id": 1391423600,
@@ -5601,6 +5616,30 @@
       "pushed_at": "2026-10-20T21:15:59Z"
     },
     {
+      "id": 1440268480,
+      "name": "osint-people-checker",
+      "full_name": "ArcSwordKiln/osint-people-checker",
+      "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
+      "html_url": "https://github.com/ArcSwordKiln/osint-people-checker",
+      "homepage": null,
+      "stars": 157,
+      "forks": 13,
+      "language": "JavaScript",
+      "topics": [
+        "desktop",
+        "email-lookup",
+        "osint",
+        "phone-lookup",
+        "privacy",
+        "rust",
+        "scam-check",
+        "username-search"
+      ],
+      "created_at": "2026-10-30T21:57:37Z",
+      "updated_at": "2026-11-02T20:50:51Z",
+      "pushed_at": "2026-11-02T01:42:15Z"
+    },
+    {
       "id": 1382304020,
       "name": "riso-windowseat",
       "full_name": "sevenevesai/riso-windowseat",
@@ -5635,30 +5674,6 @@
       "created_at": "2026-11-01T11:31:07Z",
       "updated_at": "2026-11-01T21:38:10Z",
       "pushed_at": "2026-11-01T11:32:13Z"
-    },
-    {
-      "id": 1440268480,
-      "name": "osint-people-checker",
-      "full_name": "ArcSwordKiln/osint-people-checker",
-      "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
-      "html_url": "https://github.com/ArcSwordKiln/osint-people-checker",
-      "homepage": null,
-      "stars": 155,
-      "forks": 13,
-      "language": "JavaScript",
-      "topics": [
-        "desktop",
-        "email-lookup",
-        "osint",
-        "phone-lookup",
-        "privacy",
-        "rust",
-        "scam-check",
-        "username-search"
-      ],
-      "created_at": "2026-10-30T21:57:37Z",
-      "updated_at": "2026-11-02T16:34:56Z",
-      "pushed_at": "2026-11-02T01:42:15Z"
     },
     {
       "id": 1375327232,
@@ -5787,6 +5802,21 @@
       "created_at": "2026-10-18T18:32:15Z",
       "updated_at": "2026-10-24T11:18:18Z",
       "pushed_at": "2026-10-22T11:59:39Z"
+    },
+    {
+      "id": 1442779224,
+      "name": "godraw",
+      "full_name": "egoist/godraw",
+      "description": "infinite canvas in mygo",
+      "html_url": "https://github.com/egoist/godraw",
+      "homepage": null,
+      "stars": 148,
+      "forks": 9,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-11-02T09:47:18Z",
+      "updated_at": "2026-11-03T01:46:31Z",
+      "pushed_at": "2026-11-02T10:04:17Z"
     },
     {
       "id": 1431620755,
@@ -6014,6 +6044,31 @@
       "created_at": "2026-10-29T07:16:14Z",
       "updated_at": "2026-10-29T17:56:43Z",
       "pushed_at": "2026-10-29T07:16:25Z"
+    },
+    {
+      "id": 1436596754,
+      "name": "tucano",
+      "full_name": "eduwxyz/tucano",
+      "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+      "html_url": "https://github.com/eduwxyz/tucano",
+      "homepage": "https://tucano.sh",
+      "stars": 139,
+      "forks": 26,
+      "language": "TypeScript",
+      "topics": [
+        "agent-team",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "electron",
+        "local-first",
+        "macos",
+        "mcp",
+        "multi-agent"
+      ],
+      "created_at": "2026-10-28T04:27:38Z",
+      "updated_at": "2026-11-03T00:02:35Z",
+      "pushed_at": "2026-11-03T01:35:58Z"
     },
     {
       "id": 1441693752,
@@ -6305,6 +6360,30 @@
       "pushed_at": "2026-10-27T12:08:11Z"
     },
     {
+      "id": 1439548693,
+      "name": "fy-code-animation",
+      "full_name": "Akillll-DuoHe/fy-code-animation",
+      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
+      "stars": 136,
+      "forks": 20,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "chinese",
+        "code-animation",
+        "deepseek-harness",
+        "dsh-skill",
+        "motion-design",
+        "remotion",
+        "skill"
+      ],
+      "created_at": "2026-10-30T09:55:43Z",
+      "updated_at": "2026-11-03T00:50:06Z",
+      "pushed_at": "2026-10-30T09:56:05Z"
+    },
+    {
       "id": 1426805854,
       "name": "mw4-texture-streaming-research",
       "full_name": "voidfnc/mw4-texture-streaming-research",
@@ -6328,30 +6407,6 @@
       "created_at": "2026-10-20T09:35:08Z",
       "updated_at": "2026-10-26T20:44:42Z",
       "pushed_at": "2026-10-26T00:48:52Z"
-    },
-    {
-      "id": 1439548693,
-      "name": "fy-code-animation",
-      "full_name": "Akillll-DuoHe/fy-code-animation",
-      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
-      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
-      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
-      "stars": 134,
-      "forks": 19,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "chinese",
-        "code-animation",
-        "deepseek-harness",
-        "dsh-skill",
-        "motion-design",
-        "remotion",
-        "skill"
-      ],
-      "created_at": "2026-10-30T09:55:43Z",
-      "updated_at": "2026-11-02T16:09:44Z",
-      "pushed_at": "2026-10-30T09:56:05Z"
     },
     {
       "id": 1390688516,
@@ -6510,6 +6565,21 @@
       "created_at": "2026-10-29T21:56:03Z",
       "updated_at": "2026-10-30T16:51:27Z",
       "pushed_at": "2026-10-29T22:00:06Z"
+    },
+    {
+      "id": 1440772406,
+      "name": "idrive-apps",
+      "full_name": "robertnisipeanu/idrive-apps",
+      "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
+      "html_url": "https://github.com/robertnisipeanu/idrive-apps",
+      "homepage": null,
+      "stars": 132,
+      "forks": 28,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-31T11:04:14Z",
+      "updated_at": "2026-11-03T01:55:51Z",
+      "pushed_at": "2026-11-02T21:42:58Z"
     },
     {
       "id": 1414942519,
@@ -6910,46 +6980,6 @@
       "created_at": "2026-10-19T22:21:30Z",
       "updated_at": "2026-10-22T23:03:24Z",
       "pushed_at": "2026-10-19T22:21:50Z"
-    },
-    {
-      "id": 1436596754,
-      "name": "tucano",
-      "full_name": "eduwxyz/tucano",
-      "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
-      "html_url": "https://github.com/eduwxyz/tucano",
-      "homepage": "https://tucano.sh",
-      "stars": 122,
-      "forks": 24,
-      "language": "TypeScript",
-      "topics": [
-        "agent-team",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "electron",
-        "local-first",
-        "macos",
-        "mcp",
-        "multi-agent"
-      ],
-      "created_at": "2026-10-28T04:27:38Z",
-      "updated_at": "2026-11-02T06:09:38Z",
-      "pushed_at": "2026-11-02T02:11:53Z"
-    },
-    {
-      "id": 1442779224,
-      "name": "godraw",
-      "full_name": "egoist/godraw",
-      "description": "infinite canvas in mygo",
-      "html_url": "https://github.com/egoist/godraw",
-      "homepage": null,
-      "stars": 122,
-      "forks": 8,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-11-02T09:47:18Z",
-      "updated_at": "2026-11-02T20:04:18Z",
-      "pushed_at": "2026-11-02T10:04:17Z"
     },
     {
       "id": 1429468579,
@@ -7914,6 +7944,31 @@
       "pushed_at": "2026-10-24T04:40:56Z"
     },
     {
+      "id": 1441141531,
+      "name": "Conker-Recomped-and-Reloaded",
+      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
+      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
+      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+      "homepage": null,
+      "stars": 107,
+      "forks": 4,
+      "language": "C++",
+      "topics": [
+        "appimage",
+        "conker",
+        "linux",
+        "native-port",
+        "netplay",
+        "recompilation",
+        "static-recompilation",
+        "windows",
+        "xbox"
+      ],
+      "created_at": "2026-10-31T18:25:04Z",
+      "updated_at": "2026-11-03T01:49:13Z",
+      "pushed_at": "2026-11-02T19:56:29Z"
+    },
+    {
       "id": 1377007152,
       "name": "ritridata",
       "full_name": "reco-tools/ritridata",
@@ -8151,6 +8206,21 @@
       "pushed_at": "2026-10-03T14:39:31Z"
     },
     {
+      "id": 1438717707,
+      "name": "Zenith",
+      "full_name": "unjustodin/Zenith",
+      "description": "Zenith is a 3D visualizer for Factorio, not it's own game and runs exclusively alongside Factorio",
+      "html_url": "https://github.com/unjustodin/Zenith",
+      "homepage": "https://www.youtube.com/watch?v=WfOE97zCZLE",
+      "stars": 103,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-29T17:03:12Z",
+      "updated_at": "2026-11-03T00:46:43Z",
+      "pushed_at": "2026-11-02T02:39:01Z"
+    },
+    {
       "id": 1377581532,
       "name": "card-design-generator",
       "full_name": "Susie-Meow/card-design-generator",
@@ -8276,21 +8346,6 @@
       "created_at": "2026-10-05T10:27:43Z",
       "updated_at": "2026-10-05T20:45:40Z",
       "pushed_at": "2026-10-05T10:27:49Z"
-    },
-    {
-      "id": 1440422945,
-      "name": "sideload-jiostb",
-      "full_name": "ilikechocopies/sideload-jiostb",
-      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
-      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
-      "homepage": null,
-      "stars": 101,
-      "forks": 71,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-10-31T02:17:57Z",
-      "updated_at": "2026-11-02T08:57:17Z",
-      "pushed_at": "2026-11-02T06:50:06Z"
     },
     {
       "id": 1435953741,
@@ -9105,6 +9160,21 @@
       "pushed_at": "2026-10-10T11:49:34Z"
     },
     {
+      "id": 1439578660,
+      "name": "nekochat",
+      "full_name": "xyt-dev/nekochat",
+      "description": "Roleplay chat with customizable character cards, interactive charts, animated SVG graphics, local GIF stickers, web search, and ChatGPT subscription support. Powered by Rust, SolidJS, and WebAssembly.",
+      "html_url": "https://github.com/xyt-dev/nekochat",
+      "homepage": null,
+      "stars": 98,
+      "forks": 2,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-30T10:25:53Z",
+      "updated_at": "2026-11-02T21:10:27Z",
+      "pushed_at": "2026-11-02T13:23:09Z"
+    },
+    {
       "id": 1424233481,
       "name": "VoiceMod",
       "full_name": "PlanetPhaseRaid/VoiceMod",
@@ -9129,21 +9199,6 @@
       "created_at": "2026-10-18T10:06:14Z",
       "updated_at": "2026-10-18T12:34:52Z",
       "pushed_at": "2026-10-18T10:06:21Z"
-    },
-    {
-      "id": 1439578660,
-      "name": "nekochat",
-      "full_name": "xyt-dev/nekochat",
-      "description": "Roleplay chat with customizable character cards, interactive charts, animated SVG graphics, local GIF stickers, web search, and ChatGPT subscription support. Powered by Rust, SolidJS, and WebAssembly.",
-      "html_url": "https://github.com/xyt-dev/nekochat",
-      "homepage": null,
-      "stars": 97,
-      "forks": 2,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-30T10:25:53Z",
-      "updated_at": "2026-11-02T16:14:50Z",
-      "pushed_at": "2026-11-02T13:23:09Z"
     },
     {
       "id": 1386267511,
@@ -9408,31 +9463,6 @@
       "created_at": "2026-10-18T14:06:56Z",
       "updated_at": "2026-10-18T15:41:51Z",
       "pushed_at": "2026-10-18T14:07:04Z"
-    },
-    {
-      "id": 1441141531,
-      "name": "Conker-Recomped-and-Reloaded",
-      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
-      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
-      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
-      "homepage": null,
-      "stars": 95,
-      "forks": 4,
-      "language": "C++",
-      "topics": [
-        "appimage",
-        "conker",
-        "linux",
-        "native-port",
-        "netplay",
-        "recompilation",
-        "static-recompilation",
-        "windows",
-        "xbox"
-      ],
-      "created_at": "2026-10-31T18:25:04Z",
-      "updated_at": "2026-11-02T20:05:21Z",
-      "pushed_at": "2026-11-02T19:56:29Z"
     },
     {
       "id": 1376436152,
@@ -10694,6 +10724,30 @@
       "pushed_at": "2026-10-03T15:46:40Z"
     },
     {
+      "id": 1440799556,
+      "name": "webos",
+      "full_name": "stremio-origin/webos",
+      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
+      "html_url": "https://github.com/stremio-origin/webos",
+      "homepage": "https://stremio-origin.github.io/webos",
+      "stars": 76,
+      "forks": 5,
+      "language": "C",
+      "topics": [
+        "addons",
+        "c",
+        "homebrew-channel",
+        "lg-tv",
+        "sdl2",
+        "smart-tv",
+        "stremio",
+        "webos"
+      ],
+      "created_at": "2026-10-31T11:41:04Z",
+      "updated_at": "2026-11-03T01:56:15Z",
+      "pushed_at": "2026-10-31T12:58:33Z"
+    },
+    {
       "id": 1410576760,
       "name": "GenIA",
       "full_name": "facebookresearch/GenIA",
@@ -11076,6 +11130,21 @@
       "pushed_at": "2026-10-22T02:34:29Z"
     },
     {
+      "id": 1440436637,
+      "name": "strobe",
+      "full_name": "Hona/strobe",
+      "description": "Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.",
+      "html_url": "https://github.com/Hona/strobe",
+      "homepage": null,
+      "stars": 71,
+      "forks": 3,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-31T02:40:50Z",
+      "updated_at": "2026-11-03T00:00:54Z",
+      "pushed_at": "2026-11-01T12:32:26Z"
+    },
+    {
       "id": 1392901645,
       "name": "Simple-WAM",
       "full_name": "LeapLabTHU/Simple-WAM",
@@ -11151,6 +11220,35 @@
       "created_at": "2026-10-09T21:12:02Z",
       "updated_at": "2026-10-14T10:32:55Z",
       "pushed_at": "2026-10-10T18:50:39Z"
+    },
+    {
+      "id": 1437443646,
+      "name": "ps2-native-recomp",
+      "full_name": "exoteric33/ps2-native-recomp",
+      "description": "Turns a PS2 disc image into a native PC program by static recompilation; builds on ps2-web-recomp (MIT). Work in progress. Bring your own disc.",
+      "html_url": "https://github.com/exoteric33/ps2-native-recomp",
+      "homepage": null,
+      "stars": 70,
+      "forks": 8,
+      "language": "C++",
+      "topics": [
+        "cpp",
+        "emulation",
+        "linux",
+        "playstation-2",
+        "playstation2",
+        "ps2",
+        "recompilation",
+        "recompiler",
+        "retro-gaming",
+        "static-recompilation",
+        "webgpu",
+        "wgpu",
+        "windows"
+      ],
+      "created_at": "2026-10-28T17:55:58Z",
+      "updated_at": "2026-11-02T22:20:35Z",
+      "pushed_at": "2026-11-02T22:20:31Z"
     },
     {
       "id": 1438583991,
@@ -11245,21 +11343,6 @@
       "created_at": "2026-10-14T06:20:15Z",
       "updated_at": "2026-10-20T05:53:47Z",
       "pushed_at": "2026-10-15T07:38:02Z"
-    },
-    {
-      "id": 1440436637,
-      "name": "strobe",
-      "full_name": "Hona/strobe",
-      "description": "Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.",
-      "html_url": "https://github.com/Hona/strobe",
-      "homepage": null,
-      "stars": 69,
-      "forks": 3,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-31T02:40:50Z",
-      "updated_at": "2026-11-02T16:45:03Z",
-      "pushed_at": "2026-11-01T12:32:26Z"
     },
     {
       "id": 1438680912,
@@ -11586,37 +11669,8 @@
         "wpf"
       ],
       "created_at": "2026-10-28T16:21:19Z",
-      "updated_at": "2026-10-30T14:02:51Z",
+      "updated_at": "2026-11-02T20:49:47Z",
       "pushed_at": "2026-10-29T18:01:22Z"
-    },
-    {
-      "id": 1437443646,
-      "name": "ps2-native-recomp",
-      "full_name": "exoteric33/ps2-native-recomp",
-      "description": "Turns a PS2 disc image into a native PC program by static recompilation; builds on ps2-web-recomp (MIT). Work in progress. Bring your own disc.",
-      "html_url": "https://github.com/exoteric33/ps2-native-recomp",
-      "homepage": null,
-      "stars": 68,
-      "forks": 8,
-      "language": "C++",
-      "topics": [
-        "cpp",
-        "emulation",
-        "linux",
-        "playstation-2",
-        "playstation2",
-        "ps2",
-        "recompilation",
-        "recompiler",
-        "retro-gaming",
-        "static-recompilation",
-        "webgpu",
-        "wgpu",
-        "windows"
-      ],
-      "created_at": "2026-10-28T17:55:58Z",
-      "updated_at": "2026-11-02T19:38:22Z",
-      "pushed_at": "2026-11-02T19:38:18Z"
     },
     {
       "id": 1425405863,
@@ -11804,8 +11858,8 @@
       "language": "Python",
       "topics": [],
       "created_at": "2026-10-28T05:12:30Z",
-      "updated_at": "2026-11-02T17:42:23Z",
-      "pushed_at": "2026-11-02T12:36:51Z"
+      "updated_at": "2026-11-02T23:33:08Z",
+      "pushed_at": "2026-11-02T23:33:02Z"
     },
     {
       "id": 1388637178,
@@ -12427,30 +12481,6 @@
       "created_at": "2026-10-11T04:38:04Z",
       "updated_at": "2026-10-17T18:25:20Z",
       "pushed_at": "2026-10-17T23:00:32Z"
-    },
-    {
-      "id": 1440799556,
-      "name": "webos",
-      "full_name": "stremio-origin/webos",
-      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
-      "html_url": "https://github.com/stremio-origin/webos",
-      "homepage": "https://stremio-origin.github.io/webos",
-      "stars": 59,
-      "forks": 3,
-      "language": "C",
-      "topics": [
-        "addons",
-        "c",
-        "homebrew-channel",
-        "lg-tv",
-        "sdl2",
-        "smart-tv",
-        "stremio",
-        "webos"
-      ],
-      "created_at": "2026-10-31T11:41:04Z",
-      "updated_at": "2026-11-02T19:43:00Z",
-      "pushed_at": "2026-10-31T12:58:33Z"
     },
     {
       "id": 1422310322,
@@ -13434,6 +13464,31 @@
       "pushed_at": "2026-10-25T21:55:19Z"
     },
     {
+      "id": 1440163195,
+      "name": "dejiny-domu-skill",
+      "full_name": "vzoha/dejiny-domu-skill",
+      "description": "Skill pro Claude Code: dějiny domu a vesnice z českých archivů a web s časovou osou (česky)",
+      "html_url": "https://github.com/vzoha/dejiny-domu-skill",
+      "homepage": null,
+      "stars": 50,
+      "forks": 6,
+      "language": "Python",
+      "topics": [
+        "ceske-archivy",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skill",
+        "czech",
+        "dejiny-domu",
+        "genealogie",
+        "historie",
+        "stary-katastr"
+      ],
+      "created_at": "2026-10-30T19:43:48Z",
+      "updated_at": "2026-11-02T17:58:16Z",
+      "pushed_at": "2026-11-02T05:49:16Z"
+    },
+    {
       "id": 1392926487,
       "name": "excali-mode",
       "full_name": "yibie/excali-mode",
@@ -13842,6 +13897,30 @@
       "pushed_at": "2026-10-18T19:53:16Z"
     },
     {
+      "id": 1443247580,
+      "name": "memechain",
+      "full_name": "larajeftic/memechain",
+      "description": "A proof-of-work blockchain for memes. Mine, inscribe and trade with test tokens in your browser. Public testnet mined by GitHub Actions.",
+      "html_url": "https://github.com/larajeftic/memechain",
+      "homepage": "https://larajeftic.github.io/memechain/",
+      "stars": 46,
+      "forks": 13,
+      "language": "Python",
+      "topics": [
+        "blockchain",
+        "browser",
+        "github-actions",
+        "javascript",
+        "memes",
+        "opentimestamps",
+        "proof-of-work",
+        "python"
+      ],
+      "created_at": "2026-11-02T17:05:54Z",
+      "updated_at": "2026-11-02T20:37:28Z",
+      "pushed_at": "2026-11-02T23:56:47Z"
+    },
+    {
       "id": 1376092823,
       "name": "EdgeSSH",
       "full_name": "aozorae/EdgeSSH",
@@ -14069,30 +14148,6 @@
       "pushed_at": "2026-10-14T15:48:15Z"
     },
     {
-      "id": 1443247580,
-      "name": "memechain",
-      "full_name": "larajeftic/memechain",
-      "description": "A proof-of-work blockchain for memes. Mine, inscribe and trade with test tokens in your browser. Public testnet mined by GitHub Actions.",
-      "html_url": "https://github.com/larajeftic/memechain",
-      "homepage": "https://larajeftic.github.io/memechain/",
-      "stars": 44,
-      "forks": 12,
-      "language": "Python",
-      "topics": [
-        "blockchain",
-        "browser",
-        "github-actions",
-        "javascript",
-        "memes",
-        "opentimestamps",
-        "proof-of-work",
-        "python"
-      ],
-      "created_at": "2026-11-02T17:05:54Z",
-      "updated_at": "2026-11-02T17:40:32Z",
-      "pushed_at": "2026-11-02T17:12:04Z"
-    },
-    {
       "id": 1375718495,
       "name": "jornadas-cloud-2026",
       "full_name": "betta-tech/jornadas-cloud-2026",
@@ -14197,6 +14252,21 @@
       "created_at": "2026-10-13T07:28:20Z",
       "updated_at": "2026-10-18T20:09:26Z",
       "pushed_at": "2026-10-14T04:41:26Z"
+    },
+    {
+      "id": 1441502956,
+      "name": "di-chua-online",
+      "full_name": "workaipvlinh-byte/di-chua-online",
+      "description": "Chánh điện 3D để live TikTok kiểu chùa online",
+      "html_url": "https://github.com/workaipvlinh-byte/di-chua-online",
+      "homepage": null,
+      "stars": 43,
+      "forks": 52,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-01T05:06:48Z",
+      "updated_at": "2026-11-03T01:29:55Z",
+      "pushed_at": "2026-11-02T15:43:06Z"
     },
     {
       "id": 1382441164,
@@ -14459,31 +14529,6 @@
       "pushed_at": "2026-10-22T02:18:35Z"
     },
     {
-      "id": 1440163195,
-      "name": "dejiny-domu-skill",
-      "full_name": "vzoha/dejiny-domu-skill",
-      "description": "Skill pro Claude Code: dějiny domu a vesnice z českých archivů a web s časovou osou (česky)",
-      "html_url": "https://github.com/vzoha/dejiny-domu-skill",
-      "homepage": null,
-      "stars": 41,
-      "forks": 5,
-      "language": "Python",
-      "topics": [
-        "ceske-archivy",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skill",
-        "czech",
-        "dejiny-domu",
-        "genealogie",
-        "historie",
-        "stary-katastr"
-      ],
-      "created_at": "2026-10-30T19:43:48Z",
-      "updated_at": "2026-11-02T08:58:25Z",
-      "pushed_at": "2026-11-02T05:49:16Z"
-    },
-    {
       "id": 1378383465,
       "name": "agent-builder-skills",
       "full_name": "minorun365/agent-builder-skills",
@@ -14630,6 +14675,28 @@
       "created_at": "2026-10-15T09:14:24Z",
       "updated_at": "2026-10-18T02:03:16Z",
       "pushed_at": "2026-10-15T18:44:37Z"
+    },
+    {
+      "id": 1443244793,
+      "name": "open-bot-avatar",
+      "full_name": "DominikScholz/open-bot-avatar",
+      "description": "A JSON spec and renderer for interactive agent avatars",
+      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
+      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
+      "stars": 39,
+      "forks": 6,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "animation",
+        "avatar",
+        "bot",
+        "json",
+        "svg"
+      ],
+      "created_at": "2026-11-02T17:03:14Z",
+      "updated_at": "2026-11-03T01:26:21Z",
+      "pushed_at": "2026-11-02T17:50:15Z"
     },
     {
       "id": 1382790500,
@@ -15567,6 +15634,26 @@
       "pushed_at": "2026-10-26T15:18:35Z"
     },
     {
+      "id": 1442182944,
+      "name": "nothing-icongen",
+      "full_name": "linuxct/nothing-icongen",
+      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
+      "html_url": "https://github.com/linuxct/nothing-icongen",
+      "homepage": null,
+      "stars": 31,
+      "forks": 2,
+      "language": "Kotlin",
+      "topics": [
+        "icon-pack",
+        "icongen",
+        "nothing",
+        "nothing-os"
+      ],
+      "created_at": "2026-11-01T19:56:01Z",
+      "updated_at": "2026-11-03T01:37:56Z",
+      "pushed_at": "2026-11-02T22:19:04Z"
+    },
+    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -16158,7 +16245,7 @@
         "mod-development"
       ],
       "created_at": "2026-10-28T16:17:22Z",
-      "updated_at": "2026-11-01T19:48:40Z",
+      "updated_at": "2026-11-02T21:40:02Z",
       "pushed_at": "2026-10-28T16:17:31Z"
     },
     {
@@ -16557,6 +16644,28 @@
       "pushed_at": "2026-10-16T10:10:05Z"
     },
     {
+      "id": 1437938878,
+      "name": "FrameGen-Manager-Next",
+      "full_name": "XiaoQAQ10086/FrameGen-Manager-Next",
+      "description": "一键为RTX 20和30系显卡用户部署 DLSS 帧生成以及DLSS5工具One-click deployment of DLSS Frame Generation and DLSS 5 tools for RTX 20 and 30 series graphics card users",
+      "html_url": "https://github.com/XiaoQAQ10086/FrameGen-Manager-Next",
+      "homepage": null,
+      "stars": 24,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "dlss",
+        "dotnet",
+        "frame-generation",
+        "nvidia",
+        "windows",
+        "wpf"
+      ],
+      "created_at": "2026-10-29T04:20:31Z",
+      "updated_at": "2026-11-03T00:56:25Z",
+      "pushed_at": "2026-11-01T15:43:10Z"
+    },
+    {
       "id": 1378959833,
       "name": "jev-design-test",
       "full_name": "bhaiG-de/jev-design-test",
@@ -16651,28 +16760,6 @@
       "created_at": "2026-10-27T11:22:56Z",
       "updated_at": "2026-11-02T09:23:31Z",
       "pushed_at": "2026-11-01T12:32:25Z"
-    },
-    {
-      "id": 1443244793,
-      "name": "open-bot-avatar",
-      "full_name": "DominikScholz/open-bot-avatar",
-      "description": "A JSON spec and renderer for interactive agent avatars",
-      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
-      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
-      "stars": 23,
-      "forks": 5,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "animation",
-        "avatar",
-        "bot",
-        "json",
-        "svg"
-      ],
-      "created_at": "2026-11-02T17:03:14Z",
-      "updated_at": "2026-11-02T19:43:30Z",
-      "pushed_at": "2026-11-02T17:50:15Z"
     },
     {
       "id": 1413789740,
@@ -16822,28 +16909,6 @@
       "created_at": "2026-10-28T00:12:56Z",
       "updated_at": "2026-11-02T15:58:17Z",
       "pushed_at": "2026-11-01T18:00:34Z"
-    },
-    {
-      "id": 1437938878,
-      "name": "FrameGen-Manager-Next",
-      "full_name": "XiaoQAQ10086/FrameGen-Manager-Next",
-      "description": "一键为RTX 20和30系显卡用户部署 DLSS 帧生成以及DLSS5工具One-click deployment of DLSS Frame Generation and DLSS 5 tools for RTX 20 and 30 series graphics card users",
-      "html_url": "https://github.com/XiaoQAQ10086/FrameGen-Manager-Next",
-      "homepage": null,
-      "stars": 22,
-      "forks": 0,
-      "language": "C#",
-      "topics": [
-        "dlss",
-        "dotnet",
-        "frame-generation",
-        "nvidia",
-        "windows",
-        "wpf"
-      ],
-      "created_at": "2026-10-29T04:20:31Z",
-      "updated_at": "2026-11-02T18:42:30Z",
-      "pushed_at": "2026-11-01T15:43:10Z"
     },
     {
       "id": 1394505594,
@@ -17315,23 +17380,27 @@
       "pushed_at": "2026-10-27T09:46:48Z"
     },
     {
-      "id": 1442182944,
-      "name": "nothing-icongen",
-      "full_name": "linuxct/nothing-icongen",
-      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
-      "html_url": "https://github.com/linuxct/nothing-icongen",
+      "id": 1440176038,
+      "name": "SplatThumb",
+      "full_name": "VoxelKei/SplatThumb",
+      "description": "Windows Explorer thumbnails for 3D Gaussian Splatting PLY files and Spatialograph Maker projects",
+      "html_url": "https://github.com/VoxelKei/SplatThumb",
       "homepage": null,
       "stars": 19,
-      "forks": 0,
-      "language": "Kotlin",
+      "forks": 3,
+      "language": "C++",
       "topics": [
-        "icongen",
-        "nothing",
-        "nothing-os"
+        "3d-gaussian-splatting",
+        "3dgs",
+        "gaussian-splatting",
+        "ply",
+        "shell-extension",
+        "thumbnails",
+        "windows"
       ],
-      "created_at": "2026-11-01T19:56:01Z",
-      "updated_at": "2026-11-02T19:48:05Z",
-      "pushed_at": "2026-11-02T19:50:47Z"
+      "created_at": "2026-10-30T19:58:19Z",
+      "updated_at": "2026-11-03T01:33:49Z",
+      "pushed_at": "2026-11-02T08:13:10Z"
     },
     {
       "id": 1387292246,
@@ -17572,27 +17641,19 @@
       "pushed_at": "2026-10-31T02:06:12Z"
     },
     {
-      "id": 1440176038,
-      "name": "SplatThumb",
-      "full_name": "VoxelKei/SplatThumb",
-      "description": "Windows Explorer thumbnails for 3D Gaussian Splatting PLY files and Spatialograph Maker projects",
-      "html_url": "https://github.com/VoxelKei/SplatThumb",
+      "id": 1439948386,
+      "name": "super-file-bros",
+      "full_name": "byizmysh/super-file-bros",
+      "description": "A file manager for Nintendo Switch 2. Browse console storage, transfer files, and manage your SD card through an existing FS RPC connection.",
+      "html_url": "https://github.com/byizmysh/super-file-bros",
       "homepage": null,
       "stars": 17,
-      "forks": 3,
-      "language": "C++",
-      "topics": [
-        "3d-gaussian-splatting",
-        "3dgs",
-        "gaussian-splatting",
-        "ply",
-        "shell-extension",
-        "thumbnails",
-        "windows"
-      ],
-      "created_at": "2026-10-30T19:58:19Z",
-      "updated_at": "2026-11-02T19:39:48Z",
-      "pushed_at": "2026-11-02T08:13:10Z"
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-30T16:08:35Z",
+      "updated_at": "2026-11-03T00:15:34Z",
+      "pushed_at": "2026-10-30T17:05:22Z"
     },
     {
       "id": 1379717308,
@@ -17809,21 +17870,6 @@
       "created_at": "2026-10-21T14:21:12Z",
       "updated_at": "2026-10-26T07:40:03Z",
       "pushed_at": "2026-10-21T14:56:54Z"
-    },
-    {
-      "id": 1439948386,
-      "name": "super-file-bros",
-      "full_name": "byizmysh/super-file-bros",
-      "description": "A file manager for Nintendo Switch 2. Browse console storage, transfer files, and manage your SD card through an existing FS RPC connection.",
-      "html_url": "https://github.com/byizmysh/super-file-bros",
-      "homepage": null,
-      "stars": 16,
-      "forks": 1,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-30T16:08:35Z",
-      "updated_at": "2026-11-01T16:49:59Z",
-      "pushed_at": "2026-10-30T17:05:22Z"
     },
     {
       "id": 1439641228,
@@ -18093,8 +18139,41 @@
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-29T13:17:24Z",
-      "updated_at": "2026-10-31T12:22:51Z",
-      "pushed_at": "2026-10-31T12:22:46Z"
+      "updated_at": "2026-11-02T11:09:48Z",
+      "pushed_at": "2026-11-02T11:09:44Z"
+    },
+    {
+      "id": 1440910521,
+      "name": "substance-3d-painter-setup-guide",
+      "full_name": "elena-p977839/substance-3d-painter-setup-guide",
+      "description": "Adobe Substance 3D Painter paints PBR materials directly onto 3D meshes in real time. Artists layer smart materials, masks, and generators for production-ready textures on Windows.",
+      "html_url": "https://github.com/elena-p977839/substance-3d-painter-setup-guide",
+      "homepage": null,
+      "stars": 15,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [
+        "2026",
+        "3d-texturing",
+        "digital-art",
+        "export-presets",
+        "game-art",
+        "installer",
+        "material-painting",
+        "official-release",
+        "pbr-texturing",
+        "setup-guide",
+        "smart-materials",
+        "substance-3d-painter",
+        "substance-painter",
+        "texture-baking",
+        "uv-mapping",
+        "windows",
+        "windows-setup"
+      ],
+      "created_at": "2026-10-31T13:57:50Z",
+      "updated_at": "2026-11-02T16:05:27Z",
+      "pushed_at": "2026-10-31T14:06:25Z"
     },
     {
       "id": 1379723846,
@@ -18554,39 +18633,6 @@
       "created_at": "2026-10-30T20:10:44Z",
       "updated_at": "2026-11-01T11:51:19Z",
       "pushed_at": "2026-10-30T22:09:03Z"
-    },
-    {
-      "id": 1440910521,
-      "name": "substance-3d-painter-setup-guide",
-      "full_name": "elena-p977839/substance-3d-painter-setup-guide",
-      "description": "Adobe Substance 3D Painter paints PBR materials directly onto 3D meshes in real time. Artists layer smart materials, masks, and generators for production-ready textures on Windows.",
-      "html_url": "https://github.com/elena-p977839/substance-3d-painter-setup-guide",
-      "homepage": null,
-      "stars": 13,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "2026",
-        "3d-texturing",
-        "digital-art",
-        "export-presets",
-        "game-art",
-        "installer",
-        "material-painting",
-        "official-release",
-        "pbr-texturing",
-        "setup-guide",
-        "smart-materials",
-        "substance-3d-painter",
-        "substance-painter",
-        "texture-baking",
-        "uv-mapping",
-        "windows",
-        "windows-setup"
-      ],
-      "created_at": "2026-10-31T13:57:50Z",
-      "updated_at": "2026-11-02T08:18:03Z",
-      "pushed_at": "2026-10-31T14:06:25Z"
     },
     {
       "id": 1380788494,
@@ -19083,6 +19129,28 @@
       "created_at": "2026-10-27T14:07:59Z",
       "updated_at": "2026-10-31T22:11:40Z",
       "pushed_at": "2026-10-27T22:00:13Z"
+    },
+    {
+      "id": 1440644349,
+      "name": "style-ui",
+      "full_name": "miqdadbadjuber/style-ui",
+      "description": "A curated directory of UI component libraries, design.md generators, and background generators.",
+      "html_url": "https://github.com/miqdadbadjuber/style-ui",
+      "homepage": "https://style.ai.id",
+      "stars": 10,
+      "forks": 1,
+      "language": "HTML",
+      "topics": [
+        "background-generator",
+        "design-md",
+        "design-tools",
+        "directory",
+        "frontend",
+        "ui-components"
+      ],
+      "created_at": "2026-10-31T08:06:53Z",
+      "updated_at": "2026-11-02T19:39:22Z",
+      "pushed_at": "2026-11-01T06:49:41Z"
     },
     {
       "id": 1394432370,
