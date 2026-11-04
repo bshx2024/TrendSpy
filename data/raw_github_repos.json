@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/4 03:16:47",
-  "total_repos": 847,
+  "fetched_at": "2026/11/4 08:29:39",
+  "total_repos": 856,
   "repos": [
     {
       "id": 1425658028,
@@ -167,7 +167,7 @@
       "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "html_url": "https://github.com/Balanov/uncut",
       "homepage": "https://balanov.pro/uncut/",
-      "stars": 589,
+      "stars": 592,
       "forks": 10,
       "language": "Go",
       "topics": [
@@ -180,7 +180,7 @@
         "local-models"
       ],
       "created_at": "2026-11-01T17:19:30Z",
-      "updated_at": "2026-11-03T18:35:56Z",
+      "updated_at": "2026-11-03T23:52:59Z",
       "pushed_at": "2026-11-02T20:58:19Z"
     },
     {
@@ -714,12 +714,12 @@
       "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "html_url": "https://github.com/ashayas/icloud-s3",
       "homepage": null,
-      "stars": 489,
-      "forks": 31,
+      "stars": 490,
+      "forks": 30,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-30T23:54:20Z",
-      "updated_at": "2026-11-03T16:20:07Z",
+      "updated_at": "2026-11-03T21:46:54Z",
       "pushed_at": "2026-10-31T01:34:42Z"
     },
     {
@@ -916,7 +916,7 @@
       "description": "红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no install.",
       "html_url": "https://github.com/parallelpan/hongguo-downloader",
       "homepage": "https://guoshi.app",
-      "stars": 445,
+      "stars": 447,
       "forks": 51,
       "language": null,
       "topics": [
@@ -942,7 +942,7 @@
         "short-video"
       ],
       "created_at": "2026-10-31T07:48:17Z",
-      "updated_at": "2026-11-03T14:04:47Z",
+      "updated_at": "2026-11-03T20:51:12Z",
       "pushed_at": "2026-11-02T14:37:05Z"
     },
     {
@@ -1050,6 +1050,21 @@
       "pushed_at": "2026-10-12T17:59:31Z"
     },
     {
+      "id": 1440965926,
+      "name": "NSP-Box",
+      "full_name": "smarkyie/NSP-Box",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "html_url": "https://github.com/smarkyie/NSP-Box",
+      "homepage": null,
+      "stars": 409,
+      "forks": 29,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-31T15:00:55Z",
+      "updated_at": "2026-11-04T00:15:42Z",
+      "pushed_at": "2026-11-03T18:34:28Z"
+    },
+    {
       "id": 1404316216,
       "name": "Microsoft-Project",
       "full_name": "Blockadezoshack/Microsoft-Project",
@@ -1153,28 +1168,13 @@
       "pushed_at": "2026-10-20T17:24:38Z"
     },
     {
-      "id": 1421622972,
-      "name": "Full-Chain-Sentinel-System",
-      "full_name": "zgsfsec/Full-Chain-Sentinel-System",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "html_url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-      "homepage": null,
-      "stars": 399,
-      "forks": 135,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-10-16T04:05:37Z",
-      "updated_at": "2026-10-22T14:39:12Z",
-      "pushed_at": "2026-10-22T12:52:53Z"
-    },
-    {
       "id": 1437812726,
       "name": "shisei",
       "full_name": "wquguru/shisei",
       "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
       "html_url": "https://github.com/wquguru/shisei",
       "homepage": "https://shisei.indaloop.app",
-      "stars": 396,
+      "stars": 400,
       "forks": 82,
       "language": "Python",
       "topics": [
@@ -1197,8 +1197,23 @@
         "stable-diffusion"
       ],
       "created_at": "2026-10-29T01:23:06Z",
-      "updated_at": "2026-11-03T17:28:37Z",
+      "updated_at": "2026-11-03T23:49:06Z",
       "pushed_at": "2026-11-02T14:10:19Z"
+    },
+    {
+      "id": 1421622972,
+      "name": "Full-Chain-Sentinel-System",
+      "full_name": "zgsfsec/Full-Chain-Sentinel-System",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "html_url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "homepage": null,
+      "stars": 399,
+      "forks": 135,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-16T04:05:37Z",
+      "updated_at": "2026-10-22T14:39:12Z",
+      "pushed_at": "2026-10-22T12:52:53Z"
     },
     {
       "id": 1432231624,
@@ -1418,21 +1433,6 @@
       "created_at": "2026-10-04T00:05:25Z",
       "updated_at": "2026-10-10T16:33:59Z",
       "pushed_at": "2026-10-05T20:31:48Z"
-    },
-    {
-      "id": 1440965926,
-      "name": "NSP-Box",
-      "full_name": "smarkyie/NSP-Box",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "html_url": "https://github.com/smarkyie/NSP-Box",
-      "homepage": null,
-      "stars": 391,
-      "forks": 25,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-31T15:00:55Z",
-      "updated_at": "2026-11-03T18:51:44Z",
-      "pushed_at": "2026-11-03T18:34:28Z"
     },
     {
       "id": 1397599794,
@@ -2686,6 +2686,21 @@
       "pushed_at": "2026-10-02T00:33:09Z"
     },
     {
+      "id": 1440422945,
+      "name": "sideload-jiostb",
+      "full_name": "ilikechocopies/sideload-jiostb",
+      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
+      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
+      "homepage": null,
+      "stars": 253,
+      "forks": 281,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-10-31T02:17:57Z",
+      "updated_at": "2026-11-03T20:30:08Z",
+      "pushed_at": "2026-11-03T10:35:18Z"
+    },
+    {
       "id": 1423660177,
       "name": "Movavi-Converter",
       "full_name": "Maroonplocord/Movavi-Converter",
@@ -2859,21 +2874,6 @@
       "created_at": "2026-10-17T19:14:26Z",
       "updated_at": "2026-10-18T12:33:26Z",
       "pushed_at": "2026-10-17T19:14:32Z"
-    },
-    {
-      "id": 1440422945,
-      "name": "sideload-jiostb",
-      "full_name": "ilikechocopies/sideload-jiostb",
-      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
-      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
-      "homepage": null,
-      "stars": 250,
-      "forks": 275,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-10-31T02:17:57Z",
-      "updated_at": "2026-11-03T19:01:25Z",
-      "pushed_at": "2026-11-03T10:35:18Z"
     },
     {
       "id": 1437694471,
@@ -3118,12 +3118,12 @@
       "description": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
       "html_url": "https://github.com/Balanov/verdict",
       "homepage": null,
-      "stars": 223,
+      "stars": 225,
       "forks": 0,
       "language": "Python",
       "topics": [],
       "created_at": "2026-11-02T19:14:51Z",
-      "updated_at": "2026-11-03T17:10:03Z",
+      "updated_at": "2026-11-03T23:56:04Z",
       "pushed_at": "2026-11-02T22:36:33Z"
     },
     {
@@ -3512,7 +3512,7 @@
       "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
       "homepage": null,
       "stars": 207,
-      "forks": 322,
+      "forks": 323,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-31T10:56:27Z",
@@ -3726,6 +3726,21 @@
       "created_at": "2026-10-17T19:10:45Z",
       "updated_at": "2026-10-18T00:26:09Z",
       "pushed_at": "2026-10-17T19:10:52Z"
+    },
+    {
+      "id": 1442779224,
+      "name": "godraw",
+      "full_name": "egoist/godraw",
+      "description": "infinite canvas in mygo",
+      "html_url": "https://github.com/egoist/godraw",
+      "homepage": null,
+      "stars": 203,
+      "forks": 15,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-11-02T09:47:18Z",
+      "updated_at": "2026-11-03T23:58:10Z",
+      "pushed_at": "2026-11-02T10:04:17Z"
     },
     {
       "id": 1376284519,
@@ -4643,21 +4658,6 @@
       "pushed_at": "2026-11-02T10:13:46Z"
     },
     {
-      "id": 1442779224,
-      "name": "godraw",
-      "full_name": "egoist/godraw",
-      "description": "infinite canvas in mygo",
-      "html_url": "https://github.com/egoist/godraw",
-      "homepage": null,
-      "stars": 199,
-      "forks": 14,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-11-02T09:47:18Z",
-      "updated_at": "2026-11-03T19:11:27Z",
-      "pushed_at": "2026-11-02T10:04:17Z"
-    },
-    {
       "id": 1411918476,
       "name": "BorisFX",
       "full_name": "ChunkPoolChain/BorisFX",
@@ -4950,6 +4950,35 @@
       "created_at": "2026-10-15T23:37:25Z",
       "updated_at": "2026-10-21T16:11:23Z",
       "pushed_at": "2026-10-16T10:03:49Z"
+    },
+    {
+      "id": 1442823570,
+      "name": "pokopia-native",
+      "full_name": "xFractals/pokopia-native",
+      "description": "Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only; no game content.",
+      "html_url": "https://github.com/xFractals/pokopia-native",
+      "homepage": null,
+      "stars": 190,
+      "forks": 26,
+      "language": "C++",
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "macos",
+        "metal",
+        "native",
+        "native-port",
+        "nintendo-switch-2",
+        "nxnative",
+        "pokemon",
+        "pokopia",
+        "switch2",
+        "windows-builder"
+      ],
+      "created_at": "2026-11-02T10:31:12Z",
+      "updated_at": "2026-11-04T00:19:01Z",
+      "pushed_at": "2026-11-03T22:34:40Z"
     },
     {
       "id": 1375641268,
@@ -5352,6 +5381,45 @@
       "pushed_at": "2026-10-16T22:22:21Z"
     },
     {
+      "id": 1440772406,
+      "name": "idrive-apps",
+      "full_name": "robertnisipeanu/idrive-apps",
+      "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
+      "html_url": "https://github.com/robertnisipeanu/idrive-apps",
+      "homepage": null,
+      "stars": 171,
+      "forks": 37,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-31T11:04:14Z",
+      "updated_at": "2026-11-03T23:36:04Z",
+      "pushed_at": "2026-11-03T18:28:07Z"
+    },
+    {
+      "id": 1439548693,
+      "name": "fy-code-animation",
+      "full_name": "Akillll-DuoHe/fy-code-animation",
+      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
+      "stars": 169,
+      "forks": 24,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "chinese",
+        "code-animation",
+        "deepseek-harness",
+        "dsh-skill",
+        "motion-design",
+        "remotion",
+        "skill"
+      ],
+      "created_at": "2026-10-30T09:55:43Z",
+      "updated_at": "2026-11-03T22:56:23Z",
+      "pushed_at": "2026-10-30T09:56:05Z"
+    },
+    {
       "id": 1412301770,
       "name": "datasets",
       "full_name": "toddrjones/datasets",
@@ -5379,30 +5447,6 @@
       "created_at": "2026-10-09T18:38:36Z",
       "updated_at": "2026-10-15T15:49:38Z",
       "pushed_at": "2026-10-15T15:22:09Z"
-    },
-    {
-      "id": 1439548693,
-      "name": "fy-code-animation",
-      "full_name": "Akillll-DuoHe/fy-code-animation",
-      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
-      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
-      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
-      "stars": 168,
-      "forks": 24,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "chinese",
-        "code-animation",
-        "deepseek-harness",
-        "dsh-skill",
-        "motion-design",
-        "remotion",
-        "skill"
-      ],
-      "created_at": "2026-10-30T09:55:43Z",
-      "updated_at": "2026-11-03T16:31:56Z",
-      "pushed_at": "2026-10-30T09:56:05Z"
     },
     {
       "id": 1436596754,
@@ -5458,6 +5502,29 @@
       "created_at": "2026-10-01T18:39:44Z",
       "updated_at": "2026-10-07T14:17:12Z",
       "pushed_at": "2026-10-05T18:50:02Z"
+    },
+    {
+      "id": 1442833956,
+      "name": "awesome-reverse-engineer-anything",
+      "full_name": "maluramichael/awesome-reverse-engineer-anything",
+      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
+      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
+      "homepage": null,
+      "stars": 167,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "clean-room",
+        "decompilation",
+        "emulators",
+        "reverse-engineering",
+        "static-recompilation"
+      ],
+      "created_at": "2026-11-02T10:42:04Z",
+      "updated_at": "2026-11-04T00:00:41Z",
+      "pushed_at": "2026-11-03T12:08:31Z"
     },
     {
       "id": 1440797906,
@@ -5524,50 +5591,6 @@
       "created_at": "2026-10-22T16:07:16Z",
       "updated_at": "2026-10-27T19:37:17Z",
       "pushed_at": "2026-10-23T06:24:13Z"
-    },
-    {
-      "id": 1440772406,
-      "name": "idrive-apps",
-      "full_name": "robertnisipeanu/idrive-apps",
-      "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
-      "html_url": "https://github.com/robertnisipeanu/idrive-apps",
-      "homepage": null,
-      "stars": 164,
-      "forks": 37,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-31T11:04:14Z",
-      "updated_at": "2026-11-03T18:42:47Z",
-      "pushed_at": "2026-11-03T18:28:07Z"
-    },
-    {
-      "id": 1442823570,
-      "name": "pokopia-native",
-      "full_name": "xFractals/pokopia-native",
-      "description": "Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only; no game content.",
-      "html_url": "https://github.com/xFractals/pokopia-native",
-      "homepage": null,
-      "stars": 164,
-      "forks": 20,
-      "language": "C++",
-      "topics": [
-        "apple-silicon",
-        "ios",
-        "iphone",
-        "macos",
-        "metal",
-        "native",
-        "native-port",
-        "nintendo-switch-2",
-        "nxnative",
-        "pokemon",
-        "pokopia",
-        "switch2",
-        "windows-builder"
-      ],
-      "created_at": "2026-11-02T10:31:12Z",
-      "updated_at": "2026-11-03T19:08:57Z",
-      "pushed_at": "2026-11-03T18:12:02Z"
     },
     {
       "id": 1436372393,
@@ -5835,6 +5858,21 @@
       "pushed_at": "2026-11-01T11:32:13Z"
     },
     {
+      "id": 1438717707,
+      "name": "Zenith",
+      "full_name": "unjustodin/Zenith",
+      "description": "Zenith is a 3D visualizer for Factorio, not it's own game and runs exclusively alongside Factorio",
+      "html_url": "https://github.com/unjustodin/Zenith",
+      "homepage": "https://discord.gg/PTzuYj4cPE",
+      "stars": 156,
+      "forks": 2,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-29T17:03:12Z",
+      "updated_at": "2026-11-03T22:53:47Z",
+      "pushed_at": "2026-11-03T05:14:38Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -5920,21 +5958,6 @@
       "created_at": "2026-10-17T19:10:06Z",
       "updated_at": "2026-10-17T23:51:44Z",
       "pushed_at": "2026-10-17T19:10:11Z"
-    },
-    {
-      "id": 1438717707,
-      "name": "Zenith",
-      "full_name": "unjustodin/Zenith",
-      "description": "Zenith is a 3D visualizer for Factorio, not it's own game and runs exclusively alongside Factorio",
-      "html_url": "https://github.com/unjustodin/Zenith",
-      "homepage": "https://discord.gg/PTzuYj4cPE",
-      "stars": 151,
-      "forks": 2,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-29T17:03:12Z",
-      "updated_at": "2026-11-03T18:36:09Z",
-      "pushed_at": "2026-11-03T05:14:38Z"
     },
     {
       "id": 1418592001,
@@ -6205,39 +6228,6 @@
       "pushed_at": "2026-10-29T07:16:25Z"
     },
     {
-      "id": 1441693752,
-      "name": "SP-Flash-Tool",
-      "full_name": "Fusenamoon77/SP-Flash-Tool",
-      "description": "Sp Flash Tool 2026: Complete standalone setup with all necessary drivers and utilities for efficient firmware flashing.",
-      "html_url": "https://github.com/Fusenamoon77/SP-Flash-Tool",
-      "homepage": null,
-      "stars": 138,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "mediatek-2026",
-        "mediatek-flash",
-        "mediatek-flash-2026",
-        "mediatek-sp-flash-tool",
-        "mtk-flash-tool-windows-install",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "sp-flash-tool-download-mediatek",
-        "sp-flash-tool-scatter-file-frp-2026",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-01T10:13:24Z",
-      "updated_at": "2026-11-02T08:55:48Z",
-      "pushed_at": "2026-11-01T10:13:29Z"
-    },
-    {
       "id": 1438075150,
       "name": "Adobe-InDesign",
       "full_name": "CaveVerseNight/Adobe-InDesign",
@@ -6397,29 +6387,6 @@
       "created_at": "2026-10-29T07:16:27Z",
       "updated_at": "2026-10-29T17:17:34Z",
       "pushed_at": "2026-10-29T07:16:36Z"
-    },
-    {
-      "id": 1442833956,
-      "name": "awesome-reverse-engineer-anything",
-      "full_name": "maluramichael/awesome-reverse-engineer-anything",
-      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
-      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
-      "homepage": null,
-      "stars": 138,
-      "forks": 6,
-      "language": "Python",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "clean-room",
-        "decompilation",
-        "emulators",
-        "reverse-engineering",
-        "static-recompilation"
-      ],
-      "created_at": "2026-11-02T10:42:04Z",
-      "updated_at": "2026-11-03T11:36:08Z",
-      "pushed_at": "2026-11-02T21:58:58Z"
     },
     {
       "id": 1403448265,
@@ -6700,6 +6667,28 @@
       "pushed_at": "2026-10-29T22:00:06Z"
     },
     {
+      "id": 1443613311,
+      "name": "DOPPLERGEIST",
+      "full_name": "1337isnot1337/DOPPLERGEIST",
+      "description": "A tool to geolocate audio recordings using aircraft Doppler shifts and historical flight tracks.",
+      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+      "homepage": null,
+      "stars": 132,
+      "forks": 22,
+      "language": "Python",
+      "topics": [
+        "acoustic-geolocation",
+        "ads-b",
+        "airplane",
+        "doppler-effect",
+        "geolocation",
+        "osint"
+      ],
+      "created_at": "2026-11-02T23:54:01Z",
+      "updated_at": "2026-11-04T00:23:55Z",
+      "pushed_at": "2026-11-04T00:15:35Z"
+    },
+    {
       "id": 1414942519,
       "name": "EdenLive",
       "full_name": "VAST-AI-Research/EdenLive",
@@ -6795,6 +6784,53 @@
       "pushed_at": "2026-10-29T22:47:09Z"
     },
     {
+      "id": 1437982653,
+      "name": "minecraft-agent-harness",
+      "full_name": "yc-software/minecraft-agent-harness",
+      "description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+      "html_url": "https://github.com/yc-software/minecraft-agent-harness",
+      "homepage": null,
+      "stars": 128,
+      "forks": 10,
+      "language": "JavaScript",
+      "topics": [
+        "agent-harness",
+        "ai-agents",
+        "llm",
+        "minecraft",
+        "mineflayer",
+        "multi-agent"
+      ],
+      "created_at": "2026-10-29T05:21:45Z",
+      "updated_at": "2026-11-03T20:58:12Z",
+      "pushed_at": "2026-10-29T20:30:45Z"
+    },
+    {
+      "id": 1441141531,
+      "name": "Conker-Recomped-and-Reloaded",
+      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
+      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
+      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+      "homepage": null,
+      "stars": 128,
+      "forks": 6,
+      "language": "C++",
+      "topics": [
+        "appimage",
+        "conker",
+        "linux",
+        "native-port",
+        "netplay",
+        "recompilation",
+        "static-recompilation",
+        "windows",
+        "xbox"
+      ],
+      "created_at": "2026-10-31T18:25:04Z",
+      "updated_at": "2026-11-03T23:42:04Z",
+      "pushed_at": "2026-11-03T10:16:12Z"
+    },
+    {
       "id": 1431868668,
       "name": "Ghost-Night",
       "full_name": "sanjayadanushka712/Ghost-Night",
@@ -6816,6 +6852,21 @@
       "created_at": "2026-10-24T06:02:19Z",
       "updated_at": "2026-10-30T13:26:46Z",
       "pushed_at": "2026-10-24T06:03:36Z"
+    },
+    {
+      "id": 1444273487,
+      "name": "jrames",
+      "full_name": "chadandyou/jrames",
+      "description": "JRAMES — an engraved graphic novel on the web and a live app that explains why Solana memecoins move. React · Three.js · GLSL · Web Audio.",
+      "html_url": "https://github.com/chadandyou/jrames",
+      "homepage": "https://www.jrames.fun",
+      "stars": 127,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-03T12:40:28Z",
+      "updated_at": "2026-11-03T23:48:47Z",
+      "pushed_at": "2026-11-03T12:40:56Z"
     },
     {
       "id": 1426197381,
@@ -6870,28 +6921,6 @@
       "created_at": "2026-10-19T08:36:53Z",
       "updated_at": "2026-10-25T16:34:31Z",
       "pushed_at": "2026-10-25T14:39:04Z"
-    },
-    {
-      "id": 1437982653,
-      "name": "minecraft-agent-harness",
-      "full_name": "yc-software/minecraft-agent-harness",
-      "description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
-      "html_url": "https://github.com/yc-software/minecraft-agent-harness",
-      "homepage": null,
-      "stars": 126,
-      "forks": 9,
-      "language": "JavaScript",
-      "topics": [
-        "agent-harness",
-        "ai-agents",
-        "llm",
-        "minecraft",
-        "mineflayer",
-        "multi-agent"
-      ],
-      "created_at": "2026-10-29T05:21:45Z",
-      "updated_at": "2026-11-03T11:17:01Z",
-      "pushed_at": "2026-10-29T20:30:45Z"
     },
     {
       "id": 1401629577,
@@ -6974,6 +7003,39 @@
       "created_at": "2026-10-26T18:49:53Z",
       "updated_at": "2026-10-27T03:36:57Z",
       "pushed_at": "2026-10-26T19:03:13Z"
+    },
+    {
+      "id": 1441693752,
+      "name": "SP-Flash-Tool",
+      "full_name": "Fusenamoon77/SP-Flash-Tool",
+      "description": "Sp Flash Tool 2026: Complete standalone setup with all necessary drivers and utilities for efficient firmware flashing.",
+      "html_url": "https://github.com/Fusenamoon77/SP-Flash-Tool",
+      "homepage": null,
+      "stars": 124,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "mediatek-2026",
+        "mediatek-flash",
+        "mediatek-flash-2026",
+        "mediatek-sp-flash-tool",
+        "mtk-flash-tool-windows-install",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "sp-flash-tool-download-mediatek",
+        "sp-flash-tool-scatter-file-frp-2026",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-01T10:13:24Z",
+      "updated_at": "2026-11-02T09:14:31Z",
+      "pushed_at": "2026-11-01T10:13:29Z"
     },
     {
       "id": 1406397878,
@@ -7161,29 +7223,26 @@
       "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
-      "id": 1441141531,
-      "name": "Conker-Recomped-and-Reloaded",
-      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
-      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
-      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
-      "homepage": null,
+      "id": 1443244793,
+      "name": "open-bot-avatar",
+      "full_name": "DominikScholz/open-bot-avatar",
+      "description": "A JSON spec and renderer for interactive agent avatars",
+      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
+      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
       "stars": 121,
-      "forks": 6,
-      "language": "C++",
+      "forks": 18,
+      "language": "TypeScript",
       "topics": [
-        "appimage",
-        "conker",
-        "linux",
-        "native-port",
-        "netplay",
-        "recompilation",
-        "static-recompilation",
-        "windows",
-        "xbox"
+        "agents",
+        "animation",
+        "avatar",
+        "bot",
+        "json",
+        "svg"
       ],
-      "created_at": "2026-10-31T18:25:04Z",
-      "updated_at": "2026-11-03T18:19:23Z",
-      "pushed_at": "2026-11-03T10:16:12Z"
+      "created_at": "2026-11-02T17:03:14Z",
+      "updated_at": "2026-11-03T23:37:15Z",
+      "pushed_at": "2026-11-03T23:37:09Z"
     },
     {
       "id": 1417978332,
@@ -7557,21 +7616,6 @@
       "pushed_at": "2026-10-13T01:57:27Z"
     },
     {
-      "id": 1444273487,
-      "name": "jrames",
-      "full_name": "chadandyou/jrames",
-      "description": "JRAMES — an engraved graphic novel on the web and a live app that explains why Solana memecoins move. React · Three.js · GLSL · Web Audio.",
-      "html_url": "https://github.com/chadandyou/jrames",
-      "homepage": "https://www.jrames.fun",
-      "stars": 112,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-03T12:40:28Z",
-      "updated_at": "2026-11-03T18:53:39Z",
-      "pushed_at": "2026-11-03T12:40:56Z"
-    },
-    {
       "id": 1377674687,
       "name": "jev-webmcp-extension",
       "full_name": "sdras/jev-webmcp-extension",
@@ -7680,28 +7724,6 @@
       "created_at": "2026-10-15T00:27:59Z",
       "updated_at": "2026-10-21T21:54:14Z",
       "pushed_at": "2026-10-17T21:31:12Z"
-    },
-    {
-      "id": 1443244793,
-      "name": "open-bot-avatar",
-      "full_name": "DominikScholz/open-bot-avatar",
-      "description": "A JSON spec and renderer for interactive agent avatars",
-      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
-      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
-      "stars": 110,
-      "forks": 15,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "animation",
-        "avatar",
-        "bot",
-        "json",
-        "svg"
-      ],
-      "created_at": "2026-11-02T17:03:14Z",
-      "updated_at": "2026-11-03T19:16:36Z",
-      "pushed_at": "2026-11-02T17:50:15Z"
     },
     {
       "id": 1387885716,
@@ -8366,6 +8388,21 @@
       "created_at": "2026-10-18T06:18:00Z",
       "updated_at": "2026-10-21T14:40:17Z",
       "pushed_at": "2026-10-20T08:09:56Z"
+    },
+    {
+      "id": 1439578660,
+      "name": "nekochat",
+      "full_name": "xyt-dev/nekochat",
+      "description": "Roleplay chat with customizable character cards, interactive charts, animated SVG graphics, local GIF stickers, web search, and ChatGPT subscription support. Powered by Rust, SolidJS, and WebAssembly.",
+      "html_url": "https://github.com/xyt-dev/nekochat",
+      "homepage": null,
+      "stars": 104,
+      "forks": 3,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-30T10:25:53Z",
+      "updated_at": "2026-11-03T19:35:52Z",
+      "pushed_at": "2026-11-02T13:23:09Z"
     },
     {
       "id": 1390845863,
@@ -9088,21 +9125,6 @@
       "pushed_at": "2026-10-30T17:28:46Z"
     },
     {
-      "id": 1439578660,
-      "name": "nekochat",
-      "full_name": "xyt-dev/nekochat",
-      "description": "Roleplay chat with customizable character cards, interactive charts, animated SVG graphics, local GIF stickers, web search, and ChatGPT subscription support. Powered by Rust, SolidJS, and WebAssembly.",
-      "html_url": "https://github.com/xyt-dev/nekochat",
-      "homepage": null,
-      "stars": 100,
-      "forks": 3,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-30T10:25:53Z",
-      "updated_at": "2026-11-03T16:42:46Z",
-      "pushed_at": "2026-11-02T13:23:09Z"
-    },
-    {
       "id": 1438082267,
       "name": "Robux-Generator",
       "full_name": "Barbpouncouple/Robux-Generator",
@@ -9654,6 +9676,30 @@
       "pushed_at": "2026-09-18T21:16:11Z"
     },
     {
+      "id": 1440799556,
+      "name": "webos",
+      "full_name": "stremio-origin/webos",
+      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
+      "html_url": "https://github.com/stremio-origin/webos",
+      "homepage": "https://stremio-origin.github.io/webos",
+      "stars": 94,
+      "forks": 7,
+      "language": "C",
+      "topics": [
+        "addons",
+        "c",
+        "homebrew-channel",
+        "lg-tv",
+        "sdl2",
+        "smart-tv",
+        "stremio",
+        "webos"
+      ],
+      "created_at": "2026-10-31T11:41:04Z",
+      "updated_at": "2026-11-04T00:23:38Z",
+      "pushed_at": "2026-10-31T12:58:33Z"
+    },
+    {
       "id": 1436043653,
       "name": "Cisco-Webex-Download",
       "full_name": "wbx-tools/Cisco-Webex-Download",
@@ -9830,30 +9876,6 @@
       "created_at": "2026-10-22T10:58:26Z",
       "updated_at": "2026-10-28T20:36:57Z",
       "pushed_at": "2026-10-28T21:28:35Z"
-    },
-    {
-      "id": 1440799556,
-      "name": "webos",
-      "full_name": "stremio-origin/webos",
-      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
-      "html_url": "https://github.com/stremio-origin/webos",
-      "homepage": "https://stremio-origin.github.io/webos",
-      "stars": 92,
-      "forks": 6,
-      "language": "C",
-      "topics": [
-        "addons",
-        "c",
-        "homebrew-channel",
-        "lg-tv",
-        "sdl2",
-        "smart-tv",
-        "stremio",
-        "webos"
-      ],
-      "created_at": "2026-10-31T11:41:04Z",
-      "updated_at": "2026-11-03T19:10:08Z",
-      "pushed_at": "2026-10-31T12:58:33Z"
     },
     {
       "id": 1378557186,
@@ -11090,6 +11112,21 @@
       "pushed_at": "2026-11-03T17:06:01Z"
     },
     {
+      "id": 1440436637,
+      "name": "strobe",
+      "full_name": "Hona/strobe",
+      "description": "Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.",
+      "html_url": "https://github.com/Hona/strobe",
+      "homepage": null,
+      "stars": 73,
+      "forks": 3,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-31T02:40:50Z",
+      "updated_at": "2026-11-04T00:17:11Z",
+      "pushed_at": "2026-11-04T00:17:07Z"
+    },
+    {
       "id": 1375761817,
       "name": "jevcache",
       "full_name": "hyperspaceai/jevcache",
@@ -11185,21 +11222,6 @@
       "created_at": "2026-10-23T04:54:55Z",
       "updated_at": "2026-10-29T15:28:18Z",
       "pushed_at": "2026-10-29T04:31:09Z"
-    },
-    {
-      "id": 1440436637,
-      "name": "strobe",
-      "full_name": "Hona/strobe",
-      "description": "Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.",
-      "html_url": "https://github.com/Hona/strobe",
-      "homepage": null,
-      "stars": 72,
-      "forks": 3,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-31T02:40:50Z",
-      "updated_at": "2026-11-03T03:04:48Z",
-      "pushed_at": "2026-11-01T12:32:26Z"
     },
     {
       "id": 1375750028,
@@ -12748,6 +12770,31 @@
       "pushed_at": "2026-10-08T00:28:44Z"
     },
     {
+      "id": 1440163195,
+      "name": "dejiny-domu-skill",
+      "full_name": "vzoha/dejiny-domu-skill",
+      "description": "Skill pro Claude Code: dějiny domu a vesnice z českých archivů a web s časovou osou (česky)",
+      "html_url": "https://github.com/vzoha/dejiny-domu-skill",
+      "homepage": null,
+      "stars": 58,
+      "forks": 6,
+      "language": "Python",
+      "topics": [
+        "ceske-archivy",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skill",
+        "czech",
+        "dejiny-domu",
+        "genealogie",
+        "historie",
+        "stary-katastr"
+      ],
+      "created_at": "2026-10-30T19:43:48Z",
+      "updated_at": "2026-11-03T21:10:09Z",
+      "pushed_at": "2026-11-03T19:55:15Z"
+    },
+    {
       "id": 1388724753,
       "name": "websitegenerator",
       "full_name": "albertshiney/websitegenerator",
@@ -12781,31 +12828,6 @@
       "created_at": "2026-10-10T20:42:05Z",
       "updated_at": "2026-10-16T21:10:47Z",
       "pushed_at": "2026-10-12T06:56:26Z"
-    },
-    {
-      "id": 1440163195,
-      "name": "dejiny-domu-skill",
-      "full_name": "vzoha/dejiny-domu-skill",
-      "description": "Skill pro Claude Code: dějiny domu a vesnice z českých archivů a web s časovou osou (česky)",
-      "html_url": "https://github.com/vzoha/dejiny-domu-skill",
-      "homepage": null,
-      "stars": 57,
-      "forks": 6,
-      "language": "Python",
-      "topics": [
-        "ceske-archivy",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skill",
-        "czech",
-        "dejiny-domu",
-        "genealogie",
-        "historie",
-        "stary-katastr"
-      ],
-      "created_at": "2026-10-30T19:43:48Z",
-      "updated_at": "2026-11-03T13:44:39Z",
-      "pushed_at": "2026-11-03T12:22:29Z"
     },
     {
       "id": 1386319785,
@@ -13478,7 +13500,7 @@
       ],
       "created_at": "2026-11-02T17:05:54Z",
       "updated_at": "2026-11-03T15:00:50Z",
-      "pushed_at": "2026-11-03T14:40:06Z"
+      "pushed_at": "2026-11-03T20:39:05Z"
     },
     {
       "id": 1443160850,
@@ -13718,7 +13740,7 @@
       "html_url": "https://github.com/workaipvlinh-byte/di-chua-online",
       "homepage": null,
       "stars": 50,
-      "forks": 67,
+      "forks": 68,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-11-01T05:06:48Z",
@@ -13839,6 +13861,26 @@
       "pushed_at": "2026-10-27T09:47:28Z"
     },
     {
+      "id": 1442182944,
+      "name": "nothing-icongen",
+      "full_name": "linuxct/nothing-icongen",
+      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
+      "html_url": "https://github.com/linuxct/nothing-icongen",
+      "homepage": null,
+      "stars": 49,
+      "forks": 3,
+      "language": "Kotlin",
+      "topics": [
+        "icon-pack",
+        "icongen",
+        "nothing",
+        "nothing-os"
+      ],
+      "created_at": "2026-11-01T19:56:01Z",
+      "updated_at": "2026-11-03T22:50:28Z",
+      "pushed_at": "2026-11-03T08:20:46Z"
+    },
+    {
       "id": 1412855958,
       "name": "cross-harness",
       "full_name": "AI-BizOS/cross-harness",
@@ -13918,24 +13960,30 @@
       "pushed_at": "2026-10-27T17:05:05Z"
     },
     {
-      "id": 1442182944,
-      "name": "nothing-icongen",
-      "full_name": "linuxct/nothing-icongen",
-      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
-      "html_url": "https://github.com/linuxct/nothing-icongen",
-      "homepage": null,
+      "id": 1439074858,
+      "name": "d2-web",
+      "full_name": "Virtastic/d2-web",
+      "description": "Play Diablo II: Lord of Destruction in your browser — the 1.13c engine reimplemented in C++ and compiled to WebAssembly. Bring your own game files.",
+      "html_url": "https://github.com/Virtastic/d2-web",
+      "homepage": "https://diablo2.virtastic.app",
       "stars": 48,
-      "forks": 2,
-      "language": "Kotlin",
+      "forks": 3,
+      "language": "C++",
       "topics": [
-        "icon-pack",
-        "icongen",
-        "nothing",
-        "nothing-os"
+        "browser-game",
+        "cpp",
+        "diablo-ii",
+        "diablo2",
+        "emscripten",
+        "game-engine",
+        "reimplementation",
+        "wasm",
+        "webassembly",
+        "webgl2"
       ],
-      "created_at": "2026-11-01T19:56:01Z",
-      "updated_at": "2026-11-03T17:50:37Z",
-      "pushed_at": "2026-11-03T08:20:46Z"
+      "created_at": "2026-10-29T23:44:42Z",
+      "updated_at": "2026-11-04T00:20:15Z",
+      "pushed_at": "2026-11-03T23:52:19Z"
     },
     {
       "id": 1379859926,
@@ -14747,30 +14795,19 @@
       "pushed_at": "2026-10-22T02:18:35Z"
     },
     {
-      "id": 1439074858,
-      "name": "d2-web",
-      "full_name": "Virtastic/d2-web",
-      "description": "Play Diablo II: Lord of Destruction in your browser — the 1.13c engine reimplemented in C++ and compiled to WebAssembly. Bring your own game files.",
-      "html_url": "https://github.com/Virtastic/d2-web",
-      "homepage": "https://diablo2.virtastic.app",
+      "id": 1440639890,
+      "name": "ProsperoWeb",
+      "full_name": "kvaps/ProsperoWeb",
+      "description": "ProsperoWeb: homebrew web browser for PlayStation 5, upstream WebKit (PlayStation port) built with the open ps5-payload-sdk",
+      "html_url": "https://github.com/kvaps/ProsperoWeb",
+      "homepage": null,
       "stars": 41,
-      "forks": 3,
+      "forks": 0,
       "language": "C++",
-      "topics": [
-        "browser-game",
-        "cpp",
-        "diablo-ii",
-        "diablo2",
-        "emscripten",
-        "game-engine",
-        "reimplementation",
-        "wasm",
-        "webassembly",
-        "webgl2"
-      ],
-      "created_at": "2026-10-29T23:44:42Z",
-      "updated_at": "2026-11-03T10:16:11Z",
-      "pushed_at": "2026-11-03T10:16:06Z"
+      "topics": [],
+      "created_at": "2026-10-31T08:00:18Z",
+      "updated_at": "2026-11-03T13:46:33Z",
+      "pushed_at": "2026-11-02T14:41:29Z"
     },
     {
       "id": 1378383465,
@@ -14973,6 +15010,31 @@
       "pushed_at": "2026-10-26T03:18:14Z"
     },
     {
+      "id": 1443075589,
+      "name": "NorthCUA",
+      "full_name": "beipo-ai/NorthCUA",
+      "description": "Turn intent into work. Open-source Desktop/Web agent harness with long-horizon memory, live evaluation and recoverable batches.",
+      "html_url": "https://github.com/beipo-ai/NorthCUA",
+      "homepage": null,
+      "stars": 38,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "browser-automation",
+        "computer-use-agents",
+        "desktop-automation",
+        "evaluation",
+        "multimodal",
+        "nexau",
+        "northcua",
+        "python"
+      ],
+      "created_at": "2026-11-02T14:34:20Z",
+      "updated_at": "2026-11-03T22:16:21Z",
+      "pushed_at": "2026-11-03T09:07:18Z"
+    },
+    {
       "id": 1377304402,
       "name": "tmon",
       "full_name": "khangzxrr/tmon",
@@ -14986,6 +15048,32 @@
       "created_at": "2026-09-19T15:16:41Z",
       "updated_at": "2026-09-23T00:30:12Z",
       "pushed_at": "2026-09-19T17:40:42Z"
+    },
+    {
+      "id": 1444742677,
+      "name": "idolz-controller-input-local-pvp-setup",
+      "full_name": "magentadeskpersonify/idolz-controller-input-local-pvp-setup",
+      "description": "Controller assignment, local PvP, online PvP and Remote Play setup for IDOLZ on Windows PC.",
+      "html_url": "https://github.com/magentadeskpersonify/idolz-controller-input-local-pvp-setup",
+      "homepage": null,
+      "stars": 37,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "controller",
+        "gamepad",
+        "idolz",
+        "input-settings",
+        "local-pvp",
+        "online-pvp",
+        "pc-gaming",
+        "remote-play",
+        "troubleshooting",
+        "windows-gaming"
+      ],
+      "created_at": "2026-11-03T19:29:58Z",
+      "updated_at": "2026-11-03T20:37:18Z",
+      "pushed_at": "2026-11-03T20:37:14Z"
     },
     {
       "id": 1395215215,
@@ -15278,6 +15366,32 @@
       "created_at": "2026-10-27T09:25:47Z",
       "updated_at": "2026-10-28T05:38:14Z",
       "pushed_at": "2026-10-27T09:44:08Z"
+    },
+    {
+      "id": 1442373084,
+      "name": "polyfork-catalog",
+      "full_name": "lucas-martinic/polyfork-catalog",
+      "description": "Free low-poly 3D models for three.js and the web: 2,700+ GLB models and 26 themed kits. The public index of polyfork.dev.",
+      "html_url": "https://github.com/lucas-martinic/polyfork-catalog",
+      "homepage": "https://polyfork.dev",
+      "stars": 34,
+      "forks": 3,
+      "language": null,
+      "topics": [
+        "3d-assets",
+        "3d-models",
+        "free-3d-models",
+        "game-assets",
+        "gamedev",
+        "glb",
+        "gltf",
+        "low-poly",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-02T01:09:22Z",
+      "updated_at": "2026-11-03T20:57:09Z",
+      "pushed_at": "2026-11-02T09:26:08Z"
     },
     {
       "id": 1440886748,
@@ -16386,6 +16500,21 @@
       "pushed_at": "2026-10-31T08:47:59Z"
     },
     {
+      "id": 1438821374,
+      "name": "hft-for-dummies",
+      "full_name": "bulletxyz/hft-for-dummies",
+      "description": "Companion code for the HFT for dummies series: a SOL-USD market maker on Bullet, built up one post at a time",
+      "html_url": "https://github.com/bulletxyz/hft-for-dummies",
+      "homepage": "https://app.bullet.xyz/trade?r=HFT4DUMMIES",
+      "stars": 28,
+      "forks": 9,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-29T18:39:56Z",
+      "updated_at": "2026-11-03T23:11:27Z",
+      "pushed_at": "2026-11-03T02:45:44Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -16624,21 +16753,6 @@
       "created_at": "2026-10-23T05:30:44Z",
       "updated_at": "2026-10-29T14:20:57Z",
       "pushed_at": "2026-10-29T10:30:43Z"
-    },
-    {
-      "id": 1438821374,
-      "name": "hft-for-dummies",
-      "full_name": "bulletxyz/hft-for-dummies",
-      "description": "Companion code for the HFT for dummies series: a SOL-USD market maker on Bullet, built up one post at a time",
-      "html_url": "https://github.com/bulletxyz/hft-for-dummies",
-      "homepage": "https://app.bullet.xyz/trade?r=HFT4DUMMIES",
-      "stars": 26,
-      "forks": 9,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-29T18:39:56Z",
-      "updated_at": "2026-11-03T09:13:27Z",
-      "pushed_at": "2026-11-03T02:45:44Z"
     },
     {
       "id": 1440176038,
@@ -17642,6 +17756,21 @@
       "pushed_at": "2026-10-28T17:31:15Z"
     },
     {
+      "id": 1439948386,
+      "name": "super-file-bros",
+      "full_name": "byizmysh/super-file-bros",
+      "description": "A file manager for Nintendo Switch 2. Browse console storage, transfer files, and manage your SD card through an existing FS RPC connection.",
+      "html_url": "https://github.com/byizmysh/super-file-bros",
+      "homepage": null,
+      "stars": 19,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-30T16:08:35Z",
+      "updated_at": "2026-11-03T20:06:37Z",
+      "pushed_at": "2026-10-30T17:05:22Z"
+    },
+    {
       "id": 1387292246,
       "name": "ClickMyPayload",
       "full_name": "shaheeryasirofficial/ClickMyPayload",
@@ -17697,21 +17826,6 @@
       "created_at": "2026-10-15T11:28:45Z",
       "updated_at": "2026-10-21T22:20:14Z",
       "pushed_at": "2026-10-16T16:19:31Z"
-    },
-    {
-      "id": 1439948386,
-      "name": "super-file-bros",
-      "full_name": "byizmysh/super-file-bros",
-      "description": "A file manager for Nintendo Switch 2. Browse console storage, transfer files, and manage your SD card through an existing FS RPC connection.",
-      "html_url": "https://github.com/byizmysh/super-file-bros",
-      "homepage": null,
-      "stars": 18,
-      "forks": 1,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-30T16:08:35Z",
-      "updated_at": "2026-11-03T03:46:39Z",
-      "pushed_at": "2026-10-30T17:05:22Z"
     },
     {
       "id": 1386745578,
@@ -18992,6 +19106,51 @@
       "pushed_at": "2026-11-01T06:49:41Z"
     },
     {
+      "id": 1440909773,
+      "name": "RockWheel",
+      "full_name": "ssarkisy/RockWheel",
+      "description": "Free, open-source firmware for the iPod Video, built on Rockbox. Syncs with Finder, with Cover Flow, synced lyrics and room for a very large library.",
+      "html_url": "https://github.com/ssarkisy/RockWheel",
+      "homepage": null,
+      "stars": 12,
+      "forks": 4,
+      "language": "C",
+      "topics": [
+        "cover-flow",
+        "firmware",
+        "ipod",
+        "ipod-video",
+        "rockbox"
+      ],
+      "created_at": "2026-10-31T13:56:58Z",
+      "updated_at": "2026-11-03T22:30:47Z",
+      "pushed_at": "2026-11-03T18:01:08Z"
+    },
+    {
+      "id": 1442713136,
+      "name": "SIMerald",
+      "full_name": "BurningSky0306/SIMerald",
+      "description": "Turn a SIM / eSIM collection kept in Notion into a public card-wall website. Self-hosted, based on the Komari Emerald theme.",
+      "html_url": "https://github.com/BurningSky0306/SIMerald",
+      "homepage": "https://sim.kiroci.com",
+      "stars": 12,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "docker",
+        "esim",
+        "komari",
+        "notion",
+        "self-hosted",
+        "sim-card",
+        "typescript",
+        "vue"
+      ],
+      "created_at": "2026-11-02T08:41:39Z",
+      "updated_at": "2026-11-03T16:19:03Z",
+      "pushed_at": "2026-11-03T09:06:46Z"
+    },
+    {
       "id": 1389013962,
       "name": "readme-studio",
       "full_name": "gemachistesfaye/readme-studio",
@@ -19185,6 +19344,39 @@
       "created_at": "2026-10-12T21:29:29Z",
       "updated_at": "2026-10-14T00:28:22Z",
       "pushed_at": "2026-10-12T21:29:36Z"
+    },
+    {
+      "id": 1444128441,
+      "name": "Masque-Generator",
+      "full_name": "DarknessShade/Masque-Generator",
+      "description": "MASQUE Config Generator | WARP MASQUE to Xray",
+      "html_url": "https://github.com/DarknessShade/Masque-Generator",
+      "homepage": "https://darknessshade.github.io/Masque-Generator/",
+      "stars": 11,
+      "forks": 1,
+      "language": "HTML",
+      "topics": [
+        "clash",
+        "clash-meta",
+        "cloudflare",
+        "happ",
+        "happ-vpn",
+        "mahsang",
+        "masque",
+        "onexray",
+        "shadowrocket",
+        "streisand",
+        "throne",
+        "v2rayn",
+        "v2rayng",
+        "v2rayng-config",
+        "warp",
+        "xray",
+        "xray-core"
+      ],
+      "created_at": "2026-11-03T10:23:47Z",
+      "updated_at": "2026-11-03T23:01:31Z",
+      "pushed_at": "2026-11-03T16:17:46Z"
     },
     {
       "id": 1387641647,
@@ -19434,6 +19626,21 @@
       "created_at": "2026-10-17T08:58:41Z",
       "updated_at": "2026-10-19T03:49:04Z",
       "pushed_at": "2026-10-17T12:23:55Z"
+    },
+    {
+      "id": 1441339520,
+      "name": "VRMHairMaker",
+      "full_name": "camenduru/VRMHairMaker",
+      "description": "VRM Hair Maker",
+      "html_url": "https://github.com/camenduru/VRMHairMaker",
+      "homepage": null,
+      "stars": 9,
+      "forks": 2,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-31T23:36:43Z",
+      "updated_at": "2026-11-02T08:31:57Z",
+      "pushed_at": "2026-11-01T01:37:54Z"
     },
     {
       "id": 1394692773,
