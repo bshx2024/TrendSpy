@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/5 22:21:48",
-  "total_repos": 896,
+  "fetched_at": "2026/11/6 05:50:29",
+  "total_repos": 904,
   "repos": [
     {
       "id": 1442056769,
@@ -738,13 +738,28 @@
       "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "html_url": "https://github.com/ashayas/icloud-s3",
       "homepage": null,
-      "stars": 495,
+      "stars": 497,
       "forks": 30,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-30T23:54:20Z",
-      "updated_at": "2026-11-05T11:29:54Z",
+      "updated_at": "2026-11-05T20:28:09Z",
       "pushed_at": "2026-10-31T01:34:42Z"
+    },
+    {
+      "id": 1440965926,
+      "name": "NSP-Box",
+      "full_name": "smarkyie/NSP-Box",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "html_url": "https://github.com/smarkyie/NSP-Box",
+      "homepage": null,
+      "stars": 491,
+      "forks": 33,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-31T15:00:55Z",
+      "updated_at": "2026-11-05T21:07:37Z",
+      "pushed_at": "2026-11-03T18:34:28Z"
     },
     {
       "id": 1407997858,
@@ -797,21 +812,6 @@
       "pushed_at": "2026-10-26T00:59:39Z"
     },
     {
-      "id": 1440965926,
-      "name": "NSP-Box",
-      "full_name": "smarkyie/NSP-Box",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "html_url": "https://github.com/smarkyie/NSP-Box",
-      "homepage": null,
-      "stars": 477,
-      "forks": 33,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-31T15:00:55Z",
-      "updated_at": "2026-11-05T13:19:08Z",
-      "pushed_at": "2026-11-03T18:34:28Z"
-    },
-    {
       "id": 1415910250,
       "name": "Discord-Server-Raider",
       "full_name": "Aquafitzdisconnect/Discord-Server-Raider",
@@ -861,7 +861,7 @@
       "description": "红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no install.",
       "html_url": "https://github.com/parallelpan/hongguo-downloader",
       "homepage": "https://guoshi.app",
-      "stars": 468,
+      "stars": 471,
       "forks": 51,
       "language": null,
       "topics": [
@@ -887,7 +887,7 @@
         "short-drama-downloader"
       ],
       "created_at": "2026-10-31T07:48:17Z",
-      "updated_at": "2026-11-05T09:39:37Z",
+      "updated_at": "2026-11-05T20:42:07Z",
       "pushed_at": "2026-11-05T05:41:21Z"
     },
     {
@@ -1122,6 +1122,31 @@
       "pushed_at": "2026-10-12T17:59:31Z"
     },
     {
+      "id": 1446578592,
+      "name": "steam-inventory-value-desktop",
+      "full_name": "MythicHokageRepel/steam-inventory-value-desktop",
+      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "html_url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
+      "homepage": null,
+      "stars": 411,
+      "forks": 30,
+      "language": "JavaScript",
+      "topics": [
+        "csgo-skins",
+        "desktop-app",
+        "electron",
+        "inventory-value",
+        "price-tracker",
+        "steam",
+        "steam-market",
+        "valuation",
+        "windows"
+      ],
+      "created_at": "2026-11-05T05:32:56Z",
+      "updated_at": "2026-11-05T21:07:25Z",
+      "pushed_at": "2026-11-05T06:08:32Z"
+    },
+    {
       "id": 1404316216,
       "name": "Microsoft-Project",
       "full_name": "Blockadezoshack/Microsoft-Project",
@@ -1148,6 +1173,30 @@
       "created_at": "2026-10-04T11:37:45Z",
       "updated_at": "2026-10-04T11:50:18Z",
       "pushed_at": "2026-10-04T11:37:50Z"
+    },
+    {
+      "id": 1446613379,
+      "name": "java-mod-rust-port-tool",
+      "full_name": "Wallbycontact/java-mod-rust-port-tool",
+      "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+      "html_url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
+      "homepage": null,
+      "stars": 405,
+      "forks": 26,
+      "language": "JavaScript",
+      "topics": [
+        "cli",
+        "fabric",
+        "horizon",
+        "minecraft",
+        "minecraft-mods",
+        "neoforge",
+        "porting",
+        "rust"
+      ],
+      "created_at": "2026-11-05T06:15:39Z",
+      "updated_at": "2026-11-05T20:51:51Z",
+      "pushed_at": "2026-11-05T06:19:24Z"
     },
     {
       "id": 1411923855,
@@ -1223,6 +1272,76 @@
       "created_at": "2026-10-20T17:23:41Z",
       "updated_at": "2026-10-26T22:37:34Z",
       "pushed_at": "2026-10-20T17:24:38Z"
+    },
+    {
+      "id": 1445377128,
+      "name": "slideshow-video-maker",
+      "full_name": "DawnShaperFrost90/slideshow-video-maker",
+      "description": "Slideshow Video Maker 2026: Complete standalone setup with all features unlocked and ready to run.",
+      "html_url": "https://github.com/DawnShaperFrost90/slideshow-video-maker",
+      "homepage": null,
+      "stars": 400,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "beat-creator",
+        "beginner-daw",
+        "desktop",
+        "developer-tools",
+        "loop-music-maker",
+        "magix-free",
+        "magix-github",
+        "magix-music-maker",
+        "magix-setup",
+        "music-maker-premium",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-04T08:45:28Z",
+      "updated_at": "2026-11-05T14:29:17Z",
+      "pushed_at": "2026-11-04T08:45:34Z"
+    },
+    {
+      "id": 1445375150,
+      "name": "imei-repair",
+      "full_name": "MagpieDirect/imei-repair",
+      "description": "Free Imei Repair Tool 2023: Full working installer with all features activated, ready to run on your desktop.",
+      "html_url": "https://github.com/MagpieDirect/imei-repair",
+      "homepage": null,
+      "stars": 400,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "chimera",
+        "cpid",
+        "developer-tools",
+        "device-unlocking",
+        "imei-check",
+        "imei-check-myanmar",
+        "imei-masker",
+        "imei-number",
+        "imei-randomization",
+        "imei-repair",
+        "kg-bypass-by-imei",
+        "open-source",
+        "python",
+        "samfw-tool",
+        "samsung-frp-bypass-install-setup-windows-2026",
+        "samsung-frp-tool-download",
+        "software-engineering",
+        "termux-lock",
+        "xiaomi-mi-account"
+      ],
+      "created_at": "2026-11-04T08:43:31Z",
+      "updated_at": "2026-11-05T14:38:24Z",
+      "pushed_at": "2026-11-04T08:43:38Z"
     },
     {
       "id": 1421622972,
@@ -1457,6 +1576,30 @@
       "created_at": "2026-10-04T00:05:25Z",
       "updated_at": "2026-10-10T16:33:59Z",
       "pushed_at": "2026-10-05T20:31:48Z"
+    },
+    {
+      "id": 1447225443,
+      "name": "Token-Sniper",
+      "full_name": "Nebularotunnel/Token-Sniper",
+      "description": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
+      "html_url": "https://github.com/Nebularotunnel/Token-Sniper",
+      "homepage": null,
+      "stars": 391,
+      "forks": 267,
+      "language": "Python",
+      "topics": [
+        "2026",
+        "analyzer",
+        "crypto",
+        "desktop-app",
+        "dex",
+        "liquidity",
+        "rugpull-detection",
+        "scam-filter"
+      ],
+      "created_at": "2026-11-05T16:15:17Z",
+      "updated_at": "2026-11-05T18:33:24Z",
+      "pushed_at": "2026-11-05T16:15:43Z"
     },
     {
       "id": 1397599794,
@@ -1702,6 +1845,35 @@
       "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
+      "id": 1442823570,
+      "name": "pokopia-native",
+      "full_name": "xFractals/pokopia-native",
+      "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; With multiplayer and cross-device saves!",
+      "html_url": "https://github.com/xFractals/pokopia-native",
+      "homepage": "https://discord.gg/Aj9GqxZj8V",
+      "stars": 355,
+      "forks": 33,
+      "language": "C",
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "macos",
+        "metal",
+        "native",
+        "native-port",
+        "nintendo-switch-2",
+        "nxnative",
+        "pokemon",
+        "pokopia",
+        "switch2",
+        "windows-builder"
+      ],
+      "created_at": "2026-11-02T10:31:12Z",
+      "updated_at": "2026-11-05T20:53:58Z",
+      "pushed_at": "2026-11-05T17:15:57Z"
+    },
+    {
       "id": 1436420580,
       "name": "LightPost",
       "full_name": "brainstormity/LightPost",
@@ -1789,6 +1961,97 @@
       "pushed_at": "2026-10-10T05:18:23Z"
     },
     {
+      "id": 1445376286,
+      "name": "portfolio-rebalancer",
+      "full_name": "ProsecutorBreed/portfolio-rebalancer",
+      "description": "Portfolio Rebalancer 2026: Full working installer with all tools and features ready to run on your desktop.",
+      "html_url": "https://github.com/ProsecutorBreed/portfolio-rebalancer",
+      "homepage": null,
+      "stars": 330,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "portfolio-rebalancing",
+        "python",
+        "rebalancer",
+        "rebalancing",
+        "rebalancing-bot",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-04T08:44:39Z",
+      "updated_at": "2026-11-05T14:31:38Z",
+      "pushed_at": "2026-11-04T08:44:45Z"
+    },
+    {
+      "id": 1445374651,
+      "name": "frp-unlock-tool",
+      "full_name": "SpyIllusionistRank/frp-unlock-tool",
+      "description": "Complete Frp Unlock Tool 2023 ready-to-run desktop installation build with all features unlocked.",
+      "html_url": "https://github.com/SpyIllusionistRank/frp-unlock-tool",
+      "homepage": null,
+      "stars": 330,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "adb-frp-tool",
+        "android-frp",
+        "android-frp-premium",
+        "android-repair-tools",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "frp",
+        "frp-hijacker-tool-2026",
+        "frp-tool",
+        "open-source",
+        "pixel-frp-token",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "unlock-phone",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-04T08:43:02Z",
+      "updated_at": "2026-11-05T14:36:14Z",
+      "pushed_at": "2026-11-04T08:43:11Z"
+    },
+    {
+      "id": 1443613311,
+      "name": "DOPPLERGEIST",
+      "full_name": "1337isnot1337/DOPPLERGEIST",
+      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
+      "stars": 329,
+      "forks": 48,
+      "language": "Python",
+      "topics": [
+        "acoustic-geolocation",
+        "ads-b",
+        "aircraft-tracking",
+        "airplane",
+        "audio-forensics",
+        "doppler-effect",
+        "doppler-shift",
+        "geolocation",
+        "osint",
+        "signal-processing"
+      ],
+      "created_at": "2026-11-02T23:54:01Z",
+      "updated_at": "2026-11-05T21:49:39Z",
+      "pushed_at": "2026-11-05T07:01:24Z"
+    },
+    {
       "id": 1414415721,
       "name": "xrevive",
       "full_name": "Teraflopping/xrevive",
@@ -1868,35 +2131,6 @@
       "pushed_at": "2026-10-19T03:21:18Z"
     },
     {
-      "id": 1442823570,
-      "name": "pokopia-native",
-      "full_name": "xFractals/pokopia-native",
-      "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; With multiplayer and cross-device saves!",
-      "html_url": "https://github.com/xFractals/pokopia-native",
-      "homepage": "https://discord.gg/Aj9GqxZj8V",
-      "stars": 323,
-      "forks": 33,
-      "language": "C",
-      "topics": [
-        "apple-silicon",
-        "ios",
-        "iphone",
-        "macos",
-        "metal",
-        "native",
-        "native-port",
-        "nintendo-switch-2",
-        "nxnative",
-        "pokemon",
-        "pokopia",
-        "switch2",
-        "windows-builder"
-      ],
-      "created_at": "2026-11-02T10:31:12Z",
-      "updated_at": "2026-11-05T14:14:20Z",
-      "pushed_at": "2026-11-05T12:49:45Z"
-    },
-    {
       "id": 1410124849,
       "name": "anatomy",
       "full_name": "wheresryan22/anatomy",
@@ -1971,6 +2205,21 @@
       "created_at": "2026-09-22T15:56:39Z",
       "updated_at": "2026-09-24T04:06:45Z",
       "pushed_at": "2026-09-22T16:32:10Z"
+    },
+    {
+      "id": 1440422945,
+      "name": "sideload-jiostb",
+      "full_name": "ilikechocopies/sideload-jiostb",
+      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
+      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
+      "homepage": null,
+      "stars": 312,
+      "forks": 333,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-10-31T02:17:57Z",
+      "updated_at": "2026-11-05T18:14:28Z",
+      "pushed_at": "2026-11-04T05:42:34Z"
     },
     {
       "id": 1406548400,
@@ -2054,32 +2303,6 @@
       "pushed_at": "2026-11-01T10:14:53Z"
     },
     {
-      "id": 1443613311,
-      "name": "DOPPLERGEIST",
-      "full_name": "1337isnot1337/DOPPLERGEIST",
-      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
-      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
-      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
-      "stars": 308,
-      "forks": 45,
-      "language": "Python",
-      "topics": [
-        "acoustic-geolocation",
-        "ads-b",
-        "aircraft-tracking",
-        "airplane",
-        "audio-forensics",
-        "doppler-effect",
-        "doppler-shift",
-        "geolocation",
-        "osint",
-        "signal-processing"
-      ],
-      "created_at": "2026-11-02T23:54:01Z",
-      "updated_at": "2026-11-05T14:14:32Z",
-      "pushed_at": "2026-11-05T07:01:24Z"
-    },
-    {
       "id": 1411929925,
       "name": "Microsoft-Office",
       "full_name": "ParrotStaple/Microsoft-Office",
@@ -2109,19 +2332,26 @@
       "pushed_at": "2026-10-09T13:54:25Z"
     },
     {
-      "id": 1440422945,
-      "name": "sideload-jiostb",
-      "full_name": "ilikechocopies/sideload-jiostb",
-      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
-      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
-      "homepage": null,
+      "id": 1441332955,
+      "name": "asm",
+      "full_name": "stubbi/asm",
+      "description": "Build, share, and verify assembly projects.",
+      "html_url": "https://github.com/stubbi/asm",
+      "homepage": "https://asm.build",
       "stars": 305,
-      "forks": 329,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-10-31T02:17:57Z",
-      "updated_at": "2026-11-05T13:20:18Z",
-      "pushed_at": "2026-11-04T05:42:34Z"
+      "forks": 1,
+      "language": "Assembly",
+      "topics": [
+        "aarch64",
+        "assembly",
+        "package-manager",
+        "package-registry",
+        "riscv",
+        "x86-64"
+      ],
+      "created_at": "2026-10-31T23:22:41Z",
+      "updated_at": "2026-11-05T21:44:27Z",
+      "pushed_at": "2026-11-05T21:49:57Z"
     },
     {
       "id": 1400250107,
@@ -2515,40 +2745,6 @@
       "pushed_at": "2026-11-01T10:13:28Z"
     },
     {
-      "id": 1445377128,
-      "name": "slideshow-video-maker",
-      "full_name": "DawnShaperFrost90/slideshow-video-maker",
-      "description": "Slideshow Video Maker 2026: Complete standalone setup with all features unlocked and ready to run.",
-      "html_url": "https://github.com/DawnShaperFrost90/slideshow-video-maker",
-      "homepage": null,
-      "stars": 300,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "automation",
-        "beat-creator",
-        "beginner-daw",
-        "desktop",
-        "developer-tools",
-        "loop-music-maker",
-        "magix-free",
-        "magix-github",
-        "magix-music-maker",
-        "magix-setup",
-        "music-maker-premium",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-04T08:45:28Z",
-      "updated_at": "2026-11-05T14:17:07Z",
-      "pushed_at": "2026-11-04T08:45:34Z"
-    },
-    {
       "id": 1445372506,
       "name": "ads-blocker",
       "full_name": "lacquerowldirect/ads-blocker",
@@ -2775,30 +2971,6 @@
       "pushed_at": "2026-10-16T22:12:58Z"
     },
     {
-      "id": 1446613379,
-      "name": "java-mod-rust-port-tool",
-      "full_name": "Wallbycontact/java-mod-rust-port-tool",
-      "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
-      "html_url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
-      "homepage": null,
-      "stars": 284,
-      "forks": 16,
-      "language": "JavaScript",
-      "topics": [
-        "cli",
-        "fabric",
-        "horizon",
-        "minecraft",
-        "minecraft-mods",
-        "neoforge",
-        "porting",
-        "rust"
-      ],
-      "created_at": "2026-11-05T06:15:39Z",
-      "updated_at": "2026-11-05T14:20:39Z",
-      "pushed_at": "2026-11-05T06:19:24Z"
-    },
-    {
       "id": 1432958333,
       "name": "duckpad",
       "full_name": "hugues31/duckpad",
@@ -2815,31 +2987,6 @@
       "created_at": "2026-10-25T07:57:16Z",
       "updated_at": "2026-10-31T20:18:24Z",
       "pushed_at": "2026-10-31T19:30:47Z"
-    },
-    {
-      "id": 1446578592,
-      "name": "steam-inventory-value-desktop",
-      "full_name": "MythicHokageRepel/steam-inventory-value-desktop",
-      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-      "html_url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
-      "homepage": null,
-      "stars": 282,
-      "forks": 21,
-      "language": "JavaScript",
-      "topics": [
-        "csgo-skins",
-        "desktop-app",
-        "electron",
-        "inventory-value",
-        "price-tracker",
-        "steam",
-        "steam-market",
-        "valuation",
-        "windows"
-      ],
-      "created_at": "2026-11-05T05:32:56Z",
-      "updated_at": "2026-11-05T14:20:57Z",
-      "pushed_at": "2026-11-05T06:08:32Z"
     },
     {
       "id": 1375594818,
@@ -3178,6 +3325,53 @@
       "pushed_at": "2026-11-03T15:52:44Z"
     },
     {
+      "id": 1445112696,
+      "name": "player",
+      "full_name": "livliv-dev/player",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "html_url": "https://github.com/livliv-dev/player",
+      "homepage": "https://livliv-dev.github.io/player/",
+      "stars": 248,
+      "forks": 29,
+      "language": "TypeScript",
+      "topics": [
+        "avatar",
+        "character",
+        "face-tracking",
+        "lip-sync",
+        "pngtuber",
+        "vrm",
+        "vtuber",
+        "webgl2"
+      ],
+      "created_at": "2026-11-04T03:28:33Z",
+      "updated_at": "2026-11-05T21:41:28Z",
+      "pushed_at": "2026-11-05T19:04:20Z"
+    },
+    {
+      "id": 1442833956,
+      "name": "awesome-reverse-engineer-anything",
+      "full_name": "maluramichael/awesome-reverse-engineer-anything",
+      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
+      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
+      "homepage": null,
+      "stars": 245,
+      "forks": 12,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "clean-room",
+        "decompilation",
+        "emulators",
+        "reverse-engineering",
+        "static-recompilation"
+      ],
+      "created_at": "2026-11-02T10:42:04Z",
+      "updated_at": "2026-11-05T21:30:02Z",
+      "pushed_at": "2026-11-05T12:36:09Z"
+    },
+    {
       "id": 1433297111,
       "name": "Zero-Breach-Toolkit",
       "full_name": "interplains/Zero-Breach-Toolkit",
@@ -3191,6 +3385,36 @@
       "created_at": "2026-10-25T14:41:34Z",
       "updated_at": "2026-10-27T21:57:43Z",
       "pushed_at": "2026-10-27T21:45:00Z"
+    },
+    {
+      "id": 1443381516,
+      "name": "verdict",
+      "full_name": "Balanov/verdict",
+      "description": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
+      "html_url": "https://github.com/Balanov/verdict",
+      "homepage": null,
+      "stars": 241,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-02T19:14:51Z",
+      "updated_at": "2026-11-05T20:41:36Z",
+      "pushed_at": "2026-11-02T22:36:33Z"
+    },
+    {
+      "id": 1440772406,
+      "name": "idrive-apps",
+      "full_name": "robertnisipeanu/idrive-apps",
+      "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
+      "html_url": "https://github.com/robertnisipeanu/idrive-apps",
+      "homepage": null,
+      "stars": 241,
+      "forks": 51,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-31T11:04:14Z",
+      "updated_at": "2026-11-05T20:57:06Z",
+      "pushed_at": "2026-11-05T12:29:48Z"
     },
     {
       "id": 1438077268,
@@ -3219,19 +3443,19 @@
       "pushed_at": "2026-10-29T07:16:51Z"
     },
     {
-      "id": 1443381516,
-      "name": "verdict",
-      "full_name": "Balanov/verdict",
-      "description": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
-      "html_url": "https://github.com/Balanov/verdict",
+      "id": 1442779224,
+      "name": "godraw",
+      "full_name": "egoist/godraw",
+      "description": "infinite canvas in mygo",
+      "html_url": "https://github.com/egoist/godraw",
       "homepage": null,
-      "stars": 238,
-      "forks": 0,
-      "language": "Python",
+      "stars": 236,
+      "forks": 15,
+      "language": "Go",
       "topics": [],
-      "created_at": "2026-11-02T19:14:51Z",
-      "updated_at": "2026-11-05T14:19:57Z",
-      "pushed_at": "2026-11-02T22:36:33Z"
+      "created_at": "2026-11-02T09:47:18Z",
+      "updated_at": "2026-11-05T21:41:40Z",
+      "pushed_at": "2026-11-02T10:04:17Z"
     },
     {
       "id": 1426280410,
@@ -3264,21 +3488,6 @@
       "pushed_at": "2026-10-27T04:06:13Z"
     },
     {
-      "id": 1442779224,
-      "name": "godraw",
-      "full_name": "egoist/godraw",
-      "description": "infinite canvas in mygo",
-      "html_url": "https://github.com/egoist/godraw",
-      "homepage": null,
-      "stars": 234,
-      "forks": 15,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-11-02T09:47:18Z",
-      "updated_at": "2026-11-05T11:44:29Z",
-      "pushed_at": "2026-11-02T10:04:17Z"
-    },
-    {
       "id": 1428345942,
       "name": "haloflux",
       "full_name": "Ryder191/haloflux",
@@ -3301,44 +3510,6 @@
       "created_at": "2026-10-21T12:21:48Z",
       "updated_at": "2026-10-27T21:01:53Z",
       "pushed_at": "2026-10-26T05:02:32Z"
-    },
-    {
-      "id": 1442833956,
-      "name": "awesome-reverse-engineer-anything",
-      "full_name": "maluramichael/awesome-reverse-engineer-anything",
-      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
-      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
-      "homepage": null,
-      "stars": 233,
-      "forks": 12,
-      "language": "Python",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "clean-room",
-        "decompilation",
-        "emulators",
-        "reverse-engineering",
-        "static-recompilation"
-      ],
-      "created_at": "2026-11-02T10:42:04Z",
-      "updated_at": "2026-11-05T13:58:51Z",
-      "pushed_at": "2026-11-05T12:36:09Z"
-    },
-    {
-      "id": 1440772406,
-      "name": "idrive-apps",
-      "full_name": "robertnisipeanu/idrive-apps",
-      "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
-      "html_url": "https://github.com/robertnisipeanu/idrive-apps",
-      "homepage": null,
-      "stars": 233,
-      "forks": 50,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-31T11:04:14Z",
-      "updated_at": "2026-11-05T14:06:52Z",
-      "pushed_at": "2026-11-05T12:29:48Z"
     },
     {
       "id": 1445373522,
@@ -3448,6 +3619,39 @@
       "pushed_at": "2026-11-04T08:41:36Z"
     },
     {
+      "id": 1445373618,
+      "name": "claude-jailbreak-prompt",
+      "full_name": "divergeeagleslip50/claude-jailbreak-prompt",
+      "description": "Full pre-activated desktop edition of Claude AI local tools. Everything included in the installer.",
+      "html_url": "https://github.com/divergeeagleslip50/claude-jailbreak-prompt",
+      "homepage": null,
+      "stars": 231,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "claude-jailbreak-2026",
+        "claude-jailbreak-3-5-sonnet",
+        "claude-jailbreak-opus",
+        "claude-jailbreak-sonnet",
+        "desktop",
+        "developer-tools",
+        "get-claude-jailbreak-free",
+        "jailbreak-claude-ai",
+        "jailbreak-testing",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-04T08:42:02Z",
+      "updated_at": "2026-11-05T17:08:48Z",
+      "pushed_at": "2026-11-04T08:42:08Z"
+    },
+    {
       "id": 1445372499,
       "name": "aion-2-trainer-tool",
       "full_name": "BrickOrioleLoad/aion-2-trainer-tool",
@@ -3482,39 +3686,6 @@
       "pushed_at": "2026-11-04T08:41:07Z"
     },
     {
-      "id": 1445373618,
-      "name": "claude-jailbreak-prompt",
-      "full_name": "divergeeagleslip50/claude-jailbreak-prompt",
-      "description": "Full pre-activated desktop edition of Claude AI local tools. Everything included in the installer.",
-      "html_url": "https://github.com/divergeeagleslip50/claude-jailbreak-prompt",
-      "homepage": null,
-      "stars": 230,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "automation",
-        "claude-jailbreak-2026",
-        "claude-jailbreak-3-5-sonnet",
-        "claude-jailbreak-opus",
-        "claude-jailbreak-sonnet",
-        "desktop",
-        "developer-tools",
-        "get-claude-jailbreak-free",
-        "jailbreak-claude-ai",
-        "jailbreak-testing",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-04T08:42:02Z",
-      "updated_at": "2026-11-05T13:56:20Z",
-      "pushed_at": "2026-11-04T08:42:08Z"
-    },
-    {
       "id": 1445372937,
       "name": "ashampoo-uninstaller",
       "full_name": "Deepkroboard/ashampoo-uninstaller",
@@ -3542,36 +3713,6 @@
       "created_at": "2026-11-04T08:41:26Z",
       "updated_at": "2026-11-05T13:11:36Z",
       "pushed_at": "2026-11-04T08:41:32Z"
-    },
-    {
-      "id": 1445376286,
-      "name": "portfolio-rebalancer",
-      "full_name": "ProsecutorBreed/portfolio-rebalancer",
-      "description": "Portfolio Rebalancer 2026: Full working installer with all tools and features ready to run on your desktop.",
-      "html_url": "https://github.com/ProsecutorBreed/portfolio-rebalancer",
-      "homepage": null,
-      "stars": 230,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source",
-        "portfolio-rebalancing",
-        "python",
-        "rebalancer",
-        "rebalancing",
-        "rebalancing-bot",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-04T08:44:39Z",
-      "updated_at": "2026-11-05T14:19:55Z",
-      "pushed_at": "2026-11-04T08:44:45Z"
     },
     {
       "id": 1425358398,
@@ -3649,15 +3790,39 @@
       "description": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
       "html_url": "https://github.com/Balanov/latch",
       "homepage": "https://balanov.pro/latch/",
-      "stars": 224,
+      "stars": 227,
       "forks": 0,
       "language": "JavaScript",
       "topics": [
         "agents"
       ],
       "created_at": "2026-11-04T16:57:51Z",
-      "updated_at": "2026-11-05T14:19:49Z",
+      "updated_at": "2026-11-05T20:41:31Z",
       "pushed_at": "2026-11-05T00:57:24Z"
+    },
+    {
+      "id": 1439548693,
+      "name": "fy-code-animation",
+      "full_name": "Akillll-DuoHe/fy-code-animation",
+      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
+      "stars": 223,
+      "forks": 31,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "chinese",
+        "code-animation",
+        "deepseek-harness",
+        "dsh-skill",
+        "motion-design",
+        "remotion",
+        "skill"
+      ],
+      "created_at": "2026-10-30T09:55:43Z",
+      "updated_at": "2026-11-05T18:35:31Z",
+      "pushed_at": "2026-10-30T09:56:05Z"
     },
     {
       "id": 1432256203,
@@ -3686,37 +3851,13 @@
       "description": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
       "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
       "homepage": null,
-      "stars": 219,
-      "forks": 336,
+      "stars": 220,
+      "forks": 339,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-31T10:56:27Z",
-      "updated_at": "2026-11-05T13:22:07Z",
+      "updated_at": "2026-11-05T20:45:01Z",
       "pushed_at": "2026-11-05T10:22:34Z"
-    },
-    {
-      "id": 1439548693,
-      "name": "fy-code-animation",
-      "full_name": "Akillll-DuoHe/fy-code-animation",
-      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
-      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
-      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
-      "stars": 218,
-      "forks": 30,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "chinese",
-        "code-animation",
-        "deepseek-harness",
-        "dsh-skill",
-        "motion-design",
-        "remotion",
-        "skill"
-      ],
-      "created_at": "2026-10-30T09:55:43Z",
-      "updated_at": "2026-11-05T13:46:58Z",
-      "pushed_at": "2026-10-30T09:56:05Z"
     },
     {
       "id": 1424555473,
@@ -3813,6 +3954,30 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
+    },
+    {
+      "id": 1444637805,
+      "name": "OpenAmika",
+      "full_name": "zeekk0/OpenAmika",
+      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "html_url": "https://github.com/zeekk0/OpenAmika",
+      "homepage": "https://www.mekahime.com/openamika",
+      "stars": 212,
+      "forks": 26,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "live2d",
+        "long-term-memory",
+        "mekahime",
+        "ollama",
+        "openrouter",
+        "speech-recognition",
+        "text-to-speech"
+      ],
+      "created_at": "2026-11-03T17:47:08Z",
+      "updated_at": "2026-11-05T21:49:02Z",
+      "pushed_at": "2026-11-05T13:31:30Z"
     },
     {
       "id": 1423658114,
@@ -5203,42 +5368,6 @@
       "pushed_at": "2026-11-04T08:45:38Z"
     },
     {
-      "id": 1445375150,
-      "name": "imei-repair",
-      "full_name": "MagpieDirect/imei-repair",
-      "description": "Free Imei Repair Tool 2023: Full working installer with all features activated, ready to run on your desktop.",
-      "html_url": "https://github.com/MagpieDirect/imei-repair",
-      "homepage": null,
-      "stars": 200,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "automation",
-        "chimera",
-        "cpid",
-        "developer-tools",
-        "device-unlocking",
-        "imei-check",
-        "imei-check-myanmar",
-        "imei-masker",
-        "imei-number",
-        "imei-randomization",
-        "imei-repair",
-        "kg-bypass-by-imei",
-        "open-source",
-        "python",
-        "samfw-tool",
-        "samsung-frp-bypass-install-setup-windows-2026",
-        "samsung-frp-tool-download",
-        "software-engineering",
-        "termux-lock",
-        "xiaomi-mi-account"
-      ],
-      "created_at": "2026-11-04T08:43:31Z",
-      "updated_at": "2026-11-04T16:28:21Z",
-      "pushed_at": "2026-11-04T08:43:38Z"
-    },
-    {
       "id": 1445373331,
       "name": "capcut-for-windows",
       "full_name": "TopazInvestor/capcut-for-windows",
@@ -5792,6 +5921,28 @@
       "pushed_at": "2026-11-02T19:44:08Z"
     },
     {
+      "id": 1443244793,
+      "name": "open-bot-avatar",
+      "full_name": "DominikScholz/open-bot-avatar",
+      "description": "A JSON spec and renderer for interactive agent avatars",
+      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
+      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
+      "stars": 189,
+      "forks": 29,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "animation",
+        "avatar",
+        "bot",
+        "json",
+        "svg"
+      ],
+      "created_at": "2026-11-02T17:03:14Z",
+      "updated_at": "2026-11-05T21:26:11Z",
+      "pushed_at": "2026-11-04T16:59:50Z"
+    },
+    {
       "id": 1415337709,
       "name": "lucian-uxui-prompt",
       "full_name": "Seokwoooo/lucian-uxui-prompt",
@@ -5978,28 +6129,6 @@
       "created_at": "2026-10-23T22:15:04Z",
       "updated_at": "2026-10-28T19:20:32Z",
       "pushed_at": "2026-10-28T19:20:28Z"
-    },
-    {
-      "id": 1443244793,
-      "name": "open-bot-avatar",
-      "full_name": "DominikScholz/open-bot-avatar",
-      "description": "A JSON spec and renderer for interactive agent avatars",
-      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
-      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
-      "stars": 176,
-      "forks": 27,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "animation",
-        "avatar",
-        "bot",
-        "json",
-        "svg"
-      ],
-      "created_at": "2026-11-02T17:03:14Z",
-      "updated_at": "2026-11-05T13:46:46Z",
-      "pushed_at": "2026-11-04T16:59:50Z"
     },
     {
       "id": 1415913339,
@@ -6870,6 +6999,31 @@
       "pushed_at": "2026-10-07T12:31:10Z"
     },
     {
+      "id": 1441141531,
+      "name": "Conker-Recomped-and-Reloaded",
+      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
+      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
+      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+      "homepage": null,
+      "stars": 141,
+      "forks": 7,
+      "language": "C++",
+      "topics": [
+        "appimage",
+        "conker",
+        "linux",
+        "native-port",
+        "netplay",
+        "recompilation",
+        "static-recompilation",
+        "windows",
+        "xbox"
+      ],
+      "created_at": "2026-10-31T18:25:04Z",
+      "updated_at": "2026-11-05T21:21:13Z",
+      "pushed_at": "2026-11-05T10:06:09Z"
+    },
+    {
       "id": 1438077215,
       "name": "Claude-Jailbreak-Prompt",
       "full_name": "segmentdeputyhaul/Claude-Jailbreak-Prompt",
@@ -7184,31 +7338,6 @@
       "created_at": "2026-10-25T16:18:50Z",
       "updated_at": "2026-10-31T02:19:50Z",
       "pushed_at": "2026-10-27T20:43:04Z"
-    },
-    {
-      "id": 1441141531,
-      "name": "Conker-Recomped-and-Reloaded",
-      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
-      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
-      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
-      "homepage": null,
-      "stars": 137,
-      "forks": 7,
-      "language": "C++",
-      "topics": [
-        "appimage",
-        "conker",
-        "linux",
-        "native-port",
-        "netplay",
-        "recompilation",
-        "static-recompilation",
-        "windows",
-        "xbox"
-      ],
-      "created_at": "2026-10-31T18:25:04Z",
-      "updated_at": "2026-11-05T13:31:04Z",
-      "pushed_at": "2026-11-05T10:06:09Z"
     },
     {
       "id": 1427871238,
@@ -8365,6 +8494,36 @@
       "pushed_at": "2026-10-13T01:57:27Z"
     },
     {
+      "id": 1441353790,
+      "name": "gmt-maritime-website",
+      "full_name": "danieledjang1-jpg/gmt-maritime-website",
+      "description": "Marine website",
+      "html_url": "https://github.com/danieledjang1-jpg/gmt-maritime-website",
+      "homepage": null,
+      "stars": 113,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-01T00:07:27Z",
+      "updated_at": "2026-11-05T20:29:31Z",
+      "pushed_at": "2026-11-01T00:09:46Z"
+    },
+    {
+      "id": 1441319846,
+      "name": "jalops-electrical-website",
+      "full_name": "danieledjang1-jpg/jalops-electrical-website",
+      "description": "Official website project for Jalops Electrical Services",
+      "html_url": "https://github.com/danieledjang1-jpg/jalops-electrical-website",
+      "homepage": null,
+      "stars": 113,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-31T22:56:44Z",
+      "updated_at": "2026-11-05T20:29:36Z",
+      "pushed_at": "2026-10-31T22:58:01Z"
+    },
+    {
       "id": 1377674687,
       "name": "jev-webmcp-extension",
       "full_name": "sdras/jev-webmcp-extension",
@@ -8407,6 +8566,21 @@
       "created_at": "2026-09-24T10:15:43Z",
       "updated_at": "2026-09-30T13:59:03Z",
       "pushed_at": "2026-09-26T15:32:59Z"
+    },
+    {
+      "id": 1440436637,
+      "name": "strobe",
+      "full_name": "Hona/strobe",
+      "description": "Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.",
+      "html_url": "https://github.com/Hona/strobe",
+      "homepage": null,
+      "stars": 111,
+      "forks": 4,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-31T02:40:50Z",
+      "updated_at": "2026-11-05T20:15:08Z",
+      "pushed_at": "2026-11-05T21:49:59Z"
     },
     {
       "id": 1379139682,
@@ -8620,6 +8794,30 @@
       "created_at": "2026-10-25T18:09:09Z",
       "updated_at": "2026-10-27T16:10:26Z",
       "pushed_at": "2026-10-25T18:13:27Z"
+    },
+    {
+      "id": 1440799556,
+      "name": "webos",
+      "full_name": "stremio-origin/webos",
+      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
+      "html_url": "https://github.com/stremio-origin/webos",
+      "homepage": "https://stremio-origin.github.io/webos",
+      "stars": 109,
+      "forks": 10,
+      "language": "C",
+      "topics": [
+        "addons",
+        "c",
+        "homebrew-channel",
+        "lg-tv",
+        "sdl2",
+        "smart-tv",
+        "stremio",
+        "webos"
+      ],
+      "created_at": "2026-10-31T11:41:04Z",
+      "updated_at": "2026-11-05T18:56:54Z",
+      "pushed_at": "2026-10-31T12:58:33Z"
     },
     {
       "id": 1434862232,
@@ -8951,45 +9149,6 @@
       "created_at": "2026-10-20T13:32:50Z",
       "updated_at": "2026-10-26T23:36:26Z",
       "pushed_at": "2026-10-24T04:40:56Z"
-    },
-    {
-      "id": 1440799556,
-      "name": "webos",
-      "full_name": "stremio-origin/webos",
-      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
-      "html_url": "https://github.com/stremio-origin/webos",
-      "homepage": "https://stremio-origin.github.io/webos",
-      "stars": 107,
-      "forks": 10,
-      "language": "C",
-      "topics": [
-        "addons",
-        "c",
-        "homebrew-channel",
-        "lg-tv",
-        "sdl2",
-        "smart-tv",
-        "stremio",
-        "webos"
-      ],
-      "created_at": "2026-10-31T11:41:04Z",
-      "updated_at": "2026-11-05T08:20:31Z",
-      "pushed_at": "2026-10-31T12:58:33Z"
-    },
-    {
-      "id": 1440436637,
-      "name": "strobe",
-      "full_name": "Hona/strobe",
-      "description": "Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.",
-      "html_url": "https://github.com/Hona/strobe",
-      "homepage": null,
-      "stars": 107,
-      "forks": 4,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-31T02:40:50Z",
-      "updated_at": "2026-11-05T14:02:14Z",
-      "pushed_at": "2026-11-05T14:02:08Z"
     },
     {
       "id": 1377007152,
@@ -9932,6 +10091,41 @@
       "created_at": "2026-10-30T17:28:40Z",
       "updated_at": "2026-10-30T21:20:57Z",
       "pushed_at": "2026-10-30T17:28:46Z"
+    },
+    {
+      "id": 1447320100,
+      "name": "flash-crypto-generator",
+      "full_name": "hypergoosesaw23/flash-crypto-generator",
+      "description": "Flash Crypto Generator 2026 automated deployment pipeline with pre-configured environment for secure desktop software execution.",
+      "html_url": "https://github.com/hypergoosesaw23/flash-crypto-generator",
+      "homepage": null,
+      "stars": 100,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "bitcoin-transaction-tool",
+        "bnb-flash-software-2025",
+        "desktop",
+        "developer-tools",
+        "erc20-generator",
+        "exodus-sol-flasher",
+        "guide-setup-flash-crypto-generator",
+        "how-to-install-flash-crypto-generator",
+        "how-to-setup-flash-crypto-generator",
+        "ledger-api",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-05T17:41:47Z",
+      "updated_at": "2026-11-05T17:54:38Z",
+      "pushed_at": "2026-11-05T17:41:56Z"
     },
     {
       "id": 1438082267,
@@ -11611,6 +11805,21 @@
       "pushed_at": "2026-09-30T15:47:30Z"
     },
     {
+      "id": 1447069177,
+      "name": "SuperMarioAllStars",
+      "full_name": "Darhkfox/SuperMarioAllStars",
+      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
+      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
+      "homepage": null,
+      "stars": 80,
+      "forks": 1,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-11-05T13:58:29Z",
+      "updated_at": "2026-11-05T21:49:26Z",
+      "pushed_at": "2026-11-05T16:21:26Z"
+    },
+    {
       "id": 1432418830,
       "name": "now-bar",
       "full_name": "nixesty/now-bar",
@@ -11688,6 +11897,21 @@
       "created_at": "2026-10-11T16:29:08Z",
       "updated_at": "2026-10-17T18:18:33Z",
       "pushed_at": "2026-10-11T16:43:00Z"
+    },
+    {
+      "id": 1444877883,
+      "name": "claude-hardware-in-the-loop",
+      "full_name": "Kemerd/claude-hardware-in-the-loop",
+      "description": "Agent-driven hardware-in-the-loop engineering method: Claude Code skill, swarm orchestration, generator-first KiCad PCB pipeline, CadQuery CAD, firmware-in-the-loop, web CAD/PCB viewer. Source-available (HIL-ASA-1.0).",
+      "html_url": "https://github.com/Kemerd/claude-hardware-in-the-loop",
+      "homepage": null,
+      "stars": 77,
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-03T22:00:57Z",
+      "updated_at": "2026-11-05T21:43:02Z",
+      "pushed_at": "2026-11-05T21:16:01Z"
     },
     {
       "id": 1377321806,
@@ -12140,19 +12364,28 @@
       "pushed_at": "2026-10-22T02:34:29Z"
     },
     {
-      "id": 1444877883,
-      "name": "claude-hardware-in-the-loop",
-      "full_name": "Kemerd/claude-hardware-in-the-loop",
-      "description": "Agent-driven hardware-in-the-loop engineering method: Claude Code skill, swarm orchestration, generator-first KiCad PCB pipeline, CadQuery CAD, firmware-in-the-loop, web CAD/PCB viewer. Source-available (HIL-ASA-1.0).",
-      "html_url": "https://github.com/Kemerd/claude-hardware-in-the-loop",
-      "homepage": null,
+      "id": 1446135312,
+      "name": "ork",
+      "full_name": "orkbot-run/ork",
+      "description": "Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps.",
+      "html_url": "https://github.com/orkbot-run/ork",
+      "homepage": "https://orkbot.run",
       "stars": 71,
-      "forks": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-03T22:00:57Z",
-      "updated_at": "2026-11-05T13:13:30Z",
-      "pushed_at": "2026-11-05T10:56:37Z"
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-assistants",
+        "automation",
+        "electron",
+        "expo",
+        "self-hosted",
+        "source-available",
+        "typescript"
+      ],
+      "created_at": "2026-11-04T19:57:31Z",
+      "updated_at": "2026-11-05T21:40:16Z",
+      "pushed_at": "2026-11-05T21:40:12Z"
     },
     {
       "id": 1392901645,
@@ -13101,6 +13334,26 @@
       "pushed_at": "2026-10-26T07:23:00Z"
     },
     {
+      "id": 1442182944,
+      "name": "nothing-icongen",
+      "full_name": "linuxct/nothing-icongen",
+      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
+      "html_url": "https://github.com/linuxct/nothing-icongen",
+      "homepage": null,
+      "stars": 63,
+      "forks": 4,
+      "language": "Kotlin",
+      "topics": [
+        "icon-pack",
+        "icongen",
+        "nothing",
+        "nothing-os"
+      ],
+      "created_at": "2026-11-01T19:56:01Z",
+      "updated_at": "2026-11-05T17:23:01Z",
+      "pushed_at": "2026-11-05T08:11:46Z"
+    },
+    {
       "id": 1400269105,
       "name": "WARDOGS-2026-AIMBOT-WALLHACK-",
       "full_name": "Masszumplain17/WARDOGS-2026-AIMBOT-WALLHACK-",
@@ -13139,26 +13392,6 @@
       "created_at": "2026-10-21T19:57:56Z",
       "updated_at": "2026-10-27T16:04:18Z",
       "pushed_at": "2026-10-27T15:48:28Z"
-    },
-    {
-      "id": 1442182944,
-      "name": "nothing-icongen",
-      "full_name": "linuxct/nothing-icongen",
-      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
-      "html_url": "https://github.com/linuxct/nothing-icongen",
-      "homepage": null,
-      "stars": 62,
-      "forks": 4,
-      "language": "Kotlin",
-      "topics": [
-        "icon-pack",
-        "icongen",
-        "nothing",
-        "nothing-os"
-      ],
-      "created_at": "2026-11-01T19:56:01Z",
-      "updated_at": "2026-11-05T14:05:00Z",
-      "pushed_at": "2026-11-05T08:11:46Z"
     },
     {
       "id": 1386511925,
@@ -13282,8 +13515,8 @@
         "stary-katastr"
       ],
       "created_at": "2026-10-30T19:43:48Z",
-      "updated_at": "2026-11-05T12:57:27Z",
-      "pushed_at": "2026-11-05T08:28:47Z"
+      "updated_at": "2026-11-05T20:36:50Z",
+      "pushed_at": "2026-11-05T20:36:45Z"
     },
     {
       "id": 1399378829,
@@ -13865,30 +14098,6 @@
       "pushed_at": "2026-10-31T19:15:21Z"
     },
     {
-      "id": 1444637805,
-      "name": "OpenAmika",
-      "full_name": "zeekk0/OpenAmika",
-      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "html_url": "https://github.com/zeekk0/OpenAmika",
-      "homepage": "https://www.mekahime.com/openamika",
-      "stars": 56,
-      "forks": 9,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "live2d",
-        "long-term-memory",
-        "mekahime",
-        "ollama",
-        "openrouter",
-        "speech-recognition",
-        "text-to-speech"
-      ],
-      "created_at": "2026-11-03T17:47:08Z",
-      "updated_at": "2026-11-05T14:16:15Z",
-      "pushed_at": "2026-11-05T13:31:30Z"
-    },
-    {
       "id": 1391635046,
       "name": "awesome-cloud-emulators",
       "full_name": "upgundecha/awesome-cloud-emulators",
@@ -14439,7 +14648,7 @@
       ],
       "created_at": "2026-11-02T17:05:54Z",
       "updated_at": "2026-11-05T13:58:54Z",
-      "pushed_at": "2026-11-05T09:21:09Z"
+      "pushed_at": "2026-11-05T17:29:30Z"
     },
     {
       "id": 1379547345,
@@ -15584,6 +15793,29 @@
       "pushed_at": "2026-10-31T13:33:10Z"
     },
     {
+      "id": 1440176038,
+      "name": "SplatThumb",
+      "full_name": "VoxelKei/SplatThumb",
+      "description": "Windows Explorer thumbnails for 3D Gaussian Splatting PLY files and Spatialograph Maker projects",
+      "html_url": "https://github.com/VoxelKei/SplatThumb",
+      "homepage": null,
+      "stars": 42,
+      "forks": 4,
+      "language": "C++",
+      "topics": [
+        "3d-gaussian-splatting",
+        "3dgs",
+        "gaussian-splatting",
+        "ply",
+        "shell-extension",
+        "thumbnails",
+        "windows"
+      ],
+      "created_at": "2026-10-30T19:58:19Z",
+      "updated_at": "2026-11-05T21:27:02Z",
+      "pushed_at": "2026-11-04T16:26:31Z"
+    },
+    {
       "id": 1377057562,
       "name": "crayfish",
       "full_name": "skydoves/crayfish",
@@ -15970,29 +16202,6 @@
       "pushed_at": "2026-11-04T20:34:30Z"
     },
     {
-      "id": 1440176038,
-      "name": "SplatThumb",
-      "full_name": "VoxelKei/SplatThumb",
-      "description": "Windows Explorer thumbnails for 3D Gaussian Splatting PLY files and Spatialograph Maker projects",
-      "html_url": "https://github.com/VoxelKei/SplatThumb",
-      "homepage": null,
-      "stars": 39,
-      "forks": 4,
-      "language": "C++",
-      "topics": [
-        "3d-gaussian-splatting",
-        "3dgs",
-        "gaussian-splatting",
-        "ply",
-        "shell-extension",
-        "thumbnails",
-        "windows"
-      ],
-      "created_at": "2026-10-30T19:58:19Z",
-      "updated_at": "2026-11-05T12:47:06Z",
-      "pushed_at": "2026-11-04T16:26:31Z"
-    },
-    {
       "id": 1382790500,
       "name": "laya-server",
       "full_name": "1Panel-dev/laya-server",
@@ -16043,30 +16252,6 @@
       "created_at": "2026-10-25T21:00:22Z",
       "updated_at": "2026-10-31T07:43:22Z",
       "pushed_at": "2026-10-26T03:18:14Z"
-    },
-    {
-      "id": 1445112696,
-      "name": "player",
-      "full_name": "livliv-dev/player",
-      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "html_url": "https://github.com/livliv-dev/player",
-      "homepage": "https://livliv-dev.github.io/player/",
-      "stars": 38,
-      "forks": 6,
-      "language": "TypeScript",
-      "topics": [
-        "avatar",
-        "character",
-        "face-tracking",
-        "lip-sync",
-        "pngtuber",
-        "vrm",
-        "vtuber",
-        "webgl2"
-      ],
-      "created_at": "2026-11-04T03:28:33Z",
-      "updated_at": "2026-11-05T14:21:10Z",
-      "pushed_at": "2026-11-05T13:52:32Z"
     },
     {
       "id": 1446941932,
@@ -16688,7 +16873,7 @@
       "description": "An extremely fast RPG Maker XP/VX/VXAce archive decrypter and RPG Maker MV/MZ asset decrypter - with built-in inspection of assets",
       "html_url": "https://github.com/Zenux6999/rpocket-team-rpgmdec",
       "homepage": null,
-      "stars": 32,
+      "stars": 33,
       "forks": 0,
       "language": "HTML",
       "topics": [
@@ -16702,7 +16887,7 @@
         "unity-mod"
       ],
       "created_at": "2026-10-31T13:32:51Z",
-      "updated_at": "2026-11-01T15:48:35Z",
+      "updated_at": "2026-11-05T14:24:44Z",
       "pushed_at": "2026-10-31T13:32:58Z"
     },
     {
