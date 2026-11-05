@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/5 07:25:34",
-  "total_repos": 874,
+  "fetched_at": "2026/11/5 13:52:39",
+  "total_repos": 877,
   "repos": [
     {
       "id": 1442056769,
@@ -738,12 +738,12 @@
       "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "html_url": "https://github.com/ashayas/icloud-s3",
       "homepage": null,
-      "stars": 493,
+      "stars": 494,
       "forks": 30,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-30T23:54:20Z",
-      "updated_at": "2026-11-04T22:26:40Z",
+      "updated_at": "2026-11-04T23:52:08Z",
       "pushed_at": "2026-10-31T01:34:42Z"
     },
     {
@@ -840,6 +840,21 @@
       "pushed_at": "2026-10-20T18:32:09Z"
     },
     {
+      "id": 1440965926,
+      "name": "NSP-Box",
+      "full_name": "smarkyie/NSP-Box",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "html_url": "https://github.com/smarkyie/NSP-Box",
+      "homepage": null,
+      "stars": 469,
+      "forks": 32,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-31T15:00:55Z",
+      "updated_at": "2026-11-05T04:24:59Z",
+      "pushed_at": "2026-11-03T18:34:28Z"
+    },
+    {
       "id": 1422474621,
       "name": "SavageWindRecomp",
       "full_name": "Revivedx/SavageWindRecomp",
@@ -853,6 +868,42 @@
       "created_at": "2026-10-16T17:34:55Z",
       "updated_at": "2026-10-22T23:03:20Z",
       "pushed_at": "2026-10-22T04:58:55Z"
+    },
+    {
+      "id": 1440631696,
+      "name": "hongguo-downloader",
+      "full_name": "parallelpan/hongguo-downloader",
+      "description": "红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no install.",
+      "html_url": "https://github.com/parallelpan/hongguo-downloader",
+      "homepage": "https://guoshi.app",
+      "stars": 464,
+      "forks": 51,
+      "language": null,
+      "topics": [
+        "batch-download",
+        "cdrama",
+        "cdrama-downloader",
+        "chinese-drama",
+        "chinese-short-drama",
+        "cloud-download",
+        "drama-downloader",
+        "duanju",
+        "duanju-downloader",
+        "episode-download",
+        "hongguo",
+        "hongguo-drama",
+        "hongguo-duanju",
+        "hongguo-short-drama",
+        "m3u8",
+        "online-downloader",
+        "pinedrama",
+        "red-fruit-drama",
+        "short-drama",
+        "short-drama-downloader"
+      ],
+      "created_at": "2026-10-31T07:48:17Z",
+      "updated_at": "2026-11-05T05:41:22Z",
+      "pushed_at": "2026-11-05T05:41:21Z"
     },
     {
       "id": 1423410732,
@@ -883,21 +934,6 @@
       "created_at": "2026-10-15T09:14:32Z",
       "updated_at": "2026-10-21T22:55:22Z",
       "pushed_at": "2026-10-21T22:55:18Z"
-    },
-    {
-      "id": 1440965926,
-      "name": "NSP-Box",
-      "full_name": "smarkyie/NSP-Box",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "html_url": "https://github.com/smarkyie/NSP-Box",
-      "homepage": null,
-      "stars": 459,
-      "forks": 32,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-31T15:00:55Z",
-      "updated_at": "2026-11-04T23:06:07Z",
-      "pushed_at": "2026-11-03T18:34:28Z"
     },
     {
       "id": 1423367363,
@@ -947,42 +983,6 @@
       "created_at": "2026-10-28T04:29:29Z",
       "updated_at": "2026-10-28T22:16:48Z",
       "pushed_at": "2026-10-28T11:35:35Z"
-    },
-    {
-      "id": 1440631696,
-      "name": "hongguo-downloader",
-      "full_name": "parallelpan/hongguo-downloader",
-      "description": "红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no install.",
-      "html_url": "https://github.com/parallelpan/hongguo-downloader",
-      "homepage": "https://guoshi.app",
-      "stars": 457,
-      "forks": 51,
-      "language": null,
-      "topics": [
-        "batch-download",
-        "cdrama",
-        "cdrama-downloader",
-        "chinese-drama",
-        "chinese-short-drama",
-        "cloud-download",
-        "drama-downloader",
-        "duanju",
-        "duanju-downloader",
-        "episode-download",
-        "hongguo",
-        "hongguo-drama",
-        "hongguo-duanju",
-        "hongguo-short-drama",
-        "m3u8",
-        "online-downloader",
-        "red-fruit-drama",
-        "short-drama",
-        "short-drama-downloader",
-        "short-video"
-      ],
-      "created_at": "2026-10-31T07:48:17Z",
-      "updated_at": "2026-11-04T21:02:01Z",
-      "pushed_at": "2026-11-02T14:37:05Z"
     },
     {
       "id": 1437812726,
@@ -2101,6 +2101,35 @@
       "pushed_at": "2026-10-13T16:21:53Z"
     },
     {
+      "id": 1442823570,
+      "name": "pokopia-native",
+      "full_name": "xFractals/pokopia-native",
+      "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; no game content. With cross-device saves and multiplayer!",
+      "html_url": "https://github.com/xFractals/pokopia-native",
+      "homepage": null,
+      "stars": 303,
+      "forks": 32,
+      "language": "C",
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "macos",
+        "metal",
+        "native",
+        "native-port",
+        "nintendo-switch-2",
+        "nxnative",
+        "pokemon",
+        "pokopia",
+        "switch2",
+        "windows-builder"
+      ],
+      "created_at": "2026-11-02T10:31:12Z",
+      "updated_at": "2026-11-05T05:28:25Z",
+      "pushed_at": "2026-11-05T05:18:39Z"
+    },
+    {
       "id": 1425296336,
       "name": "ascii-magic-art",
       "full_name": "kailashsr38/ascii-magic-art",
@@ -2445,6 +2474,21 @@
       "pushed_at": "2026-11-01T10:13:28Z"
     },
     {
+      "id": 1440422945,
+      "name": "sideload-jiostb",
+      "full_name": "ilikechocopies/sideload-jiostb",
+      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
+      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
+      "homepage": null,
+      "stars": 297,
+      "forks": 318,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-10-31T02:17:57Z",
+      "updated_at": "2026-11-05T05:35:08Z",
+      "pushed_at": "2026-11-04T05:42:34Z"
+    },
+    {
       "id": 1443142526,
       "name": "tiktok-comment-automation",
       "full_name": "maxwilsoneng2098t9/tiktok-comment-automation",
@@ -2550,21 +2594,6 @@
       "pushed_at": "2026-10-25T23:24:13Z"
     },
     {
-      "id": 1440422945,
-      "name": "sideload-jiostb",
-      "full_name": "ilikechocopies/sideload-jiostb",
-      "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
-      "html_url": "https://github.com/ilikechocopies/sideload-jiostb",
-      "homepage": null,
-      "stars": 289,
-      "forks": 314,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-10-31T02:17:57Z",
-      "updated_at": "2026-11-04T22:03:30Z",
-      "pushed_at": "2026-11-04T05:42:34Z"
-    },
-    {
       "id": 1415636770,
       "name": "Grand-V",
       "full_name": "SebasKitten/Grand-V",
@@ -2580,6 +2609,32 @@
       "created_at": "2026-10-12T13:24:03Z",
       "updated_at": "2026-10-18T13:35:48Z",
       "pushed_at": "2026-10-16T22:12:58Z"
+    },
+    {
+      "id": 1443613311,
+      "name": "DOPPLERGEIST",
+      "full_name": "1337isnot1337/DOPPLERGEIST",
+      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
+      "stars": 284,
+      "forks": 42,
+      "language": "Python",
+      "topics": [
+        "acoustic-geolocation",
+        "ads-b",
+        "aircraft-tracking",
+        "airplane",
+        "audio-forensics",
+        "doppler-effect",
+        "doppler-shift",
+        "geolocation",
+        "osint",
+        "signal-processing"
+      ],
+      "created_at": "2026-11-02T23:54:01Z",
+      "updated_at": "2026-11-05T05:16:00Z",
+      "pushed_at": "2026-11-05T05:15:57Z"
     },
     {
       "id": 1432958333,
@@ -2638,32 +2693,6 @@
       "created_at": "2026-10-02T10:02:23Z",
       "updated_at": "2026-10-08T17:43:33Z",
       "pushed_at": "2026-10-08T13:21:09Z"
-    },
-    {
-      "id": 1443613311,
-      "name": "DOPPLERGEIST",
-      "full_name": "1337isnot1337/DOPPLERGEIST",
-      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
-      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
-      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
-      "stars": 273,
-      "forks": 41,
-      "language": "Python",
-      "topics": [
-        "acoustic-geolocation",
-        "ads-b",
-        "aircraft-tracking",
-        "airplane",
-        "audio-forensics",
-        "doppler-effect",
-        "doppler-shift",
-        "geolocation",
-        "osint",
-        "signal-processing"
-      ],
-      "created_at": "2026-11-02T23:54:01Z",
-      "updated_at": "2026-11-04T23:06:50Z",
-      "pushed_at": "2026-11-04T23:06:47Z"
     },
     {
       "id": 1425227613,
@@ -2749,35 +2778,6 @@
       "created_at": "2026-09-27T14:59:35Z",
       "updated_at": "2026-10-02T22:54:55Z",
       "pushed_at": "2026-10-02T00:33:09Z"
-    },
-    {
-      "id": 1442823570,
-      "name": "pokopia-native",
-      "full_name": "xFractals/pokopia-native",
-      "description": "Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only; no game content.",
-      "html_url": "https://github.com/xFractals/pokopia-native",
-      "homepage": null,
-      "stars": 259,
-      "forks": 31,
-      "language": "C",
-      "topics": [
-        "apple-silicon",
-        "ios",
-        "iphone",
-        "macos",
-        "metal",
-        "native",
-        "native-port",
-        "nintendo-switch-2",
-        "nxnative",
-        "pokemon",
-        "pokopia",
-        "switch2",
-        "windows-builder"
-      ],
-      "created_at": "2026-11-02T10:31:12Z",
-      "updated_at": "2026-11-04T23:10:09Z",
-      "pushed_at": "2026-11-04T21:38:17Z"
     },
     {
       "id": 1423660177,
@@ -3032,6 +3032,21 @@
       "pushed_at": "2026-10-29T07:16:51Z"
     },
     {
+      "id": 1443381516,
+      "name": "verdict",
+      "full_name": "Balanov/verdict",
+      "description": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
+      "html_url": "https://github.com/Balanov/verdict",
+      "homepage": null,
+      "stars": 236,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-02T19:14:51Z",
+      "updated_at": "2026-11-05T02:22:22Z",
+      "pushed_at": "2026-11-02T22:36:33Z"
+    },
+    {
       "id": 1426280410,
       "name": "FreeMyTvWebOS",
       "full_name": "danielthejoker18/FreeMyTvWebOS",
@@ -3060,21 +3075,6 @@
       "created_at": "2026-10-26T13:08:12Z",
       "updated_at": "2026-10-27T04:20:20Z",
       "pushed_at": "2026-10-27T04:06:13Z"
-    },
-    {
-      "id": 1443381516,
-      "name": "verdict",
-      "full_name": "Balanov/verdict",
-      "description": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
-      "html_url": "https://github.com/Balanov/verdict",
-      "homepage": null,
-      "stars": 234,
-      "forks": 0,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-02T19:14:51Z",
-      "updated_at": "2026-11-04T19:05:20Z",
-      "pushed_at": "2026-11-02T22:36:33Z"
     },
     {
       "id": 1428345942,
@@ -3212,13 +3212,30 @@
       "description": "infinite canvas in mygo",
       "html_url": "https://github.com/egoist/godraw",
       "homepage": null,
-      "stars": 224,
+      "stars": 227,
       "forks": 15,
       "language": "Go",
       "topics": [],
       "created_at": "2026-11-02T09:47:18Z",
-      "updated_at": "2026-11-04T22:56:11Z",
+      "updated_at": "2026-11-05T04:38:17Z",
       "pushed_at": "2026-11-02T10:04:17Z"
+    },
+    {
+      "id": 1445948047,
+      "name": "latch",
+      "full_name": "Balanov/latch",
+      "description": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
+      "html_url": "https://github.com/Balanov/latch",
+      "homepage": "https://balanov.pro/latch/",
+      "stars": 226,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agents"
+      ],
+      "created_at": "2026-11-04T16:57:51Z",
+      "updated_at": "2026-11-05T05:27:23Z",
+      "pushed_at": "2026-11-05T00:57:24Z"
     },
     {
       "id": 1432256203,
@@ -3269,7 +3286,7 @@
       "html_url": "https://github.com/zane-tv/tiktok-live-temple-rpc",
       "homepage": null,
       "stars": 216,
-      "forks": 330,
+      "forks": 334,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-31T10:56:27Z",
@@ -3299,6 +3316,29 @@
       "created_at": "2026-09-27T08:53:43Z",
       "updated_at": "2026-10-03T21:08:24Z",
       "pushed_at": "2026-10-02T19:26:50Z"
+    },
+    {
+      "id": 1442833956,
+      "name": "awesome-reverse-engineer-anything",
+      "full_name": "maluramichael/awesome-reverse-engineer-anything",
+      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
+      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
+      "homepage": null,
+      "stars": 215,
+      "forks": 11,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "clean-room",
+        "decompilation",
+        "emulators",
+        "reverse-engineering",
+        "static-recompilation"
+      ],
+      "created_at": "2026-11-02T10:42:04Z",
+      "updated_at": "2026-11-05T05:50:28Z",
+      "pushed_at": "2026-11-04T12:21:39Z"
     },
     {
       "id": 1390886722,
@@ -3335,6 +3375,21 @@
       "created_at": "2026-09-27T13:33:00Z",
       "updated_at": "2026-10-03T22:11:51Z",
       "pushed_at": "2026-09-27T18:48:24Z"
+    },
+    {
+      "id": 1440772406,
+      "name": "idrive-apps",
+      "full_name": "robertnisipeanu/idrive-apps",
+      "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
+      "html_url": "https://github.com/robertnisipeanu/idrive-apps",
+      "homepage": null,
+      "stars": 214,
+      "forks": 48,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-31T11:04:14Z",
+      "updated_at": "2026-11-05T05:49:13Z",
+      "pushed_at": "2026-11-04T23:45:10Z"
     },
     {
       "id": 1413253552,
@@ -3614,6 +3669,30 @@
       "pushed_at": "2026-10-16T12:50:53Z"
     },
     {
+      "id": 1439548693,
+      "name": "fy-code-animation",
+      "full_name": "Akillll-DuoHe/fy-code-animation",
+      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
+      "stars": 207,
+      "forks": 30,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "chinese",
+        "code-animation",
+        "deepseek-harness",
+        "dsh-skill",
+        "motion-design",
+        "remotion",
+        "skill"
+      ],
+      "created_at": "2026-10-30T09:55:43Z",
+      "updated_at": "2026-11-05T05:22:37Z",
+      "pushed_at": "2026-10-30T09:56:05Z"
+    },
+    {
       "id": 1440615468,
       "name": "Microsoft-365",
       "full_name": "DistributorFollow23/Microsoft-365",
@@ -3648,44 +3727,6 @@
       "created_at": "2026-10-31T07:24:32Z",
       "updated_at": "2026-11-01T12:46:37Z",
       "pushed_at": "2026-10-31T07:24:37Z"
-    },
-    {
-      "id": 1440772406,
-      "name": "idrive-apps",
-      "full_name": "robertnisipeanu/idrive-apps",
-      "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
-      "html_url": "https://github.com/robertnisipeanu/idrive-apps",
-      "homepage": null,
-      "stars": 206,
-      "forks": 46,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-31T11:04:14Z",
-      "updated_at": "2026-11-04T22:20:38Z",
-      "pushed_at": "2026-11-04T23:22:37Z"
-    },
-    {
-      "id": 1442833956,
-      "name": "awesome-reverse-engineer-anything",
-      "full_name": "maluramichael/awesome-reverse-engineer-anything",
-      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
-      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
-      "homepage": null,
-      "stars": 206,
-      "forks": 11,
-      "language": "Python",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "clean-room",
-        "decompilation",
-        "emulators",
-        "reverse-engineering",
-        "static-recompilation"
-      ],
-      "created_at": "2026-11-02T10:42:04Z",
-      "updated_at": "2026-11-04T23:12:34Z",
-      "pushed_at": "2026-11-04T12:21:39Z"
     },
     {
       "id": 1414287839,
@@ -5265,30 +5306,6 @@
       "pushed_at": "2026-10-22T21:59:37Z"
     },
     {
-      "id": 1439548693,
-      "name": "fy-code-animation",
-      "full_name": "Akillll-DuoHe/fy-code-animation",
-      "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
-      "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation",
-      "homepage": "https://gitee.com/Akillll-DuoHe/fy-code-animation",
-      "stars": 195,
-      "forks": 24,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "chinese",
-        "code-animation",
-        "deepseek-harness",
-        "dsh-skill",
-        "motion-design",
-        "remotion",
-        "skill"
-      ],
-      "created_at": "2026-10-30T09:55:43Z",
-      "updated_at": "2026-11-04T21:04:51Z",
-      "pushed_at": "2026-10-30T09:56:05Z"
-    },
-    {
       "id": 1432795903,
       "name": "FoundPhone-Studio",
       "full_name": "keoyyo85/FoundPhone-Studio",
@@ -5338,6 +5355,64 @@
       "created_at": "2026-11-02T10:11:11Z",
       "updated_at": "2026-11-02T14:48:56Z",
       "pushed_at": "2026-11-02T10:11:16Z"
+    },
+    {
+      "id": 1443612367,
+      "name": "robux-generator-enhancer",
+      "full_name": "manishlifeyou-ux/robux-generator-enhancer",
+      "description": "LevelControl robux-generator: Complete Standalone Installer, Ready to Run",
+      "html_url": "https://github.com/manishlifeyou-ux/robux-generator-enhancer",
+      "homepage": null,
+      "stars": 193,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "rbxdev",
+        "robux",
+        "robux-generator",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-02T23:52:34Z",
+      "updated_at": "2026-11-05T05:49:57Z",
+      "pushed_at": "2026-11-05T05:49:54Z"
+    },
+    {
+      "id": 1443592012,
+      "name": "game-enhancement-installer",
+      "full_name": "IGAmramleh/game-enhancement-installer",
+      "description": "Robux-Generator: Full Working Installer with All Features Activated",
+      "html_url": "https://github.com/IGAmramleh/game-enhancement-installer",
+      "homepage": null,
+      "stars": 193,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "rbxdev",
+        "robux",
+        "robux-generator",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-02T23:22:15Z",
+      "updated_at": "2026-11-05T00:49:21Z",
+      "pushed_at": "2026-11-04T21:38:20Z"
     },
     {
       "id": 1388097438,
@@ -5964,6 +6039,28 @@
       "pushed_at": "2026-10-23T06:24:13Z"
     },
     {
+      "id": 1443244793,
+      "name": "open-bot-avatar",
+      "full_name": "DominikScholz/open-bot-avatar",
+      "description": "A JSON spec and renderer for interactive agent avatars",
+      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
+      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
+      "stars": 164,
+      "forks": 26,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "animation",
+        "avatar",
+        "bot",
+        "json",
+        "svg"
+      ],
+      "created_at": "2026-11-02T17:03:14Z",
+      "updated_at": "2026-11-05T05:30:05Z",
+      "pushed_at": "2026-11-04T16:59:50Z"
+    },
+    {
       "id": 1436372393,
       "name": "Rust-Recoil-Pro",
       "full_name": "Tunnelclabungalow/Rust-Recoil-Pro",
@@ -6213,45 +6310,6 @@
       "created_at": "2026-10-14T18:34:11Z",
       "updated_at": "2026-10-20T21:17:18Z",
       "pushed_at": "2026-10-20T21:15:59Z"
-    },
-    {
-      "id": 1443244793,
-      "name": "open-bot-avatar",
-      "full_name": "DominikScholz/open-bot-avatar",
-      "description": "A JSON spec and renderer for interactive agent avatars",
-      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
-      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
-      "stars": 157,
-      "forks": 24,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "animation",
-        "avatar",
-        "bot",
-        "json",
-        "svg"
-      ],
-      "created_at": "2026-11-02T17:03:14Z",
-      "updated_at": "2026-11-04T23:03:31Z",
-      "pushed_at": "2026-11-04T16:59:50Z"
-    },
-    {
-      "id": 1445948047,
-      "name": "latch",
-      "full_name": "Balanov/latch",
-      "description": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
-      "html_url": "https://github.com/Balanov/latch",
-      "homepage": "https://balanov.pro/latch/",
-      "stars": 157,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "agents"
-      ],
-      "created_at": "2026-11-04T16:57:51Z",
-      "updated_at": "2026-11-04T23:20:28Z",
-      "pushed_at": "2026-11-04T23:20:25Z"
     },
     {
       "id": 1382304020,
@@ -6901,6 +6959,31 @@
       "pushed_at": "2026-10-27T12:08:11Z"
     },
     {
+      "id": 1441141531,
+      "name": "Conker-Recomped-and-Reloaded",
+      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
+      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
+      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+      "homepage": null,
+      "stars": 136,
+      "forks": 7,
+      "language": "C++",
+      "topics": [
+        "appimage",
+        "conker",
+        "linux",
+        "native-port",
+        "netplay",
+        "recompilation",
+        "static-recompilation",
+        "windows",
+        "xbox"
+      ],
+      "created_at": "2026-10-31T18:25:04Z",
+      "updated_at": "2026-11-05T01:46:33Z",
+      "pushed_at": "2026-11-03T10:16:12Z"
+    },
+    {
       "id": 1426805854,
       "name": "mw4-texture-streaming-research",
       "full_name": "voidfnc/mw4-texture-streaming-research",
@@ -6924,31 +7007,6 @@
       "created_at": "2026-10-20T09:35:08Z",
       "updated_at": "2026-10-26T20:44:42Z",
       "pushed_at": "2026-10-26T00:48:52Z"
-    },
-    {
-      "id": 1441141531,
-      "name": "Conker-Recomped-and-Reloaded",
-      "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
-      "description": "Conker: Live & Reloaded (Xbox) on Windows & Linux: a native recompilation with a launcher that builds it from your own disc, widescreen up to 240 FPS, enhancements, and online play with room codes.",
-      "html_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
-      "homepage": null,
-      "stars": 134,
-      "forks": 6,
-      "language": "C++",
-      "topics": [
-        "appimage",
-        "conker",
-        "linux",
-        "native-port",
-        "netplay",
-        "recompilation",
-        "static-recompilation",
-        "windows",
-        "xbox"
-      ],
-      "created_at": "2026-10-31T18:25:04Z",
-      "updated_at": "2026-11-04T22:07:15Z",
-      "pushed_at": "2026-11-03T10:16:12Z"
     },
     {
       "id": 1390688516,
@@ -8714,6 +8772,30 @@
       "pushed_at": "2026-10-19T13:05:33Z"
     },
     {
+      "id": 1440799556,
+      "name": "webos",
+      "full_name": "stremio-origin/webos",
+      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
+      "html_url": "https://github.com/stremio-origin/webos",
+      "homepage": "https://stremio-origin.github.io/webos",
+      "stars": 106,
+      "forks": 10,
+      "language": "C",
+      "topics": [
+        "addons",
+        "c",
+        "homebrew-channel",
+        "lg-tv",
+        "sdl2",
+        "smart-tv",
+        "stremio",
+        "webos"
+      ],
+      "created_at": "2026-10-31T11:41:04Z",
+      "updated_at": "2026-11-05T04:42:18Z",
+      "pushed_at": "2026-10-31T12:58:33Z"
+    },
+    {
       "id": 1395984333,
       "name": "kantor-ai",
       "full_name": "kangkungmozzarella/kantor-ai",
@@ -8755,8 +8837,8 @@
       "language": "Rust",
       "topics": [],
       "created_at": "2026-10-31T02:40:50Z",
-      "updated_at": "2026-11-04T23:25:01Z",
-      "pushed_at": "2026-11-04T23:24:56Z"
+      "updated_at": "2026-11-05T04:49:02Z",
+      "pushed_at": "2026-11-05T04:48:57Z"
     },
     {
       "id": 1387522551,
@@ -8895,35 +8977,6 @@
       "pushed_at": "2026-10-03T14:39:31Z"
     },
     {
-      "id": 1443612367,
-      "name": "robux-generator-enhancer",
-      "full_name": "manishlifeyou-ux/robux-generator-enhancer",
-      "description": "LevelControl robux-generator: Complete Standalone Installer, Ready to Run",
-      "html_url": "https://github.com/manishlifeyou-ux/robux-generator-enhancer",
-      "homepage": null,
-      "stars": 103,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source",
-        "python",
-        "rbxdev",
-        "robux",
-        "robux-generator",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-02T23:52:34Z",
-      "updated_at": "2026-11-04T23:24:49Z",
-      "pushed_at": "2026-11-04T22:38:20Z"
-    },
-    {
       "id": 1377581532,
       "name": "card-design-generator",
       "full_name": "Susie-Meow/card-design-generator",
@@ -9031,59 +9084,6 @@
       "created_at": "2026-11-03T11:01:17Z",
       "updated_at": "2026-11-03T11:48:16Z",
       "pushed_at": "2026-11-03T11:01:22Z"
-    },
-    {
-      "id": 1440799556,
-      "name": "webos",
-      "full_name": "stremio-origin/webos",
-      "description": "Native app for Stremio addons on LG webOS TVs. Unofficial.",
-      "html_url": "https://github.com/stremio-origin/webos",
-      "homepage": "https://stremio-origin.github.io/webos",
-      "stars": 102,
-      "forks": 10,
-      "language": "C",
-      "topics": [
-        "addons",
-        "c",
-        "homebrew-channel",
-        "lg-tv",
-        "sdl2",
-        "smart-tv",
-        "stremio",
-        "webos"
-      ],
-      "created_at": "2026-10-31T11:41:04Z",
-      "updated_at": "2026-11-04T22:51:14Z",
-      "pushed_at": "2026-10-31T12:58:33Z"
-    },
-    {
-      "id": 1443592012,
-      "name": "game-enhancement-installer",
-      "full_name": "IGAmramleh/game-enhancement-installer",
-      "description": "Robux-Generator: Full Working Installer with All Features Activated",
-      "html_url": "https://github.com/IGAmramleh/game-enhancement-installer",
-      "homepage": null,
-      "stars": 102,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source",
-        "python",
-        "rbxdev",
-        "robux",
-        "robux-generator",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-02T23:22:15Z",
-      "updated_at": "2026-11-04T23:25:23Z",
-      "pushed_at": "2026-11-04T21:38:20Z"
     },
     {
       "id": 1385781283,
@@ -12421,6 +12421,21 @@
       "pushed_at": "2026-10-15T15:25:39Z"
     },
     {
+      "id": 1444877883,
+      "name": "claude-hardware-in-the-loop",
+      "full_name": "Kemerd/claude-hardware-in-the-loop",
+      "description": "Agent-driven hardware-in-the-loop engineering method: Claude Code skill, swarm orchestration, generator-first KiCad PCB pipeline, CadQuery CAD, firmware-in-the-loop, web CAD/PCB viewer. Source-available (HIL-ASA-1.0).",
+      "html_url": "https://github.com/Kemerd/claude-hardware-in-the-loop",
+      "homepage": null,
+      "stars": 66,
+      "forks": 4,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-03T22:00:57Z",
+      "updated_at": "2026-11-05T05:19:12Z",
+      "pushed_at": "2026-11-05T02:39:16Z"
+    },
+    {
       "id": 1429666605,
       "name": "tiktok-view-bot",
       "full_name": "eqyvlbekmlqq/tiktok-view-bot",
@@ -13374,19 +13389,24 @@
       "pushed_at": "2026-10-12T06:56:26Z"
     },
     {
-      "id": 1444877883,
-      "name": "claude-hardware-in-the-loop",
-      "full_name": "Kemerd/claude-hardware-in-the-loop",
-      "description": "Agent-driven hardware-in-the-loop engineering method: Claude Code skill, swarm orchestration, generator-first KiCad PCB pipeline, CadQuery CAD, firmware-in-the-loop, web CAD/PCB viewer. Source-available (HIL-ASA-1.0).",
-      "html_url": "https://github.com/Kemerd/claude-hardware-in-the-loop",
+      "id": 1442182944,
+      "name": "nothing-icongen",
+      "full_name": "linuxct/nothing-icongen",
+      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
+      "html_url": "https://github.com/linuxct/nothing-icongen",
       "homepage": null,
       "stars": 57,
-      "forks": 3,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-03T22:00:57Z",
-      "updated_at": "2026-11-04T23:22:26Z",
-      "pushed_at": "2026-11-04T02:44:43Z"
+      "forks": 4,
+      "language": "Kotlin",
+      "topics": [
+        "icon-pack",
+        "icongen",
+        "nothing",
+        "nothing-os"
+      ],
+      "created_at": "2026-11-01T19:56:01Z",
+      "updated_at": "2026-11-05T05:25:39Z",
+      "pushed_at": "2026-11-03T08:20:46Z"
     },
     {
       "id": 1386319785,
@@ -13576,26 +13596,6 @@
       "created_at": "2026-10-31T19:14:35Z",
       "updated_at": "2026-10-31T20:47:52Z",
       "pushed_at": "2026-10-31T19:15:21Z"
-    },
-    {
-      "id": 1442182944,
-      "name": "nothing-icongen",
-      "full_name": "linuxct/nothing-icongen",
-      "description": "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!",
-      "html_url": "https://github.com/linuxct/nothing-icongen",
-      "homepage": null,
-      "stars": 56,
-      "forks": 4,
-      "language": "Kotlin",
-      "topics": [
-        "icon-pack",
-        "icongen",
-        "nothing",
-        "nothing-os"
-      ],
-      "created_at": "2026-11-01T19:56:01Z",
-      "updated_at": "2026-11-04T22:41:28Z",
-      "pushed_at": "2026-11-03T08:20:46Z"
     },
     {
       "id": 1391635046,
@@ -14079,7 +14079,7 @@
       ],
       "created_at": "2026-11-02T17:05:54Z",
       "updated_at": "2026-11-03T15:00:50Z",
-      "pushed_at": "2026-11-04T21:30:03Z"
+      "pushed_at": "2026-11-05T01:49:05Z"
     },
     {
       "id": 1443160850,
@@ -14104,6 +14104,21 @@
       "created_at": "2026-11-02T15:48:53Z",
       "updated_at": "2026-11-03T15:29:43Z",
       "pushed_at": "2026-11-02T16:02:17Z"
+    },
+    {
+      "id": 1441502956,
+      "name": "di-chua-online",
+      "full_name": "workaipvlinh-byte/di-chua-online",
+      "description": "Chánh điện 3D để live TikTok kiểu chùa online",
+      "html_url": "https://github.com/workaipvlinh-byte/di-chua-online",
+      "homepage": null,
+      "stars": 52,
+      "forks": 76,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-01T05:06:48Z",
+      "updated_at": "2026-11-05T05:08:21Z",
+      "pushed_at": "2026-11-02T15:43:06Z"
     },
     {
       "id": 1379547345,
@@ -14196,21 +14211,6 @@
       "created_at": "2026-10-16T07:37:46Z",
       "updated_at": "2026-10-22T13:53:25Z",
       "pushed_at": "2026-10-20T09:39:56Z"
-    },
-    {
-      "id": 1441502956,
-      "name": "di-chua-online",
-      "full_name": "workaipvlinh-byte/di-chua-online",
-      "description": "Chánh điện 3D để live TikTok kiểu chùa online",
-      "html_url": "https://github.com/workaipvlinh-byte/di-chua-online",
-      "homepage": null,
-      "stars": 51,
-      "forks": 75,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-01T05:06:48Z",
-      "updated_at": "2026-11-04T13:37:47Z",
-      "pushed_at": "2026-11-02T15:43:06Z"
     },
     {
       "id": 1393286718,
@@ -14615,6 +14615,31 @@
       "pushed_at": "2026-10-02T06:27:29Z"
     },
     {
+      "id": 1443075589,
+      "name": "NorthCUA",
+      "full_name": "beipo-ai/NorthCUA",
+      "description": "Turn intent into work. Open-source Desktop/Web agent harness with long-horizon memory, live evaluation and recoverable batches.",
+      "html_url": "https://github.com/beipo-ai/NorthCUA",
+      "homepage": null,
+      "stars": 47,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "browser-automation",
+        "computer-use-agents",
+        "desktop-automation",
+        "evaluation",
+        "multimodal",
+        "nexau",
+        "northcua",
+        "python"
+      ],
+      "created_at": "2026-11-02T14:34:20Z",
+      "updated_at": "2026-11-05T04:33:06Z",
+      "pushed_at": "2026-11-03T09:07:18Z"
+    },
+    {
       "id": 1376688549,
       "name": "weilanx-cover-skill",
       "full_name": "Azure12355/weilanx-cover-skill",
@@ -14733,6 +14758,21 @@
       "created_at": "2026-10-12T01:31:14Z",
       "updated_at": "2026-10-18T19:45:34Z",
       "pushed_at": "2026-10-18T19:53:16Z"
+    },
+    {
+      "id": 1439466240,
+      "name": "lumior-community",
+      "full_name": "limanman-design/lumior-community",
+      "description": "Lumior — a local-first research workspace with canvases, notes, PDF reading and AI. Apache-2.0.",
+      "html_url": "https://github.com/limanman-design/lumior-community",
+      "homepage": "https://lumior.work/",
+      "stars": 46,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-30T08:29:00Z",
+      "updated_at": "2026-11-05T03:54:07Z",
+      "pushed_at": "2026-11-04T16:23:06Z"
     },
     {
       "id": 1376092823,
@@ -14891,31 +14931,6 @@
       "created_at": "2026-10-22T11:59:24Z",
       "updated_at": "2026-10-28T05:24:47Z",
       "pushed_at": "2026-10-25T19:04:58Z"
-    },
-    {
-      "id": 1443075589,
-      "name": "NorthCUA",
-      "full_name": "beipo-ai/NorthCUA",
-      "description": "Turn intent into work. Open-source Desktop/Web agent harness with long-horizon memory, live evaluation and recoverable batches.",
-      "html_url": "https://github.com/beipo-ai/NorthCUA",
-      "homepage": null,
-      "stars": 45,
-      "forks": 2,
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "browser-automation",
-        "computer-use-agents",
-        "desktop-automation",
-        "evaluation",
-        "multimodal",
-        "nexau",
-        "northcua",
-        "python"
-      ],
-      "created_at": "2026-11-02T14:34:20Z",
-      "updated_at": "2026-11-04T14:28:49Z",
-      "pushed_at": "2026-11-03T09:07:18Z"
     },
     {
       "id": 1396899630,
@@ -15093,6 +15108,21 @@
       "pushed_at": "2026-10-14T04:41:26Z"
     },
     {
+      "id": 1440639890,
+      "name": "ProsperoWeb",
+      "full_name": "kvaps/ProsperoWeb",
+      "description": "ProsperoWeb: homebrew web browser for PlayStation 5, upstream WebKit (PlayStation port) built with the open ps5-payload-sdk",
+      "html_url": "https://github.com/kvaps/ProsperoWeb",
+      "homepage": null,
+      "stars": 43,
+      "forks": 1,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-10-31T08:00:18Z",
+      "updated_at": "2026-11-04T21:35:34Z",
+      "pushed_at": "2026-11-02T14:41:29Z"
+    },
+    {
       "id": 1382441164,
       "name": "talking-head-reel",
       "full_name": "mariagorskikh/talking-head-reel",
@@ -15231,21 +15261,6 @@
       "created_at": "2026-10-31T13:32:56Z",
       "updated_at": "2026-10-31T18:25:32Z",
       "pushed_at": "2026-10-31T13:33:10Z"
-    },
-    {
-      "id": 1440639890,
-      "name": "ProsperoWeb",
-      "full_name": "kvaps/ProsperoWeb",
-      "description": "ProsperoWeb: homebrew web browser for PlayStation 5, upstream WebKit (PlayStation port) built with the open ps5-payload-sdk",
-      "html_url": "https://github.com/kvaps/ProsperoWeb",
-      "homepage": null,
-      "stars": 42,
-      "forks": 1,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-10-31T08:00:18Z",
-      "updated_at": "2026-11-04T05:55:09Z",
-      "pushed_at": "2026-11-02T14:41:29Z"
     },
     {
       "id": 1377057562,
@@ -15514,6 +15529,66 @@
       "created_at": "2026-10-15T09:14:24Z",
       "updated_at": "2026-10-18T02:03:16Z",
       "pushed_at": "2026-10-15T18:44:37Z"
+    },
+    {
+      "id": 1442373084,
+      "name": "polyfork-catalog",
+      "full_name": "lucas-martinic/polyfork-catalog",
+      "description": "Free low-poly 3D models for three.js and the web: 2,700+ GLB models and 26 themed kits. The public index of polyfork.dev.",
+      "html_url": "https://github.com/lucas-martinic/polyfork-catalog",
+      "homepage": "https://polyfork.dev",
+      "stars": 39,
+      "forks": 4,
+      "language": null,
+      "topics": [
+        "3d-assets",
+        "3d-models",
+        "free-3d-models",
+        "game-assets",
+        "gamedev",
+        "glb",
+        "gltf",
+        "low-poly",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-02T01:09:22Z",
+      "updated_at": "2026-11-04T20:18:42Z",
+      "pushed_at": "2026-11-02T09:26:08Z"
+    },
+    {
+      "id": 1442359292,
+      "name": "heron",
+      "full_name": "nethercoded/heron",
+      "description": "Self-hosted status page and uptime monitor. One small Go binary, SQLite, automatic HTTPS and a web installer.",
+      "html_url": "https://github.com/nethercoded/heron",
+      "homepage": null,
+      "stars": 39,
+      "forks": 0,
+      "language": "Go",
+      "topics": [
+        "devops",
+        "discord",
+        "golang",
+        "healthcheck",
+        "homelab",
+        "incident-management",
+        "monitoring",
+        "self-hosted",
+        "selfhosted",
+        "sqlite",
+        "status-page",
+        "statuspage",
+        "svelte",
+        "sveltekit",
+        "telegram",
+        "uptime",
+        "uptime-kuma-alternative",
+        "uptime-monitor"
+      ],
+      "created_at": "2026-11-02T00:45:04Z",
+      "updated_at": "2026-11-04T20:34:34Z",
+      "pushed_at": "2026-11-04T20:34:30Z"
     },
     {
       "id": 1382790500,
@@ -15921,32 +15996,6 @@
       "created_at": "2026-10-27T09:25:47Z",
       "updated_at": "2026-10-28T05:38:14Z",
       "pushed_at": "2026-10-27T09:44:08Z"
-    },
-    {
-      "id": 1442373084,
-      "name": "polyfork-catalog",
-      "full_name": "lucas-martinic/polyfork-catalog",
-      "description": "Free low-poly 3D models for three.js and the web: 2,700+ GLB models and 26 themed kits. The public index of polyfork.dev.",
-      "html_url": "https://github.com/lucas-martinic/polyfork-catalog",
-      "homepage": "https://polyfork.dev",
-      "stars": 34,
-      "forks": 3,
-      "language": null,
-      "topics": [
-        "3d-assets",
-        "3d-models",
-        "free-3d-models",
-        "game-assets",
-        "gamedev",
-        "glb",
-        "gltf",
-        "low-poly",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-02T01:09:22Z",
-      "updated_at": "2026-11-03T20:57:09Z",
-      "pushed_at": "2026-11-02T09:26:08Z"
     },
     {
       "id": 1440886748,
@@ -17130,6 +17179,28 @@
       "pushed_at": "2026-10-04T06:32:32Z"
     },
     {
+      "id": 1439641228,
+      "name": "dsh-memewiki",
+      "full_name": "thawline/dsh-memewiki",
+      "description": "梗百科：内置 6668 条梗/黑话词库，自动查梗并注入上下文，让模型认得群里的梗，不硬猜。移植自 AstrBot 的 astrbot_plugin_memewiki。",
+      "html_url": "https://github.com/thawline/dsh-memewiki",
+      "homepage": "https://github.com/thawline/dsh-memewiki",
+      "stars": 27,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "astrbot",
+        "chinese",
+        "deepseek-harness",
+        "dsh-plugin",
+        "meme",
+        "meme-wiki"
+      ],
+      "created_at": "2026-10-30T11:30:31Z",
+      "updated_at": "2026-11-05T04:57:57Z",
+      "pushed_at": "2026-11-03T13:13:53Z"
+    },
+    {
       "id": 1437331584,
       "name": "JennyModMinecraft-rpocket-team",
       "full_name": "Quartzirace23178/JennyModMinecraft-rpocket-team",
@@ -17485,28 +17556,6 @@
       "created_at": "2026-10-25T09:13:01Z",
       "updated_at": "2026-10-30T22:14:25Z",
       "pushed_at": "2026-10-26T22:35:07Z"
-    },
-    {
-      "id": 1439641228,
-      "name": "dsh-memewiki",
-      "full_name": "thawline/dsh-memewiki",
-      "description": "梗百科：内置 6668 条梗/黑话词库，自动查梗并注入上下文，让模型认得群里的梗，不硬猜。移植自 AstrBot 的 astrbot_plugin_memewiki。",
-      "html_url": "https://github.com/thawline/dsh-memewiki",
-      "homepage": "https://github.com/thawline/dsh-memewiki",
-      "stars": 25,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "astrbot",
-        "chinese",
-        "deepseek-harness",
-        "dsh-plugin",
-        "meme",
-        "meme-wiki"
-      ],
-      "created_at": "2026-10-30T11:30:31Z",
-      "updated_at": "2026-11-04T19:15:27Z",
-      "pushed_at": "2026-11-03T13:13:53Z"
     },
     {
       "id": 1377235275,
@@ -17966,6 +18015,21 @@
       "pushed_at": "2026-11-01T12:42:01Z"
     },
     {
+      "id": 1439948386,
+      "name": "super-file-bros",
+      "full_name": "byizmysh/super-file-bros",
+      "description": "A file manager for Nintendo Switch 2. Browse console storage, transfer files, and manage your SD card through an existing FS RPC connection.",
+      "html_url": "https://github.com/byizmysh/super-file-bros",
+      "homepage": null,
+      "stars": 21,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-30T16:08:35Z",
+      "updated_at": "2026-11-05T01:35:59Z",
+      "pushed_at": "2026-11-04T17:29:44Z"
+    },
+    {
       "id": 1417445101,
       "name": "mcd-receipt-studio",
       "full_name": "lengxi-c/mcd-receipt-studio",
@@ -18119,19 +18183,37 @@
       "pushed_at": "2026-10-20T10:53:30Z"
     },
     {
-      "id": 1439948386,
-      "name": "super-file-bros",
-      "full_name": "byizmysh/super-file-bros",
-      "description": "A file manager for Nintendo Switch 2. Browse console storage, transfer files, and manage your SD card through an existing FS RPC connection.",
-      "html_url": "https://github.com/byizmysh/super-file-bros",
-      "homepage": null,
+      "id": 1444128441,
+      "name": "Masque-Generator",
+      "full_name": "DarknessShade/Masque-Generator",
+      "description": "MASQUE Config Generator | WARP MASQUE to Xray",
+      "html_url": "https://github.com/DarknessShade/Masque-Generator",
+      "homepage": "https://darknessshade.github.io/Masque-Generator/",
       "stars": 20,
       "forks": 2,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-10-30T16:08:35Z",
-      "updated_at": "2026-11-04T17:29:48Z",
-      "pushed_at": "2026-11-04T17:29:44Z"
+      "language": "HTML",
+      "topics": [
+        "clash",
+        "clash-meta",
+        "cloudflare",
+        "happ",
+        "happ-vpn",
+        "mahsang",
+        "masque",
+        "onexray",
+        "shadowrocket",
+        "streisand",
+        "throne",
+        "v2rayn",
+        "v2rayng",
+        "v2rayng-config",
+        "warp",
+        "xray",
+        "xray-core"
+      ],
+      "created_at": "2026-11-03T10:23:47Z",
+      "updated_at": "2026-11-05T03:25:08Z",
+      "pushed_at": "2026-11-03T16:17:46Z"
     },
     {
       "id": 1409514013,
@@ -18527,37 +18609,19 @@
       "pushed_at": "2026-10-31T02:06:12Z"
     },
     {
-      "id": 1444128441,
-      "name": "Masque-Generator",
-      "full_name": "DarknessShade/Masque-Generator",
-      "description": "MASQUE Config Generator | WARP MASQUE to Xray",
-      "html_url": "https://github.com/DarknessShade/Masque-Generator",
-      "homepage": "https://darknessshade.github.io/Masque-Generator/",
+      "id": 1441615642,
+      "name": "mAgicVISION",
+      "full_name": "makeding/mAgicVISION",
+      "description": "Standard DVB support for MB86 Series Tuner Card | GV-MVP/XZ CECH-ZD1(torne) PIX-DT295",
+      "html_url": "https://github.com/makeding/mAgicVISION",
+      "homepage": null,
       "stars": 17,
-      "forks": 2,
-      "language": "HTML",
-      "topics": [
-        "clash",
-        "clash-meta",
-        "cloudflare",
-        "happ",
-        "happ-vpn",
-        "mahsang",
-        "masque",
-        "onexray",
-        "shadowrocket",
-        "streisand",
-        "throne",
-        "v2rayn",
-        "v2rayng",
-        "v2rayng-config",
-        "warp",
-        "xray",
-        "xray-core"
-      ],
-      "created_at": "2026-11-03T10:23:47Z",
-      "updated_at": "2026-11-04T16:38:02Z",
-      "pushed_at": "2026-11-03T16:17:46Z"
+      "forks": 0,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-11-01T09:18:01Z",
+      "updated_at": "2026-11-05T05:39:09Z",
+      "pushed_at": "2026-11-05T00:56:49Z"
     },
     {
       "id": 1379717308,
