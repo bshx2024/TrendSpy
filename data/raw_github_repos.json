@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/7 03:10:20",
-  "total_repos": 923,
+  "fetched_at": "2026/11/7 08:00:05",
+  "total_repos": 934,
   "repos": [
     {
       "id": 1425658028,
@@ -1010,6 +1010,30 @@
       "pushed_at": "2026-10-24T14:38:11Z"
     },
     {
+      "id": 1444637805,
+      "name": "OpenAmika",
+      "full_name": "zeekk0/OpenAmika",
+      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "html_url": "https://github.com/zeekk0/OpenAmika",
+      "homepage": "https://www.mekahime.com/openamika",
+      "stars": 435,
+      "forks": 56,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "live2d",
+        "long-term-memory",
+        "mekahime",
+        "ollama",
+        "openrouter",
+        "speech-recognition",
+        "text-to-speech"
+      ],
+      "created_at": "2026-11-03T17:47:08Z",
+      "updated_at": "2026-11-06T23:57:49Z",
+      "pushed_at": "2026-11-05T13:31:30Z"
+    },
+    {
       "id": 1416828644,
       "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
       "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
@@ -1130,30 +1154,6 @@
       "created_at": "2026-09-30T05:00:35Z",
       "updated_at": "2026-09-30T15:05:20Z",
       "pushed_at": "2026-09-30T05:00:42Z"
-    },
-    {
-      "id": 1444637805,
-      "name": "OpenAmika",
-      "full_name": "zeekk0/OpenAmika",
-      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "html_url": "https://github.com/zeekk0/OpenAmika",
-      "homepage": "https://www.mekahime.com/openamika",
-      "stars": 414,
-      "forks": 53,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "live2d",
-        "long-term-memory",
-        "mekahime",
-        "ollama",
-        "openrouter",
-        "speech-recognition",
-        "text-to-speech"
-      ],
-      "created_at": "2026-11-03T17:47:08Z",
-      "updated_at": "2026-11-06T19:05:49Z",
-      "pushed_at": "2026-11-05T13:31:30Z"
     },
     {
       "id": 1409890709,
@@ -1366,7 +1366,7 @@
       "html_url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
       "homepage": null,
       "stars": 395,
-      "forks": 26,
+      "forks": 25,
       "language": "JavaScript",
       "topics": [
         "cli",
@@ -1390,7 +1390,7 @@
       "html_url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
       "homepage": null,
       "stars": 394,
-      "forks": 31,
+      "forks": 26,
       "language": "JavaScript",
       "topics": [
         "csgo-skins",
@@ -1672,6 +1672,61 @@
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
+      "id": 1443613311,
+      "name": "DOPPLERGEIST",
+      "full_name": "1337isnot1337/DOPPLERGEIST",
+      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
+      "stars": 388,
+      "forks": 54,
+      "language": "Python",
+      "topics": [
+        "acoustic-geolocation",
+        "ads-b",
+        "aircraft-tracking",
+        "airplane",
+        "audio-forensics",
+        "doppler-effect",
+        "doppler-shift",
+        "geolocation",
+        "osint",
+        "signal-processing"
+      ],
+      "created_at": "2026-11-02T23:54:01Z",
+      "updated_at": "2026-11-06T23:46:32Z",
+      "pushed_at": "2026-11-06T22:58:32Z"
+    },
+    {
+      "id": 1442823570,
+      "name": "pokopia-native",
+      "full_name": "xFractals/pokopia-native",
+      "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; With multiplayer and cross-device saves!",
+      "html_url": "https://github.com/xFractals/pokopia-native",
+      "homepage": "https://discord.gg/Aj9GqxZj8V",
+      "stars": 385,
+      "forks": 35,
+      "language": "C",
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "macos",
+        "metal",
+        "native",
+        "native-port",
+        "nintendo-switch-2",
+        "nxnative",
+        "pokemon",
+        "pokopia",
+        "switch2",
+        "windows-builder"
+      ],
+      "created_at": "2026-11-02T10:31:12Z",
+      "updated_at": "2026-11-06T23:59:19Z",
+      "pushed_at": "2026-11-06T23:59:21Z"
+    },
+    {
       "id": 1406514405,
       "name": "liquid-glass",
       "full_name": "Glass-HQ/liquid-glass",
@@ -1723,61 +1778,6 @@
       "created_at": "2026-10-28T22:54:22Z",
       "updated_at": "2026-11-03T14:46:28Z",
       "pushed_at": "2026-10-30T20:47:47Z"
-    },
-    {
-      "id": 1442823570,
-      "name": "pokopia-native",
-      "full_name": "xFractals/pokopia-native",
-      "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; With multiplayer and cross-device saves!",
-      "html_url": "https://github.com/xFractals/pokopia-native",
-      "homepage": "https://discord.gg/Aj9GqxZj8V",
-      "stars": 379,
-      "forks": 35,
-      "language": "C",
-      "topics": [
-        "apple-silicon",
-        "ios",
-        "iphone",
-        "macos",
-        "metal",
-        "native",
-        "native-port",
-        "nintendo-switch-2",
-        "nxnative",
-        "pokemon",
-        "pokopia",
-        "switch2",
-        "windows-builder"
-      ],
-      "created_at": "2026-11-02T10:31:12Z",
-      "updated_at": "2026-11-06T19:02:21Z",
-      "pushed_at": "2026-11-06T19:09:54Z"
-    },
-    {
-      "id": 1443613311,
-      "name": "DOPPLERGEIST",
-      "full_name": "1337isnot1337/DOPPLERGEIST",
-      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
-      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
-      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
-      "stars": 379,
-      "forks": 52,
-      "language": "Python",
-      "topics": [
-        "acoustic-geolocation",
-        "ads-b",
-        "aircraft-tracking",
-        "airplane",
-        "audio-forensics",
-        "doppler-effect",
-        "doppler-shift",
-        "geolocation",
-        "osint",
-        "signal-processing"
-      ],
-      "created_at": "2026-11-02T23:54:01Z",
-      "updated_at": "2026-11-06T18:04:38Z",
-      "pushed_at": "2026-11-06T01:42:40Z"
     },
     {
       "id": 1432731313,
@@ -2044,8 +2044,8 @@
       "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
       "html_url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
       "homepage": null,
-      "stars": 345,
-      "forks": 60,
+      "stars": 344,
+      "forks": 59,
       "language": "JavaScript",
       "topics": [
         "agents",
@@ -2060,7 +2060,7 @@
         "web-security"
       ],
       "created_at": "2026-11-01T04:00:04Z",
-      "updated_at": "2026-11-06T03:59:27Z",
+      "updated_at": "2026-11-06T23:53:35Z",
       "pushed_at": "2026-11-01T06:16:19Z"
     },
     {
@@ -3066,6 +3066,29 @@
       "pushed_at": "2026-10-31T19:30:47Z"
     },
     {
+      "id": 1442833956,
+      "name": "awesome-reverse-engineer-anything",
+      "full_name": "maluramichael/awesome-reverse-engineer-anything",
+      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
+      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
+      "homepage": null,
+      "stars": 283,
+      "forks": 13,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "clean-room",
+        "decompilation",
+        "emulators",
+        "reverse-engineering",
+        "static-recompilation"
+      ],
+      "created_at": "2026-11-02T10:42:04Z",
+      "updated_at": "2026-11-06T23:48:13Z",
+      "pushed_at": "2026-11-06T12:19:07Z"
+    },
+    {
       "id": 1375594818,
       "name": "desktop-habitats",
       "full_name": "chaseleantj/desktop-habitats",
@@ -3104,29 +3127,6 @@
       "created_at": "2026-10-02T10:02:23Z",
       "updated_at": "2026-10-08T17:43:33Z",
       "pushed_at": "2026-10-08T13:21:09Z"
-    },
-    {
-      "id": 1442833956,
-      "name": "awesome-reverse-engineer-anything",
-      "full_name": "maluramichael/awesome-reverse-engineer-anything",
-      "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
-      "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
-      "homepage": null,
-      "stars": 275,
-      "forks": 13,
-      "language": "Python",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "clean-room",
-        "decompilation",
-        "emulators",
-        "reverse-engineering",
-        "static-recompilation"
-      ],
-      "created_at": "2026-11-02T10:42:04Z",
-      "updated_at": "2026-11-06T19:07:32Z",
-      "pushed_at": "2026-11-06T12:19:07Z"
     },
     {
       "id": 1425227613,
@@ -3363,7 +3363,7 @@
       "html_url": "https://github.com/Balanov/uncut",
       "homepage": "https://balanov.pro/uncut/",
       "stars": 251,
-      "forks": 17,
+      "forks": 16,
       "language": "Go",
       "topics": [
         "agent-harness",
@@ -3499,12 +3499,12 @@
       "description": "infinite canvas in mygo",
       "html_url": "https://github.com/egoist/godraw",
       "homepage": null,
-      "stars": 240,
+      "stars": 241,
       "forks": 15,
       "language": "Go",
       "topics": [],
       "created_at": "2026-11-02T09:47:18Z",
-      "updated_at": "2026-11-06T15:43:17Z",
+      "updated_at": "2026-11-06T23:22:56Z",
       "pushed_at": "2026-11-02T10:04:17Z"
     },
     {
@@ -3919,6 +3919,201 @@
       "pushed_at": "2026-10-30T03:19:56Z"
     },
     {
+      "id": 1448547676,
+      "name": "slideshow-video-maker",
+      "full_name": "MetalHairdresser/slideshow-video-maker",
+      "description": "Slideshow Video Maker 2026 automated deployment pipeline with optimized package deployment for professional video editing and screen...",
+      "html_url": "https://github.com/MetalHairdresser/slideshow-video-maker",
+      "homepage": null,
+      "stars": 221,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "beat-creator",
+        "beginner-daw",
+        "developer-tools",
+        "guide-setup-slideshow-video-maker",
+        "how-to-install-slideshow-video-maker",
+        "how-to-setup-slideshow-video-maker",
+        "instagram-downloader",
+        "loop-music-maker",
+        "magix-free",
+        "magix-github",
+        "magix-music-maker",
+        "magix-setup",
+        "movavi-video-suite-media-management",
+        "music-maker-premium",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "utility"
+      ],
+      "created_at": "2026-11-06T17:24:47Z",
+      "updated_at": "2026-11-06T19:43:39Z",
+      "pushed_at": "2026-11-06T17:24:55Z"
+    },
+    {
+      "id": 1448547823,
+      "name": "sp-flash-tool",
+      "full_name": "MinisterRoute/sp-flash-tool",
+      "description": "Sp Flash Tool 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility configuration.",
+      "html_url": "https://github.com/MinisterRoute/sp-flash-tool",
+      "homepage": null,
+      "stars": 221,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "guide-setup-sp-flash-tool",
+        "how-to-install-sp-flash-tool",
+        "how-to-setup-sp-flash-tool",
+        "mediatek-2026",
+        "mediatek-flash",
+        "mediatek-flash-2026",
+        "mediatek-sp-flash-tool",
+        "mtk-flash-tool-windows-install",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "sp-flash-tool-download-mediatek",
+        "sp-flash-tool-scatter-file-frp-2026",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:24:57Z",
+      "updated_at": "2026-11-06T19:43:31Z",
+      "pushed_at": "2026-11-06T17:25:03Z"
+    },
+    {
+      "id": 1443244793,
+      "name": "open-bot-avatar",
+      "full_name": "DominikScholz/open-bot-avatar",
+      "description": "A JSON spec and renderer for interactive agent avatars",
+      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
+      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
+      "stars": 220,
+      "forks": 34,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "animation",
+        "avatar",
+        "bot",
+        "json",
+        "svg"
+      ],
+      "created_at": "2026-11-02T17:03:14Z",
+      "updated_at": "2026-11-06T23:13:02Z",
+      "pushed_at": "2026-11-04T16:59:50Z"
+    },
+    {
+      "id": 1448543492,
+      "name": "aion-2-trainer-tool",
+      "full_name": "Flockcleplank/aion-2-trainer-tool",
+      "description": "Aion 2: Optimized package deployment for AI-driven prompt engineering tasks, ensuring seamless local workstation execution in 2026.",
+      "html_url": "https://github.com/Flockcleplank/aion-2-trainer-tool",
+      "homepage": null,
+      "stars": 220,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "aion-2",
+        "aion-2-2026",
+        "aion-2-game",
+        "aion-2-optimizer",
+        "aion-2-trainer",
+        "aion-2-trainer-tool",
+        "aion2-combat-analysis",
+        "aion2-meter",
+        "automation",
+        "developer-tools",
+        "guide-setup-aion-2-trainer-tool",
+        "how-to-install-aion-2-trainer-tool",
+        "how-to-setup-aion-2-trainer-tool",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:20:49Z",
+      "updated_at": "2026-11-06T19:51:02Z",
+      "pushed_at": "2026-11-06T17:20:57Z"
+    },
+    {
+      "id": 1448543444,
+      "name": "adobe-indesign",
+      "full_name": "fincicadalast/adobe-indesign",
+      "description": "Publishing Layout Tool 2026 automated deployment pipeline for secure digital asset management in enterprise environments.",
+      "html_url": "https://github.com/fincicadalast/adobe-indesign",
+      "homepage": null,
+      "stars": 220,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "adobe-indesign",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "guide-setup-adobe-indesign",
+        "how-to-install-adobe-indesign",
+        "how-to-setup-adobe-indesign",
+        "indesign-document",
+        "indesign-free-soft",
+        "indesign-scripts",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:20:47Z",
+      "updated_at": "2026-11-06T19:50:43Z",
+      "pushed_at": "2026-11-06T17:20:54Z"
+    },
+    {
+      "id": 1448547511,
+      "name": "robux-generator",
+      "full_name": "megaoriolesound/robux-generator",
+      "description": "Robux Generator 2026 pre-configured environment for efficient desktop utility deployment and seamless workstation setup.",
+      "html_url": "https://github.com/megaoriolesound/robux-generator",
+      "homepage": null,
+      "stars": 218,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "guide-setup-robux-generator",
+        "how-to-install-robux-generator",
+        "how-to-setup-robux-generator",
+        "open-source",
+        "python",
+        "rbxdev",
+        "robux",
+        "robux-generator",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:24:38Z",
+      "updated_at": "2026-11-06T19:45:14Z",
+      "pushed_at": "2026-11-06T17:24:45Z"
+    },
+    {
       "id": 1424555473,
       "name": "plugin-interior",
       "full_name": "img2threejs/plugin-interior",
@@ -3964,6 +4159,30 @@
       "pushed_at": "2026-10-02T19:26:50Z"
     },
     {
+      "id": 1448047566,
+      "name": "phone-to-webcam",
+      "full_name": "PackArtisanMold/phone-to-webcam",
+      "description": "Turn any iPhone or Android into a Windows webcam: scan a code in the phone's browser. No phone app, no watermark.",
+      "html_url": "https://github.com/PackArtisanMold/phone-to-webcam",
+      "homepage": null,
+      "stars": 215,
+      "forks": 70,
+      "language": "HTML",
+      "topics": [
+        "camera",
+        "free",
+        "obs",
+        "phone",
+        "streaming",
+        "webcam",
+        "webrtc",
+        "windows"
+      ],
+      "created_at": "2026-11-06T09:05:51Z",
+      "updated_at": "2026-11-06T23:48:03Z",
+      "pushed_at": "2026-11-06T09:06:32Z"
+    },
+    {
       "id": 1390886722,
       "name": "liquid-glass-chat-ui",
       "full_name": "Appllama/liquid-glass-chat-ui",
@@ -4000,6 +4219,41 @@
       "pushed_at": "2026-09-27T18:48:24Z"
     },
     {
+      "id": 1448545486,
+      "name": "flash-crypto-generator",
+      "full_name": "highlionterminal/flash-crypto-generator",
+      "description": "Flash Crypto Generator 2023 pre-configured environment for secure desktop software utility deployment.",
+      "html_url": "https://github.com/highlionterminal/flash-crypto-generator",
+      "homepage": null,
+      "stars": 213,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "bitcoin-transaction-tool",
+        "bnb-flash-software-2025",
+        "desktop",
+        "developer-tools",
+        "erc20-generator",
+        "exodus-sol-flasher",
+        "guide-setup-flash-crypto-generator",
+        "how-to-install-flash-crypto-generator",
+        "how-to-setup-flash-crypto-generator",
+        "ledger-api",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:22:42Z",
+      "updated_at": "2026-11-06T19:44:11Z",
+      "pushed_at": "2026-11-06T17:22:49Z"
+    },
+    {
       "id": 1413253552,
       "name": "UniForge3D",
       "full_name": "xibushu/UniForge3D",
@@ -4013,28 +4267,6 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
-    },
-    {
-      "id": 1443244793,
-      "name": "open-bot-avatar",
-      "full_name": "DominikScholz/open-bot-avatar",
-      "description": "A JSON spec and renderer for interactive agent avatars",
-      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
-      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
-      "stars": 212,
-      "forks": 33,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "animation",
-        "avatar",
-        "bot",
-        "json",
-        "svg"
-      ],
-      "created_at": "2026-11-02T17:03:14Z",
-      "updated_at": "2026-11-06T18:24:52Z",
-      "pushed_at": "2026-11-04T16:59:50Z"
     },
     {
       "id": 1423658114,
@@ -5749,6 +5981,21 @@
       "pushed_at": "2026-10-17T19:14:04Z"
     },
     {
+      "id": 1447069177,
+      "name": "SuperMarioAllStars",
+      "full_name": "Darhkfox/SuperMarioAllStars",
+      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
+      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
+      "homepage": null,
+      "stars": 197,
+      "forks": 5,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-11-05T13:58:29Z",
+      "updated_at": "2026-11-06T23:57:59Z",
+      "pushed_at": "2026-11-06T15:05:49Z"
+    },
+    {
       "id": 1444168015,
       "name": "windows-optimizer",
       "full_name": "DiameterZone/windows-optimizer",
@@ -6056,6 +6303,32 @@
       "pushed_at": "2026-11-02T19:44:08Z"
     },
     {
+      "id": 1442373084,
+      "name": "polyfork-catalog",
+      "full_name": "lucas-martinic/polyfork-catalog",
+      "description": "Free low-poly 3D models for three.js and the web: 2,700+ GLB models and 26 themed kits. The public index of polyfork.dev.",
+      "html_url": "https://github.com/lucas-martinic/polyfork-catalog",
+      "homepage": "https://polyfork.dev",
+      "stars": 189,
+      "forks": 19,
+      "language": null,
+      "topics": [
+        "3d-assets",
+        "3d-models",
+        "free-3d-models",
+        "game-assets",
+        "gamedev",
+        "glb",
+        "gltf",
+        "low-poly",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-02T01:09:22Z",
+      "updated_at": "2026-11-06T23:39:59Z",
+      "pushed_at": "2026-11-02T09:26:08Z"
+    },
+    {
       "id": 1415337709,
       "name": "lucian-uxui-prompt",
       "full_name": "Seokwoooo/lucian-uxui-prompt",
@@ -6164,21 +6437,6 @@
       "pushed_at": "2026-10-31T07:21:42Z"
     },
     {
-      "id": 1447069177,
-      "name": "SuperMarioAllStars",
-      "full_name": "Darhkfox/SuperMarioAllStars",
-      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
-      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
-      "homepage": null,
-      "stars": 183,
-      "forks": 5,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-11-05T13:58:29Z",
-      "updated_at": "2026-11-06T19:09:56Z",
-      "pushed_at": "2026-11-06T15:05:49Z"
-    },
-    {
       "id": 1415164610,
       "name": "robosimstudio",
       "full_name": "robosimstudio/robosimstudio",
@@ -6222,30 +6480,6 @@
       "created_at": "2026-10-21T22:53:01Z",
       "updated_at": "2026-10-27T21:56:18Z",
       "pushed_at": "2026-10-22T11:43:17Z"
-    },
-    {
-      "id": 1448047566,
-      "name": "phone-to-webcam",
-      "full_name": "PackArtisanMold/phone-to-webcam",
-      "description": "Turn any iPhone or Android into a Windows webcam: scan a code in the phone's browser. No phone app, no watermark.",
-      "html_url": "https://github.com/PackArtisanMold/phone-to-webcam",
-      "homepage": null,
-      "stars": 180,
-      "forks": 59,
-      "language": "HTML",
-      "topics": [
-        "camera",
-        "free",
-        "obs",
-        "phone",
-        "streaming",
-        "webcam",
-        "webrtc",
-        "windows"
-      ],
-      "created_at": "2026-11-06T09:05:51Z",
-      "updated_at": "2026-11-06T19:05:06Z",
-      "pushed_at": "2026-11-06T09:06:32Z"
     },
     {
       "id": 1431599449,
@@ -6376,32 +6610,6 @@
       "created_at": "2026-10-12T17:23:33Z",
       "updated_at": "2026-10-12T20:47:57Z",
       "pushed_at": "2026-10-12T17:23:39Z"
-    },
-    {
-      "id": 1442373084,
-      "name": "polyfork-catalog",
-      "full_name": "lucas-martinic/polyfork-catalog",
-      "description": "Free low-poly 3D models for three.js and the web: 2,700+ GLB models and 26 themed kits. The public index of polyfork.dev.",
-      "html_url": "https://github.com/lucas-martinic/polyfork-catalog",
-      "homepage": "https://polyfork.dev",
-      "stars": 174,
-      "forks": 17,
-      "language": null,
-      "topics": [
-        "3d-assets",
-        "3d-models",
-        "free-3d-models",
-        "game-assets",
-        "gamedev",
-        "glb",
-        "gltf",
-        "low-poly",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-02T01:09:22Z",
-      "updated_at": "2026-11-06T19:04:23Z",
-      "pushed_at": "2026-11-02T09:26:08Z"
     },
     {
       "id": 1422491888,
@@ -6620,6 +6828,32 @@
       "pushed_at": "2026-10-23T06:24:13Z"
     },
     {
+      "id": 1446340176,
+      "name": "block-roll",
+      "full_name": "zeemscript/block-roll",
+      "description": "Non-custodial, encrypted file storage & sharing platform with Stellar payments and on-chain file notarization",
+      "html_url": "https://github.com/zeemscript/block-roll",
+      "homepage": "https://blockroll-gold.vercel.app",
+      "stars": 164,
+      "forks": 157,
+      "language": "TypeScript",
+      "topics": [
+        "blockdag",
+        "encryption",
+        "file-storage",
+        "freighter",
+        "nextjs",
+        "non-custodial",
+        "stellar",
+        "stellar-blockchain",
+        "typescript",
+        "web3"
+      ],
+      "created_at": "2026-11-05T00:12:55Z",
+      "updated_at": "2026-11-06T23:39:52Z",
+      "pushed_at": "2026-11-05T21:42:10Z"
+    },
+    {
       "id": 1436372393,
       "name": "Rust-Recoil-Pro",
       "full_name": "Tunnelclabungalow/Rust-Recoil-Pro",
@@ -6676,32 +6910,6 @@
       "created_at": "2026-11-04T12:09:50Z",
       "updated_at": "2026-11-04T17:03:18Z",
       "pushed_at": "2026-11-04T12:10:06Z"
-    },
-    {
-      "id": 1446340176,
-      "name": "block-roll",
-      "full_name": "zeemscript/block-roll",
-      "description": "Non-custodial, encrypted file storage & sharing platform with Stellar payments and on-chain file notarization",
-      "html_url": "https://github.com/zeemscript/block-roll",
-      "homepage": "https://blockroll-gold.vercel.app",
-      "stars": 163,
-      "forks": 157,
-      "language": "TypeScript",
-      "topics": [
-        "blockdag",
-        "encryption",
-        "file-storage",
-        "freighter",
-        "nextjs",
-        "non-custodial",
-        "stellar",
-        "stellar-blockchain",
-        "typescript",
-        "web3"
-      ],
-      "created_at": "2026-11-05T00:12:55Z",
-      "updated_at": "2026-11-06T02:33:36Z",
-      "pushed_at": "2026-11-05T21:42:10Z"
     },
     {
       "id": 1391423600,
@@ -6832,6 +7040,42 @@
       "created_at": "2026-10-24T22:18:26Z",
       "updated_at": "2026-10-30T21:41:16Z",
       "pushed_at": "2026-10-27T06:23:31Z"
+    },
+    {
+      "id": 1446390889,
+      "name": "best-agent-memory-mcp",
+      "full_name": "Glen-Web-App/best-agent-memory-mcp",
+      "description": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
+      "html_url": "https://github.com/Glen-Web-App/best-agent-memory-mcp",
+      "homepage": null,
+      "stars": 158,
+      "forks": 11,
+      "language": null,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "awesome",
+        "awesome-list",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "llm-memory",
+        "long-term-memory",
+        "mcp",
+        "mcp-memory",
+        "mcp-memory-server",
+        "mcp-server",
+        "mcp-servers",
+        "mem0",
+        "memory-mcp",
+        "model-context-protocol",
+        "persistent-memory"
+      ],
+      "created_at": "2026-11-05T01:23:58Z",
+      "updated_at": "2026-11-06T23:40:12Z",
+      "pushed_at": "2026-11-05T02:37:58Z"
     },
     {
       "id": 1440268480,
@@ -7059,42 +7303,6 @@
       "created_at": "2026-10-18T18:32:15Z",
       "updated_at": "2026-10-24T11:18:18Z",
       "pushed_at": "2026-10-22T11:59:39Z"
-    },
-    {
-      "id": 1446390889,
-      "name": "best-agent-memory-mcp",
-      "full_name": "Glen-Web-App/best-agent-memory-mcp",
-      "description": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
-      "html_url": "https://github.com/Glen-Web-App/best-agent-memory-mcp",
-      "homepage": null,
-      "stars": 148,
-      "forks": 18,
-      "language": null,
-      "topics": [
-        "agent-memory",
-        "ai-agents",
-        "ai-memory",
-        "awesome",
-        "awesome-list",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "llm-memory",
-        "long-term-memory",
-        "mcp",
-        "mcp-memory",
-        "mcp-memory-server",
-        "mcp-server",
-        "mcp-servers",
-        "mem0",
-        "memory-mcp",
-        "model-context-protocol",
-        "persistent-memory"
-      ],
-      "created_at": "2026-11-05T01:23:58Z",
-      "updated_at": "2026-11-06T19:08:35Z",
-      "pushed_at": "2026-11-05T02:37:58Z"
     },
     {
       "id": 1431620755,
@@ -7476,8 +7684,8 @@
         "wallet-drainer-tool"
       ],
       "created_at": "2026-11-03T17:18:12Z",
-      "updated_at": "2026-11-06T19:04:13Z",
-      "pushed_at": "2026-11-06T19:04:08Z"
+      "updated_at": "2026-11-06T23:56:20Z",
+      "pushed_at": "2026-11-06T23:56:16Z"
     },
     {
       "id": 1438075150,
@@ -8179,6 +8387,41 @@
       "pushed_at": "2026-10-25T14:39:04Z"
     },
     {
+      "id": 1448547154,
+      "name": "pump-fun",
+      "full_name": "MasterOutfit/pump-fun",
+      "description": "Enterprise Data Pump Fun 2026 automated deployment pipeline, pre-configured environment for secure and efficient desktop software utility management.",
+      "html_url": "https://github.com/MasterOutfit/pump-fun",
+      "homepage": null,
+      "stars": 126,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "guide-setup-pump-fun",
+        "how-to-install-pump-fun",
+        "how-to-setup-pump-fun",
+        "open-source",
+        "pump",
+        "pump-fun-2026",
+        "pump-fun-crack",
+        "pump-fun-trading",
+        "pumpfun-launcher",
+        "pumpfun-market-maker-bot",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:24:17Z",
+      "updated_at": "2026-11-06T19:10:26Z",
+      "pushed_at": "2026-11-06T17:24:23Z"
+    },
+    {
       "id": 1401629577,
       "name": "BorisFX",
       "full_name": "graspdivinerdesign/BorisFX",
@@ -8366,7 +8609,7 @@
       "description": "Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps.",
       "html_url": "https://github.com/orkbot-run/ork",
       "homepage": "https://orkbot.run",
-      "stars": 122,
+      "stars": 123,
       "forks": 0,
       "language": "TypeScript",
       "topics": [
@@ -8380,8 +8623,8 @@
         "typescript"
       ],
       "created_at": "2026-11-04T19:57:31Z",
-      "updated_at": "2026-11-06T18:56:07Z",
-      "pushed_at": "2026-11-06T18:56:03Z"
+      "updated_at": "2026-11-06T22:57:48Z",
+      "pushed_at": "2026-11-06T23:18:36Z"
     },
     {
       "id": 1414327429,
@@ -8546,6 +8789,114 @@
       "created_at": "2026-10-13T20:54:30Z",
       "updated_at": "2026-10-15T13:06:24Z",
       "pushed_at": "2026-10-13T20:56:57Z"
+    },
+    {
+      "id": 1448546624,
+      "name": "movavi-converter",
+      "full_name": "limegrubsouk88/movavi-converter",
+      "description": "Movavi Converter 2023 pre-configured production build for streamlined desktop software utility deployment.",
+      "html_url": "https://github.com/limegrubsouk88/movavi-converter",
+      "homepage": null,
+      "stars": 120,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "automation",
+        "chroma-key-windows-editor",
+        "developer-tools",
+        "guide-setup-movavi-converter",
+        "how-to-install-movavi-converter",
+        "how-to-setup-movavi-converter",
+        "media-management-windows-system",
+        "movavi-suite-audio-editing",
+        "movavi-suite-screen-recording",
+        "movavi-suite-voiceover-feature",
+        "movavi-video-editor-mac",
+        "movavi-video-suite-15",
+        "movavi-video-suite-media-management",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:23:49Z",
+      "updated_at": "2026-11-06T19:16:22Z",
+      "pushed_at": "2026-11-06T17:23:56Z"
+    },
+    {
+      "id": 1448545569,
+      "name": "frp-unlock-tool",
+      "full_name": "HubWandSever/frp-unlock-tool",
+      "description": "Enterprise-grade Frp Unlock Tool 2023 pre-configured environment for secure remote access and seamless infrastructure automation setup.",
+      "html_url": "https://github.com/HubWandSever/frp-unlock-tool",
+      "homepage": null,
+      "stars": 120,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "adb-frp-tool",
+        "android-frp",
+        "android-frp-premium",
+        "android-repair-tools",
+        "automation",
+        "developer-tools",
+        "frp",
+        "frp-hijacker-tool-2026",
+        "frp-tool",
+        "guide-setup-frp-unlock-tool",
+        "how-to-install-frp-unlock-tool",
+        "how-to-setup-frp-unlock-tool",
+        "open-source",
+        "pixel-frp-token",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "unlock-phone",
+        "utility"
+      ],
+      "created_at": "2026-11-06T17:22:47Z",
+      "updated_at": "2026-11-06T19:15:19Z",
+      "pushed_at": "2026-11-06T17:22:57Z"
+    },
+    {
+      "id": 1448546436,
+      "name": "marvel-rivals-trainer-tool",
+      "full_name": "LakePotterFind/marvel-rivals-trainer-tool",
+      "description": "Marvel Rivals 2026 pre-configured environment for secure desktop utility workstation deployment.",
+      "html_url": "https://github.com/LakePotterFind/marvel-rivals-trainer-tool",
+      "homepage": null,
+      "stars": 120,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "aiming-marvel-rivals",
+        "automation",
+        "developer-tools",
+        "guide-setup-marvel-rivals-trainer-tool",
+        "how-to-install-marvel-rivals-trainer-tool",
+        "how-to-setup-marvel-rivals-trainer-tool",
+        "marvel-rivals",
+        "marvel-rivals-aim-training",
+        "marvel-rivals-best-characters",
+        "marvel-rivals-crossplay",
+        "marvel-rivals-github",
+        "marvel-rivals-skins",
+        "marvelrivals",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T17:23:39Z",
+      "updated_at": "2026-11-06T19:11:55Z",
+      "pushed_at": "2026-11-06T17:23:45Z"
     },
     {
       "id": 1408550900,
@@ -9892,6 +10243,26 @@
       "pushed_at": "2026-11-03T11:01:22Z"
     },
     {
+      "id": 1443943125,
+      "name": "horoi",
+      "full_name": "kvistgaard/horoi",
+      "description": "Documentation pages for web ontologies.",
+      "html_url": "https://github.com/kvistgaard/horoi",
+      "homepage": null,
+      "stars": 102,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "documentation",
+        "ontology",
+        "owl",
+        "rdfs"
+      ],
+      "created_at": "2026-11-03T07:16:45Z",
+      "updated_at": "2026-11-06T20:59:52Z",
+      "pushed_at": "2026-11-03T12:13:10Z"
+    },
+    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -10549,62 +10920,6 @@
       "pushed_at": "2026-11-05T09:10:38Z"
     },
     {
-      "id": 1443943125,
-      "name": "horoi",
-      "full_name": "kvistgaard/horoi",
-      "description": "Documentation pages for web ontologies.",
-      "html_url": "https://github.com/kvistgaard/horoi",
-      "homepage": null,
-      "stars": 100,
-      "forks": 7,
-      "language": "Python",
-      "topics": [
-        "documentation",
-        "ontology",
-        "owl",
-        "rdfs"
-      ],
-      "created_at": "2026-11-03T07:16:45Z",
-      "updated_at": "2026-11-06T17:54:15Z",
-      "pushed_at": "2026-11-03T12:13:10Z"
-    },
-    {
-      "id": 1448546624,
-      "name": "movavi-converter",
-      "full_name": "limegrubsouk88/movavi-converter",
-      "description": "Movavi Converter 2023 pre-configured production build for streamlined desktop software utility deployment.",
-      "html_url": "https://github.com/limegrubsouk88/movavi-converter",
-      "homepage": null,
-      "stars": 100,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "automation",
-        "chroma-key-windows-editor",
-        "developer-tools",
-        "guide-setup-movavi-converter",
-        "how-to-install-movavi-converter",
-        "how-to-setup-movavi-converter",
-        "media-management-windows-system",
-        "movavi-suite-audio-editing",
-        "movavi-suite-screen-recording",
-        "movavi-suite-voiceover-feature",
-        "movavi-video-editor-mac",
-        "movavi-video-suite-15",
-        "movavi-video-suite-media-management",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-06T17:23:49Z",
-      "updated_at": "2026-11-06T18:55:59Z",
-      "pushed_at": "2026-11-06T17:23:56Z"
-    },
-    {
       "id": 1438082267,
       "name": "Robux-Generator",
       "full_name": "Barbpouncouple/Robux-Generator",
@@ -11179,6 +11494,27 @@
       "created_at": "2026-09-18T21:09:21Z",
       "updated_at": "2026-09-23T22:22:03Z",
       "pushed_at": "2026-09-18T21:16:11Z"
+    },
+    {
+      "id": 1447784616,
+      "name": "starwire",
+      "full_name": "boffti/starwire",
+      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
+      "html_url": "https://github.com/boffti/starwire",
+      "homepage": "https://starwire.foo",
+      "stars": 94,
+      "forks": 5,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "github",
+        "open-source"
+      ],
+      "created_at": "2026-11-06T03:26:21Z",
+      "updated_at": "2026-11-06T23:59:47Z",
+      "pushed_at": "2026-11-06T15:34:20Z"
     },
     {
       "id": 1436043653,
@@ -12307,27 +12643,6 @@
       "pushed_at": "2026-10-10T12:51:22Z"
     },
     {
-      "id": 1447784616,
-      "name": "starwire",
-      "full_name": "boffti/starwire",
-      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
-      "html_url": "https://github.com/boffti/starwire",
-      "homepage": "https://starwire.foo",
-      "stars": 81,
-      "forks": 4,
-      "language": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "developer-tools",
-        "github",
-        "open-source"
-      ],
-      "created_at": "2026-11-06T03:26:21Z",
-      "updated_at": "2026-11-06T19:00:36Z",
-      "pushed_at": "2026-11-06T15:34:20Z"
-    },
-    {
       "id": 1386777688,
       "name": "seed-phrase-generator",
       "full_name": "pengakuza/seed-phrase-generator",
@@ -12376,7 +12691,7 @@
       "topics": [],
       "created_at": "2026-11-03T22:00:57Z",
       "updated_at": "2026-11-06T05:31:05Z",
-      "pushed_at": "2026-11-06T19:09:33Z"
+      "pushed_at": "2026-11-06T23:58:26Z"
     },
     {
       "id": 1432418830,
@@ -12531,6 +12846,21 @@
       "created_at": "2026-10-14T22:51:52Z",
       "updated_at": "2026-10-17T08:45:15Z",
       "pushed_at": "2026-10-15T12:28:02Z"
+    },
+    {
+      "id": 1442947876,
+      "name": "AntiWebUI",
+      "full_name": "bea4dev/AntiWebUI",
+      "description": "A GPU-rendered native UI toolkit. No Chromium, no WebView, no DOM. Your app is not a website.",
+      "html_url": "https://github.com/bea4dev/AntiWebUI",
+      "homepage": null,
+      "stars": 75,
+      "forks": 1,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-11-02T12:38:24Z",
+      "updated_at": "2026-11-06T23:28:35Z",
+      "pushed_at": "2026-11-06T13:42:34Z"
     },
     {
       "id": 1398599398,
@@ -13095,7 +13425,7 @@
         "nothing-os"
       ],
       "created_at": "2026-11-01T19:56:01Z",
-      "updated_at": "2026-11-06T18:32:07Z",
+      "updated_at": "2026-11-06T22:20:26Z",
       "pushed_at": "2026-11-06T18:34:39Z"
     },
     {
@@ -14045,14 +14375,14 @@
       "description": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
       "html_url": "https://github.com/Balanov/latch",
       "homepage": "https://balanov.pro/latch/",
-      "stars": 60,
+      "stars": 61,
       "forks": 1,
       "language": "JavaScript",
       "topics": [
         "agents"
       ],
       "created_at": "2026-11-04T16:57:51Z",
-      "updated_at": "2026-11-06T18:32:16Z",
+      "updated_at": "2026-11-06T23:41:54Z",
       "pushed_at": "2026-11-05T00:57:24Z"
     },
     {
@@ -14472,6 +14802,21 @@
       "pushed_at": "2026-11-05T07:51:09Z"
     },
     {
+      "id": 1441502956,
+      "name": "di-chua-online",
+      "full_name": "workaipvlinh-byte/di-chua-online",
+      "description": "Chánh điện 3D để live TikTok kiểu chùa online",
+      "html_url": "https://github.com/workaipvlinh-byte/di-chua-online",
+      "homepage": null,
+      "stars": 57,
+      "forks": 78,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-01T05:06:48Z",
+      "updated_at": "2026-11-06T14:07:05Z",
+      "pushed_at": "2026-11-02T15:43:06Z"
+    },
+    {
       "id": 1386319785,
       "name": "Fb-Report",
       "full_name": "lward4/Fb-Report",
@@ -14779,19 +15124,19 @@
       "pushed_at": "2026-10-12T16:22:54Z"
     },
     {
-      "id": 1441502956,
-      "name": "di-chua-online",
-      "full_name": "workaipvlinh-byte/di-chua-online",
-      "description": "Chánh điện 3D để live TikTok kiểu chùa online",
-      "html_url": "https://github.com/workaipvlinh-byte/di-chua-online",
+      "id": 1446687915,
+      "name": "web3-arbitrage-calculator",
+      "full_name": "Philipz1z/web3-arbitrage-calculator",
+      "description": "A Web3 arbitrage opportunity and profit calculator",
+      "html_url": "https://github.com/Philipz1z/web3-arbitrage-calculator",
       "homepage": null,
       "stars": 55,
-      "forks": 78,
-      "language": "TypeScript",
+      "forks": 0,
+      "language": "CSS",
       "topics": [],
-      "created_at": "2026-11-01T05:06:48Z",
-      "updated_at": "2026-11-05T11:11:24Z",
-      "pushed_at": "2026-11-02T15:43:06Z"
+      "created_at": "2026-11-05T07:38:14Z",
+      "updated_at": "2026-11-06T12:33:00Z",
+      "pushed_at": "2026-11-05T09:50:27Z"
     },
     {
       "id": 1405353782,
@@ -15211,7 +15556,7 @@
       ],
       "created_at": "2026-11-02T17:05:54Z",
       "updated_at": "2026-11-05T13:58:54Z",
-      "pushed_at": "2026-11-06T18:08:14Z"
+      "pushed_at": "2026-11-06T23:18:16Z"
     },
     {
       "id": 1379547345,
@@ -17267,8 +17612,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-02T23:22:15Z",
-      "updated_at": "2026-11-06T17:45:22Z",
-      "pushed_at": "2026-11-06T17:45:17Z"
+      "updated_at": "2026-11-06T22:32:29Z",
+      "pushed_at": "2026-11-06T22:32:25Z"
     },
     {
       "id": 1440886748,
