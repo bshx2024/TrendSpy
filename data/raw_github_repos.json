@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/8 07:30:57",
-  "total_repos": 956,
+  "fetched_at": "2026/11/8 13:16:25",
+  "total_repos": 966,
   "repos": [
     {
       "id": 1425658028,
@@ -587,6 +587,30 @@
       "pushed_at": "2026-10-07T01:07:17Z"
     },
     {
+      "id": 1444637805,
+      "name": "OpenAmika",
+      "full_name": "zeekk0/OpenAmika",
+      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "html_url": "https://github.com/zeekk0/OpenAmika",
+      "homepage": "https://www.mekahime.com/openamika",
+      "stars": 509,
+      "forks": 69,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "live2d",
+        "long-term-memory",
+        "mekahime",
+        "ollama",
+        "openrouter",
+        "speech-recognition",
+        "text-to-speech"
+      ],
+      "created_at": "2026-11-03T17:47:08Z",
+      "updated_at": "2026-11-08T05:01:11Z",
+      "pushed_at": "2026-11-07T15:58:05Z"
+    },
+    {
       "id": 1440965926,
       "name": "NSP-Box",
       "full_name": "smarkyie/NSP-Box",
@@ -623,30 +647,6 @@
       "created_at": "2026-10-21T14:44:06Z",
       "updated_at": "2026-10-27T15:15:59Z",
       "pushed_at": "2026-10-21T14:49:16Z"
-    },
-    {
-      "id": 1444637805,
-      "name": "OpenAmika",
-      "full_name": "zeekk0/OpenAmika",
-      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "html_url": "https://github.com/zeekk0/OpenAmika",
-      "homepage": "https://www.mekahime.com/openamika",
-      "stars": 504,
-      "forks": 68,
-      "language": "Python",
-      "topics": [
-        "ai-companion",
-        "live2d",
-        "long-term-memory",
-        "mekahime",
-        "ollama",
-        "openrouter",
-        "speech-recognition",
-        "text-to-speech"
-      ],
-      "created_at": "2026-11-03T17:47:08Z",
-      "updated_at": "2026-11-07T23:10:24Z",
-      "pushed_at": "2026-11-07T15:58:05Z"
     },
     {
       "id": 1425063138,
@@ -1074,6 +1074,32 @@
       "pushed_at": "2026-10-18T06:48:08Z"
     },
     {
+      "id": 1443613311,
+      "name": "DOPPLERGEIST",
+      "full_name": "1337isnot1337/DOPPLERGEIST",
+      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
+      "stars": 428,
+      "forks": 59,
+      "language": "Python",
+      "topics": [
+        "acoustic-geolocation",
+        "ads-b",
+        "aircraft-tracking",
+        "airplane",
+        "audio-forensics",
+        "doppler-effect",
+        "doppler-shift",
+        "geolocation",
+        "osint",
+        "signal-processing"
+      ],
+      "created_at": "2026-11-02T23:54:01Z",
+      "updated_at": "2026-11-08T05:15:52Z",
+      "pushed_at": "2026-11-08T03:34:21Z"
+    },
+    {
       "id": 1425938162,
       "name": "ai-jailbreaks",
       "full_name": "AndreSzymanski15/ai-jailbreaks",
@@ -1119,7 +1145,7 @@
         "windows-utility"
       ],
       "created_at": "2026-11-06T08:03:46Z",
-      "updated_at": "2026-11-06T16:27:03Z",
+      "updated_at": "2026-11-08T05:04:07Z",
       "pushed_at": "2026-11-06T08:04:10Z"
     },
     {
@@ -1218,30 +1244,36 @@
       "pushed_at": "2026-11-06T12:28:18Z"
     },
     {
-      "id": 1443613311,
-      "name": "DOPPLERGEIST",
-      "full_name": "1337isnot1337/DOPPLERGEIST",
-      "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
-      "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
-      "homepage": "https://1337isnot1337.github.io/DOPPLERGEIST/",
-      "stars": 418,
-      "forks": 59,
-      "language": "Python",
+      "id": 1442823570,
+      "name": "pokopia-native",
+      "full_name": "xFractals/pokopia-native",
+      "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; With multiplayer and cross-device saves!",
+      "html_url": "https://github.com/xFractals/pokopia-native",
+      "homepage": "https://discord.gg/Aj9GqxZj8V",
+      "stars": 415,
+      "forks": 38,
+      "language": "C",
       "topics": [
-        "acoustic-geolocation",
-        "ads-b",
-        "aircraft-tracking",
-        "airplane",
-        "audio-forensics",
-        "doppler-effect",
-        "doppler-shift",
-        "geolocation",
-        "osint",
-        "signal-processing"
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "linux",
+        "macos",
+        "metal",
+        "native",
+        "native-port",
+        "nintendo-switch-2",
+        "nxnative",
+        "pokemon",
+        "pokopia",
+        "recomp",
+        "switch2",
+        "windows",
+        "windows-builder"
       ],
-      "created_at": "2026-11-02T23:54:01Z",
-      "updated_at": "2026-11-07T22:48:16Z",
-      "pushed_at": "2026-11-07T03:57:51Z"
+      "created_at": "2026-11-02T10:31:12Z",
+      "updated_at": "2026-11-08T04:26:14Z",
+      "pushed_at": "2026-11-07T22:13:48Z"
     },
     {
       "id": 1397016507,
@@ -1311,38 +1343,6 @@
       "created_at": "2026-10-04T11:37:45Z",
       "updated_at": "2026-10-04T11:50:18Z",
       "pushed_at": "2026-10-04T11:37:50Z"
-    },
-    {
-      "id": 1442823570,
-      "name": "pokopia-native",
-      "full_name": "xFractals/pokopia-native",
-      "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; With multiplayer and cross-device saves!",
-      "html_url": "https://github.com/xFractals/pokopia-native",
-      "homepage": "https://discord.gg/Aj9GqxZj8V",
-      "stars": 408,
-      "forks": 38,
-      "language": "C",
-      "topics": [
-        "apple-silicon",
-        "ios",
-        "iphone",
-        "linux",
-        "macos",
-        "metal",
-        "native",
-        "native-port",
-        "nintendo-switch-2",
-        "nxnative",
-        "pokemon",
-        "pokopia",
-        "recomp",
-        "switch2",
-        "windows",
-        "windows-builder"
-      ],
-      "created_at": "2026-11-02T10:31:12Z",
-      "updated_at": "2026-11-07T23:22:16Z",
-      "pushed_at": "2026-11-07T22:13:48Z"
     },
     {
       "id": 1411923855,
@@ -2064,6 +2064,32 @@
       "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
+      "id": 1442373084,
+      "name": "polyfork-catalog",
+      "full_name": "lucas-martinic/polyfork-catalog",
+      "description": "Free low-poly 3D models for three.js and the web: 3,077 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.",
+      "html_url": "https://github.com/lucas-martinic/polyfork-catalog",
+      "homepage": "https://polyfork.dev",
+      "stars": 360,
+      "forks": 42,
+      "language": null,
+      "topics": [
+        "3d-assets",
+        "3d-models",
+        "free-3d-models",
+        "game-assets",
+        "gamedev",
+        "glb",
+        "gltf",
+        "low-poly",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-02T01:09:22Z",
+      "updated_at": "2026-11-08T05:11:52Z",
+      "pushed_at": "2026-11-07T20:11:38Z"
+    },
+    {
       "id": 1436420580,
       "name": "LightPost",
       "full_name": "brainstormity/LightPost",
@@ -2437,39 +2463,13 @@
       "pushed_at": "2026-10-12T14:34:22Z"
     },
     {
-      "id": 1442373084,
-      "name": "polyfork-catalog",
-      "full_name": "lucas-martinic/polyfork-catalog",
-      "description": "Free low-poly 3D models for three.js and the web: 3,077 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.",
-      "html_url": "https://github.com/lucas-martinic/polyfork-catalog",
-      "homepage": "https://polyfork.dev",
-      "stars": 310,
-      "forks": 35,
-      "language": null,
-      "topics": [
-        "3d-assets",
-        "3d-models",
-        "free-3d-models",
-        "game-assets",
-        "gamedev",
-        "glb",
-        "gltf",
-        "low-poly",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-02T01:09:22Z",
-      "updated_at": "2026-11-07T23:30:49Z",
-      "pushed_at": "2026-11-07T20:11:38Z"
-    },
-    {
       "id": 1442833956,
       "name": "awesome-reverse-engineer-anything",
       "full_name": "maluramichael/awesome-reverse-engineer-anything",
       "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
       "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
       "homepage": null,
-      "stars": 309,
+      "stars": 311,
       "forks": 16,
       "language": "Python",
       "topics": [
@@ -2482,7 +2482,7 @@
         "static-recompilation"
       ],
       "created_at": "2026-11-02T10:42:04Z",
-      "updated_at": "2026-11-07T20:50:37Z",
+      "updated_at": "2026-11-08T05:09:03Z",
       "pushed_at": "2026-11-07T11:13:37Z"
     },
     {
@@ -3092,6 +3092,28 @@
       "pushed_at": "2026-11-02T15:33:05Z"
     },
     {
+      "id": 1443244793,
+      "name": "open-bot-avatar",
+      "full_name": "DominikScholz/open-bot-avatar",
+      "description": "A JSON spec and renderer for interactive agent avatars",
+      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
+      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
+      "stars": 295,
+      "forks": 38,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "animation",
+        "avatar",
+        "bot",
+        "json",
+        "svg"
+      ],
+      "created_at": "2026-11-02T17:03:14Z",
+      "updated_at": "2026-11-08T03:40:35Z",
+      "pushed_at": "2026-11-04T16:59:50Z"
+    },
+    {
       "id": 1436559096,
       "name": "video-director",
       "full_name": "win4r/video-director",
@@ -3131,28 +3153,6 @@
       "created_at": "2026-10-05T18:35:21Z",
       "updated_at": "2026-10-11T02:30:18Z",
       "pushed_at": "2026-10-09T16:59:30Z"
-    },
-    {
-      "id": 1443244793,
-      "name": "open-bot-avatar",
-      "full_name": "DominikScholz/open-bot-avatar",
-      "description": "A JSON spec and renderer for interactive agent avatars",
-      "html_url": "https://github.com/DominikScholz/open-bot-avatar",
-      "homepage": "https://dominikscholz.github.io/open-bot-avatar/",
-      "stars": 290,
-      "forks": 38,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "animation",
-        "avatar",
-        "bot",
-        "json",
-        "svg"
-      ],
-      "created_at": "2026-11-02T17:03:14Z",
-      "updated_at": "2026-11-07T21:27:04Z",
-      "pushed_at": "2026-11-04T16:59:50Z"
     },
     {
       "id": 1408673153,
@@ -3223,6 +3223,29 @@
       "created_at": "2026-11-01T09:49:24Z",
       "updated_at": "2026-11-07T22:57:07Z",
       "pushed_at": "2026-11-04T01:12:04Z"
+    },
+    {
+      "id": 1448640918,
+      "name": "sandbox-mcp",
+      "full_name": "shanselman/sandbox-mcp",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "html_url": "https://github.com/shanselman/sandbox-mcp",
+      "homepage": "https://shanselman.github.io/sandbox-mcp/",
+      "stars": 285,
+      "forks": 14,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "mcp",
+        "mcp-server",
+        "testing",
+        "ui-automation",
+        "windows",
+        "windows-sandbox"
+      ],
+      "created_at": "2026-11-06T19:02:14Z",
+      "updated_at": "2026-11-08T05:08:08Z",
+      "pushed_at": "2026-11-07T09:47:07Z"
     },
     {
       "id": 1432958333,
@@ -3438,31 +3461,8 @@
         "trx-flash"
       ],
       "created_at": "2026-11-05T04:48:43Z",
-      "updated_at": "2026-11-07T23:28:22Z",
-      "pushed_at": "2026-11-07T23:28:19Z"
-    },
-    {
-      "id": 1448640918,
-      "name": "sandbox-mcp",
-      "full_name": "shanselman/sandbox-mcp",
-      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "html_url": "https://github.com/shanselman/sandbox-mcp",
-      "homepage": "https://shanselman.github.io/sandbox-mcp/",
-      "stars": 253,
-      "forks": 12,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "mcp",
-        "mcp-server",
-        "testing",
-        "ui-automation",
-        "windows",
-        "windows-sandbox"
-      ],
-      "created_at": "2026-11-06T19:02:14Z",
-      "updated_at": "2026-11-07T23:08:17Z",
-      "pushed_at": "2026-11-07T09:47:07Z"
+      "updated_at": "2026-11-08T04:49:06Z",
+      "pushed_at": "2026-11-08T04:49:02Z"
     },
     {
       "id": 1423660177,
@@ -3640,6 +3640,21 @@
       "pushed_at": "2026-10-17T19:14:32Z"
     },
     {
+      "id": 1447069177,
+      "name": "SuperMarioAllStars",
+      "full_name": "Darhkfox/SuperMarioAllStars",
+      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
+      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
+      "homepage": null,
+      "stars": 251,
+      "forks": 6,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-11-05T13:58:29Z",
+      "updated_at": "2026-11-08T05:03:39Z",
+      "pushed_at": "2026-11-06T15:05:49Z"
+    },
+    {
       "id": 1437694471,
       "name": "cheap-ag",
       "full_name": "muaaz9329/cheap-ag",
@@ -3682,7 +3697,7 @@
       "description": "Turn any iPhone or Android into a Windows webcam: scan a code in the phone's browser. No phone app, no watermark.",
       "html_url": "https://github.com/PackArtisanMold/phone-to-webcam",
       "homepage": null,
-      "stars": 244,
+      "stars": 246,
       "forks": 82,
       "language": "HTML",
       "topics": [
@@ -3696,7 +3711,7 @@
         "windows"
       ],
       "created_at": "2026-11-06T09:05:51Z",
-      "updated_at": "2026-11-07T16:06:02Z",
+      "updated_at": "2026-11-08T02:12:09Z",
       "pushed_at": "2026-11-07T02:54:28Z"
     },
     {
@@ -3713,6 +3728,32 @@
       "created_at": "2026-11-02T09:47:18Z",
       "updated_at": "2026-11-07T16:49:39Z",
       "pushed_at": "2026-11-02T10:04:17Z"
+    },
+    {
+      "id": 1448750772,
+      "name": "media-toolkit-desktop",
+      "full_name": "bavaliyapruthil2610-lgtm/media-toolkit-desktop",
+      "description": "Adobe Lightroom Full: Complete Windows Desktop Toolkit for Visual Workflows",
+      "html_url": "https://github.com/bavaliyapruthil2610-lgtm/media-toolkit-desktop",
+      "homepage": null,
+      "stars": 244,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "adobe-lightroom",
+        "ai-masking",
+        "cloud-photo-library",
+        "how-to-install-lightroomfull",
+        "lightroomfull-desktop-2026",
+        "lightroomfull-desktop-package",
+        "lightroomfull-setup-failed-fix",
+        "lightroomfull-windows",
+        "mobile-desktop-sync",
+        "preset-sync"
+      ],
+      "created_at": "2026-11-06T21:09:06Z",
+      "updated_at": "2026-11-08T05:14:28Z",
+      "pushed_at": "2026-11-08T05:04:07Z"
     },
     {
       "id": 1433297111,
@@ -3745,19 +3786,392 @@
       "pushed_at": "2026-11-02T22:36:33Z"
     },
     {
-      "id": 1447069177,
-      "name": "SuperMarioAllStars",
-      "full_name": "Darhkfox/SuperMarioAllStars",
-      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
-      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
+      "id": 1448743796,
+      "name": "flash-crypto-generator",
+      "full_name": "prathmesh012-stack/flash-crypto-generator",
+      "description": "Desktop build with complete encryption tools and features for Flash-Crypto-Generator",
+      "html_url": "https://github.com/prathmesh012-stack/flash-crypto-generator",
       "homepage": null,
       "stars": 243,
-      "forks": 6,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-11-05T13:58:29Z",
-      "updated_at": "2026-11-07T23:07:32Z",
-      "pushed_at": "2026-11-06T15:05:49Z"
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "bitcoin-transaction-tool",
+        "bnb-flash-software-2025",
+        "desktop",
+        "developer-tools",
+        "erc20-generator",
+        "exodus-sol-flasher",
+        "ledger-api",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:00:16Z",
+      "updated_at": "2026-11-08T05:09:18Z",
+      "pushed_at": "2026-11-08T03:22:57Z"
+    },
+    {
+      "id": 1448760003,
+      "name": "pump-fun-desktop",
+      "full_name": "xavier442/pump-fun-desktop",
+      "description": "Pump Fun 2026: Complete Desktop Utility Setup with Pre-Activated Features",
+      "html_url": "https://github.com/xavier442/pump-fun-desktop",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "pump",
+        "pump-fun-2026",
+        "pump-fun-crack",
+        "pump-fun-trading",
+        "pumpfun-launcher",
+        "pumpfun-market-maker-bot",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:20:42Z",
+      "updated_at": "2026-11-08T05:15:24Z",
+      "pushed_at": "2026-11-08T02:52:22Z"
+    },
+    {
+      "id": 1448736961,
+      "name": "delta-executor-toolkit",
+      "full_name": "tss878/delta-executor-toolkit",
+      "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "html_url": "https://github.com/tss878/delta-executor-toolkit",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "delta-exec",
+        "delta-executor-26",
+        "delta-executor-exploit",
+        "delta-executor-for-free",
+        "delta-executor-for-pc-2026",
+        "delta-executor-for-win",
+        "delta-executor-lua",
+        "delta-executor-pc-2026",
+        "delta-for-pc",
+        "delta-for-pc-2026",
+        "delta-free-executor",
+        "delta-key-bypass",
+        "delta-lua-executor",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "utility"
+      ],
+      "created_at": "2026-11-06T20:51:54Z",
+      "updated_at": "2026-11-08T05:13:44Z",
+      "pushed_at": "2026-11-08T01:56:39Z"
+    },
+    {
+      "id": 1448760488,
+      "name": "rust-external-trainer-tool",
+      "full_name": "SK-Dev666/rust-external-trainer-tool",
+      "description": "Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+      "html_url": "https://github.com/SK-Dev666/rust-external-trainer-tool",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "rust-aim-2026",
+        "rust-exploit",
+        "rust-external-2026",
+        "rust-helper-2026",
+        "rust-menu",
+        "rust-menu-2026",
+        "rust-mod",
+        "rust-treasures",
+        "rust-wh-2026",
+        "rusthack",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:21:20Z",
+      "updated_at": "2026-11-08T05:15:59Z",
+      "pushed_at": "2026-11-08T04:05:41Z"
+    },
+    {
+      "id": 1448756275,
+      "name": "payday-3-enhancement-toolkit",
+      "full_name": "shahnawaz0786/payday-3-enhancement-toolkit",
+      "description": "Payday 3 Trainer Tool - Fully Activated Desktop Build, Ready to Play",
+      "html_url": "https://github.com/shahnawaz0786/payday-3-enhancement-toolkit",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "payday3",
+        "payday3-bypass",
+        "payday3-esp",
+        "payday3-wh",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:16:00Z",
+      "updated_at": "2026-11-08T05:10:59Z",
+      "pushed_at": "2026-11-08T02:48:32Z"
+    },
+    {
+      "id": 1448743148,
+      "name": "fabfilter-pro-media-tool",
+      "full_name": "leostanger/fabfilter-pro-media-tool",
+      "description": "FabFilter Pro 2026: Complete Standalone Setup, Fully Activated Ready-to-Run Desktop Edition",
+      "html_url": "https://github.com/leostanger/fabfilter-pro-media-tool",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "compressor-plugin",
+        "desktop",
+        "developer-tools",
+        "fabfilter",
+        "fabfilter-2026",
+        "fabfilter-bundle",
+        "fabfilter-pro-q",
+        "fabfilter-q-4",
+        "fabfilter-setup",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T20:59:29Z",
+      "updated_at": "2026-11-08T05:13:56Z",
+      "pushed_at": "2026-11-08T04:26:02Z"
+    },
+    {
+      "id": 1448757344,
+      "name": "phantom-blade-zero-runtime-toolkit",
+      "full_name": "richmondasensomensah-eng/phantom-blade-zero-runtime-toolkit",
+      "description": "PhantomBladeZero-Cheat: 54 toggleable runtime options and three presets for Phantom Blade Zero PC",
+      "html_url": "https://github.com/richmondasensomensah-eng/phantom-blade-zero-runtime-toolkit",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "overlay",
+        "phantom-blade-zero",
+        "phantom-blade-zero-mod",
+        "phantom-blade-zero-settings",
+        "phantom-blade-zero-trainer",
+        "windows"
+      ],
+      "created_at": "2026-11-06T21:17:19Z",
+      "updated_at": "2026-11-08T05:13:01Z",
+      "pushed_at": "2026-11-08T03:31:06Z"
+    },
+    {
+      "id": 1448729753,
+      "name": "capcut-for-windows",
+      "full_name": "Sebastian-is752/capcut-for-windows",
+      "description": "Professional video editing, screen recording, and VFX tools for Windows",
+      "html_url": "https://github.com/Sebastian-is752/capcut-for-windows",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "capcut-activated",
+        "capcut-crack-2026",
+        "capcut-cracked-2026",
+        "capcut-exe",
+        "capcut-for-free",
+        "capcut-free-2026",
+        "capcut-tiktok",
+        "capcut-videocreator",
+        "capcut-videoeditor",
+        "capcut-windows10",
+        "capcut-windows11",
+        "developer-tools",
+        "effectrs-library",
+        "open-source",
+        "premium-enabler",
+        "python",
+        "scripts",
+        "software-engineering",
+        "video-capcut"
+      ],
+      "created_at": "2026-11-06T20:43:18Z",
+      "updated_at": "2026-11-08T05:16:10Z",
+      "pushed_at": "2026-11-08T02:12:35Z"
+    },
+    {
+      "id": 1448750549,
+      "name": "marvel-rivals-enhancement-suite",
+      "full_name": "youssefjeries3-creator/marvel-rivals-enhancement-suite",
+      "description": "Marvel Rivals Trainer Tool: Full-Feature Installer, Ready to Run",
+      "html_url": "https://github.com/youssefjeries3-creator/marvel-rivals-enhancement-suite",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "aiming-marvel-rivals",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "marvel-rivals",
+        "marvel-rivals-aim-training",
+        "marvel-rivals-best-characters",
+        "marvel-rivals-crossplay",
+        "marvel-rivals-github",
+        "marvel-rivals-skins",
+        "marvelrivals",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:08:49Z",
+      "updated_at": "2026-11-08T05:13:06Z",
+      "pushed_at": "2026-11-08T03:38:14Z"
+    },
+    {
+      "id": 1448762435,
+      "name": "seedphrase-audit",
+      "full_name": "Dipanshu9997/seedphrase-audit",
+      "description": "seedphrasegenerator: full-feature desktop installer for security research and testing",
+      "html_url": "https://github.com/Dipanshu9997/seedphrase-audit",
+      "homepage": null,
+      "stars": 243,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "crypto-checker-tool",
+        "desktop",
+        "developer-tools",
+        "ethereum-checker",
+        "mnemonic-phrase",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "recovery-crypto",
+        "scripts",
+        "seed-generator",
+        "seed-phase-checker",
+        "seed-phrases-generate",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:23:44Z",
+      "updated_at": "2026-11-08T05:13:42Z",
+      "pushed_at": "2026-11-08T03:29:35Z"
+    },
+    {
+      "id": 1448762971,
+      "name": "slideshow-video-maker",
+      "full_name": "muhammadumar07/slideshow-video-maker",
+      "description": "Slideshow Video Maker: Turn Stills Into Cinematic Video Workflows",
+      "html_url": "https://github.com/muhammadumar07/slideshow-video-maker",
+      "homepage": null,
+      "stars": 241,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "beat-creator",
+        "beginner-daw",
+        "desktop",
+        "developer-tools",
+        "loop-music-maker",
+        "magix-free",
+        "magix-github",
+        "magix-music-maker",
+        "magix-setup",
+        "music-maker-premium",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:24:28Z",
+      "updated_at": "2026-11-08T05:13:30Z",
+      "pushed_at": "2026-11-08T03:54:47Z"
+    },
+    {
+      "id": 1448760087,
+      "name": "robux-generator-enhancement",
+      "full_name": "Marcian15350/robux-generator-enhancement",
+      "description": "Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
+      "html_url": "https://github.com/Marcian15350/robux-generator-enhancement",
+      "homepage": null,
+      "stars": 241,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "rbxdev",
+        "robux",
+        "robux-generator",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T21:20:48Z",
+      "updated_at": "2026-11-08T05:14:56Z",
+      "pushed_at": "2026-11-08T00:20:41Z"
     },
     {
       "id": 1438077268,
@@ -6551,6 +6965,21 @@
       "pushed_at": "2026-10-16T09:26:34Z"
     },
     {
+      "id": 1444626210,
+      "name": "Lingbo-Desk",
+      "full_name": "liguozheng-ac/Lingbo-Desk",
+      "description": "A Windows desktop voice agent with real-time conversation, a Live2D avatar, and background tasks for files, Office documents, and the web.",
+      "html_url": "https://github.com/liguozheng-ac/Lingbo-Desk",
+      "homepage": null,
+      "stars": 187,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-03T17:36:59Z",
+      "updated_at": "2026-11-08T05:01:24Z",
+      "pushed_at": "2026-11-07T14:41:46Z"
+    },
+    {
       "id": 1417980343,
       "name": "ComfyArt",
       "full_name": "jtydhr88/ComfyArt",
@@ -6636,21 +7065,6 @@
       "created_at": "2026-10-31T07:21:36Z",
       "updated_at": "2026-10-31T11:55:28Z",
       "pushed_at": "2026-10-31T07:21:42Z"
-    },
-    {
-      "id": 1444626210,
-      "name": "Lingbo-Desk",
-      "full_name": "liguozheng-ac/Lingbo-Desk",
-      "description": "A Windows desktop voice agent with real-time conversation, a Live2D avatar, and background tasks for files, Office documents, and the web.",
-      "html_url": "https://github.com/liguozheng-ac/Lingbo-Desk",
-      "homepage": null,
-      "stars": 182,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-03T17:36:59Z",
-      "updated_at": "2026-11-07T21:53:24Z",
-      "pushed_at": "2026-11-07T14:41:46Z"
     },
     {
       "id": 1415164610,
@@ -7372,6 +7786,29 @@
       "pushed_at": "2026-11-01T11:32:13Z"
     },
     {
+      "id": 1449224922,
+      "name": "ghostclick-mouse-double-click-fix",
+      "full_name": "MajestyPoemFold/ghostclick-mouse-double-click-fix",
+      "description": "Free mouse double click test and fix for Windows 11/10. Finds ghost clicks (mouse chatter, switch bounce) on a strip chart, learns a debounce threshold from your real double-clicks, filters them system-wide from the tray, catches drag and drop drops, and exports RMA evidence. Open source, no ads.",
+      "html_url": "https://github.com/MajestyPoemFold/ghostclick-mouse-double-click-fix",
+      "homepage": null,
+      "stars": 155,
+      "forks": 26,
+      "language": "Rust",
+      "topics": [
+        "double-click",
+        "gaming-mouse",
+        "input-lag",
+        "logitech",
+        "mouse-fix",
+        "mouse-tester",
+        "windows"
+      ],
+      "created_at": "2026-11-07T09:52:25Z",
+      "updated_at": "2026-11-08T05:13:41Z",
+      "pushed_at": "2026-11-07T10:42:38Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -7533,8 +7970,8 @@
         "windows11"
       ],
       "created_at": "2026-11-06T14:13:13Z",
-      "updated_at": "2026-11-07T22:30:07Z",
-      "pushed_at": "2026-11-07T22:30:03Z"
+      "updated_at": "2026-11-08T02:05:12Z",
+      "pushed_at": "2026-11-08T02:05:09Z"
     },
     {
       "id": 1448337222,
@@ -7556,8 +7993,8 @@
         "windows"
       ],
       "created_at": "2026-11-06T14:05:59Z",
-      "updated_at": "2026-11-07T22:27:13Z",
-      "pushed_at": "2026-11-07T22:27:09Z"
+      "updated_at": "2026-11-08T01:58:21Z",
+      "pushed_at": "2026-11-08T01:58:18Z"
     },
     {
       "id": 1448350595,
@@ -7584,8 +8021,8 @@
         "key-generator-activator"
       ],
       "created_at": "2026-11-06T14:18:25Z",
-      "updated_at": "2026-11-07T22:35:59Z",
-      "pushed_at": "2026-11-07T22:35:55Z"
+      "updated_at": "2026-11-08T02:11:11Z",
+      "pushed_at": "2026-11-08T02:11:07Z"
     },
     {
       "id": 1448375659,
@@ -7612,8 +8049,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-06T14:41:39Z",
-      "updated_at": "2026-11-07T22:28:50Z",
-      "pushed_at": "2026-11-07T22:28:46Z"
+      "updated_at": "2026-11-08T02:00:45Z",
+      "pushed_at": "2026-11-08T02:00:41Z"
     },
     {
       "id": 1448377514,
@@ -7644,8 +8081,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-06T14:43:20Z",
-      "updated_at": "2026-11-07T22:30:07Z",
-      "pushed_at": "2026-11-07T22:30:03Z"
+      "updated_at": "2026-11-08T02:05:08Z",
+      "pushed_at": "2026-11-08T02:05:04Z"
     },
     {
       "id": 1448359557,
@@ -7666,6 +8103,27 @@
       "created_at": "2026-11-06T14:26:35Z",
       "updated_at": "2026-11-07T15:29:46Z",
       "pushed_at": "2026-11-07T18:32:07Z"
+    },
+    {
+      "id": 1447784616,
+      "name": "starwire",
+      "full_name": "boffti/starwire",
+      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
+      "html_url": "https://github.com/boffti/starwire",
+      "homepage": "https://starwire.foo",
+      "stars": 147,
+      "forks": 9,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "github",
+        "open-source"
+      ],
+      "created_at": "2026-11-06T03:26:21Z",
+      "updated_at": "2026-11-08T04:54:13Z",
+      "pushed_at": "2026-11-08T02:28:26Z"
     },
     {
       "id": 1431620755,
@@ -7821,27 +8279,6 @@
       "created_at": "2026-11-04T22:52:26Z",
       "updated_at": "2026-11-06T02:03:19Z",
       "pushed_at": "2026-11-06T00:40:01Z"
-    },
-    {
-      "id": 1447784616,
-      "name": "starwire",
-      "full_name": "boffti/starwire",
-      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
-      "html_url": "https://github.com/boffti/starwire",
-      "homepage": "https://starwire.foo",
-      "stars": 142,
-      "forks": 9,
-      "language": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "developer-tools",
-        "github",
-        "open-source"
-      ],
-      "created_at": "2026-11-06T03:26:21Z",
-      "updated_at": "2026-11-07T21:00:32Z",
-      "pushed_at": "2026-11-07T15:46:00Z"
     },
     {
       "id": 1403810477,
@@ -8008,29 +8445,6 @@
       "created_at": "2026-11-03T17:18:12Z",
       "updated_at": "2026-11-07T14:29:24Z",
       "pushed_at": "2026-11-07T14:29:19Z"
-    },
-    {
-      "id": 1449224922,
-      "name": "ghostclick-mouse-double-click-fix",
-      "full_name": "MajestyPoemFold/ghostclick-mouse-double-click-fix",
-      "description": "Free mouse double click test and fix for Windows 11/10. Finds ghost clicks (mouse chatter, switch bounce) on a strip chart, learns a debounce threshold from your real double-clicks, filters them system-wide from the tray, catches drag and drop drops, and exports RMA evidence. Open source, no ads.",
-      "html_url": "https://github.com/MajestyPoemFold/ghostclick-mouse-double-click-fix",
-      "homepage": null,
-      "stars": 140,
-      "forks": 22,
-      "language": "Rust",
-      "topics": [
-        "double-click",
-        "gaming-mouse",
-        "input-lag",
-        "logitech",
-        "mouse-fix",
-        "mouse-tester",
-        "windows"
-      ],
-      "created_at": "2026-11-07T09:52:25Z",
-      "updated_at": "2026-11-07T23:05:49Z",
-      "pushed_at": "2026-11-07T10:42:38Z"
     },
     {
       "id": 1378060456,
@@ -9030,8 +9444,8 @@
         "typescript"
       ],
       "created_at": "2026-11-04T19:57:31Z",
-      "updated_at": "2026-11-07T23:27:57Z",
-      "pushed_at": "2026-11-07T23:27:52Z"
+      "updated_at": "2026-11-08T01:01:43Z",
+      "pushed_at": "2026-11-08T01:25:23Z"
     },
     {
       "id": 1414327429,
@@ -10393,6 +10807,42 @@
       "created_at": "2026-10-19T13:05:15Z",
       "updated_at": "2026-10-19T13:25:13Z",
       "pushed_at": "2026-10-19T13:05:33Z"
+    },
+    {
+      "id": 1445663842,
+      "name": "WebsiteBench",
+      "full_name": "TIGER-AI-Lab/WebsiteBench",
+      "description": "Can AI agents rebuild websites through browser exploration?",
+      "html_url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+      "homepage": "https://website-bench.com/",
+      "stars": 106,
+      "forks": 35,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "ai",
+        "ai-agents",
+        "benchmark",
+        "benchmarking",
+        "browser-automation",
+        "browser-use",
+        "full-stack",
+        "harbor",
+        "harbor-framework",
+        "llm",
+        "llm-benchmark",
+        "llm-benchmarking",
+        "llm-benchmarks",
+        "reverse-engineering",
+        "swe-bench",
+        "visual-evaluation",
+        "web-agents",
+        "web-development",
+        "website-reconstruction"
+      ],
+      "created_at": "2026-11-04T12:58:50Z",
+      "updated_at": "2026-11-08T04:56:44Z",
+      "pushed_at": "2026-11-07T17:29:06Z"
     },
     {
       "id": 1395984333,
@@ -11903,6 +12353,21 @@
       "pushed_at": "2026-09-18T21:16:11Z"
     },
     {
+      "id": 1442947876,
+      "name": "AntiWebUI",
+      "full_name": "bea4dev/AntiWebUI",
+      "description": "A GPU-rendered native UI toolkit. No Chromium, no WebView, no DOM. Your app is not a website.",
+      "html_url": "https://github.com/bea4dev/AntiWebUI",
+      "homepage": null,
+      "stars": 94,
+      "forks": 2,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-11-02T12:38:24Z",
+      "updated_at": "2026-11-07T19:35:29Z",
+      "pushed_at": "2026-11-07T18:59:42Z"
+    },
+    {
       "id": 1436043653,
       "name": "Cisco-Webex-Download",
       "full_name": "wbx-tools/Cisco-Webex-Download",
@@ -12079,57 +12544,6 @@
       "created_at": "2026-10-22T10:58:26Z",
       "updated_at": "2026-10-28T20:36:57Z",
       "pushed_at": "2026-10-28T21:28:35Z"
-    },
-    {
-      "id": 1442947876,
-      "name": "AntiWebUI",
-      "full_name": "bea4dev/AntiWebUI",
-      "description": "A GPU-rendered native UI toolkit. No Chromium, no WebView, no DOM. Your app is not a website.",
-      "html_url": "https://github.com/bea4dev/AntiWebUI",
-      "homepage": null,
-      "stars": 92,
-      "forks": 1,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-11-02T12:38:24Z",
-      "updated_at": "2026-11-07T11:33:00Z",
-      "pushed_at": "2026-11-07T10:52:10Z"
-    },
-    {
-      "id": 1445663842,
-      "name": "WebsiteBench",
-      "full_name": "TIGER-AI-Lab/WebsiteBench",
-      "description": "Can AI agents rebuild websites through browser exploration?",
-      "html_url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-      "homepage": "https://website-bench.com/",
-      "stars": 92,
-      "forks": 35,
-      "language": "Python",
-      "topics": [
-        "agent-evaluation",
-        "ai",
-        "ai-agents",
-        "benchmark",
-        "benchmarking",
-        "browser-automation",
-        "browser-use",
-        "full-stack",
-        "harbor",
-        "harbor-framework",
-        "llm",
-        "llm-benchmark",
-        "llm-benchmarking",
-        "llm-benchmarks",
-        "reverse-engineering",
-        "swe-bench",
-        "visual-evaluation",
-        "web-agents",
-        "web-development",
-        "website-reconstruction"
-      ],
-      "created_at": "2026-11-04T12:58:50Z",
-      "updated_at": "2026-11-07T14:23:12Z",
-      "pushed_at": "2026-11-06T15:55:12Z"
     },
     {
       "id": 1378557186,
@@ -12897,6 +13311,21 @@
       "pushed_at": "2026-10-23T07:05:56Z"
     },
     {
+      "id": 1444877883,
+      "name": "claude-hardware-in-the-loop",
+      "full_name": "Kemerd/claude-hardware-in-the-loop",
+      "description": "Agent-driven hardware-in-the-loop engineering method: Claude Code skill, swarm orchestration, generator-first KiCad PCB pipeline, CadQuery CAD, firmware-in-the-loop, web CAD/PCB viewer. Source-available (HIL-ASA-1.0).",
+      "html_url": "https://github.com/Kemerd/claude-hardware-in-the-loop",
+      "homepage": null,
+      "stars": 83,
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-03T22:00:57Z",
+      "updated_at": "2026-11-08T03:46:10Z",
+      "pushed_at": "2026-11-07T01:02:45Z"
+    },
+    {
       "id": 1438683779,
       "name": "windows-activation-suite",
       "full_name": "hariiieee/windows-activation-suite",
@@ -13042,21 +13471,6 @@
       "created_at": "2026-10-07T17:53:23Z",
       "updated_at": "2026-10-12T20:55:41Z",
       "pushed_at": "2026-10-10T12:51:22Z"
-    },
-    {
-      "id": 1444877883,
-      "name": "claude-hardware-in-the-loop",
-      "full_name": "Kemerd/claude-hardware-in-the-loop",
-      "description": "Agent-driven hardware-in-the-loop engineering method: Claude Code skill, swarm orchestration, generator-first KiCad PCB pipeline, CadQuery CAD, firmware-in-the-loop, web CAD/PCB viewer. Source-available (HIL-ASA-1.0).",
-      "html_url": "https://github.com/Kemerd/claude-hardware-in-the-loop",
-      "homepage": null,
-      "stars": 81,
-      "forks": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-03T22:00:57Z",
-      "updated_at": "2026-11-07T09:57:57Z",
-      "pushed_at": "2026-11-07T01:02:45Z"
     },
     {
       "id": 1386777688,
@@ -14327,40 +14741,6 @@
       "pushed_at": "2026-11-05T11:57:00Z"
     },
     {
-      "id": 1448762971,
-      "name": "slideshow-video-maker",
-      "full_name": "muhammadumar07/slideshow-video-maker",
-      "description": "Slideshow Video Maker: Turn Stills Into Cinematic Video Workflows",
-      "html_url": "https://github.com/muhammadumar07/slideshow-video-maker",
-      "homepage": null,
-      "stars": 66,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "automation",
-        "beat-creator",
-        "beginner-daw",
-        "desktop",
-        "developer-tools",
-        "loop-music-maker",
-        "magix-free",
-        "magix-github",
-        "magix-music-maker",
-        "magix-setup",
-        "music-maker-premium",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-06T21:24:28Z",
-      "updated_at": "2026-11-07T23:30:24Z",
-      "pushed_at": "2026-11-07T23:20:56Z"
-    },
-    {
       "id": 1429666605,
       "name": "tiktok-view-bot",
       "full_name": "eqyvlbekmlqq/tiktok-view-bot",
@@ -14749,67 +15129,6 @@
       "created_at": "2026-11-05T08:39:00Z",
       "updated_at": "2026-11-07T11:42:29Z",
       "pushed_at": "2026-11-06T10:29:00Z"
-    },
-    {
-      "id": 1448760087,
-      "name": "robux-generator-enhancement",
-      "full_name": "Marcian15350/robux-generator-enhancement",
-      "description": "Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
-      "html_url": "https://github.com/Marcian15350/robux-generator-enhancement",
-      "homepage": null,
-      "stars": 64,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source",
-        "python",
-        "rbxdev",
-        "robux",
-        "robux-generator",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-06T21:20:48Z",
-      "updated_at": "2026-11-07T23:27:14Z",
-      "pushed_at": "2026-11-07T20:06:39Z"
-    },
-    {
-      "id": 1448743796,
-      "name": "flash-crypto-generator",
-      "full_name": "prathmesh012-stack/flash-crypto-generator",
-      "description": "Desktop build with complete encryption tools and features for Flash-Crypto-Generator",
-      "html_url": "https://github.com/prathmesh012-stack/flash-crypto-generator",
-      "homepage": null,
-      "stars": 64,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "automation",
-        "bitcoin-transaction-tool",
-        "bnb-flash-software-2025",
-        "desktop",
-        "developer-tools",
-        "erc20-generator",
-        "exodus-sol-flasher",
-        "ledger-api",
-        "open-source",
-        "phrase-generator",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-06T21:00:16Z",
-      "updated_at": "2026-11-07T23:26:59Z",
-      "pushed_at": "2026-11-07T23:14:56Z"
     },
     {
       "id": 1387598614,
