@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/11 21:50:10",
-  "total_repos": 1041,
+  "fetched_at": "2026/11/12 05:07:58",
+  "total_repos": 1050,
   "repos": [
     {
       "id": 1425658028,
@@ -1180,8 +1180,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:21:48Z",
-      "updated_at": "2026-11-11T11:39:39Z",
-      "pushed_at": "2026-11-11T10:39:35Z"
+      "updated_at": "2026-11-11T19:33:29Z",
+      "pushed_at": "2026-11-11T18:33:24Z"
     },
     {
       "id": 1448756275,
@@ -1243,8 +1243,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T20:59:29Z",
-      "updated_at": "2026-11-11T08:41:52Z",
-      "pushed_at": "2026-11-11T07:41:49Z"
+      "updated_at": "2026-11-11T16:50:48Z",
+      "pushed_at": "2026-11-11T15:50:43Z"
     },
     {
       "id": 1448750549,
@@ -1372,8 +1372,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:25:39Z",
-      "updated_at": "2026-11-11T09:29:50Z",
-      "pushed_at": "2026-11-11T08:29:46Z"
+      "updated_at": "2026-11-11T17:41:25Z",
+      "pushed_at": "2026-11-11T16:41:22Z"
     },
     {
       "id": 1448752369,
@@ -1645,8 +1645,8 @@
         "video-capcut"
       ],
       "created_at": "2026-11-06T20:43:18Z",
-      "updated_at": "2026-11-11T10:05:49Z",
-      "pushed_at": "2026-11-11T09:05:44Z"
+      "updated_at": "2026-11-11T18:48:28Z",
+      "pushed_at": "2026-11-11T17:48:25Z"
     },
     {
       "id": 1448736961,
@@ -2276,6 +2276,29 @@
       "pushed_at": "2026-10-12T17:59:31Z"
     },
     {
+      "id": 1448640918,
+      "name": "sandbox-mcp",
+      "full_name": "shanselman/sandbox-mcp",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "html_url": "https://github.com/shanselman/sandbox-mcp",
+      "homepage": "https://shanselman.github.io/sandbox-mcp/",
+      "stars": 410,
+      "forks": 19,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "mcp",
+        "mcp-server",
+        "testing",
+        "ui-automation",
+        "windows",
+        "windows-sandbox"
+      ],
+      "created_at": "2026-11-06T19:02:14Z",
+      "updated_at": "2026-11-11T16:11:48Z",
+      "pushed_at": "2026-11-11T06:44:24Z"
+    },
+    {
       "id": 1404316216,
       "name": "Microsoft-Project",
       "full_name": "Blockadezoshack/Microsoft-Project",
@@ -2302,29 +2325,6 @@
       "created_at": "2026-10-04T11:37:45Z",
       "updated_at": "2026-10-04T11:50:18Z",
       "pushed_at": "2026-10-04T11:37:50Z"
-    },
-    {
-      "id": 1448640918,
-      "name": "sandbox-mcp",
-      "full_name": "shanselman/sandbox-mcp",
-      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "html_url": "https://github.com/shanselman/sandbox-mcp",
-      "homepage": "https://shanselman.github.io/sandbox-mcp/",
-      "stars": 408,
-      "forks": 19,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "mcp",
-        "mcp-server",
-        "testing",
-        "ui-automation",
-        "windows",
-        "windows-sandbox"
-      ],
-      "created_at": "2026-11-06T19:02:14Z",
-      "updated_at": "2026-11-11T13:36:38Z",
-      "pushed_at": "2026-11-11T06:44:24Z"
     },
     {
       "id": 1411923855,
@@ -2923,6 +2923,36 @@
       "created_at": "2026-11-09T11:21:42Z",
       "updated_at": "2026-11-09T14:07:29Z",
       "pushed_at": "2026-11-09T11:21:48Z"
+    },
+    {
+      "id": 1451662178,
+      "name": "ste80-humanizer",
+      "full_name": "Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "html_url": "https://github.com/Dodaios/ste80-humanizer",
+      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
+      "stars": 400,
+      "forks": 25,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-11T20:54:55Z",
+      "pushed_at": "2026-11-10T08:52:47Z"
     },
     {
       "id": 1421622972,
@@ -3579,36 +3609,6 @@
       "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
-      "id": 1451662178,
-      "name": "ste80-humanizer",
-      "full_name": "Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "html_url": "https://github.com/Dodaios/ste80-humanizer",
-      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
-      "stars": 362,
-      "forks": 22,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
-        "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
-      ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-11T13:32:53Z",
-      "pushed_at": "2026-11-10T08:52:47Z"
-    },
-    {
       "id": 1436420580,
       "name": "LightPost",
       "full_name": "brainstormity/LightPost",
@@ -3648,6 +3648,21 @@
       "pushed_at": "2026-10-30T11:04:26Z"
     },
     {
+      "id": 1447069177,
+      "name": "SuperMarioAllStars",
+      "full_name": "Darhkfox/SuperMarioAllStars",
+      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
+      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
+      "homepage": null,
+      "stars": 352,
+      "forks": 11,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-11-05T13:58:29Z",
+      "updated_at": "2026-11-11T20:59:54Z",
+      "pushed_at": "2026-11-06T15:05:49Z"
+    },
+    {
       "id": 1434973188,
       "name": "dsh-video-storyboard",
       "full_name": "SAOS-3624/dsh-video-storyboard",
@@ -3674,6 +3689,31 @@
       "pushed_at": "2026-11-01T15:28:35Z"
     },
     {
+      "id": 1451775929,
+      "name": "lot-map",
+      "full_name": "alexeyw/lot-map",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
+      "html_url": "https://github.com/alexeyw/lot-map",
+      "homepage": null,
+      "stars": 350,
+      "forks": 36,
+      "language": "TypeScript",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "developer-tools",
+        "svg-animation",
+        "typescript",
+        "visualization"
+      ],
+      "created_at": "2026-11-09T19:13:52Z",
+      "updated_at": "2026-11-11T21:06:03Z",
+      "pushed_at": "2026-11-11T20:55:46Z"
+    },
+    {
       "id": 1441468008,
       "name": "agentic-hacking-skills",
       "full_name": "mrhlaingbwardev/agentic-hacking-skills",
@@ -3698,21 +3738,6 @@
       "created_at": "2026-11-01T04:00:04Z",
       "updated_at": "2026-11-07T22:18:04Z",
       "pushed_at": "2026-11-01T06:16:19Z"
-    },
-    {
-      "id": 1447069177,
-      "name": "SuperMarioAllStars",
-      "full_name": "Darhkfox/SuperMarioAllStars",
-      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
-      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
-      "homepage": null,
-      "stars": 342,
-      "forks": 11,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-11-05T13:58:29Z",
-      "updated_at": "2026-11-11T12:31:17Z",
-      "pushed_at": "2026-11-06T15:05:49Z"
     },
     {
       "id": 1445001947,
@@ -4907,6 +4932,24 @@
       "pushed_at": "2026-11-02T15:33:05Z"
     },
     {
+      "id": 1446572955,
+      "name": "ztd-charts",
+      "full_name": "Junhan2/ztd-charts",
+      "description": "36 animated, interactive React charts in pure SVG, with a CLI and an MCP server",
+      "html_url": "https://github.com/Junhan2/ztd-charts",
+      "homepage": "https://charts.ztd.app",
+      "stars": 296,
+      "forks": 41,
+      "language": "TypeScript",
+      "topics": [
+        "chart",
+        "data-visualization"
+      ],
+      "created_at": "2026-11-05T05:25:24Z",
+      "updated_at": "2026-11-11T20:45:58Z",
+      "pushed_at": "2026-11-11T02:44:00Z"
+    },
+    {
       "id": 1452889121,
       "name": "flash-crypto-generator",
       "full_name": "WinnerChefJam/flash-crypto-generator",
@@ -5069,24 +5112,6 @@
       "created_at": "2026-10-25T07:57:16Z",
       "updated_at": "2026-10-31T20:18:24Z",
       "pushed_at": "2026-10-31T19:30:47Z"
-    },
-    {
-      "id": 1446572955,
-      "name": "ztd-charts",
-      "full_name": "Junhan2/ztd-charts",
-      "description": "36 animated, interactive React charts in pure SVG, with a CLI and an MCP server",
-      "html_url": "https://github.com/Junhan2/ztd-charts",
-      "homepage": "https://charts.ztd.app",
-      "stars": 281,
-      "forks": 41,
-      "language": "TypeScript",
-      "topics": [
-        "chart",
-        "data-visualization"
-      ],
-      "created_at": "2026-11-05T05:25:24Z",
-      "updated_at": "2026-11-11T10:35:48Z",
-      "pushed_at": "2026-11-11T02:44:00Z"
     },
     {
       "id": 1375594818,
@@ -5470,6 +5495,42 @@
       "created_at": "2026-10-17T19:14:26Z",
       "updated_at": "2026-10-18T12:33:26Z",
       "pushed_at": "2026-10-17T19:14:32Z"
+    },
+    {
+      "id": 1448033453,
+      "name": "cracked",
+      "full_name": "nishant-Tiwari24/cracked",
+      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
+      "html_url": "https://github.com/nishant-Tiwari24/cracked",
+      "homepage": "https://cracked-skills.vercel.app",
+      "stars": 251,
+      "forks": 37,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ats",
+        "career",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "coding-interview",
+        "cursor",
+        "dsa",
+        "faang",
+        "interview-prep",
+        "interview-preparation",
+        "leetcode",
+        "mock-interview",
+        "placement-preparation",
+        "placements",
+        "resume",
+        "students",
+        "system-design"
+      ],
+      "created_at": "2026-11-06T08:50:47Z",
+      "updated_at": "2026-11-11T20:06:27Z",
+      "pushed_at": "2026-11-06T13:33:39Z"
     },
     {
       "id": 1448047566,
@@ -5989,67 +6050,6 @@
       "created_at": "2026-10-13T12:20:04Z",
       "updated_at": "2026-10-17T01:10:12Z",
       "pushed_at": "2026-10-13T12:50:13Z"
-    },
-    {
-      "id": 1448033453,
-      "name": "cracked",
-      "full_name": "nishant-Tiwari24/cracked",
-      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
-      "html_url": "https://github.com/nishant-Tiwari24/cracked",
-      "homepage": "https://cracked-skills.vercel.app",
-      "stars": 227,
-      "forks": 36,
-      "language": "TypeScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ats",
-        "career",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "coding-interview",
-        "cursor",
-        "dsa",
-        "faang",
-        "interview-prep",
-        "interview-preparation",
-        "leetcode",
-        "mock-interview",
-        "placement-preparation",
-        "placements",
-        "resume",
-        "students",
-        "system-design"
-      ],
-      "created_at": "2026-11-06T08:50:47Z",
-      "updated_at": "2026-11-11T13:47:34Z",
-      "pushed_at": "2026-11-06T13:33:39Z"
-    },
-    {
-      "id": 1451775929,
-      "name": "lot-map",
-      "full_name": "alexeyw/lot-map",
-      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
-      "html_url": "https://github.com/alexeyw/lot-map",
-      "homepage": null,
-      "stars": 226,
-      "forks": 24,
-      "language": "TypeScript",
-      "topics": [
-        "agent-observability",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "developer-tools",
-        "svg-animation",
-        "typescript",
-        "visualization"
-      ],
-      "created_at": "2026-11-09T19:13:52Z",
-      "updated_at": "2026-11-11T13:48:31Z",
-      "pushed_at": "2026-11-11T13:30:00Z"
     },
     {
       "id": 1439548693,
@@ -6762,6 +6762,27 @@
       "created_at": "2026-10-31T07:24:32Z",
       "updated_at": "2026-11-01T12:46:37Z",
       "pushed_at": "2026-10-31T07:24:37Z"
+    },
+    {
+      "id": 1447784616,
+      "name": "starwire",
+      "full_name": "boffti/starwire",
+      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
+      "html_url": "https://github.com/boffti/starwire",
+      "homepage": "https://starwire.foo",
+      "stars": 205,
+      "forks": 15,
+      "language": "JavaScript",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "github",
+        "open-source"
+      ],
+      "created_at": "2026-11-06T03:26:21Z",
+      "updated_at": "2026-11-11T19:47:47Z",
+      "pushed_at": "2026-11-11T20:18:31Z"
     },
     {
       "id": 1414287839,
@@ -8125,27 +8146,6 @@
       "pushed_at": "2026-11-04T08:45:11Z"
     },
     {
-      "id": 1447784616,
-      "name": "starwire",
-      "full_name": "boffti/starwire",
-      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
-      "html_url": "https://github.com/boffti/starwire",
-      "homepage": "https://starwire.foo",
-      "stars": 199,
-      "forks": 15,
-      "language": "JavaScript",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "developer-tools",
-        "github",
-        "open-source"
-      ],
-      "created_at": "2026-11-06T03:26:21Z",
-      "updated_at": "2026-11-11T12:42:23Z",
-      "pushed_at": "2026-11-11T11:10:29Z"
-    },
-    {
       "id": 1411918476,
       "name": "BorisFX",
       "full_name": "ChunkPoolChain/BorisFX",
@@ -8563,32 +8563,6 @@
       "pushed_at": "2026-10-16T09:26:34Z"
     },
     {
-      "id": 1449614389,
-      "name": "Minecraft-AFK-Bot",
-      "full_name": "sentinelsoldierprize/Minecraft-AFK-Bot",
-      "description": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers.",
-      "html_url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
-      "homepage": null,
-      "stars": 187,
-      "forks": 165,
-      "language": "Python",
-      "topics": [
-        "afk-bot",
-        "afk-farm",
-        "anti-afk",
-        "aternos",
-        "minecraft",
-        "minecraft-bot",
-        "mineflayer",
-        "nodejs",
-        "open-source",
-        "web-dashboard"
-      ],
-      "created_at": "2026-11-07T18:07:44Z",
-      "updated_at": "2026-11-11T13:49:57Z",
-      "pushed_at": "2026-11-07T18:08:10Z"
-    },
-    {
       "id": 1450650682,
       "name": "Roblox-Account-Manager-Multi-Account-Tool",
       "full_name": "ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
@@ -8613,32 +8587,6 @@
       "created_at": "2026-11-08T20:47:54Z",
       "updated_at": "2026-11-11T13:49:57Z",
       "pushed_at": "2026-11-08T20:48:15Z"
-    },
-    {
-      "id": 1449713552,
-      "name": "Steam-Idler",
-      "full_name": "Poltergeistlunagrid/Steam-Idler",
-      "description": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
-      "html_url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
-      "homepage": null,
-      "stars": 187,
-      "forks": 279,
-      "language": "Python",
-      "topics": [
-        "game-idler",
-        "hourboost",
-        "open-source",
-        "playtime-boost",
-        "steam-bot",
-        "steam-card-farmer",
-        "steam-idler",
-        "steam-playtime",
-        "steam-tools",
-        "trading-cards"
-      ],
-      "created_at": "2026-11-07T20:26:32Z",
-      "updated_at": "2026-11-11T13:49:57Z",
-      "pushed_at": "2026-11-07T20:26:51Z"
     },
     {
       "id": 1417980343,
@@ -8830,6 +8778,21 @@
       "created_at": "2026-11-08T18:36:49Z",
       "updated_at": "2026-11-09T14:18:29Z",
       "pushed_at": "2026-11-09T11:55:03Z"
+    },
+    {
+      "id": 1452464401,
+      "name": "tinytraffic",
+      "full_name": "egoist/tinytraffic",
+      "description": "self-host web analytics in a single binary",
+      "html_url": "https://github.com/egoist/tinytraffic",
+      "homepage": null,
+      "stars": 178,
+      "forks": 10,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-10T09:39:00Z",
+      "updated_at": "2026-11-11T20:15:07Z",
+      "pushed_at": "2026-11-11T20:30:03Z"
     },
     {
       "id": 1451221567,
@@ -9287,21 +9250,6 @@
       "pushed_at": "2026-11-06T15:11:04Z"
     },
     {
-      "id": 1452464401,
-      "name": "tinytraffic",
-      "full_name": "egoist/tinytraffic",
-      "description": "self-host web analytics in a single binary",
-      "html_url": "https://github.com/egoist/tinytraffic",
-      "homepage": null,
-      "stars": 163,
-      "forks": 9,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-10T09:39:00Z",
-      "updated_at": "2026-11-11T13:44:40Z",
-      "pushed_at": "2026-11-11T12:44:38Z"
-    },
-    {
       "id": 1391423600,
       "name": "neonplan3d",
       "full_name": "Mastershort/neonplan3d",
@@ -9646,8 +9594,8 @@
         "activator"
       ],
       "created_at": "2026-11-06T14:25:18Z",
-      "updated_at": "2026-11-11T11:30:05Z",
-      "pushed_at": "2026-11-11T10:30:02Z"
+      "updated_at": "2026-11-11T19:27:59Z",
+      "pushed_at": "2026-11-11T18:27:55Z"
     },
     {
       "id": 1418592001,
@@ -9707,8 +9655,8 @@
         "windows11"
       ],
       "created_at": "2026-11-06T14:13:13Z",
-      "updated_at": "2026-11-11T11:25:38Z",
-      "pushed_at": "2026-11-11T10:25:32Z"
+      "updated_at": "2026-11-11T19:25:36Z",
+      "pushed_at": "2026-11-11T18:25:32Z"
     },
     {
       "id": 1448337222,
@@ -9730,8 +9678,8 @@
         "windows"
       ],
       "created_at": "2026-11-06T14:05:59Z",
-      "updated_at": "2026-11-11T11:04:58Z",
-      "pushed_at": "2026-11-11T10:04:55Z"
+      "updated_at": "2026-11-11T19:14:46Z",
+      "pushed_at": "2026-11-11T18:14:43Z"
     },
     {
       "id": 1448350595,
@@ -9758,8 +9706,8 @@
         "key-generator-activator"
       ],
       "created_at": "2026-11-06T14:18:25Z",
-      "updated_at": "2026-11-11T10:04:11Z",
-      "pushed_at": "2026-11-11T09:04:07Z"
+      "updated_at": "2026-11-11T18:47:34Z",
+      "pushed_at": "2026-11-11T17:47:29Z"
     },
     {
       "id": 1448375659,
@@ -9786,8 +9734,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-06T14:41:39Z",
-      "updated_at": "2026-11-11T11:15:06Z",
-      "pushed_at": "2026-11-11T10:15:03Z"
+      "updated_at": "2026-11-11T19:19:49Z",
+      "pushed_at": "2026-11-11T18:19:46Z"
     },
     {
       "id": 1448377514,
@@ -9818,8 +9766,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-06T14:43:20Z",
-      "updated_at": "2026-11-11T11:25:45Z",
-      "pushed_at": "2026-11-11T10:25:41Z"
+      "updated_at": "2026-11-11T19:25:07Z",
+      "pushed_at": "2026-11-11T18:25:04Z"
     },
     {
       "id": 1448359557,
@@ -9838,8 +9786,8 @@
         "prepar3d"
       ],
       "created_at": "2026-11-06T14:26:35Z",
-      "updated_at": "2026-11-11T11:32:32Z",
-      "pushed_at": "2026-11-11T10:32:27Z"
+      "updated_at": "2026-11-11T19:29:08Z",
+      "pushed_at": "2026-11-11T18:29:04Z"
     },
     {
       "id": 1448372407,
@@ -9858,8 +9806,28 @@
         "wechat"
       ],
       "created_at": "2026-11-06T14:38:33Z",
-      "updated_at": "2026-11-11T09:29:55Z",
-      "pushed_at": "2026-11-11T08:29:52Z"
+      "updated_at": "2026-11-11T17:41:21Z",
+      "pushed_at": "2026-11-11T16:41:18Z"
+    },
+    {
+      "id": 1448356661,
+      "name": "modern-ms-toolkit",
+      "full_name": "parthgupta00/modern-ms-toolkit",
+      "description": "Modern-MSFree4All-Public: Office/Windows installer and activator with additional tools",
+      "html_url": "https://github.com/parthgupta00/modern-ms-toolkit",
+      "homepage": null,
+      "stars": 149,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "activator",
+        "office-deployment",
+        "windows-iso",
+        "wpf-application"
+      ],
+      "created_at": "2026-11-06T14:23:57Z",
+      "updated_at": "2026-11-11T19:29:17Z",
+      "pushed_at": "2026-11-11T18:29:13Z"
     },
     {
       "id": 1431620755,
@@ -11061,6 +11029,30 @@
       "pushed_at": "2026-10-26T19:03:13Z"
     },
     {
+      "id": 1447133213,
+      "name": "playDB-CNT",
+      "full_name": "sikoGD/playDB-CNT",
+      "description": "Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.",
+      "html_url": "https://github.com/sikoGD/playDB-CNT",
+      "homepage": "https://buymeacoffee.com/rickjrbfl",
+      "stars": 125,
+      "forks": 7,
+      "language": "C",
+      "topics": [
+        "eglantine",
+        "eglantine-emulator",
+        "eglantine-switch-2",
+        "eglantine-switch-emulator",
+        "emulator",
+        "emulator-frontend",
+        "emulator-launcher",
+        "network"
+      ],
+      "created_at": "2026-11-05T14:54:02Z",
+      "updated_at": "2026-11-11T21:06:49Z",
+      "pushed_at": "2026-11-11T17:55:54Z"
+    },
+    {
       "id": 1441693752,
       "name": "SP-Flash-Tool",
       "full_name": "Fusenamoon77/SP-Flash-Tool",
@@ -11126,7 +11118,7 @@
       "html_url": "https://github.com/claudememory/claude-memory",
       "homepage": "https://tryglen.com",
       "stars": 124,
-      "forks": 0,
+      "forks": 1,
       "language": null,
       "topics": [
         "agent-memory",
@@ -11322,30 +11314,6 @@
       "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
-      "id": 1447133213,
-      "name": "playDB-CNT",
-      "full_name": "sikoGD/playDB-CNT",
-      "description": "Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.",
-      "html_url": "https://github.com/sikoGD/playDB-CNT",
-      "homepage": "https://buymeacoffee.com/rickjrbfl",
-      "stars": 121,
-      "forks": 7,
-      "language": "Python",
-      "topics": [
-        "eglantine",
-        "eglantine-emulator",
-        "eglantine-switch-2",
-        "eglantine-switch-emulator",
-        "emulator",
-        "emulator-frontend",
-        "emulator-launcher",
-        "network"
-      ],
-      "created_at": "2026-11-05T14:54:02Z",
-      "updated_at": "2026-11-11T13:25:58Z",
-      "pushed_at": "2026-11-07T02:23:58Z"
-    },
-    {
       "id": 1417978332,
       "name": "hwid-spoofer-toolkit",
       "full_name": "GladiatorSplit/hwid-spoofer-toolkit",
@@ -11446,6 +11414,58 @@
       "created_at": "2026-11-06T17:23:39Z",
       "updated_at": "2026-11-06T19:11:55Z",
       "pushed_at": "2026-11-06T17:23:45Z"
+    },
+    {
+      "id": 1449614389,
+      "name": "Minecraft-AFK-Bot",
+      "full_name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+      "description": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers.",
+      "html_url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
+      "homepage": null,
+      "stars": 119,
+      "forks": 64,
+      "language": "Python",
+      "topics": [
+        "afk-bot",
+        "afk-farm",
+        "anti-afk",
+        "aternos",
+        "minecraft",
+        "minecraft-bot",
+        "mineflayer",
+        "nodejs",
+        "open-source",
+        "web-dashboard"
+      ],
+      "created_at": "2026-11-07T18:07:44Z",
+      "updated_at": "2026-11-11T14:01:07Z",
+      "pushed_at": "2026-11-07T18:08:10Z"
+    },
+    {
+      "id": 1449713552,
+      "name": "Steam-Idler",
+      "full_name": "Poltergeistlunagrid/Steam-Idler",
+      "description": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
+      "html_url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
+      "homepage": null,
+      "stars": 119,
+      "forks": 119,
+      "language": "Python",
+      "topics": [
+        "game-idler",
+        "hourboost",
+        "open-source",
+        "playtime-boost",
+        "steam-bot",
+        "steam-card-farmer",
+        "steam-idler",
+        "steam-playtime",
+        "steam-tools",
+        "trading-cards"
+      ],
+      "created_at": "2026-11-07T20:26:32Z",
+      "updated_at": "2026-11-11T14:01:07Z",
+      "pushed_at": "2026-11-07T20:26:51Z"
     },
     {
       "id": 1408550900,
@@ -12567,6 +12587,32 @@
       "pushed_at": "2026-10-19T12:38:51Z"
     },
     {
+      "id": 1447950032,
+      "name": "RuiC-2D",
+      "full_name": "HRuiCcc/RuiC-2D",
+      "description": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
+      "html_url": "https://github.com/HRuiCcc/RuiC-2D",
+      "homepage": "https://hruiccc.github.io/RuiC-2D/demo/",
+      "stars": 105,
+      "forks": 17,
+      "language": "Python",
+      "topics": [
+        "2d",
+        "animation",
+        "avatar",
+        "live2d",
+        "mediapipe",
+        "nodejs",
+        "obs",
+        "python",
+        "virtual-youtuber",
+        "vtuber"
+      ],
+      "created_at": "2026-11-06T07:14:58Z",
+      "updated_at": "2026-11-11T16:54:19Z",
+      "pushed_at": "2026-11-09T07:46:56Z"
+    },
+    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -12711,32 +12757,6 @@
       "created_at": "2026-11-02T14:34:20Z",
       "updated_at": "2026-11-07T15:38:43Z",
       "pushed_at": "2026-11-06T18:09:41Z"
-    },
-    {
-      "id": 1447950032,
-      "name": "RuiC-2D",
-      "full_name": "HRuiCcc/RuiC-2D",
-      "description": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
-      "html_url": "https://github.com/HRuiCcc/RuiC-2D",
-      "homepage": "https://hruiccc.github.io/RuiC-2D/demo/",
-      "stars": 104,
-      "forks": 17,
-      "language": "Python",
-      "topics": [
-        "2d",
-        "animation",
-        "avatar",
-        "live2d",
-        "mediapipe",
-        "nodejs",
-        "obs",
-        "python",
-        "virtual-youtuber",
-        "vtuber"
-      ],
-      "created_at": "2026-11-06T07:14:58Z",
-      "updated_at": "2026-11-11T08:33:12Z",
-      "pushed_at": "2026-11-09T07:46:56Z"
     },
     {
       "id": 1390845863,
@@ -12887,6 +12907,36 @@
       "pushed_at": "2026-11-03T11:01:22Z"
     },
     {
+      "id": 1453070439,
+      "name": "voicemod",
+      "full_name": "FrontierPheasant/voicemod",
+      "description": "Reactive state management for voice modes, real-time streaming, and audio interfaces built with MobX. Lightweight, fast, and highly scalable architecture optimized for Web Audio API and WebRTC applications.",
+      "html_url": "https://github.com/FrontierPheasant/voicemod",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "aivoiceagent",
+        "aivoiceassistant",
+        "aivoicechanger",
+        "voice-app",
+        "voice-mod-github",
+        "voice-mode-app",
+        "voicemod-2026",
+        "voicemod-2026-crack",
+        "voicemod-2026-cracked",
+        "voicemod-ai",
+        "voicemod-app",
+        "voicemod-for-pc",
+        "voicemod-for-windows",
+        "voicemod-free"
+      ],
+      "created_at": "2026-11-10T18:57:36Z",
+      "updated_at": "2026-11-11T20:33:51Z",
+      "pushed_at": "2026-11-11T14:46:25Z"
+    },
+    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -12961,34 +13011,6 @@
       "created_at": "2026-10-27T15:56:51Z",
       "updated_at": "2026-11-02T11:21:09Z",
       "pushed_at": "2026-11-01T16:39:25Z"
-    },
-    {
-      "id": 1453070439,
-      "name": "mobx-voice-mode-ai",
-      "full_name": "FrontierPheasant/mobx-voice-mode-ai",
-      "description": "Reactive state management for voice modes, real-time streaming, and audio interfaces built with MobX. Lightweight, fast, and highly scalable architecture optimized for Web Audio API and WebRTC applications.",
-      "html_url": "https://github.com/FrontierPheasant/mobx-voice-mode-ai",
-      "homepage": null,
-      "stars": 101,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "audio-streaming",
-        "audio-visualizer",
-        "microphone",
-        "mobx",
-        "real-time-audio",
-        "vad",
-        "voice-activity-detection",
-        "voice-chat",
-        "voice-mode",
-        "voip",
-        "web-audio-api",
-        "webrtc"
-      ],
-      "created_at": "2026-11-10T18:57:36Z",
-      "updated_at": "2026-11-10T21:42:17Z",
-      "pushed_at": "2026-11-10T19:21:37Z"
     },
     {
       "id": 1405556648,
@@ -14497,6 +14519,21 @@
       "pushed_at": "2026-10-22T20:31:13Z"
     },
     {
+      "id": 1451370228,
+      "name": "IDEmu",
+      "full_name": "herrbimmer/IDEmu",
+      "description": "BMW iDrive 4/5/6/7/8 head-unit emulator for macOS (QEMU, web UI, CAN/GPS, coding editor). PolyForm Noncommercial 1.0.0",
+      "html_url": "https://github.com/herrbimmer/IDEmu",
+      "homepage": null,
+      "stars": 88,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-09T12:57:44Z",
+      "updated_at": "2026-11-11T21:05:05Z",
+      "pushed_at": "2026-11-10T23:25:21Z"
+    },
+    {
       "id": 1402924075,
       "name": "DeepSeek-V4.1-Flash-Two-Sparks",
       "full_name": "0xSero/DeepSeek-V4.1-Flash-Two-Sparks",
@@ -14723,21 +14760,6 @@
       "created_at": "2026-11-03T22:00:57Z",
       "updated_at": "2026-11-09T10:51:12Z",
       "pushed_at": "2026-11-07T01:02:45Z"
-    },
-    {
-      "id": 1451370228,
-      "name": "IDEmu",
-      "full_name": "herrbimmer/IDEmu",
-      "description": "BMW iDrive 4/5/6/7/8 head-unit emulator for macOS (QEMU, web UI, CAN/GPS, coding editor). PolyForm Noncommercial 1.0.0",
-      "html_url": "https://github.com/herrbimmer/IDEmu",
-      "homepage": null,
-      "stars": 85,
-      "forks": 9,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-11-09T12:57:44Z",
-      "updated_at": "2026-11-11T10:44:41Z",
-      "pushed_at": "2026-11-10T23:25:21Z"
     },
     {
       "id": 1434014577,
@@ -15873,6 +15895,42 @@
       "pushed_at": "2026-11-07T16:23:01Z"
     },
     {
+      "id": 1450464080,
+      "name": "Spotifeur",
+      "full_name": "jean-voila/Spotifeur",
+      "description": "Open-source music player for Android for Spotify, YouTube Music and local files, music only: no podcasts, videos or Canvas. Uses Spotify's own Android protocols, documented in protocol/.",
+      "html_url": "https://github.com/jean-voila/Spotifeur",
+      "homepage": "https://jean-voila.github.io/Spotifeur/",
+      "stars": 71,
+      "forks": 1,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-music-player",
+        "gpl3",
+        "jetpack-compose",
+        "kotlin",
+        "login5",
+        "material-you",
+        "material3",
+        "media3",
+        "music",
+        "music-player",
+        "no-podcasts",
+        "offline-music",
+        "open-source",
+        "protocol-documentation",
+        "reverse-engineering",
+        "spotify",
+        "spotify-alternative",
+        "spotify-client"
+      ],
+      "created_at": "2026-11-08T16:39:57Z",
+      "updated_at": "2026-11-11T20:52:28Z",
+      "pushed_at": "2026-11-11T19:52:27Z"
+    },
+    {
       "id": 1392901645,
       "name": "Simple-WAM",
       "full_name": "LeapLabTHU/Simple-WAM",
@@ -15948,42 +16006,6 @@
       "created_at": "2026-10-09T21:12:02Z",
       "updated_at": "2026-10-14T10:32:55Z",
       "pushed_at": "2026-10-10T18:50:39Z"
-    },
-    {
-      "id": 1450464080,
-      "name": "Spotifeur",
-      "full_name": "jean-voila/Spotifeur",
-      "description": "Open-source music player for Android for Spotify, YouTube Music and local files, music only: no podcasts, videos or Canvas. Uses Spotify's own Android protocols, documented in protocol/.",
-      "html_url": "https://github.com/jean-voila/Spotifeur",
-      "homepage": "https://jean-voila.github.io/Spotifeur/",
-      "stars": 70,
-      "forks": 1,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-app",
-        "android-music-player",
-        "gpl3",
-        "jetpack-compose",
-        "kotlin",
-        "login5",
-        "material-you",
-        "material3",
-        "media3",
-        "music",
-        "music-player",
-        "no-podcasts",
-        "offline-music",
-        "open-source",
-        "protocol-documentation",
-        "reverse-engineering",
-        "spotify",
-        "spotify-alternative",
-        "spotify-client"
-      ],
-      "created_at": "2026-11-08T16:39:57Z",
-      "updated_at": "2026-11-11T13:14:13Z",
-      "pushed_at": "2026-11-11T01:14:47Z"
     },
     {
       "id": 1438583991,
@@ -16087,7 +16109,7 @@
       "html_url": "https://github.com/Nebularotunnel/Token-Sniper",
       "homepage": null,
       "stars": 68,
-      "forks": 66,
+      "forks": 47,
       "language": "Python",
       "topics": [
         "2026",
@@ -17508,6 +17530,21 @@
       "created_at": "2026-11-05T11:55:36Z",
       "updated_at": "2026-11-09T22:48:44Z",
       "pushed_at": "2026-11-05T11:55:45Z"
+    },
+    {
+      "id": 1450931893,
+      "name": "venn-vdm",
+      "full_name": "markrussinovich/venn-vdm",
+      "description": "Venn: typed decisions over the embeddings you already have. Route, score, filter and compare with a small local decision layer and heads you train in one call.",
+      "html_url": "https://github.com/markrussinovich/venn-vdm",
+      "homepage": "https://markrussinovich.github.io/venn-vdm/",
+      "stars": 59,
+      "forks": 6,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-09T04:26:05Z",
+      "updated_at": "2026-11-11T20:00:38Z",
+      "pushed_at": "2026-11-10T01:55:35Z"
     },
     {
       "id": 1422310322,
@@ -20183,6 +20220,54 @@
       "pushed_at": "2026-11-04T13:15:28Z"
     },
     {
+      "id": 1453099049,
+      "name": "collage-maker",
+      "full_name": "abitakon/collage-maker",
+      "description": "Collage-Maker: Compose Photos with Backgrounds, Textures, Icons, and Text",
+      "html_url": "https://github.com/abitakon/collage-maker",
+      "homepage": null,
+      "stars": 36,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "backgrounds-textures",
+        "collage-maker-installer",
+        "collage-maker-setup",
+        "galleria-software",
+        "image-assemblage",
+        "photo-collage",
+        "trial-version",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:26:48Z",
+      "updated_at": "2026-11-11T21:05:52Z",
+      "pushed_at": "2026-11-11T15:43:34Z"
+    },
+    {
+      "id": 1453127355,
+      "name": "photo-dvd-maker",
+      "full_name": "23kb1a05k4-pixel/photo-dvd-maker",
+      "description": "Photo DVD Maker: Windows Presentation Tool for Image and Music Slideshows",
+      "html_url": "https://github.com/23kb1a05k4-pixel/photo-dvd-maker",
+      "homepage": null,
+      "stars": 36,
+      "forks": 0,
+      "language": "Rust",
+      "topics": [
+        "create-presentations",
+        "jpeg-import",
+        "photo-dvd-maker",
+        "photo-dvd-maker-download",
+        "presentations",
+        "productivity-software",
+        "software",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:55:37Z",
+      "updated_at": "2026-11-11T21:02:19Z",
+      "pushed_at": "2026-11-11T15:44:35Z"
+    },
+    {
       "id": 1395203963,
       "name": "duckapi",
       "full_name": "hirotomasato/duckapi",
@@ -20245,6 +20330,102 @@
       "created_at": "2026-10-06T06:03:48Z",
       "updated_at": "2026-10-06T19:56:31Z",
       "pushed_at": "2026-10-06T06:51:59Z"
+    },
+    {
+      "id": 1453142553,
+      "name": "xara-3d-maker-desktop",
+      "full_name": "slametmus/xara-3d-maker-desktop",
+      "description": "Xara 3D Maker for Windows: 3D Text and Logo Design with Templates, Color Controls, and Animation",
+      "html_url": "https://github.com/slametmus/xara-3d-maker-desktop",
+      "homepage": null,
+      "stars": 35,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "download-xara-3d-maker",
+        "logo-creator",
+        "logo-software",
+        "trial-version",
+        "xara-3d-maker",
+        "xara-3d-maker-installer",
+        "xara-ltd",
+        "xara3dmaker"
+      ],
+      "created_at": "2026-11-10T20:11:06Z",
+      "updated_at": "2026-11-11T20:59:19Z",
+      "pushed_at": "2026-11-11T15:47:59Z"
+    },
+    {
+      "id": 1453132205,
+      "name": "solitaire-well-desktop",
+      "full_name": "rehansaid226-ops/solitaire-well-desktop",
+      "description": "Solitaire-Well: Windows Card Game with Diamond and Napoleon's Tomb Variants",
+      "html_url": "https://github.com/rehansaid226-ops/solitaire-well-desktop",
+      "homepage": null,
+      "stars": 35,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "grandersoft",
+        "pc-games",
+        "solitaire-variants",
+        "solitaire-well-download",
+        "trial-version",
+        "undo-redo",
+        "windows",
+        "windows-software"
+      ],
+      "created_at": "2026-11-10T20:00:28Z",
+      "updated_at": "2026-11-11T21:03:48Z",
+      "pushed_at": "2026-11-11T15:40:08Z"
+    },
+    {
+      "id": 1453096982,
+      "name": "businesscards-mx",
+      "full_name": "filinapi/businesscards-mx",
+      "description": "BusinessCards MX: Windows Business Card Design Tool with Templates and Custom Graphics",
+      "html_url": "https://github.com/filinapi/businesscards-mx",
+      "homepage": null,
+      "stars": 35,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "business-cards-mx",
+        "businesscards-mx-windows",
+        "create-business-cards",
+        "design-your-own-cards",
+        "templates",
+        "trial-version",
+        "windows",
+        "windows-10"
+      ],
+      "created_at": "2026-11-10T19:24:47Z",
+      "updated_at": "2026-11-11T21:06:06Z",
+      "pushed_at": "2026-11-11T15:44:14Z"
+    },
+    {
+      "id": 1453093036,
+      "name": "artensoft-tilt-shift-generator",
+      "full_name": "dumdum806/artensoft-tilt-shift-generator",
+      "description": "Artensoft Tilt Shift Generator: Windows Tilt-Shift Effect Tool with Focus and Preview Controls",
+      "html_url": "https://github.com/dumdum806/artensoft-tilt-shift-generator",
+      "homepage": null,
+      "stars": 35,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "artensoft-tilt-shift-generator",
+        "artensoft-tilt-shift-generator-free",
+        "brightness-contrast-saturation",
+        "download-artensoft-tilt-shift-generator",
+        "image-editing",
+        "image-editing-tools",
+        "software",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:20:57Z",
+      "updated_at": "2026-11-11T21:04:03Z",
+      "pushed_at": "2026-11-11T16:00:22Z"
     },
     {
       "id": 1440886314,
@@ -20388,6 +20569,30 @@
       "created_at": "2026-10-27T09:25:47Z",
       "updated_at": "2026-10-28T05:38:14Z",
       "pushed_at": "2026-10-27T09:44:08Z"
+    },
+    {
+      "id": 1453087740,
+      "name": "acoustica-cd-dvd-label-designer",
+      "full_name": "Kr0w3n/acoustica-cd-dvd-label-designer",
+      "description": "Acoustica CD/DVD Label Maker: Custom Disc Cover Design with Templates and Song List Import",
+      "html_url": "https://github.com/Kr0w3n/acoustica-cd-dvd-label-designer",
+      "homepage": null,
+      "stars": 34,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "acoustica-cd-dvd-label-maker",
+        "acoustica-cd-dvd-label-maker-download",
+        "cd-cover-designer",
+        "customize-cds",
+        "dvd-cover-designer",
+        "software",
+        "tools",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:15:33Z",
+      "updated_at": "2026-11-11T21:05:21Z",
+      "pushed_at": "2026-11-11T15:54:46Z"
     },
     {
       "id": 1443612367,
