@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/11 13:26:10",
-  "total_repos": 1038,
+  "fetched_at": "2026/11/11 21:50:10",
+  "total_repos": 1041,
   "repos": [
     {
       "id": 1425658028,
@@ -1180,8 +1180,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:21:48Z",
-      "updated_at": "2026-11-11T03:41:09Z",
-      "pushed_at": "2026-11-11T02:41:06Z"
+      "updated_at": "2026-11-11T11:39:39Z",
+      "pushed_at": "2026-11-11T10:39:35Z"
     },
     {
       "id": 1448756275,
@@ -1243,8 +1243,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T20:59:29Z",
-      "updated_at": "2026-11-11T01:59:44Z",
-      "pushed_at": "2026-11-11T00:59:40Z"
+      "updated_at": "2026-11-11T08:41:52Z",
+      "pushed_at": "2026-11-11T07:41:49Z"
     },
     {
       "id": 1448750549,
@@ -1372,8 +1372,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:25:39Z",
-      "updated_at": "2026-11-11T02:31:07Z",
-      "pushed_at": "2026-11-11T01:31:03Z"
+      "updated_at": "2026-11-11T09:29:50Z",
+      "pushed_at": "2026-11-11T08:29:46Z"
     },
     {
       "id": 1448752369,
@@ -1645,8 +1645,8 @@
         "video-capcut"
       ],
       "created_at": "2026-11-06T20:43:18Z",
-      "updated_at": "2026-11-11T02:08:33Z",
-      "pushed_at": "2026-11-11T01:08:29Z"
+      "updated_at": "2026-11-11T10:05:49Z",
+      "pushed_at": "2026-11-11T09:05:44Z"
     },
     {
       "id": 1448736961,
@@ -1763,8 +1763,8 @@
         "windows"
       ],
       "created_at": "2026-11-06T21:17:19Z",
-      "updated_at": "2026-11-09T20:31:07Z",
-      "pushed_at": "2026-11-09T18:00:48Z"
+      "updated_at": "2026-11-11T07:23:14Z",
+      "pushed_at": "2026-11-11T06:23:11Z"
     },
     {
       "id": 1448768405,
@@ -2304,6 +2304,29 @@
       "pushed_at": "2026-10-04T11:37:50Z"
     },
     {
+      "id": 1448640918,
+      "name": "sandbox-mcp",
+      "full_name": "shanselman/sandbox-mcp",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "html_url": "https://github.com/shanselman/sandbox-mcp",
+      "homepage": "https://shanselman.github.io/sandbox-mcp/",
+      "stars": 408,
+      "forks": 19,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "mcp",
+        "mcp-server",
+        "testing",
+        "ui-automation",
+        "windows",
+        "windows-sandbox"
+      ],
+      "created_at": "2026-11-06T19:02:14Z",
+      "updated_at": "2026-11-11T13:36:38Z",
+      "pushed_at": "2026-11-11T06:44:24Z"
+    },
+    {
       "id": 1411923855,
       "name": "Discord-Nitro-Generator",
       "full_name": "TremorBisonSurvive/Discord-Nitro-Generator",
@@ -2332,29 +2355,6 @@
       "created_at": "2026-10-09T13:50:16Z",
       "updated_at": "2026-10-10T17:26:05Z",
       "pushed_at": "2026-10-09T13:50:22Z"
-    },
-    {
-      "id": 1448640918,
-      "name": "sandbox-mcp",
-      "full_name": "shanselman/sandbox-mcp",
-      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "html_url": "https://github.com/shanselman/sandbox-mcp",
-      "homepage": "https://shanselman.github.io/sandbox-mcp/",
-      "stars": 404,
-      "forks": 19,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "mcp",
-        "mcp-server",
-        "testing",
-        "ui-automation",
-        "windows",
-        "windows-sandbox"
-      ],
-      "created_at": "2026-11-06T19:02:14Z",
-      "updated_at": "2026-11-11T05:17:37Z",
-      "pushed_at": "2026-11-11T05:25:15Z"
     },
     {
       "id": 1402294106,
@@ -3579,6 +3579,36 @@
       "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
+      "id": 1451662178,
+      "name": "ste80-humanizer",
+      "full_name": "Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "html_url": "https://github.com/Dodaios/ste80-humanizer",
+      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
+      "stars": 362,
+      "forks": 22,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-11T13:32:53Z",
+      "pushed_at": "2026-11-10T08:52:47Z"
+    },
+    {
       "id": 1436420580,
       "name": "LightPost",
       "full_name": "brainstormity/LightPost",
@@ -3670,6 +3700,21 @@
       "pushed_at": "2026-11-01T06:16:19Z"
     },
     {
+      "id": 1447069177,
+      "name": "SuperMarioAllStars",
+      "full_name": "Darhkfox/SuperMarioAllStars",
+      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
+      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
+      "homepage": null,
+      "stars": 342,
+      "forks": 11,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-11-05T13:58:29Z",
+      "updated_at": "2026-11-11T12:31:17Z",
+      "pushed_at": "2026-11-06T15:05:49Z"
+    },
+    {
       "id": 1445001947,
       "name": "wrapvm",
       "full_name": "tobi/wrapvm",
@@ -3683,21 +3728,6 @@
       "created_at": "2026-11-04T00:55:02Z",
       "updated_at": "2026-11-10T22:21:48Z",
       "pushed_at": "2026-11-04T02:14:22Z"
-    },
-    {
-      "id": 1447069177,
-      "name": "SuperMarioAllStars",
-      "full_name": "Darhkfox/SuperMarioAllStars",
-      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
-      "html_url": "https://github.com/Darhkfox/SuperMarioAllStars",
-      "homepage": null,
-      "stars": 339,
-      "forks": 11,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-11-05T13:58:29Z",
-      "updated_at": "2026-11-11T04:56:18Z",
-      "pushed_at": "2026-11-06T15:05:49Z"
     },
     {
       "id": 1412143785,
@@ -3851,36 +3881,6 @@
       "created_at": "2026-10-14T01:49:12Z",
       "updated_at": "2026-10-20T17:33:42Z",
       "pushed_at": "2026-10-16T18:45:13Z"
-    },
-    {
-      "id": 1451662178,
-      "name": "ste80-humanizer",
-      "full_name": "Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "html_url": "https://github.com/Dodaios/ste80-humanizer",
-      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
-      "stars": 326,
-      "forks": 19,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
-        "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
-      ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-11T05:14:45Z",
-      "pushed_at": "2026-11-10T08:52:47Z"
     },
     {
       "id": 1452890260,
@@ -5071,73 +5071,21 @@
       "pushed_at": "2026-10-31T19:30:47Z"
     },
     {
-      "id": 1449614389,
-      "name": "Minecraft-AFK-Bot",
-      "full_name": "sentinelsoldierprize/Minecraft-AFK-Bot",
-      "description": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers.",
-      "html_url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
-      "homepage": null,
-      "stars": 279,
-      "forks": 165,
-      "language": "Python",
-      "topics": [
-        "afk-bot",
-        "afk-farm",
-        "anti-afk",
-        "aternos",
-        "minecraft",
-        "minecraft-bot",
-        "mineflayer",
-        "nodejs",
-        "open-source",
-        "web-dashboard"
-      ],
-      "created_at": "2026-11-07T18:07:44Z",
-      "updated_at": "2026-11-08T20:20:30Z",
-      "pushed_at": "2026-11-07T18:08:10Z"
-    },
-    {
-      "id": 1450650682,
-      "name": "Roblox-Account-Manager-Multi-Account-Tool",
-      "full_name": "ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
-      "description": "Lightweight profile launcher and session organizer for Roblox. Easily manage multiple profiles, launch the game with saved sessions, and organize your playtime. Windows 10/11.",
-      "html_url": "https://github.com/ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
-      "homepage": null,
-      "stars": 279,
-      "forks": 91,
-      "language": "Python",
-      "topics": [
-        "desktop-app",
-        "game-launcher",
-        "gaming-tools",
-        "multi-profile",
-        "open-source",
-        "productivity-tool",
-        "profile-launcher",
-        "roblox",
-        "session-organizer",
-        "windows-utility"
-      ],
-      "created_at": "2026-11-08T20:47:54Z",
-      "updated_at": "2026-11-09T14:53:38Z",
-      "pushed_at": "2026-11-08T20:48:15Z"
-    },
-    {
       "id": 1446572955,
       "name": "ztd-charts",
       "full_name": "Junhan2/ztd-charts",
       "description": "36 animated, interactive React charts in pure SVG, with a CLI and an MCP server",
       "html_url": "https://github.com/Junhan2/ztd-charts",
       "homepage": "https://charts.ztd.app",
-      "stars": 279,
-      "forks": 40,
+      "stars": 281,
+      "forks": 41,
       "language": "TypeScript",
       "topics": [
         "chart",
         "data-visualization"
       ],
       "created_at": "2026-11-05T05:25:24Z",
-      "updated_at": "2026-11-11T03:37:35Z",
+      "updated_at": "2026-11-11T10:35:48Z",
       "pushed_at": "2026-11-11T02:44:00Z"
     },
     {
@@ -6043,6 +5991,67 @@
       "pushed_at": "2026-10-13T12:50:13Z"
     },
     {
+      "id": 1448033453,
+      "name": "cracked",
+      "full_name": "nishant-Tiwari24/cracked",
+      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
+      "html_url": "https://github.com/nishant-Tiwari24/cracked",
+      "homepage": "https://cracked-skills.vercel.app",
+      "stars": 227,
+      "forks": 36,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ats",
+        "career",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "coding-interview",
+        "cursor",
+        "dsa",
+        "faang",
+        "interview-prep",
+        "interview-preparation",
+        "leetcode",
+        "mock-interview",
+        "placement-preparation",
+        "placements",
+        "resume",
+        "students",
+        "system-design"
+      ],
+      "created_at": "2026-11-06T08:50:47Z",
+      "updated_at": "2026-11-11T13:47:34Z",
+      "pushed_at": "2026-11-06T13:33:39Z"
+    },
+    {
+      "id": 1451775929,
+      "name": "lot-map",
+      "full_name": "alexeyw/lot-map",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
+      "html_url": "https://github.com/alexeyw/lot-map",
+      "homepage": null,
+      "stars": 226,
+      "forks": 24,
+      "language": "TypeScript",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "developer-tools",
+        "svg-animation",
+        "typescript",
+        "visualization"
+      ],
+      "created_at": "2026-11-09T19:13:52Z",
+      "updated_at": "2026-11-11T13:48:31Z",
+      "pushed_at": "2026-11-11T13:30:00Z"
+    },
+    {
       "id": 1439548693,
       "name": "fy-code-animation",
       "full_name": "Akillll-DuoHe/fy-code-animation",
@@ -6897,42 +6906,6 @@
       "created_at": "2026-10-31T07:21:36Z",
       "updated_at": "2026-11-01T17:59:42Z",
       "pushed_at": "2026-10-31T07:21:43Z"
-    },
-    {
-      "id": 1448033453,
-      "name": "cracked",
-      "full_name": "nishant-Tiwari24/cracked",
-      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
-      "html_url": "https://github.com/nishant-Tiwari24/cracked",
-      "homepage": "https://cracked-skills.vercel.app",
-      "stars": 204,
-      "forks": 30,
-      "language": "TypeScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ats",
-        "career",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "coding-interview",
-        "cursor",
-        "dsa",
-        "faang",
-        "interview-prep",
-        "interview-preparation",
-        "leetcode",
-        "mock-interview",
-        "placement-preparation",
-        "placements",
-        "resume",
-        "students",
-        "system-design"
-      ],
-      "created_at": "2026-11-06T08:50:47Z",
-      "updated_at": "2026-11-11T05:02:34Z",
-      "pushed_at": "2026-11-06T13:33:39Z"
     },
     {
       "id": 1423658562,
@@ -8152,6 +8125,27 @@
       "pushed_at": "2026-11-04T08:45:11Z"
     },
     {
+      "id": 1447784616,
+      "name": "starwire",
+      "full_name": "boffti/starwire",
+      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
+      "html_url": "https://github.com/boffti/starwire",
+      "homepage": "https://starwire.foo",
+      "stars": 199,
+      "forks": 15,
+      "language": "JavaScript",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "github",
+        "open-source"
+      ],
+      "created_at": "2026-11-06T03:26:21Z",
+      "updated_at": "2026-11-11T12:42:23Z",
+      "pushed_at": "2026-11-11T11:10:29Z"
+    },
+    {
       "id": 1411918476,
       "name": "BorisFX",
       "full_name": "ChunkPoolChain/BorisFX",
@@ -8203,27 +8197,6 @@
       "created_at": "2026-10-17T19:13:58Z",
       "updated_at": "2026-10-18T00:29:07Z",
       "pushed_at": "2026-10-17T19:14:04Z"
-    },
-    {
-      "id": 1447784616,
-      "name": "starwire",
-      "full_name": "boffti/starwire",
-      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
-      "html_url": "https://github.com/boffti/starwire",
-      "homepage": "https://starwire.foo",
-      "stars": 197,
-      "forks": 13,
-      "language": "JavaScript",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "developer-tools",
-        "github",
-        "open-source"
-      ],
-      "created_at": "2026-11-06T03:26:21Z",
-      "updated_at": "2026-11-11T02:00:38Z",
-      "pushed_at": "2026-11-10T19:33:56Z"
     },
     {
       "id": 1444168015,
@@ -8588,6 +8561,84 @@
       "created_at": "2026-10-12T09:01:47Z",
       "updated_at": "2026-10-18T20:20:12Z",
       "pushed_at": "2026-10-16T09:26:34Z"
+    },
+    {
+      "id": 1449614389,
+      "name": "Minecraft-AFK-Bot",
+      "full_name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+      "description": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers.",
+      "html_url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
+      "homepage": null,
+      "stars": 187,
+      "forks": 165,
+      "language": "Python",
+      "topics": [
+        "afk-bot",
+        "afk-farm",
+        "anti-afk",
+        "aternos",
+        "minecraft",
+        "minecraft-bot",
+        "mineflayer",
+        "nodejs",
+        "open-source",
+        "web-dashboard"
+      ],
+      "created_at": "2026-11-07T18:07:44Z",
+      "updated_at": "2026-11-11T13:49:57Z",
+      "pushed_at": "2026-11-07T18:08:10Z"
+    },
+    {
+      "id": 1450650682,
+      "name": "Roblox-Account-Manager-Multi-Account-Tool",
+      "full_name": "ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
+      "description": "Lightweight profile launcher and session organizer for Roblox. Easily manage multiple profiles, launch the game with saved sessions, and organize your playtime. Windows 10/11.",
+      "html_url": "https://github.com/ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
+      "homepage": null,
+      "stars": 187,
+      "forks": 250,
+      "language": "Python",
+      "topics": [
+        "desktop-app",
+        "game-launcher",
+        "gaming-tools",
+        "multi-profile",
+        "open-source",
+        "productivity-tool",
+        "profile-launcher",
+        "roblox",
+        "session-organizer",
+        "windows-utility"
+      ],
+      "created_at": "2026-11-08T20:47:54Z",
+      "updated_at": "2026-11-11T13:49:57Z",
+      "pushed_at": "2026-11-08T20:48:15Z"
+    },
+    {
+      "id": 1449713552,
+      "name": "Steam-Idler",
+      "full_name": "Poltergeistlunagrid/Steam-Idler",
+      "description": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
+      "html_url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
+      "homepage": null,
+      "stars": 187,
+      "forks": 279,
+      "language": "Python",
+      "topics": [
+        "game-idler",
+        "hourboost",
+        "open-source",
+        "playtime-boost",
+        "steam-bot",
+        "steam-card-farmer",
+        "steam-idler",
+        "steam-playtime",
+        "steam-tools",
+        "trading-cards"
+      ],
+      "created_at": "2026-11-07T20:26:32Z",
+      "updated_at": "2026-11-11T13:49:57Z",
+      "pushed_at": "2026-11-07T20:26:51Z"
     },
     {
       "id": 1417980343,
@@ -9214,6 +9265,43 @@
       "pushed_at": "2026-11-04T12:10:06Z"
     },
     {
+      "id": 1448309993,
+      "name": "AstraGram",
+      "full_name": "FoxCoderGit/AstraGram",
+      "description": "Android messaging client with optional media, plugin and release-management tools",
+      "html_url": "https://github.com/FoxCoderGit/AstraGram",
+      "homepage": "https://github.com/FoxCoderGit/AstraGram/releases/latest",
+      "stars": 163,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "android",
+        "astragram",
+        "messaging",
+        "plugins",
+        "telegram",
+        "yt-dlp"
+      ],
+      "created_at": "2026-11-06T13:41:14Z",
+      "updated_at": "2026-11-11T08:28:01Z",
+      "pushed_at": "2026-11-06T15:11:04Z"
+    },
+    {
+      "id": 1452464401,
+      "name": "tinytraffic",
+      "full_name": "egoist/tinytraffic",
+      "description": "self-host web analytics in a single binary",
+      "html_url": "https://github.com/egoist/tinytraffic",
+      "homepage": null,
+      "stars": 163,
+      "forks": 9,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-10T09:39:00Z",
+      "updated_at": "2026-11-11T13:44:40Z",
+      "pushed_at": "2026-11-11T12:44:38Z"
+    },
+    {
       "id": 1391423600,
       "name": "neonplan3d",
       "full_name": "Mastershort/neonplan3d",
@@ -9245,28 +9333,6 @@
       "created_at": "2026-09-27T21:31:26Z",
       "updated_at": "2026-10-03T21:59:13Z",
       "pushed_at": "2026-10-03T17:08:44Z"
-    },
-    {
-      "id": 1448309993,
-      "name": "AstraGram",
-      "full_name": "FoxCoderGit/AstraGram",
-      "description": "Android messaging client with optional media, plugin and release-management tools",
-      "html_url": "https://github.com/FoxCoderGit/AstraGram",
-      "homepage": "https://github.com/FoxCoderGit/AstraGram/releases/latest",
-      "stars": 162,
-      "forks": 0,
-      "language": "Java",
-      "topics": [
-        "android",
-        "astragram",
-        "messaging",
-        "plugins",
-        "telegram",
-        "yt-dlp"
-      ],
-      "created_at": "2026-11-06T13:41:14Z",
-      "updated_at": "2026-11-10T11:15:36Z",
-      "pushed_at": "2026-11-06T15:11:04Z"
     },
     {
       "id": 1433441201,
@@ -9465,21 +9531,6 @@
       "pushed_at": "2026-11-01T11:32:13Z"
     },
     {
-      "id": 1448025260,
-      "name": "wallet-portrait",
-      "full_name": "laodeng2313/wallet-portrait",
-      "description": "Open-source wallet address portrait tool — CLI + demo that profiles on-chain activity, protocol touches, and risk tags",
-      "html_url": "https://github.com/laodeng2313/wallet-portrait",
-      "homepage": null,
-      "stars": 155,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-06T08:41:57Z",
-      "updated_at": "2026-11-10T06:13:18Z",
-      "pushed_at": "2026-11-06T09:19:53Z"
-    },
-    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -9493,6 +9544,21 @@
       "created_at": "2026-09-18T03:36:12Z",
       "updated_at": "2026-09-23T10:48:14Z",
       "pushed_at": "2026-09-23T10:48:10Z"
+    },
+    {
+      "id": 1448025260,
+      "name": "wallet-portrait",
+      "full_name": "laodeng2313/wallet-portrait",
+      "description": "Open-source wallet address portrait tool — CLI + demo that profiles on-chain activity, protocol touches, and risk tags",
+      "html_url": "https://github.com/laodeng2313/wallet-portrait",
+      "homepage": null,
+      "stars": 152,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-06T08:41:57Z",
+      "updated_at": "2026-11-11T09:41:29Z",
+      "pushed_at": "2026-11-06T09:19:53Z"
     },
     {
       "id": 1423657709,
@@ -9580,8 +9646,8 @@
         "activator"
       ],
       "created_at": "2026-11-06T14:25:18Z",
-      "updated_at": "2026-11-07T18:31:12Z",
-      "pushed_at": "2026-11-07T18:31:09Z"
+      "updated_at": "2026-11-11T11:30:05Z",
+      "pushed_at": "2026-11-11T10:30:02Z"
     },
     {
       "id": 1418592001,
@@ -9641,8 +9707,8 @@
         "windows11"
       ],
       "created_at": "2026-11-06T14:13:13Z",
-      "updated_at": "2026-11-11T03:34:05Z",
-      "pushed_at": "2026-11-11T02:34:02Z"
+      "updated_at": "2026-11-11T11:25:38Z",
+      "pushed_at": "2026-11-11T10:25:32Z"
     },
     {
       "id": 1448337222,
@@ -9664,8 +9730,8 @@
         "windows"
       ],
       "created_at": "2026-11-06T14:05:59Z",
-      "updated_at": "2026-11-11T03:26:38Z",
-      "pushed_at": "2026-11-11T02:26:33Z"
+      "updated_at": "2026-11-11T11:04:58Z",
+      "pushed_at": "2026-11-11T10:04:55Z"
     },
     {
       "id": 1448350595,
@@ -9692,8 +9758,8 @@
         "key-generator-activator"
       ],
       "created_at": "2026-11-06T14:18:25Z",
-      "updated_at": "2026-11-11T02:08:10Z",
-      "pushed_at": "2026-11-11T01:08:07Z"
+      "updated_at": "2026-11-11T10:04:11Z",
+      "pushed_at": "2026-11-11T09:04:07Z"
     },
     {
       "id": 1448375659,
@@ -9720,8 +9786,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-06T14:41:39Z",
-      "updated_at": "2026-11-11T03:29:33Z",
-      "pushed_at": "2026-11-11T02:29:30Z"
+      "updated_at": "2026-11-11T11:15:06Z",
+      "pushed_at": "2026-11-11T10:15:03Z"
     },
     {
       "id": 1448377514,
@@ -9752,8 +9818,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-06T14:43:20Z",
-      "updated_at": "2026-11-11T03:34:15Z",
-      "pushed_at": "2026-11-11T02:34:11Z"
+      "updated_at": "2026-11-11T11:25:45Z",
+      "pushed_at": "2026-11-11T10:25:41Z"
     },
     {
       "id": 1448359557,
@@ -9772,8 +9838,28 @@
         "prepar3d"
       ],
       "created_at": "2026-11-06T14:26:35Z",
-      "updated_at": "2026-11-07T15:29:46Z",
-      "pushed_at": "2026-11-07T18:32:07Z"
+      "updated_at": "2026-11-11T11:32:32Z",
+      "pushed_at": "2026-11-11T10:32:27Z"
+    },
+    {
+      "id": 1448372407,
+      "name": "wechat-message-activator",
+      "full_name": "kir-1294309238409/wechat-message-activator",
+      "description": "Community-driven WeChat official account message activator with rich features for Discord and Telegr",
+      "html_url": "https://github.com/kir-1294309238409/wechat-message-activator",
+      "homepage": null,
+      "stars": 149,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "activator",
+        "tool",
+        "typescript",
+        "wechat"
+      ],
+      "created_at": "2026-11-06T14:38:33Z",
+      "updated_at": "2026-11-11T09:29:55Z",
+      "pushed_at": "2026-11-11T08:29:52Z"
     },
     {
       "id": 1431620755,
@@ -10415,21 +10501,6 @@
       "pushed_at": "2026-10-27T12:08:11Z"
     },
     {
-      "id": 1452464401,
-      "name": "tinytraffic",
-      "full_name": "egoist/tinytraffic",
-      "description": "self-host web analytics in a single binary",
-      "html_url": "https://github.com/egoist/tinytraffic",
-      "homepage": null,
-      "stars": 136,
-      "forks": 6,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-10T09:39:00Z",
-      "updated_at": "2026-11-11T04:02:34Z",
-      "pushed_at": "2026-11-10T15:56:21Z"
-    },
-    {
       "id": 1426805854,
       "name": "mw4-texture-streaming-research",
       "full_name": "voidfnc/mw4-texture-streaming-research",
@@ -11048,6 +11119,34 @@
       "pushed_at": "2026-10-06T15:47:31Z"
     },
     {
+      "id": 1449996580,
+      "name": "claude-memory",
+      "full_name": "claudememory/claude-memory",
+      "description": "Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude Code, Claude Desktop and the Claude API. Setup, pros and cons, and which to pick for remembering context across sessions.",
+      "html_url": "https://github.com/claudememory/claude-memory",
+      "homepage": "https://tryglen.com",
+      "stars": 124,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-desktop",
+        "claude-memory",
+        "llm-memory",
+        "long-term-memory",
+        "mcp",
+        "mcp-server",
+        "persistent-memory"
+      ],
+      "created_at": "2026-11-08T05:18:13Z",
+      "updated_at": "2026-11-11T13:49:59Z",
+      "pushed_at": "2026-11-08T05:22:11Z"
+    },
+    {
       "id": 1403848767,
       "name": "Porpoise-Dolphin-Emulator-for-PS5",
       "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
@@ -11223,6 +11322,30 @@
       "pushed_at": "2026-10-27T18:25:43Z"
     },
     {
+      "id": 1447133213,
+      "name": "playDB-CNT",
+      "full_name": "sikoGD/playDB-CNT",
+      "description": "Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.",
+      "html_url": "https://github.com/sikoGD/playDB-CNT",
+      "homepage": "https://buymeacoffee.com/rickjrbfl",
+      "stars": 121,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "eglantine",
+        "eglantine-emulator",
+        "eglantine-switch-2",
+        "eglantine-switch-emulator",
+        "emulator",
+        "emulator-frontend",
+        "emulator-launcher",
+        "network"
+      ],
+      "created_at": "2026-11-05T14:54:02Z",
+      "updated_at": "2026-11-11T13:25:58Z",
+      "pushed_at": "2026-11-07T02:23:58Z"
+    },
+    {
       "id": 1417978332,
       "name": "hwid-spoofer-toolkit",
       "full_name": "GladiatorSplit/hwid-spoofer-toolkit",
@@ -11376,30 +11499,6 @@
       "created_at": "2026-10-25T20:12:43Z",
       "updated_at": "2026-10-30T22:14:24Z",
       "pushed_at": "2026-10-27T19:57:14Z"
-    },
-    {
-      "id": 1447133213,
-      "name": "playDB-CNT",
-      "full_name": "sikoGD/playDB-CNT",
-      "description": "Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.",
-      "html_url": "https://github.com/sikoGD/playDB-CNT",
-      "homepage": "https://buymeacoffee.com/rickjrbfl",
-      "stars": 119,
-      "forks": 7,
-      "language": "Python",
-      "topics": [
-        "eglantine",
-        "eglantine-emulator",
-        "eglantine-switch-2",
-        "eglantine-switch-emulator",
-        "emulator",
-        "emulator-frontend",
-        "emulator-launcher",
-        "network"
-      ],
-      "created_at": "2026-11-05T14:54:02Z",
-      "updated_at": "2026-11-11T04:42:32Z",
-      "pushed_at": "2026-11-07T02:23:58Z"
     },
     {
       "id": 1427856225,
@@ -12468,32 +12567,6 @@
       "pushed_at": "2026-10-19T12:38:51Z"
     },
     {
-      "id": 1449713552,
-      "name": "Steam-Idler",
-      "full_name": "Poltergeistlunagrid/Steam-Idler",
-      "description": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
-      "html_url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
-      "homepage": null,
-      "stars": 104,
-      "forks": 88,
-      "language": "Python",
-      "topics": [
-        "game-idler",
-        "hourboost",
-        "open-source",
-        "playtime-boost",
-        "steam-bot",
-        "steam-card-farmer",
-        "steam-idler",
-        "steam-playtime",
-        "steam-tools",
-        "trading-cards"
-      ],
-      "created_at": "2026-11-07T20:26:32Z",
-      "updated_at": "2026-11-08T14:20:51Z",
-      "pushed_at": "2026-11-07T20:26:51Z"
-    },
-    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -12638,6 +12711,32 @@
       "created_at": "2026-11-02T14:34:20Z",
       "updated_at": "2026-11-07T15:38:43Z",
       "pushed_at": "2026-11-06T18:09:41Z"
+    },
+    {
+      "id": 1447950032,
+      "name": "RuiC-2D",
+      "full_name": "HRuiCcc/RuiC-2D",
+      "description": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
+      "html_url": "https://github.com/HRuiCcc/RuiC-2D",
+      "homepage": "https://hruiccc.github.io/RuiC-2D/demo/",
+      "stars": 104,
+      "forks": 17,
+      "language": "Python",
+      "topics": [
+        "2d",
+        "animation",
+        "avatar",
+        "live2d",
+        "mediapipe",
+        "nodejs",
+        "obs",
+        "python",
+        "virtual-youtuber",
+        "vtuber"
+      ],
+      "created_at": "2026-11-06T07:14:58Z",
+      "updated_at": "2026-11-11T08:33:12Z",
+      "pushed_at": "2026-11-09T07:46:56Z"
     },
     {
       "id": 1390845863,
@@ -12786,32 +12885,6 @@
       "created_at": "2026-11-03T11:01:17Z",
       "updated_at": "2026-11-03T11:48:16Z",
       "pushed_at": "2026-11-03T11:01:22Z"
-    },
-    {
-      "id": 1447950032,
-      "name": "RuiC-2D",
-      "full_name": "HRuiCcc/RuiC-2D",
-      "description": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
-      "html_url": "https://github.com/HRuiCcc/RuiC-2D",
-      "homepage": "https://hruiccc.github.io/RuiC-2D/demo/",
-      "stars": 102,
-      "forks": 16,
-      "language": "Python",
-      "topics": [
-        "2d",
-        "animation",
-        "avatar",
-        "live2d",
-        "mediapipe",
-        "nodejs",
-        "obs",
-        "python",
-        "virtual-youtuber",
-        "vtuber"
-      ],
-      "created_at": "2026-11-06T07:14:58Z",
-      "updated_at": "2026-11-11T02:56:02Z",
-      "pushed_at": "2026-11-09T07:46:56Z"
     },
     {
       "id": 1385781283,
@@ -13497,30 +13570,6 @@
       "created_at": "2026-11-05T09:10:30Z",
       "updated_at": "2026-11-06T08:44:43Z",
       "pushed_at": "2026-11-05T09:10:38Z"
-    },
-    {
-      "id": 1447225443,
-      "name": "Token-Sniper",
-      "full_name": "Nebularotunnel/Token-Sniper",
-      "description": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
-      "html_url": "https://github.com/Nebularotunnel/Token-Sniper",
-      "homepage": null,
-      "stars": 99,
-      "forks": 66,
-      "language": "Python",
-      "topics": [
-        "2026",
-        "analyzer",
-        "crypto",
-        "desktop-app",
-        "dex",
-        "liquidity",
-        "rugpull-detection",
-        "scam-filter"
-      ],
-      "created_at": "2026-11-05T16:15:17Z",
-      "updated_at": "2026-11-08T14:17:46Z",
-      "pushed_at": "2026-11-05T16:15:43Z"
     },
     {
       "id": 1438082267,
@@ -14676,6 +14725,21 @@
       "pushed_at": "2026-11-07T01:02:45Z"
     },
     {
+      "id": 1451370228,
+      "name": "IDEmu",
+      "full_name": "herrbimmer/IDEmu",
+      "description": "BMW iDrive 4/5/6/7/8 head-unit emulator for macOS (QEMU, web UI, CAN/GPS, coding editor). PolyForm Noncommercial 1.0.0",
+      "html_url": "https://github.com/herrbimmer/IDEmu",
+      "homepage": null,
+      "stars": 85,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-09T12:57:44Z",
+      "updated_at": "2026-11-11T10:44:41Z",
+      "pushed_at": "2026-11-10T23:25:21Z"
+    },
+    {
       "id": 1434014577,
       "name": "Albion-Accountant-Client-resp",
       "full_name": "LUSchin/Albion-Accountant-Client-resp",
@@ -15047,21 +15111,6 @@
       "pushed_at": "2026-10-23T07:05:56Z"
     },
     {
-      "id": 1451370228,
-      "name": "IDEmu",
-      "full_name": "herrbimmer/IDEmu",
-      "description": "BMW iDrive 4/5/6/7/8 head-unit emulator for macOS (QEMU, web UI, CAN/GPS, coding editor). PolyForm Noncommercial 1.0.0",
-      "html_url": "https://github.com/herrbimmer/IDEmu",
-      "homepage": null,
-      "stars": 83,
-      "forks": 9,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-11-09T12:57:44Z",
-      "updated_at": "2026-11-11T00:25:27Z",
-      "pushed_at": "2026-11-10T23:25:21Z"
-    },
-    {
       "id": 1438683779,
       "name": "windows-activation-suite",
       "full_name": "hariiieee/windows-activation-suite",
@@ -15378,6 +15427,21 @@
       "pushed_at": "2026-10-03T15:46:40Z"
     },
     {
+      "id": 1446745220,
+      "name": "Orbrisa",
+      "full_name": "fdm96/Orbrisa",
+      "description": "The web on the big screen. A full web browser for Apple TV – tabs, a real cursor and videos in the native Apple TV player.",
+      "html_url": "https://github.com/fdm96/Orbrisa",
+      "homepage": null,
+      "stars": 76,
+      "forks": 4,
+      "language": "Objective-C",
+      "topics": [],
+      "created_at": "2026-11-05T08:39:00Z",
+      "updated_at": "2026-11-11T06:36:40Z",
+      "pushed_at": "2026-11-06T10:29:00Z"
+    },
+    {
       "id": 1410576760,
       "name": "GenIA",
       "full_name": "facebookresearch/GenIA",
@@ -15412,21 +15476,6 @@
       "created_at": "2026-10-14T22:51:52Z",
       "updated_at": "2026-10-17T08:45:15Z",
       "pushed_at": "2026-10-15T12:28:02Z"
-    },
-    {
-      "id": 1446745220,
-      "name": "Orbrisa",
-      "full_name": "fdm96/Orbrisa",
-      "description": "The web on the big screen. A full web browser for Apple TV – tabs, a real cursor and videos in the native Apple TV player.",
-      "html_url": "https://github.com/fdm96/Orbrisa",
-      "homepage": null,
-      "stars": 75,
-      "forks": 4,
-      "language": "Objective-C",
-      "topics": [],
-      "created_at": "2026-11-05T08:39:00Z",
-      "updated_at": "2026-11-11T04:02:24Z",
-      "pushed_at": "2026-11-06T10:29:00Z"
     },
     {
       "id": 1398599398,
@@ -15901,6 +15950,42 @@
       "pushed_at": "2026-10-10T18:50:39Z"
     },
     {
+      "id": 1450464080,
+      "name": "Spotifeur",
+      "full_name": "jean-voila/Spotifeur",
+      "description": "Open-source music player for Android for Spotify, YouTube Music and local files, music only: no podcasts, videos or Canvas. Uses Spotify's own Android protocols, documented in protocol/.",
+      "html_url": "https://github.com/jean-voila/Spotifeur",
+      "homepage": "https://jean-voila.github.io/Spotifeur/",
+      "stars": 70,
+      "forks": 1,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-music-player",
+        "gpl3",
+        "jetpack-compose",
+        "kotlin",
+        "login5",
+        "material-you",
+        "material3",
+        "media3",
+        "music",
+        "music-player",
+        "no-podcasts",
+        "offline-music",
+        "open-source",
+        "protocol-documentation",
+        "reverse-engineering",
+        "spotify",
+        "spotify-alternative",
+        "spotify-client"
+      ],
+      "created_at": "2026-11-08T16:39:57Z",
+      "updated_at": "2026-11-11T13:14:13Z",
+      "pushed_at": "2026-11-11T01:14:47Z"
+    },
+    {
       "id": 1438583991,
       "name": "win-activation-toolkit",
       "full_name": "memoXX19/win-activation-toolkit",
@@ -15993,6 +16078,30 @@
       "created_at": "2026-10-14T06:20:15Z",
       "updated_at": "2026-10-20T05:53:47Z",
       "pushed_at": "2026-10-15T07:38:02Z"
+    },
+    {
+      "id": 1447225443,
+      "name": "Token-Sniper",
+      "full_name": "Nebularotunnel/Token-Sniper",
+      "description": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
+      "html_url": "https://github.com/Nebularotunnel/Token-Sniper",
+      "homepage": null,
+      "stars": 68,
+      "forks": 66,
+      "language": "Python",
+      "topics": [
+        "2026",
+        "analyzer",
+        "crypto",
+        "desktop-app",
+        "dex",
+        "liquidity",
+        "rugpull-detection",
+        "scam-filter"
+      ],
+      "created_at": "2026-11-05T16:15:17Z",
+      "updated_at": "2026-11-11T13:43:06Z",
+      "pushed_at": "2026-11-05T16:15:43Z"
     },
     {
       "id": 1438680912,
@@ -16340,42 +16449,6 @@
       "created_at": "2026-10-19T09:45:36Z",
       "updated_at": "2026-10-25T23:12:34Z",
       "pushed_at": "2026-10-25T17:38:10Z"
-    },
-    {
-      "id": 1450464080,
-      "name": "Spotifeur",
-      "full_name": "jean-voila/Spotifeur",
-      "description": "Open-source music player for Android for Spotify, YouTube Music and local files, music only: no podcasts, videos or Canvas. Uses Spotify's own Android protocols, documented in protocol/.",
-      "html_url": "https://github.com/jean-voila/Spotifeur",
-      "homepage": "https://jean-voila.github.io/Spotifeur/",
-      "stars": 67,
-      "forks": 1,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-app",
-        "android-music-player",
-        "gpl3",
-        "jetpack-compose",
-        "kotlin",
-        "login5",
-        "material-you",
-        "material3",
-        "media3",
-        "music",
-        "music-player",
-        "no-podcasts",
-        "offline-music",
-        "open-source",
-        "protocol-documentation",
-        "reverse-engineering",
-        "spotify",
-        "spotify-alternative",
-        "spotify-client"
-      ],
-      "created_at": "2026-11-08T16:39:57Z",
-      "updated_at": "2026-11-11T03:09:55Z",
-      "pushed_at": "2026-11-11T01:14:47Z"
     },
     {
       "id": 1411919172,
@@ -19430,6 +19503,21 @@
       "pushed_at": "2026-11-02T14:41:29Z"
     },
     {
+      "id": 1451032049,
+      "name": "sts2ai",
+      "full_name": "HalfVulpes/sts2ai",
+      "description": "Zero-search RL policies for Slay the Spire 2 with failure-driven restarts: code, frozen protocols, trained policies and evaluation records. Topics: reinforcement-learning, slay-the-spire, ppo, game-ai, curriculum-learning, card-games.",
+      "html_url": "https://github.com/HalfVulpes/sts2ai",
+      "homepage": null,
+      "stars": 43,
+      "forks": 0,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-11-09T06:54:13Z",
+      "updated_at": "2026-11-11T09:51:59Z",
+      "pushed_at": "2026-11-10T12:13:50Z"
+    },
+    {
       "id": 1382441164,
       "name": "talking-head-reel",
       "full_name": "mariagorskikh/talking-head-reel",
@@ -19711,21 +19799,6 @@
       "created_at": "2026-10-17T17:30:55Z",
       "updated_at": "2026-10-22T02:18:36Z",
       "pushed_at": "2026-10-22T02:18:35Z"
-    },
-    {
-      "id": 1451032049,
-      "name": "sts2ai",
-      "full_name": "HalfVulpes/sts2ai",
-      "description": "Zero-search RL policies for Slay the Spire 2 with failure-driven restarts: code, frozen protocols, trained policies and evaluation records. Topics: reinforcement-learning, slay-the-spire, ppo, game-ai, curriculum-learning, card-games.",
-      "html_url": "https://github.com/HalfVulpes/sts2ai",
-      "homepage": null,
-      "stars": 41,
-      "forks": 0,
-      "language": "C#",
-      "topics": [],
-      "created_at": "2026-11-09T06:54:13Z",
-      "updated_at": "2026-11-10T15:28:25Z",
-      "pushed_at": "2026-11-10T12:13:50Z"
     },
     {
       "id": 1378383465,
@@ -21570,6 +21643,28 @@
       "pushed_at": "2026-11-03T13:13:53Z"
     },
     {
+      "id": 1451146401,
+      "name": "USDT-Apple-Pay-Google-Pay",
+      "full_name": "murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
+      "description": "CoreGold Virtual Card: Pay Globally with USDT, Apple Pay & Google Pay",
+      "html_url": "https://github.com/murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
+      "homepage": "https://app.coregold.io/signup?invite_code=SA_KKZ8",
+      "stars": 27,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "apple-pay",
+        "google-pay",
+        "usdt-checkout",
+        "virtual-card",
+        "virtual-card-code",
+        "virtual-cards"
+      ],
+      "created_at": "2026-11-09T09:06:27Z",
+      "updated_at": "2026-11-11T11:30:27Z",
+      "pushed_at": "2026-11-09T09:10:02Z"
+    },
+    {
       "id": 1437331584,
       "name": "JennyModMinecraft-rpocket-team",
       "full_name": "Quartzirace23178/JennyModMinecraft-rpocket-team",
@@ -22173,6 +22268,34 @@
       "pushed_at": "2026-11-01T18:00:34Z"
     },
     {
+      "id": 1448343327,
+      "name": "vietqr-service",
+      "full_name": "ptn1411/vietqr-service",
+      "description": "⚡ High-performance Rust microservice & Web Studio for VietQR (NAPAS 24/7), Standee generator, and banking deeplinks (33+ apps) with ultra-light PNG (~1.9KB).",
+      "html_url": "https://github.com/ptn1411/vietqr-service",
+      "homepage": null,
+      "stars": 23,
+      "forks": 11,
+      "language": "Rust",
+      "topics": [
+        "axum",
+        "banking-api",
+        "deeplink",
+        "emvco",
+        "microservice",
+        "napas247",
+        "payment-gateway",
+        "qr-code-generator",
+        "rust",
+        "sepay",
+        "vietnam-fintech",
+        "vietqr"
+      ],
+      "created_at": "2026-11-06T14:11:34Z",
+      "updated_at": "2026-11-11T11:23:04Z",
+      "pushed_at": "2026-11-08T04:19:58Z"
+    },
+    {
       "id": 1413789740,
       "name": "TacHen",
       "full_name": "GronedWaffel/TacHen",
@@ -22289,34 +22412,6 @@
       "created_at": "2026-10-18T11:18:57Z",
       "updated_at": "2026-10-23T16:01:24Z",
       "pushed_at": "2026-10-18T11:19:57Z"
-    },
-    {
-      "id": 1448343327,
-      "name": "vietqr-service",
-      "full_name": "ptn1411/vietqr-service",
-      "description": "⚡ High-performance Rust microservice & Web Studio for VietQR (NAPAS 24/7), Standee generator, and banking deeplinks (33+ apps) with ultra-light PNG (~1.9KB).",
-      "html_url": "https://github.com/ptn1411/vietqr-service",
-      "homepage": null,
-      "stars": 22,
-      "forks": 11,
-      "language": "Rust",
-      "topics": [
-        "axum",
-        "banking-api",
-        "deeplink",
-        "emvco",
-        "microservice",
-        "napas247",
-        "payment-gateway",
-        "qr-code-generator",
-        "rust",
-        "sepay",
-        "vietnam-fintech",
-        "vietqr"
-      ],
-      "created_at": "2026-11-06T14:11:34Z",
-      "updated_at": "2026-11-11T02:26:40Z",
-      "pushed_at": "2026-11-08T04:19:58Z"
     },
     {
       "id": 1394505594,
@@ -23691,6 +23786,25 @@
       "pushed_at": "2026-10-31T14:06:25Z"
     },
     {
+      "id": 1449552687,
+      "name": "fazzlauncher",
+      "full_name": "fazrilamin/fazzlauncher",
+      "description": "Fazz Launcher: a free custom home screen for Android car head units (tested on Topway T9 / T527). Futuristic drive cluster with simulated RPM, ECO/SPORT feedback, G-meter and trip; JAKIM prayer times; media card. No-root ADB guide included.",
+      "html_url": "https://github.com/fazrilamin/fazzlauncher",
+      "homepage": null,
+      "stars": 15,
+      "forks": 1,
+      "language": "Java",
+      "topics": [
+        "android",
+        "car-launcher",
+        "head-unit"
+      ],
+      "created_at": "2026-11-07T16:51:04Z",
+      "updated_at": "2026-11-11T13:29:24Z",
+      "pushed_at": "2026-11-07T17:04:52Z"
+    },
+    {
       "id": 1379723846,
       "name": "taplio-dev.github.io",
       "full_name": "taplio-dev/taplio-dev.github.io",
@@ -23904,47 +24018,6 @@
       "created_at": "2026-10-27T13:59:37Z",
       "updated_at": "2026-10-31T23:08:25Z",
       "pushed_at": "2026-10-27T14:09:09Z"
-    },
-    {
-      "id": 1451146401,
-      "name": "USDT-Apple-Pay-Google-Pay",
-      "full_name": "murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
-      "description": "CoreGold Virtual Card: Pay Globally with USDT, Apple Pay & Google Pay",
-      "html_url": "https://github.com/murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
-      "homepage": "https://app.coregold.io/signup?invite_code=SA_KKZ8",
-      "stars": 14,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "apple-pay",
-        "google-pay",
-        "usdt-checkout",
-        "virtual-card",
-        "virtual-card-code",
-        "virtual-cards"
-      ],
-      "created_at": "2026-11-09T09:06:27Z",
-      "updated_at": "2026-11-10T10:23:52Z",
-      "pushed_at": "2026-11-09T09:10:02Z"
-    },
-    {
-      "id": 1449552687,
-      "name": "fazzlauncher",
-      "full_name": "fazrilamin/fazzlauncher",
-      "description": "Fazz Launcher: a free custom home screen for Android car head units (tested on Topway T9 / T527). Futuristic drive cluster with simulated RPM, ECO/SPORT feedback, G-meter and trip; JAKIM prayer times; media card. No-root ADB guide included.",
-      "html_url": "https://github.com/fazrilamin/fazzlauncher",
-      "homepage": null,
-      "stars": 14,
-      "forks": 1,
-      "language": "Java",
-      "topics": [
-        "android",
-        "car-launcher",
-        "head-unit"
-      ],
-      "created_at": "2026-11-07T16:51:04Z",
-      "updated_at": "2026-11-11T04:37:01Z",
-      "pushed_at": "2026-11-07T17:04:52Z"
     },
     {
       "id": 1379722239,
