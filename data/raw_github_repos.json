@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/12 20:22:47",
-  "total_repos": 1072,
+  "fetched_at": "2026/11/13 05:22:28",
+  "total_repos": 1073,
   "repos": [
     {
       "id": 1425658028,
@@ -159,6 +159,31 @@
       "created_at": "2026-10-13T19:35:48Z",
       "updated_at": "2026-10-19T14:30:49Z",
       "pushed_at": "2026-10-18T05:37:22Z"
+    },
+    {
+      "id": 1451775929,
+      "name": "lot-map",
+      "full_name": "alexeyw/lot-map",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "html_url": "https://github.com/alexeyw/lot-map",
+      "homepage": null,
+      "stars": 588,
+      "forks": 70,
+      "language": "TypeScript",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "developer-tools",
+        "svg-animation",
+        "typescript",
+        "visualization"
+      ],
+      "created_at": "2026-11-09T19:13:52Z",
+      "updated_at": "2026-11-12T21:17:24Z",
+      "pushed_at": "2026-11-12T19:37:13Z"
     },
     {
       "id": 1444561183,
@@ -812,31 +837,6 @@
       "created_at": "2026-10-30T23:54:20Z",
       "updated_at": "2026-11-05T20:28:09Z",
       "pushed_at": "2026-10-31T01:34:42Z"
-    },
-    {
-      "id": 1451775929,
-      "name": "lot-map",
-      "full_name": "alexeyw/lot-map",
-      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
-      "html_url": "https://github.com/alexeyw/lot-map",
-      "homepage": null,
-      "stars": 497,
-      "forks": 56,
-      "language": "TypeScript",
-      "topics": [
-        "agent-observability",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "developer-tools",
-        "svg-animation",
-        "typescript",
-        "visualization"
-      ],
-      "created_at": "2026-11-09T19:13:52Z",
-      "updated_at": "2026-11-12T12:19:15Z",
-      "pushed_at": "2026-11-12T03:33:11Z"
     },
     {
       "id": 1443613311,
@@ -1882,6 +1882,36 @@
       "pushed_at": "2026-10-28T11:35:35Z"
     },
     {
+      "id": 1451662178,
+      "name": "ste80-humanizer",
+      "full_name": "Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "html_url": "https://github.com/Dodaios/ste80-humanizer",
+      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
+      "stars": 454,
+      "forks": 29,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-12T21:12:12Z",
+      "pushed_at": "2026-11-10T08:52:47Z"
+    },
+    {
       "id": 1437812726,
       "name": "shisei",
       "full_name": "wquguru/shisei",
@@ -1960,36 +1990,6 @@
       "created_at": "2026-11-02T10:31:12Z",
       "updated_at": "2026-11-08T23:16:58Z",
       "pushed_at": "2026-11-08T11:43:14Z"
-    },
-    {
-      "id": 1451662178,
-      "name": "ste80-humanizer",
-      "full_name": "Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "html_url": "https://github.com/Dodaios/ste80-humanizer",
-      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
-      "stars": 434,
-      "forks": 26,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
-        "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
-      ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-12T11:37:38Z",
-      "pushed_at": "2026-11-10T08:52:47Z"
     },
     {
       "id": 1416828644,
@@ -2113,6 +2113,29 @@
       "pushed_at": "2026-11-08T05:23:03Z"
     },
     {
+      "id": 1448640918,
+      "name": "sandbox-mcp",
+      "full_name": "shanselman/sandbox-mcp",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "html_url": "https://github.com/shanselman/sandbox-mcp",
+      "homepage": "https://shanselman.github.io/sandbox-mcp/",
+      "stars": 421,
+      "forks": 20,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "mcp",
+        "mcp-server",
+        "testing",
+        "ui-automation",
+        "windows",
+        "windows-sandbox"
+      ],
+      "created_at": "2026-11-06T19:02:14Z",
+      "updated_at": "2026-11-12T19:12:07Z",
+      "pushed_at": "2026-11-12T07:54:12Z"
+    },
+    {
       "id": 1441332955,
       "name": "asm",
       "full_name": "stubbi/asm",
@@ -2133,29 +2156,6 @@
       "created_at": "2026-10-31T23:22:41Z",
       "updated_at": "2026-11-06T18:54:51Z",
       "pushed_at": "2026-11-06T12:28:18Z"
-    },
-    {
-      "id": 1448640918,
-      "name": "sandbox-mcp",
-      "full_name": "shanselman/sandbox-mcp",
-      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "html_url": "https://github.com/shanselman/sandbox-mcp",
-      "homepage": "https://shanselman.github.io/sandbox-mcp/",
-      "stars": 416,
-      "forks": 20,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "mcp",
-        "mcp-server",
-        "testing",
-        "ui-automation",
-        "windows",
-        "windows-sandbox"
-      ],
-      "created_at": "2026-11-06T19:02:14Z",
-      "updated_at": "2026-11-12T11:17:40Z",
-      "pushed_at": "2026-11-12T07:54:12Z"
     },
     {
       "id": 1397016507,
@@ -3261,7 +3261,7 @@
       ],
       "created_at": "2026-11-06T21:21:48Z",
       "updated_at": "2026-11-12T11:01:19Z",
-      "pushed_at": "2026-11-12T09:39:38Z"
+      "pushed_at": "2026-11-12T20:04:29Z"
     },
     {
       "id": 1448743148,
@@ -3293,8 +3293,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T20:59:29Z",
-      "updated_at": "2026-11-12T11:01:07Z",
-      "pushed_at": "2026-11-12T12:10:45Z"
+      "updated_at": "2026-11-12T13:10:49Z",
+      "pushed_at": "2026-11-12T20:39:02Z"
     },
     {
       "id": 1448763902,
@@ -3326,8 +3326,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:25:39Z",
-      "updated_at": "2026-11-12T11:00:52Z",
-      "pushed_at": "2026-11-12T07:01:15Z"
+      "updated_at": "2026-11-12T14:21:03Z",
+      "pushed_at": "2026-11-12T21:10:26Z"
     },
     {
       "id": 1448729753,
@@ -3363,7 +3363,7 @@
       ],
       "created_at": "2026-11-06T20:43:18Z",
       "updated_at": "2026-11-12T11:00:59Z",
-      "pushed_at": "2026-11-12T08:06:03Z"
+      "pushed_at": "2026-11-12T20:03:55Z"
     },
     {
       "id": 1448757344,
@@ -3385,7 +3385,7 @@
       ],
       "created_at": "2026-11-06T21:17:19Z",
       "updated_at": "2026-11-12T11:01:16Z",
-      "pushed_at": "2026-11-12T07:00:54Z"
+      "pushed_at": "2026-11-12T20:04:25Z"
     },
     {
       "id": 1406514405,
@@ -5196,7 +5196,7 @@
       "description": "Nintendo Switch emulator with built-in upscalers, a mod & patch manager, a guided first-run wizard and online play via a unified room server with LDN compatibility.",
       "html_url": "https://github.com/Manaclenodisconnect/Lichii-Enhanced",
       "homepage": null,
-      "stars": 276,
+      "stars": 277,
       "forks": 68,
       "language": null,
       "topics": [
@@ -5216,8 +5216,44 @@
         "windows"
       ],
       "created_at": "2026-11-08T20:05:57Z",
-      "updated_at": "2026-11-10T06:37:42Z",
+      "updated_at": "2026-11-12T20:19:21Z",
       "pushed_at": "2026-11-08T20:34:47Z"
+    },
+    {
+      "id": 1448033453,
+      "name": "cracked",
+      "full_name": "nishant-Tiwari24/cracked",
+      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
+      "html_url": "https://github.com/nishant-Tiwari24/cracked",
+      "homepage": "https://cracked-skills.vercel.app",
+      "stars": 273,
+      "forks": 40,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ats",
+        "career",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "coding-interview",
+        "cursor",
+        "dsa",
+        "faang",
+        "interview-prep",
+        "interview-preparation",
+        "leetcode",
+        "mock-interview",
+        "placement-preparation",
+        "placements",
+        "resume",
+        "students",
+        "system-design"
+      ],
+      "created_at": "2026-11-06T08:50:47Z",
+      "updated_at": "2026-11-12T19:16:54Z",
+      "pushed_at": "2026-11-06T13:33:39Z"
     },
     {
       "id": 1425227613,
@@ -5298,42 +5334,6 @@
       "created_at": "2026-11-04T18:58:02Z",
       "updated_at": "2026-11-10T21:48:45Z",
       "pushed_at": "2026-11-06T02:54:36Z"
-    },
-    {
-      "id": 1448033453,
-      "name": "cracked",
-      "full_name": "nishant-Tiwari24/cracked",
-      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
-      "html_url": "https://github.com/nishant-Tiwari24/cracked",
-      "homepage": "https://cracked-skills.vercel.app",
-      "stars": 264,
-      "forks": 39,
-      "language": "TypeScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ats",
-        "career",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "coding-interview",
-        "cursor",
-        "dsa",
-        "faang",
-        "interview-prep",
-        "interview-preparation",
-        "leetcode",
-        "mock-interview",
-        "placement-preparation",
-        "placements",
-        "resume",
-        "students",
-        "system-design"
-      ],
-      "created_at": "2026-11-06T08:50:47Z",
-      "updated_at": "2026-11-12T12:07:11Z",
-      "pushed_at": "2026-11-06T13:33:39Z"
     },
     {
       "id": 1390994799,
@@ -6437,6 +6437,27 @@
       "pushed_at": "2026-09-27T18:48:24Z"
     },
     {
+      "id": 1447784616,
+      "name": "starwire",
+      "full_name": "boffti/starwire",
+      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
+      "html_url": "https://github.com/boffti/starwire",
+      "homepage": "https://starwire.foo",
+      "stars": 214,
+      "forks": 15,
+      "language": "JavaScript",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "github",
+        "open-source"
+      ],
+      "created_at": "2026-11-06T03:26:21Z",
+      "updated_at": "2026-11-12T18:31:02Z",
+      "pushed_at": "2026-11-12T19:21:17Z"
+    },
+    {
       "id": 1448545486,
       "name": "flash-crypto-generator",
       "full_name": "highlionterminal/flash-crypto-generator",
@@ -6485,6 +6506,21 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
+    },
+    {
+      "id": 1452464401,
+      "name": "tinytraffic",
+      "full_name": "egoist/tinytraffic",
+      "description": "self-host web analytics in a single binary",
+      "html_url": "https://github.com/egoist/tinytraffic",
+      "homepage": null,
+      "stars": 212,
+      "forks": 10,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-11-10T09:39:00Z",
+      "updated_at": "2026-11-12T17:43:22Z",
+      "pushed_at": "2026-11-12T12:08:25Z"
     },
     {
       "id": 1423658114,
@@ -6734,27 +6770,6 @@
       "pushed_at": "2026-10-09T08:08:45Z"
     },
     {
-      "id": 1447784616,
-      "name": "starwire",
-      "full_name": "boffti/starwire",
-      "description": "Open source repos worth a look, gathered from across the web and refreshed every two days",
-      "html_url": "https://github.com/boffti/starwire",
-      "homepage": "https://starwire.foo",
-      "stars": 208,
-      "forks": 15,
-      "language": "JavaScript",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "developer-tools",
-        "github",
-        "open-source"
-      ],
-      "created_at": "2026-11-06T03:26:21Z",
-      "updated_at": "2026-11-12T12:19:08Z",
-      "pushed_at": "2026-11-12T11:19:03Z"
-    },
-    {
       "id": 1415436686,
       "name": "ssbu-recomp",
       "full_name": "Denkishi/ssbu-recomp",
@@ -6783,21 +6798,6 @@
       "created_at": "2026-11-03T17:36:59Z",
       "updated_at": "2026-11-09T14:28:32Z",
       "pushed_at": "2026-11-07T14:41:46Z"
-    },
-    {
-      "id": 1452464401,
-      "name": "tinytraffic",
-      "full_name": "egoist/tinytraffic",
-      "description": "self-host web analytics in a single binary",
-      "html_url": "https://github.com/egoist/tinytraffic",
-      "homepage": null,
-      "stars": 207,
-      "forks": 10,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-11-10T09:39:00Z",
-      "updated_at": "2026-11-12T11:50:17Z",
-      "pushed_at": "2026-11-12T12:08:25Z"
     },
     {
       "id": 1440615468,
@@ -9631,7 +9631,7 @@
       ],
       "created_at": "2026-11-06T14:25:18Z",
       "updated_at": "2026-11-12T10:29:13Z",
-      "pushed_at": "2026-11-12T09:29:10Z"
+      "pushed_at": "2026-11-12T20:03:18Z"
     },
     {
       "id": 1448375659,
@@ -9659,7 +9659,7 @@
       ],
       "created_at": "2026-11-06T14:41:39Z",
       "updated_at": "2026-11-12T10:13:14Z",
-      "pushed_at": "2026-11-12T09:13:10Z"
+      "pushed_at": "2026-11-12T20:03:42Z"
     },
     {
       "id": 1448372956,
@@ -9687,7 +9687,7 @@
       ],
       "created_at": "2026-11-06T14:39:07Z",
       "updated_at": "2026-11-12T10:26:00Z",
-      "pushed_at": "2026-11-12T09:25:56Z"
+      "pushed_at": "2026-11-12T20:03:36Z"
     },
     {
       "id": 1448358429,
@@ -9714,7 +9714,7 @@
       ],
       "created_at": "2026-11-06T14:25:34Z",
       "updated_at": "2026-11-12T11:00:25Z",
-      "pushed_at": "2026-11-12T06:59:04Z"
+      "pushed_at": "2026-11-12T20:03:18Z"
     },
     {
       "id": 1418592001,
@@ -9775,7 +9775,7 @@
       ],
       "created_at": "2026-11-06T14:13:13Z",
       "updated_at": "2026-11-12T10:22:32Z",
-      "pushed_at": "2026-11-12T09:22:28Z"
+      "pushed_at": "2026-11-12T20:03:03Z"
     },
     {
       "id": 1448337222,
@@ -9798,7 +9798,7 @@
       ],
       "created_at": "2026-11-06T14:05:59Z",
       "updated_at": "2026-11-12T10:00:03Z",
-      "pushed_at": "2026-11-12T08:59:59Z"
+      "pushed_at": "2026-11-12T20:02:52Z"
     },
     {
       "id": 1448350595,
@@ -9826,7 +9826,7 @@
       ],
       "created_at": "2026-11-06T14:18:25Z",
       "updated_at": "2026-11-12T09:05:03Z",
-      "pushed_at": "2026-11-12T08:05:00Z"
+      "pushed_at": "2026-11-12T20:03:07Z"
     },
     {
       "id": 1448377514,
@@ -9858,7 +9858,7 @@
       ],
       "created_at": "2026-11-06T14:43:20Z",
       "updated_at": "2026-11-12T10:22:57Z",
-      "pushed_at": "2026-11-12T09:22:53Z"
+      "pushed_at": "2026-11-12T20:03:46Z"
     },
     {
       "id": 1448359557,
@@ -9878,7 +9878,7 @@
       ],
       "created_at": "2026-11-06T14:26:35Z",
       "updated_at": "2026-11-12T10:30:21Z",
-      "pushed_at": "2026-11-12T09:30:17Z"
+      "pushed_at": "2026-11-12T20:03:30Z"
     },
     {
       "id": 1448372407,
@@ -9897,8 +9897,8 @@
         "wechat"
       ],
       "created_at": "2026-11-06T14:38:33Z",
-      "updated_at": "2026-11-12T07:59:36Z",
-      "pushed_at": "2026-11-12T06:59:35Z"
+      "updated_at": "2026-11-12T14:21:30Z",
+      "pushed_at": "2026-11-12T21:10:39Z"
     },
     {
       "id": 1448356661,
@@ -9918,7 +9918,7 @@
       ],
       "created_at": "2026-11-06T14:23:57Z",
       "updated_at": "2026-11-12T10:30:34Z",
-      "pushed_at": "2026-11-12T09:30:28Z"
+      "pushed_at": "2026-11-12T20:03:27Z"
     },
     {
       "id": 1448352170,
@@ -9939,7 +9939,7 @@
       ],
       "created_at": "2026-11-06T14:19:50Z",
       "updated_at": "2026-11-12T10:03:06Z",
-      "pushed_at": "2026-11-12T09:03:02Z"
+      "pushed_at": "2026-11-12T20:03:09Z"
     },
     {
       "id": 1431620755,
@@ -10095,6 +10095,32 @@
       "created_at": "2026-11-04T22:52:26Z",
       "updated_at": "2026-11-06T02:03:19Z",
       "pushed_at": "2026-11-06T00:40:01Z"
+    },
+    {
+      "id": 1452733335,
+      "name": "awesome-fable-5.2",
+      "full_name": "fengyiqicoder/awesome-fable-5.2",
+      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 114 live works (every link checked) + 97 video demos, each with a GIF preview and creator credit. Updated daily.",
+      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
+      "homepage": null,
+      "stars": 143,
+      "forks": 21,
+      "language": null,
+      "topics": [
+        "ai-generated",
+        "anthropic",
+        "awesome",
+        "awesome-list",
+        "browser-games",
+        "claude",
+        "claude-fable",
+        "fable-5-2",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-10T13:56:30Z",
+      "updated_at": "2026-11-12T20:10:13Z",
+      "pushed_at": "2026-11-12T17:00:12Z"
     },
     {
       "id": 1403810477,
@@ -10484,6 +10510,21 @@
       "created_at": "2026-10-29T07:16:27Z",
       "updated_at": "2026-10-29T17:17:34Z",
       "pushed_at": "2026-10-29T07:16:36Z"
+    },
+    {
+      "id": 1455383610,
+      "name": "mate",
+      "full_name": "lawandrorder/mate",
+      "description": "Mate, your mate while you shop. A text-first shopping agent for cashback, personal discount codes, package tracking and price-drop alerts. Includes a starter agent, web chat, original icon set and docs. mate.fm",
+      "html_url": "https://github.com/lawandrorder/mate",
+      "homepage": null,
+      "stars": 138,
+      "forks": 3,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-12T14:05:28Z",
+      "updated_at": "2026-11-12T15:57:50Z",
+      "pushed_at": "2026-11-12T14:19:03Z"
     },
     {
       "id": 1403448265,
@@ -11251,32 +11292,6 @@
       "pushed_at": "2026-10-06T15:47:31Z"
     },
     {
-      "id": 1452733335,
-      "name": "awesome-fable-5.2",
-      "full_name": "fengyiqicoder/awesome-fable-5.2",
-      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 104 live works (every link checked) + 87 video demos, each with a GIF preview and creator credit. Updated 2026-11-12.",
-      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
-      "homepage": null,
-      "stars": 124,
-      "forks": 18,
-      "language": null,
-      "topics": [
-        "ai-generated",
-        "anthropic",
-        "awesome",
-        "awesome-list",
-        "browser-games",
-        "claude",
-        "claude-fable",
-        "fable-5-2",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-10T13:56:30Z",
-      "updated_at": "2026-11-12T12:19:48Z",
-      "pushed_at": "2026-11-12T06:46:12Z"
-    },
-    {
       "id": 1403848767,
       "name": "Porpoise-Dolphin-Emulator-for-PS5",
       "full_name": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
@@ -11719,6 +11734,32 @@
       "pushed_at": "2026-10-10T03:10:04Z"
     },
     {
+      "id": 1447950032,
+      "name": "RuiC-2D",
+      "full_name": "HRuiCcc/RuiC-2D",
+      "description": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
+      "html_url": "https://github.com/HRuiCcc/RuiC-2D",
+      "homepage": "https://hruiccc.github.io/RuiC-2D/demo/",
+      "stars": 117,
+      "forks": 19,
+      "language": "Python",
+      "topics": [
+        "2d",
+        "animation",
+        "avatar",
+        "live2d",
+        "mediapipe",
+        "nodejs",
+        "obs",
+        "python",
+        "virtual-youtuber",
+        "vtuber"
+      ],
+      "created_at": "2026-11-06T07:14:58Z",
+      "updated_at": "2026-11-12T17:03:40Z",
+      "pushed_at": "2026-11-09T07:46:56Z"
+    },
+    {
       "id": 1434890202,
       "name": "noalloc",
       "full_name": "theconsensuslabs/noalloc",
@@ -11855,32 +11896,6 @@
       "created_at": "2026-10-31T02:40:50Z",
       "updated_at": "2026-11-06T18:09:30Z",
       "pushed_at": "2026-11-06T18:40:46Z"
-    },
-    {
-      "id": 1447950032,
-      "name": "RuiC-2D",
-      "full_name": "HRuiCcc/RuiC-2D",
-      "description": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
-      "html_url": "https://github.com/HRuiCcc/RuiC-2D",
-      "homepage": "https://hruiccc.github.io/RuiC-2D/demo/",
-      "stars": 114,
-      "forks": 18,
-      "language": "Python",
-      "topics": [
-        "2d",
-        "animation",
-        "avatar",
-        "live2d",
-        "mediapipe",
-        "nodejs",
-        "obs",
-        "python",
-        "virtual-youtuber",
-        "vtuber"
-      ],
-      "created_at": "2026-11-06T07:14:58Z",
-      "updated_at": "2026-11-12T11:19:30Z",
-      "pushed_at": "2026-11-09T07:46:56Z"
     },
     {
       "id": 1380729698,
@@ -12917,8 +12932,8 @@
         "windows"
       ],
       "created_at": "2026-11-10T19:21:17Z",
-      "updated_at": "2026-11-12T10:37:46Z",
-      "pushed_at": "2026-11-12T12:02:49Z"
+      "updated_at": "2026-11-12T13:02:53Z",
+      "pushed_at": "2026-11-12T20:36:44Z"
     },
     {
       "id": 1390845863,
@@ -12956,8 +12971,8 @@
         "windows"
       ],
       "created_at": "2026-11-10T19:58:26Z",
-      "updated_at": "2026-11-12T08:04:02Z",
-      "pushed_at": "2026-11-12T12:06:52Z"
+      "updated_at": "2026-11-12T13:06:55Z",
+      "pushed_at": "2026-11-12T20:37:25Z"
     },
     {
       "id": 1446135312,
@@ -13143,8 +13158,8 @@
         "windows"
       ],
       "created_at": "2026-11-10T19:26:48Z",
-      "updated_at": "2026-11-12T08:02:02Z",
-      "pushed_at": "2026-11-12T12:00:23Z"
+      "updated_at": "2026-11-12T13:00:27Z",
+      "pushed_at": "2026-11-12T20:35:06Z"
     },
     {
       "id": 1453127355,
@@ -13167,8 +13182,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-10T19:55:37Z",
-      "updated_at": "2026-11-12T08:03:54Z",
-      "pushed_at": "2026-11-12T12:00:48Z"
+      "updated_at": "2026-11-12T13:00:52Z",
+      "pushed_at": "2026-11-12T20:35:16Z"
     },
     {
       "id": 1453142553,
@@ -13191,8 +13206,8 @@
         "xara3dmaker"
       ],
       "created_at": "2026-11-10T20:11:06Z",
-      "updated_at": "2026-11-12T08:04:44Z",
-      "pushed_at": "2026-11-12T12:05:02Z"
+      "updated_at": "2026-11-12T13:05:05Z",
+      "pushed_at": "2026-11-12T20:37:49Z"
     },
     {
       "id": 1453096982,
@@ -13215,8 +13230,8 @@
         "windows-10"
       ],
       "created_at": "2026-11-10T19:24:47Z",
-      "updated_at": "2026-11-12T08:02:09Z",
-      "pushed_at": "2026-11-12T12:00:14Z"
+      "updated_at": "2026-11-12T13:00:18Z",
+      "pushed_at": "2026-11-12T20:34:49Z"
     },
     {
       "id": 1453093036,
@@ -13239,8 +13254,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-10T19:20:57Z",
-      "updated_at": "2026-11-12T08:01:47Z",
-      "pushed_at": "2026-11-12T07:01:43Z"
+      "updated_at": "2026-11-12T13:27:56Z",
+      "pushed_at": "2026-11-12T20:44:48Z"
     },
     {
       "id": 1453087740,
@@ -13263,8 +13278,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-10T19:15:33Z",
-      "updated_at": "2026-11-12T08:01:36Z",
-      "pushed_at": "2026-11-12T12:17:10Z"
+      "updated_at": "2026-11-12T13:17:13Z",
+      "pushed_at": "2026-11-12T20:40:58Z"
     },
     {
       "id": 1453106430,
@@ -13287,8 +13302,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-10T19:34:13Z",
-      "updated_at": "2026-11-12T08:02:26Z",
-      "pushed_at": "2026-11-12T11:57:33Z"
+      "updated_at": "2026-11-12T12:57:37Z",
+      "pushed_at": "2026-11-12T20:05:21Z"
     },
     {
       "id": 1453103705,
@@ -13311,8 +13326,8 @@
         "windows-software"
       ],
       "created_at": "2026-11-10T19:31:27Z",
-      "updated_at": "2026-11-12T08:02:22Z",
-      "pushed_at": "2026-11-12T12:14:00Z"
+      "updated_at": "2026-11-12T13:14:04Z",
+      "pushed_at": "2026-11-12T20:39:33Z"
     },
     {
       "id": 1453132580,
@@ -13336,7 +13351,7 @@
       ],
       "created_at": "2026-11-10T20:00:53Z",
       "updated_at": "2026-11-12T08:04:11Z",
-      "pushed_at": "2026-11-12T08:00:21Z"
+      "pushed_at": "2026-11-12T20:06:30Z"
     },
     {
       "id": 1453130797,
@@ -13359,8 +13374,8 @@
         "windows"
       ],
       "created_at": "2026-11-10T19:58:58Z",
-      "updated_at": "2026-11-12T08:04:02Z",
-      "pushed_at": "2026-11-12T12:13:42Z"
+      "updated_at": "2026-11-12T13:13:45Z",
+      "pushed_at": "2026-11-12T20:40:04Z"
     },
     {
       "id": 1453127971,
@@ -13383,8 +13398,8 @@
         "windows"
       ],
       "created_at": "2026-11-10T19:56:12Z",
-      "updated_at": "2026-11-12T08:03:58Z",
-      "pushed_at": "2026-11-12T11:58:43Z"
+      "updated_at": "2026-11-12T12:58:47Z",
+      "pushed_at": "2026-11-12T20:06:12Z"
     },
     {
       "id": 1453087349,
@@ -13407,8 +13422,8 @@
         "wysiwyg-system"
       ],
       "created_at": "2026-11-10T19:15:10Z",
-      "updated_at": "2026-11-12T08:01:32Z",
-      "pushed_at": "2026-11-12T12:17:50Z"
+      "updated_at": "2026-11-12T13:17:53Z",
+      "pushed_at": "2026-11-12T20:40:45Z"
     },
     {
       "id": 1453120226,
@@ -13431,8 +13446,8 @@
         "windows-tools"
       ],
       "created_at": "2026-11-10T19:48:20Z",
-      "updated_at": "2026-11-12T08:03:22Z",
-      "pushed_at": "2026-11-12T12:14:15Z"
+      "updated_at": "2026-11-12T13:14:18Z",
+      "pushed_at": "2026-11-12T20:40:03Z"
     },
     {
       "id": 1453088920,
@@ -13455,8 +13470,8 @@
         "utilities"
       ],
       "created_at": "2026-11-10T19:16:44Z",
-      "updated_at": "2026-11-12T08:01:32Z",
-      "pushed_at": "2026-11-12T12:04:33Z"
+      "updated_at": "2026-11-12T13:04:36Z",
+      "pushed_at": "2026-11-12T20:37:27Z"
     },
     {
       "id": 1453098884,
@@ -13479,8 +13494,8 @@
         "windows"
       ],
       "created_at": "2026-11-10T19:26:37Z",
-      "updated_at": "2026-11-12T08:02:05Z",
-      "pushed_at": "2026-11-12T12:10:53Z"
+      "updated_at": "2026-11-12T13:10:57Z",
+      "pushed_at": "2026-11-12T20:38:57Z"
     },
     {
       "id": 1453126411,
@@ -13503,8 +13518,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-10T19:54:35Z",
-      "updated_at": "2026-11-12T08:03:52Z",
-      "pushed_at": "2026-11-12T12:20:10Z"
+      "updated_at": "2026-11-12T13:20:13Z",
+      "pushed_at": "2026-11-12T20:41:27Z"
     },
     {
       "id": 1453092805,
@@ -13527,8 +13542,8 @@
         "video-converter"
       ],
       "created_at": "2026-11-10T19:20:43Z",
-      "updated_at": "2026-11-12T08:01:57Z",
-      "pushed_at": "2026-11-12T12:22:06Z"
+      "updated_at": "2026-11-12T13:22:09Z",
+      "pushed_at": "2026-11-12T20:41:34Z"
     },
     {
       "id": 1453111842,
@@ -13699,8 +13714,8 @@
         "windows-software"
       ],
       "created_at": "2026-11-10T20:00:28Z",
-      "updated_at": "2026-11-12T08:04:13Z",
-      "pushed_at": "2026-11-12T11:57:07Z"
+      "updated_at": "2026-11-12T12:57:10Z",
+      "pushed_at": "2026-11-12T20:06:26Z"
     },
     {
       "id": 1453121834,
@@ -13723,8 +13738,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-10T19:49:55Z",
-      "updated_at": "2026-11-12T08:03:31Z",
-      "pushed_at": "2026-11-12T12:04:08Z"
+      "updated_at": "2026-11-12T13:04:12Z",
+      "pushed_at": "2026-11-12T20:37:35Z"
     },
     {
       "id": 1405556648,
