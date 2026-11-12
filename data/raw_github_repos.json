@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/12 05:07:58",
-  "total_repos": 1050,
+  "fetched_at": "2026/11/12 10:45:28",
+  "total_repos": 1068,
   "repos": [
     {
       "id": 1425658028,
@@ -1180,8 +1180,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:21:48Z",
-      "updated_at": "2026-11-11T19:33:29Z",
-      "pushed_at": "2026-11-11T18:33:24Z"
+      "updated_at": "2026-11-12T02:26:33Z",
+      "pushed_at": "2026-11-12T01:26:30Z"
     },
     {
       "id": 1448756275,
@@ -1243,8 +1243,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T20:59:29Z",
-      "updated_at": "2026-11-11T16:50:48Z",
-      "pushed_at": "2026-11-11T15:50:43Z"
+      "updated_at": "2026-11-11T23:28:10Z",
+      "pushed_at": "2026-11-11T22:28:06Z"
     },
     {
       "id": 1448750549,
@@ -1372,8 +1372,8 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:25:39Z",
-      "updated_at": "2026-11-11T17:41:25Z",
-      "pushed_at": "2026-11-11T16:41:22Z"
+      "updated_at": "2026-11-12T00:09:49Z",
+      "pushed_at": "2026-11-11T23:09:46Z"
     },
     {
       "id": 1448752369,
@@ -1645,8 +1645,8 @@
         "video-capcut"
       ],
       "created_at": "2026-11-06T20:43:18Z",
-      "updated_at": "2026-11-11T18:48:28Z",
-      "pushed_at": "2026-11-11T17:48:25Z"
+      "updated_at": "2026-11-12T01:20:50Z",
+      "pushed_at": "2026-11-12T00:20:47Z"
     },
     {
       "id": 1448736961,
@@ -2235,6 +2235,31 @@
       "pushed_at": "2026-11-06T12:28:18Z"
     },
     {
+      "id": 1451775929,
+      "name": "lot-map",
+      "full_name": "alexeyw/lot-map",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
+      "html_url": "https://github.com/alexeyw/lot-map",
+      "homepage": null,
+      "stars": 415,
+      "forks": 45,
+      "language": "TypeScript",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "developer-tools",
+        "svg-animation",
+        "typescript",
+        "visualization"
+      ],
+      "created_at": "2026-11-09T19:13:52Z",
+      "updated_at": "2026-11-12T02:44:06Z",
+      "pushed_at": "2026-11-12T02:13:35Z"
+    },
+    {
       "id": 1397016507,
       "name": "universal-modder",
       "full_name": "rehan-remade/universal-modder",
@@ -2282,7 +2307,7 @@
       "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "html_url": "https://github.com/shanselman/sandbox-mcp",
       "homepage": "https://shanselman.github.io/sandbox-mcp/",
-      "stars": 410,
+      "stars": 412,
       "forks": 19,
       "language": "JavaScript",
       "topics": [
@@ -2295,8 +2320,38 @@
         "windows-sandbox"
       ],
       "created_at": "2026-11-06T19:02:14Z",
-      "updated_at": "2026-11-11T16:11:48Z",
-      "pushed_at": "2026-11-11T06:44:24Z"
+      "updated_at": "2026-11-12T00:10:15Z",
+      "pushed_at": "2026-11-12T02:11:05Z"
+    },
+    {
+      "id": 1451662178,
+      "name": "ste80-humanizer",
+      "full_name": "Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "html_url": "https://github.com/Dodaios/ste80-humanizer",
+      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
+      "stars": 409,
+      "forks": 25,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-12T02:35:30Z",
+      "pushed_at": "2026-11-10T08:52:47Z"
     },
     {
       "id": 1404316216,
@@ -2923,36 +2978,6 @@
       "created_at": "2026-11-09T11:21:42Z",
       "updated_at": "2026-11-09T14:07:29Z",
       "pushed_at": "2026-11-09T11:21:48Z"
-    },
-    {
-      "id": 1451662178,
-      "name": "ste80-humanizer",
-      "full_name": "Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "html_url": "https://github.com/Dodaios/ste80-humanizer",
-      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
-      "stars": 400,
-      "forks": 25,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
-        "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
-      ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-11T20:54:55Z",
-      "pushed_at": "2026-11-10T08:52:47Z"
     },
     {
       "id": 1421622972,
@@ -3689,31 +3714,6 @@
       "pushed_at": "2026-11-01T15:28:35Z"
     },
     {
-      "id": 1451775929,
-      "name": "lot-map",
-      "full_name": "alexeyw/lot-map",
-      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
-      "html_url": "https://github.com/alexeyw/lot-map",
-      "homepage": null,
-      "stars": 350,
-      "forks": 36,
-      "language": "TypeScript",
-      "topics": [
-        "agent-observability",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "developer-tools",
-        "svg-animation",
-        "typescript",
-        "visualization"
-      ],
-      "created_at": "2026-11-09T19:13:52Z",
-      "updated_at": "2026-11-11T21:06:03Z",
-      "pushed_at": "2026-11-11T20:55:46Z"
-    },
-    {
       "id": 1441468008,
       "name": "agentic-hacking-skills",
       "full_name": "mrhlaingbwardev/agentic-hacking-skills",
@@ -4284,6 +4284,42 @@
       "created_at": "2026-10-12T23:10:01Z",
       "updated_at": "2026-10-18T15:56:09Z",
       "pushed_at": "2026-10-13T16:21:53Z"
+    },
+    {
+      "id": 1450794567,
+      "name": "agentes-chat",
+      "full_name": "agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "html_url": "https://github.com/agentes-chat/agentes-chat",
+      "homepage": "https://agentes.chat",
+      "stars": 303,
+      "forks": 37,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude",
+        "claude-code",
+        "codex",
+        "collaboration",
+        "computer-use",
+        "docker-compose",
+        "gemini",
+        "grok",
+        "human-in-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "self-hosted",
+        "slack-alternative",
+        "team-chat"
+      ],
+      "created_at": "2026-11-09T00:50:28Z",
+      "updated_at": "2026-11-12T02:44:58Z",
+      "pushed_at": "2026-11-12T02:44:11Z"
     },
     {
       "id": 1425296336,
@@ -5322,6 +5358,42 @@
       "pushed_at": "2026-11-05T23:20:32Z"
     },
     {
+      "id": 1448033453,
+      "name": "cracked",
+      "full_name": "nishant-Tiwari24/cracked",
+      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
+      "html_url": "https://github.com/nishant-Tiwari24/cracked",
+      "homepage": "https://cracked-skills.vercel.app",
+      "stars": 254,
+      "forks": 37,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ats",
+        "career",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "coding-interview",
+        "cursor",
+        "dsa",
+        "faang",
+        "interview-prep",
+        "interview-preparation",
+        "leetcode",
+        "mock-interview",
+        "placement-preparation",
+        "placements",
+        "resume",
+        "students",
+        "system-design"
+      ],
+      "created_at": "2026-11-06T08:50:47Z",
+      "updated_at": "2026-11-12T00:32:10Z",
+      "pushed_at": "2026-11-06T13:33:39Z"
+    },
+    {
       "id": 1423660177,
       "name": "Movavi-Converter",
       "full_name": "Maroonplocord/Movavi-Converter",
@@ -5495,42 +5567,6 @@
       "created_at": "2026-10-17T19:14:26Z",
       "updated_at": "2026-10-18T12:33:26Z",
       "pushed_at": "2026-10-17T19:14:32Z"
-    },
-    {
-      "id": 1448033453,
-      "name": "cracked",
-      "full_name": "nishant-Tiwari24/cracked",
-      "description": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
-      "html_url": "https://github.com/nishant-Tiwari24/cracked",
-      "homepage": "https://cracked-skills.vercel.app",
-      "stars": 251,
-      "forks": 37,
-      "language": "TypeScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ats",
-        "career",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "coding-interview",
-        "cursor",
-        "dsa",
-        "faang",
-        "interview-prep",
-        "interview-preparation",
-        "leetcode",
-        "mock-interview",
-        "placement-preparation",
-        "placements",
-        "resume",
-        "students",
-        "system-design"
-      ],
-      "created_at": "2026-11-06T08:50:47Z",
-      "updated_at": "2026-11-11T20:06:27Z",
-      "pushed_at": "2026-11-06T13:33:39Z"
     },
     {
       "id": 1448047566,
@@ -6781,8 +6817,8 @@
         "open-source"
       ],
       "created_at": "2026-11-06T03:26:21Z",
-      "updated_at": "2026-11-11T19:47:47Z",
-      "pushed_at": "2026-11-11T20:18:31Z"
+      "updated_at": "2026-11-12T02:41:59Z",
+      "pushed_at": "2026-11-12T01:41:54Z"
     },
     {
       "id": 1414287839,
@@ -8542,6 +8578,21 @@
       "pushed_at": "2026-11-02T19:44:08Z"
     },
     {
+      "id": 1452464401,
+      "name": "tinytraffic",
+      "full_name": "egoist/tinytraffic",
+      "description": "self-host web analytics in a single binary",
+      "html_url": "https://github.com/egoist/tinytraffic",
+      "homepage": null,
+      "stars": 189,
+      "forks": 10,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-10T09:39:00Z",
+      "updated_at": "2026-11-12T02:29:33Z",
+      "pushed_at": "2026-11-11T21:25:06Z"
+    },
+    {
       "id": 1415337709,
       "name": "lucian-uxui-prompt",
       "full_name": "Seokwoooo/lucian-uxui-prompt",
@@ -8778,21 +8829,6 @@
       "created_at": "2026-11-08T18:36:49Z",
       "updated_at": "2026-11-09T14:18:29Z",
       "pushed_at": "2026-11-09T11:55:03Z"
-    },
-    {
-      "id": 1452464401,
-      "name": "tinytraffic",
-      "full_name": "egoist/tinytraffic",
-      "description": "self-host web analytics in a single binary",
-      "html_url": "https://github.com/egoist/tinytraffic",
-      "homepage": null,
-      "stars": 178,
-      "forks": 10,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-10T09:39:00Z",
-      "updated_at": "2026-11-11T20:15:07Z",
-      "pushed_at": "2026-11-11T20:30:03Z"
     },
     {
       "id": 1451221567,
@@ -9594,8 +9630,64 @@
         "activator"
       ],
       "created_at": "2026-11-06T14:25:18Z",
-      "updated_at": "2026-11-11T19:27:59Z",
-      "pushed_at": "2026-11-11T18:27:55Z"
+      "updated_at": "2026-11-12T02:23:08Z",
+      "pushed_at": "2026-11-12T01:23:04Z"
+    },
+    {
+      "id": 1448375659,
+      "name": "windows-activation-suite",
+      "full_name": "Vasyl19977/windows-activation-suite",
+      "description": "Windows and Office setup automation script with HWID, Ohook, TSforge, and Online KMS",
+      "html_url": "https://github.com/Vasyl19977/windows-activation-suite",
+      "homepage": null,
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-06T14:41:39Z",
+      "updated_at": "2026-11-12T02:16:11Z",
+      "pushed_at": "2026-11-12T01:16:07Z"
+    },
+    {
+      "id": 1448372956,
+      "name": "win-activation-suite",
+      "full_name": "NewwO8786/win-activation-suite",
+      "description": "Open-source Windows and Office setup research tool with HWID, Ohook, TSforge, and KMS methods",
+      "html_url": "https://github.com/NewwO8786/win-activation-suite",
+      "homepage": null,
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "activator",
+        "massgrave",
+        "massgravel",
+        "microsoft",
+        "microsoft365",
+        "office",
+        "office365",
+        "ohook",
+        "powershell",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-06T14:39:07Z",
+      "updated_at": "2026-11-12T02:21:03Z",
+      "pushed_at": "2026-11-12T01:20:59Z"
     },
     {
       "id": 1418592001,
@@ -9655,8 +9747,8 @@
         "windows11"
       ],
       "created_at": "2026-11-06T14:13:13Z",
-      "updated_at": "2026-11-11T19:25:36Z",
-      "pushed_at": "2026-11-11T18:25:32Z"
+      "updated_at": "2026-11-12T02:20:31Z",
+      "pushed_at": "2026-11-12T01:20:27Z"
     },
     {
       "id": 1448337222,
@@ -9678,8 +9770,8 @@
         "windows"
       ],
       "created_at": "2026-11-06T14:05:59Z",
-      "updated_at": "2026-11-11T19:14:46Z",
-      "pushed_at": "2026-11-11T18:14:43Z"
+      "updated_at": "2026-11-12T02:12:26Z",
+      "pushed_at": "2026-11-12T01:12:23Z"
     },
     {
       "id": 1448350595,
@@ -9706,36 +9798,8 @@
         "key-generator-activator"
       ],
       "created_at": "2026-11-06T14:18:25Z",
-      "updated_at": "2026-11-11T18:47:34Z",
-      "pushed_at": "2026-11-11T17:47:29Z"
-    },
-    {
-      "id": 1448375659,
-      "name": "windows-activation-suite",
-      "full_name": "Vasyl19977/windows-activation-suite",
-      "description": "Windows and Office setup automation script with HWID, Ohook, TSforge, and Online KMS",
-      "html_url": "https://github.com/Vasyl19977/windows-activation-suite",
-      "homepage": null,
-      "stars": 149,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "activator",
-        "massgrave",
-        "massgravel",
-        "microsoft",
-        "microsoft365",
-        "office",
-        "office365",
-        "ohook",
-        "powershell",
-        "windows",
-        "windows-10",
-        "windows-11"
-      ],
-      "created_at": "2026-11-06T14:41:39Z",
-      "updated_at": "2026-11-11T19:19:49Z",
-      "pushed_at": "2026-11-11T18:19:46Z"
+      "updated_at": "2026-11-12T01:20:04Z",
+      "pushed_at": "2026-11-12T00:19:59Z"
     },
     {
       "id": 1448377514,
@@ -9766,8 +9830,8 @@
         "windows-11"
       ],
       "created_at": "2026-11-06T14:43:20Z",
-      "updated_at": "2026-11-11T19:25:07Z",
-      "pushed_at": "2026-11-11T18:25:04Z"
+      "updated_at": "2026-11-12T02:20:18Z",
+      "pushed_at": "2026-11-12T01:20:14Z"
     },
     {
       "id": 1448359557,
@@ -9786,8 +9850,8 @@
         "prepar3d"
       ],
       "created_at": "2026-11-06T14:26:35Z",
-      "updated_at": "2026-11-11T19:29:08Z",
-      "pushed_at": "2026-11-11T18:29:04Z"
+      "updated_at": "2026-11-12T02:24:19Z",
+      "pushed_at": "2026-11-12T01:24:16Z"
     },
     {
       "id": 1448372407,
@@ -9806,8 +9870,8 @@
         "wechat"
       ],
       "created_at": "2026-11-06T14:38:33Z",
-      "updated_at": "2026-11-11T17:41:21Z",
-      "pushed_at": "2026-11-11T16:41:18Z"
+      "updated_at": "2026-11-12T00:09:36Z",
+      "pushed_at": "2026-11-11T23:09:33Z"
     },
     {
       "id": 1448356661,
@@ -9826,8 +9890,29 @@
         "wpf-application"
       ],
       "created_at": "2026-11-06T14:23:57Z",
-      "updated_at": "2026-11-11T19:29:17Z",
-      "pushed_at": "2026-11-11T18:29:13Z"
+      "updated_at": "2026-11-12T02:23:36Z",
+      "pushed_at": "2026-11-12T01:23:33Z"
+    },
+    {
+      "id": 1448352170,
+      "name": "kms-research-tool",
+      "full_name": "dfjkly7f/kms-research-tool",
+      "description": "Open-source Windows KMS setup research tool for controlled laboratory study",
+      "html_url": "https://github.com/dfjkly7f/kms-research-tool",
+      "homepage": null,
+      "stars": 149,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "activator",
+        "kms",
+        "kms-activator",
+        "kmsactivator",
+        "windows"
+      ],
+      "created_at": "2026-11-06T14:19:50Z",
+      "updated_at": "2026-11-12T02:14:00Z",
+      "pushed_at": "2026-11-12T01:13:57Z"
     },
     {
       "id": 1431620755,
@@ -11053,6 +11138,34 @@
       "pushed_at": "2026-11-11T17:55:54Z"
     },
     {
+      "id": 1449996580,
+      "name": "claude-memory",
+      "full_name": "claudememory/claude-memory",
+      "description": "Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude Code, Claude Desktop and the Claude API. Setup, pros and cons, and which to pick for remembering context across sessions.",
+      "html_url": "https://github.com/claudememory/claude-memory",
+      "homepage": "https://tryglen.com",
+      "stars": 125,
+      "forks": 3,
+      "language": null,
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-desktop",
+        "claude-memory",
+        "llm-memory",
+        "long-term-memory",
+        "mcp",
+        "mcp-server",
+        "persistent-memory"
+      ],
+      "created_at": "2026-11-08T05:18:13Z",
+      "updated_at": "2026-11-11T21:27:31Z",
+      "pushed_at": "2026-11-08T05:22:11Z"
+    },
+    {
       "id": 1441693752,
       "name": "SP-Flash-Tool",
       "full_name": "Fusenamoon77/SP-Flash-Tool",
@@ -11109,34 +11222,6 @@
       "created_at": "2026-10-05T21:27:56Z",
       "updated_at": "2026-10-11T12:14:33Z",
       "pushed_at": "2026-10-06T15:47:31Z"
-    },
-    {
-      "id": 1449996580,
-      "name": "claude-memory",
-      "full_name": "claudememory/claude-memory",
-      "description": "Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude Code, Claude Desktop and the Claude API. Setup, pros and cons, and which to pick for remembering context across sessions.",
-      "html_url": "https://github.com/claudememory/claude-memory",
-      "homepage": "https://tryglen.com",
-      "stars": 124,
-      "forks": 1,
-      "language": null,
-      "topics": [
-        "agent-memory",
-        "ai-memory",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-desktop",
-        "claude-memory",
-        "llm-memory",
-        "long-term-memory",
-        "mcp",
-        "mcp-server",
-        "persistent-memory"
-      ],
-      "created_at": "2026-11-08T05:18:13Z",
-      "updated_at": "2026-11-11T13:49:59Z",
-      "pushed_at": "2026-11-08T05:22:11Z"
     },
     {
       "id": 1403848767,
@@ -11423,7 +11508,7 @@
       "html_url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
       "homepage": null,
       "stars": 119,
-      "forks": 64,
+      "forks": 65,
       "language": "Python",
       "topics": [
         "afk-bot",
@@ -12594,7 +12679,7 @@
       "html_url": "https://github.com/HRuiCcc/RuiC-2D",
       "homepage": "https://hruiccc.github.io/RuiC-2D/demo/",
       "stars": 105,
-      "forks": 17,
+      "forks": 18,
       "language": "Python",
       "topics": [
         "2d",
@@ -12774,6 +12859,30 @@
       "pushed_at": "2026-10-03T14:39:31Z"
     },
     {
+      "id": 1453130273,
+      "name": "rz-video-converter",
+      "full_name": "slmanmohammad/rz-video-converter",
+      "description": "Rz-Video-Converter: Shape, Convert, and Refine Every Frame in Your Media Workflow",
+      "html_url": "https://github.com/slmanmohammad/rz-video-converter",
+      "homepage": null,
+      "stars": 103,
+      "forks": 0,
+      "language": "Rust",
+      "topics": [
+        "audio-file-converter",
+        "avi-converter",
+        "multimedia-file-conversion",
+        "rz-video-converter-free",
+        "software-tools",
+        "trial-version",
+        "video-editing-tools",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:58:26Z",
+      "updated_at": "2026-11-12T02:16:27Z",
+      "pushed_at": "2026-11-11T22:27:03Z"
+    },
+    {
       "id": 1446135312,
       "name": "ork",
       "full_name": "orkbot-run/ork",
@@ -12937,6 +13046,462 @@
       "pushed_at": "2026-11-11T14:46:25Z"
     },
     {
+      "id": 1453099049,
+      "name": "collage-maker",
+      "full_name": "abitakon/collage-maker",
+      "description": "Collage-Maker: Compose Photos with Backgrounds, Textures, Icons, and Text",
+      "html_url": "https://github.com/abitakon/collage-maker",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "backgrounds-textures",
+        "collage-maker-installer",
+        "collage-maker-setup",
+        "galleria-software",
+        "image-assemblage",
+        "photo-collage",
+        "trial-version",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:26:48Z",
+      "updated_at": "2026-11-12T01:22:32Z",
+      "pushed_at": "2026-11-11T22:23:11Z"
+    },
+    {
+      "id": 1453127355,
+      "name": "photo-dvd-maker",
+      "full_name": "23kb1a05k4-pixel/photo-dvd-maker",
+      "description": "Photo DVD Maker: Windows Presentation Tool for Image and Music Slideshows",
+      "html_url": "https://github.com/23kb1a05k4-pixel/photo-dvd-maker",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "Rust",
+      "topics": [
+        "create-presentations",
+        "jpeg-import",
+        "photo-dvd-maker",
+        "photo-dvd-maker-download",
+        "presentations",
+        "productivity-software",
+        "software",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:55:37Z",
+      "updated_at": "2026-11-12T01:25:03Z",
+      "pushed_at": "2026-11-11T22:23:50Z"
+    },
+    {
+      "id": 1453142553,
+      "name": "xara-3d-maker-desktop",
+      "full_name": "slametmus/xara-3d-maker-desktop",
+      "description": "Xara 3D Maker for Windows: 3D Text and Logo Design with Templates, Color Controls, and Animation",
+      "html_url": "https://github.com/slametmus/xara-3d-maker-desktop",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "download-xara-3d-maker",
+        "logo-creator",
+        "logo-software",
+        "trial-version",
+        "xara-3d-maker",
+        "xara-3d-maker-installer",
+        "xara-ltd",
+        "xara3dmaker"
+      ],
+      "created_at": "2026-11-10T20:11:06Z",
+      "updated_at": "2026-11-12T01:35:12Z",
+      "pushed_at": "2026-11-11T22:27:04Z"
+    },
+    {
+      "id": 1453096982,
+      "name": "businesscards-mx",
+      "full_name": "filinapi/businesscards-mx",
+      "description": "BusinessCards MX: Windows Business Card Design Tool with Templates and Custom Graphics",
+      "html_url": "https://github.com/filinapi/businesscards-mx",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "business-cards-mx",
+        "businesscards-mx-windows",
+        "create-business-cards",
+        "design-your-own-cards",
+        "templates",
+        "trial-version",
+        "windows",
+        "windows-10"
+      ],
+      "created_at": "2026-11-10T19:24:47Z",
+      "updated_at": "2026-11-12T01:30:36Z",
+      "pushed_at": "2026-11-11T22:23:46Z"
+    },
+    {
+      "id": 1453093036,
+      "name": "artensoft-tilt-shift-generator",
+      "full_name": "dumdum806/artensoft-tilt-shift-generator",
+      "description": "Artensoft Tilt Shift Generator: Windows Tilt-Shift Effect Tool with Focus and Preview Controls",
+      "html_url": "https://github.com/dumdum806/artensoft-tilt-shift-generator",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "artensoft-tilt-shift-generator",
+        "artensoft-tilt-shift-generator-free",
+        "brightness-contrast-saturation",
+        "download-artensoft-tilt-shift-generator",
+        "image-editing",
+        "image-editing-tools",
+        "software",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:20:57Z",
+      "updated_at": "2026-11-12T01:20:32Z",
+      "pushed_at": "2026-11-11T22:38:29Z"
+    },
+    {
+      "id": 1453087740,
+      "name": "acoustica-cd-dvd-label-designer",
+      "full_name": "Kr0w3n/acoustica-cd-dvd-label-designer",
+      "description": "Acoustica CD/DVD Label Maker: Custom Disc Cover Design with Templates and Song List Import",
+      "html_url": "https://github.com/Kr0w3n/acoustica-cd-dvd-label-designer",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "acoustica-cd-dvd-label-maker",
+        "acoustica-cd-dvd-label-maker-download",
+        "cd-cover-designer",
+        "customize-cds",
+        "dvd-cover-designer",
+        "software",
+        "tools",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:15:33Z",
+      "updated_at": "2026-11-12T01:35:34Z",
+      "pushed_at": "2026-11-11T22:31:57Z"
+    },
+    {
+      "id": 1453106430,
+      "name": "flash-slideshow-maker",
+      "full_name": "VanChuong-noob/flash-slideshow-maker",
+      "description": "Flash Slideshow Maker: Windows Photo Gallery and Presentation Builder",
+      "html_url": "https://github.com/VanChuong-noob/flash-slideshow-maker",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "create-flash-presentations",
+        "create-slideshows",
+        "flash-slideshow-maker-latest-version",
+        "flash-slideshow-maker-setup",
+        "guided-assistant",
+        "presentations",
+        "trial-version",
+        "windows-11"
+      ],
+      "created_at": "2026-11-10T19:34:13Z",
+      "updated_at": "2026-11-12T01:26:23Z",
+      "pushed_at": "2026-11-11T22:21:17Z"
+    },
+    {
+      "id": 1453103705,
+      "name": "easy-calendar-maker",
+      "full_name": "TIGER-dev-2026/easy-calendar-maker",
+      "description": "Easy-Calendar-Maker: Template-Driven Custom Calendar Design for Windows",
+      "html_url": "https://github.com/TIGER-dev-2026/easy-calendar-maker",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "Rust",
+      "topics": [
+        "calendar-maker",
+        "download-easy-calendar-maker",
+        "easy-calendar-maker-download",
+        "easy-calendar-maker-installer",
+        "office-suites",
+        "software",
+        "trial-version",
+        "windows-software"
+      ],
+      "created_at": "2026-11-10T19:31:27Z",
+      "updated_at": "2026-11-12T01:08:29Z",
+      "pushed_at": "2026-11-11T22:29:35Z"
+    },
+    {
+      "id": 1453132580,
+      "name": "sound-card-driver-manager",
+      "full_name": "chkun-wp/sound-card-driver-manager",
+      "description": "Sound Card Drivers access Utility: Automated Audio Driver Management for Windows",
+      "html_url": "https://github.com/chkun-wp/sound-card-driver-manager",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "download-sound-card-drivers",
+        "driver-updates",
+        "outdated-drivers",
+        "sound-card-drivers-download",
+        "system-stability",
+        "trial-version",
+        "windows-11",
+        "windows-software"
+      ],
+      "created_at": "2026-11-10T20:00:53Z",
+      "updated_at": "2026-11-12T01:35:07Z",
+      "pushed_at": "2026-11-12T00:11:22Z"
+    },
+    {
+      "id": 1453130797,
+      "name": "serial-key-generator",
+      "full_name": "oanadanieladan-cloud/serial-key-generator",
+      "description": "Serial token Generator: Application Protection via Customizable Serial Numbers",
+      "html_url": "https://github.com/oanadanieladan-cloud/serial-key-generator",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "protect-applications",
+        "serial-key-generator-free",
+        "serial-key-generator-latest-version",
+        "serial-key-generator-windows",
+        "serial-number-generator",
+        "trial-version",
+        "vcl-examples",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:58:58Z",
+      "updated_at": "2026-11-12T01:31:06Z",
+      "pushed_at": "2026-11-11T22:29:13Z"
+    },
+    {
+      "id": 1453127971,
+      "name": "preventon-security-suite",
+      "full_name": "devmithscools/preventon-security-suite",
+      "description": "Preventon: Real-Time Anti-Malware and Web Filtering for Windows",
+      "html_url": "https://github.com/devmithscools/preventon-security-suite",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "anti-malware-software",
+        "preventon-download",
+        "real-time-protection",
+        "security-software",
+        "software",
+        "trial-version",
+        "virus-blocker",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:56:12Z",
+      "updated_at": "2026-11-12T01:33:14Z",
+      "pushed_at": "2026-11-11T22:23:08Z"
+    },
+    {
+      "id": 1453087349,
+      "name": "acme-cad-converter",
+      "full_name": "ValluriHemanth/acme-cad-converter",
+      "description": "Acme CAD Converter: Batch DWG, DXF, and DWF to PDF and JPEG for Windows",
+      "html_url": "https://github.com/ValluriHemanth/acme-cad-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "acme-cad-converter-setup",
+        "batch-conversion",
+        "download-acme-cad-converter",
+        "dwg-dxf-dwf-converter",
+        "dwg-file-viewer",
+        "trial-version",
+        "windows-10",
+        "wysiwyg-system"
+      ],
+      "created_at": "2026-11-10T19:15:10Z",
+      "updated_at": "2026-11-12T01:30:23Z",
+      "pushed_at": "2026-11-11T22:30:41Z"
+    },
+    {
+      "id": 1453120226,
+      "name": "midi-converter-studio",
+      "full_name": "880412105/midi-converter-studio",
+      "description": "MIDI Converter Studio: Shape Audio Files Into WAV, MP3, OGG, WMA",
+      "html_url": "https://github.com/880412105/midi-converter-studio",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "audio-file-converter",
+        "maniac-tools",
+        "midi-converter-studio-setup",
+        "midi-converter-studio-windows",
+        "midi-to-wma",
+        "multimedia",
+        "trial-version",
+        "windows-tools"
+      ],
+      "created_at": "2026-11-10T19:48:20Z",
+      "updated_at": "2026-11-12T01:34:46Z",
+      "pushed_at": "2026-11-11T22:29:27Z"
+    },
+    {
+      "id": 1453088920,
+      "name": "acpsoft-pdf-converter",
+      "full_name": "93511/acpsoft-pdf-converter",
+      "description": "ACPsoft PDF Converter: Visual Document Workflow, Batch Conversion, Watermarking",
+      "html_url": "https://github.com/93511/acpsoft-pdf-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "acpsoft-pdf-converter",
+        "download-acpsoft-pdf-converter",
+        "pdf-converter",
+        "pdf-to-txt",
+        "software",
+        "tools",
+        "trial-version",
+        "utilities"
+      ],
+      "created_at": "2026-11-10T19:16:44Z",
+      "updated_at": "2026-11-12T01:21:55Z",
+      "pushed_at": "2026-11-11T22:25:35Z"
+    },
+    {
+      "id": 1453098884,
+      "name": "cinema-hd-converter",
+      "full_name": "6aliabukhalil9-sketch/cinema-hd-converter",
+      "description": "Cinema-Hd: Windows Multimedia Converter with ODU Video Quality Enhancement and Bitrate Calculator",
+      "html_url": "https://github.com/6aliabukhalil9-sketch/cinema-hd-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "apple-tv-compatibility",
+        "cinema-hd-free",
+        "cinema-hd-latest-version",
+        "improvement",
+        "object-detection-upscaling",
+        "trial-version",
+        "video-converter",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:26:37Z",
+      "updated_at": "2026-11-12T01:28:35Z",
+      "pushed_at": "2026-11-11T22:28:14Z"
+    },
+    {
+      "id": 1453126411,
+      "name": "passport-photo-converter",
+      "full_name": "Moazzamkk/passport-photo-converter",
+      "description": "PassportPhoto: Windows ID Photo Standardization and Print-Ready Converter",
+      "html_url": "https://github.com/Moazzamkk/passport-photo-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "passport-photo",
+        "passport-photo-assistant",
+        "passport-photo-creator",
+        "passport-photo-download",
+        "passport-photo-printer",
+        "passport-photo-standards",
+        "passportphoto-free",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:54:35Z",
+      "updated_at": "2026-11-12T01:18:55Z",
+      "pushed_at": "2026-11-11T22:36:17Z"
+    },
+    {
+      "id": 1453092805,
+      "name": "any-media-converter",
+      "full_name": "indraferdiyanto9-stack/any-media-converter",
+      "description": "Shape Any Media: Visual Format Converter for Streamlined Workflows",
+      "html_url": "https://github.com/indraferdiyanto9-stack/any-media-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "CSS",
+      "topics": [
+        "any-video-audio-converter-windows",
+        "audio-file-conversion",
+        "avi-converter",
+        "download-any-video-audio-converter",
+        "home-video-conversion",
+        "mp3-converter",
+        "trial-version",
+        "video-converter"
+      ],
+      "created_at": "2026-11-10T19:20:43Z",
+      "updated_at": "2026-11-12T01:28:30Z",
+      "pushed_at": "2026-11-11T22:37:10Z"
+    },
+    {
+      "id": 1453111842,
+      "name": "html-converter-suite",
+      "full_name": "lovetyagi123321-afk/html-converter-suite",
+      "description": "Transform HTML into DOC, XLS, PDF, JPG, TXT, TIFF with a smooth visual workflow",
+      "html_url": "https://github.com/lovetyagi123321-afk/html-converter-suite",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "file-converter",
+        "html-to-pdf",
+        "office-suites",
+        "share-html-files",
+        "software",
+        "total-html-converter",
+        "total-html-converter-free",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:39:50Z",
+      "updated_at": "2026-11-12T01:24:26Z",
+      "pushed_at": "2026-11-11T22:36:59Z"
+    },
+    {
+      "id": 1453099608,
+      "name": "convertmovie-media-converter",
+      "full_name": "Razec99/convertmovie-media-converter",
+      "description": "ConvertMovie: Visual Media Converter for Smooth Device Playback Workflows",
+      "html_url": "https://github.com/Razec99/convertmovie-media-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "3gp-converter",
+        "convertmovie-download",
+        "convertmovie-free",
+        "download-convertmovie",
+        "dvd-converter",
+        "portable-video-adapter",
+        "trial-version",
+        "windows-software"
+      ],
+      "created_at": "2026-11-10T19:27:21Z",
+      "updated_at": "2026-11-12T01:14:36Z",
+      "pushed_at": "2026-11-11T22:22:44Z"
+    },
+    {
       "id": 1385781283,
       "name": "Microsoft-Activation-Scripts",
       "full_name": "Rolyata228/Microsoft-Activation-Scripts",
@@ -13011,6 +13576,54 @@
       "created_at": "2026-10-27T15:56:51Z",
       "updated_at": "2026-11-02T11:21:09Z",
       "pushed_at": "2026-11-01T16:39:25Z"
+    },
+    {
+      "id": 1453132205,
+      "name": "solitaire-well-desktop",
+      "full_name": "rehansaid226-ops/solitaire-well-desktop",
+      "description": "Solitaire-Well: Windows Card Game with Diamond and Napoleon's Tomb Variants",
+      "html_url": "https://github.com/rehansaid226-ops/solitaire-well-desktop",
+      "homepage": null,
+      "stars": 101,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "grandersoft",
+        "pc-games",
+        "solitaire-variants",
+        "solitaire-well-download",
+        "trial-version",
+        "undo-redo",
+        "windows",
+        "windows-software"
+      ],
+      "created_at": "2026-11-10T20:00:28Z",
+      "updated_at": "2026-11-12T01:33:30Z",
+      "pushed_at": "2026-11-11T22:21:57Z"
+    },
+    {
+      "id": 1453121834,
+      "name": "mp3-maker",
+      "full_name": "Despair001-code/mp3-maker",
+      "description": "Mp3-Maker: Windows Music Cataloger with Batch Renaming, Smart Playlists, and Sound Editing",
+      "html_url": "https://github.com/Despair001-code/mp3-maker",
+      "homepage": null,
+      "stars": 101,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "audio-management",
+        "dj-sessions",
+        "entertainment-software",
+        "mp3-deluxe",
+        "music-collection-manager",
+        "music-library-management",
+        "online-radio",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:49:55Z",
+      "updated_at": "2026-11-12T01:30:04Z",
+      "pushed_at": "2026-11-11T22:25:47Z"
     },
     {
       "id": 1405556648,
@@ -20220,54 +20833,6 @@
       "pushed_at": "2026-11-04T13:15:28Z"
     },
     {
-      "id": 1453099049,
-      "name": "collage-maker",
-      "full_name": "abitakon/collage-maker",
-      "description": "Collage-Maker: Compose Photos with Backgrounds, Textures, Icons, and Text",
-      "html_url": "https://github.com/abitakon/collage-maker",
-      "homepage": null,
-      "stars": 36,
-      "forks": 0,
-      "language": "HTML",
-      "topics": [
-        "backgrounds-textures",
-        "collage-maker-installer",
-        "collage-maker-setup",
-        "galleria-software",
-        "image-assemblage",
-        "photo-collage",
-        "trial-version",
-        "windows"
-      ],
-      "created_at": "2026-11-10T19:26:48Z",
-      "updated_at": "2026-11-11T21:05:52Z",
-      "pushed_at": "2026-11-11T15:43:34Z"
-    },
-    {
-      "id": 1453127355,
-      "name": "photo-dvd-maker",
-      "full_name": "23kb1a05k4-pixel/photo-dvd-maker",
-      "description": "Photo DVD Maker: Windows Presentation Tool for Image and Music Slideshows",
-      "html_url": "https://github.com/23kb1a05k4-pixel/photo-dvd-maker",
-      "homepage": null,
-      "stars": 36,
-      "forks": 0,
-      "language": "Rust",
-      "topics": [
-        "create-presentations",
-        "jpeg-import",
-        "photo-dvd-maker",
-        "photo-dvd-maker-download",
-        "presentations",
-        "productivity-software",
-        "software",
-        "trial-version"
-      ],
-      "created_at": "2026-11-10T19:55:37Z",
-      "updated_at": "2026-11-11T21:02:19Z",
-      "pushed_at": "2026-11-11T15:44:35Z"
-    },
-    {
       "id": 1395203963,
       "name": "duckapi",
       "full_name": "hirotomasato/duckapi",
@@ -20330,102 +20895,6 @@
       "created_at": "2026-10-06T06:03:48Z",
       "updated_at": "2026-10-06T19:56:31Z",
       "pushed_at": "2026-10-06T06:51:59Z"
-    },
-    {
-      "id": 1453142553,
-      "name": "xara-3d-maker-desktop",
-      "full_name": "slametmus/xara-3d-maker-desktop",
-      "description": "Xara 3D Maker for Windows: 3D Text and Logo Design with Templates, Color Controls, and Animation",
-      "html_url": "https://github.com/slametmus/xara-3d-maker-desktop",
-      "homepage": null,
-      "stars": 35,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "download-xara-3d-maker",
-        "logo-creator",
-        "logo-software",
-        "trial-version",
-        "xara-3d-maker",
-        "xara-3d-maker-installer",
-        "xara-ltd",
-        "xara3dmaker"
-      ],
-      "created_at": "2026-11-10T20:11:06Z",
-      "updated_at": "2026-11-11T20:59:19Z",
-      "pushed_at": "2026-11-11T15:47:59Z"
-    },
-    {
-      "id": 1453132205,
-      "name": "solitaire-well-desktop",
-      "full_name": "rehansaid226-ops/solitaire-well-desktop",
-      "description": "Solitaire-Well: Windows Card Game with Diamond and Napoleon's Tomb Variants",
-      "html_url": "https://github.com/rehansaid226-ops/solitaire-well-desktop",
-      "homepage": null,
-      "stars": 35,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "grandersoft",
-        "pc-games",
-        "solitaire-variants",
-        "solitaire-well-download",
-        "trial-version",
-        "undo-redo",
-        "windows",
-        "windows-software"
-      ],
-      "created_at": "2026-11-10T20:00:28Z",
-      "updated_at": "2026-11-11T21:03:48Z",
-      "pushed_at": "2026-11-11T15:40:08Z"
-    },
-    {
-      "id": 1453096982,
-      "name": "businesscards-mx",
-      "full_name": "filinapi/businesscards-mx",
-      "description": "BusinessCards MX: Windows Business Card Design Tool with Templates and Custom Graphics",
-      "html_url": "https://github.com/filinapi/businesscards-mx",
-      "homepage": null,
-      "stars": 35,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "business-cards-mx",
-        "businesscards-mx-windows",
-        "create-business-cards",
-        "design-your-own-cards",
-        "templates",
-        "trial-version",
-        "windows",
-        "windows-10"
-      ],
-      "created_at": "2026-11-10T19:24:47Z",
-      "updated_at": "2026-11-11T21:06:06Z",
-      "pushed_at": "2026-11-11T15:44:14Z"
-    },
-    {
-      "id": 1453093036,
-      "name": "artensoft-tilt-shift-generator",
-      "full_name": "dumdum806/artensoft-tilt-shift-generator",
-      "description": "Artensoft Tilt Shift Generator: Windows Tilt-Shift Effect Tool with Focus and Preview Controls",
-      "html_url": "https://github.com/dumdum806/artensoft-tilt-shift-generator",
-      "homepage": null,
-      "stars": 35,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "artensoft-tilt-shift-generator",
-        "artensoft-tilt-shift-generator-free",
-        "brightness-contrast-saturation",
-        "download-artensoft-tilt-shift-generator",
-        "image-editing",
-        "image-editing-tools",
-        "software",
-        "trial-version"
-      ],
-      "created_at": "2026-11-10T19:20:57Z",
-      "updated_at": "2026-11-11T21:04:03Z",
-      "pushed_at": "2026-11-11T16:00:22Z"
     },
     {
       "id": 1440886314,
@@ -20569,30 +21038,6 @@
       "created_at": "2026-10-27T09:25:47Z",
       "updated_at": "2026-10-28T05:38:14Z",
       "pushed_at": "2026-10-27T09:44:08Z"
-    },
-    {
-      "id": 1453087740,
-      "name": "acoustica-cd-dvd-label-designer",
-      "full_name": "Kr0w3n/acoustica-cd-dvd-label-designer",
-      "description": "Acoustica CD/DVD Label Maker: Custom Disc Cover Design with Templates and Song List Import",
-      "html_url": "https://github.com/Kr0w3n/acoustica-cd-dvd-label-designer",
-      "homepage": null,
-      "stars": 34,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "acoustica-cd-dvd-label-maker",
-        "acoustica-cd-dvd-label-maker-download",
-        "cd-cover-designer",
-        "customize-cds",
-        "dvd-cover-designer",
-        "software",
-        "tools",
-        "trial-version"
-      ],
-      "created_at": "2026-11-10T19:15:33Z",
-      "updated_at": "2026-11-11T21:05:21Z",
-      "pushed_at": "2026-11-11T15:54:46Z"
     },
     {
       "id": 1443612367,
@@ -20812,6 +21257,21 @@
       "created_at": "2026-10-31T13:32:51Z",
       "updated_at": "2026-11-05T14:24:44Z",
       "pushed_at": "2026-10-31T13:32:58Z"
+    },
+    {
+      "id": 1450733845,
+      "name": "glyph-avatar",
+      "full_name": "nilbuild/glyph-avatar",
+      "description": "Turn any text into an avatar. The same text always gets the same avatar.",
+      "html_url": "https://github.com/nilbuild/glyph-avatar",
+      "homepage": "https://kamran.fyi/glyph-avatar",
+      "stars": 33,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-08T23:00:41Z",
+      "updated_at": "2026-11-11T23:59:57Z",
+      "pushed_at": "2026-11-09T11:39:49Z"
     },
     {
       "id": 1440889482,
@@ -21056,21 +21516,6 @@
       "created_at": "2026-10-28T16:20:32Z",
       "updated_at": "2026-10-29T15:42:18Z",
       "pushed_at": "2026-10-28T16:20:39Z"
-    },
-    {
-      "id": 1450733845,
-      "name": "glyph-avatar",
-      "full_name": "nilbuild/glyph-avatar",
-      "description": "Turn any text into an avatar. The same text always gets the same avatar.",
-      "html_url": "https://github.com/nilbuild/glyph-avatar",
-      "homepage": "https://kamran.fyi/glyph-avatar",
-      "stars": 32,
-      "forks": 1,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-08T23:00:41Z",
-      "updated_at": "2026-11-10T23:03:24Z",
-      "pushed_at": "2026-11-09T11:39:49Z"
     },
     {
       "id": 1392926470,
