@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/13 05:22:28",
-  "total_repos": 1073,
+  "fetched_at": "2026/11/13 10:28:59",
+  "total_repos": 1092,
   "repos": [
     {
       "id": 1425658028,
@@ -1818,6 +1818,36 @@
       "pushed_at": "2026-10-23T18:37:11Z"
     },
     {
+      "id": 1451662178,
+      "name": "ste80-humanizer",
+      "full_name": "Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "html_url": "https://github.com/Dodaios/ste80-humanizer",
+      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
+      "stars": 460,
+      "forks": 29,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-13T01:03:31Z",
+      "pushed_at": "2026-11-10T08:52:47Z"
+    },
+    {
       "id": 1420454266,
       "name": "dev-null.sh",
       "full_name": "dev-null-sh/dev-null.sh",
@@ -1880,36 +1910,6 @@
       "created_at": "2026-10-28T04:29:29Z",
       "updated_at": "2026-10-28T22:16:48Z",
       "pushed_at": "2026-10-28T11:35:35Z"
-    },
-    {
-      "id": 1451662178,
-      "name": "ste80-humanizer",
-      "full_name": "Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "html_url": "https://github.com/Dodaios/ste80-humanizer",
-      "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
-      "stars": 454,
-      "forks": 29,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
-        "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
-      ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-12T21:12:12Z",
-      "pushed_at": "2026-11-10T08:52:47Z"
     },
     {
       "id": 1437812726,
@@ -5217,7 +5217,7 @@
       ],
       "created_at": "2026-11-08T20:05:57Z",
       "updated_at": "2026-11-12T20:19:21Z",
-      "pushed_at": "2026-11-08T20:34:47Z"
+      "pushed_at": "2026-11-12T22:07:34Z"
     },
     {
       "id": 1448033453,
@@ -6493,6 +6493,21 @@
       "pushed_at": "2026-11-06T17:22:49Z"
     },
     {
+      "id": 1452464401,
+      "name": "tinytraffic",
+      "full_name": "egoist/tinytraffic",
+      "description": "self-host web analytics in a single binary",
+      "html_url": "https://github.com/egoist/tinytraffic",
+      "homepage": null,
+      "stars": 213,
+      "forks": 10,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-11-10T09:39:00Z",
+      "updated_at": "2026-11-13T01:40:26Z",
+      "pushed_at": "2026-11-12T12:08:25Z"
+    },
+    {
       "id": 1413253552,
       "name": "UniForge3D",
       "full_name": "xibushu/UniForge3D",
@@ -6506,21 +6521,6 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
-    },
-    {
-      "id": 1452464401,
-      "name": "tinytraffic",
-      "full_name": "egoist/tinytraffic",
-      "description": "self-host web analytics in a single binary",
-      "html_url": "https://github.com/egoist/tinytraffic",
-      "homepage": null,
-      "stars": 212,
-      "forks": 10,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-11-10T09:39:00Z",
-      "updated_at": "2026-11-12T17:43:22Z",
-      "pushed_at": "2026-11-12T12:08:25Z"
     },
     {
       "id": 1423658114,
@@ -8614,32 +8614,6 @@
       "pushed_at": "2026-10-16T09:26:34Z"
     },
     {
-      "id": 1450650682,
-      "name": "Roblox-Account-Manager-Multi-Account-Tool",
-      "full_name": "ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
-      "description": "Lightweight profile launcher and session organizer for Roblox. Easily manage multiple profiles, launch the game with saved sessions, and organize your playtime. Windows 10/11.",
-      "html_url": "https://github.com/ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
-      "homepage": null,
-      "stars": 187,
-      "forks": 250,
-      "language": "Python",
-      "topics": [
-        "desktop-app",
-        "game-launcher",
-        "gaming-tools",
-        "multi-profile",
-        "open-source",
-        "productivity-tool",
-        "profile-launcher",
-        "roblox",
-        "session-organizer",
-        "windows-utility"
-      ],
-      "created_at": "2026-11-08T20:47:54Z",
-      "updated_at": "2026-11-11T13:49:57Z",
-      "pushed_at": "2026-11-08T20:48:15Z"
-    },
-    {
       "id": 1417980343,
       "name": "ComfyArt",
       "full_name": "jtydhr88/ComfyArt",
@@ -9401,6 +9375,32 @@
       "pushed_at": "2026-10-25T05:32:25Z"
     },
     {
+      "id": 1452733335,
+      "name": "awesome-fable-5.2",
+      "full_name": "fengyiqicoder/awesome-fable-5.2",
+      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 133 live works (every link checked) + 107 video demos, each with a GIF preview and creator credit. Updated daily.",
+      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
+      "homepage": null,
+      "stars": 160,
+      "forks": 22,
+      "language": null,
+      "topics": [
+        "ai-generated",
+        "anthropic",
+        "awesome",
+        "awesome-list",
+        "browser-games",
+        "claude",
+        "claude-fable",
+        "fable-5-2",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-10T13:56:30Z",
+      "updated_at": "2026-11-13T02:22:14Z",
+      "pushed_at": "2026-11-13T02:13:53Z"
+    },
+    {
       "id": 1432640160,
       "name": "skill-diet",
       "full_name": "nicobailon/skill-diet",
@@ -9991,6 +9991,30 @@
       "pushed_at": "2026-11-05T10:06:09Z"
     },
     {
+      "id": 1449965409,
+      "name": "drift-doctor",
+      "full_name": "ToneProtectorSolve48/drift-doctor",
+      "description": "Stick drift test and fix for Windows: gamepad tester, deadzone finder",
+      "html_url": "https://github.com/ToneProtectorSolve48/drift-doctor",
+      "homepage": null,
+      "stars": 145,
+      "forks": 24,
+      "language": "Rust",
+      "topics": [
+        "controller-drift-test",
+        "deadzone-calculator",
+        "dualsense",
+        "gamepad-tester",
+        "joystick-drift",
+        "stick-drift",
+        "xbox-controller",
+        "xinput"
+      ],
+      "created_at": "2026-11-08T04:18:17Z",
+      "updated_at": "2026-11-11T10:39:15Z",
+      "pushed_at": "2026-11-08T04:19:00Z"
+    },
+    {
       "id": 1410815894,
       "name": "autonomous-pentest-agent",
       "full_name": "kutukam/autonomous-pentest-agent",
@@ -10095,32 +10119,6 @@
       "created_at": "2026-11-04T22:52:26Z",
       "updated_at": "2026-11-06T02:03:19Z",
       "pushed_at": "2026-11-06T00:40:01Z"
-    },
-    {
-      "id": 1452733335,
-      "name": "awesome-fable-5.2",
-      "full_name": "fengyiqicoder/awesome-fable-5.2",
-      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 114 live works (every link checked) + 97 video demos, each with a GIF preview and creator credit. Updated daily.",
-      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
-      "homepage": null,
-      "stars": 143,
-      "forks": 21,
-      "language": null,
-      "topics": [
-        "ai-generated",
-        "anthropic",
-        "awesome",
-        "awesome-list",
-        "browser-games",
-        "claude",
-        "claude-fable",
-        "fable-5-2",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-10T13:56:30Z",
-      "updated_at": "2026-11-12T20:10:13Z",
-      "pushed_at": "2026-11-12T17:00:12Z"
     },
     {
       "id": 1403810477,
@@ -10519,11 +10517,11 @@
       "html_url": "https://github.com/lawandrorder/mate",
       "homepage": null,
       "stars": 138,
-      "forks": 3,
+      "forks": 4,
       "language": "Python",
       "topics": [],
       "created_at": "2026-11-12T14:05:28Z",
-      "updated_at": "2026-11-12T15:57:50Z",
+      "updated_at": "2026-11-13T01:50:09Z",
       "pushed_at": "2026-11-12T14:19:03Z"
     },
     {
@@ -11234,6 +11232,21 @@
       "pushed_at": "2026-11-08T05:22:11Z"
     },
     {
+      "id": 1452485821,
+      "name": "calibrain-harness",
+      "full_name": "zadescoxp/calibrain-harness",
+      "description": "Calibrain Harness: a forward-testing harness for trading crypto perpetuals with fast classification models (Kairos today) on Bybit testnet. Under development.",
+      "html_url": "https://github.com/zadescoxp/calibrain-harness",
+      "homepage": null,
+      "stars": 125,
+      "forks": 27,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-10T10:00:30Z",
+      "updated_at": "2026-11-13T01:50:26Z",
+      "pushed_at": "2026-11-11T07:00:26Z"
+    },
+    {
       "id": 1441693752,
       "name": "SP-Flash-Tool",
       "full_name": "Fusenamoon77/SP-Flash-Tool",
@@ -11567,6 +11580,32 @@
       "created_at": "2026-11-06T17:23:39Z",
       "updated_at": "2026-11-06T19:11:55Z",
       "pushed_at": "2026-11-06T17:23:45Z"
+    },
+    {
+      "id": 1450650682,
+      "name": "Roblox-Account-Manager-Multi-Account-Tool",
+      "full_name": "ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
+      "description": "Lightweight profile launcher and session organizer for Roblox. Easily manage multiple profiles, launch the game with saved sessions, and organize your playtime. Windows 10/11.",
+      "html_url": "https://github.com/ServantSieve/Roblox-Account-Manager-Multi-Account-Tool",
+      "homepage": null,
+      "stars": 119,
+      "forks": 93,
+      "language": "Python",
+      "topics": [
+        "desktop-app",
+        "game-launcher",
+        "gaming-tools",
+        "multi-profile",
+        "open-source",
+        "productivity-tool",
+        "profile-launcher",
+        "roblox",
+        "session-organizer",
+        "windows-utility"
+      ],
+      "created_at": "2026-11-08T20:47:54Z",
+      "updated_at": "2026-11-11T14:01:08Z",
+      "pushed_at": "2026-11-08T20:48:15Z"
     },
     {
       "id": 1449614389,
@@ -12438,6 +12477,21 @@
       "pushed_at": "2026-11-02T13:23:09Z"
     },
     {
+      "id": 1449091596,
+      "name": "MOSS-Live",
+      "full_name": "OpenMOSS/MOSS-Live",
+      "description": "A full-duplex real-time interaction system with live audio and vision, continuous conversation, and background tool use.",
+      "html_url": "https://github.com/OpenMOSS/MOSS-Live",
+      "homepage": null,
+      "stars": 108,
+      "forks": 10,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-11-07T06:25:17Z",
+      "updated_at": "2026-11-12T21:06:26Z",
+      "pushed_at": "2026-11-11T04:21:52Z"
+    },
+    {
       "id": 1387850278,
       "name": "simfleet",
       "full_name": "entropyconquers/simfleet",
@@ -12766,6 +12820,26 @@
       "pushed_at": "2026-10-19T12:38:51Z"
     },
     {
+      "id": 1453629308,
+      "name": "IZCIVSwitch",
+      "full_name": "byizmysh/IZCIVSwitch",
+      "description": "Tool for accessing the Nintendo Switch 2 file system through Civilization VII.",
+      "html_url": "https://github.com/byizmysh/IZCIVSwitch",
+      "homepage": null,
+      "stars": 105,
+      "forks": 9,
+      "language": "JavaScript",
+      "topics": [
+        "civ7",
+        "homebrew",
+        "nintendo-switch",
+        "switch2"
+      ],
+      "created_at": "2026-11-11T06:53:24Z",
+      "updated_at": "2026-11-13T01:36:26Z",
+      "pushed_at": "2026-11-12T19:26:38Z"
+    },
+    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -12933,7 +13007,7 @@
       ],
       "created_at": "2026-11-10T19:21:17Z",
       "updated_at": "2026-11-12T13:02:53Z",
-      "pushed_at": "2026-11-12T20:36:44Z"
+      "pushed_at": "2026-11-13T01:37:28Z"
     },
     {
       "id": 1390845863,
@@ -12972,7 +13046,7 @@
       ],
       "created_at": "2026-11-10T19:58:26Z",
       "updated_at": "2026-11-12T13:06:55Z",
-      "pushed_at": "2026-11-12T20:37:25Z"
+      "pushed_at": "2026-11-13T01:38:40Z"
     },
     {
       "id": 1446135312,
@@ -13159,7 +13233,7 @@
       ],
       "created_at": "2026-11-10T19:26:48Z",
       "updated_at": "2026-11-12T13:00:27Z",
-      "pushed_at": "2026-11-12T20:35:06Z"
+      "pushed_at": "2026-11-13T01:36:12Z"
     },
     {
       "id": 1453127355,
@@ -13183,7 +13257,7 @@
       ],
       "created_at": "2026-11-10T19:55:37Z",
       "updated_at": "2026-11-12T13:00:52Z",
-      "pushed_at": "2026-11-12T20:35:16Z"
+      "pushed_at": "2026-11-13T01:36:24Z"
     },
     {
       "id": 1453142553,
@@ -13207,7 +13281,7 @@
       ],
       "created_at": "2026-11-10T20:11:06Z",
       "updated_at": "2026-11-12T13:05:05Z",
-      "pushed_at": "2026-11-12T20:37:49Z"
+      "pushed_at": "2026-11-13T01:38:21Z"
     },
     {
       "id": 1453096982,
@@ -13231,7 +13305,7 @@
       ],
       "created_at": "2026-11-10T19:24:47Z",
       "updated_at": "2026-11-12T13:00:18Z",
-      "pushed_at": "2026-11-12T20:34:49Z"
+      "pushed_at": "2026-11-13T01:35:50Z"
     },
     {
       "id": 1453093036,
@@ -13255,7 +13329,7 @@
       ],
       "created_at": "2026-11-10T19:20:57Z",
       "updated_at": "2026-11-12T13:27:56Z",
-      "pushed_at": "2026-11-12T20:44:48Z"
+      "pushed_at": "2026-11-13T01:44:34Z"
     },
     {
       "id": 1453087740,
@@ -13279,7 +13353,7 @@
       ],
       "created_at": "2026-11-10T19:15:33Z",
       "updated_at": "2026-11-12T13:17:13Z",
-      "pushed_at": "2026-11-12T20:40:58Z"
+      "pushed_at": "2026-11-13T01:42:33Z"
     },
     {
       "id": 1453106430,
@@ -13303,7 +13377,7 @@
       ],
       "created_at": "2026-11-10T19:34:13Z",
       "updated_at": "2026-11-12T12:57:37Z",
-      "pushed_at": "2026-11-12T20:05:21Z"
+      "pushed_at": "2026-11-13T00:46:52Z"
     },
     {
       "id": 1453103705,
@@ -13327,7 +13401,7 @@
       ],
       "created_at": "2026-11-10T19:31:27Z",
       "updated_at": "2026-11-12T13:14:04Z",
-      "pushed_at": "2026-11-12T20:39:33Z"
+      "pushed_at": "2026-11-13T01:42:16Z"
     },
     {
       "id": 1453132580,
@@ -13351,7 +13425,7 @@
       ],
       "created_at": "2026-11-10T20:00:53Z",
       "updated_at": "2026-11-12T08:04:11Z",
-      "pushed_at": "2026-11-12T20:06:30Z"
+      "pushed_at": "2026-11-12T22:38:08Z"
     },
     {
       "id": 1453130797,
@@ -13375,7 +13449,7 @@
       ],
       "created_at": "2026-11-10T19:58:58Z",
       "updated_at": "2026-11-12T13:13:45Z",
-      "pushed_at": "2026-11-12T20:40:04Z"
+      "pushed_at": "2026-11-13T01:42:00Z"
     },
     {
       "id": 1453127971,
@@ -13399,7 +13473,7 @@
       ],
       "created_at": "2026-11-10T19:56:12Z",
       "updated_at": "2026-11-12T12:58:47Z",
-      "pushed_at": "2026-11-12T20:06:12Z"
+      "pushed_at": "2026-11-13T00:48:36Z"
     },
     {
       "id": 1453087349,
@@ -13423,7 +13497,7 @@
       ],
       "created_at": "2026-11-10T19:15:10Z",
       "updated_at": "2026-11-12T13:17:53Z",
-      "pushed_at": "2026-11-12T20:40:45Z"
+      "pushed_at": "2026-11-13T01:43:50Z"
     },
     {
       "id": 1453120226,
@@ -13447,7 +13521,7 @@
       ],
       "created_at": "2026-11-10T19:48:20Z",
       "updated_at": "2026-11-12T13:14:18Z",
-      "pushed_at": "2026-11-12T20:40:03Z"
+      "pushed_at": "2026-11-13T01:41:59Z"
     },
     {
       "id": 1453088920,
@@ -13471,7 +13545,7 @@
       ],
       "created_at": "2026-11-10T19:16:44Z",
       "updated_at": "2026-11-12T13:04:36Z",
-      "pushed_at": "2026-11-12T20:37:27Z"
+      "pushed_at": "2026-11-13T01:38:25Z"
     },
     {
       "id": 1453098884,
@@ -13495,7 +13569,7 @@
       ],
       "created_at": "2026-11-10T19:26:37Z",
       "updated_at": "2026-11-12T13:10:57Z",
-      "pushed_at": "2026-11-12T20:38:57Z"
+      "pushed_at": "2026-11-13T01:40:18Z"
     },
     {
       "id": 1453126411,
@@ -13519,7 +13593,7 @@
       ],
       "created_at": "2026-11-10T19:54:35Z",
       "updated_at": "2026-11-12T13:20:13Z",
-      "pushed_at": "2026-11-12T20:41:27Z"
+      "pushed_at": "2026-11-13T01:43:28Z"
     },
     {
       "id": 1453092805,
@@ -13543,7 +13617,7 @@
       ],
       "created_at": "2026-11-10T19:20:43Z",
       "updated_at": "2026-11-12T13:22:09Z",
-      "pushed_at": "2026-11-12T20:41:34Z"
+      "pushed_at": "2026-11-13T01:43:27Z"
     },
     {
       "id": 1453111842,
@@ -13566,8 +13640,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-10T19:39:50Z",
-      "updated_at": "2026-11-12T01:24:26Z",
-      "pushed_at": "2026-11-11T22:36:59Z"
+      "updated_at": "2026-11-12T13:24:02Z",
+      "pushed_at": "2026-11-13T01:43:55Z"
     },
     {
       "id": 1453099608,
@@ -13590,8 +13664,8 @@
         "windows-software"
       ],
       "created_at": "2026-11-10T19:27:21Z",
-      "updated_at": "2026-11-12T01:14:36Z",
-      "pushed_at": "2026-11-11T22:22:44Z"
+      "updated_at": "2026-11-12T12:58:44Z",
+      "pushed_at": "2026-11-13T00:48:06Z"
     },
     {
       "id": 1453099266,
@@ -13614,8 +13688,321 @@
         "windows-software"
       ],
       "created_at": "2026-11-10T19:27:01Z",
-      "updated_at": "2026-11-12T08:02:05Z",
-      "pushed_at": "2026-11-12T12:04:58Z"
+      "updated_at": "2026-11-12T13:05:02Z",
+      "pushed_at": "2026-11-13T01:38:31Z"
+    },
+    {
+      "id": 1453102385,
+      "name": "direct-mkv-converter",
+      "full_name": "rian0681/direct-mkv-converter",
+      "description": "Direct MKV Converter: Streamline Video to MKV in Your Workflow",
+      "html_url": "https://github.com/rian0681/direct-mkv-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "direct-mkv-converter-installer",
+        "direct-mkv-converter-latest-version",
+        "download-direct-mkv-converter",
+        "mkv-converter",
+        "multimedia",
+        "trial-version",
+        "video-conversion",
+        "video-converter"
+      ],
+      "created_at": "2026-11-10T19:30:09Z",
+      "updated_at": "2026-11-12T13:15:58Z",
+      "pushed_at": "2026-11-13T01:41:42Z"
+    },
+    {
+      "id": 1453118298,
+      "name": "media-format-converter",
+      "full_name": "betastock999-ctrl/media-format-converter",
+      "description": "MakeMKV: Turn Discs Into MKV Media for Your Workflow",
+      "html_url": "https://github.com/betastock999-ctrl/media-format-converter",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "blu-ray-to-mkv-converter",
+        "download-makemkv",
+        "high-definition-audio",
+        "makemkv-windows",
+        "multimedia-converter",
+        "quick-conversion",
+        "trial-version",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:46:26Z",
+      "updated_at": "2026-11-12T13:27:20Z",
+      "pushed_at": "2026-11-13T01:44:38Z"
+    },
+    {
+      "id": 1449315997,
+      "name": "homescape",
+      "full_name": "muratozturkdev/homescape",
+      "description": "Your Home Assistant home as a live, interactive 3D dollhouse. Fully local, no cloud. Every 3D object is generated by code written by AI: no GLB or other model files.",
+      "html_url": "https://github.com/muratozturkdev/homescape",
+      "homepage": "https://homescape.muratozturk.dev",
+      "stars": 102,
+      "forks": 14,
+      "language": "TypeScript",
+      "topics": [
+        "3d",
+        "dashboard",
+        "dollhouse",
+        "floor-plan",
+        "home-assistant",
+        "home-assistant-addon",
+        "react-three-fiber",
+        "smart-home",
+        "threejs"
+      ],
+      "created_at": "2026-11-07T12:00:11Z",
+      "updated_at": "2026-11-13T01:29:06Z",
+      "pushed_at": "2026-11-12T14:31:20Z"
+    },
+    {
+      "id": 1453142183,
+      "name": "winzip-universal",
+      "full_name": "wesleyarjo/winzip-universal",
+      "description": "WinZip Universal: Multi-Format File Compression and Secure Sharing Tool for Windows",
+      "html_url": "https://github.com/wesleyarjo/winzip-universal",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "decompress-files",
+        "encrypt-files",
+        "tools",
+        "trial-version",
+        "winzip-installer",
+        "winzip-latest-version",
+        "winzip-setup",
+        "winzip-universal-download"
+      ],
+      "created_at": "2026-11-10T20:10:44Z",
+      "updated_at": "2026-11-12T08:04:43Z",
+      "pushed_at": "2026-11-12T23:20:54Z"
+    },
+    {
+      "id": 1453130858,
+      "name": "shadow-defender",
+      "full_name": "nageshbhaskar2941-boop/shadow-defender",
+      "description": "Shadow-Defender: Windows Virtualization Tool for Isolated Application Testing",
+      "html_url": "https://github.com/nageshbhaskar2941-boop/shadow-defender",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "safe-installation",
+        "shadow-defender-download",
+        "shadow-defender-free",
+        "shadow-defender-windows",
+        "trial-version",
+        "virtual-system",
+        "windows",
+        "windows-10"
+      ],
+      "created_at": "2026-11-10T19:59:02Z",
+      "updated_at": "2026-11-12T13:16:17Z",
+      "pushed_at": "2026-11-13T01:42:20Z"
+    },
+    {
+      "id": 1453096917,
+      "name": "burnintest-desktop",
+      "full_name": "salahzz/burnintest-desktop",
+      "description": "BurnInTest: Windows Benchmarking Tool for Simultaneous CPU, RAM, and Hard Drive Testing",
+      "html_url": "https://github.com/salahzz/burnintest-desktop",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "benchmarks",
+        "burnintest-installer",
+        "free-benchmarks",
+        "pc-tools",
+        "software-tools",
+        "tools",
+        "trial-version",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:24:43Z",
+      "updated_at": "2026-11-12T13:05:26Z",
+      "pushed_at": "2026-11-13T01:38:42Z"
+    },
+    {
+      "id": 1453095638,
+      "name": "backup-tool",
+      "full_name": "ctrlabackspace/backup-tool",
+      "description": "BackRex Expert Backup: Windows system, browser, and Office backup and restore tool",
+      "html_url": "https://github.com/ctrlabackspace/backup-tool",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "backrex-expert-backup",
+        "backrex-expert-backup-windows",
+        "backup-solution",
+        "backups",
+        "restore-system",
+        "software",
+        "trial-version",
+        "windows"
+      ],
+      "created_at": "2026-11-10T19:23:28Z",
+      "updated_at": "2026-11-12T13:24:37Z",
+      "pushed_at": "2026-11-13T01:44:08Z"
+    },
+    {
+      "id": 1453118703,
+      "name": "media-toolkit",
+      "full_name": "almeerhuzaifa02-star/media-toolkit",
+      "description": "Easy-M4p-Converter: Visual Media Workflow for Audio Extraction and Conversion",
+      "html_url": "https://github.com/almeerhuzaifa02-star/media-toolkit",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "Dockerfile",
+      "topics": [
+        "audio-file-conversion",
+        "convert-m4p-to-mp3",
+        "extract-audio-from-video",
+        "itunes-integration",
+        "mp3-converter",
+        "tools",
+        "trial-version",
+        "windows-software"
+      ],
+      "created_at": "2026-11-10T19:46:49Z",
+      "updated_at": "2026-11-12T13:09:15Z",
+      "pushed_at": "2026-11-13T01:40:20Z"
+    },
+    {
+      "id": 1453105978,
+      "name": "farmville-tools",
+      "full_name": "gustavosales17032000-beep/farmville-tools",
+      "description": "Farmville-Tools: Automate Harvesting and Plowing for a Thriving Farm",
+      "html_url": "https://github.com/gustavosales17032000-beep/farmville-tools",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "download-farmville-tools",
+        "farmville-tools-windows",
+        "games",
+        "harvest-crops",
+        "open-source",
+        "pc-games",
+        "plow-fields",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:33:45Z",
+      "updated_at": "2026-11-12T16:45:38Z",
+      "pushed_at": "2026-11-13T01:55:33Z"
+    },
+    {
+      "id": 1453112770,
+      "name": "inpaint-media-tool",
+      "full_name": "mupenzijonathan8-maker/inpaint-media-tool",
+      "description": "Inpaint: Brush Away Unwanted Objects and Refine Every Photo",
+      "html_url": "https://github.com/mupenzijonathan8-maker/inpaint-media-tool",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "background-replacement",
+        "freeware",
+        "image-editors",
+        "inpaint-installer",
+        "inpaint-latest-version",
+        "inpaint-setup",
+        "inpaint-windows",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T19:40:48Z",
+      "updated_at": "2026-11-12T08:02:58Z",
+      "pushed_at": "2026-11-13T01:40:40Z"
+    },
+    {
+      "id": 1453112392,
+      "name": "hypersnap-screenshot-tool",
+      "full_name": "Ayayousef25/hypersnap-screenshot-tool",
+      "description": "HyperSnap: Advanced Windows Screenshot and Image Editing Tool",
+      "html_url": "https://github.com/Ayayousef25/hypersnap-screenshot-tool",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "hypersnap-free",
+        "hypersnap-installer",
+        "hypersnap-latest-version",
+        "pc-tools",
+        "screenshots",
+        "software",
+        "trial-version",
+        "website-capture"
+      ],
+      "created_at": "2026-11-10T19:40:24Z",
+      "updated_at": "2026-11-12T13:26:50Z",
+      "pushed_at": "2026-11-13T01:44:08Z"
+    },
+    {
+      "id": 1453134074,
+      "name": "statgraphics-analytics-toolkit",
+      "full_name": "LuisREthos/statgraphics-analytics-toolkit",
+      "description": "Statgraphics: Advanced Statistical Analysis and Data Visualization for Windows",
+      "html_url": "https://github.com/LuisREthos/statgraphics-analytics-toolkit",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "education-software",
+        "for-statistics",
+        "maths-software",
+        "six-sigma-toolbox",
+        "software",
+        "statgraphics",
+        "statgraphics-latest-version",
+        "trial-version"
+      ],
+      "created_at": "2026-11-10T20:02:26Z",
+      "updated_at": "2026-11-12T12:59:53Z",
+      "pushed_at": "2026-11-13T00:49:25Z"
+    },
+    {
+      "id": 1453127235,
+      "name": "photodirector-media-tool",
+      "full_name": "chopimzmohamed-coder/photodirector-media-tool",
+      "description": "Photodirector: Visual Storytelling and Non-Destructive Edits in One Workflow",
+      "html_url": "https://github.com/chopimzmohamed-coder/photodirector-media-tool",
+      "homepage": null,
+      "stars": 102,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "image-editors",
+        "photo-enhancements",
+        "photodirector",
+        "photodirector-download",
+        "photodirector-free",
+        "trial-version",
+        "windows-7",
+        "windows-8"
+      ],
+      "created_at": "2026-11-10T19:55:30Z",
+      "updated_at": "2026-11-12T13:10:17Z",
+      "pushed_at": "2026-11-13T01:40:27Z"
     },
     {
       "id": 1385781283,
@@ -13715,7 +14102,7 @@
       ],
       "created_at": "2026-11-10T20:00:28Z",
       "updated_at": "2026-11-12T12:57:10Z",
-      "pushed_at": "2026-11-12T20:06:26Z"
+      "pushed_at": "2026-11-13T00:46:18Z"
     },
     {
       "id": 1453121834,
@@ -13739,7 +14126,7 @@
       ],
       "created_at": "2026-11-10T19:49:55Z",
       "updated_at": "2026-11-12T13:04:12Z",
-      "pushed_at": "2026-11-12T20:37:35Z"
+      "pushed_at": "2026-11-13T01:37:59Z"
     },
     {
       "id": 1405556648,
@@ -21805,6 +22192,28 @@
       "pushed_at": "2026-10-26T15:18:35Z"
     },
     {
+      "id": 1451146401,
+      "name": "USDT-Apple-Pay-Google-Pay",
+      "full_name": "murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
+      "description": "CoreGold Virtual Card: Pay Globally with USDT, Apple Pay & Google Pay",
+      "html_url": "https://github.com/murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
+      "homepage": "https://app.coregold.io/signup?invite_code=SA_KKZ8",
+      "stars": 31,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "apple-pay",
+        "google-pay",
+        "usdt-checkout",
+        "virtual-card",
+        "virtual-card-code",
+        "virtual-cards"
+      ],
+      "created_at": "2026-11-09T09:06:27Z",
+      "updated_at": "2026-11-12T09:41:32Z",
+      "pushed_at": "2026-11-09T09:10:02Z"
+    },
+    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -22328,6 +22737,28 @@
       "pushed_at": "2026-10-31T08:47:59Z"
     },
     {
+      "id": 1454330892,
+      "name": "point-remote-card",
+      "full_name": "onkeloki/point-remote-card",
+      "description": "Home Assistant card: point your phone at a lamp, blind, TV or speaker to control it – compass-based pointing remote, no extra hardware",
+      "html_url": "https://github.com/onkeloki/point-remote-card",
+      "homepage": null,
+      "stars": 28,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "custom-card",
+        "hacs",
+        "home-assistant",
+        "homeassistant",
+        "lovelace",
+        "lovelace-card"
+      ],
+      "created_at": "2026-11-11T18:10:10Z",
+      "updated_at": "2026-11-13T01:41:21Z",
+      "pushed_at": "2026-11-12T19:54:44Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -22407,28 +22838,6 @@
       "created_at": "2026-10-30T11:30:31Z",
       "updated_at": "2026-11-05T04:57:57Z",
       "pushed_at": "2026-11-03T13:13:53Z"
-    },
-    {
-      "id": 1451146401,
-      "name": "USDT-Apple-Pay-Google-Pay",
-      "full_name": "murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
-      "description": "CoreGold Virtual Card: Pay Globally with USDT, Apple Pay & Google Pay",
-      "html_url": "https://github.com/murebivoq94-afk/USDT-Apple-Pay-Google-Pay",
-      "homepage": "https://app.coregold.io/signup?invite_code=SA_KKZ8",
-      "stars": 27,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "apple-pay",
-        "google-pay",
-        "usdt-checkout",
-        "virtual-card",
-        "virtual-card-code",
-        "virtual-cards"
-      ],
-      "created_at": "2026-11-09T09:06:27Z",
-      "updated_at": "2026-11-11T11:30:27Z",
-      "pushed_at": "2026-11-09T09:10:02Z"
     },
     {
       "id": 1437331584,
@@ -23060,6 +23469,42 @@
       "created_at": "2026-11-06T14:11:34Z",
       "updated_at": "2026-11-11T11:23:04Z",
       "pushed_at": "2026-11-08T04:19:58Z"
+    },
+    {
+      "id": 1452649776,
+      "name": "lumela",
+      "full_name": "tw4/lumela",
+      "description": "CleanShot-style screenshots for Windows, macOS and Linux. Free and open source: capture, beautify, annotate, copy text (on-device OCR), and emails, card numbers, IPs and API keys are blurred for you.",
+      "html_url": "https://github.com/tw4/lumela",
+      "homepage": "https://github.com/tw4/lumela#readme",
+      "stars": 23,
+      "forks": 6,
+      "language": "TypeScript",
+      "topics": [
+        "annotation",
+        "beautify-screenshots",
+        "cleanshot-alternative",
+        "cross-platform",
+        "linux",
+        "macos",
+        "ocr",
+        "privacy",
+        "redaction",
+        "rust",
+        "screen-capture",
+        "screenshot",
+        "screenshot-beautifier",
+        "screenshot-tool",
+        "sharex-alternative",
+        "tauri",
+        "tauri-app",
+        "text-recognition",
+        "typescript",
+        "windows"
+      ],
+      "created_at": "2026-11-10T12:43:17Z",
+      "updated_at": "2026-11-12T17:00:22Z",
+      "pushed_at": "2026-11-12T17:25:58Z"
     },
     {
       "id": 1413789740,
