@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/16 07:51:47",
-  "total_repos": 1172,
+  "fetched_at": "2026/11/16 13:38:08",
+  "total_repos": 1175,
   "repos": [
     {
       "id": 1425658028,
@@ -843,22 +843,7 @@
       ],
       "created_at": "2026-11-12T19:38:53Z",
       "updated_at": "2026-11-15T20:53:01Z",
-      "pushed_at": "2026-11-15T23:50:28Z"
-    },
-    {
-      "id": 1440965926,
-      "name": "NSP-Box",
-      "full_name": "smarkyie/NSP-Box",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "html_url": "https://github.com/smarkyie/NSP-Box",
-      "homepage": null,
-      "stars": 507,
-      "forks": 35,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-10-31T15:00:55Z",
-      "updated_at": "2026-11-06T18:12:24Z",
-      "pushed_at": "2026-11-03T18:34:28Z"
+      "pushed_at": "2026-11-16T05:30:29Z"
     },
     {
       "id": 1455751043,
@@ -867,7 +852,7 @@
       "description": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
       "html_url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
       "homepage": null,
-      "stars": 507,
+      "stars": 508,
       "forks": 15,
       "language": null,
       "topics": [
@@ -893,8 +878,23 @@
         "model-context-protocol"
       ],
       "created_at": "2026-11-12T19:39:54Z",
-      "updated_at": "2026-11-15T19:20:52Z",
-      "pushed_at": "2026-11-15T23:42:28Z"
+      "updated_at": "2026-11-16T02:54:34Z",
+      "pushed_at": "2026-11-16T05:32:31Z"
+    },
+    {
+      "id": 1440965926,
+      "name": "NSP-Box",
+      "full_name": "smarkyie/NSP-Box",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "html_url": "https://github.com/smarkyie/NSP-Box",
+      "homepage": null,
+      "stars": 507,
+      "forks": 35,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-31T15:00:55Z",
+      "updated_at": "2026-11-06T18:12:24Z",
+      "pushed_at": "2026-11-03T18:34:28Z"
     },
     {
       "id": 1428519987,
@@ -1196,6 +1196,34 @@
       "created_at": "2026-10-06T22:55:13Z",
       "updated_at": "2026-10-12T03:07:34Z",
       "pushed_at": "2026-10-12T01:15:52Z"
+    },
+    {
+      "id": 1455933518,
+      "name": "gpucanvas",
+      "full_name": "berkantay/gpucanvas",
+      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "html_url": "https://github.com/berkantay/gpucanvas",
+      "homepage": "https://berkantay.github.io/gpucanvas/",
+      "stars": 488,
+      "forks": 31,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas",
+        "infinite-canvas",
+        "react",
+        "shaders",
+        "transitions",
+        "typescript",
+        "webgpu",
+        "wgsl"
+      ],
+      "created_at": "2026-11-12T23:19:42Z",
+      "updated_at": "2026-11-16T05:16:47Z",
+      "pushed_at": "2026-11-15T21:14:18Z"
     },
     {
       "id": 1430297568,
@@ -1859,34 +1887,6 @@
       "pushed_at": "2026-11-10T10:44:01Z"
     },
     {
-      "id": 1455933518,
-      "name": "gpucanvas",
-      "full_name": "berkantay/gpucanvas",
-      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "html_url": "https://github.com/berkantay/gpucanvas",
-      "homepage": "https://berkantay.github.io/gpucanvas/",
-      "stars": 480,
-      "forks": 29,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas",
-        "infinite-canvas",
-        "react",
-        "shaders",
-        "transitions",
-        "typescript",
-        "webgpu",
-        "wgsl"
-      ],
-      "created_at": "2026-11-12T23:19:42Z",
-      "updated_at": "2026-11-15T22:32:01Z",
-      "pushed_at": "2026-11-15T21:14:18Z"
-    },
-    {
       "id": 1448736961,
       "name": "delta-executor-toolkit",
       "full_name": "tss878/delta-executor-toolkit",
@@ -2226,6 +2226,101 @@
       "created_at": "2026-10-28T04:29:29Z",
       "updated_at": "2026-10-28T22:16:48Z",
       "pushed_at": "2026-10-28T11:35:35Z"
+    },
+    {
+      "id": 1457165749,
+      "name": "vegas-pro-23-desktop",
+      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
+      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
+      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
+      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
+      "stars": 449,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "audio-mixing",
+        "blu-ray-authoring",
+        "color-correction",
+        "color-grading",
+        "content-creation",
+        "dvd-authoring",
+        "keyframe-animation",
+        "magix-vegas",
+        "multitrack-editor",
+        "nle",
+        "timeline-editor",
+        "vegas-pro-23",
+        "vegas-pro-edit",
+        "vegas-pro-full",
+        "video-editing",
+        "video-editor",
+        "video-effects",
+        "video-processing",
+        "video-production",
+        "windows-video-editor"
+      ],
+      "created_at": "2026-11-13T22:34:10Z",
+      "updated_at": "2026-11-16T05:37:50Z",
+      "pushed_at": "2026-11-16T00:35:44Z"
+    },
+    {
+      "id": 1457235941,
+      "name": "leonardo-ai-desktop",
+      "full_name": "brave-plum-co/leonardo-ai-desktop",
+      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
+      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
+      "stars": 447,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-art-platform",
+        "ai-creative-suite",
+        "ai-generation-tools",
+        "ai-image-generator",
+        "ai-image-tools",
+        "generative-ai-art",
+        "leonardo-ai-api",
+        "leonardo-ai-api-wrapper",
+        "leonardo-ai-automation",
+        "leonardo-ai-extension",
+        "leonardo-ai-generator",
+        "leonardo-ai-integration",
+        "leonardo-ai-models",
+        "leonardo-ai-prompt-tools",
+        "leonardo-ai-scripts",
+        "leonardo-ai-style-tools",
+        "leonardo-ai-tools",
+        "leonardo-ai-utilities",
+        "leonardo-ai-workflow"
+      ],
+      "created_at": "2026-11-14T00:23:46Z",
+      "updated_at": "2026-11-16T05:33:34Z",
+      "pushed_at": "2026-11-16T01:43:49Z"
+    },
+    {
+      "id": 1457250612,
+      "name": "malware-defender-desktop",
+      "full_name": "brisk-thrush-husky/malware-defender-desktop",
+      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
+      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
+      "stars": 446,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "download-malware-defender",
+        "firewall",
+        "malware-defender-download",
+        "malware-defender-latest-version",
+        "real-time-protection",
+        "rootkit-removal",
+        "spyware-removal",
+        "trial-version"
+      ],
+      "created_at": "2026-11-14T00:49:03Z",
+      "updated_at": "2026-11-16T05:37:45Z",
+      "pushed_at": "2026-11-16T01:41:38Z"
     },
     {
       "id": 1437812726,
@@ -3971,30 +4066,6 @@
       "pushed_at": "2026-11-02T02:16:00Z"
     },
     {
-      "id": 1457250612,
-      "name": "malware-defender-desktop",
-      "full_name": "brisk-thrush-husky/malware-defender-desktop",
-      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
-      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
-      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
-      "stars": 376,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "download-malware-defender",
-        "firewall",
-        "malware-defender-download",
-        "malware-defender-latest-version",
-        "real-time-protection",
-        "rootkit-removal",
-        "spyware-removal",
-        "trial-version"
-      ],
-      "created_at": "2026-11-14T00:49:03Z",
-      "updated_at": "2026-11-15T23:51:14Z",
-      "pushed_at": "2026-11-15T21:33:58Z"
-    },
-    {
       "id": 1458099148,
       "name": "ai--manus2.0",
       "full_name": "violetkomodolimit/ai--manus2.0",
@@ -4065,77 +4136,6 @@
       "created_at": "2026-11-14T19:25:17Z",
       "updated_at": "2026-11-15T18:30:32Z",
       "pushed_at": "2026-11-15T10:32:40Z"
-    },
-    {
-      "id": 1457165749,
-      "name": "vegas-pro-23-desktop",
-      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
-      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
-      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
-      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
-      "stars": 373,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "audio-mixing",
-        "blu-ray-authoring",
-        "color-correction",
-        "color-grading",
-        "content-creation",
-        "dvd-authoring",
-        "keyframe-animation",
-        "magix-vegas",
-        "multitrack-editor",
-        "nle",
-        "timeline-editor",
-        "vegas-pro-23",
-        "vegas-pro-edit",
-        "vegas-pro-full",
-        "video-editing",
-        "video-editor",
-        "video-effects",
-        "video-processing",
-        "video-production",
-        "windows-video-editor"
-      ],
-      "created_at": "2026-11-13T22:34:10Z",
-      "updated_at": "2026-11-15T23:50:48Z",
-      "pushed_at": "2026-11-15T20:54:39Z"
-    },
-    {
-      "id": 1457235941,
-      "name": "leonardo-ai-desktop",
-      "full_name": "brave-plum-co/leonardo-ai-desktop",
-      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
-      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
-      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
-      "stars": 373,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "ai-art-platform",
-        "ai-creative-suite",
-        "ai-generation-tools",
-        "ai-image-generator",
-        "ai-image-tools",
-        "generative-ai-art",
-        "leonardo-ai-api",
-        "leonardo-ai-api-wrapper",
-        "leonardo-ai-automation",
-        "leonardo-ai-extension",
-        "leonardo-ai-generator",
-        "leonardo-ai-integration",
-        "leonardo-ai-models",
-        "leonardo-ai-prompt-tools",
-        "leonardo-ai-scripts",
-        "leonardo-ai-style-tools",
-        "leonardo-ai-tools",
-        "leonardo-ai-utilities",
-        "leonardo-ai-workflow"
-      ],
-      "created_at": "2026-11-14T00:23:46Z",
-      "updated_at": "2026-11-15T23:50:14Z",
-      "pushed_at": "2026-11-15T21:36:22Z"
     },
     {
       "id": 1415972784,
@@ -4390,6 +4390,42 @@
       "pushed_at": "2026-09-24T03:51:47Z"
     },
     {
+      "id": 1458202799,
+      "name": "pro-tools-desktop",
+      "full_name": "alicebrown323/pro-tools-desktop",
+      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
+      "html_url": "https://github.com/alicebrown323/pro-tools-desktop",
+      "homepage": "https://alicebrown323.github.io/pro-tools-desktop/",
+      "stars": 364,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-generation-tools",
+        "ai-tools",
+        "architecture",
+        "command-line-tool",
+        "developer-tools",
+        "font",
+        "hackingtools",
+        "large-language-models",
+        "leonardo-ai-tools",
+        "network-tools",
+        "pdf-tools",
+        "pro-tools",
+        "redux-thunk",
+        "registry-tools",
+        "snu2dprogrammingtools",
+        "snuprogrammingtools",
+        "tailwind-css",
+        "text-to-image",
+        "web-development",
+        "windows-tools"
+      ],
+      "created_at": "2026-11-14T21:36:08Z",
+      "updated_at": "2026-11-16T05:36:24Z",
+      "pushed_at": "2026-11-16T03:42:39Z"
+    },
+    {
       "id": 1431077783,
       "name": "unthemidator",
       "full_name": "x86rc/unthemidator",
@@ -4403,6 +4439,78 @@
       "created_at": "2026-10-23T13:23:19Z",
       "updated_at": "2026-10-29T20:16:27Z",
       "pushed_at": "2026-10-28T10:56:39Z"
+    },
+    {
+      "id": 1458203061,
+      "name": "discord-nitro-premium-desktop",
+      "full_name": "carlos-lane-09/discord-nitro-premium-desktop",
+      "description": "Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11",
+      "html_url": "https://github.com/carlos-lane-09/discord-nitro-premium-desktop",
+      "homepage": "https://carlos-lane-09.github.io/discord-nitro-premium-desktop/",
+      "stars": 360,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-badge",
+        "discord-bot",
+        "discord-bot-api",
+        "discord-rich-presence",
+        "discordjs",
+        "discordnitro",
+        "discordpy",
+        "discordtokenchecker",
+        "emoji",
+        "free",
+        "fun",
+        "generator",
+        "nitro",
+        "nitrogen",
+        "node",
+        "server",
+        "streaming",
+        "tool"
+      ],
+      "created_at": "2026-11-14T21:36:29Z",
+      "updated_at": "2026-11-16T05:37:10Z",
+      "pushed_at": "2026-11-16T04:26:55Z"
+    },
+    {
+      "id": 1458203251,
+      "name": "discord-nitro-desktop",
+      "full_name": "carla-marsh-29/discord-nitro-desktop",
+      "description": "Discord Nitro 2026 desktop setup with full plugin suite, portable mode and bundled runtime for Windows 11",
+      "html_url": "https://github.com/carla-marsh-29/discord-nitro-desktop",
+      "homepage": "https://carla-marsh-29.github.io/discord-nitro-desktop/",
+      "stars": 359,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-bot",
+        "discord-bot-api",
+        "discord-rich-presence",
+        "discordjs",
+        "discordnitro",
+        "discordpy",
+        "discordtokenchecker",
+        "emoji",
+        "free",
+        "fun",
+        "generator",
+        "nitro",
+        "nitrogen",
+        "node",
+        "server",
+        "streaming",
+        "token",
+        "tool"
+      ],
+      "created_at": "2026-11-14T21:36:43Z",
+      "updated_at": "2026-11-16T05:32:41Z",
+      "pushed_at": "2026-11-16T04:47:31Z"
     },
     {
       "id": 1436420580,
@@ -4457,78 +4565,6 @@
       "created_at": "2026-11-05T13:58:29Z",
       "updated_at": "2026-11-11T20:59:54Z",
       "pushed_at": "2026-11-06T15:05:49Z"
-    },
-    {
-      "id": 1458202799,
-      "name": "pro-tools-desktop",
-      "full_name": "alicebrown323/pro-tools-desktop",
-      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
-      "html_url": "https://github.com/alicebrown323/pro-tools-desktop",
-      "homepage": "https://alicebrown323.github.io/pro-tools-desktop/",
-      "stars": 352,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "ai-generation-tools",
-        "ai-tools",
-        "architecture",
-        "command-line-tool",
-        "developer-tools",
-        "font",
-        "hackingtools",
-        "large-language-models",
-        "leonardo-ai-tools",
-        "network-tools",
-        "pdf-tools",
-        "pro-tools",
-        "redux-thunk",
-        "registry-tools",
-        "snu2dprogrammingtools",
-        "snuprogrammingtools",
-        "tailwind-css",
-        "text-to-image",
-        "web-development",
-        "windows-tools"
-      ],
-      "created_at": "2026-11-14T21:36:08Z",
-      "updated_at": "2026-11-15T23:50:14Z",
-      "pushed_at": "2026-11-15T23:14:42Z"
-    },
-    {
-      "id": 1458203251,
-      "name": "discord-nitro-desktop",
-      "full_name": "carla-marsh-29/discord-nitro-desktop",
-      "description": "Discord Nitro 2026 desktop setup with full plugin suite, portable mode and bundled runtime for Windows 11",
-      "html_url": "https://github.com/carla-marsh-29/discord-nitro-desktop",
-      "homepage": "https://carla-marsh-29.github.io/discord-nitro-desktop/",
-      "stars": 351,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "discord",
-        "discord-api",
-        "discord-bot",
-        "discord-bot-api",
-        "discord-rich-presence",
-        "discordjs",
-        "discordnitro",
-        "discordpy",
-        "discordtokenchecker",
-        "emoji",
-        "free",
-        "fun",
-        "generator",
-        "nitro",
-        "nitrogen",
-        "node",
-        "server",
-        "streaming",
-        "token",
-        "tool"
-      ],
-      "created_at": "2026-11-14T21:36:43Z",
-      "updated_at": "2026-11-15T23:51:07Z",
-      "pushed_at": "2026-11-15T23:45:24Z"
     },
     {
       "id": 1434973188,
@@ -4944,6 +4980,32 @@
       "pushed_at": "2026-10-22T23:33:10Z"
     },
     {
+      "id": 1452733335,
+      "name": "awesome-fable-5.2",
+      "full_name": "fengyiqicoder/awesome-fable-5.2",
+      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 172 live works (every link checked) + 126 video demos, each with a GIF preview and creator credit. Updated daily.",
+      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
+      "homepage": "https://fablelist.000ooo.ooo/",
+      "stars": 317,
+      "forks": 32,
+      "language": null,
+      "topics": [
+        "ai-generated",
+        "anthropic",
+        "awesome",
+        "awesome-list",
+        "browser-games",
+        "claude",
+        "claude-fable",
+        "fable-5-2",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-10T13:56:30Z",
+      "updated_at": "2026-11-16T04:58:55Z",
+      "pushed_at": "2026-11-16T01:57:17Z"
+    },
+    {
       "id": 1381875232,
       "name": "corz-client",
       "full_name": "zeldaboyzlix/corz-client",
@@ -5044,32 +5106,6 @@
       "created_at": "2026-11-01T10:14:47Z",
       "updated_at": "2026-11-01T14:24:15Z",
       "pushed_at": "2026-11-01T10:14:53Z"
-    },
-    {
-      "id": 1452733335,
-      "name": "awesome-fable-5.2",
-      "full_name": "fengyiqicoder/awesome-fable-5.2",
-      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 166 live works (every link checked) + 122 video demos, each with a GIF preview and creator credit. Updated daily.",
-      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
-      "homepage": "https://fablelist.000ooo.ooo/",
-      "stars": 308,
-      "forks": 32,
-      "language": null,
-      "topics": [
-        "ai-generated",
-        "anthropic",
-        "awesome",
-        "awesome-list",
-        "browser-games",
-        "claude",
-        "claude-fable",
-        "fable-5-2",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-10T13:56:30Z",
-      "updated_at": "2026-11-15T22:13:09Z",
-      "pushed_at": "2026-11-15T14:17:14Z"
     },
     {
       "id": 1443244793,
@@ -7726,6 +7762,21 @@
       "created_at": "2026-10-24T14:02:58Z",
       "updated_at": "2026-10-30T21:08:47Z",
       "pushed_at": "2026-10-28T06:20:54Z"
+    },
+    {
+      "id": 1456652206,
+      "name": "Nexus",
+      "full_name": "ysunyang4/Nexus",
+      "description": "Web AI for local work",
+      "html_url": "https://github.com/ysunyang4/Nexus",
+      "homepage": null,
+      "stars": 229,
+      "forks": 41,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-13T13:46:21Z",
+      "updated_at": "2026-11-16T05:37:00Z",
+      "pushed_at": "2026-11-15T05:44:45Z"
     },
     {
       "id": 1416989474,
@@ -11538,6 +11589,21 @@
       "pushed_at": "2026-11-12T20:03:18Z"
     },
     {
+      "id": 1456707936,
+      "name": "mmforge-platform",
+      "full_name": "EunChae1110/mmforge-platform",
+      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
+      "html_url": "https://github.com/EunChae1110/mmforge-platform",
+      "homepage": "https://mmforge-platform.vercel.app/",
+      "stars": 150,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-13T14:36:14Z",
+      "updated_at": "2026-11-16T05:31:58Z",
+      "pushed_at": "2026-11-15T07:24:15Z"
+    },
+    {
       "id": 1418592001,
       "name": "ComfyUI-MangaScreen",
       "full_name": "ashukae/ComfyUI-MangaScreen",
@@ -12608,21 +12674,6 @@
       "pushed_at": "2026-11-12T14:19:03Z"
     },
     {
-      "id": 1456652206,
-      "name": "Nexus",
-      "full_name": "ysunyang4/Nexus",
-      "description": "Web AI for local work",
-      "html_url": "https://github.com/ysunyang4/Nexus",
-      "homepage": null,
-      "stars": 141,
-      "forks": 24,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-13T13:46:21Z",
-      "updated_at": "2026-11-15T23:50:52Z",
-      "pushed_at": "2026-11-15T05:44:45Z"
-    },
-    {
       "id": 1438077215,
       "name": "Claude-Jailbreak-Prompt",
       "full_name": "segmentdeputyhaul/Claude-Jailbreak-Prompt",
@@ -13032,6 +13083,21 @@
       "pushed_at": "2026-10-27T12:08:11Z"
     },
     {
+      "id": 1458072997,
+      "name": "GoW-Ascension-Recomp",
+      "full_name": "bc160201983/GoW-Ascension-Recomp",
+      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
+      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+      "homepage": "https://www.patreon.com/c/bilalreloaded",
+      "stars": 135,
+      "forks": 3,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-11-14T18:53:22Z",
+      "updated_at": "2026-11-16T04:11:05Z",
+      "pushed_at": "2026-11-15T20:39:33Z"
+    },
+    {
       "id": 1426805854,
       "name": "mw4-texture-streaming-research",
       "full_name": "voidfnc/mw4-texture-streaming-research",
@@ -13355,21 +13421,6 @@
       "created_at": "2026-11-13T12:40:16Z",
       "updated_at": "2026-11-14T12:59:33Z",
       "pushed_at": "2026-11-13T13:04:53Z"
-    },
-    {
-      "id": 1458072997,
-      "name": "GoW-Ascension-Recomp",
-      "full_name": "bc160201983/GoW-Ascension-Recomp",
-      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
-      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
-      "homepage": "https://www.patreon.com/c/bilalreloaded",
-      "stars": 129,
-      "forks": 2,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-11-14T18:53:22Z",
-      "updated_at": "2026-11-15T21:55:18Z",
-      "pushed_at": "2026-11-15T20:39:33Z"
     },
     {
       "id": 1385750356,
@@ -15516,7 +15567,7 @@
       ],
       "created_at": "2026-11-10T19:21:17Z",
       "updated_at": "2026-11-14T17:18:03Z",
-      "pushed_at": "2026-11-15T20:57:02Z"
+      "pushed_at": "2026-11-16T00:44:38Z"
     },
     {
       "id": 1390845863,
@@ -15555,7 +15606,7 @@
       ],
       "created_at": "2026-11-10T19:58:26Z",
       "updated_at": "2026-11-14T17:54:00Z",
-      "pushed_at": "2026-11-15T21:27:04Z"
+      "pushed_at": "2026-11-16T01:32:34Z"
     },
     {
       "id": 1446135312,
@@ -15742,7 +15793,7 @@
       ],
       "created_at": "2026-11-10T19:26:48Z",
       "updated_at": "2026-11-12T13:00:27Z",
-      "pushed_at": "2026-11-15T20:52:43Z"
+      "pushed_at": "2026-11-16T00:34:04Z"
     },
     {
       "id": 1453127355,
@@ -15766,7 +15817,7 @@
       ],
       "created_at": "2026-11-10T19:55:37Z",
       "updated_at": "2026-11-14T17:16:55Z",
-      "pushed_at": "2026-11-15T20:53:42Z"
+      "pushed_at": "2026-11-16T00:35:43Z"
     },
     {
       "id": 1453142553,
@@ -15790,7 +15841,7 @@
       ],
       "created_at": "2026-11-10T20:11:06Z",
       "updated_at": "2026-11-14T17:54:28Z",
-      "pushed_at": "2026-11-15T21:26:17Z"
+      "pushed_at": "2026-11-16T01:31:42Z"
     },
     {
       "id": 1453096982,
@@ -15814,7 +15865,7 @@
       ],
       "created_at": "2026-11-10T19:24:47Z",
       "updated_at": "2026-11-12T13:00:18Z",
-      "pushed_at": "2026-11-15T20:52:23Z"
+      "pushed_at": "2026-11-16T00:34:02Z"
     },
     {
       "id": 1453093036,
@@ -15838,7 +15889,7 @@
       ],
       "created_at": "2026-11-10T19:20:57Z",
       "updated_at": "2026-11-14T17:53:02Z",
-      "pushed_at": "2026-11-15T19:40:05Z"
+      "pushed_at": "2026-11-15T23:54:33Z"
     },
     {
       "id": 1453087740,
@@ -15862,7 +15913,7 @@
       ],
       "created_at": "2026-11-10T19:15:33Z",
       "updated_at": "2026-11-12T13:17:13Z",
-      "pushed_at": "2026-11-15T22:33:46Z"
+      "pushed_at": "2026-11-16T02:36:47Z"
     },
     {
       "id": 1453106430,
@@ -15886,7 +15937,7 @@
       ],
       "created_at": "2026-11-10T19:34:13Z",
       "updated_at": "2026-11-14T17:53:24Z",
-      "pushed_at": "2026-11-15T20:38:24Z"
+      "pushed_at": "2026-11-16T00:30:02Z"
     },
     {
       "id": 1453103705,
@@ -15910,7 +15961,7 @@
       ],
       "created_at": "2026-11-10T19:31:27Z",
       "updated_at": "2026-11-12T13:14:04Z",
-      "pushed_at": "2026-11-15T22:31:04Z"
+      "pushed_at": "2026-11-16T02:35:14Z"
     },
     {
       "id": 1453132580,
@@ -15934,7 +15985,7 @@
       ],
       "created_at": "2026-11-10T20:00:53Z",
       "updated_at": "2026-11-12T08:04:11Z",
-      "pushed_at": "2026-11-15T23:49:53Z"
+      "pushed_at": "2026-11-16T05:19:52Z"
     },
     {
       "id": 1453130797,
@@ -15958,7 +16009,7 @@
       ],
       "created_at": "2026-11-10T19:58:58Z",
       "updated_at": "2026-11-12T13:13:45Z",
-      "pushed_at": "2026-11-15T22:29:53Z"
+      "pushed_at": "2026-11-16T02:35:09Z"
     },
     {
       "id": 1453127971,
@@ -15982,7 +16033,7 @@
       ],
       "created_at": "2026-11-10T19:56:12Z",
       "updated_at": "2026-11-14T17:53:59Z",
-      "pushed_at": "2026-11-15T20:40:07Z"
+      "pushed_at": "2026-11-16T00:32:25Z"
     },
     {
       "id": 1453087349,
@@ -16006,7 +16057,7 @@
       ],
       "created_at": "2026-11-10T19:15:10Z",
       "updated_at": "2026-11-12T13:17:53Z",
-      "pushed_at": "2026-11-15T22:34:24Z"
+      "pushed_at": "2026-11-16T02:36:32Z"
     },
     {
       "id": 1453120226,
@@ -16030,7 +16081,7 @@
       ],
       "created_at": "2026-11-10T19:48:20Z",
       "updated_at": "2026-11-12T13:14:18Z",
-      "pushed_at": "2026-11-15T22:30:46Z"
+      "pushed_at": "2026-11-16T02:35:13Z"
     },
     {
       "id": 1453088920,
@@ -16054,7 +16105,7 @@
       ],
       "created_at": "2026-11-10T19:16:44Z",
       "updated_at": "2026-11-12T13:04:36Z",
-      "pushed_at": "2026-11-15T21:26:05Z"
+      "pushed_at": "2026-11-16T01:31:42Z"
     },
     {
       "id": 1453098884,
@@ -16078,7 +16129,7 @@
       ],
       "created_at": "2026-11-10T19:26:37Z",
       "updated_at": "2026-11-12T13:10:57Z",
-      "pushed_at": "2026-11-15T21:28:20Z"
+      "pushed_at": "2026-11-16T01:34:35Z"
     },
     {
       "id": 1453126411,
@@ -16102,7 +16153,7 @@
       ],
       "created_at": "2026-11-10T19:54:35Z",
       "updated_at": "2026-11-12T13:20:13Z",
-      "pushed_at": "2026-11-15T22:37:02Z"
+      "pushed_at": "2026-11-16T02:37:07Z"
     },
     {
       "id": 1453092805,
@@ -16126,7 +16177,7 @@
       ],
       "created_at": "2026-11-10T19:20:43Z",
       "updated_at": "2026-11-12T13:22:09Z",
-      "pushed_at": "2026-11-15T22:38:01Z"
+      "pushed_at": "2026-11-16T02:38:31Z"
     },
     {
       "id": 1453111842,
@@ -16137,7 +16188,7 @@
       "homepage": null,
       "stars": 102,
       "forks": 0,
-      "language": "TypeScript",
+      "language": "HTML",
       "topics": [
         "file-converter",
         "html-to-pdf",
@@ -16149,8 +16200,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-10T19:39:50Z",
-      "updated_at": "2026-11-12T13:24:02Z",
-      "pushed_at": "2026-11-14T08:04:02Z"
+      "updated_at": "2026-11-14T17:53:32Z",
+      "pushed_at": "2026-11-16T02:39:02Z"
     },
     {
       "id": 1453099608,
@@ -16246,7 +16297,7 @@
       ],
       "created_at": "2026-11-10T19:46:26Z",
       "updated_at": "2026-11-12T13:27:20Z",
-      "pushed_at": "2026-11-15T10:37:16Z"
+      "pushed_at": "2026-11-16T02:39:57Z"
     },
     {
       "id": 1453142183,
@@ -16634,7 +16685,7 @@
       ],
       "created_at": "2026-11-10T20:00:28Z",
       "updated_at": "2026-11-14T17:54:07Z",
-      "pushed_at": "2026-11-15T20:38:13Z"
+      "pushed_at": "2026-11-16T00:28:17Z"
     },
     {
       "id": 1453121834,
@@ -16658,7 +16709,7 @@
       ],
       "created_at": "2026-11-10T19:49:55Z",
       "updated_at": "2026-11-14T17:53:48Z",
-      "pushed_at": "2026-11-15T21:26:38Z"
+      "pushed_at": "2026-11-16T01:31:45Z"
     },
     {
       "id": 1405556648,
@@ -24135,6 +24186,26 @@
       "pushed_at": "2026-11-09T11:39:49Z"
     },
     {
+      "id": 1457452451,
+      "name": "defect",
+      "full_name": "folsomintel/defect",
+      "description": "Effect-style typed errors, services, retries and resources for TypeScript, with no generators: a function's steps are its parameter defaults.",
+      "html_url": "https://github.com/folsomintel/defect",
+      "homepage": null,
+      "stars": 35,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "dependency-injection",
+        "effect",
+        "typed-errors",
+        "typescript"
+      ],
+      "created_at": "2026-11-14T06:19:48Z",
+      "updated_at": "2026-11-16T03:46:12Z",
+      "pushed_at": "2026-11-14T23:09:33Z"
+    },
+    {
       "id": 1440886314,
       "name": "pc-rpgmaker3-resp",
       "full_name": "BehindSaturn/pc-rpgmaker3-resp",
@@ -25730,7 +25801,7 @@
       ],
       "created_at": "2026-11-10T12:43:17Z",
       "updated_at": "2026-11-13T17:10:22Z",
-      "pushed_at": "2026-11-13T11:18:21Z"
+      "pushed_at": "2026-11-14T17:16:21Z"
     },
     {
       "id": 1437329506,
