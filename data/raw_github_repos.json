@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/16 13:38:08",
-  "total_repos": 1175,
+  "fetched_at": "2026/11/16 23:15:49",
+  "total_repos": 1181,
   "repos": [
     {
       "id": 1425658028,
@@ -780,7 +780,7 @@
       "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
       "html_url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
       "homepage": null,
-      "stars": 513,
+      "stars": 514,
       "forks": 14,
       "language": null,
       "topics": [
@@ -806,7 +806,7 @@
         "model-context-protocol"
       ],
       "created_at": "2026-11-12T19:30:32Z",
-      "updated_at": "2026-11-15T19:24:46Z",
+      "updated_at": "2026-11-16T09:00:42Z",
       "pushed_at": "2026-11-15T13:27:56Z"
     },
     {
@@ -816,7 +816,7 @@
       "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
       "html_url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
       "homepage": null,
-      "stars": 510,
+      "stars": 512,
       "forks": 12,
       "language": null,
       "topics": [
@@ -842,8 +842,8 @@
         "model-context-protocol"
       ],
       "created_at": "2026-11-12T19:38:53Z",
-      "updated_at": "2026-11-15T20:53:01Z",
-      "pushed_at": "2026-11-16T05:30:29Z"
+      "updated_at": "2026-11-16T09:00:43Z",
+      "pushed_at": "2026-11-16T15:10:29Z"
     },
     {
       "id": 1455751043,
@@ -879,7 +879,7 @@
       ],
       "created_at": "2026-11-12T19:39:54Z",
       "updated_at": "2026-11-16T02:54:34Z",
-      "pushed_at": "2026-11-16T05:32:31Z"
+      "pushed_at": "2026-11-16T15:12:30Z"
     },
     {
       "id": 1440965926,
@@ -918,6 +918,34 @@
       "created_at": "2026-10-21T14:44:06Z",
       "updated_at": "2026-10-27T15:15:59Z",
       "pushed_at": "2026-10-21T14:49:16Z"
+    },
+    {
+      "id": 1455933518,
+      "name": "gpucanvas",
+      "full_name": "berkantay/gpucanvas",
+      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "html_url": "https://github.com/berkantay/gpucanvas",
+      "homepage": "https://berkantay.github.io/gpucanvas/",
+      "stars": 506,
+      "forks": 31,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas",
+        "infinite-canvas",
+        "react",
+        "shaders",
+        "transitions",
+        "typescript",
+        "webgpu",
+        "wgsl"
+      ],
+      "created_at": "2026-11-12T23:19:42Z",
+      "updated_at": "2026-11-16T14:13:34Z",
+      "pushed_at": "2026-11-15T21:14:18Z"
     },
     {
       "id": 1425063138,
@@ -1196,34 +1224,6 @@
       "created_at": "2026-10-06T22:55:13Z",
       "updated_at": "2026-10-12T03:07:34Z",
       "pushed_at": "2026-10-12T01:15:52Z"
-    },
-    {
-      "id": 1455933518,
-      "name": "gpucanvas",
-      "full_name": "berkantay/gpucanvas",
-      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "html_url": "https://github.com/berkantay/gpucanvas",
-      "homepage": "https://berkantay.github.io/gpucanvas/",
-      "stars": 488,
-      "forks": 31,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas",
-        "infinite-canvas",
-        "react",
-        "shaders",
-        "transitions",
-        "typescript",
-        "webgpu",
-        "wgsl"
-      ],
-      "created_at": "2026-11-12T23:19:42Z",
-      "updated_at": "2026-11-16T05:16:47Z",
-      "pushed_at": "2026-11-15T21:14:18Z"
     },
     {
       "id": 1430297568,
@@ -2226,101 +2226,6 @@
       "created_at": "2026-10-28T04:29:29Z",
       "updated_at": "2026-10-28T22:16:48Z",
       "pushed_at": "2026-10-28T11:35:35Z"
-    },
-    {
-      "id": 1457165749,
-      "name": "vegas-pro-23-desktop",
-      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
-      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
-      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
-      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
-      "stars": 449,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "audio-mixing",
-        "blu-ray-authoring",
-        "color-correction",
-        "color-grading",
-        "content-creation",
-        "dvd-authoring",
-        "keyframe-animation",
-        "magix-vegas",
-        "multitrack-editor",
-        "nle",
-        "timeline-editor",
-        "vegas-pro-23",
-        "vegas-pro-edit",
-        "vegas-pro-full",
-        "video-editing",
-        "video-editor",
-        "video-effects",
-        "video-processing",
-        "video-production",
-        "windows-video-editor"
-      ],
-      "created_at": "2026-11-13T22:34:10Z",
-      "updated_at": "2026-11-16T05:37:50Z",
-      "pushed_at": "2026-11-16T00:35:44Z"
-    },
-    {
-      "id": 1457235941,
-      "name": "leonardo-ai-desktop",
-      "full_name": "brave-plum-co/leonardo-ai-desktop",
-      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
-      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
-      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
-      "stars": 447,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "ai-art-platform",
-        "ai-creative-suite",
-        "ai-generation-tools",
-        "ai-image-generator",
-        "ai-image-tools",
-        "generative-ai-art",
-        "leonardo-ai-api",
-        "leonardo-ai-api-wrapper",
-        "leonardo-ai-automation",
-        "leonardo-ai-extension",
-        "leonardo-ai-generator",
-        "leonardo-ai-integration",
-        "leonardo-ai-models",
-        "leonardo-ai-prompt-tools",
-        "leonardo-ai-scripts",
-        "leonardo-ai-style-tools",
-        "leonardo-ai-tools",
-        "leonardo-ai-utilities",
-        "leonardo-ai-workflow"
-      ],
-      "created_at": "2026-11-14T00:23:46Z",
-      "updated_at": "2026-11-16T05:33:34Z",
-      "pushed_at": "2026-11-16T01:43:49Z"
-    },
-    {
-      "id": 1457250612,
-      "name": "malware-defender-desktop",
-      "full_name": "brisk-thrush-husky/malware-defender-desktop",
-      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
-      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
-      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
-      "stars": 446,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "download-malware-defender",
-        "firewall",
-        "malware-defender-download",
-        "malware-defender-latest-version",
-        "real-time-protection",
-        "rootkit-removal",
-        "spyware-removal",
-        "trial-version"
-      ],
-      "created_at": "2026-11-14T00:49:03Z",
-      "updated_at": "2026-11-16T05:37:45Z",
-      "pushed_at": "2026-11-16T01:41:38Z"
     },
     {
       "id": 1437812726,
@@ -3806,7 +3711,7 @@
       "html_url": "https://github.com/topapothecarycanal/ai--manus2.0",
       "homepage": null,
       "stars": 381,
-      "forks": 11,
+      "forks": 10,
       "language": null,
       "topics": [
         "ai",
@@ -3841,7 +3746,7 @@
       "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "html_url": "https://github.com/toppatronweave/ai--manus2.0",
       "homepage": null,
-      "stars": 380,
+      "stars": 379,
       "forks": 4,
       "language": null,
       "topics": [
@@ -3867,7 +3772,7 @@
         "vue"
       ],
       "created_at": "2026-11-14T19:15:25Z",
-      "updated_at": "2026-11-15T18:30:29Z",
+      "updated_at": "2026-11-16T11:22:39Z",
       "pushed_at": "2026-11-15T10:32:40Z"
     },
     {
@@ -4073,7 +3978,7 @@
       "html_url": "https://github.com/violetkomodolimit/ai--manus2.0",
       "homepage": null,
       "stars": 375,
-      "forks": 306,
+      "forks": 305,
       "language": null,
       "topics": [
         "ai",
@@ -4109,7 +4014,7 @@
       "html_url": "https://github.com/trackersnailgrip/ai--manus2.0",
       "homepage": null,
       "stars": 373,
-      "forks": 305,
+      "forks": 304,
       "language": null,
       "topics": [
         "ai",
@@ -4160,7 +4065,7 @@
       "html_url": "https://github.com/Ultimateakiln/ai--manus2.0",
       "homepage": null,
       "stars": 371,
-      "forks": 302,
+      "forks": 301,
       "language": null,
       "topics": [
         "ai",
@@ -4196,7 +4101,7 @@
       "html_url": "https://github.com/taboospecialistblade/ai--manus2.0",
       "homepage": null,
       "stars": 371,
-      "forks": 304,
+      "forks": 303,
       "language": null,
       "topics": [
         "ai",
@@ -4232,7 +4137,7 @@
       "html_url": "https://github.com/TrapBladesmith/ai--manus2.0",
       "homepage": null,
       "stars": 370,
-      "forks": 303,
+      "forks": 302,
       "language": null,
       "topics": [
         "ai",
@@ -4268,7 +4173,7 @@
       "html_url": "https://github.com/trackboatwrightplan/ai--manus2.0",
       "homepage": null,
       "stars": 370,
-      "forks": 304,
+      "forks": 303,
       "language": null,
       "topics": [
         "ai",
@@ -4304,7 +4209,7 @@
       "html_url": "https://github.com/Tonephorepair/ai--manus2.0",
       "homepage": null,
       "stars": 370,
-      "forks": 302,
+      "forks": 301,
       "language": null,
       "topics": [
         "ai",
@@ -4390,42 +4295,6 @@
       "pushed_at": "2026-09-24T03:51:47Z"
     },
     {
-      "id": 1458202799,
-      "name": "pro-tools-desktop",
-      "full_name": "alicebrown323/pro-tools-desktop",
-      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
-      "html_url": "https://github.com/alicebrown323/pro-tools-desktop",
-      "homepage": "https://alicebrown323.github.io/pro-tools-desktop/",
-      "stars": 364,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "ai-generation-tools",
-        "ai-tools",
-        "architecture",
-        "command-line-tool",
-        "developer-tools",
-        "font",
-        "hackingtools",
-        "large-language-models",
-        "leonardo-ai-tools",
-        "network-tools",
-        "pdf-tools",
-        "pro-tools",
-        "redux-thunk",
-        "registry-tools",
-        "snu2dprogrammingtools",
-        "snuprogrammingtools",
-        "tailwind-css",
-        "text-to-image",
-        "web-development",
-        "windows-tools"
-      ],
-      "created_at": "2026-11-14T21:36:08Z",
-      "updated_at": "2026-11-16T05:36:24Z",
-      "pushed_at": "2026-11-16T03:42:39Z"
-    },
-    {
       "id": 1431077783,
       "name": "unthemidator",
       "full_name": "x86rc/unthemidator",
@@ -4439,6 +4308,30 @@
       "created_at": "2026-10-23T13:23:19Z",
       "updated_at": "2026-10-29T20:16:27Z",
       "pushed_at": "2026-10-28T10:56:39Z"
+    },
+    {
+      "id": 1457250612,
+      "name": "malware-defender-desktop",
+      "full_name": "brisk-thrush-husky/malware-defender-desktop",
+      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
+      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
+      "stars": 361,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "download-malware-defender",
+        "firewall",
+        "malware-defender-download",
+        "malware-defender-latest-version",
+        "real-time-protection",
+        "rootkit-removal",
+        "spyware-removal",
+        "trial-version"
+      ],
+      "created_at": "2026-11-14T00:49:03Z",
+      "updated_at": "2026-11-16T13:11:18Z",
+      "pushed_at": "2026-11-16T09:16:09Z"
     },
     {
       "id": 1458203061,
@@ -4477,40 +4370,75 @@
       "pushed_at": "2026-11-16T04:26:55Z"
     },
     {
-      "id": 1458203251,
-      "name": "discord-nitro-desktop",
-      "full_name": "carla-marsh-29/discord-nitro-desktop",
-      "description": "Discord Nitro 2026 desktop setup with full plugin suite, portable mode and bundled runtime for Windows 11",
-      "html_url": "https://github.com/carla-marsh-29/discord-nitro-desktop",
-      "homepage": "https://carla-marsh-29.github.io/discord-nitro-desktop/",
+      "id": 1457165749,
+      "name": "vegas-pro-23-desktop",
+      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
+      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
+      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
+      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
       "stars": 359,
       "forks": 0,
       "language": "C++",
       "topics": [
-        "discord",
-        "discord-api",
-        "discord-bot",
-        "discord-bot-api",
-        "discord-rich-presence",
-        "discordjs",
-        "discordnitro",
-        "discordpy",
-        "discordtokenchecker",
-        "emoji",
-        "free",
-        "fun",
-        "generator",
-        "nitro",
-        "nitrogen",
-        "node",
-        "server",
-        "streaming",
-        "token",
-        "tool"
+        "audio-mixing",
+        "blu-ray-authoring",
+        "color-correction",
+        "color-grading",
+        "content-creation",
+        "dvd-authoring",
+        "keyframe-animation",
+        "magix-vegas",
+        "multitrack-editor",
+        "nle",
+        "timeline-editor",
+        "vegas-pro-23",
+        "vegas-pro-edit",
+        "vegas-pro-full",
+        "video-editing",
+        "video-editor",
+        "video-effects",
+        "video-processing",
+        "video-production",
+        "windows-video-editor"
       ],
-      "created_at": "2026-11-14T21:36:43Z",
-      "updated_at": "2026-11-16T05:32:41Z",
-      "pushed_at": "2026-11-16T04:47:31Z"
+      "created_at": "2026-11-13T22:34:10Z",
+      "updated_at": "2026-11-16T13:11:19Z",
+      "pushed_at": "2026-11-16T07:30:18Z"
+    },
+    {
+      "id": 1457235941,
+      "name": "leonardo-ai-desktop",
+      "full_name": "brave-plum-co/leonardo-ai-desktop",
+      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
+      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
+      "stars": 359,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-art-platform",
+        "ai-creative-suite",
+        "ai-generation-tools",
+        "ai-image-generator",
+        "ai-image-tools",
+        "generative-ai-art",
+        "leonardo-ai-api",
+        "leonardo-ai-api-wrapper",
+        "leonardo-ai-automation",
+        "leonardo-ai-extension",
+        "leonardo-ai-generator",
+        "leonardo-ai-integration",
+        "leonardo-ai-models",
+        "leonardo-ai-prompt-tools",
+        "leonardo-ai-scripts",
+        "leonardo-ai-style-tools",
+        "leonardo-ai-tools",
+        "leonardo-ai-utilities",
+        "leonardo-ai-workflow"
+      ],
+      "created_at": "2026-11-14T00:23:46Z",
+      "updated_at": "2026-11-16T13:11:19Z",
+      "pushed_at": "2026-11-16T09:19:56Z"
     },
     {
       "id": 1436420580,
@@ -4653,6 +4581,47 @@
       "created_at": "2026-11-01T04:00:04Z",
       "updated_at": "2026-11-07T22:18:04Z",
       "pushed_at": "2026-11-01T06:16:19Z"
+    },
+    {
+      "id": 1452733335,
+      "name": "awesome-fable-5.2",
+      "full_name": "fengyiqicoder/awesome-fable-5.2",
+      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 176 live works (every link checked) + 128 video demos, each with a GIF preview and creator credit. Updated daily.",
+      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
+      "homepage": "https://fablelist.000ooo.ooo/",
+      "stars": 344,
+      "forks": 36,
+      "language": null,
+      "topics": [
+        "ai-generated",
+        "anthropic",
+        "awesome",
+        "awesome-list",
+        "browser-games",
+        "claude",
+        "claude-fable",
+        "fable-5-2",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-10T13:56:30Z",
+      "updated_at": "2026-11-16T14:43:26Z",
+      "pushed_at": "2026-11-16T14:33:55Z"
+    },
+    {
+      "id": 1452485821,
+      "name": "calibrain-harness",
+      "full_name": "zadescoxp/calibrain-harness",
+      "description": "Calibrain Harness: a forward-testing harness for trading crypto perpetuals with fast classification models (Kairos today) on Bybit testnet. Under development.",
+      "html_url": "https://github.com/zadescoxp/calibrain-harness",
+      "homepage": null,
+      "stars": 340,
+      "forks": 68,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-10T10:00:30Z",
+      "updated_at": "2026-11-16T12:40:27Z",
+      "pushed_at": "2026-11-13T14:54:46Z"
     },
     {
       "id": 1445001947,
@@ -4950,21 +4919,6 @@
       "pushed_at": "2026-10-10T15:34:08Z"
     },
     {
-      "id": 1452485821,
-      "name": "calibrain-harness",
-      "full_name": "zadescoxp/calibrain-harness",
-      "description": "Calibrain Harness: a forward-testing harness for trading crypto perpetuals with fast classification models (Kairos today) on Bybit testnet. Under development.",
-      "html_url": "https://github.com/zadescoxp/calibrain-harness",
-      "homepage": null,
-      "stars": 320,
-      "forks": 67,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-10T10:00:30Z",
-      "updated_at": "2026-11-15T13:32:43Z",
-      "pushed_at": "2026-11-13T14:54:46Z"
-    },
-    {
       "id": 1427744908,
       "name": "ATBGamePort",
       "full_name": "atbfun/ATBGamePort",
@@ -4978,32 +4932,6 @@
       "created_at": "2026-10-21T01:29:33Z",
       "updated_at": "2026-10-27T20:55:59Z",
       "pushed_at": "2026-10-22T23:33:10Z"
-    },
-    {
-      "id": 1452733335,
-      "name": "awesome-fable-5.2",
-      "full_name": "fengyiqicoder/awesome-fable-5.2",
-      "description": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open — 172 live works (every link checked) + 126 video demos, each with a GIF preview and creator credit. Updated daily.",
-      "html_url": "https://github.com/fengyiqicoder/awesome-fable-5.2",
-      "homepage": "https://fablelist.000ooo.ooo/",
-      "stars": 317,
-      "forks": 32,
-      "language": null,
-      "topics": [
-        "ai-generated",
-        "anthropic",
-        "awesome",
-        "awesome-list",
-        "browser-games",
-        "claude",
-        "claude-fable",
-        "fable-5-2",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-10T13:56:30Z",
-      "updated_at": "2026-11-16T04:58:55Z",
-      "pushed_at": "2026-11-16T01:57:17Z"
     },
     {
       "id": 1381875232,
@@ -5106,6 +5034,21 @@
       "created_at": "2026-11-01T10:14:47Z",
       "updated_at": "2026-11-01T14:24:15Z",
       "pushed_at": "2026-11-01T10:14:53Z"
+    },
+    {
+      "id": 1456652206,
+      "name": "Nexus",
+      "full_name": "ysunyang4/Nexus",
+      "description": "Web AI for local work",
+      "html_url": "https://github.com/ysunyang4/Nexus",
+      "homepage": null,
+      "stars": 308,
+      "forks": 54,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-13T13:46:21Z",
+      "updated_at": "2026-11-16T15:14:58Z",
+      "pushed_at": "2026-11-15T05:44:45Z"
     },
     {
       "id": 1443244793,
@@ -7305,6 +7248,78 @@
       "pushed_at": "2026-11-03T15:52:44Z"
     },
     {
+      "id": 1458202799,
+      "name": "pro-tools-desktop",
+      "full_name": "alicebrown323/pro-tools-desktop",
+      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
+      "html_url": "https://github.com/alicebrown323/pro-tools-desktop",
+      "homepage": "https://alicebrown323.github.io/pro-tools-desktop/",
+      "stars": 247,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-generation-tools",
+        "ai-tools",
+        "architecture",
+        "command-line-tool",
+        "developer-tools",
+        "font",
+        "hackingtools",
+        "large-language-models",
+        "leonardo-ai-tools",
+        "network-tools",
+        "pdf-tools",
+        "pro-tools",
+        "redux-thunk",
+        "registry-tools",
+        "snu2dprogrammingtools",
+        "snuprogrammingtools",
+        "tailwind-css",
+        "text-to-image",
+        "web-development",
+        "windows-tools"
+      ],
+      "created_at": "2026-11-14T21:36:08Z",
+      "updated_at": "2026-11-16T13:11:19Z",
+      "pushed_at": "2026-11-16T12:13:44Z"
+    },
+    {
+      "id": 1458203251,
+      "name": "discord-nitro-desktop",
+      "full_name": "carla-marsh-29/discord-nitro-desktop",
+      "description": "Discord Nitro 2026 desktop setup with full plugin suite, portable mode and bundled runtime for Windows 11",
+      "html_url": "https://github.com/carla-marsh-29/discord-nitro-desktop",
+      "homepage": "https://carla-marsh-29.github.io/discord-nitro-desktop/",
+      "stars": 247,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-bot",
+        "discord-bot-api",
+        "discord-rich-presence",
+        "discordjs",
+        "discordnitro",
+        "discordpy",
+        "discordtokenchecker",
+        "emoji",
+        "free",
+        "fun",
+        "generator",
+        "nitro",
+        "nitrogen",
+        "node",
+        "server",
+        "streaming",
+        "token",
+        "tool"
+      ],
+      "created_at": "2026-11-14T21:36:43Z",
+      "updated_at": "2026-11-16T13:11:19Z",
+      "pushed_at": "2026-11-16T13:21:17Z"
+    },
+    {
       "id": 1442779224,
       "name": "godraw",
       "full_name": "egoist/godraw",
@@ -7438,6 +7453,21 @@
       "pushed_at": "2026-10-29T07:16:51Z"
     },
     {
+      "id": 1452464401,
+      "name": "tinytraffic",
+      "full_name": "egoist/tinytraffic",
+      "description": "self-host web analytics in a single binary",
+      "html_url": "https://github.com/egoist/tinytraffic",
+      "homepage": null,
+      "stars": 236,
+      "forks": 11,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-11-10T09:39:00Z",
+      "updated_at": "2026-11-16T05:58:15Z",
+      "pushed_at": "2026-11-12T12:08:25Z"
+    },
+    {
       "id": 1426280410,
       "name": "FreeMyTvWebOS",
       "full_name": "danielthejoker18/FreeMyTvWebOS",
@@ -7466,21 +7496,6 @@
       "created_at": "2026-10-26T13:08:12Z",
       "updated_at": "2026-10-27T04:20:20Z",
       "pushed_at": "2026-10-27T04:06:13Z"
-    },
-    {
-      "id": 1452464401,
-      "name": "tinytraffic",
-      "full_name": "egoist/tinytraffic",
-      "description": "self-host web analytics in a single binary",
-      "html_url": "https://github.com/egoist/tinytraffic",
-      "homepage": null,
-      "stars": 235,
-      "forks": 11,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-11-10T09:39:00Z",
-      "updated_at": "2026-11-15T23:38:59Z",
-      "pushed_at": "2026-11-12T12:08:25Z"
     },
     {
       "id": 1428345942,
@@ -7762,21 +7777,6 @@
       "created_at": "2026-10-24T14:02:58Z",
       "updated_at": "2026-10-30T21:08:47Z",
       "pushed_at": "2026-10-28T06:20:54Z"
-    },
-    {
-      "id": 1456652206,
-      "name": "Nexus",
-      "full_name": "ysunyang4/Nexus",
-      "description": "Web AI for local work",
-      "html_url": "https://github.com/ysunyang4/Nexus",
-      "homepage": null,
-      "stars": 229,
-      "forks": 41,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-13T13:46:21Z",
-      "updated_at": "2026-11-16T05:37:00Z",
-      "pushed_at": "2026-11-15T05:44:45Z"
     },
     {
       "id": 1416989474,
@@ -11016,6 +11016,21 @@
       "pushed_at": "2026-10-20T12:45:47Z"
     },
     {
+      "id": 1456707936,
+      "name": "mmforge-platform",
+      "full_name": "EunChae1110/mmforge-platform",
+      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
+      "html_url": "https://github.com/EunChae1110/mmforge-platform",
+      "homepage": "https://mmforge-platform.vercel.app/",
+      "stars": 165,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-13T14:36:14Z",
+      "updated_at": "2026-11-16T07:03:17Z",
+      "pushed_at": "2026-11-15T07:24:15Z"
+    },
+    {
       "id": 1429974885,
       "name": "glm-5.3-abliterated",
       "full_name": "7API/glm-5.3-abliterated",
@@ -11589,19 +11604,19 @@
       "pushed_at": "2026-11-12T20:03:18Z"
     },
     {
-      "id": 1456707936,
-      "name": "mmforge-platform",
-      "full_name": "EunChae1110/mmforge-platform",
-      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
-      "html_url": "https://github.com/EunChae1110/mmforge-platform",
-      "homepage": "https://mmforge-platform.vercel.app/",
+      "id": 1458072997,
+      "name": "GoW-Ascension-Recomp",
+      "full_name": "bc160201983/GoW-Ascension-Recomp",
+      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
+      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+      "homepage": "https://www.patreon.com/c/bilalreloaded",
       "stars": 150,
-      "forks": 0,
-      "language": "TypeScript",
+      "forks": 3,
+      "language": "C",
       "topics": [],
-      "created_at": "2026-11-13T14:36:14Z",
-      "updated_at": "2026-11-16T05:31:58Z",
-      "pushed_at": "2026-11-15T07:24:15Z"
+      "created_at": "2026-11-14T18:53:22Z",
+      "updated_at": "2026-11-16T14:48:13Z",
+      "pushed_at": "2026-11-15T20:39:33Z"
     },
     {
       "id": 1418592001,
@@ -13083,21 +13098,6 @@
       "pushed_at": "2026-10-27T12:08:11Z"
     },
     {
-      "id": 1458072997,
-      "name": "GoW-Ascension-Recomp",
-      "full_name": "bc160201983/GoW-Ascension-Recomp",
-      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
-      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
-      "homepage": "https://www.patreon.com/c/bilalreloaded",
-      "stars": 135,
-      "forks": 3,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-11-14T18:53:22Z",
-      "updated_at": "2026-11-16T04:11:05Z",
-      "pushed_at": "2026-11-15T20:39:33Z"
-    },
-    {
       "id": 1426805854,
       "name": "mw4-texture-streaming-research",
       "full_name": "voidfnc/mw4-texture-streaming-research",
@@ -13944,6 +13944,21 @@
       "created_at": "2026-10-19T22:21:30Z",
       "updated_at": "2026-10-22T23:03:24Z",
       "pushed_at": "2026-10-19T22:21:50Z"
+    },
+    {
+      "id": 1453389698,
+      "name": "webagent",
+      "full_name": "ysunyang4/webagent",
+      "description": "The nexus plugin for browser",
+      "html_url": "https://github.com/ysunyang4/webagent",
+      "homepage": null,
+      "stars": 122,
+      "forks": 35,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-11T01:32:04Z",
+      "updated_at": "2026-11-16T15:14:40Z",
+      "pushed_at": "2026-11-16T00:43:13Z"
     },
     {
       "id": 1444273487,
@@ -15567,7 +15582,7 @@
       ],
       "created_at": "2026-11-10T19:21:17Z",
       "updated_at": "2026-11-14T17:18:03Z",
-      "pushed_at": "2026-11-16T00:44:38Z"
+      "pushed_at": "2026-11-16T07:31:57Z"
     },
     {
       "id": 1390845863,
@@ -15606,7 +15621,7 @@
       ],
       "created_at": "2026-11-10T19:58:26Z",
       "updated_at": "2026-11-14T17:54:00Z",
-      "pushed_at": "2026-11-16T01:32:34Z"
+      "pushed_at": "2026-11-16T08:56:32Z"
     },
     {
       "id": 1446135312,
@@ -15793,7 +15808,7 @@
       ],
       "created_at": "2026-11-10T19:26:48Z",
       "updated_at": "2026-11-12T13:00:27Z",
-      "pushed_at": "2026-11-16T00:34:04Z"
+      "pushed_at": "2026-11-16T07:29:38Z"
     },
     {
       "id": 1453127355,
@@ -15817,7 +15832,7 @@
       ],
       "created_at": "2026-11-10T19:55:37Z",
       "updated_at": "2026-11-14T17:16:55Z",
-      "pushed_at": "2026-11-16T00:35:43Z"
+      "pushed_at": "2026-11-16T07:30:37Z"
     },
     {
       "id": 1453142553,
@@ -15841,7 +15856,7 @@
       ],
       "created_at": "2026-11-10T20:11:06Z",
       "updated_at": "2026-11-14T17:54:28Z",
-      "pushed_at": "2026-11-16T01:31:42Z"
+      "pushed_at": "2026-11-16T08:55:23Z"
     },
     {
       "id": 1453096982,
@@ -15865,7 +15880,7 @@
       ],
       "created_at": "2026-11-10T19:24:47Z",
       "updated_at": "2026-11-12T13:00:18Z",
-      "pushed_at": "2026-11-16T00:34:02Z"
+      "pushed_at": "2026-11-16T07:29:40Z"
     },
     {
       "id": 1453093036,
@@ -15889,7 +15904,7 @@
       ],
       "created_at": "2026-11-10T19:20:57Z",
       "updated_at": "2026-11-14T17:53:02Z",
-      "pushed_at": "2026-11-15T23:54:33Z"
+      "pushed_at": "2026-11-16T05:56:18Z"
     },
     {
       "id": 1453087740,
@@ -15913,7 +15928,7 @@
       ],
       "created_at": "2026-11-10T19:15:33Z",
       "updated_at": "2026-11-12T13:17:13Z",
-      "pushed_at": "2026-11-16T02:36:47Z"
+      "pushed_at": "2026-11-16T10:44:23Z"
     },
     {
       "id": 1453106430,
@@ -15937,7 +15952,7 @@
       ],
       "created_at": "2026-11-10T19:34:13Z",
       "updated_at": "2026-11-14T17:53:24Z",
-      "pushed_at": "2026-11-16T00:30:02Z"
+      "pushed_at": "2026-11-16T07:25:56Z"
     },
     {
       "id": 1453103705,
@@ -15961,7 +15976,7 @@
       ],
       "created_at": "2026-11-10T19:31:27Z",
       "updated_at": "2026-11-12T13:14:04Z",
-      "pushed_at": "2026-11-16T02:35:14Z"
+      "pushed_at": "2026-11-16T10:41:44Z"
     },
     {
       "id": 1453132580,
@@ -15985,7 +16000,7 @@
       ],
       "created_at": "2026-11-10T20:00:53Z",
       "updated_at": "2026-11-12T08:04:11Z",
-      "pushed_at": "2026-11-16T05:19:52Z"
+      "pushed_at": "2026-11-16T15:06:33Z"
     },
     {
       "id": 1453130797,
@@ -16009,7 +16024,7 @@
       ],
       "created_at": "2026-11-10T19:58:58Z",
       "updated_at": "2026-11-12T13:13:45Z",
-      "pushed_at": "2026-11-16T02:35:09Z"
+      "pushed_at": "2026-11-16T10:40:38Z"
     },
     {
       "id": 1453127971,
@@ -16033,7 +16048,7 @@
       ],
       "created_at": "2026-11-10T19:56:12Z",
       "updated_at": "2026-11-14T17:53:59Z",
-      "pushed_at": "2026-11-16T00:32:25Z"
+      "pushed_at": "2026-11-16T07:28:09Z"
     },
     {
       "id": 1453087349,
@@ -16081,7 +16096,7 @@
       ],
       "created_at": "2026-11-10T19:48:20Z",
       "updated_at": "2026-11-12T13:14:18Z",
-      "pushed_at": "2026-11-16T02:35:13Z"
+      "pushed_at": "2026-11-16T10:41:44Z"
     },
     {
       "id": 1453088920,
@@ -16105,7 +16120,7 @@
       ],
       "created_at": "2026-11-10T19:16:44Z",
       "updated_at": "2026-11-12T13:04:36Z",
-      "pushed_at": "2026-11-16T01:31:42Z"
+      "pushed_at": "2026-11-16T08:53:50Z"
     },
     {
       "id": 1453098884,
@@ -16129,7 +16144,7 @@
       ],
       "created_at": "2026-11-10T19:26:37Z",
       "updated_at": "2026-11-12T13:10:57Z",
-      "pushed_at": "2026-11-16T01:34:35Z"
+      "pushed_at": "2026-11-16T08:59:47Z"
     },
     {
       "id": 1453126411,
@@ -16153,7 +16168,7 @@
       ],
       "created_at": "2026-11-10T19:54:35Z",
       "updated_at": "2026-11-12T13:20:13Z",
-      "pushed_at": "2026-11-16T02:37:07Z"
+      "pushed_at": "2026-11-16T10:46:52Z"
     },
     {
       "id": 1453092805,
@@ -16177,7 +16192,7 @@
       ],
       "created_at": "2026-11-10T19:20:43Z",
       "updated_at": "2026-11-12T13:22:09Z",
-      "pushed_at": "2026-11-16T02:38:31Z"
+      "pushed_at": "2026-11-16T10:48:35Z"
     },
     {
       "id": 1453111842,
@@ -16201,7 +16216,7 @@
       ],
       "created_at": "2026-11-10T19:39:50Z",
       "updated_at": "2026-11-14T17:53:32Z",
-      "pushed_at": "2026-11-16T02:39:02Z"
+      "pushed_at": "2026-11-16T10:51:09Z"
     },
     {
       "id": 1453099608,
@@ -16297,7 +16312,7 @@
       ],
       "created_at": "2026-11-10T19:46:26Z",
       "updated_at": "2026-11-12T13:27:20Z",
-      "pushed_at": "2026-11-16T02:39:57Z"
+      "pushed_at": "2026-11-16T10:54:03Z"
     },
     {
       "id": 1453142183,
@@ -16685,7 +16700,7 @@
       ],
       "created_at": "2026-11-10T20:00:28Z",
       "updated_at": "2026-11-14T17:54:07Z",
-      "pushed_at": "2026-11-16T00:28:17Z"
+      "pushed_at": "2026-11-16T07:25:09Z"
     },
     {
       "id": 1453121834,
@@ -16709,7 +16724,7 @@
       ],
       "created_at": "2026-11-10T19:49:55Z",
       "updated_at": "2026-11-14T17:53:48Z",
-      "pushed_at": "2026-11-16T01:31:45Z"
+      "pushed_at": "2026-11-16T08:53:25Z"
     },
     {
       "id": 1405556648,
@@ -20327,6 +20342,28 @@
       "pushed_at": "2026-11-03T12:10:23Z"
     },
     {
+      "id": 1454330892,
+      "name": "point-remote-card",
+      "full_name": "onkeloki/point-remote-card",
+      "description": "Home Assistant card: point your phone at a lamp, blind, TV or speaker to control it – by compass or by camera recognition, no extra hardware",
+      "html_url": "https://github.com/onkeloki/point-remote-card",
+      "homepage": null,
+      "stars": 65,
+      "forks": 3,
+      "language": "JavaScript",
+      "topics": [
+        "custom-card",
+        "hacs",
+        "home-assistant",
+        "homeassistant",
+        "lovelace",
+        "lovelace-card"
+      ],
+      "created_at": "2026-11-11T18:10:10Z",
+      "updated_at": "2026-11-16T11:44:35Z",
+      "pushed_at": "2026-11-16T06:20:53Z"
+    },
+    {
       "id": 1388637178,
       "name": "steam-frame-6ghz-tool",
       "full_name": "toorux/steam-frame-6ghz-tool",
@@ -20600,28 +20637,6 @@
       "created_at": "2026-11-04T16:57:51Z",
       "updated_at": "2026-11-09T14:01:09Z",
       "pushed_at": "2026-11-09T14:01:05Z"
-    },
-    {
-      "id": 1454330892,
-      "name": "point-remote-card",
-      "full_name": "onkeloki/point-remote-card",
-      "description": "Home Assistant card: point your phone at a lamp, blind, TV or speaker to control it – by compass or by camera recognition, no extra hardware",
-      "html_url": "https://github.com/onkeloki/point-remote-card",
-      "homepage": null,
-      "stars": 63,
-      "forks": 3,
-      "language": "JavaScript",
-      "topics": [
-        "custom-card",
-        "hacs",
-        "home-assistant",
-        "homeassistant",
-        "lovelace",
-        "lovelace-card"
-      ],
-      "created_at": "2026-11-11T18:10:10Z",
-      "updated_at": "2026-11-15T16:59:31Z",
-      "pushed_at": "2026-11-14T21:16:49Z"
     },
     {
       "id": 1400269105,
@@ -24000,6 +24015,26 @@
       "pushed_at": "2026-11-03T20:37:14Z"
     },
     {
+      "id": 1457452451,
+      "name": "defect",
+      "full_name": "folsomintel/defect",
+      "description": "Effect-style typed errors, services, retries and resources for TypeScript, with no generators: a function's steps are its parameter defaults.",
+      "html_url": "https://github.com/folsomintel/defect",
+      "homepage": null,
+      "stars": 37,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "dependency-injection",
+        "effect",
+        "typed-errors",
+        "typescript"
+      ],
+      "created_at": "2026-11-14T06:19:48Z",
+      "updated_at": "2026-11-16T09:36:49Z",
+      "pushed_at": "2026-11-14T23:09:33Z"
+    },
+    {
       "id": 1395215215,
       "name": "awesome-tauri-apps",
       "full_name": "chrysler-stone/awesome-tauri-apps",
@@ -24184,26 +24219,6 @@
       "created_at": "2026-11-08T23:00:41Z",
       "updated_at": "2026-11-13T06:19:25Z",
       "pushed_at": "2026-11-09T11:39:49Z"
-    },
-    {
-      "id": 1457452451,
-      "name": "defect",
-      "full_name": "folsomintel/defect",
-      "description": "Effect-style typed errors, services, retries and resources for TypeScript, with no generators: a function's steps are its parameter defaults.",
-      "html_url": "https://github.com/folsomintel/defect",
-      "homepage": null,
-      "stars": 35,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "dependency-injection",
-        "effect",
-        "typed-errors",
-        "typescript"
-      ],
-      "created_at": "2026-11-14T06:19:48Z",
-      "updated_at": "2026-11-16T03:46:12Z",
-      "pushed_at": "2026-11-14T23:09:33Z"
     },
     {
       "id": 1440886314,
@@ -24983,6 +24998,31 @@
       "pushed_at": "2026-10-26T15:18:35Z"
     },
     {
+      "id": 1454896696,
+      "name": "vibe-bill",
+      "full_name": "globalmpc/vibe-bill",
+      "description": "Claude Code skill that estimates what your vibe-coded app will cost to run at 100 / 1k / 10k / 100k users, flags code patterns that inflate the bill, and renders a shareable receipt.",
+      "html_url": "https://github.com/globalmpc/vibe-bill",
+      "homepage": null,
+      "stars": 31,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "claude-code-skill",
+        "cli",
+        "cost-estimation",
+        "developer-tools",
+        "llm",
+        "mpc",
+        "typescript",
+        "vibe-coding"
+      ],
+      "created_at": "2026-11-12T06:04:19Z",
+      "updated_at": "2026-11-16T14:39:44Z",
+      "pushed_at": "2026-11-12T06:07:05Z"
+    },
+    {
       "id": 1387868633,
       "name": "lego-build",
       "full_name": "siliconbag/lego-build",
@@ -25382,6 +25422,69 @@
       "pushed_at": "2026-11-03T02:45:44Z"
     },
     {
+      "id": 1453835637,
+      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+      "html_url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
+      "stars": 29,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "agentic-ai",
+        "coregold",
+        "mitigating",
+        "stripe",
+        "tokenization"
+      ],
+      "created_at": "2026-11-11T10:32:01Z",
+      "updated_at": "2026-11-16T10:59:23Z",
+      "pushed_at": "2026-11-11T10:35:28Z"
+    },
+    {
+      "id": 1453851299,
+      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "full_name": "MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+      "html_url": "https://github.com/MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
+      "stars": 29,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "applepay",
+        "cloud",
+        "coregold",
+        "gpu",
+        "gpu-computing"
+      ],
+      "created_at": "2026-11-11T10:47:43Z",
+      "updated_at": "2026-11-16T10:59:23Z",
+      "pushed_at": "2026-11-11T10:50:09Z"
+    },
+    {
+      "id": 1453886740,
+      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "full_name": "ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+      "html_url": "https://github.com/ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
+      "stars": 29,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "apple",
+        "applepay",
+        "coregold",
+        "gpu",
+        "ustd"
+      ],
+      "created_at": "2026-11-11T11:24:04Z",
+      "updated_at": "2026-11-16T10:59:24Z",
+      "pushed_at": "2026-11-11T11:26:38Z"
+    },
+    {
       "id": 1376687962,
       "name": "kisakcod-port",
       "full_name": "slqntdevss/kisakcod-port",
@@ -25504,6 +25607,28 @@
       "created_at": "2026-10-27T17:32:05Z",
       "updated_at": "2026-11-01T13:22:30Z",
       "pushed_at": "2026-10-31T08:47:59Z"
+    },
+    {
+      "id": 1458264792,
+      "name": "ha-connection-map-card",
+      "full_name": "Ctuna89/ha-connection-map-card",
+      "description": "Home Assistant card that maps how every device reaches HA: cloud, local network, hubs (Hue, DIRIGERA, Aqara) and Zigbee/Z-Wave radio.",
+      "html_url": "https://github.com/Ctuna89/ha-connection-map-card",
+      "homepage": null,
+      "stars": 28,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [
+        "custom-card",
+        "hacs",
+        "home-assistant",
+        "lovelace",
+        "network-map",
+        "zigbee"
+      ],
+      "created_at": "2026-11-14T23:08:41Z",
+      "updated_at": "2026-11-16T08:00:19Z",
+      "pushed_at": "2026-11-16T10:27:09Z"
     },
     {
       "id": 1379555830,
