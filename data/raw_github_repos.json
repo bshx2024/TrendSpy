@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/17 18:24:18",
-  "total_repos": 1209,
+  "fetched_at": "2026/11/18 04:39:05",
+  "total_repos": 1230,
   "repos": [
     {
       "id": 1425658028,
@@ -843,7 +843,35 @@
       ],
       "created_at": "2026-11-12T19:38:53Z",
       "updated_at": "2026-11-16T21:07:42Z",
-      "pushed_at": "2026-11-17T10:20:29Z"
+      "pushed_at": "2026-11-17T20:31:01Z"
+    },
+    {
+      "id": 1455933518,
+      "name": "gpucanvas",
+      "full_name": "berkantay/gpucanvas",
+      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "html_url": "https://github.com/berkantay/gpucanvas",
+      "homepage": "https://berkantay.github.io/gpucanvas/",
+      "stars": 514,
+      "forks": 34,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas",
+        "infinite-canvas",
+        "react",
+        "shaders",
+        "transitions",
+        "typescript",
+        "webgpu",
+        "wgsl"
+      ],
+      "created_at": "2026-11-12T23:19:42Z",
+      "updated_at": "2026-11-17T19:49:22Z",
+      "pushed_at": "2026-11-15T21:14:18Z"
     },
     {
       "id": 1455751043,
@@ -879,35 +907,7 @@
       ],
       "created_at": "2026-11-12T19:39:54Z",
       "updated_at": "2026-11-16T21:09:00Z",
-      "pushed_at": "2026-11-17T10:22:30Z"
-    },
-    {
-      "id": 1455933518,
-      "name": "gpucanvas",
-      "full_name": "berkantay/gpucanvas",
-      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "html_url": "https://github.com/berkantay/gpucanvas",
-      "homepage": "https://berkantay.github.io/gpucanvas/",
-      "stars": 509,
-      "forks": 32,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas",
-        "infinite-canvas",
-        "react",
-        "shaders",
-        "transitions",
-        "typescript",
-        "webgpu",
-        "wgsl"
-      ],
-      "created_at": "2026-11-12T23:19:42Z",
-      "updated_at": "2026-11-17T09:33:55Z",
-      "pushed_at": "2026-11-15T21:14:18Z"
+      "pushed_at": "2026-11-17T20:32:32Z"
     },
     {
       "id": 1440965926,
@@ -2543,6 +2543,31 @@
       "pushed_at": "2026-10-04T11:37:50Z"
     },
     {
+      "id": 1456744150,
+      "name": "fieldkit-awesome-osint-list",
+      "full_name": "memoryswordsmanlaud/fieldkit-awesome-osint-list",
+      "description": "A curated list of 22 OSINT tools for Windows — one for every kind of clue: nickname, photo, domain, wallet, company.",
+      "html_url": "https://github.com/memoryswordsmanlaud/fieldkit-awesome-osint-list",
+      "homepage": null,
+      "stars": 405,
+      "forks": 25,
+      "language": null,
+      "topics": [
+        "awesome-list",
+        "crypto",
+        "due-diligence",
+        "geoint",
+        "investigation",
+        "osint",
+        "osint-tools",
+        "socmint",
+        "windows"
+      ],
+      "created_at": "2026-11-13T15:08:10Z",
+      "updated_at": "2026-11-17T20:10:09Z",
+      "pushed_at": "2026-11-13T15:16:37Z"
+    },
+    {
       "id": 1411923855,
       "name": "Discord-Nitro-Generator",
       "full_name": "TremorBisonSurvive/Discord-Nitro-Generator",
@@ -4043,6 +4068,29 @@
       "pushed_at": "2026-11-15T10:32:40Z"
     },
     {
+      "id": 1456652206,
+      "name": "Nexus",
+      "full_name": "ysunyang4/Nexus",
+      "description": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
+      "html_url": "https://github.com/ysunyang4/Nexus",
+      "homepage": "https://blog.ycu.de5.net/",
+      "stars": 372,
+      "forks": 65,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "llm",
+        "local-ai",
+        "mcp",
+        "webagent"
+      ],
+      "created_at": "2026-11-13T13:46:21Z",
+      "updated_at": "2026-11-17T18:48:17Z",
+      "pushed_at": "2026-11-15T05:44:45Z"
+    },
+    {
       "id": 1415972784,
       "name": "darling-lol",
       "full_name": "lucannez64/darling-lol",
@@ -4316,7 +4364,7 @@
       "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
       "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
       "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
-      "stars": 362,
+      "stars": 363,
       "forks": 0,
       "language": "C++",
       "topics": [
@@ -4330,8 +4378,8 @@
         "trial-version"
       ],
       "created_at": "2026-11-14T00:49:03Z",
-      "updated_at": "2026-11-17T03:36:32Z",
-      "pushed_at": "2026-11-17T03:33:21Z"
+      "updated_at": "2026-11-17T15:19:17Z",
+      "pushed_at": "2026-11-17T12:55:59Z"
     },
     {
       "id": 1458203061,
@@ -4403,7 +4451,7 @@
       ],
       "created_at": "2026-11-13T22:34:10Z",
       "updated_at": "2026-11-16T13:11:19Z",
-      "pushed_at": "2026-11-17T09:57:08Z"
+      "pushed_at": "2026-11-17T18:56:32Z"
     },
     {
       "id": 1457235941,
@@ -4603,31 +4651,6 @@
       "pushed_at": "2026-11-04T02:14:22Z"
     },
     {
-      "id": 1456744150,
-      "name": "fieldkit-awesome-osint-list",
-      "full_name": "memoryswordsmanlaud/fieldkit-awesome-osint-list",
-      "description": "A curated list of 22 OSINT tools for Windows — one for every kind of clue: nickname, photo, domain, wallet, company.",
-      "html_url": "https://github.com/memoryswordsmanlaud/fieldkit-awesome-osint-list",
-      "homepage": null,
-      "stars": 338,
-      "forks": 25,
-      "language": null,
-      "topics": [
-        "awesome-list",
-        "crypto",
-        "due-diligence",
-        "geoint",
-        "investigation",
-        "osint",
-        "osint-tools",
-        "socmint",
-        "windows"
-      ],
-      "created_at": "2026-11-13T15:08:10Z",
-      "updated_at": "2026-11-17T10:19:21Z",
-      "pushed_at": "2026-11-13T15:16:37Z"
-    },
-    {
       "id": 1412143785,
       "name": "robot-heads",
       "full_name": "fayazara/robot-heads",
@@ -4815,21 +4838,6 @@
       "created_at": "2026-11-10T16:09:34Z",
       "updated_at": "2026-11-10T21:28:21Z",
       "pushed_at": "2026-11-10T16:09:40Z"
-    },
-    {
-      "id": 1456652206,
-      "name": "Nexus",
-      "full_name": "ysunyang4/Nexus",
-      "description": "Web AI for local work",
-      "html_url": "https://github.com/ysunyang4/Nexus",
-      "homepage": null,
-      "stars": 325,
-      "forks": 55,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-13T13:46:21Z",
-      "updated_at": "2026-11-16T23:36:30Z",
-      "pushed_at": "2026-11-15T05:44:45Z"
     },
     {
       "id": 1442833956,
@@ -5060,6 +5068,21 @@
       "created_at": "2026-11-02T17:03:14Z",
       "updated_at": "2026-11-08T23:11:13Z",
       "pushed_at": "2026-11-04T16:59:50Z"
+    },
+    {
+      "id": 1458720005,
+      "name": "ung220z-tool",
+      "full_name": "Hut-hzf/ung220z-tool",
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "html_url": "https://github.com/Hut-hzf/ung220z-tool",
+      "homepage": null,
+      "stars": 306,
+      "forks": 84,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-15T11:16:46Z",
+      "updated_at": "2026-11-17T20:37:51Z",
+      "pushed_at": "2026-11-15T11:17:27Z"
     },
     {
       "id": 1411929925,
@@ -6740,6 +6763,30 @@
       "pushed_at": "2026-11-04T01:12:04Z"
     },
     {
+      "id": 1456688919,
+      "name": "shamus-osint-ai-agent",
+      "full_name": "RouteInferno/shamus-osint-ai-agent",
+      "description": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
+      "html_url": "https://github.com/RouteInferno/shamus-osint-ai-agent",
+      "homepage": "https://awesomeosint.tools/shamus/",
+      "stars": 285,
+      "forks": 8,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "cli",
+        "investigation",
+        "llm",
+        "osint",
+        "osint-tool",
+        "reconnaissance",
+        "terminal"
+      ],
+      "created_at": "2026-11-13T14:19:35Z",
+      "updated_at": "2026-11-17T17:58:52Z",
+      "pushed_at": "2026-11-13T14:20:57Z"
+    },
+    {
       "id": 1432958333,
       "name": "duckpad",
       "full_name": "hugues31/duckpad",
@@ -6944,6 +6991,29 @@
       "pushed_at": "2026-11-06T02:54:36Z"
     },
     {
+      "id": 1456665342,
+      "name": "pegboard-osint-toolkit",
+      "full_name": "StuccoSwordsmanStyle/pegboard-osint-toolkit",
+      "description": "All-in-one OSINT toolkit for Windows: give it one clue (a nickname, a domain or a wallet), it runs the tools in order and hands you the finished case.",
+      "html_url": "https://github.com/StuccoSwordsmanStyle/pegboard-osint-toolkit",
+      "homepage": "https://awesomeosint.tools/pegboard/",
+      "stars": 266,
+      "forks": 5,
+      "language": "Python",
+      "topics": [
+        "domain-recon",
+        "investigation",
+        "osint",
+        "osint-framework",
+        "osint-toolkit",
+        "reconnaissance",
+        "username-search"
+      ],
+      "created_at": "2026-11-13T13:58:28Z",
+      "updated_at": "2026-11-17T18:35:27Z",
+      "pushed_at": "2026-11-13T13:59:50Z"
+    },
+    {
       "id": 1390994799,
       "name": "CalcKernel",
       "full_name": "luxine/CalcKernel",
@@ -6962,6 +7032,30 @@
       "created_at": "2026-09-27T14:59:35Z",
       "updated_at": "2026-10-02T22:54:55Z",
       "pushed_at": "2026-10-02T00:33:09Z"
+    },
+    {
+      "id": 1460221483,
+      "name": "smelt-minecraft-mods-to-rust-converter",
+      "full_name": "Orderchodrag/smelt-minecraft-mods-to-rust-converter",
+      "description": "Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly what is left.",
+      "html_url": "https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter",
+      "homepage": null,
+      "stars": 262,
+      "forks": 18,
+      "language": "JavaScript",
+      "topics": [
+        "cli",
+        "fabric",
+        "horizon",
+        "minecraft",
+        "minecraft-mods",
+        "neoforge",
+        "porting",
+        "rust"
+      ],
+      "created_at": "2026-11-16T15:44:12Z",
+      "updated_at": "2026-11-17T18:36:00Z",
+      "pushed_at": "2026-11-16T15:44:43Z"
     },
     {
       "id": 1440772406,
@@ -7819,6 +7913,27 @@
       "pushed_at": "2026-10-13T12:50:13Z"
     },
     {
+      "id": 1456585042,
+      "name": "amber-osint-web-archive",
+      "full_name": "CityGrubWedge/amber-osint-web-archive",
+      "description": "OSINT time machine for the web: how a page looked, and what was removed from it.",
+      "html_url": "https://github.com/CityGrubWedge/amber-osint-web-archive",
+      "homepage": "https://awesomeosint.tools/amber/",
+      "stars": 225,
+      "forks": 6,
+      "language": "JavaScript",
+      "topics": [
+        "deleted-content",
+        "history",
+        "osint",
+        "wayback-machine",
+        "web-archive"
+      ],
+      "created_at": "2026-11-13T12:40:16Z",
+      "updated_at": "2026-11-17T17:26:49Z",
+      "pushed_at": "2026-11-13T13:04:53Z"
+    },
+    {
       "id": 1439548693,
       "name": "fy-code-animation",
       "full_name": "Akillll-DuoHe/fy-code-animation",
@@ -7856,6 +7971,21 @@
       "created_at": "2026-10-31T10:56:27Z",
       "updated_at": "2026-11-06T09:14:00Z",
       "pushed_at": "2026-11-05T10:22:34Z"
+    },
+    {
+      "id": 1456707936,
+      "name": "mmforge-platform",
+      "full_name": "EunChae1110/mmforge-platform",
+      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
+      "html_url": "https://github.com/EunChae1110/mmforge-platform",
+      "homepage": "https://mmforge-platform.vercel.app/",
+      "stars": 223,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-13T14:36:14Z",
+      "updated_at": "2026-11-17T12:39:14Z",
+      "pushed_at": "2026-11-15T07:24:15Z"
     },
     {
       "id": 1432256203,
@@ -8187,21 +8317,6 @@
       "created_at": "2026-11-06T03:26:21Z",
       "updated_at": "2026-11-12T18:31:02Z",
       "pushed_at": "2026-11-12T19:21:17Z"
-    },
-    {
-      "id": 1456707936,
-      "name": "mmforge-platform",
-      "full_name": "EunChae1110/mmforge-platform",
-      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
-      "html_url": "https://github.com/EunChae1110/mmforge-platform",
-      "homepage": "https://mmforge-platform.vercel.app/",
-      "stars": 214,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-13T14:36:14Z",
-      "updated_at": "2026-11-17T09:20:14Z",
-      "pushed_at": "2026-11-15T07:24:15Z"
     },
     {
       "id": 1448545486,
@@ -10258,27 +10373,6 @@
       "pushed_at": "2026-10-16T10:03:49Z"
     },
     {
-      "id": 1456585042,
-      "name": "amber-osint-web-archive",
-      "full_name": "CityGrubWedge/amber-osint-web-archive",
-      "description": "OSINT time machine for the web: how a page looked, and what was removed from it.",
-      "html_url": "https://github.com/CityGrubWedge/amber-osint-web-archive",
-      "homepage": "https://awesomeosint.tools/amber/",
-      "stars": 190,
-      "forks": 6,
-      "language": "JavaScript",
-      "topics": [
-        "deleted-content",
-        "history",
-        "osint",
-        "wayback-machine",
-        "web-archive"
-      ],
-      "created_at": "2026-11-13T12:40:16Z",
-      "updated_at": "2026-11-17T10:23:52Z",
-      "pushed_at": "2026-11-13T13:04:53Z"
-    },
-    {
       "id": 1375641268,
       "name": "JevRouter",
       "full_name": "BillionsBobby/JevRouter",
@@ -10779,6 +10873,21 @@
       "pushed_at": "2026-11-14T15:58:09Z"
     },
     {
+      "id": 1458072997,
+      "name": "GoW-Ascension-Recomp",
+      "full_name": "bc160201983/GoW-Ascension-Recomp",
+      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
+      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+      "homepage": "https://www.patreon.com/c/bilalreloaded",
+      "stars": 177,
+      "forks": 4,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-11-14T18:53:22Z",
+      "updated_at": "2026-11-17T17:46:09Z",
+      "pushed_at": "2026-11-15T20:39:33Z"
+    },
+    {
       "id": 1415913339,
       "name": "Instagram-Liker-Bot",
       "full_name": "shellviperoscillator/Instagram-Liker-Bot",
@@ -10872,21 +10981,6 @@
       "created_at": "2026-10-12T17:23:33Z",
       "updated_at": "2026-10-12T20:47:57Z",
       "pushed_at": "2026-10-12T17:23:39Z"
-    },
-    {
-      "id": 1458072997,
-      "name": "GoW-Ascension-Recomp",
-      "full_name": "bc160201983/GoW-Ascension-Recomp",
-      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
-      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
-      "homepage": "https://www.patreon.com/c/bilalreloaded",
-      "stars": 174,
-      "forks": 4,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-11-14T18:53:22Z",
-      "updated_at": "2026-11-17T09:44:33Z",
-      "pushed_at": "2026-11-15T20:39:33Z"
     },
     {
       "id": 1422491888,
@@ -11060,6 +11154,30 @@
       "created_at": "2026-10-01T18:39:44Z",
       "updated_at": "2026-10-07T14:17:12Z",
       "pushed_at": "2026-10-05T18:50:02Z"
+    },
+    {
+      "id": 1460222787,
+      "name": "osint-people-checker",
+      "full_name": "MerchantSheave/osint-people-checker",
+      "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
+      "html_url": "https://github.com/MerchantSheave/osint-people-checker",
+      "homepage": null,
+      "stars": 167,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [
+        "desktop",
+        "email-lookup",
+        "osint",
+        "phone-lookup",
+        "privacy",
+        "rust",
+        "scam-check",
+        "username-search"
+      ],
+      "created_at": "2026-11-16T15:45:24Z",
+      "updated_at": "2026-11-17T19:13:48Z",
+      "pushed_at": "2026-11-16T15:45:55Z"
     },
     {
       "id": 1440797906,
@@ -11349,6 +11467,29 @@
       "pushed_at": "2026-10-25T05:32:25Z"
     },
     {
+      "id": 1460079213,
+      "name": "motlab",
+      "full_name": "staryone/motlab",
+      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+      "html_url": "https://github.com/staryone/motlab",
+      "homepage": null,
+      "stars": 159,
+      "forks": 21,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "canvas",
+        "claude-code",
+        "headless-chrome",
+        "motion-graphics",
+        "video",
+        "webcodecs"
+      ],
+      "created_at": "2026-11-16T13:45:47Z",
+      "updated_at": "2026-11-17T16:46:58Z",
+      "pushed_at": "2026-11-17T14:38:43Z"
+    },
+    {
       "id": 1432640160,
       "name": "skill-diet",
       "full_name": "nicobailon/skill-diet",
@@ -11478,6 +11619,518 @@
       "pushed_at": "2026-09-23T10:48:10Z"
     },
     {
+      "id": 1459212651,
+      "name": "postcreator-social-card-studio",
+      "full_name": "KeganMT/postcreator-social-card-studio",
+      "description": "PostCreator Social Card Studio: Client-Side Social Card Design and Export",
+      "html_url": "https://github.com/KeganMT/postcreator-social-card-studio",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "canvas-export",
+        "card-generator",
+        "carousel-generator",
+        "html5-canvas",
+        "ig-creator",
+        "image-editor",
+        "insta-bot-py",
+        "insta-creator",
+        "insta-py",
+        "instagram-create-account",
+        "instagram-creator",
+        "instagram-creators",
+        "instagram-py",
+        "instagram-python",
+        "python-instagram",
+        "quote-maker",
+        "social-media-graphics",
+        "twitter-grid"
+      ],
+      "created_at": "2026-11-15T20:26:43Z",
+      "updated_at": "2026-11-17T18:07:28Z",
+      "pushed_at": "2026-11-17T19:34:52Z"
+    },
+    {
+      "id": 1459210680,
+      "name": "pancakeswap-fourmeme-sniper-bot",
+      "full_name": "nguyen-huu275/pancakeswap-fourmeme-sniper-bot",
+      "description": "Community-driven Four.meme sniper bot for BSC with auto-buy and PancakeSwap V3",
+      "html_url": "https://github.com/nguyen-huu275/pancakeswap-fourmeme-sniper-bot",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "arbitrum",
+        "cross-chain",
+        "eliza",
+        "elizaos",
+        "elizaos-plugins",
+        "fourmeme-bot",
+        "fourmeme-bundler",
+        "fourmeme-bundler-bot",
+        "gasless",
+        "liquidity-management",
+        "orkid-labs",
+        "permit2",
+        "starter-template",
+        "swap",
+        "widget",
+        "x402"
+      ],
+      "created_at": "2026-11-15T20:24:13Z",
+      "updated_at": "2026-11-17T18:05:12Z",
+      "pushed_at": "2026-11-17T18:56:10Z"
+    },
+    {
+      "id": 1459218532,
+      "name": "rpg-maker-decrypter",
+      "full_name": "jalelhmem26-hub/rpg-maker-decrypter",
+      "description": "Fast RPG Maker archive and asset decrypter with built-in asset inspection",
+      "html_url": "https://github.com/jalelhmem26-hub/rpg-maker-decrypter",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "call-of-duty-3",
+        "rpg-maker-mv",
+        "rpg-maker-mz",
+        "rpg-maker-vx",
+        "rpg-maker-vx-ace",
+        "rpg-maker-vxace",
+        "rpg-maker-xp",
+        "unity-mod"
+      ],
+      "created_at": "2026-11-15T20:34:19Z",
+      "updated_at": "2026-11-17T18:05:20Z",
+      "pushed_at": "2026-11-17T18:57:14Z"
+    },
+    {
+      "id": 1459199698,
+      "name": "job-search-bot",
+      "full_name": "tejedabrayan024-ship-it/job-search-bot",
+      "description": "Job Search Bot: Community-Driven Job Alerts with Tailored Resumes and Cover Letters",
+      "html_url": "https://github.com/tejedabrayan024-ship-it/job-search-bot",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "chat-memory",
+        "cloudflare-workers-ai",
+        "firebase",
+        "job-alerts",
+        "job-search",
+        "job-tracker",
+        "jobs",
+        "nlp",
+        "open-source-project",
+        "qwen3",
+        "scraper",
+        "speech-to-text",
+        "voice-assistant",
+        "vosk"
+      ],
+      "created_at": "2026-11-15T20:10:20Z",
+      "updated_at": "2026-11-17T18:03:39Z",
+      "pushed_at": "2026-11-17T18:48:25Z"
+    },
+    {
+      "id": 1459175217,
+      "name": "craft-cards",
+      "full_name": "menakhaled3112008-commits/craft-cards",
+      "description": "Craft Cards: Multiplayer Card Battles with Nine-Grid Tables and Item Chips",
+      "html_url": "https://github.com/menakhaled3112008-commits/craft-cards",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "Go",
+      "topics": [
+        "automation",
+        "bedrock",
+        "bukkit-plugin",
+        "castles",
+        "derexx",
+        "java",
+        "java-25",
+        "minecraft-26-3",
+        "minecraft-mod-suite",
+        "minecraft-serverside",
+        "mixin",
+        "multiplayer",
+        "neoforge-mod",
+        "procedural-generation",
+        "storage",
+        "world-generation"
+      ],
+      "created_at": "2026-11-15T19:40:45Z",
+      "updated_at": "2026-11-17T18:10:25Z",
+      "pushed_at": "2026-11-17T16:42:23Z"
+    },
+    {
+      "id": 1459228977,
+      "name": "tiktok-accounts-generator",
+      "full_name": "mhmdmonner439-alt/tiktok-accounts-generator",
+      "description": "TikTok Accounts Generator - Community-Driven Bot for Discord and Telegram",
+      "html_url": "https://github.com/mhmdmonner439-alt/tiktok-accounts-generator",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "50mam",
+        "antidetect-browser",
+        "bypass-shadowban",
+        "create-tiktok-accounts",
+        "multi-accounting",
+        "multilogin",
+        "shadowban-bypass",
+        "tiktok-farming",
+        "tiktok-shop-agency"
+      ],
+      "created_at": "2026-11-15T20:47:47Z",
+      "updated_at": "2026-11-17T18:11:14Z",
+      "pushed_at": "2026-11-17T18:57:46Z"
+    },
+    {
+      "id": 1459195741,
+      "name": "html-ppt-generator",
+      "full_name": "mackzyfiston-cmd/html-ppt-generator",
+      "description": "HTML PPT Generator: Audience-Tailored Slides, Speaker, and Visual Verification",
+      "html_url": "https://github.com/mackzyfiston-cmd/html-ppt-generator",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skill",
+        "chatgpt",
+        "chrome-extension",
+        "context-management",
+        "design-to-code",
+        "human-in-the-loop",
+        "illustration",
+        "image-analysis",
+        "image-generation",
+        "pptx",
+        "presentation",
+        "product-review",
+        "prompt-engineering",
+        "web-design"
+      ],
+      "created_at": "2026-11-15T20:05:32Z",
+      "updated_at": "2026-11-17T18:00:43Z",
+      "pushed_at": "2026-11-17T18:48:22Z"
+    },
+    {
+      "id": 1459199945,
+      "name": "kyi-warrant-auditor",
+      "full_name": "moathabdulqadir/kyi-warrant-auditor",
+      "description": "KYI Warrant Auditor: Fact-Driven Audit Tool for Verifying Warrant Scope and Compliance",
+      "html_url": "https://github.com/moathabdulqadir/kyi-warrant-auditor",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "abstraxn",
+        "arcade",
+        "auditor",
+        "ccv1",
+        "cookie-chain",
+        "data-pipeline",
+        "decision-system",
+        "devnet",
+        "free-tier",
+        "keeperhub",
+        "kyi",
+        "llm-judge",
+        "merkle",
+        "receipt",
+        "signal-engine",
+        "signals",
+        "structured-prompting",
+        "vrf",
+        "warrant"
+      ],
+      "created_at": "2026-11-15T20:10:40Z",
+      "updated_at": "2026-11-17T18:06:55Z",
+      "pushed_at": "2026-11-17T19:57:19Z"
+    },
+    {
+      "id": 1459239972,
+      "name": "xhe-aac-converter-bmdc",
+      "full_name": "yuno2diariomirainikki-arch/xhe-aac-converter-bmdc",
+      "description": "xHE-AAC Converter BMDC: Visual Workflow Media Transcoding Tool",
+      "html_url": "https://github.com/yuno2diariomirainikki-arch/xhe-aac-converter-bmdc",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "camera",
+        "converter",
+        "davinci-resolve-color",
+        "exstension",
+        "extension",
+        "tool",
+        "xhe",
+        "xhe-aac"
+      ],
+      "created_at": "2026-11-15T21:02:11Z",
+      "updated_at": "2026-11-17T18:06:25Z",
+      "pushed_at": "2026-11-16T22:35:36Z"
+    },
+    {
+      "id": 1459181288,
+      "name": "drop-music-visualizer",
+      "full_name": "nikhilpanwar375-creator/drop-music-visualizer",
+      "description": "Turn every track into a moving visual story with Drop Music Visualizer",
+      "html_url": "https://github.com/nikhilpanwar375-creator/drop-music-visualizer",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "drag",
+        "drag-and-drop",
+        "drop",
+        "efficient-music-player",
+        "fft",
+        "hot-reload",
+        "hotreload",
+        "livereload",
+        "music",
+        "music-player",
+        "music-visualizer",
+        "player",
+        "scalable",
+        "visualizer",
+        "waveform",
+        "waveform-visualizer"
+      ],
+      "created_at": "2026-11-15T19:47:53Z",
+      "updated_at": "2026-11-17T18:10:15Z",
+      "pushed_at": "2026-11-17T18:18:47Z"
+    },
+    {
+      "id": 1459240143,
+      "name": "yimmenu-lua-script",
+      "full_name": "Obatedor/yimmenu-lua-script",
+      "description": "YimMenu Lua Script: Feature-Rich GTA Online Enhancement",
+      "html_url": "https://github.com/Obatedor/yimmenu-lua-script",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "gtamodding",
+        "yimmenu-script"
+      ],
+      "created_at": "2026-11-15T21:02:25Z",
+      "updated_at": "2026-11-17T18:05:47Z",
+      "pushed_at": "2026-11-17T12:56:25Z"
+    },
+    {
+      "id": 1459225190,
+      "name": "solana-pump-fun-sniper-bot",
+      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+      "description": "Feature-rich Solana Pump.fun Sniper Bot with Jito MEV protection and community filters",
+      "html_url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "algorithmic-trading-quantitative",
+        "api-client",
+        "crypto-ai-2026",
+        "crypto-ai-agent",
+        "crypto-ai-desk",
+        "crypto-trade-automator",
+        "crypto-trading-bot-2026",
+        "crypto-trading-bot-latest",
+        "ed25519",
+        "listing-alerts",
+        "paper-trading-simulator",
+        "solana-memecoin-sniper-bot",
+        "solana-payout-api",
+        "solana-programmable",
+        "solana-token-launcher",
+        "solana-transactions",
+        "solanamemecoines",
+        "solanamevbot",
+        "unit-testing",
+        "watchdog"
+      ],
+      "created_at": "2026-11-15T20:42:49Z",
+      "updated_at": "2026-11-17T17:58:04Z",
+      "pushed_at": "2026-11-17T20:36:11Z"
+    },
+    {
+      "id": 1459206491,
+      "name": "mintmousse-web-console",
+      "full_name": "maira-acosta/mintmousse-web-console",
+      "description": "MintMousse Web Console: A polished web console for the MintMousse platform.",
+      "html_url": "https://github.com/maira-acosta/mintmousse-web-console",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "2d-game-framework",
+        "2d-games",
+        "2d-graphics",
+        "action-game",
+        "combat",
+        "g3d",
+        "graphics",
+        "library",
+        "roguelike",
+        "roguelike-game",
+        "shooter-game",
+        "story"
+      ],
+      "created_at": "2026-11-15T20:18:59Z",
+      "updated_at": "2026-11-17T18:08:48Z",
+      "pushed_at": "2026-11-17T18:48:07Z"
+    },
+    {
+      "id": 1459182471,
+      "name": "easywinget-gui",
+      "full_name": "Dude-web/easywinget-gui",
+      "description": "EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management",
+      "html_url": "https://github.com/Dude-web/easywinget-gui",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "free-optimization-tool",
+        "full-installer",
+        "installer-service",
+        "javascript",
+        "lightweight",
+        "nodejs",
+        "one-click-installer",
+        "package-manager",
+        "usb-boot-creator",
+        "web-interface",
+        "windows-10-debloat",
+        "windows-10-iso-download-file",
+        "windows-10-optimization",
+        "windows-iso-downloader",
+        "windows-package-manager",
+        "windows10",
+        "winget-gui"
+      ],
+      "created_at": "2026-11-15T19:49:18Z",
+      "updated_at": "2026-11-17T18:02:42Z",
+      "pushed_at": "2026-11-17T16:42:59Z"
+    },
+    {
+      "id": 1459207190,
+      "name": "modem-sms-register",
+      "full_name": "tavoohuepaa/modem-sms-register",
+      "description": "Modem SMS Register: Connect Modems to Your Web App via API",
+      "html_url": "https://github.com/tavoohuepaa/modem-sms-register",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "bangladesh",
+        "bulksmsbd",
+        "bundle-manager",
+        "children",
+        "composer",
+        "composer-package",
+        "composer-plugin",
+        "customer-verifier",
+        "data-package",
+        "laravel-5-package",
+        "laravel-bulksms",
+        "laravel-bulksmsbd",
+        "laravel-integration",
+        "laravel-package",
+        "laravel-plugin",
+        "laravel-sms",
+        "laravel-sms-gateway",
+        "php-library",
+        "php-package",
+        "telecom"
+      ],
+      "created_at": "2026-11-15T20:19:52Z",
+      "updated_at": "2026-11-17T18:03:20Z",
+      "pushed_at": "2026-11-17T11:39:04Z"
+    },
+    {
+      "id": 1459222601,
+      "name": "sliit-fire-sensor-app",
+      "full_name": "arungtm775-wq/sliit-fire-sensor-app",
+      "description": "SLIIT Fire Sensor App: Real-Time Fire Alarm Platform for Web and Desktop",
+      "html_url": "https://github.com/arungtm775-wq/sliit-fire-sensor-app",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ajax",
+        "big-data-analytics",
+        "bigdata",
+        "crud-operation",
+        "files-management",
+        "files-service",
+        "insurance",
+        "insurance-manager",
+        "java-swing",
+        "jquery",
+        "microsoft-access-database",
+        "microsoft-net-framework",
+        "mongoose",
+        "net",
+        "restful-api",
+        "restful-webservices",
+        "rmi-client",
+        "rmi-registry",
+        "rmi-server",
+        "webhooks"
+      ],
+      "created_at": "2026-11-15T20:39:36Z",
+      "updated_at": "2026-11-17T18:08:03Z",
+      "pushed_at": "2026-11-17T20:34:15Z"
+    },
+    {
+      "id": 1459171456,
+      "name": "brave-desktop-browser",
+      "full_name": "ismaelkahh-netizen/brave-desktop-browser",
+      "description": "Brave Desktop Browser: Privacy-Focused Web Browser for Windows 10/11 with Built-In Ad Blocker",
+      "html_url": "https://github.com/ismaelkahh-netizen/brave-desktop-browser",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "brave-browser-2026",
+        "brave-extension",
+        "brave-origin",
+        "ebrasha",
+        "identity-management",
+        "idm-activation-study",
+        "idm-hack",
+        "idmfront",
+        "mass-deploy",
+        "netiq-identity-manager",
+        "premkali"
+      ],
+      "created_at": "2026-11-15T19:36:18Z",
+      "updated_at": "2026-11-17T18:02:33Z",
+      "pushed_at": "2026-11-17T17:25:35Z"
+    },
+    {
       "id": 1448025260,
       "name": "wallet-portrait",
       "full_name": "laodeng2313/wallet-portrait",
@@ -11517,6 +12170,21 @@
       "created_at": "2026-10-17T19:09:38Z",
       "updated_at": "2026-10-17T23:50:33Z",
       "pushed_at": "2026-10-17T19:09:44Z"
+    },
+    {
+      "id": 1455858424,
+      "name": "PushFPS",
+      "full_name": "DosukaSOL/PushFPS",
+      "description": "PushFPS: push 30 FPS console games to 60 or 120 FPS. Real-time AI frame generation for any capture card on Windows, with NVIDIA RTX and AMD support. Free and open source, based on Veyra.",
+      "html_url": "https://github.com/DosukaSOL/PushFPS",
+      "homepage": null,
+      "stars": 152,
+      "forks": 13,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-11-12T21:39:43Z",
+      "updated_at": "2026-11-17T14:15:44Z",
+      "pushed_at": "2026-11-17T20:34:38Z"
     },
     {
       "id": 1423657988,
@@ -12514,30 +13182,6 @@
       "pushed_at": "2026-11-08T04:19:00Z"
     },
     {
-      "id": 1460221483,
-      "name": "smelt-minecraft-mods-to-rust-converter",
-      "full_name": "Orderchodrag/smelt-minecraft-mods-to-rust-converter",
-      "description": "Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly what is left.",
-      "html_url": "https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter",
-      "homepage": null,
-      "stars": 146,
-      "forks": 14,
-      "language": "JavaScript",
-      "topics": [
-        "cli",
-        "fabric",
-        "horizon",
-        "minecraft",
-        "minecraft-mods",
-        "neoforge",
-        "porting",
-        "rust"
-      ],
-      "created_at": "2026-11-16T15:44:12Z",
-      "updated_at": "2026-11-17T10:21:22Z",
-      "pushed_at": "2026-11-16T15:44:43Z"
-    },
-    {
       "id": 1441141531,
       "name": "Conker-Recomped-and-Reloaded",
       "full_name": "Mabec-games/Conker-Recomped-and-Reloaded",
@@ -12561,6 +13205,29 @@
       "created_at": "2026-10-31T18:25:04Z",
       "updated_at": "2026-11-06T14:37:00Z",
       "pushed_at": "2026-11-05T10:06:09Z"
+    },
+    {
+      "id": 1453389698,
+      "name": "webagent",
+      "full_name": "ysunyang4/webagent",
+      "description": "Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用",
+      "html_url": "https://github.com/ysunyang4/webagent",
+      "homepage": "https://blog.ycu.de5.net/",
+      "stars": 145,
+      "forks": 39,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "llm",
+        "local-ai",
+        "mcp",
+        "webagent"
+      ],
+      "created_at": "2026-11-11T01:32:04Z",
+      "updated_at": "2026-11-17T18:48:20Z",
+      "pushed_at": "2026-11-16T00:43:13Z"
     },
     {
       "id": 1410815894,
@@ -12910,29 +13577,6 @@
       "created_at": "2026-10-29T07:16:14Z",
       "updated_at": "2026-10-29T17:56:43Z",
       "pushed_at": "2026-10-29T07:16:25Z"
-    },
-    {
-      "id": 1453389698,
-      "name": "webagent",
-      "full_name": "ysunyang4/webagent",
-      "description": "此链接是博客教程，感兴趣的朋友可以按照教程配置，欢迎star~",
-      "html_url": "https://github.com/ysunyang4/webagent",
-      "homepage": "https://blog.ycu.de5.net/",
-      "stars": 139,
-      "forks": 38,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "llm",
-        "local-ai",
-        "mcp",
-        "webagent"
-      ],
-      "created_at": "2026-11-11T01:32:04Z",
-      "updated_at": "2026-11-17T10:20:20Z",
-      "pushed_at": "2026-11-16T00:43:13Z"
     },
     {
       "id": 1438075150,
@@ -13493,29 +14137,6 @@
       "created_at": "2026-11-04T08:44:08Z",
       "updated_at": "2026-11-04T13:57:09Z",
       "pushed_at": "2026-11-04T08:44:14Z"
-    },
-    {
-      "id": 1460079213,
-      "name": "motlab",
-      "full_name": "staryone/motlab",
-      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
-      "html_url": "https://github.com/staryone/motlab",
-      "homepage": null,
-      "stars": 130,
-      "forks": 12,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "canvas",
-        "claude-code",
-        "headless-chrome",
-        "motion-graphics",
-        "video",
-        "webcodecs"
-      ],
-      "created_at": "2026-11-16T13:45:47Z",
-      "updated_at": "2026-11-17T10:19:51Z",
-      "pushed_at": "2026-11-16T19:27:58Z"
     },
     {
       "id": 1385750356,
@@ -18570,30 +19191,6 @@
       "pushed_at": "2026-11-01T12:49:57Z"
     },
     {
-      "id": 1460222787,
-      "name": "osint-people-checker",
-      "full_name": "MerchantSheave/osint-people-checker",
-      "description": "Check a seller, recruiter or landlord against 3,400+ public sources before you trust them. A verdict in plain words and a saved receipt behind every finding. Runs on your PC.",
-      "html_url": "https://github.com/MerchantSheave/osint-people-checker",
-      "homepage": null,
-      "stars": 86,
-      "forks": 10,
-      "language": "JavaScript",
-      "topics": [
-        "desktop",
-        "email-lookup",
-        "osint",
-        "phone-lookup",
-        "privacy",
-        "rust",
-        "scam-check",
-        "username-search"
-      ],
-      "created_at": "2026-11-16T15:45:24Z",
-      "updated_at": "2026-11-17T10:18:34Z",
-      "pushed_at": "2026-11-16T15:45:55Z"
-    },
-    {
       "id": 1434014666,
       "name": "BDO_Enhancement_rpocket_Tool",
       "full_name": "LoyaltyInTitan/BDO_Enhancement_rpocket_Tool",
@@ -20607,6 +21204,28 @@
       "pushed_at": "2026-11-14T10:37:59Z"
     },
     {
+      "id": 1454330892,
+      "name": "point-remote-card",
+      "full_name": "onkeloki/point-remote-card",
+      "description": "Home Assistant card: point your phone at a lamp, blind, TV or speaker to control it – by compass or by camera recognition, no extra hardware",
+      "html_url": "https://github.com/onkeloki/point-remote-card",
+      "homepage": null,
+      "stars": 67,
+      "forks": 3,
+      "language": "JavaScript",
+      "topics": [
+        "custom-card",
+        "hacs",
+        "home-assistant",
+        "homeassistant",
+        "lovelace",
+        "lovelace-card"
+      ],
+      "created_at": "2026-11-11T18:10:10Z",
+      "updated_at": "2026-11-17T14:06:49Z",
+      "pushed_at": "2026-11-17T13:25:36Z"
+    },
+    {
       "id": 1411919172,
       "name": "actell",
       "full_name": "ja1chen/actell",
@@ -20620,28 +21239,6 @@
       "created_at": "2026-10-09T13:46:56Z",
       "updated_at": "2026-10-15T15:25:44Z",
       "pushed_at": "2026-10-15T15:25:39Z"
-    },
-    {
-      "id": 1454330892,
-      "name": "point-remote-card",
-      "full_name": "onkeloki/point-remote-card",
-      "description": "Home Assistant card: point your phone at a lamp, blind, TV or speaker to control it – by compass or by camera recognition, no extra hardware",
-      "html_url": "https://github.com/onkeloki/point-remote-card",
-      "homepage": null,
-      "stars": 66,
-      "forks": 3,
-      "language": "JavaScript",
-      "topics": [
-        "custom-card",
-        "hacs",
-        "home-assistant",
-        "homeassistant",
-        "lovelace",
-        "lovelace-card"
-      ],
-      "created_at": "2026-11-11T18:10:10Z",
-      "updated_at": "2026-11-16T18:07:53Z",
-      "pushed_at": "2026-11-16T06:20:53Z"
     },
     {
       "id": 1429666605,
@@ -23692,6 +24289,35 @@
       "pushed_at": "2026-11-10T12:13:50Z"
     },
     {
+      "id": 1459467232,
+      "name": "material-expressive-skill",
+      "full_name": "asimawdah/material-expressive-skill",
+      "description": "An AI Agent Skill for designing, implementing, and reviewing production-ready interfaces with Material 3 Expressive across Android, Flutter, Web, and other platforms. Covers expressive design principles, theming, motion, adaptive layouts, accessibility, and platform-aware implementation.",
+      "html_url": "https://github.com/asimawdah/material-expressive-skill",
+      "homepage": null,
+      "stars": 44,
+      "forks": 4,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "flutter",
+        "jetpack-compose",
+        "kotlin",
+        "material-3-expressive",
+        "material-3-expressive-design",
+        "material-design",
+        "material-design-3",
+        "material-you",
+        "swiftui",
+        "ui-design",
+        "ux-design"
+      ],
+      "created_at": "2026-11-16T02:45:38Z",
+      "updated_at": "2026-11-17T11:02:33Z",
+      "pushed_at": "2026-11-16T05:39:24Z"
+    },
+    {
       "id": 1375718495,
       "name": "jornadas-cloud-2026",
       "full_name": "betta-tech/jornadas-cloud-2026",
@@ -23811,35 +24437,6 @@
       "created_at": "2026-10-31T08:00:18Z",
       "updated_at": "2026-11-04T21:35:34Z",
       "pushed_at": "2026-11-02T14:41:29Z"
-    },
-    {
-      "id": 1459467232,
-      "name": "material-expressive-skill",
-      "full_name": "asimawdah/material-expressive-skill",
-      "description": "An AI Agent Skill for designing, implementing, and reviewing production-ready interfaces with Material 3 Expressive across Android, Flutter, Web, and other platforms. Covers expressive design principles, theming, motion, adaptive layouts, accessibility, and platform-aware implementation.",
-      "html_url": "https://github.com/asimawdah/material-expressive-skill",
-      "homepage": null,
-      "stars": 43,
-      "forks": 4,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "flutter",
-        "jetpack-compose",
-        "kotlin",
-        "material-3-expressive",
-        "material-3-expressive-design",
-        "material-design",
-        "material-design-3",
-        "material-you",
-        "swiftui",
-        "ui-design",
-        "ux-design"
-      ],
-      "created_at": "2026-11-16T02:45:38Z",
-      "updated_at": "2026-11-17T04:51:04Z",
-      "pushed_at": "2026-11-16T05:39:24Z"
     },
     {
       "id": 1382441164,
@@ -24003,6 +24600,31 @@
       "created_at": "2026-10-30T19:58:19Z",
       "updated_at": "2026-11-05T21:27:02Z",
       "pushed_at": "2026-11-04T16:26:31Z"
+    },
+    {
+      "id": 1454896696,
+      "name": "vibe-bill",
+      "full_name": "globalmpc/vibe-bill",
+      "description": "Claude Code skill that estimates what your vibe-coded app will cost to run at 100 / 1k / 10k / 100k users, flags code patterns that inflate the bill, and renders a shareable receipt.",
+      "html_url": "https://github.com/globalmpc/vibe-bill",
+      "homepage": null,
+      "stars": 42,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "claude-code-skill",
+        "cli",
+        "cost-estimation",
+        "developer-tools",
+        "llm",
+        "mpc",
+        "typescript",
+        "vibe-coding"
+      ],
+      "created_at": "2026-11-12T06:04:19Z",
+      "updated_at": "2026-11-17T14:43:45Z",
+      "pushed_at": "2026-11-12T06:07:05Z"
     },
     {
       "id": 1377057562,
@@ -24325,31 +24947,6 @@
       "created_at": "2026-11-14T06:19:48Z",
       "updated_at": "2026-11-17T03:45:37Z",
       "pushed_at": "2026-11-14T23:09:33Z"
-    },
-    {
-      "id": 1454896696,
-      "name": "vibe-bill",
-      "full_name": "globalmpc/vibe-bill",
-      "description": "Claude Code skill that estimates what your vibe-coded app will cost to run at 100 / 1k / 10k / 100k users, flags code patterns that inflate the bill, and renders a shareable receipt.",
-      "html_url": "https://github.com/globalmpc/vibe-bill",
-      "homepage": null,
-      "stars": 39,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "claude-code",
-        "claude-code-skill",
-        "cli",
-        "cost-estimation",
-        "developer-tools",
-        "llm",
-        "mpc",
-        "typescript",
-        "vibe-coding"
-      ],
-      "created_at": "2026-11-12T06:04:19Z",
-      "updated_at": "2026-11-17T09:28:08Z",
-      "pushed_at": "2026-11-12T06:07:05Z"
     },
     {
       "id": 1382790500,
@@ -25015,6 +25612,69 @@
       "pushed_at": "2026-10-31T13:32:58Z"
     },
     {
+      "id": 1453835637,
+      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+      "html_url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
+      "stars": 33,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "agentic-ai",
+        "coregold",
+        "mitigating",
+        "stripe",
+        "tokenization"
+      ],
+      "created_at": "2026-11-11T10:32:01Z",
+      "updated_at": "2026-11-17T10:31:33Z",
+      "pushed_at": "2026-11-11T10:35:28Z"
+    },
+    {
+      "id": 1453851299,
+      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "full_name": "MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+      "html_url": "https://github.com/MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
+      "stars": 33,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "applepay",
+        "cloud",
+        "coregold",
+        "gpu",
+        "gpu-computing"
+      ],
+      "created_at": "2026-11-11T10:47:43Z",
+      "updated_at": "2026-11-17T10:31:12Z",
+      "pushed_at": "2026-11-11T10:50:09Z"
+    },
+    {
+      "id": 1453886740,
+      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "full_name": "ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+      "html_url": "https://github.com/ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
+      "stars": 33,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "apple",
+        "applepay",
+        "coregold",
+        "gpu",
+        "ustd"
+      ],
+      "created_at": "2026-11-11T11:24:04Z",
+      "updated_at": "2026-11-17T10:31:03Z",
+      "pushed_at": "2026-11-11T11:26:38Z"
+    },
+    {
       "id": 1440889482,
       "name": "valorant-skin-changer-2026-resp",
       "full_name": "JackavalancheSwift/valorant-skin-changer-2026-resp",
@@ -25259,69 +25919,6 @@
       "pushed_at": "2026-10-28T16:20:39Z"
     },
     {
-      "id": 1453835637,
-      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
-      "html_url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
-      "stars": 32,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "agentic-ai",
-        "coregold",
-        "mitigating",
-        "stripe",
-        "tokenization"
-      ],
-      "created_at": "2026-11-11T10:32:01Z",
-      "updated_at": "2026-11-17T10:19:50Z",
-      "pushed_at": "2026-11-11T10:35:28Z"
-    },
-    {
-      "id": 1453851299,
-      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "full_name": "MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
-      "html_url": "https://github.com/MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
-      "stars": 32,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "applepay",
-        "cloud",
-        "coregold",
-        "gpu",
-        "gpu-computing"
-      ],
-      "created_at": "2026-11-11T10:47:43Z",
-      "updated_at": "2026-11-17T10:17:40Z",
-      "pushed_at": "2026-11-11T10:50:09Z"
-    },
-    {
-      "id": 1453886740,
-      "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "full_name": "ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
-      "html_url": "https://github.com/ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-      "homepage": "https://app.coregold.io/signup?invite_code=ADvlj9b",
-      "stars": 32,
-      "forks": 0,
-      "language": null,
-      "topics": [
-        "apple",
-        "applepay",
-        "coregold",
-        "gpu",
-        "ustd"
-      ],
-      "created_at": "2026-11-11T11:24:04Z",
-      "updated_at": "2026-11-17T10:17:29Z",
-      "pushed_at": "2026-11-11T11:26:38Z"
-    },
-    {
       "id": 1392926470,
       "name": "pilulier",
       "full_name": "ceshihaox-dotcom/pilulier",
@@ -25512,7 +26109,7 @@
       ],
       "created_at": "2026-11-14T23:08:41Z",
       "updated_at": "2026-11-17T08:48:50Z",
-      "pushed_at": "2026-11-17T00:58:10Z"
+      "pushed_at": "2026-11-17T20:19:29Z"
     },
     {
       "id": 1387868633,
@@ -26036,6 +26633,27 @@
       "created_at": "2026-10-27T17:32:05Z",
       "updated_at": "2026-11-01T13:22:30Z",
       "pushed_at": "2026-10-31T08:47:59Z"
+    },
+    {
+      "id": 1455839852,
+      "name": "solidcraft-gears",
+      "full_name": "bherbruck/solidcraft-gears",
+      "description": "Involute gear generator plugin for SolidCraft",
+      "html_url": "https://github.com/bherbruck/solidcraft-gears",
+      "homepage": null,
+      "stars": 28,
+      "forks": 2,
+      "language": "Rust",
+      "topics": [
+        "cad",
+        "gears",
+        "plugins",
+        "solidcraft",
+        "wasm"
+      ],
+      "created_at": "2026-11-12T21:16:44Z",
+      "updated_at": "2026-11-17T15:17:33Z",
+      "pushed_at": "2026-11-12T22:08:00Z"
     },
     {
       "id": 1379555830,
@@ -26806,27 +27424,6 @@
       "created_at": "2026-11-06T14:11:34Z",
       "updated_at": "2026-11-11T11:23:04Z",
       "pushed_at": "2026-11-08T04:19:58Z"
-    },
-    {
-      "id": 1455839852,
-      "name": "solidcraft-gears",
-      "full_name": "bherbruck/solidcraft-gears",
-      "description": "Involute gear generator plugin for SolidCraft",
-      "html_url": "https://github.com/bherbruck/solidcraft-gears",
-      "homepage": null,
-      "stars": 23,
-      "forks": 2,
-      "language": "Rust",
-      "topics": [
-        "cad",
-        "gears",
-        "plugins",
-        "solidcraft",
-        "wasm"
-      ],
-      "created_at": "2026-11-12T21:16:44Z",
-      "updated_at": "2026-11-17T09:07:16Z",
-      "pushed_at": "2026-11-12T22:08:00Z"
     },
     {
       "id": 1413789740,
