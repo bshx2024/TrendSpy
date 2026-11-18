@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/18 04:39:05",
-  "total_repos": 1230,
+  "fetched_at": "2026/11/18 11:26:23",
+  "total_repos": 1231,
   "repos": [
     {
       "id": 1425658028,
@@ -774,6 +774,34 @@
       "pushed_at": "2026-10-07T01:07:17Z"
     },
     {
+      "id": 1455933518,
+      "name": "gpucanvas",
+      "full_name": "berkantay/gpucanvas",
+      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "html_url": "https://github.com/berkantay/gpucanvas",
+      "homepage": "https://berkantay.github.io/gpucanvas/",
+      "stars": 517,
+      "forks": 36,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas",
+        "infinite-canvas",
+        "react",
+        "shaders",
+        "transitions",
+        "typescript",
+        "webgpu",
+        "wgsl"
+      ],
+      "created_at": "2026-11-12T23:19:42Z",
+      "updated_at": "2026-11-18T01:33:39Z",
+      "pushed_at": "2026-11-15T21:14:18Z"
+    },
+    {
       "id": 1455742253,
       "name": "blender-ai-copilot-studio",
       "full_name": "credoksopho1984/blender-ai-copilot-studio",
@@ -843,35 +871,7 @@
       ],
       "created_at": "2026-11-12T19:38:53Z",
       "updated_at": "2026-11-16T21:07:42Z",
-      "pushed_at": "2026-11-17T20:31:01Z"
-    },
-    {
-      "id": 1455933518,
-      "name": "gpucanvas",
-      "full_name": "berkantay/gpucanvas",
-      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "html_url": "https://github.com/berkantay/gpucanvas",
-      "homepage": "https://berkantay.github.io/gpucanvas/",
-      "stars": 514,
-      "forks": 34,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas",
-        "infinite-canvas",
-        "react",
-        "shaders",
-        "transitions",
-        "typescript",
-        "webgpu",
-        "wgsl"
-      ],
-      "created_at": "2026-11-12T23:19:42Z",
-      "updated_at": "2026-11-17T19:49:22Z",
-      "pushed_at": "2026-11-15T21:14:18Z"
+      "pushed_at": "2026-11-18T03:21:01Z"
     },
     {
       "id": 1455751043,
@@ -907,7 +907,7 @@
       ],
       "created_at": "2026-11-12T19:39:54Z",
       "updated_at": "2026-11-16T21:09:00Z",
-      "pushed_at": "2026-11-17T20:32:32Z"
+      "pushed_at": "2026-11-18T03:22:31Z"
     },
     {
       "id": 1440965926,
@@ -2164,6 +2164,21 @@
       "pushed_at": "2026-10-23T18:37:11Z"
     },
     {
+      "id": 1458720005,
+      "name": "ung220z-tool",
+      "full_name": "Hut-hzf/ung220z-tool",
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "html_url": "https://github.com/Hut-hzf/ung220z-tool",
+      "homepage": null,
+      "stars": 461,
+      "forks": 122,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-15T11:16:46Z",
+      "updated_at": "2026-11-18T03:24:44Z",
+      "pushed_at": "2026-11-15T11:17:27Z"
+    },
+    {
       "id": 1420454266,
       "name": "dev-null.sh",
       "full_name": "dev-null-sh/dev-null.sh",
@@ -2549,7 +2564,7 @@
       "description": "A curated list of 22 OSINT tools for Windows — one for every kind of clue: nickname, photo, domain, wallet, company.",
       "html_url": "https://github.com/memoryswordsmanlaud/fieldkit-awesome-osint-list",
       "homepage": null,
-      "stars": 405,
+      "stars": 406,
       "forks": 25,
       "language": null,
       "topics": [
@@ -2564,7 +2579,7 @@
         "windows"
       ],
       "created_at": "2026-11-13T15:08:10Z",
-      "updated_at": "2026-11-17T20:10:09Z",
+      "updated_at": "2026-11-17T20:59:43Z",
       "pushed_at": "2026-11-13T15:16:37Z"
     },
     {
@@ -3285,6 +3300,30 @@
       "pushed_at": "2026-11-08T08:40:26Z"
     },
     {
+      "id": 1457250612,
+      "name": "malware-defender-desktop",
+      "full_name": "brisk-thrush-husky/malware-defender-desktop",
+      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
+      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
+      "stars": 398,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "download-malware-defender",
+        "firewall",
+        "malware-defender-download",
+        "malware-defender-latest-version",
+        "real-time-protection",
+        "rootkit-removal",
+        "spyware-removal",
+        "trial-version"
+      ],
+      "created_at": "2026-11-14T00:49:03Z",
+      "updated_at": "2026-11-18T03:26:11Z",
+      "pushed_at": "2026-11-17T21:38:45Z"
+    },
+    {
       "id": 1446613379,
       "name": "java-mod-rust-port-tool",
       "full_name": "Wallbycontact/java-mod-rust-port-tool",
@@ -3307,6 +3346,41 @@
       "created_at": "2026-11-05T06:15:39Z",
       "updated_at": "2026-11-08T22:12:58Z",
       "pushed_at": "2026-11-08T08:12:04Z"
+    },
+    {
+      "id": 1457235941,
+      "name": "leonardo-ai-desktop",
+      "full_name": "brave-plum-co/leonardo-ai-desktop",
+      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
+      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
+      "stars": 395,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-art-platform",
+        "ai-creative-suite",
+        "ai-generation-tools",
+        "ai-image-generator",
+        "ai-image-tools",
+        "generative-ai-art",
+        "leonardo-ai-api",
+        "leonardo-ai-api-wrapper",
+        "leonardo-ai-automation",
+        "leonardo-ai-extension",
+        "leonardo-ai-generator",
+        "leonardo-ai-integration",
+        "leonardo-ai-models",
+        "leonardo-ai-prompt-tools",
+        "leonardo-ai-scripts",
+        "leonardo-ai-style-tools",
+        "leonardo-ai-tools",
+        "leonardo-ai-utilities",
+        "leonardo-ai-workflow"
+      ],
+      "created_at": "2026-11-14T00:23:46Z",
+      "updated_at": "2026-11-18T03:23:52Z",
+      "pushed_at": "2026-11-16T09:19:56Z"
     },
     {
       "id": 1432231624,
@@ -3343,6 +3417,42 @@
       "created_at": "2026-10-24T13:51:36Z",
       "updated_at": "2026-10-30T09:16:25Z",
       "pushed_at": "2026-10-24T16:10:37Z"
+    },
+    {
+      "id": 1457165749,
+      "name": "vegas-pro-23-desktop",
+      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
+      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
+      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
+      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
+      "stars": 394,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "audio-mixing",
+        "blu-ray-authoring",
+        "color-correction",
+        "color-grading",
+        "content-creation",
+        "dvd-authoring",
+        "keyframe-animation",
+        "magix-vegas",
+        "multitrack-editor",
+        "nle",
+        "timeline-editor",
+        "vegas-pro-23",
+        "vegas-pro-edit",
+        "vegas-pro-full",
+        "video-editing",
+        "video-editor",
+        "video-effects",
+        "video-processing",
+        "video-production",
+        "windows-video-editor"
+      ],
+      "created_at": "2026-11-13T22:34:10Z",
+      "updated_at": "2026-11-18T03:22:27Z",
+      "pushed_at": "2026-11-18T01:28:51Z"
     },
     {
       "id": 1446578592,
@@ -3729,6 +3839,29 @@
       "pushed_at": "2026-11-12T20:04:25Z"
     },
     {
+      "id": 1456652206,
+      "name": "Nexus",
+      "full_name": "ysunyang4/Nexus",
+      "description": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
+      "html_url": "https://github.com/ysunyang4/Nexus",
+      "homepage": "https://blog.ycu.de5.net/",
+      "stars": 381,
+      "forks": 66,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "llm",
+        "local-ai",
+        "mcp",
+        "webagent"
+      ],
+      "created_at": "2026-11-13T13:46:21Z",
+      "updated_at": "2026-11-18T03:25:14Z",
+      "pushed_at": "2026-11-15T05:44:45Z"
+    },
+    {
       "id": 1458091044,
       "name": "ai--manus2.0",
       "full_name": "topapothecarycanal/ai--manus2.0",
@@ -4068,29 +4201,6 @@
       "pushed_at": "2026-11-15T10:32:40Z"
     },
     {
-      "id": 1456652206,
-      "name": "Nexus",
-      "full_name": "ysunyang4/Nexus",
-      "description": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
-      "html_url": "https://github.com/ysunyang4/Nexus",
-      "homepage": "https://blog.ycu.de5.net/",
-      "stars": 372,
-      "forks": 65,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "llm",
-        "local-ai",
-        "mcp",
-        "webagent"
-      ],
-      "created_at": "2026-11-13T13:46:21Z",
-      "updated_at": "2026-11-17T18:48:17Z",
-      "pushed_at": "2026-11-15T05:44:45Z"
-    },
-    {
       "id": 1415972784,
       "name": "darling-lol",
       "full_name": "lucannez64/darling-lol",
@@ -4358,137 +4468,6 @@
       "pushed_at": "2026-10-28T10:56:39Z"
     },
     {
-      "id": 1457250612,
-      "name": "malware-defender-desktop",
-      "full_name": "brisk-thrush-husky/malware-defender-desktop",
-      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
-      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
-      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
-      "stars": 363,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "download-malware-defender",
-        "firewall",
-        "malware-defender-download",
-        "malware-defender-latest-version",
-        "real-time-protection",
-        "rootkit-removal",
-        "spyware-removal",
-        "trial-version"
-      ],
-      "created_at": "2026-11-14T00:49:03Z",
-      "updated_at": "2026-11-17T15:19:17Z",
-      "pushed_at": "2026-11-17T12:55:59Z"
-    },
-    {
-      "id": 1458203061,
-      "name": "discord-nitro-premium-desktop",
-      "full_name": "carlos-lane-09/discord-nitro-premium-desktop",
-      "description": "Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11",
-      "html_url": "https://github.com/carlos-lane-09/discord-nitro-premium-desktop",
-      "homepage": "https://carlos-lane-09.github.io/discord-nitro-premium-desktop/",
-      "stars": 360,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "discord",
-        "discord-api",
-        "discord-badge",
-        "discord-bot",
-        "discord-bot-api",
-        "discord-rich-presence",
-        "discordjs",
-        "discordnitro",
-        "discordpy",
-        "discordtokenchecker",
-        "emoji",
-        "free",
-        "fun",
-        "generator",
-        "nitro",
-        "nitrogen",
-        "node",
-        "server",
-        "streaming",
-        "tool"
-      ],
-      "created_at": "2026-11-14T21:36:29Z",
-      "updated_at": "2026-11-16T05:37:10Z",
-      "pushed_at": "2026-11-16T04:26:55Z"
-    },
-    {
-      "id": 1457165749,
-      "name": "vegas-pro-23-desktop",
-      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
-      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
-      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
-      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
-      "stars": 359,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "audio-mixing",
-        "blu-ray-authoring",
-        "color-correction",
-        "color-grading",
-        "content-creation",
-        "dvd-authoring",
-        "keyframe-animation",
-        "magix-vegas",
-        "multitrack-editor",
-        "nle",
-        "timeline-editor",
-        "vegas-pro-23",
-        "vegas-pro-edit",
-        "vegas-pro-full",
-        "video-editing",
-        "video-editor",
-        "video-effects",
-        "video-processing",
-        "video-production",
-        "windows-video-editor"
-      ],
-      "created_at": "2026-11-13T22:34:10Z",
-      "updated_at": "2026-11-16T13:11:19Z",
-      "pushed_at": "2026-11-17T18:56:32Z"
-    },
-    {
-      "id": 1457235941,
-      "name": "leonardo-ai-desktop",
-      "full_name": "brave-plum-co/leonardo-ai-desktop",
-      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
-      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
-      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
-      "stars": 359,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "ai-art-platform",
-        "ai-creative-suite",
-        "ai-generation-tools",
-        "ai-image-generator",
-        "ai-image-tools",
-        "generative-ai-art",
-        "leonardo-ai-api",
-        "leonardo-ai-api-wrapper",
-        "leonardo-ai-automation",
-        "leonardo-ai-extension",
-        "leonardo-ai-generator",
-        "leonardo-ai-integration",
-        "leonardo-ai-models",
-        "leonardo-ai-prompt-tools",
-        "leonardo-ai-scripts",
-        "leonardo-ai-style-tools",
-        "leonardo-ai-tools",
-        "leonardo-ai-utilities",
-        "leonardo-ai-workflow"
-      ],
-      "created_at": "2026-11-14T00:23:46Z",
-      "updated_at": "2026-11-16T13:11:19Z",
-      "pushed_at": "2026-11-16T09:19:56Z"
-    },
-    {
       "id": 1436420580,
       "name": "LightPost",
       "full_name": "brainstormity/LightPost",
@@ -4736,6 +4715,25 @@
       "created_at": "2026-11-04T08:43:02Z",
       "updated_at": "2026-11-05T14:36:14Z",
       "pushed_at": "2026-11-04T08:43:11Z"
+    },
+    {
+      "id": 1461947947,
+      "name": "sims-4-unlcoker-dlc-tool-v2",
+      "full_name": "fjorddolphininflate/sims-4-unlcoker-dlc-tool-v2",
+      "description": "",
+      "html_url": "https://github.com/fjorddolphininflate/sims-4-unlcoker-dlc-tool-v2",
+      "homepage": "https://modbay.live/library/ea-dlc-unlocker-2026",
+      "stars": 329,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "sims4-dlc",
+        "sims4-dlc-nulocker",
+        "sims4-tool"
+      ],
+      "created_at": "2026-11-17T20:40:46Z",
+      "updated_at": "2026-11-17T23:54:06Z",
+      "pushed_at": "2026-11-17T20:40:59Z"
     },
     {
       "id": 1414415721,
@@ -5068,21 +5066,6 @@
       "created_at": "2026-11-02T17:03:14Z",
       "updated_at": "2026-11-08T23:11:13Z",
       "pushed_at": "2026-11-04T16:59:50Z"
-    },
-    {
-      "id": 1458720005,
-      "name": "ung220z-tool",
-      "full_name": "Hut-hzf/ung220z-tool",
-      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "html_url": "https://github.com/Hut-hzf/ung220z-tool",
-      "homepage": null,
-      "stars": 306,
-      "forks": 84,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-15T11:16:46Z",
-      "updated_at": "2026-11-17T20:37:51Z",
-      "pushed_at": "2026-11-15T11:17:27Z"
     },
     {
       "id": 1411929925,
@@ -6748,6 +6731,42 @@
       "pushed_at": "2026-10-16T22:12:58Z"
     },
     {
+      "id": 1458203061,
+      "name": "discord-nitro-premium-desktop",
+      "full_name": "carlos-lane-09/discord-nitro-premium-desktop",
+      "description": "Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11",
+      "html_url": "https://github.com/carlos-lane-09/discord-nitro-premium-desktop",
+      "homepage": "https://carlos-lane-09.github.io/discord-nitro-premium-desktop/",
+      "stars": 286,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-badge",
+        "discord-bot",
+        "discord-bot-api",
+        "discord-rich-presence",
+        "discordjs",
+        "discordnitro",
+        "discordpy",
+        "discordtokenchecker",
+        "emoji",
+        "free",
+        "fun",
+        "generator",
+        "nitro",
+        "nitrogen",
+        "node",
+        "server",
+        "streaming",
+        "tool"
+      ],
+      "created_at": "2026-11-14T21:36:29Z",
+      "updated_at": "2026-11-18T03:26:03Z",
+      "pushed_at": "2026-11-18T03:20:36Z"
+    },
+    {
       "id": 1441636072,
       "name": "cc-remote",
       "full_name": "AkaraChen/cc-remote",
@@ -7055,7 +7074,7 @@
       ],
       "created_at": "2026-11-16T15:44:12Z",
       "updated_at": "2026-11-17T18:36:00Z",
-      "pushed_at": "2026-11-16T15:44:43Z"
+      "pushed_at": "2026-11-18T00:38:36Z"
     },
     {
       "id": 1440772406,
@@ -7844,6 +7863,21 @@
       "pushed_at": "2026-11-04T08:41:32Z"
     },
     {
+      "id": 1456707936,
+      "name": "mmforge-platform",
+      "full_name": "EunChae1110/mmforge-platform",
+      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
+      "html_url": "https://github.com/EunChae1110/mmforge-platform",
+      "homepage": "https://mmforge-platform.vercel.app/",
+      "stars": 230,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-13T14:36:14Z",
+      "updated_at": "2026-11-18T01:48:08Z",
+      "pushed_at": "2026-11-15T07:24:15Z"
+    },
+    {
       "id": 1425358398,
       "name": "Hiddify-Manager",
       "full_name": "philips71017/Hiddify-Manager",
@@ -7971,21 +8005,6 @@
       "created_at": "2026-10-31T10:56:27Z",
       "updated_at": "2026-11-06T09:14:00Z",
       "pushed_at": "2026-11-05T10:22:34Z"
-    },
-    {
-      "id": 1456707936,
-      "name": "mmforge-platform",
-      "full_name": "EunChae1110/mmforge-platform",
-      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
-      "html_url": "https://github.com/EunChae1110/mmforge-platform",
-      "homepage": "https://mmforge-platform.vercel.app/",
-      "stars": 223,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-13T14:36:14Z",
-      "updated_at": "2026-11-17T12:39:14Z",
-      "pushed_at": "2026-11-15T07:24:15Z"
     },
     {
       "id": 1432256203,
@@ -10846,6 +10865,21 @@
       "pushed_at": "2026-11-09T11:55:03Z"
     },
     {
+      "id": 1458072997,
+      "name": "GoW-Ascension-Recomp",
+      "full_name": "bc160201983/GoW-Ascension-Recomp",
+      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
+      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+      "homepage": "https://www.patreon.com/c/bilalreloaded",
+      "stars": 178,
+      "forks": 5,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-11-14T18:53:22Z",
+      "updated_at": "2026-11-17T23:05:10Z",
+      "pushed_at": "2026-11-15T20:39:33Z"
+    },
+    {
       "id": 1457892194,
       "name": "crypto-panic",
       "full_name": "Logosheshow47/crypto-panic",
@@ -10871,21 +10905,6 @@
       "created_at": "2026-11-14T15:32:29Z",
       "updated_at": "2026-11-14T17:58:49Z",
       "pushed_at": "2026-11-14T15:58:09Z"
-    },
-    {
-      "id": 1458072997,
-      "name": "GoW-Ascension-Recomp",
-      "full_name": "bc160201983/GoW-Ascension-Recomp",
-      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
-      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
-      "homepage": "https://www.patreon.com/c/bilalreloaded",
-      "stars": 177,
-      "forks": 4,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-11-14T18:53:22Z",
-      "updated_at": "2026-11-17T17:46:09Z",
-      "pushed_at": "2026-11-15T20:39:33Z"
     },
     {
       "id": 1415913339,
@@ -11070,6 +11089,29 @@
       "created_at": "2026-10-29T17:03:12Z",
       "updated_at": "2026-11-04T23:13:19Z",
       "pushed_at": "2026-11-04T07:32:34Z"
+    },
+    {
+      "id": 1460079213,
+      "name": "motlab",
+      "full_name": "staryone/motlab",
+      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+      "html_url": "https://github.com/staryone/motlab",
+      "homepage": null,
+      "stars": 169,
+      "forks": 21,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "canvas",
+        "claude-code",
+        "headless-chrome",
+        "motion-graphics",
+        "video",
+        "webcodecs"
+      ],
+      "created_at": "2026-11-16T13:45:47Z",
+      "updated_at": "2026-11-18T03:24:40Z",
+      "pushed_at": "2026-11-17T14:38:43Z"
     },
     {
       "id": 1412301770,
@@ -11467,29 +11509,6 @@
       "pushed_at": "2026-10-25T05:32:25Z"
     },
     {
-      "id": 1460079213,
-      "name": "motlab",
-      "full_name": "staryone/motlab",
-      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
-      "html_url": "https://github.com/staryone/motlab",
-      "homepage": null,
-      "stars": 159,
-      "forks": 21,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "canvas",
-        "claude-code",
-        "headless-chrome",
-        "motion-graphics",
-        "video",
-        "webcodecs"
-      ],
-      "created_at": "2026-11-16T13:45:47Z",
-      "updated_at": "2026-11-17T16:46:58Z",
-      "pushed_at": "2026-11-17T14:38:43Z"
-    },
-    {
       "id": 1432640160,
       "name": "skill-diet",
       "full_name": "nicobailon/skill-diet",
@@ -11604,6 +11623,21 @@
       "pushed_at": "2026-11-01T11:32:13Z"
     },
     {
+      "id": 1455858424,
+      "name": "PushFPS",
+      "full_name": "DosukaSOL/PushFPS",
+      "description": "PushFPS: push 30 FPS console games to 60 or 120 FPS. Real-time AI frame generation for any capture card on Windows, with NVIDIA RTX and AMD support. Free and open source, based on Veyra.",
+      "html_url": "https://github.com/DosukaSOL/PushFPS",
+      "homepage": null,
+      "stars": 154,
+      "forks": 13,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-11-12T21:39:43Z",
+      "updated_at": "2026-11-18T02:01:29Z",
+      "pushed_at": "2026-11-18T02:42:21Z"
+    },
+    {
       "id": 1375327232,
       "name": "repopilot",
       "full_name": "indada/repopilot",
@@ -11650,7 +11684,7 @@
       ],
       "created_at": "2026-11-15T20:26:43Z",
       "updated_at": "2026-11-17T18:07:28Z",
-      "pushed_at": "2026-11-17T19:34:52Z"
+      "pushed_at": "2026-11-18T02:04:32Z"
     },
     {
       "id": 1459210680,
@@ -11682,7 +11716,7 @@
       ],
       "created_at": "2026-11-15T20:24:13Z",
       "updated_at": "2026-11-17T18:05:12Z",
-      "pushed_at": "2026-11-17T18:56:10Z"
+      "pushed_at": "2026-11-18T01:28:29Z"
     },
     {
       "id": 1459218532,
@@ -11706,7 +11740,7 @@
       ],
       "created_at": "2026-11-15T20:34:19Z",
       "updated_at": "2026-11-17T18:05:20Z",
-      "pushed_at": "2026-11-17T18:57:14Z"
+      "pushed_at": "2026-11-18T01:29:17Z"
     },
     {
       "id": 1459199698,
@@ -11736,7 +11770,7 @@
       ],
       "created_at": "2026-11-15T20:10:20Z",
       "updated_at": "2026-11-17T18:03:39Z",
-      "pushed_at": "2026-11-17T18:48:25Z"
+      "pushed_at": "2026-11-18T01:24:19Z"
     },
     {
       "id": 1459175217,
@@ -11768,7 +11802,7 @@
       ],
       "created_at": "2026-11-15T19:40:45Z",
       "updated_at": "2026-11-17T18:10:25Z",
-      "pushed_at": "2026-11-17T16:42:23Z"
+      "pushed_at": "2026-11-17T23:45:04Z"
     },
     {
       "id": 1459228977,
@@ -11793,7 +11827,7 @@
       ],
       "created_at": "2026-11-15T20:47:47Z",
       "updated_at": "2026-11-17T18:11:14Z",
-      "pushed_at": "2026-11-17T18:57:46Z"
+      "pushed_at": "2026-11-18T01:30:09Z"
     },
     {
       "id": 1459195741,
@@ -11823,7 +11857,7 @@
       ],
       "created_at": "2026-11-15T20:05:32Z",
       "updated_at": "2026-11-17T18:00:43Z",
-      "pushed_at": "2026-11-17T18:48:22Z"
+      "pushed_at": "2026-11-18T01:23:09Z"
     },
     {
       "id": 1459199945,
@@ -11858,7 +11892,7 @@
       ],
       "created_at": "2026-11-15T20:10:40Z",
       "updated_at": "2026-11-17T18:06:55Z",
-      "pushed_at": "2026-11-17T19:57:19Z"
+      "pushed_at": "2026-11-18T02:14:59Z"
     },
     {
       "id": 1459239972,
@@ -11914,7 +11948,7 @@
       ],
       "created_at": "2026-11-15T19:47:53Z",
       "updated_at": "2026-11-17T18:10:15Z",
-      "pushed_at": "2026-11-17T18:18:47Z"
+      "pushed_at": "2026-11-18T01:32:21Z"
     },
     {
       "id": 1459240143,
@@ -11932,7 +11966,7 @@
       ],
       "created_at": "2026-11-15T21:02:25Z",
       "updated_at": "2026-11-17T18:05:47Z",
-      "pushed_at": "2026-11-17T12:56:25Z"
+      "pushed_at": "2026-11-17T21:39:13Z"
     },
     {
       "id": 1459225190,
@@ -11968,7 +12002,7 @@
       ],
       "created_at": "2026-11-15T20:42:49Z",
       "updated_at": "2026-11-17T17:58:04Z",
-      "pushed_at": "2026-11-17T20:36:11Z"
+      "pushed_at": "2026-11-18T02:47:09Z"
     },
     {
       "id": 1459206491,
@@ -11996,7 +12030,7 @@
       ],
       "created_at": "2026-11-15T20:18:59Z",
       "updated_at": "2026-11-17T18:08:48Z",
-      "pushed_at": "2026-11-17T18:48:07Z"
+      "pushed_at": "2026-11-18T01:24:32Z"
     },
     {
       "id": 1459182471,
@@ -12029,7 +12063,7 @@
       ],
       "created_at": "2026-11-15T19:49:18Z",
       "updated_at": "2026-11-17T18:02:42Z",
-      "pushed_at": "2026-11-17T16:42:59Z"
+      "pushed_at": "2026-11-17T23:45:20Z"
     },
     {
       "id": 1459207190,
@@ -12065,7 +12099,7 @@
       ],
       "created_at": "2026-11-15T20:19:52Z",
       "updated_at": "2026-11-17T18:03:20Z",
-      "pushed_at": "2026-11-17T11:39:04Z"
+      "pushed_at": "2026-11-18T02:50:13Z"
     },
     {
       "id": 1459222601,
@@ -12101,7 +12135,7 @@
       ],
       "created_at": "2026-11-15T20:39:36Z",
       "updated_at": "2026-11-17T18:08:03Z",
-      "pushed_at": "2026-11-17T20:34:15Z"
+      "pushed_at": "2026-11-18T02:45:31Z"
     },
     {
       "id": 1459171456,
@@ -12128,7 +12162,7 @@
       ],
       "created_at": "2026-11-15T19:36:18Z",
       "updated_at": "2026-11-17T18:02:33Z",
-      "pushed_at": "2026-11-17T17:25:35Z"
+      "pushed_at": "2026-11-18T00:39:12Z"
     },
     {
       "id": 1448025260,
@@ -12170,21 +12204,6 @@
       "created_at": "2026-10-17T19:09:38Z",
       "updated_at": "2026-10-17T23:50:33Z",
       "pushed_at": "2026-10-17T19:09:44Z"
-    },
-    {
-      "id": 1455858424,
-      "name": "PushFPS",
-      "full_name": "DosukaSOL/PushFPS",
-      "description": "PushFPS: push 30 FPS console games to 60 or 120 FPS. Real-time AI frame generation for any capture card on Windows, with NVIDIA RTX and AMD support. Free and open source, based on Veyra.",
-      "html_url": "https://github.com/DosukaSOL/PushFPS",
-      "homepage": null,
-      "stars": 152,
-      "forks": 13,
-      "language": "C++",
-      "topics": [],
-      "created_at": "2026-11-12T21:39:43Z",
-      "updated_at": "2026-11-17T14:15:44Z",
-      "pushed_at": "2026-11-17T20:34:38Z"
     },
     {
       "id": 1423657988,
@@ -24205,6 +24224,31 @@
       "pushed_at": "2026-10-25T19:04:58Z"
     },
     {
+      "id": 1454896696,
+      "name": "vibe-bill",
+      "full_name": "globalmpc/vibe-bill",
+      "description": "Claude Code skill that estimates what your vibe-coded app will cost to run at 100 / 1k / 10k / 100k users, flags code patterns that inflate the bill, and renders a shareable receipt.",
+      "html_url": "https://github.com/globalmpc/vibe-bill",
+      "homepage": null,
+      "stars": 45,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "claude-code-skill",
+        "cli",
+        "cost-estimation",
+        "developer-tools",
+        "llm",
+        "mpc",
+        "typescript",
+        "vibe-coding"
+      ],
+      "created_at": "2026-11-12T06:04:19Z",
+      "updated_at": "2026-11-18T02:47:29Z",
+      "pushed_at": "2026-11-12T06:07:05Z"
+    },
+    {
       "id": 1396899630,
       "name": "gleaner",
       "full_name": "ssssssanjiu/gleaner",
@@ -24600,31 +24644,6 @@
       "created_at": "2026-10-30T19:58:19Z",
       "updated_at": "2026-11-05T21:27:02Z",
       "pushed_at": "2026-11-04T16:26:31Z"
-    },
-    {
-      "id": 1454896696,
-      "name": "vibe-bill",
-      "full_name": "globalmpc/vibe-bill",
-      "description": "Claude Code skill that estimates what your vibe-coded app will cost to run at 100 / 1k / 10k / 100k users, flags code patterns that inflate the bill, and renders a shareable receipt.",
-      "html_url": "https://github.com/globalmpc/vibe-bill",
-      "homepage": null,
-      "stars": 42,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "claude-code",
-        "claude-code-skill",
-        "cli",
-        "cost-estimation",
-        "developer-tools",
-        "llm",
-        "mpc",
-        "typescript",
-        "vibe-coding"
-      ],
-      "created_at": "2026-11-12T06:04:19Z",
-      "updated_at": "2026-11-17T14:43:45Z",
-      "pushed_at": "2026-11-12T06:07:05Z"
     },
     {
       "id": 1377057562,
@@ -25919,6 +25938,28 @@
       "pushed_at": "2026-10-28T16:20:39Z"
     },
     {
+      "id": 1458264792,
+      "name": "ha-connection-map-card",
+      "full_name": "Ctuna89/ha-connection-map-card",
+      "description": "Home Assistant card that maps how every device reaches HA: cloud, local network, hubs (Hue, DIRIGERA, Aqara) and Zigbee/Z-Wave radio.",
+      "html_url": "https://github.com/Ctuna89/ha-connection-map-card",
+      "homepage": null,
+      "stars": 32,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "custom-card",
+        "hacs",
+        "home-assistant",
+        "lovelace",
+        "network-map",
+        "zigbee"
+      ],
+      "created_at": "2026-11-14T23:08:41Z",
+      "updated_at": "2026-11-18T02:25:34Z",
+      "pushed_at": "2026-11-17T22:27:29Z"
+    },
+    {
       "id": 1392926470,
       "name": "pilulier",
       "full_name": "ceshihaox-dotcom/pilulier",
@@ -26088,28 +26129,6 @@
       "created_at": "2026-10-26T14:58:24Z",
       "updated_at": "2026-11-01T09:48:18Z",
       "pushed_at": "2026-10-26T15:18:35Z"
-    },
-    {
-      "id": 1458264792,
-      "name": "ha-connection-map-card",
-      "full_name": "Ctuna89/ha-connection-map-card",
-      "description": "Home Assistant card that maps how every device reaches HA: cloud, local network, hubs (Hue, DIRIGERA, Aqara) and Zigbee/Z-Wave radio.",
-      "html_url": "https://github.com/Ctuna89/ha-connection-map-card",
-      "homepage": null,
-      "stars": 31,
-      "forks": 2,
-      "language": "JavaScript",
-      "topics": [
-        "custom-card",
-        "hacs",
-        "home-assistant",
-        "lovelace",
-        "network-map",
-        "zigbee"
-      ],
-      "created_at": "2026-11-14T23:08:41Z",
-      "updated_at": "2026-11-17T08:48:50Z",
-      "pushed_at": "2026-11-17T20:19:29Z"
     },
     {
       "id": 1387868633,
@@ -26654,6 +26673,28 @@
       "created_at": "2026-11-12T21:16:44Z",
       "updated_at": "2026-11-17T15:17:33Z",
       "pushed_at": "2026-11-12T22:08:00Z"
+    },
+    {
+      "id": 1454762090,
+      "name": "XSXB-Slash",
+      "full_name": "sparklecatta-lang/XSXB-Slash",
+      "description": "游戏刀光生成器：一键随机、3D 预览、导出到 Unity / Godot / Unreal · Browser blade-trail generator with engine ports. MIT.",
+      "html_url": "https://github.com/sparklecatta-lang/XSXB-Slash",
+      "homepage": null,
+      "stars": 28,
+      "forks": 3,
+      "language": "HTML",
+      "topics": [
+        "blade-trail",
+        "godot",
+        "threejs",
+        "unity",
+        "unreal-engine",
+        "vfx"
+      ],
+      "created_at": "2026-11-12T03:01:44Z",
+      "updated_at": "2026-11-17T18:42:09Z",
+      "pushed_at": "2026-11-12T07:11:11Z"
     },
     {
       "id": 1379555830,
@@ -27249,26 +27290,19 @@
       "pushed_at": "2026-11-07T03:24:23Z"
     },
     {
-      "id": 1454762090,
-      "name": "XSXB-Slash",
-      "full_name": "sparklecatta-lang/XSXB-Slash",
-      "description": "游戏刀光生成器：一键随机、3D 预览、导出到 Unity / Godot / Unreal · Browser blade-trail generator with engine ports. MIT.",
-      "html_url": "https://github.com/sparklecatta-lang/XSXB-Slash",
+      "id": 1455975653,
+      "name": "Launcher5",
+      "full_name": "cedsaill3/Launcher5",
+      "description": "Launcher5 - game loader pour PS5 (Cover Flow 3D, grille, themes, multilingue) - par cedsaill",
+      "html_url": "https://github.com/cedsaill3/Launcher5",
       "homepage": null,
       "stars": 24,
       "forks": 2,
-      "language": "HTML",
-      "topics": [
-        "blade-trail",
-        "godot",
-        "threejs",
-        "unity",
-        "unreal-engine",
-        "vfx"
-      ],
-      "created_at": "2026-11-12T03:01:44Z",
-      "updated_at": "2026-11-17T09:35:11Z",
-      "pushed_at": "2026-11-12T07:11:11Z"
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-11-13T00:24:37Z",
+      "updated_at": "2026-11-17T18:50:56Z",
+      "pushed_at": "2026-11-17T18:43:47Z"
     },
     {
       "id": 1378959833,
@@ -27561,21 +27595,6 @@
       "created_at": "2026-11-09T11:27:06Z",
       "updated_at": "2026-11-12T03:45:08Z",
       "pushed_at": "2026-11-09T11:32:08Z"
-    },
-    {
-      "id": 1455975653,
-      "name": "Launcher5",
-      "full_name": "cedsaill3/Launcher5",
-      "description": "Launcher5 - game loader pour PS5 (Cover Flow 3D, grille, themes, multilingue) - par cedsaill",
-      "html_url": "https://github.com/cedsaill3/Launcher5",
-      "homepage": null,
-      "stars": 22,
-      "forks": 2,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-11-13T00:24:37Z",
-      "updated_at": "2026-11-17T09:27:54Z",
-      "pushed_at": "2026-11-16T22:38:13Z"
     },
     {
       "id": 1457687687,
@@ -28598,6 +28617,26 @@
       "pushed_at": "2026-11-08T22:44:09Z"
     },
     {
+      "id": 1457578361,
+      "name": "cmp170hx-ffcalc",
+      "full_name": "sayhellotojungle/cmp170hx-ffcalc",
+      "description": "查看 GA100 CMP 170HX 的熔丝解锁潜力（显存/SM/PCIe 上限），并在烧写前预先计算好该卡的 FF 解锁数据，按 GPU UUID 保存与核验。Check the unlock potential of GA100 CMP 170HX cards (max VRAM / SMs / PCIe) and pre-compute per-card FF unlock data for burning — saved and verified by GPU UUID.",
+      "html_url": "https://github.com/sayhellotojungle/cmp170hx-ffcalc",
+      "homepage": null,
+      "stars": 17,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "cmp-170hx",
+        "efuse",
+        "ga100",
+        "voltage-glitching"
+      ],
+      "created_at": "2026-11-14T09:13:06Z",
+      "updated_at": "2026-11-17T22:36:48Z",
+      "pushed_at": "2026-11-17T09:33:47Z"
+    },
+    {
       "id": 1379717308,
       "name": "heygen-mcp.github.io",
       "full_name": "heygen-mcp/heygen-mcp.github.io",
@@ -29405,26 +29444,6 @@
       "pushed_at": "2026-10-27T14:09:09Z"
     },
     {
-      "id": 1457578361,
-      "name": "cmp170hx-ffcalc",
-      "full_name": "sayhellotojungle/cmp170hx-ffcalc",
-      "description": "查看 GA100 CMP 170HX 的熔丝解锁潜力（显存/SM/PCIe 上限），并在烧写前预先计算好该卡的 FF 解锁数据，按 GPU UUID 保存与核验。Check the unlock potential of GA100 CMP 170HX cards (max VRAM / SMs / PCIe) and pre-compute per-card FF unlock data for burning — saved and verified by GPU UUID.",
-      "html_url": "https://github.com/sayhellotojungle/cmp170hx-ffcalc",
-      "homepage": null,
-      "stars": 14,
-      "forks": 8,
-      "language": "Python",
-      "topics": [
-        "cmp-170hx",
-        "efuse",
-        "ga100",
-        "voltage-glitching"
-      ],
-      "created_at": "2026-11-14T09:13:06Z",
-      "updated_at": "2026-11-16T16:02:01Z",
-      "pushed_at": "2026-11-16T02:37:54Z"
-    },
-    {
       "id": 1379722239,
       "name": "openai-prism.github.io",
       "full_name": "openai-prism/openai-prism.github.io",
@@ -29663,6 +29682,35 @@
       "pushed_at": "2026-11-03T18:01:08Z"
     },
     {
+      "id": 1458333679,
+      "name": "NonceSetX",
+      "full_name": "ichitaso/NonceSetX",
+      "description": "Check the APNonce generator / APNonce, save SHSH blobs and set the generator on Dopamine (iOS 15-18, 26). Powered by x8A4.",
+      "html_url": "https://github.com/ichitaso/NonceSetX",
+      "homepage": "https://cydia.ichitaso.com/depiction/noncesetx.html",
+      "stars": 13,
+      "forks": 2,
+      "language": "C",
+      "topics": [
+        "apnonce",
+        "cryptex1",
+        "dopamine",
+        "futurerestore",
+        "ios",
+        "ios26",
+        "jailbreak",
+        "nonce-setter",
+        "roothide",
+        "shsh",
+        "theos",
+        "tsschecker",
+        "x8a4"
+      ],
+      "created_at": "2026-11-15T01:11:10Z",
+      "updated_at": "2026-11-17T05:24:51Z",
+      "pushed_at": "2026-11-17T21:59:33Z"
+    },
+    {
       "id": 1380788494,
       "name": "dingtalk-aicard",
       "full_name": "DingTalk-Real-AI/dingtalk-aicard",
@@ -29840,35 +29888,6 @@
       "created_at": "2026-11-02T08:41:39Z",
       "updated_at": "2026-11-03T16:19:03Z",
       "pushed_at": "2026-11-03T09:06:46Z"
-    },
-    {
-      "id": 1458333679,
-      "name": "NonceSetX",
-      "full_name": "ichitaso/NonceSetX",
-      "description": "Check the APNonce generator / APNonce, save SHSH blobs and set the generator on Dopamine (iOS 15-18, 26). Powered by x8A4.",
-      "html_url": "https://github.com/ichitaso/NonceSetX",
-      "homepage": "https://cydia.ichitaso.com/depiction/noncesetx.html",
-      "stars": 12,
-      "forks": 2,
-      "language": "C",
-      "topics": [
-        "apnonce",
-        "cryptex1",
-        "dopamine",
-        "futurerestore",
-        "ios",
-        "ios26",
-        "jailbreak",
-        "nonce-setter",
-        "roothide",
-        "shsh",
-        "theos",
-        "tsschecker",
-        "x8a4"
-      ],
-      "created_at": "2026-11-15T01:11:10Z",
-      "updated_at": "2026-11-16T23:46:01Z",
-      "pushed_at": "2026-11-16T17:17:32Z"
     },
     {
       "id": 1389013962,
