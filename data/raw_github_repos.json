@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/19 05:44:53",
-  "total_repos": 1233,
+  "fetched_at": "2026/11/19 10:59:46",
+  "total_repos": 1239,
   "repos": [
     {
       "id": 1425658028,
@@ -2515,6 +2515,31 @@
       "pushed_at": "2026-09-30T05:00:42Z"
     },
     {
+      "id": 1456744150,
+      "name": "fieldkit-awesome-osint-list",
+      "full_name": "memoryswordsmanlaud/fieldkit-awesome-osint-list",
+      "description": "A curated list of 22 OSINT tools for Windows — one for every kind of clue: nickname, photo, domain, wallet, company.",
+      "html_url": "https://github.com/memoryswordsmanlaud/fieldkit-awesome-osint-list",
+      "homepage": null,
+      "stars": 414,
+      "forks": 25,
+      "language": null,
+      "topics": [
+        "awesome-list",
+        "crypto",
+        "due-diligence",
+        "geoint",
+        "investigation",
+        "osint",
+        "osint-tools",
+        "socmint",
+        "windows"
+      ],
+      "created_at": "2026-11-13T15:08:10Z",
+      "updated_at": "2026-11-19T02:02:48Z",
+      "pushed_at": "2026-11-13T15:16:37Z"
+    },
+    {
       "id": 1409890709,
       "name": "ps2-web-recomp",
       "full_name": "snuri00/ps2-web-recomp",
@@ -2558,39 +2583,14 @@
       "pushed_at": "2026-10-04T11:37:50Z"
     },
     {
-      "id": 1456744150,
-      "name": "fieldkit-awesome-osint-list",
-      "full_name": "memoryswordsmanlaud/fieldkit-awesome-osint-list",
-      "description": "A curated list of 22 OSINT tools for Windows — one for every kind of clue: nickname, photo, domain, wallet, company.",
-      "html_url": "https://github.com/memoryswordsmanlaud/fieldkit-awesome-osint-list",
-      "homepage": null,
-      "stars": 406,
-      "forks": 25,
-      "language": null,
-      "topics": [
-        "awesome-list",
-        "crypto",
-        "due-diligence",
-        "geoint",
-        "investigation",
-        "osint",
-        "osint-tools",
-        "socmint",
-        "windows"
-      ],
-      "created_at": "2026-11-13T15:08:10Z",
-      "updated_at": "2026-11-17T20:59:43Z",
-      "pushed_at": "2026-11-13T15:16:37Z"
-    },
-    {
       "id": 1456652206,
       "name": "Nexus",
       "full_name": "ysunyang4/Nexus",
       "description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
       "html_url": "https://github.com/ysunyang4/Nexus",
       "homepage": "https://github.com/ysunyang4/Nexus",
-      "stars": 406,
-      "forks": 71,
+      "stars": 407,
+      "forks": 72,
       "language": "TypeScript",
       "topics": [
         "ai-agent",
@@ -2602,7 +2602,7 @@
         "webagent"
       ],
       "created_at": "2026-11-13T13:46:21Z",
-      "updated_at": "2026-11-18T19:59:45Z",
+      "updated_at": "2026-11-19T02:41:17Z",
       "pushed_at": "2026-11-18T12:48:51Z"
     },
     {
@@ -4041,7 +4041,7 @@
       "html_url": "https://github.com/violetkomodolimit/ai--manus2.0",
       "homepage": null,
       "stars": 374,
-      "forks": 303,
+      "forks": 302,
       "language": null,
       "topics": [
         "ai",
@@ -4077,7 +4077,7 @@
       "html_url": "https://github.com/trackersnailgrip/ai--manus2.0",
       "homepage": null,
       "stars": 372,
-      "forks": 302,
+      "forks": 301,
       "language": null,
       "topics": [
         "ai",
@@ -4128,7 +4128,7 @@
       "html_url": "https://github.com/Ultimateakiln/ai--manus2.0",
       "homepage": null,
       "stars": 370,
-      "forks": 299,
+      "forks": 298,
       "language": null,
       "topics": [
         "ai",
@@ -4164,7 +4164,7 @@
       "html_url": "https://github.com/taboospecialistblade/ai--manus2.0",
       "homepage": null,
       "stars": 370,
-      "forks": 301,
+      "forks": 300,
       "language": null,
       "topics": [
         "ai",
@@ -4236,7 +4236,7 @@
       "html_url": "https://github.com/TrapBladesmith/ai--manus2.0",
       "homepage": null,
       "stars": 369,
-      "forks": 300,
+      "forks": 299,
       "language": null,
       "topics": [
         "ai",
@@ -4272,7 +4272,7 @@
       "html_url": "https://github.com/Tonephorepair/ai--manus2.0",
       "homepage": null,
       "stars": 369,
-      "forks": 299,
+      "forks": 298,
       "language": null,
       "topics": [
         "ai",
@@ -4340,30 +4340,6 @@
       "pushed_at": "2026-10-19T13:47:28Z"
     },
     {
-      "id": 1457250612,
-      "name": "malware-defender-desktop",
-      "full_name": "brisk-thrush-husky/malware-defender-desktop",
-      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
-      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
-      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
-      "stars": 364,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "download-malware-defender",
-        "firewall",
-        "malware-defender-download",
-        "malware-defender-latest-version",
-        "real-time-protection",
-        "rootkit-removal",
-        "spyware-removal",
-        "trial-version"
-      ],
-      "created_at": "2026-11-14T00:49:03Z",
-      "updated_at": "2026-11-18T16:13:52Z",
-      "pushed_at": "2026-11-17T21:38:45Z"
-    },
-    {
       "id": 1375530874,
       "name": "herdr-projects",
       "full_name": "eliasstravik/herdr-projects",
@@ -4395,77 +4371,6 @@
       "created_at": "2026-10-23T13:23:19Z",
       "updated_at": "2026-10-29T20:16:27Z",
       "pushed_at": "2026-10-28T10:56:39Z"
-    },
-    {
-      "id": 1457235941,
-      "name": "leonardo-ai-desktop",
-      "full_name": "brave-plum-co/leonardo-ai-desktop",
-      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
-      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
-      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
-      "stars": 360,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "ai-art-platform",
-        "ai-creative-suite",
-        "ai-generation-tools",
-        "ai-image-generator",
-        "ai-image-tools",
-        "generative-ai-art",
-        "leonardo-ai-api",
-        "leonardo-ai-api-wrapper",
-        "leonardo-ai-automation",
-        "leonardo-ai-extension",
-        "leonardo-ai-generator",
-        "leonardo-ai-integration",
-        "leonardo-ai-models",
-        "leonardo-ai-prompt-tools",
-        "leonardo-ai-scripts",
-        "leonardo-ai-style-tools",
-        "leonardo-ai-tools",
-        "leonardo-ai-utilities",
-        "leonardo-ai-workflow"
-      ],
-      "created_at": "2026-11-14T00:23:46Z",
-      "updated_at": "2026-11-18T16:13:51Z",
-      "pushed_at": "2026-11-16T09:19:56Z"
-    },
-    {
-      "id": 1457165749,
-      "name": "vegas-pro-23-desktop",
-      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
-      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
-      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
-      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
-      "stars": 360,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "audio-mixing",
-        "blu-ray-authoring",
-        "color-correction",
-        "color-grading",
-        "content-creation",
-        "dvd-authoring",
-        "keyframe-animation",
-        "magix-vegas",
-        "multitrack-editor",
-        "nle",
-        "timeline-editor",
-        "vegas-pro-23",
-        "vegas-pro-edit",
-        "vegas-pro-full",
-        "video-editing",
-        "video-editor",
-        "video-effects",
-        "video-processing",
-        "video-production",
-        "windows-video-editor"
-      ],
-      "created_at": "2026-11-13T22:34:10Z",
-      "updated_at": "2026-11-18T16:13:49Z",
-      "pushed_at": "2026-11-18T18:32:23Z"
     },
     {
       "id": 1436420580,
@@ -4838,6 +4743,21 @@
       "pushed_at": "2026-11-10T16:09:40Z"
     },
     {
+      "id": 1456707936,
+      "name": "mmforge-platform",
+      "full_name": "EunChae1110/mmforge-platform",
+      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
+      "html_url": "https://github.com/EunChae1110/mmforge-platform",
+      "homepage": "https://mmforge-platform.vercel.app/",
+      "stars": 325,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-13T14:36:14Z",
+      "updated_at": "2026-11-19T02:41:13Z",
+      "pushed_at": "2026-11-15T07:24:15Z"
+    },
+    {
       "id": 1442833956,
       "name": "awesome-reverse-engineer-anything",
       "full_name": "maluramichael/awesome-reverse-engineer-anything",
@@ -4990,6 +4910,30 @@
       "pushed_at": "2026-10-12T14:34:22Z"
     },
     {
+      "id": 1457250612,
+      "name": "malware-defender-desktop",
+      "full_name": "brisk-thrush-husky/malware-defender-desktop",
+      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+      "html_url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
+      "homepage": "https://brisk-thrush-husky.github.io/malware-defender-desktop/",
+      "stars": 308,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "download-malware-defender",
+        "firewall",
+        "malware-defender-download",
+        "malware-defender-latest-version",
+        "real-time-protection",
+        "rootkit-removal",
+        "spyware-removal",
+        "trial-version"
+      ],
+      "created_at": "2026-11-14T00:49:03Z",
+      "updated_at": "2026-11-19T00:56:51Z",
+      "pushed_at": "2026-11-17T21:38:45Z"
+    },
+    {
       "id": 1402295346,
       "name": "Better-Discord",
       "full_name": "SystemRuminate86/Better-Discord",
@@ -5131,6 +5075,77 @@
       "created_at": "2026-11-10T16:08:54Z",
       "updated_at": "2026-11-10T21:27:59Z",
       "pushed_at": "2026-11-10T16:09:02Z"
+    },
+    {
+      "id": 1457235941,
+      "name": "leonardo-ai-desktop",
+      "full_name": "brave-plum-co/leonardo-ai-desktop",
+      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+      "html_url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
+      "homepage": "https://brave-plum-co.github.io/leonardo-ai-desktop/",
+      "stars": 304,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-art-platform",
+        "ai-creative-suite",
+        "ai-generation-tools",
+        "ai-image-generator",
+        "ai-image-tools",
+        "generative-ai-art",
+        "leonardo-ai-api",
+        "leonardo-ai-api-wrapper",
+        "leonardo-ai-automation",
+        "leonardo-ai-extension",
+        "leonardo-ai-generator",
+        "leonardo-ai-integration",
+        "leonardo-ai-models",
+        "leonardo-ai-prompt-tools",
+        "leonardo-ai-scripts",
+        "leonardo-ai-style-tools",
+        "leonardo-ai-tools",
+        "leonardo-ai-utilities",
+        "leonardo-ai-workflow"
+      ],
+      "created_at": "2026-11-14T00:23:46Z",
+      "updated_at": "2026-11-19T00:56:50Z",
+      "pushed_at": "2026-11-16T09:19:56Z"
+    },
+    {
+      "id": 1457165749,
+      "name": "vegas-pro-23-desktop",
+      "full_name": "angela-cook-1988/vegas-pro-23-desktop",
+      "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
+      "html_url": "https://github.com/angela-cook-1988/vegas-pro-23-desktop",
+      "homepage": "https://angela-cook-1988.github.io/vegas-pro-23-desktop/",
+      "stars": 304,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "audio-mixing",
+        "blu-ray-authoring",
+        "color-correction",
+        "color-grading",
+        "content-creation",
+        "dvd-authoring",
+        "keyframe-animation",
+        "magix-vegas",
+        "multitrack-editor",
+        "nle",
+        "timeline-editor",
+        "vegas-pro-23",
+        "vegas-pro-edit",
+        "vegas-pro-full",
+        "video-editing",
+        "video-editor",
+        "video-effects",
+        "video-processing",
+        "video-production",
+        "windows-video-editor"
+      ],
+      "created_at": "2026-11-13T22:34:10Z",
+      "updated_at": "2026-11-19T00:56:48Z",
+      "pushed_at": "2026-11-19T00:52:53Z"
     },
     {
       "id": 1400250107,
@@ -5435,42 +5450,6 @@
       "created_at": "2026-11-10T16:08:52Z",
       "updated_at": "2026-11-10T21:27:56Z",
       "pushed_at": "2026-11-10T16:09:00Z"
-    },
-    {
-      "id": 1458202799,
-      "name": "pro-tools-desktop",
-      "full_name": "alicebrown323/pro-tools-desktop",
-      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
-      "html_url": "https://github.com/alicebrown323/pro-tools-desktop",
-      "homepage": "https://alicebrown323.github.io/pro-tools-desktop/",
-      "stars": 302,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "ai-generation-tools",
-        "ai-tools",
-        "architecture",
-        "command-line-tool",
-        "developer-tools",
-        "font",
-        "hackingtools",
-        "large-language-models",
-        "leonardo-ai-tools",
-        "network-tools",
-        "pdf-tools",
-        "pro-tools",
-        "redux-thunk",
-        "registry-tools",
-        "snu2dprogrammingtools",
-        "snuprogrammingtools",
-        "tailwind-css",
-        "text-to-image",
-        "web-development",
-        "windows-tools"
-      ],
-      "created_at": "2026-11-14T21:36:08Z",
-      "updated_at": "2026-11-18T09:54:12Z",
-      "pushed_at": "2026-11-18T12:34:15Z"
     },
     {
       "id": 1417562342,
@@ -5950,78 +5929,6 @@
       "created_at": "2026-11-08T08:40:41Z",
       "updated_at": "2026-11-08T11:24:32Z",
       "pushed_at": "2026-11-08T08:40:47Z"
-    },
-    {
-      "id": 1458203239,
-      "name": "discord-nitro-pro-desktop",
-      "full_name": "cam-young-28/discord-nitro-pro-desktop",
-      "description": "Discord Nitro Pro 2026 standalone bundle with full plugin suite, message pipeline, voice stack and portable mode for Windows 11",
-      "html_url": "https://github.com/cam-young-28/discord-nitro-pro-desktop",
-      "homepage": "https://cam-young-28.github.io/discord-nitro-pro-desktop/",
-      "stars": 300,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "discord",
-        "discord-api",
-        "discord-badge",
-        "discord-bot",
-        "discord-bot-api",
-        "discord-rich-presence",
-        "discord-tokens",
-        "discordjs",
-        "discordnitro",
-        "discordpy",
-        "discordtokenchecker",
-        "emoji",
-        "fun",
-        "generator",
-        "nitro",
-        "nitrogen",
-        "server",
-        "streaming",
-        "token",
-        "tool"
-      ],
-      "created_at": "2026-11-14T21:36:42Z",
-      "updated_at": "2026-11-18T09:59:10Z",
-      "pushed_at": "2026-11-18T10:58:09Z"
-    },
-    {
-      "id": 1458203251,
-      "name": "discord-nitro-desktop",
-      "full_name": "carla-marsh-29/discord-nitro-desktop",
-      "description": "Discord Nitro 2026 desktop setup with full plugin suite, portable mode and bundled runtime for Windows 11",
-      "html_url": "https://github.com/carla-marsh-29/discord-nitro-desktop",
-      "homepage": "https://carla-marsh-29.github.io/discord-nitro-desktop/",
-      "stars": 300,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "discord",
-        "discord-api",
-        "discord-bot",
-        "discord-bot-api",
-        "discord-rich-presence",
-        "discordjs",
-        "discordnitro",
-        "discordpy",
-        "discordtokenchecker",
-        "emoji",
-        "free",
-        "fun",
-        "generator",
-        "nitro",
-        "nitrogen",
-        "node",
-        "server",
-        "streaming",
-        "token",
-        "tool"
-      ],
-      "created_at": "2026-11-14T21:36:43Z",
-      "updated_at": "2026-11-18T09:48:11Z",
-      "pushed_at": "2026-11-18T11:07:10Z"
     },
     {
       "id": 1450112250,
@@ -6839,42 +6746,6 @@
       "pushed_at": "2026-10-16T22:12:58Z"
     },
     {
-      "id": 1458203061,
-      "name": "discord-nitro-premium-desktop",
-      "full_name": "carlos-lane-09/discord-nitro-premium-desktop",
-      "description": "Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11",
-      "html_url": "https://github.com/carlos-lane-09/discord-nitro-premium-desktop",
-      "homepage": "https://carlos-lane-09.github.io/discord-nitro-premium-desktop/",
-      "stars": 286,
-      "forks": 0,
-      "language": "C++",
-      "topics": [
-        "discord",
-        "discord-api",
-        "discord-badge",
-        "discord-bot",
-        "discord-bot-api",
-        "discord-rich-presence",
-        "discordjs",
-        "discordnitro",
-        "discordpy",
-        "discordtokenchecker",
-        "emoji",
-        "free",
-        "fun",
-        "generator",
-        "nitro",
-        "nitrogen",
-        "node",
-        "server",
-        "streaming",
-        "tool"
-      ],
-      "created_at": "2026-11-14T21:36:29Z",
-      "updated_at": "2026-11-18T03:26:03Z",
-      "pushed_at": "2026-11-18T03:20:36Z"
-    },
-    {
       "id": 1441636072,
       "name": "cc-remote",
       "full_name": "AkaraChen/cc-remote",
@@ -6912,21 +6783,6 @@
       "created_at": "2026-11-13T14:19:35Z",
       "updated_at": "2026-11-17T17:58:52Z",
       "pushed_at": "2026-11-13T14:20:57Z"
-    },
-    {
-      "id": 1456707936,
-      "name": "mmforge-platform",
-      "full_name": "EunChae1110/mmforge-platform",
-      "description": "A skill that turns a brief, screenshot, or copied element into a mod menu you can click through in a local canvas.",
-      "html_url": "https://github.com/EunChae1110/mmforge-platform",
-      "homepage": "https://mmforge-platform.vercel.app/",
-      "stars": 285,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-11-13T14:36:14Z",
-      "updated_at": "2026-11-18T09:03:56Z",
-      "pushed_at": "2026-11-15T07:24:15Z"
     },
     {
       "id": 1432958333,
@@ -7365,6 +7221,30 @@
       "pushed_at": "2026-10-30T23:31:24Z"
     },
     {
+      "id": 1456600695,
+      "name": "azimuth-osint-photo-geolocation",
+      "full_name": "Dimrasymbolize/azimuth-osint-photo-geolocation",
+      "description": "OSINT geolocation tool for Windows: find where a photo or video was taken from the shadows, signs and other clues in the frame.",
+      "html_url": "https://github.com/Dimrasymbolize/azimuth-osint-photo-geolocation",
+      "homepage": "https://awesomeosint.tools/azimuth/",
+      "stars": 252,
+      "forks": 12,
+      "language": "Python",
+      "topics": [
+        "chronolocation",
+        "geoint",
+        "geolocation",
+        "imint",
+        "osint",
+        "osint-tool",
+        "photo-geolocation",
+        "shadow-analysis"
+      ],
+      "created_at": "2026-11-13T12:56:06Z",
+      "updated_at": "2026-11-17T18:17:27Z",
+      "pushed_at": "2026-11-13T13:05:00Z"
+    },
+    {
       "id": 1423661159,
       "name": "SlideShow-Video-Maker",
       "full_name": "Postardetach/SlideShow-Video-Maker",
@@ -7512,6 +7392,29 @@
       "created_at": "2026-11-06T21:09:06Z",
       "updated_at": "2026-11-08T05:14:28Z",
       "pushed_at": "2026-11-08T05:04:07Z"
+    },
+    {
+      "id": 1456650277,
+      "name": "mutuals-osint-social-connections",
+      "full_name": "solderpupabridge/mutuals-osint-social-connections",
+      "description": "OSINT tool for Windows: enter two public accounts and see everyone who links them.",
+      "html_url": "https://github.com/solderpupabridge/mutuals-osint-social-connections",
+      "homepage": "https://awesomeosint.tools/mutuals/",
+      "stars": 244,
+      "forks": 12,
+      "language": "JavaScript",
+      "topics": [
+        "investigation",
+        "mutual-connections",
+        "osint",
+        "osint-tool",
+        "social-graph",
+        "social-network-analysis",
+        "socmint"
+      ],
+      "created_at": "2026-11-13T13:44:31Z",
+      "updated_at": "2026-11-17T19:32:32Z",
+      "pushed_at": "2026-11-13T13:45:53Z"
     },
     {
       "id": 1433297111,
@@ -8373,6 +8276,42 @@
       "pushed_at": "2026-11-06T17:22:49Z"
     },
     {
+      "id": 1458202799,
+      "name": "pro-tools-desktop",
+      "full_name": "alicebrown323/pro-tools-desktop",
+      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
+      "html_url": "https://github.com/alicebrown323/pro-tools-desktop",
+      "homepage": "https://alicebrown323.github.io/pro-tools-desktop/",
+      "stars": 212,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "ai-generation-tools",
+        "ai-tools",
+        "architecture",
+        "command-line-tool",
+        "developer-tools",
+        "font",
+        "hackingtools",
+        "large-language-models",
+        "leonardo-ai-tools",
+        "network-tools",
+        "pdf-tools",
+        "pro-tools",
+        "redux-thunk",
+        "registry-tools",
+        "snu2dprogrammingtools",
+        "snuprogrammingtools",
+        "tailwind-css",
+        "text-to-image",
+        "web-development",
+        "windows-tools"
+      ],
+      "created_at": "2026-11-14T21:36:08Z",
+      "updated_at": "2026-11-19T00:56:51Z",
+      "pushed_at": "2026-11-18T20:58:33Z"
+    },
+    {
       "id": 1413253552,
       "name": "UniForge3D",
       "full_name": "xibushu/UniForge3D",
@@ -8386,6 +8325,114 @@
       "created_at": "2026-10-10T13:58:00Z",
       "updated_at": "2026-10-16T22:01:55Z",
       "pushed_at": "2026-10-14T01:48:07Z"
+    },
+    {
+      "id": 1458203239,
+      "name": "discord-nitro-pro-desktop",
+      "full_name": "cam-young-28/discord-nitro-pro-desktop",
+      "description": "Discord Nitro Pro 2026 standalone bundle with full plugin suite, message pipeline, voice stack and portable mode for Windows 11",
+      "html_url": "https://github.com/cam-young-28/discord-nitro-pro-desktop",
+      "homepage": "https://cam-young-28.github.io/discord-nitro-pro-desktop/",
+      "stars": 210,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-badge",
+        "discord-bot",
+        "discord-bot-api",
+        "discord-rich-presence",
+        "discord-tokens",
+        "discordjs",
+        "discordnitro",
+        "discordpy",
+        "discordtokenchecker",
+        "emoji",
+        "fun",
+        "generator",
+        "nitro",
+        "nitrogen",
+        "server",
+        "streaming",
+        "token",
+        "tool"
+      ],
+      "created_at": "2026-11-14T21:36:42Z",
+      "updated_at": "2026-11-19T00:56:53Z",
+      "pushed_at": "2026-11-19T01:36:42Z"
+    },
+    {
+      "id": 1458203251,
+      "name": "discord-nitro-desktop",
+      "full_name": "carla-marsh-29/discord-nitro-desktop",
+      "description": "Discord Nitro 2026 desktop setup with full plugin suite, portable mode and bundled runtime for Windows 11",
+      "html_url": "https://github.com/carla-marsh-29/discord-nitro-desktop",
+      "homepage": "https://carla-marsh-29.github.io/discord-nitro-desktop/",
+      "stars": 210,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-bot",
+        "discord-bot-api",
+        "discord-rich-presence",
+        "discordjs",
+        "discordnitro",
+        "discordpy",
+        "discordtokenchecker",
+        "emoji",
+        "free",
+        "fun",
+        "generator",
+        "nitro",
+        "nitrogen",
+        "node",
+        "server",
+        "streaming",
+        "token",
+        "tool"
+      ],
+      "created_at": "2026-11-14T21:36:43Z",
+      "updated_at": "2026-11-19T00:56:54Z",
+      "pushed_at": "2026-11-19T01:47:43Z"
+    },
+    {
+      "id": 1458203061,
+      "name": "discord-nitro-premium-desktop",
+      "full_name": "carlos-lane-09/discord-nitro-premium-desktop",
+      "description": "Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11",
+      "html_url": "https://github.com/carlos-lane-09/discord-nitro-premium-desktop",
+      "homepage": "https://carlos-lane-09.github.io/discord-nitro-premium-desktop/",
+      "stars": 210,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-badge",
+        "discord-bot",
+        "discord-bot-api",
+        "discord-rich-presence",
+        "discordjs",
+        "discordnitro",
+        "discordpy",
+        "discordtokenchecker",
+        "emoji",
+        "free",
+        "fun",
+        "generator",
+        "nitro",
+        "nitrogen",
+        "node",
+        "server",
+        "streaming",
+        "tool"
+      ],
+      "created_at": "2026-11-14T21:36:29Z",
+      "updated_at": "2026-11-19T00:56:52Z",
+      "pushed_at": "2026-11-19T02:56:37Z"
     },
     {
       "id": 1423658114,
@@ -10339,8 +10386,8 @@
       "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
       "html_url": "https://github.com/staryone/motlab",
       "homepage": null,
-      "stars": 192,
-      "forks": 24,
+      "stars": 193,
+      "forks": 25,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -10352,7 +10399,7 @@
         "webcodecs"
       ],
       "created_at": "2026-11-16T13:45:47Z",
-      "updated_at": "2026-11-18T18:35:36Z",
+      "updated_at": "2026-11-19T00:22:41Z",
       "pushed_at": "2026-11-18T14:03:02Z"
     },
     {
@@ -10697,6 +10744,21 @@
       "pushed_at": "2026-10-19T22:32:45Z"
     },
     {
+      "id": 1458072997,
+      "name": "GoW-Ascension-Recomp",
+      "full_name": "bc160201983/GoW-Ascension-Recomp",
+      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
+      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+      "homepage": "https://www.patreon.com/c/bilalreloaded",
+      "stars": 185,
+      "forks": 5,
+      "language": "C",
+      "topics": [],
+      "created_at": "2026-11-14T18:53:22Z",
+      "updated_at": "2026-11-19T00:59:11Z",
+      "pushed_at": "2026-11-18T05:28:17Z"
+    },
+    {
       "id": 1419705266,
       "name": "hw-harness",
       "full_name": "cschalle/hw-harness",
@@ -10767,21 +10829,6 @@
       "created_at": "2026-10-31T07:21:36Z",
       "updated_at": "2026-10-31T11:55:28Z",
       "pushed_at": "2026-10-31T07:21:42Z"
-    },
-    {
-      "id": 1458072997,
-      "name": "GoW-Ascension-Recomp",
-      "full_name": "bc160201983/GoW-Ascension-Recomp",
-      "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
-      "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
-      "homepage": "https://www.patreon.com/c/bilalreloaded",
-      "stars": 183,
-      "forks": 5,
-      "language": "C",
-      "topics": [],
-      "created_at": "2026-11-14T18:53:22Z",
-      "updated_at": "2026-11-18T18:35:48Z",
-      "pushed_at": "2026-11-18T05:28:17Z"
     },
     {
       "id": 1451221567,
@@ -11684,7 +11731,7 @@
       ],
       "created_at": "2026-11-15T20:26:43Z",
       "updated_at": "2026-11-17T18:07:28Z",
-      "pushed_at": "2026-11-18T19:55:33Z"
+      "pushed_at": "2026-11-19T01:42:40Z"
     },
     {
       "id": 1459210680,
@@ -11716,7 +11763,7 @@
       ],
       "created_at": "2026-11-15T20:24:13Z",
       "updated_at": "2026-11-17T18:05:12Z",
-      "pushed_at": "2026-11-18T18:32:38Z"
+      "pushed_at": "2026-11-19T00:52:56Z"
     },
     {
       "id": 1459218532,
@@ -11740,7 +11787,7 @@
       ],
       "created_at": "2026-11-15T20:34:19Z",
       "updated_at": "2026-11-17T18:05:20Z",
-      "pushed_at": "2026-11-18T18:32:52Z"
+      "pushed_at": "2026-11-19T00:53:35Z"
     },
     {
       "id": 1459199698,
@@ -11770,7 +11817,7 @@
       ],
       "created_at": "2026-11-15T20:10:20Z",
       "updated_at": "2026-11-17T18:03:39Z",
-      "pushed_at": "2026-11-18T18:29:09Z"
+      "pushed_at": "2026-11-19T00:49:12Z"
     },
     {
       "id": 1459175217,
@@ -11802,7 +11849,7 @@
       ],
       "created_at": "2026-11-15T19:40:45Z",
       "updated_at": "2026-11-17T18:10:25Z",
-      "pushed_at": "2026-11-18T15:25:07Z"
+      "pushed_at": "2026-11-18T22:51:09Z"
     },
     {
       "id": 1459228977,
@@ -11827,7 +11874,7 @@
       ],
       "created_at": "2026-11-15T20:47:47Z",
       "updated_at": "2026-11-17T18:11:14Z",
-      "pushed_at": "2026-11-18T18:32:58Z"
+      "pushed_at": "2026-11-19T00:53:35Z"
     },
     {
       "id": 1459195741,
@@ -11857,7 +11904,7 @@
       ],
       "created_at": "2026-11-15T20:05:32Z",
       "updated_at": "2026-11-17T18:00:43Z",
-      "pushed_at": "2026-11-18T18:27:25Z"
+      "pushed_at": "2026-11-19T00:47:43Z"
     },
     {
       "id": 1459199945,
@@ -11892,7 +11939,7 @@
       ],
       "created_at": "2026-11-15T20:10:40Z",
       "updated_at": "2026-11-17T18:06:55Z",
-      "pushed_at": "2026-11-18T20:47:44Z"
+      "pushed_at": "2026-11-19T02:11:00Z"
     },
     {
       "id": 1459239972,
@@ -11948,7 +11995,7 @@
       ],
       "created_at": "2026-11-15T19:47:53Z",
       "updated_at": "2026-11-17T18:10:15Z",
-      "pushed_at": "2026-11-18T18:43:40Z"
+      "pushed_at": "2026-11-19T01:00:56Z"
     },
     {
       "id": 1459240143,
@@ -12002,7 +12049,7 @@
       ],
       "created_at": "2026-11-15T20:42:49Z",
       "updated_at": "2026-11-17T17:58:04Z",
-      "pushed_at": "2026-11-18T20:08:24Z"
+      "pushed_at": "2026-11-19T02:21:26Z"
     },
     {
       "id": 1459206491,
@@ -12030,7 +12077,7 @@
       ],
       "created_at": "2026-11-15T20:18:59Z",
       "updated_at": "2026-11-17T18:08:48Z",
-      "pushed_at": "2026-11-18T18:28:44Z"
+      "pushed_at": "2026-11-19T00:49:01Z"
     },
     {
       "id": 1459182471,
@@ -12063,7 +12110,7 @@
       ],
       "created_at": "2026-11-15T19:49:18Z",
       "updated_at": "2026-11-17T18:02:42Z",
-      "pushed_at": "2026-11-18T16:13:09Z"
+      "pushed_at": "2026-11-18T23:16:40Z"
     },
     {
       "id": 1459207190,
@@ -12099,7 +12146,7 @@
       ],
       "created_at": "2026-11-15T20:19:52Z",
       "updated_at": "2026-11-17T18:03:20Z",
-      "pushed_at": "2026-11-18T20:18:37Z"
+      "pushed_at": "2026-11-19T02:27:52Z"
     },
     {
       "id": 1459222601,
@@ -12135,7 +12182,7 @@
       ],
       "created_at": "2026-11-15T20:39:36Z",
       "updated_at": "2026-11-17T18:08:03Z",
-      "pushed_at": "2026-11-18T20:06:40Z"
+      "pushed_at": "2026-11-19T02:20:17Z"
     },
     {
       "id": 1459171456,
@@ -12162,7 +12209,7 @@
       ],
       "created_at": "2026-11-15T19:36:18Z",
       "updated_at": "2026-11-17T18:02:33Z",
-      "pushed_at": "2026-11-18T17:50:24Z"
+      "pushed_at": "2026-11-18T23:57:34Z"
     },
     {
       "id": 1448025260,
@@ -16331,6 +16378,21 @@
       "pushed_at": "2026-11-16T07:31:57Z"
     },
     {
+      "id": 1457677646,
+      "name": "TITAN-CORE",
+      "full_name": "devchmod/TITAN-CORE",
+      "description": "PS5 game workspace with native FPKG mounting, USB installation, live diagnostics and a multilingual web interface.",
+      "html_url": "https://github.com/devchmod/TITAN-CORE",
+      "homepage": null,
+      "stars": 104,
+      "forks": 5,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-11-14T11:21:24Z",
+      "updated_at": "2026-11-19T02:28:36Z",
+      "pushed_at": "2026-11-16T03:18:38Z"
+    },
+    {
       "id": 1390845863,
       "name": "Refract",
       "full_name": "MIXIDtheSilly/Refract",
@@ -18117,21 +18179,6 @@
       "pushed_at": "2026-11-17T02:43:55Z"
     },
     {
-      "id": 1457677646,
-      "name": "TITAN-CORE",
-      "full_name": "devchmod/TITAN-CORE",
-      "description": "PS5 game workspace with native FPKG mounting, USB installation, live diagnostics and a multilingual web interface.",
-      "html_url": "https://github.com/devchmod/TITAN-CORE",
-      "homepage": null,
-      "stars": 100,
-      "forks": 3,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-11-14T11:21:24Z",
-      "updated_at": "2026-11-18T21:43:25Z",
-      "pushed_at": "2026-11-16T03:18:38Z"
-    },
-    {
       "id": 1438082267,
       "name": "Robux-Generator",
       "full_name": "Barbpouncouple/Robux-Generator",
@@ -19106,6 +19153,27 @@
       "created_at": "2026-10-22T19:33:03Z",
       "updated_at": "2026-10-28T21:21:02Z",
       "pushed_at": "2026-10-27T16:50:31Z"
+    },
+    {
+      "id": 1460722164,
+      "name": "obs-streamer-stack",
+      "full_name": "polygondomainport/obs-streamer-stack",
+      "description": "Streamer plugin stack for OBS — alerts, plugins and performance filters.",
+      "html_url": "https://github.com/polygondomainport/obs-streamer-stack",
+      "homepage": null,
+      "stars": 89,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "broadcast",
+        "obs",
+        "plugins",
+        "streaming",
+        "twitch"
+      ],
+      "created_at": "2026-11-17T00:20:59Z",
+      "updated_at": "2026-11-18T15:42:54Z",
+      "pushed_at": "2026-11-17T00:21:56Z"
     },
     {
       "id": 1375760472,
@@ -25190,6 +25258,28 @@
       "pushed_at": "2026-11-04T13:15:28Z"
     },
     {
+      "id": 1458264792,
+      "name": "ha-connection-map-card",
+      "full_name": "Ctuna89/ha-connection-map-card",
+      "description": "Home Assistant card that maps how every device reaches HA: cloud, local network, hubs (Hue, DIRIGERA, Aqara) and Zigbee/Z-Wave radio.",
+      "html_url": "https://github.com/Ctuna89/ha-connection-map-card",
+      "homepage": null,
+      "stars": 36,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "custom-card",
+        "hacs",
+        "home-assistant",
+        "lovelace",
+        "network-map",
+        "zigbee"
+      ],
+      "created_at": "2026-11-14T23:08:41Z",
+      "updated_at": "2026-11-19T00:34:20Z",
+      "pushed_at": "2026-11-18T20:42:05Z"
+    },
+    {
       "id": 1395203963,
       "name": "duckapi",
       "full_name": "hirotomasato/duckapi",
@@ -25267,28 +25357,6 @@
       "created_at": "2026-11-08T23:00:41Z",
       "updated_at": "2026-11-13T06:19:25Z",
       "pushed_at": "2026-11-09T11:39:49Z"
-    },
-    {
-      "id": 1458264792,
-      "name": "ha-connection-map-card",
-      "full_name": "Ctuna89/ha-connection-map-card",
-      "description": "Home Assistant card that maps how every device reaches HA: cloud, local network, hubs (Hue, DIRIGERA, Aqara) and Zigbee/Z-Wave radio.",
-      "html_url": "https://github.com/Ctuna89/ha-connection-map-card",
-      "homepage": null,
-      "stars": 35,
-      "forks": 2,
-      "language": "JavaScript",
-      "topics": [
-        "custom-card",
-        "hacs",
-        "home-assistant",
-        "lovelace",
-        "network-map",
-        "zigbee"
-      ],
-      "created_at": "2026-11-14T23:08:41Z",
-      "updated_at": "2026-11-18T11:42:25Z",
-      "pushed_at": "2026-11-18T20:42:05Z"
     },
     {
       "id": 1440886314,
@@ -28114,6 +28182,26 @@
       "pushed_at": "2026-11-09T05:22:57Z"
     },
     {
+      "id": 1457578361,
+      "name": "cmp170hx-ffcalc",
+      "full_name": "sayhellotojungle/cmp170hx-ffcalc",
+      "description": "查看 GA100 CMP 170HX 的熔丝解锁潜力（显存/SM/PCIe 上限），并在烧写前预先计算好该卡的 FF 解锁数据，按 GPU UUID 保存与核验。Check the unlock potential of GA100 CMP 170HX cards (max VRAM / SMs / PCIe) and pre-compute per-card FF unlock data for burning — saved and verified by GPU UUID.",
+      "html_url": "https://github.com/sayhellotojungle/cmp170hx-ffcalc",
+      "homepage": null,
+      "stars": 20,
+      "forks": 10,
+      "language": "Python",
+      "topics": [
+        "cmp-170hx",
+        "efuse",
+        "ga100",
+        "voltage-glitching"
+      ],
+      "created_at": "2026-11-14T09:13:06Z",
+      "updated_at": "2026-11-19T00:16:45Z",
+      "pushed_at": "2026-11-17T09:33:47Z"
+    },
+    {
       "id": 1409514013,
       "name": "weasley-clock-card",
       "full_name": "Nite01007/weasley-clock-card",
@@ -28313,26 +28401,6 @@
       "created_at": "2026-11-04T22:19:01Z",
       "updated_at": "2026-11-10T20:28:16Z",
       "pushed_at": "2026-11-05T10:50:19Z"
-    },
-    {
-      "id": 1457578361,
-      "name": "cmp170hx-ffcalc",
-      "full_name": "sayhellotojungle/cmp170hx-ffcalc",
-      "description": "查看 GA100 CMP 170HX 的熔丝解锁潜力（显存/SM/PCIe 上限），并在烧写前预先计算好该卡的 FF 解锁数据，按 GPU UUID 保存与核验。Check the unlock potential of GA100 CMP 170HX cards (max VRAM / SMs / PCIe) and pre-compute per-card FF unlock data for burning — saved and verified by GPU UUID.",
-      "html_url": "https://github.com/sayhellotojungle/cmp170hx-ffcalc",
-      "homepage": null,
-      "stars": 19,
-      "forks": 10,
-      "language": "Python",
-      "topics": [
-        "cmp-170hx",
-        "efuse",
-        "ga100",
-        "voltage-glitching"
-      ],
-      "created_at": "2026-11-14T09:13:06Z",
-      "updated_at": "2026-11-18T13:44:05Z",
-      "pushed_at": "2026-11-17T09:33:47Z"
     },
     {
       "id": 1387292246,
@@ -28637,6 +28705,39 @@
       "pushed_at": "2026-11-08T22:44:09Z"
     },
     {
+      "id": 1458033211,
+      "name": "vault-share",
+      "full_name": "Ymsniper/vault-share",
+      "description": "Self-hosted, invite-only encrypted file sharing in Flask. Each file gets its own AES-256-GCM key, sealed with HPKE for every reader. Signed uploads, duress passwords that open separate cover vaults, and a master key that can require a USB flash drive.",
+      "html_url": "https://github.com/Ymsniper/vault-share",
+      "homepage": null,
+      "stars": 17,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "aes-gcm",
+        "argon2",
+        "duress",
+        "duress-wipe",
+        "ecdsa",
+        "encryption",
+        "file-sharing",
+        "flask",
+        "hpke",
+        "pki",
+        "python",
+        "self-hosted",
+        "sqlcipher",
+        "textual",
+        "two-factor-authentication",
+        "usb",
+        "x25513"
+      ],
+      "created_at": "2026-11-14T18:07:29Z",
+      "updated_at": "2026-11-19T02:22:56Z",
+      "pushed_at": "2026-11-15T18:39:11Z"
+    },
+    {
       "id": 1379717308,
       "name": "heygen-mcp.github.io",
       "full_name": "heygen-mcp/heygen-mcp.github.io",
@@ -28926,6 +29027,41 @@
       "created_at": "2026-11-07T10:09:56Z",
       "updated_at": "2026-11-11T00:26:37Z",
       "pushed_at": "2026-11-07T10:26:22Z"
+    },
+    {
+      "id": 1459432585,
+      "name": "SampleBoot",
+      "full_name": "pxcm/SampleBoot",
+      "description": "One card, every OS: a boot selector for the Akai MPC Sample. Pick the stock firmware, Melodee, SampQOL OS or any custom OS with the encoder at power-on.",
+      "html_url": "https://github.com/pxcm/SampleBoot",
+      "homepage": "https://sampleboot.com/",
+      "stars": 16,
+      "forks": 1,
+      "language": "C",
+      "topics": [
+        "akai",
+        "akai-mpc",
+        "boot-loader",
+        "boot-manager",
+        "boot-menu",
+        "boot-selector",
+        "custom-firmware",
+        "embedded-linux",
+        "firmware",
+        "groovebox",
+        "mpc",
+        "mpc-sample",
+        "music-production",
+        "music-production-software",
+        "music-production-tools",
+        "sampler",
+        "sampler-instrument",
+        "sd-card",
+        "sd-cards"
+      ],
+      "created_at": "2026-11-16T01:56:46Z",
+      "updated_at": "2026-11-18T21:46:13Z",
+      "pushed_at": "2026-11-18T20:35:16Z"
     },
     {
       "id": 1430113995,
@@ -29258,7 +29394,7 @@
       "id": 1458038820,
       "name": "nostrodomus",
       "full_name": "Views2k/nostrodomus",
-      "description": "Predictive editing and modern styling for the Home Assistant card editor.",
+      "description": "Context-aware autocomplete, snippets, and syntax highlighting for Home Assistant's card, card_mod, and YAML editors.",
       "html_url": "https://github.com/Views2k/nostrodomus",
       "homepage": null,
       "stars": 15,
@@ -29276,7 +29412,7 @@
         "yaml"
       ],
       "created_at": "2026-11-14T18:13:51Z",
-      "updated_at": "2026-11-18T16:54:04Z",
+      "updated_at": "2026-11-18T23:29:14Z",
       "pushed_at": "2026-11-17T05:03:22Z"
     },
     {
@@ -29493,6 +29629,35 @@
       "created_at": "2026-10-27T13:59:37Z",
       "updated_at": "2026-10-31T23:08:25Z",
       "pushed_at": "2026-10-27T14:09:09Z"
+    },
+    {
+      "id": 1458333679,
+      "name": "NonceSetX",
+      "full_name": "ichitaso/NonceSetX",
+      "description": "Check the APNonce generator / APNonce, save SHSH blobs and set the generator on Dopamine (iOS 15-18, 26). Powered by x8A4.",
+      "html_url": "https://github.com/ichitaso/NonceSetX",
+      "homepage": "https://cydia.ichitaso.com/depiction/noncesetx.html",
+      "stars": 14,
+      "forks": 2,
+      "language": "C",
+      "topics": [
+        "apnonce",
+        "cryptex1",
+        "dopamine",
+        "futurerestore",
+        "ios",
+        "ios26",
+        "jailbreak",
+        "nonce-setter",
+        "roothide",
+        "shsh",
+        "theos",
+        "tsschecker",
+        "x8a4"
+      ],
+      "created_at": "2026-11-15T01:11:10Z",
+      "updated_at": "2026-11-18T04:21:21Z",
+      "pushed_at": "2026-11-17T21:59:33Z"
     },
     {
       "id": 1379722239,
@@ -29733,35 +29898,6 @@
       "pushed_at": "2026-11-03T18:01:08Z"
     },
     {
-      "id": 1458333679,
-      "name": "NonceSetX",
-      "full_name": "ichitaso/NonceSetX",
-      "description": "Check the APNonce generator / APNonce, save SHSH blobs and set the generator on Dopamine (iOS 15-18, 26). Powered by x8A4.",
-      "html_url": "https://github.com/ichitaso/NonceSetX",
-      "homepage": "https://cydia.ichitaso.com/depiction/noncesetx.html",
-      "stars": 13,
-      "forks": 2,
-      "language": "C",
-      "topics": [
-        "apnonce",
-        "cryptex1",
-        "dopamine",
-        "futurerestore",
-        "ios",
-        "ios26",
-        "jailbreak",
-        "nonce-setter",
-        "roothide",
-        "shsh",
-        "theos",
-        "tsschecker",
-        "x8a4"
-      ],
-      "created_at": "2026-11-15T01:11:10Z",
-      "updated_at": "2026-11-17T05:24:51Z",
-      "pushed_at": "2026-11-17T21:59:33Z"
-    },
-    {
       "id": 1380788494,
       "name": "dingtalk-aicard",
       "full_name": "DingTalk-Real-AI/dingtalk-aicard",
@@ -29939,6 +30075,36 @@
       "created_at": "2026-11-02T08:41:39Z",
       "updated_at": "2026-11-03T16:19:03Z",
       "pushed_at": "2026-11-03T09:06:46Z"
+    },
+    {
+      "id": 1457664051,
+      "name": "frontend-ux-motion-skills",
+      "full_name": "AbdullahNaveed/frontend-ux-motion-skills",
+      "description": "28 agent skills for frontend development, UI/UX design, and web animation. Runnable HTML, CSS, and JavaScript examples for responsive landing pages, card hover effects, scroll animations, and Canvas and SVG motion.",
+      "html_url": "https://github.com/AbdullahNaveed/frontend-ux-motion-skills",
+      "homepage": null,
+      "stars": 12,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "accessibility",
+        "agent-skills",
+        "canvas",
+        "css",
+        "frontend",
+        "frontend-development",
+        "javascript",
+        "landing-page",
+        "motion-design",
+        "responsive-design",
+        "svg",
+        "ui-design",
+        "ux-design",
+        "web-animation"
+      ],
+      "created_at": "2026-11-14T11:04:24Z",
+      "updated_at": "2026-11-15T13:25:39Z",
+      "pushed_at": "2026-11-15T09:55:28Z"
     },
     {
       "id": 1389013962,
