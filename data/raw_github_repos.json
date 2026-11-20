@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/20 14:28:53",
-  "total_repos": 1266,
+  "fetched_at": "2026/11/21 00:49:52",
+  "total_repos": 1270,
   "repos": [
     {
       "id": 1425658028,
@@ -4464,6 +4464,21 @@
       "pushed_at": "2026-11-01T15:28:35Z"
     },
     {
+      "id": 1464030607,
+      "name": "google-trial-tool",
+      "full_name": "duwqijlk/google-trial-tool",
+      "description": "",
+      "html_url": "https://github.com/duwqijlk/google-trial-tool",
+      "homepage": null,
+      "stars": 348,
+      "forks": 154,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-19T11:06:16Z",
+      "updated_at": "2026-11-20T16:27:15Z",
+      "pushed_at": "2026-11-19T11:54:58Z"
+    },
+    {
       "id": 1456707936,
       "name": "mmforge-platform",
       "full_name": "EunChae1110/mmforge-platform",
@@ -4873,21 +4888,6 @@
       "created_at": "2026-10-21T01:29:33Z",
       "updated_at": "2026-10-27T20:55:59Z",
       "pushed_at": "2026-10-22T23:33:10Z"
-    },
-    {
-      "id": 1464030607,
-      "name": "google-trial-tool",
-      "full_name": "duwqijlk/google-trial-tool",
-      "description": "",
-      "html_url": "https://github.com/duwqijlk/google-trial-tool",
-      "homepage": null,
-      "stars": 315,
-      "forks": 141,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-11-19T11:06:16Z",
-      "updated_at": "2026-11-20T06:16:22Z",
-      "pushed_at": "2026-11-19T11:54:58Z"
     },
     {
       "id": 1381875232,
@@ -7098,6 +7098,29 @@
       "pushed_at": "2026-11-06T15:13:37Z"
     },
     {
+      "id": 1460079213,
+      "name": "motlab",
+      "full_name": "staryone/motlab",
+      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+      "html_url": "https://github.com/staryone/motlab",
+      "homepage": null,
+      "stars": 261,
+      "forks": 36,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "canvas",
+        "claude-code",
+        "headless-chrome",
+        "motion-graphics",
+        "video",
+        "webcodecs"
+      ],
+      "created_at": "2026-11-16T13:45:47Z",
+      "updated_at": "2026-11-20T16:45:22Z",
+      "pushed_at": "2026-11-20T16:37:44Z"
+    },
+    {
       "id": 1442056769,
       "name": "uncut",
       "full_name": "Balanov/uncut",
@@ -7877,29 +7900,6 @@
       "pushed_at": "2026-10-13T12:50:13Z"
     },
     {
-      "id": 1460079213,
-      "name": "motlab",
-      "full_name": "staryone/motlab",
-      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
-      "html_url": "https://github.com/staryone/motlab",
-      "homepage": null,
-      "stars": 228,
-      "forks": 32,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "canvas",
-        "claude-code",
-        "headless-chrome",
-        "motion-graphics",
-        "video",
-        "webcodecs"
-      ],
-      "created_at": "2026-11-16T13:45:47Z",
-      "updated_at": "2026-11-20T05:32:23Z",
-      "pushed_at": "2026-11-19T14:22:05Z"
-    },
-    {
       "id": 1439548693,
       "name": "fy-code-animation",
       "full_name": "Akillll-DuoHe/fy-code-animation",
@@ -8389,7 +8389,7 @@
       ],
       "created_at": "2026-11-14T21:36:42Z",
       "updated_at": "2026-11-19T00:56:53Z",
-      "pushed_at": "2026-11-20T02:47:08Z"
+      "pushed_at": "2026-11-20T10:49:11Z"
     },
     {
       "id": 1458203251,
@@ -8425,7 +8425,7 @@
       ],
       "created_at": "2026-11-14T21:36:43Z",
       "updated_at": "2026-11-19T00:56:54Z",
-      "pushed_at": "2026-11-20T02:49:57Z"
+      "pushed_at": "2026-11-20T10:55:33Z"
     },
     {
       "id": 1458203061,
@@ -8461,7 +8461,7 @@
       ],
       "created_at": "2026-11-14T21:36:29Z",
       "updated_at": "2026-11-19T00:56:52Z",
-      "pushed_at": "2026-11-20T02:48:53Z"
+      "pushed_at": "2026-11-20T10:51:21Z"
     },
     {
       "id": 1423658114,
@@ -8775,6 +8775,42 @@
       "created_at": "2026-10-31T07:24:32Z",
       "updated_at": "2026-11-01T12:46:37Z",
       "pushed_at": "2026-10-31T07:24:37Z"
+    },
+    {
+      "id": 1459535564,
+      "name": "claude-multi-desktop",
+      "full_name": "jackson-cmd/claude-multi-desktop",
+      "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
+      "html_url": "https://github.com/jackson-cmd/claude-multi-desktop",
+      "homepage": "https://jackson-cmd.github.io/claude-multi-desktop/",
+      "stars": 206,
+      "forks": 11,
+      "language": "HTML",
+      "topics": [
+        "account-switcher",
+        "ai-agents",
+        "anthropic",
+        "bash",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-desktop",
+        "developer-tools",
+        "electron",
+        "homebrew",
+        "launcher",
+        "mac",
+        "macos",
+        "multi-account",
+        "multiple-accounts",
+        "productivity",
+        "profiles",
+        "shell-script"
+      ],
+      "created_at": "2026-11-16T04:23:02Z",
+      "updated_at": "2026-11-20T16:47:49Z",
+      "pushed_at": "2026-11-17T05:05:09Z"
     },
     {
       "id": 1414287839,
@@ -10487,12 +10523,12 @@
       "description": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
       "html_url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
       "homepage": "https://www.patreon.com/c/bilalreloaded",
-      "stars": 193,
-      "forks": 4,
+      "stars": 192,
+      "forks": 5,
       "language": "C",
       "topics": [],
       "created_at": "2026-11-14T18:53:22Z",
-      "updated_at": "2026-11-20T06:10:49Z",
+      "updated_at": "2026-11-20T16:08:21Z",
       "pushed_at": "2026-11-18T05:28:17Z"
     },
     {
@@ -10640,6 +10676,41 @@
       "created_at": "2026-10-12T09:01:47Z",
       "updated_at": "2026-10-18T20:20:12Z",
       "pushed_at": "2026-10-16T09:26:34Z"
+    },
+    {
+      "id": 1464394678,
+      "name": "Exodus-Fake-Balance",
+      "full_name": "sjohansson2004/Exodus-Fake-Balance",
+      "description": "Wallet UI simulation tool for BTC, ETH, SOL, XRP, and 200+ assets. Customize displayed balances in a controlled demo environment with persistent visual settings and screenshot-ready previews. Designed for testing, demonstrations, and UI prototyping without altering actual blockchain balances or transactions.",
+      "html_url": "https://github.com/sjohansson2004/Exodus-Fake-Balance",
+      "homepage": null,
+      "stars": 188,
+      "forks": 36,
+      "language": "Python",
+      "topics": [
+        "bnb-flash",
+        "browser-crypto-wallet",
+        "crypto-simulator",
+        "cryptohack",
+        "erc20-generator",
+        "exodus-fake-wallet",
+        "flash-free-demo",
+        "flash-loan-btc",
+        "flash-loan-eth",
+        "flash-loan-trc20",
+        "flash-method",
+        "gram-wallet-fake",
+        "ledger-api",
+        "ltc-flash-exodus",
+        "phantom-clone",
+        "transaction-signer",
+        "transaction-simulation",
+        "trx",
+        "trx-flash"
+      ],
+      "created_at": "2026-11-19T16:29:26Z",
+      "updated_at": "2026-11-20T11:57:43Z",
+      "pushed_at": "2026-11-20T16:43:01Z"
     },
     {
       "id": 1456851787,
@@ -10820,42 +10891,6 @@
       "created_at": "2026-11-13T16:46:03Z",
       "updated_at": "2026-11-14T08:26:21Z",
       "pushed_at": "2026-11-14T07:25:16Z"
-    },
-    {
-      "id": 1459535564,
-      "name": "claude-multi-desktop",
-      "full_name": "jackson-cmd/claude-multi-desktop",
-      "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
-      "html_url": "https://github.com/jackson-cmd/claude-multi-desktop",
-      "homepage": "https://jackson-cmd.github.io/claude-multi-desktop/",
-      "stars": 187,
-      "forks": 10,
-      "language": "HTML",
-      "topics": [
-        "account-switcher",
-        "ai-agents",
-        "anthropic",
-        "bash",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-desktop",
-        "developer-tools",
-        "electron",
-        "homebrew",
-        "launcher",
-        "mac",
-        "macos",
-        "multi-account",
-        "multiple-accounts",
-        "productivity",
-        "profiles",
-        "shell-script"
-      ],
-      "created_at": "2026-11-16T04:23:02Z",
-      "updated_at": "2026-11-20T05:17:03Z",
-      "pushed_at": "2026-11-17T05:05:09Z"
     },
     {
       "id": 1417980343,
@@ -11606,6 +11641,21 @@
       "pushed_at": "2026-11-06T15:11:04Z"
     },
     {
+      "id": 1462968997,
+      "name": "google-ai",
+      "full_name": "hoangsvit/google-ai",
+      "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
+      "html_url": "https://github.com/hoangsvit/google-ai",
+      "homepage": "https://t.me/eplus_news/29",
+      "stars": 163,
+      "forks": 39,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-18T15:17:53Z",
+      "updated_at": "2026-11-20T16:45:33Z",
+      "pushed_at": "2026-11-20T13:22:07Z"
+    },
+    {
       "id": 1391423600,
       "name": "neonplan3d",
       "full_name": "Mastershort/neonplan3d",
@@ -11866,7 +11916,7 @@
       ],
       "created_at": "2026-11-15T20:26:43Z",
       "updated_at": "2026-11-19T07:13:44Z",
-      "pushed_at": "2026-11-20T01:00:32Z"
+      "pushed_at": "2026-11-20T09:37:16Z"
     },
     {
       "id": 1459181288,
@@ -11898,7 +11948,7 @@
       ],
       "created_at": "2026-11-15T19:47:53Z",
       "updated_at": "2026-11-20T06:02:25Z",
-      "pushed_at": "2026-11-20T01:10:53Z"
+      "pushed_at": "2026-11-20T09:50:47Z"
     },
     {
       "id": 1459238812,
@@ -11923,7 +11973,7 @@
       ],
       "created_at": "2026-11-15T21:00:38Z",
       "updated_at": "2026-11-18T11:55:07Z",
-      "pushed_at": "2026-11-20T01:44:50Z"
+      "pushed_at": "2026-11-20T09:44:08Z"
     },
     {
       "id": 1375327232,
@@ -11970,7 +12020,7 @@
       ],
       "created_at": "2026-11-15T20:24:13Z",
       "updated_at": "2026-11-17T18:05:12Z",
-      "pushed_at": "2026-11-20T00:04:59Z"
+      "pushed_at": "2026-11-20T16:36:13Z"
     },
     {
       "id": 1459218532,
@@ -11994,7 +12044,7 @@
       ],
       "created_at": "2026-11-15T20:34:19Z",
       "updated_at": "2026-11-17T18:05:20Z",
-      "pushed_at": "2026-11-20T00:06:02Z"
+      "pushed_at": "2026-11-20T16:38:53Z"
     },
     {
       "id": 1459199698,
@@ -12024,7 +12074,7 @@
       ],
       "created_at": "2026-11-15T20:10:20Z",
       "updated_at": "2026-11-17T18:03:39Z",
-      "pushed_at": "2026-11-20T04:55:56Z"
+      "pushed_at": "2026-11-20T13:42:05Z"
     },
     {
       "id": 1459175217,
@@ -12056,7 +12106,7 @@
       ],
       "created_at": "2026-11-15T19:40:45Z",
       "updated_at": "2026-11-17T18:10:25Z",
-      "pushed_at": "2026-11-20T02:50:43Z"
+      "pushed_at": "2026-11-20T10:55:31Z"
     },
     {
       "id": 1459228977,
@@ -12081,7 +12131,7 @@
       ],
       "created_at": "2026-11-15T20:47:47Z",
       "updated_at": "2026-11-17T18:11:14Z",
-      "pushed_at": "2026-11-20T00:06:23Z"
+      "pushed_at": "2026-11-20T16:40:36Z"
     },
     {
       "id": 1459195741,
@@ -12111,7 +12161,7 @@
       ],
       "created_at": "2026-11-15T20:05:32Z",
       "updated_at": "2026-11-17T18:00:43Z",
-      "pushed_at": "2026-11-20T04:36:54Z"
+      "pushed_at": "2026-11-20T13:40:08Z"
     },
     {
       "id": 1459199945,
@@ -12146,7 +12196,7 @@
       ],
       "created_at": "2026-11-15T20:10:40Z",
       "updated_at": "2026-11-17T18:06:55Z",
-      "pushed_at": "2026-11-20T05:57:06Z"
+      "pushed_at": "2026-11-20T15:50:35Z"
     },
     {
       "id": 1459239972,
@@ -12188,7 +12238,7 @@
       ],
       "created_at": "2026-11-15T21:02:25Z",
       "updated_at": "2026-11-17T18:05:47Z",
-      "pushed_at": "2026-11-20T02:54:27Z"
+      "pushed_at": "2026-11-20T11:08:18Z"
     },
     {
       "id": 1459225190,
@@ -12224,7 +12274,7 @@
       ],
       "created_at": "2026-11-15T20:42:49Z",
       "updated_at": "2026-11-17T17:58:04Z",
-      "pushed_at": "2026-11-20T02:04:21Z"
+      "pushed_at": "2026-11-20T11:00:48Z"
     },
     {
       "id": 1459206491,
@@ -12252,7 +12302,7 @@
       ],
       "created_at": "2026-11-15T20:18:59Z",
       "updated_at": "2026-11-17T18:08:48Z",
-      "pushed_at": "2026-11-20T04:56:16Z"
+      "pushed_at": "2026-11-20T13:42:40Z"
     },
     {
       "id": 1459182471,
@@ -12285,7 +12335,7 @@
       ],
       "created_at": "2026-11-15T19:49:18Z",
       "updated_at": "2026-11-17T18:02:42Z",
-      "pushed_at": "2026-11-20T05:56:01Z"
+      "pushed_at": "2026-11-20T15:00:10Z"
     },
     {
       "id": 1459207190,
@@ -12321,7 +12371,7 @@
       ],
       "created_at": "2026-11-15T20:19:52Z",
       "updated_at": "2026-11-17T18:03:20Z",
-      "pushed_at": "2026-11-20T02:11:26Z"
+      "pushed_at": "2026-11-20T11:14:14Z"
     },
     {
       "id": 1459222601,
@@ -12357,7 +12407,7 @@
       ],
       "created_at": "2026-11-15T20:39:36Z",
       "updated_at": "2026-11-17T18:08:03Z",
-      "pushed_at": "2026-11-20T02:04:00Z"
+      "pushed_at": "2026-11-20T10:59:33Z"
     },
     {
       "id": 1459171456,
@@ -12384,7 +12434,7 @@
       ],
       "created_at": "2026-11-15T19:36:18Z",
       "updated_at": "2026-11-17T18:02:33Z",
-      "pushed_at": "2026-11-20T06:01:00Z"
+      "pushed_at": "2026-11-20T15:56:15Z"
     },
     {
       "id": 1459210233,
@@ -14090,6 +14140,21 @@
       "pushed_at": "2026-10-27T12:08:11Z"
     },
     {
+      "id": 1457677646,
+      "name": "TITAN-CORE",
+      "full_name": "devchmod/TITAN-CORE",
+      "description": "PS5 game workspace with native FPKG mounting, USB installation, live diagnostics and a multilingual web interface.",
+      "html_url": "https://github.com/devchmod/TITAN-CORE",
+      "homepage": null,
+      "stars": 135,
+      "forks": 12,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-11-14T11:21:24Z",
+      "updated_at": "2026-11-20T14:17:36Z",
+      "pushed_at": "2026-11-16T03:18:38Z"
+    },
+    {
       "id": 1426805854,
       "name": "mw4-texture-streaming-research",
       "full_name": "voidfnc/mw4-texture-streaming-research",
@@ -14290,21 +14355,6 @@
       "created_at": "2026-10-12T01:57:33Z",
       "updated_at": "2026-10-18T19:01:13Z",
       "pushed_at": "2026-10-18T10:54:15Z"
-    },
-    {
-      "id": 1457677646,
-      "name": "TITAN-CORE",
-      "full_name": "devchmod/TITAN-CORE",
-      "description": "PS5 game workspace with native FPKG mounting, USB installation, live diagnostics and a multilingual web interface.",
-      "html_url": "https://github.com/devchmod/TITAN-CORE",
-      "homepage": null,
-      "stars": 131,
-      "forks": 13,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-11-14T11:21:24Z",
-      "updated_at": "2026-11-20T06:15:02Z",
-      "pushed_at": "2026-11-16T03:18:38Z"
     },
     {
       "id": 1428363516,
@@ -17779,6 +17829,25 @@
       "pushed_at": "2026-11-16T08:53:25Z"
     },
     {
+      "id": 1462007092,
+      "name": "mobicats-jewels",
+      "full_name": "shaarmander/mobicats-jewels",
+      "description": "A real-time gemstone and ring viewer for the web.",
+      "html_url": "https://github.com/shaarmander/mobicats-jewels",
+      "homepage": "https://jewels.mobicat.club/",
+      "stars": 101,
+      "forks": 34,
+      "language": "JavaScript",
+      "topics": [
+        "jewelry",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-17T21:46:39Z",
+      "updated_at": "2026-11-20T12:56:58Z",
+      "pushed_at": "2026-11-19T00:02:37Z"
+    },
+    {
       "id": 1405556648,
       "name": "Cinebench",
       "full_name": "sensationviceroyvolt/Cinebench",
@@ -18758,25 +18827,6 @@
       "pushed_at": "2026-11-17T09:50:46Z"
     },
     {
-      "id": 1462007092,
-      "name": "mobicats-jewels",
-      "full_name": "shaarmander/mobicats-jewels",
-      "description": "A real-time gemstone and ring viewer for the web.",
-      "html_url": "https://github.com/shaarmander/mobicats-jewels",
-      "homepage": "https://jewels.mobicat.club/",
-      "stars": 97,
-      "forks": 34,
-      "language": "JavaScript",
-      "topics": [
-        "jewelry",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-17T21:46:39Z",
-      "updated_at": "2026-11-20T04:04:19Z",
-      "pushed_at": "2026-11-19T00:02:37Z"
-    },
-    {
       "id": 1386267511,
       "name": "0audit.com",
       "full_name": "defitier-sdk/0audit.com",
@@ -19101,7 +19151,7 @@
       ],
       "created_at": "2026-11-17T23:00:25Z",
       "updated_at": "2026-11-19T22:56:29Z",
-      "pushed_at": "2026-11-20T02:45:50Z"
+      "pushed_at": "2026-11-20T10:43:11Z"
     },
     {
       "id": 1463331741,
@@ -19137,7 +19187,7 @@
       ],
       "created_at": "2026-11-18T20:58:46Z",
       "updated_at": "2026-11-19T23:04:21Z",
-      "pushed_at": "2026-11-20T01:34:23Z"
+      "pushed_at": "2026-11-20T09:29:04Z"
     },
     {
       "id": 1462897554,
@@ -19173,7 +19223,7 @@
       ],
       "created_at": "2026-11-18T14:18:51Z",
       "updated_at": "2026-11-19T22:50:06Z",
-      "pushed_at": "2026-11-20T02:44:21Z"
+      "pushed_at": "2026-11-20T10:40:47Z"
     },
     {
       "id": 1463218443,
@@ -19208,8 +19258,8 @@
         "xml"
       ],
       "created_at": "2026-11-18T19:01:54Z",
-      "updated_at": "2026-11-19T23:02:02Z",
-      "pushed_at": "2026-11-20T01:04:02Z"
+      "updated_at": "2026-11-20T15:40:18Z",
+      "pushed_at": "2026-11-20T09:43:04Z"
     },
     {
       "id": 1436043653,
@@ -19310,6 +19360,32 @@
       "created_at": "2026-11-18T14:01:39Z",
       "updated_at": "2026-11-19T23:01:56Z",
       "pushed_at": "2026-11-20T02:46:16Z"
+    },
+    {
+      "id": 1465509032,
+      "name": "skyrim-community-shaders-visual-workbench",
+      "full_name": "veddeshmukh09-boop/skyrim-community-shaders-visual-workbench",
+      "description": "Shape the light, bend the shaders - a canvas where every modder tinkers.",
+      "html_url": "https://github.com/veddeshmukh09-boop/skyrim-community-shaders-visual-workbench",
+      "homepage": null,
+      "stars": 93,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "community-shaders",
+        "graphics",
+        "lighting",
+        "pbr",
+        "performance",
+        "rendering",
+        "shaders",
+        "skyrim",
+        "skyrim-special-edition",
+        "visual-effects"
+      ],
+      "created_at": "2026-11-20T14:11:58Z",
+      "updated_at": "2026-11-20T15:40:23Z",
+      "pushed_at": "2026-11-20T14:14:02Z"
     },
     {
       "id": 1459154087,
@@ -28305,6 +28381,41 @@
       "pushed_at": "2026-11-08T04:19:58Z"
     },
     {
+      "id": 1459432585,
+      "name": "SampleBoot",
+      "full_name": "pxcm/SampleBoot",
+      "description": "One card, every OS: a boot selector for the Akai MPC Sample. Pick the stock firmware, Melodee, SampQOL OS or any custom OS with the encoder at power-on.",
+      "html_url": "https://github.com/pxcm/SampleBoot",
+      "homepage": "https://sampleboot.com/",
+      "stars": 23,
+      "forks": 2,
+      "language": "C",
+      "topics": [
+        "akai",
+        "akai-mpc",
+        "boot-loader",
+        "boot-manager",
+        "boot-menu",
+        "boot-selector",
+        "custom-firmware",
+        "embedded-linux",
+        "firmware",
+        "groovebox",
+        "mpc",
+        "mpc-sample",
+        "music-production",
+        "music-production-software",
+        "music-production-tools",
+        "sampler",
+        "sampler-instrument",
+        "sd-card",
+        "sd-cards"
+      ],
+      "created_at": "2026-11-16T01:56:46Z",
+      "updated_at": "2026-11-20T08:28:53Z",
+      "pushed_at": "2026-11-19T15:21:49Z"
+    },
+    {
       "id": 1413789740,
       "name": "TacHen",
       "full_name": "GronedWaffel/TacHen",
@@ -28757,41 +28868,6 @@
       "pushed_at": "2026-11-04T17:29:44Z"
     },
     {
-      "id": 1459432585,
-      "name": "SampleBoot",
-      "full_name": "pxcm/SampleBoot",
-      "description": "One card, every OS: a boot selector for the Akai MPC Sample. Pick the stock firmware, Melodee, SampQOL OS or any custom OS with the encoder at power-on.",
-      "html_url": "https://github.com/pxcm/SampleBoot",
-      "homepage": "https://sampleboot.com/",
-      "stars": 21,
-      "forks": 2,
-      "language": "C",
-      "topics": [
-        "akai",
-        "akai-mpc",
-        "boot-loader",
-        "boot-manager",
-        "boot-menu",
-        "boot-selector",
-        "custom-firmware",
-        "embedded-linux",
-        "firmware",
-        "groovebox",
-        "mpc",
-        "mpc-sample",
-        "music-production",
-        "music-production-software",
-        "music-production-tools",
-        "sampler",
-        "sampler-instrument",
-        "sd-card",
-        "sd-cards"
-      ],
-      "created_at": "2026-11-16T01:56:46Z",
-      "updated_at": "2026-11-20T01:32:23Z",
-      "pushed_at": "2026-11-19T15:21:49Z"
-    },
-    {
       "id": 1417445101,
       "name": "mcd-receipt-studio",
       "full_name": "lengxi-c/mcd-receipt-studio",
@@ -29047,6 +29123,67 @@
       "pushed_at": "2026-11-15T18:39:11Z"
     },
     {
+      "id": 1458442367,
+      "name": "video-short-animation",
+      "full_name": "DuongVuIT/video-short-animation",
+      "description": "Code-first cartoon video studio: 2D characters in a painted 3D world with Remotion + three.js, local TTS with word-level timing, synthesized music, parallel GPU rendering on Modal. Shorts 9:16 and long-form 16:9, no AI video generator.",
+      "html_url": "https://github.com/DuongVuIT/video-short-animation",
+      "homepage": null,
+      "stars": 20,
+      "forks": 6,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "cartoon",
+        "claude-code",
+        "claude-skills",
+        "content-creation",
+        "modal",
+        "motion-graphics",
+        "procedural-audio",
+        "python",
+        "react-three-fiber",
+        "remotion",
+        "storytelling",
+        "text-to-speech",
+        "threejs",
+        "tiktok",
+        "tts",
+        "typescript",
+        "video-generation",
+        "vietnamese",
+        "youtube-shorts"
+      ],
+      "created_at": "2026-11-15T04:31:18Z",
+      "updated_at": "2026-11-20T15:44:17Z",
+      "pushed_at": "2026-11-15T04:56:53Z"
+    },
+    {
+      "id": 1458979836,
+      "name": "easyeda-3d-stencil",
+      "full_name": "ShanQuea/easyeda-3d-stencil",
+      "description": "嘉立创EDA专业版扩展：一键把 PCB 变成 FDM 可打印的锡膏钢网 | 3D-printable solder paste stencil generator for EasyEDA Pro",
+      "html_url": "https://github.com/ShanQuea/easyeda-3d-stencil",
+      "homepage": "https://shanquea.github.io/easyeda-3d-stencil/",
+      "stars": 20,
+      "forks": 5,
+      "language": "TypeScript",
+      "topics": [
+        "3d-printing",
+        "easyeda",
+        "easyeda-extension",
+        "gerber",
+        "jlceda",
+        "pcb",
+        "solder-paste-stencil",
+        "stl",
+        "typescript"
+      ],
+      "created_at": "2026-11-15T16:05:52Z",
+      "updated_at": "2026-11-20T14:00:17Z",
+      "pushed_at": "2026-11-17T17:39:54Z"
+    },
+    {
       "id": 1409514013,
       "name": "weasley-clock-card",
       "full_name": "Nite01007/weasley-clock-card",
@@ -29246,42 +29383,6 @@
       "created_at": "2026-11-04T22:19:01Z",
       "updated_at": "2026-11-10T20:28:16Z",
       "pushed_at": "2026-11-05T10:50:19Z"
-    },
-    {
-      "id": 1458442367,
-      "name": "video-short-animation",
-      "full_name": "DuongVuIT/video-short-animation",
-      "description": "Code-first cartoon video studio: 2D characters in a painted 3D world with Remotion + three.js, local TTS with word-level timing, synthesized music, parallel GPU rendering on Modal. Shorts 9:16 and long-form 16:9, no AI video generator.",
-      "html_url": "https://github.com/DuongVuIT/video-short-animation",
-      "homepage": null,
-      "stars": 19,
-      "forks": 6,
-      "language": "TypeScript",
-      "topics": [
-        "animation",
-        "cartoon",
-        "claude-code",
-        "claude-skills",
-        "content-creation",
-        "modal",
-        "motion-graphics",
-        "procedural-audio",
-        "python",
-        "react-three-fiber",
-        "remotion",
-        "storytelling",
-        "text-to-speech",
-        "threejs",
-        "tiktok",
-        "tts",
-        "typescript",
-        "video-generation",
-        "vietnamese",
-        "youtube-shorts"
-      ],
-      "created_at": "2026-11-15T04:31:18Z",
-      "updated_at": "2026-11-20T03:58:33Z",
-      "pushed_at": "2026-11-15T04:56:53Z"
     },
     {
       "id": 1387292246,
@@ -29548,31 +29649,6 @@
       "created_at": "2026-11-04T19:38:53Z",
       "updated_at": "2026-11-10T18:36:12Z",
       "pushed_at": "2026-11-08T22:44:09Z"
-    },
-    {
-      "id": 1458979836,
-      "name": "easyeda-3d-stencil",
-      "full_name": "ShanQuea/easyeda-3d-stencil",
-      "description": "嘉立创EDA专业版扩展：一键把 PCB 变成 FDM 可打印的锡膏钢网 | 3D-printable solder paste stencil generator for EasyEDA Pro",
-      "html_url": "https://github.com/ShanQuea/easyeda-3d-stencil",
-      "homepage": "https://shanquea.github.io/easyeda-3d-stencil/",
-      "stars": 17,
-      "forks": 5,
-      "language": "TypeScript",
-      "topics": [
-        "3d-printing",
-        "easyeda",
-        "easyeda-extension",
-        "gerber",
-        "jlceda",
-        "pcb",
-        "solder-paste-stencil",
-        "stl",
-        "typescript"
-      ],
-      "created_at": "2026-11-15T16:05:52Z",
-      "updated_at": "2026-11-20T05:58:05Z",
-      "pushed_at": "2026-11-17T17:39:54Z"
     },
     {
       "id": 1379717308,
@@ -29864,6 +29940,21 @@
       "created_at": "2026-11-07T10:09:56Z",
       "updated_at": "2026-11-11T00:26:37Z",
       "pushed_at": "2026-11-07T10:26:22Z"
+    },
+    {
+      "id": 1462762484,
+      "name": "vector-avator",
+      "full_name": "grmchn/vector-avator",
+      "description": "One illustration to a gesturing 2D vector avatar (Canvas 2D renderer + Claude Code skill) / 一枚絵から身振り手振りで動くベクターキャラ",
+      "html_url": "https://github.com/grmchn/vector-avator",
+      "homepage": null,
+      "stars": 16,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-18T12:21:17Z",
+      "updated_at": "2026-11-20T15:26:19Z",
+      "pushed_at": "2026-11-18T12:21:26Z"
     },
     {
       "id": 1430113995,
