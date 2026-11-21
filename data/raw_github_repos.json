@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/21 14:19:44",
-  "total_repos": 1288,
+  "fetched_at": "2026/11/21 23:58:44",
+  "total_repos": 1297,
   "repos": [
     {
       "id": 1425658028,
@@ -3587,6 +3587,21 @@
       "pushed_at": "2026-10-02T03:38:49Z"
     },
     {
+      "id": 1464030607,
+      "name": "google-trial-tool",
+      "full_name": "duwqijlk/google-trial-tool",
+      "description": "",
+      "html_url": "https://github.com/duwqijlk/google-trial-tool",
+      "homepage": null,
+      "stars": 390,
+      "forks": 163,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-19T11:06:16Z",
+      "updated_at": "2026-11-21T14:49:17Z",
+      "pushed_at": "2026-11-19T11:54:58Z"
+    },
+    {
       "id": 1448760852,
       "name": "samfw-tool-desktop",
       "full_name": "johnampire818-dev/samfw-tool-desktop",
@@ -4336,21 +4351,6 @@
       "pushed_at": "2026-11-19T14:44:11Z"
     },
     {
-      "id": 1464030607,
-      "name": "google-trial-tool",
-      "full_name": "duwqijlk/google-trial-tool",
-      "description": "",
-      "html_url": "https://github.com/duwqijlk/google-trial-tool",
-      "homepage": null,
-      "stars": 368,
-      "forks": 158,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-11-19T11:06:16Z",
-      "updated_at": "2026-11-21T06:09:07Z",
-      "pushed_at": "2026-11-19T11:54:58Z"
-    },
-    {
       "id": 1425306307,
       "name": "ai-live-avatar",
       "full_name": "garycaogan/ai-live-avatar",
@@ -4611,6 +4611,29 @@
       "created_at": "2026-10-09T16:28:47Z",
       "updated_at": "2026-10-15T12:29:39Z",
       "pushed_at": "2026-10-10T05:18:23Z"
+    },
+    {
+      "id": 1460079213,
+      "name": "motlab",
+      "full_name": "staryone/motlab",
+      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+      "html_url": "https://github.com/staryone/motlab",
+      "homepage": null,
+      "stars": 335,
+      "forks": 43,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "canvas",
+        "claude-code",
+        "headless-chrome",
+        "motion-graphics",
+        "video",
+        "webcodecs"
+      ],
+      "created_at": "2026-11-16T13:45:47Z",
+      "updated_at": "2026-11-21T15:43:26Z",
+      "pushed_at": "2026-11-21T15:36:04Z"
     },
     {
       "id": 1445376286,
@@ -5414,29 +5437,6 @@
       "created_at": "2026-11-13T16:45:33Z",
       "updated_at": "2026-11-14T16:11:44Z",
       "pushed_at": "2026-11-14T12:57:04Z"
-    },
-    {
-      "id": 1460079213,
-      "name": "motlab",
-      "full_name": "staryone/motlab",
-      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
-      "html_url": "https://github.com/staryone/motlab",
-      "homepage": null,
-      "stars": 303,
-      "forks": 41,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "canvas",
-        "claude-code",
-        "headless-chrome",
-        "motion-graphics",
-        "video",
-        "webcodecs"
-      ],
-      "created_at": "2026-11-16T13:45:47Z",
-      "updated_at": "2026-11-21T06:11:47Z",
-      "pushed_at": "2026-11-20T16:37:44Z"
     },
     {
       "id": 1425296336,
@@ -7159,6 +7159,27 @@
       "pushed_at": "2026-11-05T23:20:32Z"
     },
     {
+      "id": 1462968997,
+      "name": "google-ai",
+      "full_name": "hoangsvit/google-ai",
+      "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
+      "html_url": "https://github.com/hoangsvit/google-ai",
+      "homepage": "https://t.me/eplus_news",
+      "stars": 254,
+      "forks": 57,
+      "language": "Python",
+      "topics": [
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "google",
+        "google-ai"
+      ],
+      "created_at": "2026-11-18T15:17:53Z",
+      "updated_at": "2026-11-21T14:39:26Z",
+      "pushed_at": "2026-11-21T15:12:39Z"
+    },
+    {
       "id": 1423660177,
       "name": "Movavi-Converter",
       "full_name": "Maroonplocord/Movavi-Converter",
@@ -7382,6 +7403,42 @@
       "pushed_at": "2026-11-09T21:13:07Z"
     },
     {
+      "id": 1459535564,
+      "name": "claude-multi-desktop",
+      "full_name": "jackson-cmd/claude-multi-desktop",
+      "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
+      "html_url": "https://github.com/jackson-cmd/claude-multi-desktop",
+      "homepage": "https://jackson-cmd.github.io/claude-multi-desktop/",
+      "stars": 249,
+      "forks": 12,
+      "language": "HTML",
+      "topics": [
+        "account-switcher",
+        "ai-agents",
+        "anthropic",
+        "bash",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-desktop",
+        "developer-tools",
+        "electron",
+        "homebrew",
+        "launcher",
+        "mac",
+        "macos",
+        "multi-account",
+        "multiple-accounts",
+        "productivity",
+        "profiles",
+        "shell-script"
+      ],
+      "created_at": "2026-11-16T04:23:02Z",
+      "updated_at": "2026-11-21T15:33:51Z",
+      "pushed_at": "2026-11-17T05:05:09Z"
+    },
+    {
       "id": 1437694471,
       "name": "cheap-ag",
       "full_name": "muaaz9329/cheap-ag",
@@ -7572,6 +7629,31 @@
       "created_at": "2026-10-29T07:16:42Z",
       "updated_at": "2026-10-29T20:17:11Z",
       "pushed_at": "2026-10-29T07:16:51Z"
+    },
+    {
+      "id": 1461974437,
+      "name": "StellarHub",
+      "full_name": "estebanarosemena/StellarHub",
+      "description": "No bloatware, no account, no subscriptions, no payments, no telemetry; free forever. Top Tier control for your Windows PC. Live hardware stats, drivers, apps, disk space, cleanup and hardware tests, all in one app.",
+      "html_url": "https://github.com/estebanarosemena/StellarHub",
+      "homepage": null,
+      "stars": 237,
+      "forks": 21,
+      "language": "JavaScript",
+      "topics": [
+        "disk-analyzer",
+        "driver-updater",
+        "gplv3",
+        "pc-optimizer",
+        "python",
+        "pywebview",
+        "system-monitor",
+        "uninstaller",
+        "windows"
+      ],
+      "created_at": "2026-11-17T21:08:50Z",
+      "updated_at": "2026-11-21T15:46:17Z",
+      "pushed_at": "2026-11-21T02:40:27Z"
     },
     {
       "id": 1452464401,
@@ -7846,42 +7928,6 @@
       "pushed_at": "2026-11-04T08:41:32Z"
     },
     {
-      "id": 1459535564,
-      "name": "claude-multi-desktop",
-      "full_name": "jackson-cmd/claude-multi-desktop",
-      "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
-      "html_url": "https://github.com/jackson-cmd/claude-multi-desktop",
-      "homepage": "https://jackson-cmd.github.io/claude-multi-desktop/",
-      "stars": 230,
-      "forks": 11,
-      "language": "HTML",
-      "topics": [
-        "account-switcher",
-        "ai-agents",
-        "anthropic",
-        "bash",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-desktop",
-        "developer-tools",
-        "electron",
-        "homebrew",
-        "launcher",
-        "mac",
-        "macos",
-        "multi-account",
-        "multiple-accounts",
-        "productivity",
-        "profiles",
-        "shell-script"
-      ],
-      "created_at": "2026-11-16T04:23:02Z",
-      "updated_at": "2026-11-21T05:12:24Z",
-      "pushed_at": "2026-11-17T05:05:09Z"
-    },
-    {
       "id": 1425358398,
       "name": "Hiddify-Manager",
       "full_name": "philips71017/Hiddify-Manager",
@@ -8080,21 +8126,6 @@
       "created_at": "2026-11-06T17:24:57Z",
       "updated_at": "2026-11-06T19:43:31Z",
       "pushed_at": "2026-11-06T17:25:03Z"
-    },
-    {
-      "id": 1462968997,
-      "name": "google-ai",
-      "full_name": "hoangsvit/google-ai",
-      "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
-      "html_url": "https://github.com/hoangsvit/google-ai",
-      "homepage": "https://t.me/eplus_news/29",
-      "stars": 221,
-      "forks": 45,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-18T15:17:53Z",
-      "updated_at": "2026-11-21T06:19:14Z",
-      "pushed_at": "2026-11-21T04:48:55Z"
     },
     {
       "id": 1448543492,
@@ -8807,6 +8838,65 @@
       "pushed_at": "2026-11-07T14:41:46Z"
     },
     {
+      "id": 1466003525,
+      "name": "capcut-pro-malelin-video-editor",
+      "full_name": "mahmed9321/capcut-pro-malelin-video-editor",
+      "description": "Professional video editing with advanced timeline and effects tools.",
+      "html_url": "https://github.com/mahmed9321/capcut-pro-malelin-video-editor",
+      "homepage": null,
+      "stars": 207,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "auto-captions",
+        "captions",
+        "content-creation",
+        "effects",
+        "encoding",
+        "filmmaking",
+        "media",
+        "reels-editor",
+        "short-form-video",
+        "subtitles",
+        "tiktok-editor",
+        "vertical-video",
+        "video",
+        "video-converter",
+        "video-editing",
+        "video-editor",
+        "video-effects",
+        "video-processing",
+        "video-production",
+        "youtube-shorts"
+      ],
+      "created_at": "2026-11-20T23:35:51Z",
+      "updated_at": "2026-11-21T14:10:18Z",
+      "pushed_at": "2026-11-21T14:08:52Z"
+    },
+    {
+      "id": 1466022470,
+      "name": "windows-activation-script-lekalin",
+      "full_name": "ahmedbkareno1-stack/windows-activation-script-lekalin",
+      "description": "Streamline Windows setup with Lekalin, a practical setup scripting tool.",
+      "html_url": "https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin",
+      "homepage": null,
+      "stars": 207,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "microsoft-copilot",
+        "microsoft365",
+        "microsoftexcel",
+        "office-scripts",
+        "office-suite",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-21T00:07:21Z",
+      "updated_at": "2026-11-21T14:10:18Z",
+      "pushed_at": "2026-11-21T08:01:01Z"
+    },
+    {
       "id": 1440615468,
       "name": "Microsoft-365",
       "full_name": "DistributorFollow23/Microsoft-365",
@@ -9013,6 +9103,40 @@
       "created_at": "2026-10-17T19:10:45Z",
       "updated_at": "2026-10-18T00:26:09Z",
       "pushed_at": "2026-10-17T19:10:52Z"
+    },
+    {
+      "id": 1466022306,
+      "name": "vegas-pro-23-bebaron",
+      "full_name": "heracliomc-create/vegas-pro-23-bebaron",
+      "description": "Professional video editing suite with timeline-based tools for multi-track projects.",
+      "html_url": "https://github.com/heracliomc-create/vegas-pro-23-bebaron",
+      "homepage": null,
+      "stars": 203,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "audio-mixing",
+        "blu-ray-authoring",
+        "color-correction",
+        "color-grading",
+        "content-creation",
+        "dvd-authoring",
+        "keyframe-animation",
+        "magix-vegas",
+        "nle",
+        "timeline-editor",
+        "vegas-pro-edi",
+        "vegas-pro-full",
+        "video-editing",
+        "video-editor",
+        "video-effects",
+        "video-processing",
+        "video-production",
+        "windows-video-editor"
+      ],
+      "created_at": "2026-11-21T00:07:05Z",
+      "updated_at": "2026-11-21T14:10:18Z",
+      "pushed_at": "2026-11-21T15:47:48Z"
     },
     {
       "id": 1376284519,
@@ -10183,31 +10307,6 @@
       "pushed_at": "2026-11-06T08:40:03Z"
     },
     {
-      "id": 1461974437,
-      "name": "StellarHub",
-      "full_name": "estebanarosemena/StellarHub",
-      "description": "No bloatware, no account, no subscriptions, no payments, no telemetry; free forever. Top Tier control for your Windows PC. Live hardware stats, drivers, apps, disk space, cleanup and hardware tests, all in one app.",
-      "html_url": "https://github.com/estebanarosemena/StellarHub",
-      "homepage": null,
-      "stars": 200,
-      "forks": 17,
-      "language": "JavaScript",
-      "topics": [
-        "disk-analyzer",
-        "driver-updater",
-        "gplv3",
-        "pc-optimizer",
-        "python",
-        "pywebview",
-        "system-monitor",
-        "uninstaller",
-        "windows"
-      ],
-      "created_at": "2026-11-17T21:08:50Z",
-      "updated_at": "2026-11-21T05:35:23Z",
-      "pushed_at": "2026-11-21T02:40:27Z"
-    },
-    {
       "id": 1437373656,
       "name": "SketchUp-Pro",
       "full_name": "ScalarGrouse/SketchUp-Pro",
@@ -10352,6 +10451,42 @@
       "created_at": "2026-10-17T19:13:58Z",
       "updated_at": "2026-10-18T00:29:07Z",
       "pushed_at": "2026-10-17T19:14:04Z"
+    },
+    {
+      "id": 1466572361,
+      "name": "davinci-resolve-sanolen-color-studio",
+      "full_name": "Daniel451legend/davinci-resolve-sanolen-color-studio",
+      "description": "Professional color grading workflows and studio tools built for Davinci Resolve.",
+      "html_url": "https://github.com/Daniel451legend/davinci-resolve-sanolen-color-studio",
+      "homepage": null,
+      "stars": 197,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "audio-post-production",
+        "captions",
+        "color-grading",
+        "content-creation",
+        "effects",
+        "encoding",
+        "fairlight",
+        "filmmaking",
+        "fusion",
+        "media",
+        "nonlinear-editing",
+        "resolve",
+        "subtitles",
+        "transitions",
+        "video",
+        "video-converter",
+        "video-editing",
+        "video-editor",
+        "video-processing",
+        "video-production"
+      ],
+      "created_at": "2026-11-21T13:29:10Z",
+      "updated_at": "2026-11-21T14:10:20Z",
+      "pushed_at": "2026-11-21T13:30:38Z"
     },
     {
       "id": 1444168015,
@@ -10587,6 +10722,63 @@
       "pushed_at": "2026-11-18T05:28:17Z"
     },
     {
+      "id": 1466553730,
+      "name": "sketchup-pro-tasalor",
+      "full_name": "alfoguasta/sketchup-pro-tasalor",
+      "description": "Design and model in SketchUp Pro Tasalor with advanced 3D tools.",
+      "html_url": "https://github.com/alfoguasta/sketchup-pro-tasalor",
+      "homepage": null,
+      "stars": 192,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "3d-modeling-software",
+        "architectural-visualization",
+        "blender-3d-download",
+        "design-pipeline",
+        "how-to-install-sketchup",
+        "measurement-tools",
+        "open-source",
+        "premium-software",
+        "python",
+        "render-ready",
+        "sketch-pro-download",
+        "sketch-up",
+        "sketch-up-free",
+        "sketch-up-pro",
+        "sketchup",
+        "sketchup-tool",
+        "sketchup-up-pro",
+        "v-ray"
+      ],
+      "created_at": "2026-11-21T13:07:27Z",
+      "updated_at": "2026-11-21T14:10:19Z",
+      "pushed_at": "2026-11-21T13:09:06Z"
+    },
+    {
+      "id": 1466576038,
+      "name": "gta6-preload-emulator",
+      "full_name": "DigvijayQA/gta6-preload-emulator",
+      "description": "Emulates the GTA6 preload environment for testing and development workflows.",
+      "html_url": "https://github.com/DigvijayQA/gta6-preload-emulator",
+      "homepage": null,
+      "stars": 192,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "free-ps5-emulator",
+        "gta6-disk-space",
+        "gta6-download-free",
+        "gta6-preload",
+        "ps5-emulator-download",
+        "ps5-emulator-windows-10",
+        "ps5-emulator-windows-11"
+      ],
+      "created_at": "2026-11-21T13:33:21Z",
+      "updated_at": "2026-11-21T14:10:20Z",
+      "pushed_at": "2026-11-21T13:34:36Z"
+    },
+    {
       "id": 1388097438,
       "name": "mysticgsi",
       "full_name": "MysticGSI/mysticgsi",
@@ -10644,6 +10836,35 @@
       "created_at": "2026-10-15T23:37:25Z",
       "updated_at": "2026-10-21T16:11:23Z",
       "pushed_at": "2026-10-16T10:03:49Z"
+    },
+    {
+      "id": 1466582289,
+      "name": "dlss-5-swapper-compatibility",
+      "full_name": "void52897-star/dlss-5-swapper-compatibility",
+      "description": "Swap DLSS presets across modded setups with tooling built for tinkerers.",
+      "html_url": "https://github.com/void52897-star/dlss-5-swapper-compatibility",
+      "homepage": null,
+      "stars": 190,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "dlss",
+        "dlss-5",
+        "dlss-5-cyberpunk",
+        "dlss-5-nvidia",
+        "dlss-5-renodx",
+        "dlss-5-reshade",
+        "dlss5",
+        "dlss5-swapper-enhanced",
+        "multi-frame-generation",
+        "neural-rendering",
+        "renodx-dlss-5",
+        "rtx-40",
+        "rtx-50"
+      ],
+      "created_at": "2026-11-21T13:40:26Z",
+      "updated_at": "2026-11-21T14:10:22Z",
+      "pushed_at": "2026-11-21T13:42:00Z"
     },
     {
       "id": 1375641268,
@@ -11616,6 +11837,21 @@
       "pushed_at": "2026-11-05T21:42:10Z"
     },
     {
+      "id": 1465810238,
+      "name": "winedroid",
+      "full_name": "sohzm/winedroid",
+      "description": "run android apps on web, linux, macOS and windows",
+      "html_url": "https://github.com/sohzm/winedroid",
+      "homepage": "https://winedroid.soham.sh/",
+      "stars": 164,
+      "forks": 7,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-11-20T19:14:05Z",
+      "updated_at": "2026-11-21T15:58:22Z",
+      "pushed_at": "2026-11-20T19:16:27Z"
+    },
+    {
       "id": 1436372393,
       "name": "Rust-Recoil-Pro",
       "full_name": "Tunnelclabungalow/Rust-Recoil-Pro",
@@ -11956,6 +12192,31 @@
       "pushed_at": "2026-11-01T11:32:13Z"
     },
     {
+      "id": 1459228977,
+      "name": "tiktok-accounts-generator",
+      "full_name": "mhmdmonner439-alt/tiktok-accounts-generator",
+      "description": "TikTok Accounts Generator - Community-Driven Bot for Discord and Telegram",
+      "html_url": "https://github.com/mhmdmonner439-alt/tiktok-accounts-generator",
+      "homepage": null,
+      "stars": 155,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "50mam",
+        "antidetect-browser",
+        "bypass-shadowban",
+        "create-tiktok-accounts",
+        "multi-accounting",
+        "multilogin",
+        "shadowban-bypass",
+        "tiktok-farming",
+        "tiktok-shop-agency"
+      ],
+      "created_at": "2026-11-15T20:47:47Z",
+      "updated_at": "2026-11-21T08:08:05Z",
+      "pushed_at": "2026-11-21T12:09:00Z"
+    },
+    {
       "id": 1459212651,
       "name": "postcreator-social-card-studio",
       "full_name": "KeganMT/postcreator-social-card-studio",
@@ -11987,7 +12248,7 @@
       ],
       "created_at": "2026-11-15T20:26:43Z",
       "updated_at": "2026-11-19T07:13:44Z",
-      "pushed_at": "2026-11-21T00:34:28Z"
+      "pushed_at": "2026-11-21T15:56:51Z"
     },
     {
       "id": 1459181288,
@@ -12019,7 +12280,7 @@
       ],
       "created_at": "2026-11-15T19:47:53Z",
       "updated_at": "2026-11-20T06:02:25Z",
-      "pushed_at": "2026-11-21T00:41:07Z"
+      "pushed_at": "2026-11-21T12:07:33Z"
     },
     {
       "id": 1459238812,
@@ -12044,32 +12305,7 @@
       ],
       "created_at": "2026-11-15T21:00:38Z",
       "updated_at": "2026-11-18T11:55:07Z",
-      "pushed_at": "2026-11-21T00:38:56Z"
-    },
-    {
-      "id": 1459228977,
-      "name": "tiktok-accounts-generator",
-      "full_name": "mhmdmonner439-alt/tiktok-accounts-generator",
-      "description": "TikTok Accounts Generator - Community-Driven Bot for Discord and Telegram",
-      "html_url": "https://github.com/mhmdmonner439-alt/tiktok-accounts-generator",
-      "homepage": null,
-      "stars": 154,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "50mam",
-        "antidetect-browser",
-        "bypass-shadowban",
-        "create-tiktok-accounts",
-        "multi-accounting",
-        "multilogin",
-        "shadowban-bypass",
-        "tiktok-farming",
-        "tiktok-shop-agency"
-      ],
-      "created_at": "2026-11-15T20:47:47Z",
-      "updated_at": "2026-11-20T17:01:04Z",
-      "pushed_at": "2026-11-21T03:40:30Z"
+      "pushed_at": "2026-11-21T12:09:29Z"
     },
     {
       "id": 1375327232,
@@ -12116,7 +12352,7 @@
       ],
       "created_at": "2026-11-15T20:24:13Z",
       "updated_at": "2026-11-17T18:05:12Z",
-      "pushed_at": "2026-11-21T03:40:15Z"
+      "pushed_at": "2026-11-21T12:08:22Z"
     },
     {
       "id": 1459218532,
@@ -12140,7 +12376,7 @@
       ],
       "created_at": "2026-11-15T20:34:19Z",
       "updated_at": "2026-11-17T18:05:20Z",
-      "pushed_at": "2026-11-21T03:40:58Z"
+      "pushed_at": "2026-11-21T12:08:43Z"
     },
     {
       "id": 1459199698,
@@ -12170,7 +12406,7 @@
       ],
       "created_at": "2026-11-15T20:10:20Z",
       "updated_at": "2026-11-17T18:03:39Z",
-      "pushed_at": "2026-11-21T02:53:22Z"
+      "pushed_at": "2026-11-21T12:08:03Z"
     },
     {
       "id": 1459175217,
@@ -12202,7 +12438,7 @@
       ],
       "created_at": "2026-11-15T19:40:45Z",
       "updated_at": "2026-11-17T18:10:25Z",
-      "pushed_at": "2026-11-21T00:44:28Z"
+      "pushed_at": "2026-11-21T12:07:26Z"
     },
     {
       "id": 1459195741,
@@ -12232,7 +12468,7 @@
       ],
       "created_at": "2026-11-15T20:05:32Z",
       "updated_at": "2026-11-17T18:00:43Z",
-      "pushed_at": "2026-11-21T02:52:32Z"
+      "pushed_at": "2026-11-21T12:07:51Z"
     },
     {
       "id": 1459199945,
@@ -12267,7 +12503,7 @@
       ],
       "created_at": "2026-11-15T20:10:40Z",
       "updated_at": "2026-11-17T18:06:55Z",
-      "pushed_at": "2026-11-21T05:49:42Z"
+      "pushed_at": "2026-11-21T15:38:35Z"
     },
     {
       "id": 1459239972,
@@ -12291,7 +12527,7 @@
       ],
       "created_at": "2026-11-15T21:02:11Z",
       "updated_at": "2026-11-17T18:06:25Z",
-      "pushed_at": "2026-11-16T22:35:36Z"
+      "pushed_at": "2026-11-21T12:09:19Z"
     },
     {
       "id": 1459240143,
@@ -12345,7 +12581,7 @@
       ],
       "created_at": "2026-11-15T20:42:49Z",
       "updated_at": "2026-11-17T17:58:04Z",
-      "pushed_at": "2026-11-21T01:09:21Z"
+      "pushed_at": "2026-11-21T12:08:52Z"
     },
     {
       "id": 1459206491,
@@ -12406,7 +12642,7 @@
       ],
       "created_at": "2026-11-15T19:49:18Z",
       "updated_at": "2026-11-17T18:02:42Z",
-      "pushed_at": "2026-11-21T03:47:00Z"
+      "pushed_at": "2026-11-21T12:10:57Z"
     },
     {
       "id": 1459207190,
@@ -12442,7 +12678,7 @@
       ],
       "created_at": "2026-11-15T20:19:52Z",
       "updated_at": "2026-11-17T18:03:20Z",
-      "pushed_at": "2026-11-21T01:17:33Z"
+      "pushed_at": "2026-11-21T09:29:49Z"
     },
     {
       "id": 1459222601,
@@ -12478,7 +12714,7 @@
       ],
       "created_at": "2026-11-15T20:39:36Z",
       "updated_at": "2026-11-17T18:08:03Z",
-      "pushed_at": "2026-11-21T01:08:39Z"
+      "pushed_at": "2026-11-21T12:09:01Z"
     },
     {
       "id": 1459171456,
@@ -12505,7 +12741,7 @@
       ],
       "created_at": "2026-11-15T19:36:18Z",
       "updated_at": "2026-11-17T18:02:33Z",
-      "pushed_at": "2026-11-21T03:49:09Z"
+      "pushed_at": "2026-11-21T12:12:34Z"
     },
     {
       "id": 1459210233,
@@ -12540,7 +12776,7 @@
       ],
       "created_at": "2026-11-15T20:23:40Z",
       "updated_at": "2026-11-17T18:06:26Z",
-      "pushed_at": "2026-11-21T01:12:29Z"
+      "pushed_at": "2026-11-21T12:08:29Z"
     },
     {
       "id": 1459203791,
@@ -12567,7 +12803,7 @@
       ],
       "created_at": "2026-11-15T20:15:32Z",
       "updated_at": "2026-11-17T18:07:13Z",
-      "pushed_at": "2026-11-21T05:25:24Z"
+      "pushed_at": "2026-11-21T14:06:58Z"
     },
     {
       "id": 1459240700,
@@ -12589,7 +12825,7 @@
       ],
       "created_at": "2026-11-15T21:03:07Z",
       "updated_at": "2026-11-17T18:07:42Z",
-      "pushed_at": "2026-11-21T01:12:21Z"
+      "pushed_at": "2026-11-21T12:09:16Z"
     },
     {
       "id": 1459238061,
@@ -12614,7 +12850,7 @@
       ],
       "created_at": "2026-11-15T20:59:38Z",
       "updated_at": "2026-11-17T18:04:47Z",
-      "pushed_at": "2026-11-21T05:13:44Z"
+      "pushed_at": "2026-11-21T14:01:38Z"
     },
     {
       "id": 1459192746,
@@ -12649,7 +12885,7 @@
       ],
       "created_at": "2026-11-15T20:01:54Z",
       "updated_at": "2026-11-17T18:04:12Z",
-      "pushed_at": "2026-11-21T03:38:23Z"
+      "pushed_at": "2026-11-21T12:07:49Z"
     },
     {
       "id": 1459235597,
@@ -12668,7 +12904,7 @@
       ],
       "created_at": "2026-11-15T20:56:19Z",
       "updated_at": "2026-11-17T18:08:12Z",
-      "pushed_at": "2026-11-21T01:13:29Z"
+      "pushed_at": "2026-11-21T12:09:14Z"
     },
     {
       "id": 1459242018,
@@ -12703,7 +12939,7 @@
       ],
       "created_at": "2026-11-15T21:04:49Z",
       "updated_at": "2026-11-17T18:05:39Z",
-      "pushed_at": "2026-11-21T05:12:03Z"
+      "pushed_at": "2026-11-21T14:00:29Z"
     },
     {
       "id": 1459237416,
@@ -12831,6 +13067,57 @@
       "pushed_at": "2026-11-21T00:32:48Z"
     },
     {
+      "id": 1465509032,
+      "name": "skyrim-community-shaders-visual-workbench",
+      "full_name": "veddeshmukh09-boop/skyrim-community-shaders-visual-workbench",
+      "description": "Shape the light, bend the shaders - a canvas where every modder tinkers.",
+      "html_url": "https://github.com/veddeshmukh09-boop/skyrim-community-shaders-visual-workbench",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "community-shaders",
+        "graphics",
+        "lighting",
+        "pbr",
+        "performance",
+        "rendering",
+        "shaders",
+        "skyrim",
+        "skyrim-special-edition",
+        "visual-effects"
+      ],
+      "created_at": "2026-11-20T14:11:58Z",
+      "updated_at": "2026-11-21T06:48:18Z",
+      "pushed_at": "2026-11-21T11:54:53Z"
+    },
+    {
+      "id": 1465523535,
+      "name": "open-webui-private-ai-desk",
+      "full_name": "han938/open-webui-private-ai-desk",
+      "description": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+      "html_url": "https://github.com/han938/open-webui-private-ai-desk",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "chat-interface",
+        "chatbot",
+        "knowledge-base",
+        "llm",
+        "local-ai",
+        "ollama",
+        "open-webui",
+        "rag",
+        "self-hosted"
+      ],
+      "created_at": "2026-11-20T14:25:27Z",
+      "updated_at": "2026-11-21T06:48:02Z",
+      "pushed_at": "2026-11-21T10:37:27Z"
+    },
+    {
       "id": 1462067097,
       "name": "adobe-firefly-image-generator",
       "full_name": "cc4w/adobe-firefly-image-generator",
@@ -12861,7 +13148,7 @@
       ],
       "created_at": "2026-11-17T23:00:25Z",
       "updated_at": "2026-11-21T01:28:13Z",
-      "pushed_at": "2026-11-21T00:29:01Z"
+      "pushed_at": "2026-11-21T15:46:01Z"
     },
     {
       "id": 1462897554,
@@ -12897,7 +13184,7 @@
       ],
       "created_at": "2026-11-18T14:18:51Z",
       "updated_at": "2026-11-21T01:28:17Z",
-      "pushed_at": "2026-11-21T00:26:31Z"
+      "pushed_at": "2026-11-21T15:44:05Z"
     },
     {
       "id": 1463218443,
@@ -12933,7 +13220,7 @@
       ],
       "created_at": "2026-11-18T19:01:54Z",
       "updated_at": "2026-11-21T01:28:19Z",
-      "pushed_at": "2026-11-21T00:38:59Z"
+      "pushed_at": "2026-11-21T08:00:06Z"
     },
     {
       "id": 1462876588,
@@ -12969,58 +13256,7 @@
       ],
       "created_at": "2026-11-18T14:01:39Z",
       "updated_at": "2026-11-21T01:28:15Z",
-      "pushed_at": "2026-11-21T00:32:48Z"
-    },
-    {
-      "id": 1465509032,
-      "name": "skyrim-community-shaders-visual-workbench",
-      "full_name": "veddeshmukh09-boop/skyrim-community-shaders-visual-workbench",
-      "description": "Shape the light, bend the shaders - a canvas where every modder tinkers.",
-      "html_url": "https://github.com/veddeshmukh09-boop/skyrim-community-shaders-visual-workbench",
-      "homepage": null,
-      "stars": 152,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "community-shaders",
-        "graphics",
-        "lighting",
-        "pbr",
-        "performance",
-        "rendering",
-        "shaders",
-        "skyrim",
-        "skyrim-special-edition",
-        "visual-effects"
-      ],
-      "created_at": "2026-11-20T14:11:58Z",
-      "updated_at": "2026-11-21T01:28:40Z",
-      "pushed_at": "2026-11-21T03:38:54Z"
-    },
-    {
-      "id": 1465523535,
-      "name": "open-webui-private-ai-desk",
-      "full_name": "han938/open-webui-private-ai-desk",
-      "description": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
-      "html_url": "https://github.com/han938/open-webui-private-ai-desk",
-      "homepage": null,
-      "stars": 152,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "chat-interface",
-        "chatbot",
-        "knowledge-base",
-        "llm",
-        "local-ai",
-        "ollama",
-        "open-webui",
-        "rag",
-        "self-hosted"
-      ],
-      "created_at": "2026-11-20T14:25:27Z",
-      "updated_at": "2026-11-21T01:28:41Z",
-      "pushed_at": "2026-11-21T02:59:14Z"
+      "pushed_at": "2026-11-21T15:48:58Z"
     },
     {
       "id": 1448025260,
@@ -13097,7 +13333,7 @@
       ],
       "created_at": "2026-11-18T20:58:46Z",
       "updated_at": "2026-11-21T01:28:25Z",
-      "pushed_at": "2026-11-21T00:32:42Z"
+      "pushed_at": "2026-11-21T15:50:33Z"
     },
     {
       "id": 1423657988,
@@ -17043,6 +17279,25 @@
       "pushed_at": "2026-10-19T12:38:51Z"
     },
     {
+      "id": 1462007092,
+      "name": "mobicats-jewels",
+      "full_name": "shaarmander/mobicats-jewels",
+      "description": "A real-time gemstone and ring viewer for the web.",
+      "html_url": "https://github.com/shaarmander/mobicats-jewels",
+      "homepage": "https://jewels.mobicat.club/",
+      "stars": 105,
+      "forks": 34,
+      "language": "JavaScript",
+      "topics": [
+        "jewelry",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-11-17T21:46:39Z",
+      "updated_at": "2026-11-21T07:18:02Z",
+      "pushed_at": "2026-11-19T00:02:37Z"
+    },
+    {
       "id": 1387522551,
       "name": "tiktok-views-bot",
       "full_name": "pingwin010/tiktok-views-bot",
@@ -17211,25 +17466,6 @@
       "created_at": "2026-11-10T19:21:17Z",
       "updated_at": "2026-11-14T17:18:03Z",
       "pushed_at": "2026-11-16T07:31:57Z"
-    },
-    {
-      "id": 1462007092,
-      "name": "mobicats-jewels",
-      "full_name": "shaarmander/mobicats-jewels",
-      "description": "A real-time gemstone and ring viewer for the web.",
-      "html_url": "https://github.com/shaarmander/mobicats-jewels",
-      "homepage": "https://jewels.mobicat.club/",
-      "stars": 104,
-      "forks": 34,
-      "language": "JavaScript",
-      "topics": [
-        "jewelry",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-11-17T21:46:39Z",
-      "updated_at": "2026-11-21T03:34:01Z",
-      "pushed_at": "2026-11-19T00:02:37Z"
     },
     {
       "id": 1390845863,
@@ -19147,21 +19383,6 @@
       "created_at": "2026-11-15T16:29:03Z",
       "updated_at": "2026-11-17T10:22:07Z",
       "pushed_at": "2026-11-17T02:53:18Z"
-    },
-    {
-      "id": 1465810238,
-      "name": "winedroid",
-      "full_name": "sohzm/winedroid",
-      "description": "Run Android apps on Web, Linux, macOS and Windows",
-      "html_url": "https://github.com/sohzm/winedroid",
-      "homepage": "https://winedroid.soham.sh/",
-      "stars": 99,
-      "forks": 4,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-11-20T19:14:05Z",
-      "updated_at": "2026-11-21T06:01:09Z",
-      "pushed_at": "2026-11-20T19:16:27Z"
     },
     {
       "id": 1411921952,
@@ -21449,6 +21670,30 @@
       "pushed_at": "2026-10-15T12:28:02Z"
     },
     {
+      "id": 1465685531,
+      "name": "noorjahan-qbittorrent",
+      "full_name": "chiefhamim/noorjahan-qbittorrent",
+      "description": "A calmer, evenly spaced Light & Dark theme for qBittorrent on Windows, with a matching Web UI.",
+      "html_url": "https://github.com/chiefhamim/noorjahan-qbittorrent",
+      "homepage": "https://noorjahan.hamim2964.workers.dev/",
+      "stars": 75,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "dark-theme",
+        "light-theme",
+        "qbittorrent",
+        "qbittorrent-theme",
+        "qbittorrent-webui",
+        "qbtheme",
+        "qt-stylesheet",
+        "windows-11"
+      ],
+      "created_at": "2026-11-20T16:58:48Z",
+      "updated_at": "2026-11-21T15:23:54Z",
+      "pushed_at": "2026-11-21T12:45:02Z"
+    },
+    {
       "id": 1398599398,
       "name": "ThiepCuoi",
       "full_name": "phamduybk/ThiepCuoi",
@@ -22981,6 +23226,42 @@
       "created_at": "2026-11-04T16:57:51Z",
       "updated_at": "2026-11-09T14:01:09Z",
       "pushed_at": "2026-11-09T14:01:05Z"
+    },
+    {
+      "id": 1463944269,
+      "name": "AI-NSFW-PC-Windows",
+      "full_name": "omlmodani-spec/AI-NSFW-PC-Windows",
+      "description": "AI-powered image generator for creating adult-oriented digital artwork. Customize prompts, explore artistic styles, and bring creative ideas to life.",
+      "html_url": "https://github.com/omlmodani-spec/AI-NSFW-PC-Windows",
+      "homepage": null,
+      "stars": 63,
+      "forks": 0,
+      "language": null,
+      "topics": [
+        "adult-api",
+        "ai-chat-review",
+        "ai-futanari-generator",
+        "ai-generator-tools",
+        "ai-roleplay",
+        "free-ai-software",
+        "free-video-generator",
+        "glm-api",
+        "henta",
+        "nomi-ai",
+        "nsfw-character-api",
+        "nsfw-video-api",
+        "nudity",
+        "rule34xxx",
+        "sex",
+        "spicyapi",
+        "uncensored-ai-image-video-generator",
+        "uncensored-ai-model",
+        "uncensored-model",
+        "undres"
+      ],
+      "created_at": "2026-11-19T09:42:40Z",
+      "updated_at": "2026-11-21T15:39:58Z",
+      "pushed_at": "2026-11-19T09:43:21Z"
     },
     {
       "id": 1400269105,
@@ -27990,6 +28271,31 @@
       "pushed_at": "2026-10-31T08:47:59Z"
     },
     {
+      "id": 1458979836,
+      "name": "easyeda-3d-stencil",
+      "full_name": "ShanQuea/easyeda-3d-stencil",
+      "description": "嘉立创EDA专业版扩展：一键把 PCB 变成 FDM 可打印的锡膏钢网 | 3D-printable solder paste stencil generator for EasyEDA Pro",
+      "html_url": "https://github.com/ShanQuea/easyeda-3d-stencil",
+      "homepage": "https://shanquea.github.io/easyeda-3d-stencil/",
+      "stars": 28,
+      "forks": 6,
+      "language": "TypeScript",
+      "topics": [
+        "3d-printing",
+        "easyeda",
+        "easyeda-extension",
+        "gerber",
+        "jlceda",
+        "pcb",
+        "solder-paste-stencil",
+        "stl",
+        "typescript"
+      ],
+      "created_at": "2026-11-15T16:05:52Z",
+      "updated_at": "2026-11-21T14:29:20Z",
+      "pushed_at": "2026-11-17T17:39:54Z"
+    },
+    {
       "id": 1379555830,
       "name": "sanity",
       "full_name": "milanofthe/sanity",
@@ -28286,6 +28592,29 @@
       "created_at": "2026-11-10T12:43:17Z",
       "updated_at": "2026-11-13T17:10:22Z",
       "pushed_at": "2026-11-14T17:16:21Z"
+    },
+    {
+      "id": 1460716130,
+      "name": "nekodrop",
+      "full_name": "zheznanohana/nekodrop",
+      "description": "AirDrop on Windows with your built-in Intel Wi-Fi card — while Wi-Fi stays connected",
+      "html_url": "https://github.com/zheznanohana/nekodrop",
+      "homepage": null,
+      "stars": 26,
+      "forks": 3,
+      "language": "C++",
+      "topics": [
+        "airdrop",
+        "awdl",
+        "cpp20",
+        "csharp",
+        "iwlwifi",
+        "wifi",
+        "windows"
+      ],
+      "created_at": "2026-11-17T00:12:03Z",
+      "updated_at": "2026-11-21T14:44:03Z",
+      "pushed_at": "2026-11-21T15:28:41Z"
     },
     {
       "id": 1437329506,
@@ -28598,6 +28927,62 @@
       "pushed_at": "2026-11-07T03:24:23Z"
     },
     {
+      "id": 1459432585,
+      "name": "SampleBoot",
+      "full_name": "pxcm/SampleBoot",
+      "description": "One card, every OS: a boot selector for the Akai MPC Sample. Pick the stock firmware, Melodee, SampQOL OS or any custom OS with the encoder at power-on.",
+      "html_url": "https://github.com/pxcm/SampleBoot",
+      "homepage": "https://sampleboot.com/",
+      "stars": 24,
+      "forks": 2,
+      "language": "C",
+      "topics": [
+        "akai",
+        "akai-mpc",
+        "boot-loader",
+        "boot-manager",
+        "boot-menu",
+        "boot-selector",
+        "custom-firmware",
+        "embedded-linux",
+        "firmware",
+        "groovebox",
+        "mpc",
+        "mpc-sample",
+        "music-production",
+        "music-production-software",
+        "music-production-tools",
+        "sampler",
+        "sampler-instrument",
+        "sd-card",
+        "sd-cards"
+      ],
+      "created_at": "2026-11-16T01:56:46Z",
+      "updated_at": "2026-11-21T10:30:27Z",
+      "pushed_at": "2026-11-19T15:21:49Z"
+    },
+    {
+      "id": 1464970412,
+      "name": "cho-viet",
+      "full_name": "harry-brogrammer/cho-viet",
+      "description": "Sứ mệnh: xây dựng nền tảng thương mại điện tử số 1 Đông Nam Á, phục vụ 600 triệu người dùng vào năm 2030, vận hành hoàn toàn bởi AI, không phụ thuộc vào con người. Tầm nhìn: mỗi người Việt đều được mua sắm trực tuyến mà không cần bất kỳ ai đọc code. Cột mốc hiện tại: 4 người dùng thực, cơ sở dữ liệu Google Sheets, vốn đã huy động 0 đồng.",
+      "html_url": "https://github.com/harry-brogrammer/cho-viet",
+      "homepage": "https://harry-brogrammer.github.io/cho-viet/",
+      "stars": 24,
+      "forks": 15,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "google-sheets",
+        "meme",
+        "microservices",
+        "vibe-coding"
+      ],
+      "created_at": "2026-11-20T04:19:17Z",
+      "updated_at": "2026-11-21T14:44:26Z",
+      "pushed_at": "2026-11-20T12:06:04Z"
+    },
+    {
       "id": 1378959833,
       "name": "jev-design-test",
       "full_name": "bhaiG-de/jev-design-test",
@@ -28751,66 +29136,6 @@
       "created_at": "2026-11-06T14:11:34Z",
       "updated_at": "2026-11-11T11:23:04Z",
       "pushed_at": "2026-11-08T04:19:58Z"
-    },
-    {
-      "id": 1459432585,
-      "name": "SampleBoot",
-      "full_name": "pxcm/SampleBoot",
-      "description": "One card, every OS: a boot selector for the Akai MPC Sample. Pick the stock firmware, Melodee, SampQOL OS or any custom OS with the encoder at power-on.",
-      "html_url": "https://github.com/pxcm/SampleBoot",
-      "homepage": "https://sampleboot.com/",
-      "stars": 23,
-      "forks": 2,
-      "language": "C",
-      "topics": [
-        "akai",
-        "akai-mpc",
-        "boot-loader",
-        "boot-manager",
-        "boot-menu",
-        "boot-selector",
-        "custom-firmware",
-        "embedded-linux",
-        "firmware",
-        "groovebox",
-        "mpc",
-        "mpc-sample",
-        "music-production",
-        "music-production-software",
-        "music-production-tools",
-        "sampler",
-        "sampler-instrument",
-        "sd-card",
-        "sd-cards"
-      ],
-      "created_at": "2026-11-16T01:56:46Z",
-      "updated_at": "2026-11-20T08:28:53Z",
-      "pushed_at": "2026-11-19T15:21:49Z"
-    },
-    {
-      "id": 1458979836,
-      "name": "easyeda-3d-stencil",
-      "full_name": "ShanQuea/easyeda-3d-stencil",
-      "description": "嘉立创EDA专业版扩展：一键把 PCB 变成 FDM 可打印的锡膏钢网 | 3D-printable solder paste stencil generator for EasyEDA Pro",
-      "html_url": "https://github.com/ShanQuea/easyeda-3d-stencil",
-      "homepage": "https://shanquea.github.io/easyeda-3d-stencil/",
-      "stars": 23,
-      "forks": 5,
-      "language": "TypeScript",
-      "topics": [
-        "3d-printing",
-        "easyeda",
-        "easyeda-extension",
-        "gerber",
-        "jlceda",
-        "pcb",
-        "solder-paste-stencil",
-        "stl",
-        "typescript"
-      ],
-      "created_at": "2026-11-15T16:05:52Z",
-      "updated_at": "2026-11-21T02:20:22Z",
-      "pushed_at": "2026-11-17T17:39:54Z"
     },
     {
       "id": 1413789740,
@@ -29321,27 +29646,6 @@
       "pushed_at": "2026-11-15T04:56:53Z"
     },
     {
-      "id": 1464970412,
-      "name": "cho-viet",
-      "full_name": "harry-brogrammer/cho-viet",
-      "description": "Sứ mệnh: xây dựng nền tảng thương mại điện tử số 1 Đông Nam Á, phục vụ 600 triệu người dùng vào năm 2030, vận hành hoàn toàn bởi AI, không phụ thuộc vào con người. Tầm nhìn: mỗi người Việt đều được mua sắm trực tuyến mà không cần bất kỳ ai đọc code. Cột mốc hiện tại: 4 người dùng thực, cơ sở dữ liệu Google Sheets, vốn đã huy động 0 đồng.",
-      "html_url": "https://github.com/harry-brogrammer/cho-viet",
-      "homepage": "https://harry-brogrammer.github.io/cho-viet/",
-      "stars": 21,
-      "forks": 14,
-      "language": "HTML",
-      "topics": [
-        "ai-agents",
-        "google-sheets",
-        "meme",
-        "microservices",
-        "vibe-coding"
-      ],
-      "created_at": "2026-11-20T04:19:17Z",
-      "updated_at": "2026-11-21T05:45:24Z",
-      "pushed_at": "2026-11-20T12:06:04Z"
-    },
-    {
       "id": 1417445101,
       "name": "mcd-receipt-studio",
       "full_name": "lengxi-c/mcd-receipt-studio",
@@ -29575,29 +29879,6 @@
       "created_at": "2026-11-14T18:07:29Z",
       "updated_at": "2026-11-20T01:19:28Z",
       "pushed_at": "2026-11-15T18:39:11Z"
-    },
-    {
-      "id": 1460716130,
-      "name": "nekodrop",
-      "full_name": "zheznanohana/nekodrop",
-      "description": "AirDrop on Windows with your built-in Intel Wi-Fi card — while Wi-Fi stays connected",
-      "html_url": "https://github.com/zheznanohana/nekodrop",
-      "homepage": null,
-      "stars": 20,
-      "forks": 2,
-      "language": "C++",
-      "topics": [
-        "airdrop",
-        "awdl",
-        "cpp20",
-        "csharp",
-        "iwlwifi",
-        "wifi",
-        "windows"
-      ],
-      "created_at": "2026-11-17T00:12:03Z",
-      "updated_at": "2026-11-21T05:49:38Z",
-      "pushed_at": "2026-11-21T06:06:56Z"
     },
     {
       "id": 1409514013,
@@ -30127,6 +30408,35 @@
       "pushed_at": "2026-11-17T05:03:22Z"
     },
     {
+      "id": 1458333679,
+      "name": "NonceSetX",
+      "full_name": "ichitaso/NonceSetX",
+      "description": "Check the APNonce generator / APNonce, save SHSH blobs and set the generator on Dopamine (iOS 15-18, 26). Powered by x8A4.",
+      "html_url": "https://github.com/ichitaso/NonceSetX",
+      "homepage": "https://cydia.ichitaso.com/depiction/noncesetx.html",
+      "stars": 17,
+      "forks": 2,
+      "language": "C",
+      "topics": [
+        "apnonce",
+        "cryptex1",
+        "dopamine",
+        "futurerestore",
+        "ios",
+        "ios26",
+        "jailbreak",
+        "nonce-setter",
+        "roothide",
+        "shsh",
+        "theos",
+        "tsschecker",
+        "x8a4"
+      ],
+      "created_at": "2026-11-15T01:11:10Z",
+      "updated_at": "2026-11-21T10:36:57Z",
+      "pushed_at": "2026-11-17T21:59:33Z"
+    },
+    {
       "id": 1379717308,
       "name": "heygen-mcp.github.io",
       "full_name": "heygen-mcp/heygen-mcp.github.io",
@@ -30416,35 +30726,6 @@
       "created_at": "2026-11-07T10:09:56Z",
       "updated_at": "2026-11-11T00:26:37Z",
       "pushed_at": "2026-11-07T10:26:22Z"
-    },
-    {
-      "id": 1458333679,
-      "name": "NonceSetX",
-      "full_name": "ichitaso/NonceSetX",
-      "description": "Check the APNonce generator / APNonce, save SHSH blobs and set the generator on Dopamine (iOS 15-18, 26). Powered by x8A4.",
-      "html_url": "https://github.com/ichitaso/NonceSetX",
-      "homepage": "https://cydia.ichitaso.com/depiction/noncesetx.html",
-      "stars": 16,
-      "forks": 2,
-      "language": "C",
-      "topics": [
-        "apnonce",
-        "cryptex1",
-        "dopamine",
-        "futurerestore",
-        "ios",
-        "ios26",
-        "jailbreak",
-        "nonce-setter",
-        "roothide",
-        "shsh",
-        "theos",
-        "tsschecker",
-        "x8a4"
-      ],
-      "created_at": "2026-11-15T01:11:10Z",
-      "updated_at": "2026-11-20T18:05:19Z",
-      "pushed_at": "2026-11-17T21:59:33Z"
     },
     {
       "id": 1430113995,
