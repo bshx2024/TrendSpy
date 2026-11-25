@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-25T02:03:09.975Z",
+  "fetchedAt": "2026-11-25T14:01:39.686Z",
   "totalEntitiesScanned": 36,
-  "totalRisingQueries": 9914,
+  "totalRisingQueries": 9921,
   "items": [
     {
       "query": "qwen 2.1",
@@ -838,6 +838,17 @@
       "isBreakout": true,
       "suggestedActionType": "豆包 API 中转接入与衍生应用导航",
       "fetchedAt": "2026-10-30T19:05:04.279Z"
+    },
+    {
+      "query": "mistral ai student plan",
+      "entity": "mistral ai",
+      "entityDisplayName": "Mistral AI",
+      "category": "大语言模型与代码助手",
+      "value": 274000,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
     },
     {
       "query": "vibe ai",
@@ -2435,17 +2446,6 @@
       "fetchedAt": "2026-11-10T17:34:48.848Z"
     },
     {
-      "query": "mistral ai student plan",
-      "entity": "mistral ai",
-      "entityDisplayName": "Mistral AI",
-      "category": "大语言模型与代码助手",
-      "value": 162250,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
-      "fetchedAt": "2026-11-15T19:40:06.156Z"
-    },
-    {
       "query": "runway gen 3",
       "entity": "runway gen-3",
       "entityDisplayName": "Runway Gen-3",
@@ -4039,6 +4039,17 @@
       "isBreakout": true,
       "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
       "fetchedAt": "2026-10-20T21:25:14.259Z"
+    },
+    {
+      "query": "mistral ai ipo",
+      "entity": "mistral ai",
+      "entityDisplayName": "Mistral AI",
+      "category": "大语言模型与代码助手",
+      "value": 103750,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
     },
     {
       "query": "receiptify youtube music",
@@ -7669,17 +7680,6 @@
       "isBreakout": true,
       "suggestedActionType": "Udio 音乐扩展与分轨处理工具单页",
       "fetchedAt": "2026-11-01T00:49:48.072Z"
-    },
-    {
-      "query": "mistral ai ipo",
-      "entity": "mistral ai",
-      "entityDisplayName": "Mistral AI",
-      "category": "大语言模型与代码助手",
-      "value": 36800,
-      "formattedGrowth": "Breakout",
-      "isBreakout": true,
-      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
-      "fetchedAt": "2026-11-22T09:40:18.568Z"
     },
     {
       "query": "character ai",
@@ -83934,6 +83934,61 @@
       "fetchedAt": "2026-11-24T17:15:24.862Z"
     },
     {
+      "query": "elevenlabs prompt character limit",
+      "entity": "elevenlabs",
+      "entityDisplayName": "ElevenLabs",
+      "category": "AI音频与音乐",
+      "value": 16000,
+      "formattedGrowth": "新热搜索",
+      "isBreakout": true,
+      "suggestedActionType": "配音文案转语音助手 / Reader 客户端工具",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
+      "query": "ai voice trend tiktok",
+      "entity": "ai voice",
+      "entityDisplayName": "AI 声音与配音克隆",
+      "category": "AI音频与音乐",
+      "value": 16000,
+      "formattedGrowth": "新热搜索",
+      "isBreakout": true,
+      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
+      "query": "ai trending voice generator",
+      "entity": "ai voice",
+      "entityDisplayName": "AI 声音与配音克隆",
+      "category": "AI音频与音乐",
+      "value": 16000,
+      "formattedGrowth": "新热搜索",
+      "isBreakout": true,
+      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
+      "query": "ai trending voice name",
+      "entity": "ai voice",
+      "entityDisplayName": "AI 声音与配音克隆",
+      "category": "AI音频与音乐",
+      "value": 16000,
+      "formattedGrowth": "新热搜索",
+      "isBreakout": true,
+      "suggestedActionType": "纯前端 Web TTS 语音生成器 / 声音预设库",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
+      "query": "zoo tycoon template",
+      "entity": "tycoon",
+      "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
+      "category": "出海B2C与社媒神器",
+      "value": 16000,
+      "formattedGrowth": "新热搜索",
+      "isBreakout": true,
+      "suggestedActionType": "游戏攻略兑换码、互动点位地图与计算器",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
       "query": "codes for pet store tycoon roblox",
       "entity": "tycoon",
       "entityDisplayName": "Roblox 经营模拟 (Tycoon)",
@@ -87903,6 +87958,17 @@
       "isBreakout": true,
       "suggestedActionType": "网红同款 AI 滤镜单页 / 提示词逆向库",
       "fetchedAt": "2026-10-29T05:01:19.074Z"
+    },
+    {
+      "query": "opencode go",
+      "entity": "mistral ai",
+      "entityDisplayName": "Mistral AI",
+      "category": "大语言模型与代码助手",
+      "value": 9700,
+      "formattedGrowth": "Breakout",
+      "isBreakout": true,
+      "suggestedActionType": "Mistral 本地部署脚本与在线体验壳",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
     },
     {
       "query": "oil and filter change near me",
@@ -95935,17 +96001,6 @@
       "fetchedAt": "2026-10-13T18:40:34.303Z"
     },
     {
-      "query": "opencode go",
-      "entity": "qwen",
-      "entityDisplayName": "阿里通义千问 (Qwen)",
-      "category": "大语言模型与代码助手",
-      "value": 400,
-      "formattedGrowth": "+400%",
-      "isBreakout": false,
-      "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
-      "fetchedAt": "2026-10-13T18:40:34.303Z"
-    },
-    {
       "query": "treblo",
       "entity": "udio",
       "entityDisplayName": "Udio AI",
@@ -98410,6 +98465,17 @@
       "fetchedAt": "2026-11-23T06:40:23.185Z"
     },
     {
+      "query": "openai aktie",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 250,
+      "formattedGrowth": "+250%",
+      "isBreakout": false,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
       "query": "qwen 3.8 next",
       "entity": "qwen",
       "entityDisplayName": "阿里通义千问 (Qwen)",
@@ -99794,17 +99860,6 @@
       "isBreakout": false,
       "suggestedActionType": "Leaflet 交互地图与配种计算器",
       "fetchedAt": "2026-11-24T04:42:50.992Z"
-    },
-    {
-      "query": "openai aktie",
-      "entity": "openai",
-      "entityDisplayName": "OpenAI / ChatGPT",
-      "category": "大语言模型与代码助手",
-      "value": 180,
-      "formattedGrowth": "+180%",
-      "isBreakout": false,
-      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
-      "fetchedAt": "2026-11-25T02:03:09.975Z"
     },
     {
       "query": "luke bryan ai song",
@@ -101391,6 +101446,17 @@
       "fetchedAt": "2026-11-24T04:42:50.992Z"
     },
     {
+      "query": "suno mcp",
+      "entity": "suno",
+      "entityDisplayName": "Suno AI",
+      "category": "AI音频与音乐",
+      "value": 140,
+      "formattedGrowth": "+140%",
+      "isBreakout": false,
+      "suggestedActionType": "Suno 风格提示词/歌词排版生成器",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
       "query": "download lagu suno",
       "entity": "suno",
       "entityDisplayName": "Suno AI",
@@ -101840,17 +101906,6 @@
       "isBreakout": false,
       "suggestedActionType": "Qwen 开源模型 WebUI 部署助手与 Prompts 库",
       "fetchedAt": "2026-11-20T16:50:35.448Z"
-    },
-    {
-      "query": "suno mcp",
-      "entity": "suno",
-      "entityDisplayName": "Suno AI",
-      "category": "AI音频与音乐",
-      "value": 130,
-      "formattedGrowth": "+130%",
-      "isBreakout": false,
-      "suggestedActionType": "Suno 风格提示词/歌词排版生成器",
-      "fetchedAt": "2026-11-20T23:49:29.760Z"
     },
     {
       "query": "fusion droids droid tycoon",
@@ -105032,6 +105087,28 @@
       "fetchedAt": "2026-11-23T06:40:23.185Z"
     },
     {
+      "query": "openai login",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 80,
+      "formattedGrowth": "+80%",
+      "isBreakout": false,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
+      "query": "suno music downloader free",
+      "entity": "suno",
+      "entityDisplayName": "Suno AI",
+      "category": "AI音频与音乐",
+      "value": 80,
+      "formattedGrowth": "+80%",
+      "isBreakout": false,
+      "suggestedActionType": "Suno 风格提示词/歌词排版生成器",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
+    },
+    {
       "query": "anti ai filter",
       "entity": "ai filter",
       "entityDisplayName": "AI 滤镜与特效",
@@ -105492,17 +105569,6 @@
       "isBreakout": false,
       "suggestedActionType": "视频生成提示词工具 / 声音克隆展示单页",
       "fetchedAt": "2026-11-08T05:17:01.086Z"
-    },
-    {
-      "query": "openai login",
-      "entity": "openai",
-      "entityDisplayName": "OpenAI / ChatGPT",
-      "category": "大语言模型与代码助手",
-      "value": 70,
-      "formattedGrowth": "+70%",
-      "isBreakout": false,
-      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
-      "fetchedAt": "2026-11-08T12:59:44.925Z"
     },
     {
       "query": "palantir stock",
@@ -106946,17 +107012,6 @@
       "fetchedAt": "2026-11-19T22:01:31.063Z"
     },
     {
-      "query": "suno music downloader free",
-      "entity": "suno",
-      "entityDisplayName": "Suno AI",
-      "category": "AI音频与音乐",
-      "value": 60,
-      "formattedGrowth": "+60%",
-      "isBreakout": false,
-      "suggestedActionType": "Suno 风格提示词/歌词排版生成器",
-      "fetchedAt": "2026-11-19T22:01:31.063Z"
-    },
-    {
       "query": "song ai generator",
       "entity": "ai song",
       "entityDisplayName": "AI 音乐与歌曲生成",
@@ -107131,6 +107186,17 @@
       "isBreakout": false,
       "suggestedActionType": "即梦/Seedance 工作流与爆款运镜提示词库",
       "fetchedAt": "2026-11-24T17:15:24.862Z"
+    },
+    {
+      "query": "gpt openai",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 60,
+      "formattedGrowth": "+60%",
+      "isBreakout": false,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
     },
     {
       "query": "palworld steam",
@@ -108167,17 +108233,6 @@
       "fetchedAt": "2026-11-14T22:09:11.922Z"
     },
     {
-      "query": "gpt openai",
-      "entity": "openai",
-      "entityDisplayName": "OpenAI / ChatGPT",
-      "category": "大语言模型与代码助手",
-      "value": 50,
-      "formattedGrowth": "+50%",
-      "isBreakout": false,
-      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
-      "fetchedAt": "2026-11-15T13:42:19.885Z"
-    },
-    {
       "query": "lettuce seeds palworld",
       "entity": "palworld",
       "entityDisplayName": "Palworld (幻兽帕鲁)",
@@ -108451,6 +108506,17 @@
       "isBreakout": false,
       "suggestedActionType": "Meta 智能体应用导航 / Llama 本地微调指南",
       "fetchedAt": "2026-11-24T04:42:50.992Z"
+    },
+    {
+      "query": "azure openai",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 50,
+      "formattedGrowth": "+50%",
+      "isBreakout": false,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
     },
     {
       "query": "meta ads",
@@ -109056,6 +109122,17 @@
       "isBreakout": false,
       "suggestedActionType": "即梦/Seedance 工作流与爆款运镜提示词库",
       "fetchedAt": "2026-11-24T17:15:24.862Z"
+    },
+    {
+      "query": "chat openai",
+      "entity": "openai",
+      "entityDisplayName": "OpenAI / ChatGPT",
+      "category": "大语言模型与代码助手",
+      "value": 40,
+      "formattedGrowth": "+40%",
+      "isBreakout": false,
+      "suggestedActionType": "GPTs 发现导航 / 免登录逆向助手",
+      "fetchedAt": "2026-11-25T14:01:39.686Z"
     }
   ]
 }
