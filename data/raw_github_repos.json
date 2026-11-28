@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026/11/28 06:33:42",
-  "total_repos": 1529,
+  "fetched_at": "2026/11/28 15:00:08",
+  "total_repos": 1581,
   "repos": [
     {
       "id": 1466772859,
@@ -529,12 +529,12 @@
       "description": "Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose à la fois.",
       "html_url": "https://github.com/0x1A6C1A9Y/focus-clock",
       "homepage": null,
-      "stars": 564,
+      "stars": 562,
       "forks": 3,
       "language": "HTML",
       "topics": [],
       "created_at": "2026-11-26T13:54:20Z",
-      "updated_at": "2026-11-27T18:55:52Z",
+      "updated_at": "2026-11-28T06:42:16Z",
       "pushed_at": "2026-11-26T13:57:06Z"
     },
     {
@@ -714,6 +714,28 @@
       "pushed_at": "2026-11-12T14:33:16Z"
     },
     {
+      "id": 1471546451,
+      "name": "inkworks-skill",
+      "full_name": "Moh4696/inkworks-skill",
+      "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+      "html_url": "https://github.com/Moh4696/inkworks-skill",
+      "homepage": "https://x.com/exploraX_",
+      "stars": 547,
+      "forks": 56,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "agent-skills",
+        "claude-code",
+        "education",
+        "explainer",
+        "threejs"
+      ],
+      "created_at": "2026-11-25T09:26:33Z",
+      "updated_at": "2026-11-28T06:42:41Z",
+      "pushed_at": "2026-11-25T13:53:35Z"
+    },
+    {
       "id": 1446545253,
       "name": "Exodus-Fake-Balance",
       "full_name": "Danuse84/Exodus-Fake-Balance",
@@ -835,28 +857,6 @@
       "created_at": "2026-09-20T05:05:12Z",
       "updated_at": "2026-09-24T03:37:49Z",
       "pushed_at": "2026-09-20T05:05:16Z"
-    },
-    {
-      "id": 1471546451,
-      "name": "inkworks-skill",
-      "full_name": "Moh4696/inkworks-skill",
-      "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
-      "html_url": "https://github.com/Moh4696/inkworks-skill",
-      "homepage": "https://x.com/exploraX_",
-      "stars": 533,
-      "forks": 54,
-      "language": "JavaScript",
-      "topics": [
-        "3d",
-        "agent-skills",
-        "claude-code",
-        "education",
-        "explainer",
-        "threejs"
-      ],
-      "created_at": "2026-11-25T09:26:33Z",
-      "updated_at": "2026-11-27T21:37:26Z",
-      "pushed_at": "2026-11-25T13:53:35Z"
     },
     {
       "id": 1410661601,
@@ -2467,6 +2467,42 @@
       "pushed_at": "2026-11-02T14:10:19Z"
     },
     {
+      "id": 1471379034,
+      "name": "rea-games",
+      "full_name": "erkamyaman/rea-games",
+      "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
+      "html_url": "https://github.com/erkamyaman/rea-games",
+      "homepage": "https://erkamyaman.github.io/rea-games",
+      "stars": 436,
+      "forks": 92,
+      "language": "JavaScript",
+      "topics": [
+        "2048",
+        "agent-skills",
+        "bevy",
+        "canvas",
+        "claude-code",
+        "clean-room",
+        "codex",
+        "deterministic",
+        "game",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "godot",
+        "html5-game",
+        "javascript",
+        "rea",
+        "replay",
+        "reverse-engineering",
+        "rust",
+        "testing"
+      ],
+      "created_at": "2026-11-25T06:44:20Z",
+      "updated_at": "2026-11-28T06:28:15Z",
+      "pushed_at": "2026-11-27T20:44:14Z"
+    },
+    {
       "id": 1424201691,
       "name": "nanoui",
       "full_name": "justrach/nanoui",
@@ -2845,42 +2881,6 @@
       "created_at": "2026-11-21T16:02:50Z",
       "updated_at": "2026-11-23T06:28:55Z",
       "pushed_at": "2026-11-21T16:07:49Z"
-    },
-    {
-      "id": 1471379034,
-      "name": "rea-games",
-      "full_name": "erkamyaman/rea-games",
-      "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
-      "html_url": "https://github.com/erkamyaman/rea-games",
-      "homepage": "https://erkamyaman.github.io/rea-games",
-      "stars": 415,
-      "forks": 83,
-      "language": "JavaScript",
-      "topics": [
-        "2048",
-        "agent-skills",
-        "bevy",
-        "canvas",
-        "claude-code",
-        "clean-room",
-        "codex",
-        "deterministic",
-        "game",
-        "game-development",
-        "game-engine",
-        "gamedev",
-        "godot",
-        "html5-game",
-        "javascript",
-        "rea",
-        "replay",
-        "reverse-engineering",
-        "rust",
-        "testing"
-      ],
-      "created_at": "2026-11-25T06:44:20Z",
-      "updated_at": "2026-11-27T22:11:14Z",
-      "pushed_at": "2026-11-27T20:44:14Z"
     },
     {
       "id": 1397016507,
@@ -4565,6 +4565,32 @@
       "pushed_at": "2026-11-20T19:16:27Z"
     },
     {
+      "id": 1468977659,
+      "name": "shrink-anything",
+      "full_name": "EL4CTEO/shrink-anything",
+      "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+      "html_url": "https://github.com/EL4CTEO/shrink-anything",
+      "homepage": null,
+      "stars": 399,
+      "forks": 21,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "bundle-size",
+        "claude-code",
+        "cli",
+        "code-cleanup",
+        "dead-code",
+        "mcp",
+        "refactoring",
+        "rust",
+        "unused-dependencies"
+      ],
+      "created_at": "2026-11-23T15:55:48Z",
+      "updated_at": "2026-11-28T06:44:52Z",
+      "pushed_at": "2026-11-27T16:23:41Z"
+    },
+    {
       "id": 1450111979,
       "name": "movavi-converter",
       "full_name": "StellarPigeon/movavi-converter",
@@ -5138,32 +5164,6 @@
       "created_at": "2026-09-30T10:26:35Z",
       "updated_at": "2026-10-06T17:21:07Z",
       "pushed_at": "2026-10-02T03:38:49Z"
-    },
-    {
-      "id": 1468977659,
-      "name": "shrink-anything",
-      "full_name": "EL4CTEO/shrink-anything",
-      "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
-      "html_url": "https://github.com/EL4CTEO/shrink-anything",
-      "homepage": null,
-      "stars": 389,
-      "forks": 21,
-      "language": "Rust",
-      "topics": [
-        "ai-agents",
-        "bundle-size",
-        "claude-code",
-        "cli",
-        "code-cleanup",
-        "dead-code",
-        "mcp",
-        "refactoring",
-        "rust",
-        "unused-dependencies"
-      ],
-      "created_at": "2026-11-23T15:55:48Z",
-      "updated_at": "2026-11-27T21:27:48Z",
-      "pushed_at": "2026-11-27T16:23:41Z"
     },
     {
       "id": 1448760852,
@@ -12648,6 +12648,38 @@
       "pushed_at": "2026-11-02T22:36:33Z"
     },
     {
+      "id": 1467736489,
+      "name": "clipy",
+      "full_name": "clipy-recorder/clipy",
+      "description": "The AI-native screen recorder. Record your screen and talk; the people you share it with and your AI agents both get it.",
+      "html_url": "https://github.com/clipy-recorder/clipy",
+      "homepage": "https://clipy.online",
+      "stars": 239,
+      "forks": 1264,
+      "language": "Rust",
+      "topics": [
+        "agent-readable",
+        "ai-agents",
+        "arec",
+        "claude-code",
+        "codex",
+        "cursor",
+        "local-first",
+        "macos",
+        "privacy",
+        "rust",
+        "screen-recorder",
+        "screen-recording",
+        "tauri",
+        "transcription",
+        "typescript",
+        "windows"
+      ],
+      "created_at": "2026-11-22T16:08:49Z",
+      "updated_at": "2026-11-28T06:59:25Z",
+      "pushed_at": "2026-11-27T14:58:48Z"
+    },
+    {
       "id": 1446390889,
       "name": "best-agent-memory-mcp",
       "full_name": "Glen-Web-App/best-agent-memory-mcp",
@@ -12949,6 +12981,27 @@
       "created_at": "2026-11-04T08:42:02Z",
       "updated_at": "2026-11-05T17:08:48Z",
       "pushed_at": "2026-11-04T08:42:08Z"
+    },
+    {
+      "id": 1475053817,
+      "name": "fluxus-executor",
+      "full_name": "Gary166/fluxus-executor",
+      "description": "Runs Lua scripts against a local Fluxus build for testing.",
+      "html_url": "https://github.com/Gary166/fluxus-executor",
+      "homepage": null,
+      "stars": 231,
+      "forks": 18,
+      "language": "Go",
+      "topics": [
+        "fluxus",
+        "fluxus-executor",
+        "luau",
+        "roblox",
+        "roblox-executor"
+      ],
+      "created_at": "2026-11-28T00:57:06Z",
+      "updated_at": "2026-11-28T06:27:17Z",
+      "pushed_at": "2026-11-28T04:56:42Z"
     },
     {
       "id": 1445372499,
@@ -13416,6 +13469,48 @@
       "pushed_at": "2026-11-06T17:23:56Z"
     },
     {
+      "id": 1475099788,
+      "name": "pump-fun-volume-bot-cli-suite",
+      "full_name": "deborahpolyakov49/pump-fun-volume-bot-cli-suite",
+      "description": "Pump.fun Volume Bot — Pump.fun Volume Bot Portable & Windows Setup",
+      "html_url": "https://github.com/deborahpolyakov49/pump-fun-volume-bot-cli-suite",
+      "homepage": null,
+      "stars": 220,
+      "forks": 12,
+      "language": "Go",
+      "topics": [
+        "pump-fun-volume-bot",
+        "pump-fun-volume-bot-portable",
+        "pump-fun-volume-bot-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-28T02:18:03Z",
+      "updated_at": "2026-11-28T06:47:44Z",
+      "pushed_at": "2026-11-28T04:54:33Z"
+    },
+    {
+      "id": 1475099795,
+      "name": "pump-fun-bundler-bot-cli-suite",
+      "full_name": "DawidDiaz99/pump-fun-bundler-bot-cli-suite",
+      "description": "Pump.fun Bundler Bot — Pump.fun Bundler Bot Portable & Windows Setup",
+      "html_url": "https://github.com/DawidDiaz99/pump-fun-bundler-bot-cli-suite",
+      "homepage": null,
+      "stars": 220,
+      "forks": 11,
+      "language": "Go",
+      "topics": [
+        "pump-fun-bundler-bot",
+        "pump-fun-bundler-bot-portable",
+        "pump-fun-bundler-bot-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-28T02:18:03Z",
+      "updated_at": "2026-11-28T06:47:44Z",
+      "pushed_at": "2026-11-28T04:54:31Z"
+    },
+    {
       "id": 1448547511,
       "name": "robux-generator",
       "full_name": "megaoriolesound/robux-generator",
@@ -13446,6 +13541,48 @@
       "created_at": "2026-11-06T17:24:38Z",
       "updated_at": "2026-11-07T18:14:28Z",
       "pushed_at": "2026-11-06T17:24:45Z"
+    },
+    {
+      "id": 1475037307,
+      "name": "open-webui-pro-patcher-installer",
+      "full_name": "tCardoso8070/open-webui-pro-patcher-installer",
+      "description": "Open WebUI — Open WebUI Portable & Windows Setup",
+      "html_url": "https://github.com/tCardoso8070/open-webui-pro-patcher-installer",
+      "homepage": null,
+      "stars": 219,
+      "forks": 5,
+      "language": "Go",
+      "topics": [
+        "open-webui",
+        "open-webui-portable",
+        "open-webui-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-28T00:28:49Z",
+      "updated_at": "2026-11-28T06:47:15Z",
+      "pushed_at": "2026-11-28T04:53:47Z"
+    },
+    {
+      "id": 1475099442,
+      "name": "text-generation-webui-oobabooga-desktop-suite",
+      "full_name": "CarolynWeiss18645/text-generation-webui-oobabooga-desktop-suite",
+      "description": "Text Generation WebUI (Oobabooga) — Text Generation WebUI (Oobabooga) Portable & Windows Setup",
+      "html_url": "https://github.com/CarolynWeiss18645/text-generation-webui-oobabooga-desktop-suite",
+      "homepage": null,
+      "stars": 218,
+      "forks": 5,
+      "language": "Go",
+      "topics": [
+        "text-generation-webui-ooba",
+        "text-generation-webui-ooba-portable",
+        "text-generation-webui-ooba-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-28T02:17:32Z",
+      "updated_at": "2026-11-28T06:47:24Z",
+      "pushed_at": "2026-11-28T04:53:43Z"
     },
     {
       "id": 1467052902,
@@ -14184,6 +14321,27 @@
       "pushed_at": "2026-11-21T22:03:45Z"
     },
     {
+      "id": 1475053543,
+      "name": "my-avatar-roblox-script",
+      "full_name": "dmerkel51884/my-avatar-roblox-script",
+      "description": "My Avatar! Script — My Avatar! Roblox Script & Auto Farm GUI",
+      "html_url": "https://github.com/dmerkel51884/my-avatar-roblox-script",
+      "homepage": null,
+      "stars": 205,
+      "forks": 5,
+      "language": "Go",
+      "topics": [
+        "my-avatar",
+        "my-avatar-roblox-script",
+        "my-avatar-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "created_at": "2026-11-28T00:56:40Z",
+      "updated_at": "2026-11-28T06:47:26Z",
+      "pushed_at": "2026-11-28T04:54:03Z"
+    },
+    {
       "id": 1414287839,
       "name": "anima",
       "full_name": "Garinmckayl/anima",
@@ -14354,6 +14512,21 @@
       "created_at": "2026-10-17T19:10:45Z",
       "updated_at": "2026-10-18T00:26:09Z",
       "pushed_at": "2026-10-17T19:10:52Z"
+    },
+    {
+      "id": 1472874299,
+      "name": "mcp",
+      "full_name": "es-ine/mcp",
+      "description": "MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, retrieve and analyze reliable data using natural language.",
+      "html_url": "https://github.com/es-ine/mcp",
+      "homepage": null,
+      "stars": 203,
+      "forks": 7,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-26T08:25:48Z",
+      "updated_at": "2026-11-28T05:43:57Z",
+      "pushed_at": "2026-11-27T09:42:52Z"
     },
     {
       "id": 1376284519,
@@ -15879,6 +16052,53 @@
       "pushed_at": "2026-11-10T09:24:11Z"
     },
     {
+      "id": 1475099433,
+      "name": "tcg-card-shop-simulator-pc-mod-menu",
+      "full_name": "brendamenon6954/tcg-card-shop-simulator-pc-mod-menu",
+      "description": "TCG Card Shop Simulator Cheat — TCG Card Shop Simulator Cheats, Trainer & Mod Menu",
+      "html_url": "https://github.com/brendamenon6954/tcg-card-shop-simulator-pc-mod-menu",
+      "homepage": null,
+      "stars": 196,
+      "forks": 8,
+      "language": "Go",
+      "topics": [
+        "tcg-card-shop-simulator",
+        "tcg-card-shop-simulator-cheat",
+        "tcg-card-shop-simulator-cheats",
+        "tcg-card-shop-simulator-mod-menu",
+        "tcg-card-shop-simulator-trainer"
+      ],
+      "created_at": "2026-11-28T02:17:32Z",
+      "updated_at": "2026-11-28T06:47:33Z",
+      "pushed_at": "2026-11-28T04:52:59Z"
+    },
+    {
+      "id": 1472261422,
+      "name": "frontend-design-skill",
+      "full_name": "uxpilot-ai/frontend-design-skill",
+      "description": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code",
+      "html_url": "https://github.com/uxpilot-ai/frontend-design-skill",
+      "homepage": "https://uxpilot.ai/skills/frontend-design-skill",
+      "stars": 196,
+      "forks": 4,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "design-to-code",
+        "frontend-design",
+        "mcp",
+        "ui-design",
+        "web-design"
+      ],
+      "created_at": "2026-11-25T19:40:33Z",
+      "updated_at": "2026-11-27T17:45:57Z",
+      "pushed_at": "2026-11-25T19:40:41Z"
+    },
+    {
       "id": 1466572361,
       "name": "davinci-resolve-sanolen-color-studio",
       "full_name": "Daniel451legend/davinci-resolve-sanolen-color-studio",
@@ -16610,6 +16830,28 @@
       "pushed_at": "2026-10-31T07:21:42Z"
     },
     {
+      "id": 1472959361,
+      "name": "ui-moments",
+      "full_name": "guanmo-ai/ui-moments",
+      "description": "A hands-on gallery of interactive UI and motion",
+      "html_url": "https://github.com/guanmo-ai/ui-moments",
+      "homepage": "https://guanmo-ai.github.io/ui-moments/",
+      "stars": 183,
+      "forks": 27,
+      "language": "JavaScript",
+      "topics": [
+        "animation",
+        "design",
+        "gallery",
+        "micro-interactions",
+        "motion",
+        "ui"
+      ],
+      "created_at": "2026-11-26T09:44:40Z",
+      "updated_at": "2026-11-28T06:31:24Z",
+      "pushed_at": "2026-11-28T05:47:02Z"
+    },
+    {
       "id": 1451221567,
       "name": "spamscam",
       "full_name": "khazuly/spamscam",
@@ -16668,6 +16910,100 @@
       "created_at": "2026-10-21T22:53:01Z",
       "updated_at": "2026-10-27T21:56:18Z",
       "pushed_at": "2026-10-22T11:43:17Z"
+    },
+    {
+      "id": 1471807449,
+      "name": "Keshin2D",
+      "full_name": "rotejin/Keshin2D",
+      "description": "キャラクターの絵をブラウザで動かす 2D アバター。絵 1 枚から、自分のキャラクターのモデルも作れます",
+      "html_url": "https://github.com/rotejin/Keshin2D",
+      "homepage": "https://rotejin.github.io/Keshin2D/",
+      "stars": 180,
+      "forks": 11,
+      "language": "Python",
+      "topics": [
+        "avatar",
+        "character",
+        "codex",
+        "face-tracking",
+        "image-generation",
+        "lip-sync",
+        "mediapipe",
+        "obs",
+        "pngtuber",
+        "vtuber",
+        "webgl2"
+      ],
+      "created_at": "2026-11-25T13:19:07Z",
+      "updated_at": "2026-11-28T05:24:26Z",
+      "pushed_at": "2026-11-25T14:11:29Z"
+    },
+    {
+      "id": 1475101580,
+      "name": "text-generation-webui-desktop-suite",
+      "full_name": "leclerc0900/text-generation-webui-desktop-suite",
+      "description": "Text Generation WebUI — Text Generation WebUI Portable & Windows Setup",
+      "html_url": "https://github.com/leclerc0900/text-generation-webui-desktop-suite",
+      "homepage": null,
+      "stars": 180,
+      "forks": 9,
+      "language": "Go",
+      "topics": [
+        "text-generation-webui",
+        "text-generation-webui-portable",
+        "text-generation-webui-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-28T02:20:30Z",
+      "updated_at": "2026-11-28T06:48:35Z",
+      "pushed_at": "2026-11-28T04:56:01Z"
+    },
+    {
+      "id": 1474967947,
+      "name": "stable-diffusion-webui-pro-patcher-installer",
+      "full_name": "iLeroy829/stable-diffusion-webui-pro-patcher-installer",
+      "description": "Stable Diffusion WebUI — Stable Diffusion WebUI Portable & Windows Setup",
+      "html_url": "https://github.com/iLeroy829/stable-diffusion-webui-pro-patcher-installer",
+      "homepage": null,
+      "stars": 180,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "stable-diffusion-webui",
+        "stable-diffusion-webui-portable",
+        "stable-diffusion-webui-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:33:14Z",
+      "updated_at": "2026-11-28T06:47:23Z",
+      "pushed_at": "2026-11-28T04:55:52Z"
+    },
+    {
+      "id": 1474322918,
+      "name": "deadlock-fps-fix",
+      "full_name": "Dragonclavelocity/deadlock-fps-fix",
+      "description": "Deadlock FPS boost and settings tool for Windows: FPS presets for your PC, custom FOV, stretched resolution, shader cache clear to fix stutter and lag. Free, open source.",
+      "html_url": "https://github.com/Dragonclavelocity/deadlock-fps-fix",
+      "homepage": null,
+      "stars": 180,
+      "forks": 11,
+      "language": "Rust",
+      "topics": [
+        "deadlock",
+        "deadlock-fps",
+        "fov-changer",
+        "fps-boost",
+        "fps-fix",
+        "low-end-pc",
+        "stretched-resolution",
+        "stutter-fix",
+        "valve"
+      ],
+      "created_at": "2026-11-27T11:02:10Z",
+      "updated_at": "2026-11-28T06:54:25Z",
+      "pushed_at": "2026-11-27T12:02:54Z"
     },
     {
       "id": 1431599449,
@@ -16729,6 +17065,84 @@
       "pushed_at": "2026-11-09T11:55:03Z"
     },
     {
+      "id": 1474931639,
+      "name": "albion-online-trainer-mod-menu",
+      "full_name": "lucaslang923/albion-online-trainer-mod-menu",
+      "description": "Albion Online Cheat — Albion Online Cheats, Trainer & Mod Menu",
+      "html_url": "https://github.com/lucaslang923/albion-online-trainer-mod-menu",
+      "homepage": null,
+      "stars": 179,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "albion-online",
+        "albion-online-cheat",
+        "albion-online-cheats",
+        "albion-online-mod-menu",
+        "albion-online-trainer"
+      ],
+      "created_at": "2026-11-27T21:40:38Z",
+      "updated_at": "2026-11-28T06:47:03Z",
+      "pushed_at": "2026-11-28T04:56:51Z"
+    },
+    {
+      "id": 1475100219,
+      "name": "the-elder-scrolls-online-pc-mod-menu",
+      "full_name": "garcia7048/the-elder-scrolls-online-pc-mod-menu",
+      "description": "The Elder Scrolls Online Cheat — The Elder Scrolls Online Cheats, Trainer & Mod Menu",
+      "html_url": "https://github.com/garcia7048/the-elder-scrolls-online-pc-mod-menu",
+      "homepage": null,
+      "stars": 179,
+      "forks": 12,
+      "language": "Go",
+      "topics": [
+        "the-elder-scrolls-online",
+        "the-elder-scrolls-online-cheat",
+        "the-elder-scrolls-online-cheats",
+        "the-elder-scrolls-online-mod-menu",
+        "the-elder-scrolls-online-trainer"
+      ],
+      "created_at": "2026-11-28T02:18:36Z",
+      "updated_at": "2026-11-28T06:48:29Z",
+      "pushed_at": "2026-11-28T04:56:34Z"
+    },
+    {
+      "id": 1473264507,
+      "name": "AgntX-Hunter",
+      "full_name": "Monesgoda/AgntX-Hunter",
+      "description": "penetration-testing / Bug Hunting / Red team  agent framework for OpenCode — 17 scope-gated agents, evidence-first validation, mandatory human review.",
+      "html_url": "https://github.com/Monesgoda/AgntX-Hunter",
+      "homepage": null,
+      "stars": 179,
+      "forks": 38,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-26T14:22:37Z",
+      "updated_at": "2026-11-28T05:36:00Z",
+      "pushed_at": "2026-11-26T15:32:21Z"
+    },
+    {
+      "id": 1475102389,
+      "name": "gpo-grand-piece-online-roblox-script",
+      "full_name": "mbrouwer6868/gpo-grand-piece-online-roblox-script",
+      "description": "GPO Grand Piece Online Script — GPO Grand Piece Online Roblox Script & Auto Farm GUI",
+      "html_url": "https://github.com/mbrouwer6868/gpo-grand-piece-online-roblox-script",
+      "homepage": null,
+      "stars": 178,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "gpo-grand-piece-online",
+        "gpo-grand-piece-online-roblox-scrip",
+        "gpo-grand-piece-online-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "created_at": "2026-11-28T02:21:37Z",
+      "updated_at": "2026-11-28T06:27:42Z",
+      "pushed_at": "2026-11-28T04:55:35Z"
+    },
+    {
       "id": 1457892194,
       "name": "crypto-panic",
       "full_name": "Logosheshow47/crypto-panic",
@@ -16776,6 +17190,30 @@
       "created_at": "2026-11-24T18:46:08Z",
       "updated_at": "2026-11-25T01:31:56Z",
       "pushed_at": "2026-11-25T00:41:40Z"
+    },
+    {
+      "id": 1471332130,
+      "name": "temu3code",
+      "full_name": "realchendahuang/temu3code",
+      "description": "Temu3 Code (temu3code.com) — Independent 18-language public-record archive, Tmail inbox, original X receipts, and 61-meme arsenal auditing pingdotgg/t3code & @theo.",
+      "html_url": "https://github.com/realchendahuang/temu3code",
+      "homepage": "https://temu3code.com",
+      "stars": 176,
+      "forks": 11,
+      "language": "HTML",
+      "topics": [
+        "github-pages",
+        "i18n",
+        "open-source",
+        "privacy",
+        "security-audit",
+        "security-research",
+        "t3code",
+        "telemetry"
+      ],
+      "created_at": "2026-11-25T05:57:29Z",
+      "updated_at": "2026-11-28T06:53:33Z",
+      "pushed_at": "2026-11-28T03:41:54Z"
     },
     {
       "id": 1415913339,
@@ -16909,6 +17347,27 @@
       "pushed_at": "2026-11-25T15:15:07Z"
     },
     {
+      "id": 1474967630,
+      "name": "android-sdk-platform-tools-pro-patcher-installer",
+      "full_name": "GubodoFo27/android-sdk-platform-tools-pro-patcher-installer",
+      "description": "Android SDK Platform-Tools — Android SDK Platform-Tools Portable & Windows Setup",
+      "html_url": "https://github.com/GubodoFo27/android-sdk-platform-tools-pro-patcher-installer",
+      "homepage": null,
+      "stars": 174,
+      "forks": 12,
+      "language": "Go",
+      "topics": [
+        "android-sdk-platform-tools",
+        "android-sdk-platform-tools-portable",
+        "android-sdk-platform-tools-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:32:51Z",
+      "updated_at": "2026-11-28T06:47:21Z",
+      "pushed_at": "2026-11-28T04:55:10Z"
+    },
+    {
       "id": 1422491888,
       "name": "idx",
       "full_name": "fzn0x/idx",
@@ -16958,31 +17417,26 @@
       "pushed_at": "2026-11-07T10:42:38Z"
     },
     {
-      "id": 1471807449,
-      "name": "Keshin2D",
-      "full_name": "rotejin/Keshin2D",
-      "description": "キャラクターの絵をブラウザで動かす 2D アバター。絵 1 枚から、自分のキャラクターのモデルも作れます",
-      "html_url": "https://github.com/rotejin/Keshin2D",
-      "homepage": "https://rotejin.github.io/Keshin2D/",
+      "id": 1470565350,
+      "name": "Persistent-Agent",
+      "full_name": "langchain-samples/Persistent-Agent",
+      "description": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
+      "html_url": "https://github.com/langchain-samples/Persistent-Agent",
+      "homepage": null,
       "stars": 173,
-      "forks": 10,
+      "forks": 16,
       "language": "Python",
       "topics": [
-        "avatar",
-        "character",
-        "codex",
-        "face-tracking",
-        "image-generation",
-        "lip-sync",
-        "mediapipe",
-        "obs",
-        "pngtuber",
-        "vtuber",
-        "webgl2"
+        "agent-template",
+        "ai-agents",
+        "deep-agents",
+        "langchain",
+        "langsmith",
+        "slack-bot"
       ],
-      "created_at": "2026-11-25T13:19:07Z",
-      "updated_at": "2026-11-27T21:02:03Z",
-      "pushed_at": "2026-11-25T14:11:29Z"
+      "created_at": "2026-11-24T17:52:40Z",
+      "updated_at": "2026-11-28T06:16:59Z",
+      "pushed_at": "2026-11-25T18:01:24Z"
     },
     {
       "id": 1469950659,
@@ -17159,6 +17613,25 @@
       "pushed_at": "2026-11-20T00:53:16Z"
     },
     {
+      "id": 1475243056,
+      "name": "pump-fun-bot",
+      "full_name": "AlessioCarvalho157/pump-fun-bot",
+      "description": "Pump Fun Bot — Pump Fun Bot",
+      "html_url": "https://github.com/AlessioCarvalho157/pump-fun-bot",
+      "homepage": null,
+      "stars": 169,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "pump-fun",
+        "pump-fun-bot",
+        "pumpfun-bot"
+      ],
+      "created_at": "2026-11-28T05:40:49Z",
+      "updated_at": "2026-11-28T06:47:48Z",
+      "pushed_at": "2026-11-28T05:41:00Z"
+    },
+    {
       "id": 1412301770,
       "name": "datasets",
       "full_name": "toddrjones/datasets",
@@ -17211,6 +17684,69 @@
       "created_at": "2026-10-28T04:27:38Z",
       "updated_at": "2026-11-03T18:28:33Z",
       "pushed_at": "2026-11-03T18:28:27Z"
+    },
+    {
+      "id": 1475024978,
+      "name": "metamask-tools-pro-patcher-installer",
+      "full_name": "alexeibrown263/metamask-tools-pro-patcher-installer",
+      "description": "MetaMask Tools — MetaMask Tools Portable & Windows Setup",
+      "html_url": "https://github.com/alexeibrown263/metamask-tools-pro-patcher-installer",
+      "homepage": null,
+      "stars": 168,
+      "forks": 11,
+      "language": "Go",
+      "topics": [
+        "metamask-tools",
+        "metamask-tools-portable",
+        "metamask-tools-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-28T00:07:12Z",
+      "updated_at": "2026-11-28T06:47:43Z",
+      "pushed_at": "2026-11-28T04:54:49Z"
+    },
+    {
+      "id": 1474976654,
+      "name": "rabby-wallet-tools-pro-patcher-installer",
+      "full_name": "TerrySun55/rabby-wallet-tools-pro-patcher-installer",
+      "description": "Rabby Wallet Tools — Rabby Wallet Tools Portable & Windows Setup",
+      "html_url": "https://github.com/TerrySun55/rabby-wallet-tools-pro-patcher-installer",
+      "homepage": null,
+      "stars": 168,
+      "forks": 11,
+      "language": "Go",
+      "topics": [
+        "rabby-wallet-tools",
+        "rabby-wallet-tools-portable",
+        "rabby-wallet-tools-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:46:11Z",
+      "updated_at": "2026-11-28T06:47:24Z",
+      "pushed_at": "2026-11-28T04:54:51Z"
+    },
+    {
+      "id": 1474976643,
+      "name": "phantom-wallet-tools-pro-patcher-installer",
+      "full_name": "TeresaTruong87/phantom-wallet-tools-pro-patcher-installer",
+      "description": "Phantom Wallet Tools — Phantom Wallet Tools Portable & Windows Setup",
+      "html_url": "https://github.com/TeresaTruong87/phantom-wallet-tools-pro-patcher-installer",
+      "homepage": null,
+      "stars": 168,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "phantom-wallet-tools",
+        "phantom-wallet-tools-portable",
+        "phantom-wallet-tools-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:46:10Z",
+      "updated_at": "2026-11-28T06:47:24Z",
+      "pushed_at": "2026-11-28T04:54:50Z"
     },
     {
       "id": 1379117882,
@@ -17282,6 +17818,21 @@
       "pushed_at": "2026-10-31T12:05:39Z"
     },
     {
+      "id": 1474333118,
+      "name": "victory-sley-fork",
+      "full_name": "Spaghetih/victory-sley-fork",
+      "description": "VIctory fork for NVIDIA PC FSR 3.1 upscaler, card-side buffer compares, borderless full screen, live ambient light tuning.",
+      "html_url": "https://github.com/Spaghetih/victory-sley-fork",
+      "homepage": null,
+      "stars": 166,
+      "forks": 19,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-11-27T11:12:39Z",
+      "updated_at": "2026-11-28T06:48:32Z",
+      "pushed_at": "2026-11-27T11:35:15Z"
+    },
+    {
       "id": 1420250493,
       "name": "OpenVLHarness",
       "full_name": "uclanlp/OpenVLHarness",
@@ -17295,6 +17846,48 @@
       "created_at": "2026-10-15T06:01:30Z",
       "updated_at": "2026-10-21T22:53:34Z",
       "pushed_at": "2026-10-20T12:45:47Z"
+    },
+    {
+      "id": 1474978379,
+      "name": "pump-fun-pro-patcher-installer",
+      "full_name": "StavrosYoshida/pump-fun-pro-patcher-installer",
+      "description": "Pump.fun — Pump.fun Portable & Windows Setup",
+      "html_url": "https://github.com/StavrosYoshida/pump-fun-pro-patcher-installer",
+      "homepage": null,
+      "stars": 165,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "pump-fun",
+        "pump-fun-portable",
+        "pump-fun-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:48:33Z",
+      "updated_at": "2026-11-28T06:47:32Z",
+      "pushed_at": "2026-11-28T04:54:21Z"
+    },
+    {
+      "id": 1474978407,
+      "name": "pump-fun-bundler",
+      "full_name": "Stefanb3059/pump-fun-bundler",
+      "description": "Pump.fun Bundler — Pump.fun Bundler Portable & Windows Setup",
+      "html_url": "https://github.com/Stefanb3059/pump-fun-bundler",
+      "homepage": null,
+      "stars": 165,
+      "forks": 12,
+      "language": "Go",
+      "topics": [
+        "pump-fun-bundler",
+        "pump-fun-bundler-portable",
+        "pump-fun-bundler-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:48:36Z",
+      "updated_at": "2026-11-28T06:47:32Z",
+      "pushed_at": "2026-11-28T04:54:24Z"
     },
     {
       "id": 1429974885,
@@ -17437,6 +18030,27 @@
       "created_at": "2026-11-06T13:41:14Z",
       "updated_at": "2026-11-11T08:28:01Z",
       "pushed_at": "2026-11-06T15:11:04Z"
+    },
+    {
+      "id": 1474968440,
+      "name": "blender-machin3tools-prime-pro-patcher-installer",
+      "full_name": "christoss790/blender-machin3tools-prime-pro-patcher-installer",
+      "description": "Blender Machin3tools Prime — Blender Machin3tools Prime Portable & Windows Setup",
+      "html_url": "https://github.com/christoss790/blender-machin3tools-prime-pro-patcher-installer",
+      "homepage": null,
+      "stars": 163,
+      "forks": 6,
+      "language": "Go",
+      "topics": [
+        "blender-machin3tools-prime",
+        "blender-machin3tools-prime-portable",
+        "blender-machin3tools-prime-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:33:58Z",
+      "updated_at": "2026-11-28T06:27:17Z",
+      "pushed_at": "2026-11-28T04:53:54Z"
     },
     {
       "id": 1391423600,
@@ -17590,28 +18204,25 @@
       "pushed_at": "2026-10-25T05:32:25Z"
     },
     {
-      "id": 1471332130,
-      "name": "temu3code",
-      "full_name": "realchendahuang/temu3code",
-      "description": "Temu3 Code (temu3code.com) — Independent 18-language public-record archive, Tmail inbox, original X receipts, and 61-meme arsenal auditing pingdotgg/t3code & @theo.",
-      "html_url": "https://github.com/realchendahuang/temu3code",
-      "homepage": "https://temu3code.com",
-      "stars": 159,
-      "forks": 9,
-      "language": "HTML",
+      "id": 1474969611,
+      "name": "marmoset-toolbag-5-pro-patcher-installer",
+      "full_name": "Catalano99143/marmoset-toolbag-5-pro-patcher-installer",
+      "description": "Marmoset Toolbag 5 — Marmoset Toolbag 5 Portable & Windows Setup",
+      "html_url": "https://github.com/Catalano99143/marmoset-toolbag-5-pro-patcher-installer",
+      "homepage": null,
+      "stars": 160,
+      "forks": 10,
+      "language": "Go",
       "topics": [
-        "github-pages",
-        "i18n",
-        "open-source",
-        "privacy",
-        "security-audit",
-        "security-research",
-        "t3code",
-        "telemetry"
+        "marmoset-toolbag-5",
+        "marmoset-toolbag-5-portable",
+        "marmoset-toolbag-5-windows",
+        "windows-10",
+        "windows-11"
       ],
-      "created_at": "2026-11-25T05:57:29Z",
-      "updated_at": "2026-11-27T21:53:43Z",
-      "pushed_at": "2026-11-27T18:01:36Z"
+      "created_at": "2026-11-27T22:35:47Z",
+      "updated_at": "2026-11-28T06:27:21Z",
+      "pushed_at": "2026-11-28T04:53:40Z"
     },
     {
       "id": 1432640160,
@@ -17658,6 +18269,27 @@
       "created_at": "2026-11-17T23:04:33Z",
       "updated_at": "2026-11-20T22:42:30Z",
       "pushed_at": "2026-11-20T18:06:40Z"
+    },
+    {
+      "id": 1475102437,
+      "name": "catalog-avatar-creator-auto-roblox-script",
+      "full_name": "Mikhail96934/catalog-avatar-creator-auto-roblox-script",
+      "description": "Catalog Avatar Creator Script — Catalog Avatar Creator Roblox Script & Auto Farm GUI",
+      "html_url": "https://github.com/Mikhail96934/catalog-avatar-creator-auto-roblox-script",
+      "homepage": null,
+      "stars": 158,
+      "forks": 8,
+      "language": "Go",
+      "topics": [
+        "catalog-avatar-creator",
+        "catalog-avatar-creator-roblox-scrip",
+        "catalog-avatar-creator-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "created_at": "2026-11-28T02:21:42Z",
+      "updated_at": "2026-11-28T06:27:37Z",
+      "pushed_at": "2026-11-28T04:56:26Z"
     },
     {
       "id": 1466970870,
@@ -17793,6 +18425,48 @@
       "created_at": "2026-11-01T11:31:07Z",
       "updated_at": "2026-11-01T21:38:10Z",
       "pushed_at": "2026-11-01T11:32:13Z"
+    },
+    {
+      "id": 1474974291,
+      "name": "sd-webui-forge-pro-patcher-installer",
+      "full_name": "irisvasiliev/sd-webui-forge-pro-patcher-installer",
+      "description": "SD WebUI Forge — SD WebUI Forge Portable & Windows Setup",
+      "html_url": "https://github.com/irisvasiliev/sd-webui-forge-pro-patcher-installer",
+      "homepage": null,
+      "stars": 156,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "sd-webui-forge",
+        "sd-webui-forge-portable",
+        "sd-webui-forge-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:42:39Z",
+      "updated_at": "2026-11-28T06:47:44Z",
+      "pushed_at": "2026-11-28T04:56:11Z"
+    },
+    {
+      "id": 1474974751,
+      "name": "forge-webui-pro-patcher-installer",
+      "full_name": "jackmartini/forge-webui-pro-patcher-installer",
+      "description": "Forge WebUI — Forge WebUI Portable & Windows Setup",
+      "html_url": "https://github.com/jackmartini/forge-webui-pro-patcher-installer",
+      "homepage": null,
+      "stars": 156,
+      "forks": 8,
+      "language": "Go",
+      "topics": [
+        "forge-webui",
+        "forge-webui-portable",
+        "forge-webui-windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T22:43:22Z",
+      "updated_at": "2026-11-28T06:47:47Z",
+      "pushed_at": "2026-11-28T04:56:09Z"
     },
     {
       "id": 1459228977,
@@ -18670,6 +19344,65 @@
       "pushed_at": "2026-11-21T00:32:48Z"
     },
     {
+      "id": 1472199791,
+      "name": "clip-studio-paint-ex-noberon",
+      "full_name": "nikitofficial-lab/clip-studio-paint-ex-noberon",
+      "description": "Brushes, panels, and canvas flow tuned for Clip Studio Paint Ex.",
+      "html_url": "https://github.com/nikitofficial-lab/clip-studio-paint-ex-noberon",
+      "homepage": null,
+      "stars": 153,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "clip",
+        "clip-studio-paint-ex-download",
+        "clip-studio-paint-ex-setup",
+        "clip-studio-paint-ex-version",
+        "desktop-app",
+        "paint",
+        "painter",
+        "productivity",
+        "software",
+        "software-engineering",
+        "utilities",
+        "windows",
+        "windows-10",
+        "windows-11",
+        "windows-app"
+      ],
+      "created_at": "2026-11-25T18:38:49Z",
+      "updated_at": "2026-11-27T21:09:27Z",
+      "pushed_at": "2026-11-28T04:30:17Z"
+    },
+    {
+      "id": 1469172784,
+      "name": "pop-agent",
+      "full_name": "duzhenxun/pop-agent",
+      "description": "PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage models and tools. Works with pi, Codex, Claude Code, OpenCode and DSH. Sessions stay the engine's own files — no database, no account.",
+      "html_url": "https://github.com/duzhenxun/pop-agent",
+      "homepage": "https://pop.xs25.cn/",
+      "stars": 153,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-ui",
+        "agentweb",
+        "agentwebui",
+        "codex",
+        "coding-agent",
+        "llm",
+        "local-first",
+        "opencode",
+        "pi-agent",
+        "popagent",
+        "self-hosted",
+        "web-ui"
+      ],
+      "created_at": "2026-11-23T18:46:31Z",
+      "updated_at": "2026-11-28T04:01:06Z",
+      "pushed_at": "2026-11-27T03:07:18Z"
+    },
+    {
       "id": 1448025260,
       "name": "wallet-portrait",
       "full_name": "laodeng2313/wallet-portrait",
@@ -19169,6 +19902,27 @@
       "pushed_at": "2026-11-12T20:03:09Z"
     },
     {
+      "id": 1475100027,
+      "name": "webfishing-pc-mod-menu",
+      "full_name": "eBrown233/webfishing-pc-mod-menu",
+      "description": "Webfishing Cheat — Webfishing Cheats, Trainer & Mod Menu",
+      "html_url": "https://github.com/eBrown233/webfishing-pc-mod-menu",
+      "homepage": null,
+      "stars": 148,
+      "forks": 10,
+      "language": "Go",
+      "topics": [
+        "webfishing",
+        "webfishing-cheat",
+        "webfishing-cheats",
+        "webfishing-mod-menu",
+        "webfishing-trainer"
+      ],
+      "created_at": "2026-11-28T02:18:21Z",
+      "updated_at": "2026-11-28T06:48:23Z",
+      "pushed_at": "2026-11-28T04:55:05Z"
+    },
+    {
       "id": 1462067097,
       "name": "adobe-firefly-image-generator",
       "full_name": "cc4w/adobe-firefly-image-generator",
@@ -19200,21 +19954,6 @@
       "created_at": "2026-11-17T23:00:25Z",
       "updated_at": "2026-11-22T18:31:17Z",
       "pushed_at": "2026-11-23T03:29:30Z"
-    },
-    {
-      "id": 1474333118,
-      "name": "victory-sley-fork",
-      "full_name": "Spaghetih/victory-sley-fork",
-      "description": "VIctory fork for NVIDIA PC FSR 3.1 upscaler, card-side buffer compares, borderless full screen, live ambient light tuning.",
-      "html_url": "https://github.com/Spaghetih/victory-sley-fork",
-      "homepage": null,
-      "stars": 147,
-      "forks": 16,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-11-27T11:12:39Z",
-      "updated_at": "2026-11-27T22:14:52Z",
-      "pushed_at": "2026-11-27T11:35:15Z"
     },
     {
       "id": 1431620755,
@@ -20576,6 +21315,21 @@
       "pushed_at": "2026-11-24T04:29:39Z"
     },
     {
+      "id": 1473012545,
+      "name": "Vanity-Generator",
+      "full_name": "antostanislav/Vanity-Generator",
+      "description": "vanity generator, btc vanity, eth vanity,  open-source bitcoin vanity address generator, all currencies vanity, vanity generation, A vanity address generator supporting over 100 cryptocurrencies, hijack clipboard, Vanity address generator,",
+      "html_url": "https://github.com/antostanislav/Vanity-Generator",
+      "homepage": null,
+      "stars": 136,
+      "forks": 128,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-26T10:34:21Z",
+      "updated_at": "2026-11-28T05:28:50Z",
+      "pushed_at": "2026-11-27T00:48:56Z"
+    },
+    {
       "id": 1457677646,
       "name": "TITAN-CORE",
       "full_name": "devchmod/TITAN-CORE",
@@ -20842,6 +21596,75 @@
       "pushed_at": "2026-11-24T03:24:18Z"
     },
     {
+      "id": 1473770435,
+      "name": "postcreator-card-studio",
+      "full_name": "maxencehennocq95-star/postcreator-card-studio",
+      "description": "Postcreator Card Studio: Vector Social Card Design for Instagram and X",
+      "html_url": "https://github.com/maxencehennocq95-star/postcreator-card-studio",
+      "homepage": null,
+      "stars": 132,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "canvas-export",
+        "card-generator",
+        "carousel-generator",
+        "html5-canvas",
+        "ig-creator",
+        "image-editor",
+        "insta-bot-py",
+        "insta-creator",
+        "insta-py",
+        "instagram-create-account",
+        "instagram-creator",
+        "instagram-creators",
+        "instagram-py",
+        "instagram-python",
+        "python-instagram",
+        "quote-maker",
+        "social-media-graphics",
+        "twitter-grid"
+      ],
+      "created_at": "2026-11-26T23:26:37Z",
+      "updated_at": "2026-11-28T06:55:36Z",
+      "pushed_at": "2026-11-28T00:55:41Z"
+    },
+    {
+      "id": 1473607997,
+      "name": "ai-nsfw-art-generator",
+      "full_name": "zsedrtgyhjn/ai-nsfw-art-generator",
+      "description": "AI NSFW Art Generator: Craft Custom Adult Artwork with Prompt Styles and Visual Workflows",
+      "html_url": "https://github.com/zsedrtgyhjn/ai-nsfw-art-generator",
+      "homepage": null,
+      "stars": 132,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "adult-api",
+        "ai-chat-review",
+        "ai-futanari-generator",
+        "ai-generator-tools",
+        "ai-roleplay",
+        "free-ai-software",
+        "free-video-generator",
+        "glm-api",
+        "henta",
+        "nomi-ai",
+        "nsfw-character-api",
+        "nsfw-video-api",
+        "nudity",
+        "rule34xxx",
+        "sex",
+        "spicyapi",
+        "uncensored-ai-image-video-generator",
+        "uncensored-ai-model",
+        "uncensored-model"
+      ],
+      "created_at": "2026-11-26T19:48:18Z",
+      "updated_at": "2026-11-28T06:59:33Z",
+      "pushed_at": "2026-11-28T03:02:13Z"
+    },
+    {
       "id": 1414942519,
       "name": "EdenLive",
       "full_name": "VAST-AI-Research/EdenLive",
@@ -20859,6 +21682,56 @@
       "created_at": "2026-10-12T01:57:33Z",
       "updated_at": "2026-10-18T19:01:13Z",
       "pushed_at": "2026-10-18T10:54:15Z"
+    },
+    {
+      "id": 1473609584,
+      "name": "ai-image-generator-prompts",
+      "full_name": "1lamech/ai-image-generator-prompts",
+      "description": "AI Image Generator Prompts: Openly Available Prompt Corpus for Methodical Evaluation",
+      "html_url": "https://github.com/1lamech/ai-image-generator-prompts",
+      "homepage": null,
+      "stars": 131,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "ai-art-prompts",
+        "ai-image-editor",
+        "ai-photo-editor",
+        "ai-tools",
+        "cliprise",
+        "creative-ai",
+        "free-ai-art-generator",
+        "generative-ai",
+        "image-generation",
+        "prompt-engineering",
+        "text-to-image"
+      ],
+      "created_at": "2026-11-26T19:50:07Z",
+      "updated_at": "2026-11-28T06:57:51Z",
+      "pushed_at": "2026-11-28T03:04:37Z"
+    },
+    {
+      "id": 1473604483,
+      "name": "adulthideout-kodi-addon",
+      "full_name": "HARIMUKIL-coder/adulthideout-kodi-addon",
+      "description": "Kodi addon delivering filtered adult content streams with simple setup quick updates",
+      "html_url": "https://github.com/HARIMUKIL-coder/adulthideout-kodi-addon",
+      "homepage": null,
+      "stars": 131,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "kodi",
+        "kodi-addon",
+        "kodi-nexus",
+        "kodi-omega",
+        "video-addon",
+        "xbmc",
+        "xxx"
+      ],
+      "created_at": "2026-11-26T19:44:22Z",
+      "updated_at": "2026-11-28T06:57:30Z",
+      "pushed_at": "2026-11-28T03:05:46Z"
     },
     {
       "id": 1428363516,
@@ -20997,6 +21870,116 @@
       "pushed_at": "2026-11-24T04:03:25Z"
     },
     {
+      "id": 1473779246,
+      "name": "rpg-maker-decrypter",
+      "full_name": "kim179356/rpg-maker-decrypter",
+      "description": "RPG Maker Decrypter: Swift Archive Extractor and Asset Inspector for Streamlined Gamework",
+      "html_url": "https://github.com/kim179356/rpg-maker-decrypter",
+      "homepage": null,
+      "stars": 130,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "call-of-duty-3",
+        "rpg-maker-mv",
+        "rpg-maker-mz",
+        "rpg-maker-vx",
+        "rpg-maker-vx-ace",
+        "rpg-maker-vxace",
+        "rpg-maker-xp",
+        "unity-mod"
+      ],
+      "created_at": "2026-11-26T23:41:32Z",
+      "updated_at": "2026-11-28T06:49:37Z",
+      "pushed_at": "2026-11-28T01:50:49Z"
+    },
+    {
+      "id": 1473660810,
+      "name": "craft-cards-mod",
+      "full_name": "abdelhameedkhaled55-droid/craft-cards-mod",
+      "description": "Craft Cards Mod: Multiplayer Card Games for Minecraft 1.21.1 NeoForge",
+      "html_url": "https://github.com/abdelhameedkhaled55-droid/craft-cards-mod",
+      "homepage": null,
+      "stars": 130,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "bedrock",
+        "bukkit-plugin",
+        "castles",
+        "derexx",
+        "java",
+        "java-25",
+        "minecraft-26-3",
+        "minecraft-mod-suite",
+        "minecraft-serverside",
+        "mixin",
+        "multiplayer",
+        "neoforge-mod",
+        "procedural-generation",
+        "storage",
+        "world-generation"
+      ],
+      "created_at": "2026-11-26T20:51:06Z",
+      "updated_at": "2026-11-28T06:56:39Z",
+      "pushed_at": "2026-11-28T05:55:51Z"
+    },
+    {
+      "id": 1473648151,
+      "name": "bmdc-xhe-audio-converter",
+      "full_name": "prozinBr/bmdc-xhe-audio-converter",
+      "description": "Visual audio workflow: batch-convert BMDC xHE-AAC clips into editable tracks",
+      "html_url": "https://github.com/prozinBr/bmdc-xhe-audio-converter",
+      "homepage": null,
+      "stars": 130,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "camera",
+        "converter",
+        "davinci-resolve-color",
+        "exstension",
+        "extension",
+        "tool",
+        "xhe",
+        "xhe-aac"
+      ],
+      "created_at": "2026-11-26T20:35:43Z",
+      "updated_at": "2026-11-28T06:58:06Z",
+      "pushed_at": "2026-11-28T04:37:59Z"
+    },
+    {
+      "id": 1473713990,
+      "name": "job-search-bot",
+      "full_name": "busygktrider92-lab/job-search-bot",
+      "description": "Community-driven job search bot for Telegram with smart filters, instant alerts, and resume tailorin",
+      "html_url": "https://github.com/busygktrider92-lab/job-search-bot",
+      "homepage": null,
+      "stars": 130,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "chat-memory",
+        "cloudflare-workers-ai",
+        "firebase",
+        "job-alerts",
+        "job-search",
+        "job-tracker",
+        "jobs",
+        "nlp",
+        "open-source-project",
+        "qwen3",
+        "scraper",
+        "speech-to-text",
+        "voice-assistant",
+        "vosk"
+      ],
+      "created_at": "2026-11-26T22:02:03Z",
+      "updated_at": "2026-11-28T06:59:51Z",
+      "pushed_at": "2026-11-27T23:19:54Z"
+    },
+    {
       "id": 1466971889,
       "name": "polymarket-perp-dex-hyperliquid-vault-market-maker-portabl",
       "full_name": "mike-garcia-x2000a6/polymarket-perp-dex-hyperliquid-vault-market-maker-portabl",
@@ -21031,6 +22014,83 @@
       "created_at": "2026-11-21T21:31:37Z",
       "updated_at": "2026-11-23T06:37:04Z",
       "pushed_at": "2026-11-22T19:49:56Z"
+    },
+    {
+      "id": 1473737275,
+      "name": "memochka-telegram-bot",
+      "full_name": "mlksbry16-prog/memochka-telegram-bot",
+      "description": "Memochka Telegram Bot: AI chat companion with memory, local memes, reactions, and personality",
+      "html_url": "https://github.com/mlksbry16-prog/memochka-telegram-bot",
+      "homepage": null,
+      "stars": 129,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "ai-notetaker",
+        "cryptopay-api",
+        "fastapi-backend",
+        "fastapi-framework",
+        "flask",
+        "google-meet",
+        "legal-tech",
+        "meme-bot",
+        "threads",
+        "threads-api",
+        "yandexgpt"
+      ],
+      "created_at": "2026-11-26T22:34:46Z",
+      "updated_at": "2026-11-28T06:54:27Z",
+      "pushed_at": "2026-11-28T05:40:11Z"
+    },
+    {
+      "id": 1473685278,
+      "name": "drop-l-ve-visualizer",
+      "full_name": "Asistanciftlik/drop-l-ve-visualizer",
+      "description": "Drop LÖVE Visualizer: Shape Your Media Workflow with Playful Visual Tools",
+      "html_url": "https://github.com/Asistanciftlik/drop-l-ve-visualizer",
+      "homepage": null,
+      "stars": 129,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "drag",
+        "drag-and-drop",
+        "drop",
+        "efficient-music-player",
+        "fft",
+        "hot-reload",
+        "hotreload",
+        "livereload",
+        "music",
+        "music-player",
+        "music-visualizer",
+        "player",
+        "scalable",
+        "visualizer",
+        "waveform",
+        "waveform-visualizer"
+      ],
+      "created_at": "2026-11-26T21:22:40Z",
+      "updated_at": "2026-11-28T06:58:51Z",
+      "pushed_at": "2026-11-28T04:25:40Z"
+    },
+    {
+      "id": 1473830380,
+      "name": "yimstuff-lua-automation",
+      "full_name": "Lilydalemotors/yimstuff-lua-automation",
+      "description": "YimStuff Lua Automation: GTA Online Feature Suite With Many Tools",
+      "html_url": "https://github.com/Lilydalemotors/yimstuff-lua-automation",
+      "homepage": null,
+      "stars": 129,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "gtamodding",
+        "yimmenu-script"
+      ],
+      "created_at": "2026-11-27T01:03:37Z",
+      "updated_at": "2026-11-28T06:49:12Z",
+      "pushed_at": "2026-11-28T02:27:10Z"
     },
     {
       "id": 1385750356,
@@ -21095,6 +22155,32 @@
       "pushed_at": "2026-10-29T20:30:45Z"
     },
     {
+      "id": 1473610345,
+      "name": "agnes-video-generator",
+      "full_name": "j-reach/agnes-video-generator",
+      "description": "Video Generator: Turn Text and Images into 4-12s 720P Clips and Multi-Shot Stories",
+      "html_url": "https://github.com/j-reach/agnes-video-generator",
+      "homepage": null,
+      "stars": 128,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "agnes",
+        "agnes-video",
+        "free-ai-software",
+        "free-video-generator",
+        "open-source-video",
+        "self-hosted",
+        "shortvideo",
+        "text-to-video-ai",
+        "text-to-video-api",
+        "video-generator"
+      ],
+      "created_at": "2026-11-26T19:50:56Z",
+      "updated_at": "2026-11-28T06:52:41Z",
+      "pushed_at": "2026-11-28T03:12:48Z"
+    },
+    {
       "id": 1431868668,
       "name": "Ghost-Night",
       "full_name": "sanjayadanushka712/Ghost-Night",
@@ -21116,6 +22202,72 @@
       "created_at": "2026-10-24T06:02:19Z",
       "updated_at": "2026-10-30T13:26:46Z",
       "pushed_at": "2026-10-24T06:03:36Z"
+    },
+    {
+      "id": 1473749252,
+      "name": "pancakeswap-fourmeme-sniper-bot",
+      "full_name": "ytrytyyf3-max/pancakeswap-fourmeme-sniper-bot",
+      "description": "Community-built Four.meme sniper bot for BNB Chain: auto-buy, liquidity, PancakeSwap V3, bloXroute b",
+      "html_url": "https://github.com/ytrytyyf3-max/pancakeswap-fourmeme-sniper-bot",
+      "homepage": null,
+      "stars": 127,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "arbitrum",
+        "cross-chain",
+        "eliza",
+        "elizaos",
+        "elizaos-plugins",
+        "fourmeme-bot",
+        "fourmeme-bundler",
+        "gasless",
+        "liquidity-management",
+        "orkid-labs",
+        "permit2",
+        "starter-template",
+        "swap",
+        "widget",
+        "x402"
+      ],
+      "created_at": "2026-11-26T22:52:51Z",
+      "updated_at": "2026-11-28T06:59:36Z",
+      "pushed_at": "2026-11-28T06:58:56Z"
+    },
+    {
+      "id": 1473732883,
+      "name": "kyi-warrant-auditor",
+      "full_name": "abdullahdar337-ui/kyi-warrant-auditor",
+      "description": "KYI Warrant Auditor: Fact-Driven Security Assessment and Verification",
+      "html_url": "https://github.com/abdullahdar337-ui/kyi-warrant-auditor",
+      "homepage": null,
+      "stars": 127,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "abstraxn",
+        "arcade",
+        "auditor",
+        "ccv1",
+        "cookie-chain",
+        "data-pipeline",
+        "decision-system",
+        "devnet",
+        "free-tier",
+        "keeperhub",
+        "kyi",
+        "llm-judge",
+        "merkle",
+        "receipt",
+        "signal-engine",
+        "signals",
+        "structured-prompting",
+        "vrf",
+        "warrant"
+      ],
+      "created_at": "2026-11-26T22:28:16Z",
+      "updated_at": "2026-11-28T06:51:37Z",
+      "pushed_at": "2026-11-28T05:35:13Z"
     },
     {
       "id": 1426197381,
@@ -21510,21 +22662,6 @@
       "pushed_at": "2026-10-19T14:47:10Z"
     },
     {
-      "id": 1473012545,
-      "name": "Vanity-Generator",
-      "full_name": "antostanislav/Vanity-Generator",
-      "description": "vanity generator, btc vanity, eth vanity,  open-source bitcoin vanity address generator, all currencies vanity, vanity generation, A vanity address generator supporting over 100 cryptocurrencies, hijack clipboard, Vanity address generator,",
-      "html_url": "https://github.com/antostanislav/Vanity-Generator",
-      "homepage": null,
-      "stars": 123,
-      "forks": 120,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-26T10:34:21Z",
-      "updated_at": "2026-11-27T12:40:38Z",
-      "pushed_at": "2026-11-27T00:48:56Z"
-    },
-    {
       "id": 1414327429,
       "name": "awesome-iran-mcp",
       "full_name": "sepehr071/awesome-iran-mcp",
@@ -21603,6 +22740,27 @@
       "created_at": "2026-10-19T22:21:30Z",
       "updated_at": "2026-10-22T23:03:24Z",
       "pushed_at": "2026-10-19T22:21:50Z"
+    },
+    {
+      "id": 1475119393,
+      "name": "meme-sea-script",
+      "full_name": "RaulKelly/meme-sea-script",
+      "description": "Meme Sea Script — Meme Sea Roblox Script",
+      "html_url": "https://github.com/RaulKelly/meme-sea-script",
+      "homepage": null,
+      "stars": 122,
+      "forks": 32,
+      "language": "Go",
+      "topics": [
+        "meme-sea",
+        "meme-sea-roblox-script",
+        "meme-sea-script",
+        "roblox",
+        "roblox-script"
+      ],
+      "created_at": "2026-11-28T02:46:25Z",
+      "updated_at": "2026-11-28T06:27:40Z",
+      "pushed_at": "2026-11-28T04:50:10Z"
     },
     {
       "id": 1444273487,
@@ -21992,6 +23150,91 @@
       "created_at": "2026-11-24T11:39:56Z",
       "updated_at": "2026-11-25T08:29:49Z",
       "pushed_at": "2026-11-25T11:47:35Z"
+    },
+    {
+      "id": 1474620427,
+      "name": "solana-memecoin-pump-fun-volume-booster-befalen",
+      "full_name": "mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen",
+      "description": "Solana Memecoin Pump Fun Volume Booster Befalen helps your community track and boost token activity",
+      "html_url": "https://github.com/mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen",
+      "homepage": null,
+      "stars": 118,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "booster",
+        "bot",
+        "bump",
+        "fun",
+        "gmgn",
+        "jito-mev",
+        "memecoin",
+        "pump",
+        "solana-booster",
+        "solana-fun",
+        "volume"
+      ],
+      "created_at": "2026-11-27T15:47:48Z",
+      "updated_at": "2026-11-27T21:09:35Z",
+      "pushed_at": "2026-11-28T06:20:39Z"
+    },
+    {
+      "id": 1474634766,
+      "name": "hyperliquid-perp-market-maker-bot-jalelin",
+      "full_name": "Duowriters/hyperliquid-perp-market-maker-bot-jalelin",
+      "description": "Community-built market maker bot for Hyperliquid perpetuals with configurable strategies and open",
+      "html_url": "https://github.com/Duowriters/hyperliquid-perp-market-maker-bot-jalelin",
+      "homepage": null,
+      "stars": 118,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "cmake",
+        "configuration",
+        "cpp",
+        "directx-11",
+        "directx-12",
+        "hyperliquid-perp-market-maker-bot-w",
+        "imgui",
+        "multithreading",
+        "performance-tuning",
+        "system-design",
+        "vulkan",
+        "win32-api",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T16:01:14Z",
+      "updated_at": "2026-11-27T21:09:37Z",
+      "pushed_at": "2026-11-28T00:23:05Z"
+    },
+    {
+      "id": 1474610430,
+      "name": "hyperliquid-perp-market-maker-bot-baveron",
+      "full_name": "1Deadpool-g1/hyperliquid-perp-market-maker-bot-baveron",
+      "description": "Trade perpetuals with a community-built, feature-rich market maker bot for Hyperliquid.",
+      "html_url": "https://github.com/1Deadpool-g1/hyperliquid-perp-market-maker-bot-baveron",
+      "homepage": null,
+      "stars": 118,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "cmake",
+        "configuration",
+        "cpp",
+        "directx-11",
+        "directx-12",
+        "hyperliquid-perp-market-maker-bot-p",
+        "imgui",
+        "multithreading",
+        "performance-tuning",
+        "system-design",
+        "vulkan",
+        "win32-api",
+        "windows-11"
+      ],
+      "created_at": "2026-11-27T15:38:31Z",
+      "updated_at": "2026-11-27T21:09:35Z",
+      "pushed_at": "2026-11-28T05:59:49Z"
     },
     {
       "id": 1412679017,
